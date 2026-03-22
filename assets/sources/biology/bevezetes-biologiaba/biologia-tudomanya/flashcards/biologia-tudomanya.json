@@ -1,0 +1,284 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi a biológia?",
+      "definition": "A biológia a természettudományok egyik ága, amely az élő rendszerek, szervezetek felépítését, működéseit, evolúciós fejlődését és osztályozását vizsgálja.",
+      "quote": "Az élő természet tudomány",
+      "text": "A biológia (bios = élő, logos = tudomány) az élővilág szerkezetét, funkcióit, fejlődését és kölcsönhatásait tanulmányozza."
+    },
+    {
+      "id": 2,
+      "term": "Mi a tudományos megismerés?",
+      "definition": "A tudományos megismerés céltudatos, tervszerű, pontos és logikus tevékenység, amely ok-okozati összefüggéseket keres, és eredményei ellenőrizhetők.",
+      "quote": "Logikus, ellenőrizhető, pontos",
+      "text": "A hétköznapi megismeréssel ellentétben a tudományos gondolkodás tudatos kutatási folyamat, amely feltárja az ellentmondásokat és igazolható eredményre vezet."
+    },
+    {
+      "id": 3,
+      "term": "Mi a hipotézis a tudományos kutatásban?",
+      "definition": "A hipotézis egy igazolásra váró elképzelés, a feltett kérdésre adott válasz, amely megfelel a tapasztalatnak és magyarázza a megfigyelt tényeket.",
+      "quote": "Igazolásra váró elképzelés",
+      "text": "A hipotézis még bizonyítás nélküli feltevés, amely a kutatás alapjául szolgál. Az elméleti tudásra és megfigyelésekre épül, majd kísérleteken keresztül tesztelendő."
+    },
+    {
+      "id": 4,
+      "term": "Milyen a jó kísérlet?",
+      "definition": "A jó kísérlet megismételható, azonos körülmények között azonos eredményt ad, és a kutató szabályozza a feltételeket valamint meghatározza a kísérleti változókat.",
+      "quote": "Megismételható, azonos eredmény",
+      "text": "A kísérleteknél meg kell határozni a független, függő és rögzített változókat. A kontrollvizsgálat biztosítja az eredmények érvényességét."
+    },
+    {
+      "id": 5,
+      "term": "Mi a független változó?",
+      "definition": "A független változó az a tényező, amelynek hatását vizsgáljuk, és az x tengelyen ábrázoljuk a grafikonon.",
+      "quote": "Amit mi változtatunk meg",
+      "text": "A független változó a kutató által szándékosan megváltoztatott feltétel, amelynek hatása a függő változóra az alapvetően vizsgálandó kapcsolat."
+    },
+    {
+      "id": 6,
+      "term": "Mi a függő változó?",
+      "definition": "A függő változó az a tényező, amelyet a független változó módosít, és dessen változását mérjük az y tengelyen ábrázolva.",
+      "quote": "Amit mérünk, ami változik",
+      "text": "A függő változó az a measurable response amely az független változó hatására bekövetkezik. Ez az a jelenség, melyet a kutatás során vizsgálunk."
+    },
+    {
+      "id": 7,
+      "term": "Mit jelent a rögzített változó?",
+      "definition": "A rögzített változók olyan körülmények, melyek befolyásolhatnák a kísérlet eredményeit, de álllandó értéken tartjuk azokat.",
+      "quote": "Állandó körülmények megtartása",
+      "text": "A kontrollvizsgálat sikere attól függ, hogy a rögzített változókat szigorúan azonos szinten tartjuk, hogy az egyetlen különbség a független változó legyen."
+    },
+    {
+      "id": 8,
+      "term": "Milyen módszereket használ a biológiai kutatás?",
+      "definition": "A megfigyelés, leírás, összehasonlítás, kísérletezés és modellalkotás a biológia fő kutatási módszerei, amelyeket a kutatás tárgya szerint választanak ki.",
+      "quote": "Megfigyelés, kísérlet, modell",
+      "text": "Megfigyelés a beavatkozás nélkül vizsgálja a jelenségeket. A kísérlet szabályozott feltételek között játszódik le. A modellalkotás a valóság egyszerűsített leképezése."
+    },
+    {
+      "id": 9,
+      "term": "Mi a modellalkotás?",
+      "definition": "A modellalkotás során a modell segítségével a vizsgált valóságos rendszer lényegi tulajdonságait ismerjük meg. A modell a valóság egyszerűsített leképezése.",
+      "quote": "Valóság egyszerűsített képe",
+      "text": "A modellek lehetnek anatómiai (pl. Donders-féle tüdőmodell) vagy számítógépes. A rendszerbiológia modern szimulációkat használ a sejtek viselkedésének megértésére."
+    },
+    {
+      "id": 10,
+      "term": "Mi a rendszerbiológia?",
+      "definition": "A rendszerbiológia a biológiai rendszerek (pl. sejtek) viselkedését az alkotórészek működése alapján értelmezi számítógépes modellek segítségével.",
+      "quote": "Sejtek számítógépen",
+      "text": "A rendszerbiológia a gének közötti kapcsolatokat, azok hatásait a külső jellegekre és viselkedésekre matematikai módszerekkel tanulmányozza."
+    },
+    {
+      "id": 11,
+      "term": "Mi a rendszer?",
+      "definition": "A rendszer egymással kölcsönhatásban álló elemek környezettől elhatárolt egysége, amely meghatározott feltételek esetén egységes egészként létezik.",
+      "quote": "Kapcsolódó elemek egysége",
+      "text": "A rendszerek hierarchikusan szerveződnek, rendezettsége és szervezettsége van. Az elemek sokasága nem véletlenszerűen kapcsolódik, meghatározott viszonyt mutat."
+    },
+    {
+      "id": 12,
+      "term": "Mit jelent az emergencia?",
+      "definition": "Az emergencia a magasabb szerveződési szintek működéseit jelenti, amelyek magukba foglalják az alacsonyabbakat, de azokból nem vezethetők le csupán.",
+      "quote": "Az egész több mint részek",
+      "text": "Az emergens tulajdonságok az összetevők kölcsönhatásaiból keletkeznek, de az egyes alkatrészek külön nem jellemzik őket. Új jellegzetességek jelennek meg a magasabb szinten."
+    },
+    {
+      "id": 13,
+      "term": "Milyen típusú anyagi rendszerek vannak?",
+      "definition": "Az izolált rendszer nincs anyag- vagy energiaforgalomban. A zárt anyagi rendszer energiaforgalmat mutat, de anyagáramlás nincs. A nyílt rendszer anyag- és energiaforgalmat folytat.",
+      "quote": "Izolált, zárt, nyílt",
+      "text": "Az élő rendszerek nyílt anyagi rendszerek, amelyek az információáramlás mellett anyag- és energiaáramlást is bonyolítanak a környezettel."
+    },
+    {
+      "id": 14,
+      "term": "Sorolj fel szerveződési szinteket!",
+      "definition": "Sejten belüli, sejt, szövet, szerv, szervrendszer (egyed alatti), majd populáció, társulás, biom, bioszféra (egyed feletti) szintek léteznek.",
+      "quote": "Sejt a bioszféráig",
+      "text": "Az egyed az alapegység, amely a környezettől és egymástól jól elhatárolható. Az alacsonyabb szintek (sejt, szövet, szerv) és magasabb szintek (populáció, biom) hierarchikusan szerveződnek."
+    },
+    {
+      "id": 15,
+      "term": "Mi az egyed?",
+      "definition": "Az egyed a biológiai szerveződés egysége, amely a környezetétől és egymástól jól elhatárolható, az élővilág szerkezeti és működési alapja.",
+      "quote": "Önálló élő szervezet",
+      "text": "Az egyed lehet egy baktériumsejt vagy egy komplex szervezet. Az összes szerveződési szint az egyedet veszi alapegységként."
+    },
+    {
+      "id": 16,
+      "term": "Mi a sejt?",
+      "definition": "A sejt az élővilág legkisebb, önálló életre képes alaki és működési egysége, amely önmagában élni és szaporodni képes.",
+      "quote": "Élet legkisebb része",
+      "text": "A sejten belüli szerveződési szintektől a szövetek szintjéig minden a sejt alapján épül fel. A sejtek alkotják az összes élő szervezetet."
+    },
+    {
+      "id": 17,
+      "term": "Mi a szövet?",
+      "definition": "A szövet hasonló alakú és azonos működésű sejtek összessége, például a simaizomszövet azonos izomsejtekből áll.",
+      "quote": "Azonos sejtek egysége",
+      "text": "A különféle szövettípusok (kötőszövet, idegszövet, izomszövet, fedőszövet) specialized funkciókat látnak el a szervezetben."
+    },
+    {
+      "id": 18,
+      "term": "Mi a szerv?",
+      "definition": "A szerv különböző szövetek együttműködéséből alakul ki meghatározott funkció érdekében, például a gyomor emésztés révén működik.",
+      "quote": "Szövetek funkcionális egysége",
+      "text": "A szervek komplex struktúrák, amelyek több szövettípusból állnak és specifikus biológiai feladatokat látnak el."
+    },
+    {
+      "id": 19,
+      "term": "Mi a szervrendszer?",
+      "definition": "A szervrendszer meghatározott szervek együttműködése adott cél érdekében, például az emésztőszervrendszer az élelmiszer feldolgozásáért felelős.",
+      "quote": "Szervek szervezett csoportja",
+      "text": "Az egyes szervrendszerek koordináltan működnek az egyed életfolyamatainak fenntartásáért. Az összes szervrendszer a homeostázist biztosítja."
+    },
+    {
+      "id": 20,
+      "term": "Mi a populáció?",
+      "definition": "A populáció egy fajhoz tartozó azon egyedek összessége, amelyek tényleges szaporodási közösséget alkotnak egy helyen egy időben.",
+      "quote": "Egy faj tagjai egy helyen",
+      "text": "A populáció a genetikai változatosság és evolúció alapvető egysége. Minden populáció egyedi genetikai összetétellel rendelkezik."
+    },
+    {
+      "id": 21,
+      "term": "Mi a társulás?",
+      "definition": "A társulás vagy életközösség egy időben, egy helyen együtt élő populációk összessége, például egy erdő összes élőlénye.",
+      "quote": "Különféle fajok egy helyen",
+      "text": "A társulás a bióm részét képezi és a különféle populációk közötti kölcsönhatásokat mutatja, mint a táplálékláncok és verseny."
+    },
+    {
+      "id": 22,
+      "term": "Mi a biom?",
+      "definition": "A biom az életközösségek egész kontinensre vagy óceánokra kiterjedő zonális elrendeződése, mint a szavanna vagy a tundra.",
+      "quote": "Kontinentnyi életközösség",
+      "text": "A biomok hasonló klimatikus feltételekkel jellemezhető nagytérségű élőhelyek. Egyes biomok több kontinentre terjednek ki."
+    },
+    {
+      "id": 23,
+      "term": "Mi a bioszféra?",
+      "definition": "A bioszféra a vízburoknak, levegőburoknak és a földkéregnek azon része, ahol az élet létezik, az élet színtere a Földön.",
+      "quote": "Élet otthona a Föld",
+      "text": "A bioszféra az összes élő szervezetet, valamint az élőhelyek összes összetevőjét tartalmazza. Ez az a hely, ahol az élet közvetlenül lehetséges."
+    },
+    {
+      "id": 24,
+      "term": "Mi az anyagcsere?",
+      "definition": "Az anyagcsere során az élőlények a környezetből anyagokat és energiát vesznek fel, amiket beépítenek vagy átalakítanak, és felesleges bomlástermékeket leadnak.",
+      "quote": "Energia és anyag áramlása",
+      "text": "Az anyagcsere az élő szervezet alapvető folyamata. Kapcsolódik az energia felhasználásához és a homeosztázis fenntartásához."
+    },
+    {
+      "id": 25,
+      "term": "Mit jelent az elhatárolódás?",
+      "definition": "Az elhatárolódás az élő rendszerek és a környezete közötti határt jelenti, amely nem elszigetelődést, hanem nyílt rendszerességet jelent.",
+      "quote": "Határok nyitott szeren",
+      "text": "Az élő szervezetek viszonylagosan elhatárolódnak, de állandó anyag- és energiaforgalmat bonyolítanak le a környezetükkel."
+    },
+    {
+      "id": 26,
+      "term": "Mi a homeosztázis?",
+      "definition": "A homeosztázis a belső környezet szabályozott állandósága, amely a szervezet egységes működésének az eredménye és a szabályozás teszi lehetővé.",
+      "quote": "Belső egyensúly fenntartása",
+      "text": "A homeosztázis biztosítja, hogy az élő szervezet a változó külső körülmények között működőképes marad. A szabályozás az ingerlékenységen alapszik."
+    },
+    {
+      "id": 27,
+      "term": "Mi az ingerlékenység?",
+      "definition": "Az ingerlékenység az a képesség, hogy az élőlények a környezetükből különféle ingereket fognak fel és működésükkel reagálnak rájuk.",
+      "quote": "Inger-válasz reakció",
+      "text": "Az ingerlékenység alapja az élő szervezet dinamikus alkalmazkodásának. A szabályozás az ingerlékenységre épül."
+    },
+    {
+      "id": 28,
+      "term": "Mit jelent a szaporodás?",
+      "definition": "A szaporodás az az életjelenség, amely az élőlények csökkent számából eredeti számot visszaállíthatja és az új generáció képződését teszi lehetővé.",
+      "quote": "Új generáció létrehozása",
+      "text": "A szaporodás az evolúció és a populáció fenntartásának alapja. Szexuális és aszexuális szaporodásformák léteznek."
+    },
+    {
+      "id": 29,
+      "term": "Mit jelent az öröklődés?",
+      "definition": "Az öröklődés a szülői tulajdonságoknak az utódokba való továbbadódása, amely kódolt információ (DNS) közvetítésével történik.",
+      "quote": "Szülő tulajdonságok átadása",
+      "text": "Az öröklődés biztosítja a faj azonosságát generációról generációra. A genetikai információ pontosan másolódik és továbbítódik."
+    },
+    {
+      "id": 30,
+      "term": "Mit jelent az öröklödő változékonyság?",
+      "definition": "Az öröklödő változékonyság azt jelenti, hogy az öröklött tulajdonságok nem állandók, nemzedékről nemzedékre változhatnak, lehetővé téve az evolúciót.",
+      "quote": "Tulajdonságok változhatnak",
+      "text": "Az öröklödő változékonyság az élőlények közötti különbségek alapja. Ez az alapja az evolúciónak és a természetes szelekciónak."
+    },
+    {
+      "id": 31,
+      "term": "Mit jelent az evolúció?",
+      "definition": "Az evolúció olyan folyamat, amelynek során az élővilág többnyire fokozatosan és szüntelen fejlődik, a fajok öröklödő jellegei nemzedékről nemzedékre változnak.",
+      "quote": "Élet törzsfejlődése",
+      "text": "Az evolúció az összes élő szervezet közötti kapcsolatokat magyarázza. A közös ősből való leszármazás az összes faj közös szálait képviselni."
+    },
+    {
+      "id": 32,
+      "term": "Mik az evolúció kritériumai?",
+      "definition": "Az evolúcióra képes populációknak szaporodás, öröklödés és változékonyság képessége szükséges, valamint populáció-szintű változatosság kell hogy legyen.",
+      "quote": "Szaporodás, öröklödés, változás",
+      "text": "A természetes szelekció ezekre a kritériumokra hat, és az előnyös allélok gyakorisága nő a populációban idővel."
+    },
+    {
+      "id": 33,
+      "term": "Mit jelent a szelekció?",
+      "definition": "A szelekció az az evolúciós folyamat, amelynek során az élőlények generációinak váltakozásával az öröklödő tulajdonságok közül az előnyös jellegek gyakorisága nő.",
+      "quote": "Előnyös tulajdonságok szaporodnak",
+      "text": "A természetes szelekció a populáció genetikai összetételét megváltoztatja. Az előnyös genotípusok elterjednek, az előnytelenek kiküszöbölődnek."
+    },
+    {
+      "id": 34,
+      "term": "Mit jelent a gyakoriság és valószínűség?",
+      "definition": "A relatív gyakoriság az adott érték gyakorisági számának az összes elem számához való hányadosa (hasznos/összes), a valószínűség pedig elméleti számérték.",
+      "quote": "Mérés és statisztika",
+      "text": "A gyakoriság tapasztalati adat, míg a valószínűség elméleti érték. A relatív gyakoriság 0 és 1 közötti érték, összegük 100%."
+    },
+    {
+      "id": 35,
+      "term": "Mi a mérés?",
+      "definition": "A mérés során egy adott mennyiség értékét határozzuk meg úgy, hogy a mért értéket a mértékegységhez viszonyítjuk. Tervszerűen végrehajtott, mérőeszköz szükséges hozzá.",
+      "quote": "Mennyiség és egység viszonya",
+      "text": "A mérés feltétele a mérendő mennyiség és a mértékegység pontos meghatározása. Az SI-mértékegységrendszer nemzetközileg elfogadott."
+    },
+    {
+      "id": 36,
+      "term": "Mik a mérés minőségi kritériumai?",
+      "definition": "A tárgyszerűség azt jelenti, hogy a mérés eredménye független a mérő személytől, az érvényesség, hogy az eljárás azt méri amire kidolgozták, a megbízhatóság pedig ismételhetőség.",
+      "quote": "Objektív, érvényes, megbízható",
+      "text": "A jó mérés reproducibilis, hiteles és szisztematikus hibáktól mentes. Ezek az elvek biztosítják az adatok tudományos értékét."
+    },
+    {
+      "id": 37,
+      "term": "Mi a rendszerezés?",
+      "definition": "A rendszerezés során az egyes elemeket halmazokba csoportosítjuk, majd a különféle halmazokat tovább csoportosítjuk egyfajta rendszerező elv szerint.",
+      "quote": "Elemek szisztematikus csoportosítása",
+      "text": "A biológiai rendszerezés Linné kettős nevezéktanát követi. A faj az alapegység, majd nemzetség, család, rend, osztály, törzs."
+    },
+    {
+      "id": 38,
+      "term": "Mik a rendszertani kategóriák?",
+      "definition": "A faj, nemzetség, család, rend, osztály, törzs a rendszertani kategóriák, ahol a magasabb kategóriák magukba foglalják az alacsonyabbakat.",
+      "quote": "Faj a törzséig",
+      "text": "Minden egyes kategóriában a szervezeteket evolúciós rokonságuk alapján csoportosítjuk. A filogenetikai rendszerek DNS-összehasonlítást használnak."
+    },
+    {
+      "id": 39,
+      "term": "Mit jelent a dichotómikus kulcs?",
+      "definition": "A dichotómikus kulcs olyan határozósorozat, amely minden lépésben mindig két kölcsönösen kizáró választási lehetőséget ad az élőlények azonosítására.",
+      "quote": "Két út mindig, azonosítás érdekében",
+      "text": "A dichotómikus kulcsok logikus elágazások sorozata, amelyek az egyenesebb azonosítási útra vezetnek a megfelelő jellegek alapján."
+    },
+    {
+      "id": 40,
+      "term": "Hogyan működik a fénymikroszkóp?",
+      "definition": "A fénymikroszkóp összetett optikai rendszer, amely a lencséken keresztül áthaladó fényt használ a tárgy nagyított képének megalkotásához. Maximum 1500-szoros nagyítást tesz lehetővé.",
+      "quote": "Fény segítségével nagyítás",
+      "text": "A nagyítás az objektív és okulár nagyításának szorzata. A felbontóképesség maximum 0,2 mikrométer, amely az emberi szem felbontóképességénél jobb."
+    }
+  ]
+}

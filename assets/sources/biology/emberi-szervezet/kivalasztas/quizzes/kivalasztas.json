@@ -1,0 +1,182 @@
+{
+  "subjectId": "biology",
+  "moduleId": "kivalasztas",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "A vese glomerulusában melyik erő segíti elő elsődlegesen a szűrlet képződését?",
+      "options": [
+        "Kolloidozmotikus nyomás",
+        "Hidrosztatikus vérnyomás",
+        "Tubularis nyomás",
+        "Onkotikus nyomás"
+      ],
+      "answer": "Hidrosztatikus vérnyomás"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Az egészséges ember vizeletében mely anyag NEM jelenik meg és miért?",
+      "options": [
+        "Fehérje, mivel a szűrőberendezés negatív töltése visszatartja",
+        "Cukor, mivel aktív transzporttal teljes egészében visszaszívódik",
+        "Karbamid, mivel a máj azt szintetizálja",
+        "Kalcium, mivel nem szűrődik át az érgomolyagban"
+      ],
+      "answer": "és B) egyaránt helyes"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "A Henle-kacs felszálló ágában milyen jellegű transzport történik és mi annak következménye?",
+      "options": [
+        "Passzív transzport"
+      ],
+      "answer": "a sók kilépnek, víz marad"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az ADH hormon a _____ -ben termelődik és szabályozza a vízvisszaszívást az aquaporin-2 csatornák beépítésén keresztül.",
+      "options": [],
+      "answer": "hipotalamuszban"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "A glomeruláris filtrációs ráta (GFR) átlagos értéke felnőtteknél körülbelül:",
+      "options": [
+        "50 ml/perc",
+        "120 ml/perc",
+        "300 ml/perc",
+        "450 ml/perc"
+      ],
+      "answer": "120 ml/perc"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Az alábbiak közül melyik erő NEM játszik szerepet a szűrőműködésben?",
+      "options": [
+        "A kapilláris hidrosztatikus nyomása",
+        "Az onkotikus nyomás",
+        "A szűrlet nyomása a Bowman-tokban",
+        "Az arteriola rugalmassága"
+      ],
+      "answer": "Az arteriola rugalmassága"
+    },
+    {
+      "id": 7,
+      "type": "BLANK",
+      "question": "Ha a vérplazma glükózkoncentrációja meghaladja a _____ -t, akkor a szállítómolekulák telítődnek és cukor megjelenik a vizeletben.",
+      "options": [],
+      "answer": "200 mg/100 ml"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "Milyen folyamat történik az egészséges ember fehérjementes vizeletében?",
+      "options": [
+        "Az átszűrt albumin a proximális sejtekben endocitózissal felveszik és feldolgozzák",
+        "A szűrőberendezés negatív töltése teljesen visszatartja őket",
+        "Mindkettő: a szűrő visszatart és a sejtekben feldolgozódnak",
+        "Passzív transzport által kilépnek a gyűjtőcsövekből"
+      ],
+      "answer": "Mindkettő: a szűrő visszatart és a sejtekben feldolgozódnak"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "A dialízis működési elve az ellenáram elvén alapul. Ennek legfontosabb funkciója:",
+      "options": [
+        "Az vérkörözést felgyorsítani a szűréshez",
+        "A szennyeződések koncentrációgradiensét a teljes csőhosszban fenntartani",
+        "Az oldódóanyagok ozmózisos áramlásának meghiúsítása",
+        "A fehérjék visszaszűrésének biztosítása"
+      ],
+      "answer": "A szennyeződések koncentrációgradiensét a teljes csőhosszban fenntartani"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az elsődleges szűrlet keletkezésében az érgomolyag falát és a Bowman-tok falát elválasztó _____ működik szűrőként.",
+      "options": [],
+      "answer": "alaphártya"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Az ADH hiánya milyen betegséghez vezet és milyen tünetek jelentkeznek?",
+      "options": [
+        "I. típusú diabetes, hiperglikémia és glikózuria",
+        "Diabetes insipidus, nagy mennyiségű híg vizelet és folyamatos szomjúság",
+        "Aldoszteron hiány, sóvesztés és vérnyomáseséés",
+        "Veseelégtelenség, mérgező anyagok felhalmozódása"
+      ],
+      "answer": "Diabetes insipidus, nagy mennyiségű híg vizelet és folyamatos szomjúság"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "A vese szűrőműködésének hatékonyságát mely tényezők befolyásolják leginkább?",
+      "options": [
+        "Az érgomolyagból kilépő arteriola kisebb átmérője fenntartja a magas vérnyomást",
+        "Az intakt szűrőberendezés (negatív töltésű alaphártya) kritikus a szűréshez",
+        "Mindkét tényező egyenlő fontosságú",
+        "Alapvetően az aldoszteron és ADH termelésétől függ"
+      ],
+      "answer": "Mindkét tényező egyenlő fontosságú"
+    },
+    {
+      "id": 13,
+      "type": "BLANK",
+      "question": "A _____ az ozmotikus nyomás azon része, amelyet a nem diffundáló kolloidok, főleg fehérjék hoznak létre.",
+      "options": [],
+      "answer": "onkotikus nyomás"
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "A vér teljes ozmotikus nyomása (~5400 Hgmm) elsősorban milyen anyagok okozzák?",
+      "options": [
+        "A plazmafehérjék (albuminok, globulinok, fibrinogén)",
+        "A sók és kis molekulák (Na+, Cl-, K+, glükóz, karbamid)",
+        "Egyenlő arányban fehérjék és ionok",
+        "Az érgomolyagban lévő vértest sejtek"
+      ],
+      "answer": "A sók és kis molekulák (Na+, Cl-, K+, glükóz, karbamid)"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az alábbiak közül melyik testfolyadék-paraméter NEM tartozik a homeosztázis alapvető szabályozott tényezői közé?",
+      "options": [
+        "Ionösszetétel (izoionia)",
+        "Ozmotikus koncentráció (izoozmózis)",
+        "Vércukor szintje (glükóz homeostázis)",
+        "Víztartalom (izovolémia)"
+      ],
+      "answer": "Vércukor szintje (glükóz homeostázis)"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az _____ az érgomolyagban és a Bowman-tok üregében az érnyomás, onkotikus nyomás és szűrletnyomás közötti matematikai kapcsolat.",
+      "options": [],
+      "answer": "nettó filtrációs nyomás"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "A veseelégtelenség során mi a legveszélyesebb folyamat?",
+      "options": [
+        "A napi vizeletmennyiség csökkenése",
+        "A mérgező bomlastermékek (karbamid, kreatinin) felhalmozódása a vérben",
+        "A Na+ és K+ ionok kiegyensúlyozatlansága",
+        "Az ozmotikus nyomás drasztikus megváltozása"
+      ],
+      "answer": "A mérgező bomlastermékek felhalmozódása a vérben"
+    }
+  ]
+}

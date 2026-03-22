@@ -1,0 +1,214 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi a homeosztázis?",
+      "definition": "A homeosztázis a belső környezet (testfolyadékok) szabályozott dinamikus állandósága. Az él szervezet a sokféle paraméterét (ionok, ozmotikus nyomás, pH, hőmérséklet) viszonylagos állandó tartományon belül tartja.",
+      "quote": "Belső konstancia, szabályozott dinamika.",
+      "text": "A homeosztázis lehetővé teszi a sejtek számára, hogy optimális környezetben működjenek. A sejtek többsége nem érkezik a külvilággal, ezért a testfolyadékok jelentik a környezetüket."
+    },
+    {
+      "id": 2,
+      "term": "Mit jelent a szabályozás és a vezérlés közti különbség?",
+      "definition": "Vezérlés: egyirányú kapcsolat, a vezérlő egyirányúan működteti az irányított rendszert. Szabályozás: kétirányú kapcsolat, az irányított rendszer visszajelz a központnak. A biológia szabályozás alapja a negatív visszacsatolás.",
+      "quote": "Vezérlés egyirányú, szabályozás kétirányú.",
+      "text": "Az irányítás alapműveletei: alapjelképzés (kell érték), mérés (van érték), összehasonlítás (hibajel), döntés (beavatkozás). Az élő szervezetben a szabályozás önszabályozás révén valósul meg."
+    },
+    {
+      "id": 3,
+      "term": "Mi a negatív visszacsatolás és hogyan működik?",
+      "definition": "A negatív visszacsatolás az az folyamat, amikor a szabályozórendszer a hibajellel ellentétes előjelű hatással módosítja a rendszer működését. Csökkenésre növelés, növekedésre csökkentés, ezáltal stabilizálja a rendszert.",
+      "quote": "Hibajel ellen hat, stabilizál.",
+      "text": "Példa: alacsony hőmérséklet → csökkenés hibajel → fűtőközpont aktivál → hőmérséklet emelkedik → fűtőközpont lassít. Az önszabályozás eredménye egy dinamikus egyensúly."
+    },
+    {
+      "id": 4,
+      "term": "Mi a pozitív visszacsatolás és milyen hatása van?",
+      "definition": "A pozitív visszacsatolásban a rendszerből kilépő hatások tovább erősítik a folyamatokat (növekedésre növelés, csökkenésre csökkentés). Ez destabilizálja a rendszert, de bizonyos feltételek alatt szükséges lehet.",
+      "quote": "Erősítés: destabilizál, de szükséges.",
+      "text": "Az éghajlati modellekben: légkör felmelegedése → párolgás nő → vízgőz üvegházhatása → további felmelegedés. Az élő szervezetben ritkább, de pl. a szülésben szülési reflexpozitív visszacsatolás."
+    },
+    {
+      "id": 5,
+      "term": "Mi az irányítás alapműveletei?",
+      "definition": "Alapjelképzés: tervezett érték (kell érték) meghatározása. Mérés: tényleges érték (van érték) felismerése. Összehasonlítás: hibajel meghatározása. Döntés: szükség szerint beavatkozás kompenzáció a hibajel alapján.",
+      "quote": "Terv, mér, hasonlít, döntesz.",
+      "text": "Ez a kibernetikai modell leírja, hogy az élő szervezet hogyan tartja fenn az állandó beltéri feltételeket az állandóan változó külső környezet mellett."
+    },
+    {
+      "id": 6,
+      "term": "Milyen homeosztázis-összetevők vannak?",
+      "definition": "Legfontosabb: ozmotikus koncentráció, ionösszetétel, pH, testfolyadékok térfogata. Fejlettebb élőlények: tápanyag koncentráció és testhőmérséklet. Ezek viszonylagos állandósága a homeosztázis.",
+      "quote": "Ion, ozmó, pH, hő, térfogat.",
+      "text": "Ezeknek az értékeknek a szabályozása összetett, mivel egymás között kölcsönhatások vannak. A vese működésével biztosítható az összes paraméter viszonylagos állandósága."
+    },
+    {
+      "id": 7,
+      "term": "Hogyan módosulhatnak a homeosztázis-összetevők élettani állapottól függően?",
+      "definition": "A fokozott fizikai aktivitás, stressz, éhezés, hőmérséklet-változás, várandóság olyan élettani állapotok, amelyekben a homeosztázis-összetevők (hormonok, ionok, glükóz, vérnyomás) megváltozhatnak.",
+      "quote": "Állapot módosít homeosztázist.",
+      "text": "Pl. stressz alatt a vér glukózszintje emelkedik a szervezet védekezésének hatékonyabbá tételéhez. A negatív visszacsatolású kompenzációs mechanizmusok ebben az esetben kikapcsolódnak."
+    },
+    {
+      "id": 8,
+      "term": "Mi az egyeden belüli szabályozás szintjei?",
+      "definition": "Sejtszintű: genetikai szabályozás, epigenetikai módosítások, mikro-RNS-ek, enzim-szabályozás. Szervezetszintű: endokrin és parakrin szabályozás, idegi szabályozás. A soksejtűekben az összeségét neuroendokrin rendszernek hívják.",
+      "quote": "Sejtszint: gén, epigén, miRNS. Szervezet: hormon, idegsejt.",
+      "text": "Ezeknek a szabályozási szinteknek az integrálódása biztosítja az egész szervezet normális működését, a sejtszintű szabályozástól a szervezetszintű szabályozásig."
+    },
+    {
+      "id": 9,
+      "term": "Mit jelent az emergencia (megjelenés)?",
+      "definition": "Az emergencia az az jelenség, amikor a magasabb szerveződési szinteken új tulajdonságok jelennek meg, amelyeket az elemekre önmagukban nem jellemző, de az elemek kölcsönhatásaiból vezethetők le.",
+      "quote": "Egész többik az összegnél.",
+      "text": "Pl. az egyedi C, H, O atomok nincsenek élők, de az ezekből felépült fehérjék enzim-aktivitást mutatnak. A sejt is emergens tulajdonság az összetevő szervecskéihez képest."
+    },
+    {
+      "id": 10,
+      "term": "Mi a hierarchikus szerveződés a biológiában?",
+      "definition": "A biológiai rendszerek hierarchikusan egymásra épülnek: atom → molekula → sejtalkotó → sejt → szövet → szerv → szervrendszer → szervezet. A magasabb szintek mindig magukban foglalják az alacsonyabbakat.",
+      "quote": "Szint alatt szint, egyre komplexebb.",
+      "text": "Az alacsonyabb szint elemei kölcsönhatásában új tulajdonságok jelennek meg a magasabb szinten. Ez az egész szervezet működésének alapja."
+    },
+    {
+      "id": 11,
+      "term": "Mi a rendszer fogalma a biológiában?",
+      "definition": "A rendszer egymással kölcsönhatásban álló elemek környezettől elhatárolt egysége. Elemei nem véletlenszerűen, hanem meghatározott viszonyban kapcsolódnak. A kölcsönhatások révén a rendszer több, mint az elemek egyszerű összege.",
+      "quote": "Kölcsönhatás, elhatárolt, komplex.",
+      "text": "Az élő szervezetek biológiai rendszerek, ahol az elemek sokasága összekapcsolódva egy integrált egésszé válik, amely új funkciókat és viselkedéseket mutat."
+    },
+    {
+      "id": 12,
+      "term": "Mi az alrendszer a biológiában?",
+      "definition": "Az alrendszer a rendszer elemeként szolgáló kisebb rendszer. Pl. a sejt alrendszere a szövetnek, amely alrendszere a szervnek, amely alrendszere a szervrendszernek.",
+      "quote": "Kisebb rendszer a nagyobbé.",
+      "text": "Ez a hierarchikus alrendszer-szerkezet lehetővé teszi a szervezet összetett működésének megértését több szint vizsgálatán keresztül."
+    },
+    {
+      "id": 13,
+      "term": "Mi a sejtek közötti kommunikáció alapja?",
+      "definition": "A soksejtű szervezetben a sejtek közötti kommunikáció szoros előfeltétele a homeosztázisnak. A sejtek különféle jeleket bocsátanak ki (kémiai, elektromos), amelyeket más sejtek célsejtként felismernek.",
+      "quote": "Jel: kémiai, elektromos; cél: receptorok.",
+      "text": "A jelek: hormonok, szöveti hormonok, sejtfelszíni molekulák. Ha egy sejt kiesik e kommunikációs rendszerből, elpusztul vagy kóros elváltozásokat hoz létre (pl. ráksejt)."
+    },
+    {
+      "id": 14,
+      "term": "Mi az jel molekuláris receptorok szerepe?",
+      "definition": "A jelfogó sejt a célsejt, mely a jeleket specifikus receptoraival köti meg. A receptor jelenléte teszi szelektívvé a hatást a különféle sejtek között. A receptorok sejten belül vagy a sejtfelszínen lehetnek.",
+      "quote": "Receptor: szelektív kötés, sejt felismerés.",
+      "text": "A receptorok lehetnek ioncsatornák (azonnali hatás) vagy G-fehérje csatolt receptorok (másodlagos hírvivő), amelyek sebességben és tartósságban különböznek."
+    },
+    {
+      "id": 15,
+      "term": "Milyen szerep a jel megjelenésének és eltűnésének a szabályozásban?",
+      "definition": "A jel megjelenése meghatározó jelentőségű, de a szabályozás szempontjából ugyanilyen lényeges a jel megszűnése. A jelmolekulák élettartama rövid (percek, másodpercek), ami biztosítja a precíz szabályozást.",
+      "quote": "Jel ott van, jel eltűnik: precisz kontrol.",
+      "text": "Ha a jelek hosszú ideig tartanának, a rendszer nem tudna gyorsan reagálni a változó körülményekre. A rövid élettartam lehetővé teszi az adaptív viselkedést."
+    },
+    {
+      "id": 16,
+      "term": "Mi a pszichoneuro-immunológia?",
+      "definition": "A pszichoneuro-immunológia az a tudományterület, amely a viselkedési, agyi és immunfolyamatok közötti kölcsönhatásokat vizsgálja. Lényege, hogy az idegrendszer, a hormonrendszer és az immunrendszer egy összetett hálózat részrendszere.",
+      "quote": "Pszicho-neuro-immun: összekapcsolva.",
+      "text": "A pszichés állapotok (pl. stressz) befolyásolják az immunrendszert, az immunsejtek citokinjei pedig az agyi folyamataira hatnak. Ez egy fontos integrációs rendszer az emberben."
+    },
+    {
+      "id": 17,
+      "term": "Mit jelent a rendszerszemléletű orvoslás?",
+      "definition": "A rendszerszemléletű orvoslás a szervezetet egy biokémiai és molekuláris reakciókat összefogó hálózatnak tekinti. Celja az összekapcsolódások, interakciók feltárása. A holisztikus szemléletmód specializáció helyett az egészre figyel.",
+      "quote": "Hálózat, interakció, holisztikus.",
+      "text": "Ez az orvoslási megközelítés megismerkedik azzal, hogy a gének, fehérjék, sejtek és szervek komplex összeköttetésben állnak egymással és a környezettel."
+    },
+    {
+      "id": 18,
+      "term": "Mi az epigenetikai szabályozás?",
+      "definition": "Az epigenetika olyan szabályozási mechanizmusok, amelyek a DNS nukleotidsorrendjét nem változtatják meg, de módosítják a gének működését. Pl. metilcsoportok a nukleotidokhoz gátolják, acetilcsoportok a fehérjékhez serkentik az átírást.",
+      "quote": "Metil gátol, acetil serkent, DNS ugyanaz.",
+      "text": "Ez az epigenetikai módosítás helyrefordítható, az élettani állapot vagy a környezeti tényezők (stressz, táplálkozás) befolyásolhatják a gén működést."
+    },
+    {
+      "id": 19,
+      "term": "Mit jelent a mikro-RNS-ek szerepe?",
+      "definition": "A mikro-RNS-ek olyan apró RNS-molekulák, amelyek fehérjét nem kódolnak, hanem többnyire gátolják a fehérjeszintézist. Egy RISC-komplexbe épülnek be, amely az mRNS-t lebontja, ha szekvenciája hasonlít az miRNS-hez.",
+      "quote": "Mikro-RNS: szabályozás, gátlás, lebontás.",
+      "text": "Ez a szabályozási szint a post-transzkripcióaális szabályozás fontos formája, amely lehetővé teszi a szervezetnek, hogy gyorsan reagáljon a körülmények változására."
+    },
+    {
+      "id": 20,
+      "term": "Mi a kiválasztás és az elválasztás különbsége?",
+      "definition": "Kiválasztás: a szervezet számára szükségtelen anyagok eltávolítása (felesleges víz, sók, mérgező bomlástermékek). Elválasztás: a szervezet még felhasznál, így a termékek maradnak a szervezetben (hormonok, enzimek).",
+      "quote": "Kiválasztás: szemét, elválasztás: hasznos.",
+      "text": "A vese végzi a szoros értelemben a kiválasztást, de más szervek is végeznek kiválasztási funkciókat (tüdő CO2, máj bilirubinjával, bőr verejtékével)."
+    },
+    {
+      "id": 21,
+      "term": "Mi a belső és külső elválasztás?",
+      "definition": "Belső elválasztás (endokrin): a mirigyhámsejtek a termékeket közvetlenül a vérbe ürítik. Külső elválasztás: a termékeket a szervezet külső vagy belső felszíneire ürítik (pl. szájüregbe).",
+      "quote": "Belső: vérbe, külső: felszínre.",
+      "text": "A belső elválasztású mirigyek hormonokat termelnek, melyeknek kivezetőcső nincs. A külső elválasztás csatornás mirigyek működésének eredménye."
+    },
+    {
+      "id": 22,
+      "term": "Mi a mikrobiom és szerepe a homeosztázisban?",
+      "definition": "Az emberben élő mikrobák összessége (baktériumok, gombák, vírusok), genetikai állomány, kölcsönhatásuk. Optimális összetétele nélkülözhetetlen az egészséges működéshez.",
+      "quote": "Mikrobák: szimbióta, kommenzal, parazita.",
+      "text": "A mikrobiom fővárosában az emberben kb. 100 billió mikroba van, amelyek sokféle funkcióban segít az emésztésben, vitaminképzésben, immunrendszer erősítésében, egyensúlyozásban."
+    },
+    {
+      "id": 23,
+      "term": "Milyen előnyei vannak a mikrobiomnak az emésztésre?",
+      "definition": "A mikrobiom az emészthetetlen növényi rostokat erjedéssel lebontja és rövid láncú zsírsavakat termel, amelyek segítik a bélhámsejtek egészségét és csökkentik a vastagbélrák kialakulásának kockázatát.",
+      "quote": "Rostok lebontása, rövid szénláncok, egészség.",
+      "text": "A bélbaktériumok a B- és K-vitaminokat is termelnek, amelyek közvetlenül felhasználhatók a szervezet által. Ez szimbiotikus kapcsolat, ahol mindkét fél profitál."
+    },
+    {
+      "id": 24,
+      "term": "Hogyan védi a mikrobiom az immunrendszert?",
+      "definition": "A mikrobiom antibiotikumok termelésévelvel, tápanyagokért történő versengéssel, helyfoglalással és az immunrendszer erősítésével távolítja el a káros mikroorganizmusokat.",
+      "quote": "Antibiotikum, versengés, hely, immun.",
+      "text": "A szavás baktériumok versengnek a patogén mikroorganizmusokkal az erőforrásokért. Ez az 'kolonizációs ellenállás' megakadályozza a fertőzéseket és az immunrendszert erősíti."
+    },
+    {
+      "id": 25,
+      "term": "Milyen szerepe van a mikrobiomnak az agyfüggvénnyekben?",
+      "definition": "A mikrobiom fontos szabályozóanyagokat termel (szerotonin, melatonin, adrenalin), amelyek az idegsejtek működésében és a viselkedésben papel játszanak. Ez a gut-brain axis.",
+      "quote": "Szerotonin, melatonin: agy működésben.",
+      "text": "Ez a szövi-agy-tengely (gut-brain axis) az utóbbi évtizedben felderített közvetítő az emésztés és az agyi funkciók között. A microbiom mikrobái közvetlenül befolyásolják az agy működését."
+    },
+    {
+      "id": 26,
+      "term": "Milyen betegségek kapcsolódnak a mikrobiom-egyensúly megváltozásához?",
+      "definition": "Az dysbiosis (mikrobiom egyensúly megváltozása) kapcsolódik: bélproblémákhoz, elhízáshoz, cukorbetegséghez, bőrproblémákhoz, szorongáshoz, depresszióhoz. A Crohn-betegség autoimmun betegség, amelyet a bélflóra összetételének kóros megváltozása összeköt.",
+      "quote": "Dysbiosis: sok betegség oka.",
+      "text": "Az ezekben a betegségekben a mikrobiom összetételének módosítása (probiotikumok, prebiotikumok) terápiás lehetőséget nyújthat az egyes esetekben."
+    },
+    {
+      "id": 27,
+      "term": "Mi a bőr faggyúrétegében élő baktériumok szerepe?",
+      "definition": "A bőr faggyúrétegében szimbióta baktériumok tapadnak meg, savas váladékot (pH 5.5) termelve védik a bőrt a gombás fertőzésektől. Ez egy fizika-kémiai és biológiai védekezés.",
+      "quote": "Szimbióta: savas, gombavédelem.",
+      "text": "Ez a savas bőr (pH 4.5-5.5) egy összetett védelem, amely a normál baktériumflóra és a bőr savas váladéka révén alakul ki. Ez az alkalikus szappanok használatakor sérülhet."
+    },
+    {
+      "id": 28,
+      "term": "Mit jelent a belső környezet a soksejtű szervezetben?",
+      "definition": "A belső környezet a testfolyadékok (szövet közötti folyadék és vér), amelyek a sejtek számára a külső környezetet jelentik. Legfontosabb feladata az optimális működési feltételek biztosítása az anyagellátással és bomlástermékek eltávolításával.",
+      "quote": "Testfolyadék: sejtek külső környezete.",
+      "text": "A soksejtű állatokra jellemző, hogy a sejtek többsége nem érkezik közvetlenül a külvilággal, ezért a belső környezet stabilitása az élet feltétele."
+    },
+    {
+      "id": 29,
+      "term": "Milyen élettan-folyamatok szükségesek a homeosztázis fenntartásához?",
+      "definition": "Az anyagcsere, az energiatermelés, a növekedés, a szaporodás, a stimuláció érzékelése, az inger válaszadás, a mozgás és az önszabályozás. Ezek mind a homeosztázis fenntartásához szükségesek.",
+      "quote": "Anyagcsere, energia, szaporodás, szabályozás.",
+      "text": "Ezek az élettani folyamatok hierarchikusan szerveződnek a sejttől az egész szervezetig, a homeosztázis minden szintjén működnek."
+    },
+    {
+      "id": 30,
+      "term": "Hogyan érinti a külső környezet a homeosztázist?",
+      "definition": "Az állandóan változó külső környezet (hőmérséklet, nyomás, nedvesség) folyamatosan megpróbálja megbontani az élő szervezet belső egyensúlyát. A biológiai szabályozás teszi lehetővé az adaptációt és a homeosztázis fenntartását.",
+      "quote": "Külső változik, belső állandó marad.",
+      "text": "Ha a külső terhelés túl nagy (pl. szélsőséges hőmérséklet), a szabályozó mechanizmusok nem képesek kompenzálni, és kórosan állapotok alakulnak ki."
+    }
+  ]
+}

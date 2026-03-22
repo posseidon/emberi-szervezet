@@ -1,0 +1,242 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Milyen funkciók vannak a bőrnek?",
+      "definition": "A bőr védelmet nyújt (mechanikai, UV, kórokozók ellen, kiszáradás ellen), részt vesz a hőszabályozásban, érzékelésben (fájdalom, tapintás, nyomás, hő), kiválasztásban, D-vitamin termelésben és tápanyagraktárként működik.",
+      "quote": "Védelem, hőszabályozás, érzékelés, kiválasztás.",
+      "text": "A bőr a legnagyobb szervünk: testsúlyunk 10-15%-a, összfelülete 1,4-1,6 m². Ez az első védelmi vonal a külvilág ellen, és a szervezet egészségi állapotának indikátora."
+    },
+    {
+      "id": 2,
+      "term": "Milyen rétegekből áll a bőr?",
+      "definition": "A bőr három rétegből áll: felhám (epidermis), irha (dermis) és bőralja (hypodermis). Ezek egymásra épülnek és közös funkciót biztosítanak.",
+      "quote": "Felhám, irha, bőralja: három réteg.",
+      "text": "Gerinces állatokra jellemző struktúra, amely az évolúció során entwicklődött az szárazföldi élethez szükséges védelemhez."
+    },
+    {
+      "id": 3,
+      "term": "Milyen jellemzői vannak a felhámnak (epidermis)?",
+      "definition": "A felhám többrétegű elszarusodó laphám, szorosan záródó sejtek. Az alsó réteg sejtjei folyamatosan mitózissal osztódnak, felfelé tolják az idősebb sejteket, amelyek ellapulnak, szaruanyag (keratin) halmozódik, végül elpusztulnak.",
+      "quote": "Mitózis, felfelé tolás, szarusodás, halál.",
+      "text": "Egy hámsejt körülbelül 28 nap alatt jut az alhámból a legkülső szarurétigbe, ahol végül elpusztul és lehámlódik. Ez az állandó megújulás biztosítja az integritást."
+    },
+    {
+      "id": 4,
+      "term": "Mit jelent a szaruréteg és funkciói?",
+      "definition": "A szaruréteg a felhám legkülső része, mely véd a kémiai és mechanikai hatásoktól, csökkenti a párologtatást, akadályozza a kórokozók bejutását. Legvastagabb a talpon és tenyéren, legvékonyabb a szemhéjon.",
+      "quote": "Szaruanyag: keratin, védelem, párolog gátlás.",
+      "text": "A szaruréteg igénybevételtől függően gyorsabban vagy lassabban kopik, hámlik és folyamatosan pótlódik az alsó rétegekből. Ez az állandó csere adaptív mechanizmus."
+    },
+    {
+      "id": 5,
+      "term": "Mi a melanin szerepe a bőrben?",
+      "definition": "Az melanin sötétszínű pigment, amelyet a felhám alsó részén elhelyezkedő pigmentsejtek termelik. Az UV sugárzást elnyeli és védi a mélyebb rétegeket. UV hatására a termelés fokozódik, ezáltal a bőr sötétebbé válik.",
+      "quote": "Melanin: UV elnyel, barnít.",
+      "text": "Nagyon nagy intenzitású UV károsítja a DNS-t, mutációt okozhat (bőrrák). A melanin lokális felszaporodása anyajegyeket, szeplőket, ritkábban májfoltokat hoz létre."
+    },
+    {
+      "id": 6,
+      "term": "Milyen szerkezete van az irhának (dermis)?",
+      "definition": "Az irha lazarostos kötőszövet, gazdag erekben, idegekben és mirigyekben. Két rétege van: felső szempillős (hámba kesztyűujjszerűen benyúló, finom rostos) és alsó hálózatos (durvább rostozatú). Kollagén- és rugalmas rostokban gazdag.",
+      "quote": "Erők, idegsejtek, rugalmasság: irha gazdag.",
+      "text": "Az irha nagyon nagy érintkezési felülete biztosítja a hatékony táplálást és stabilizálódást. Az ujjlenyomat mintázata az irhában helyezkedik el és egyénekre jellemző."
+    },
+    {
+      "id": 7,
+      "term": "Milyen szerepe van az irhában lévő érhálózatnak?",
+      "definition": "A gazdag érhálózat a hőszabályozásban játszik fontos szerepet. Melegben az erek kitágulnak, nő a hőleadás (kipirulunk). Hidegben az erek szűkülnek, csökken a hőleadás (sápadunk).",
+      "quote": "Melegben tágulnak, hidegben szűkülnek.",
+      "text": "Ez a vasodilatáció és vasokonstrikszkió biztosítja a test hőmérsékletének szabályozását a környezeti hőmérséklethez való alkalmazkodás mellett."
+    },
+    {
+      "id": 8,
+      "term": "Milyen bőr receptorai vannak és hol helyezkednek el?",
+      "definition": "Bőr receptorai: szabad idegvégződések (fájdalom, hő), Meissner-teszet és Merkel-korongok (finomabb tapintás), Vater-Pacini-teszek (nyomásérzékelés). Eloszlás nem egyenletes: ujjbegyen és ajkakon sűrű.",
+      "quote": "Fájdalom, tapintás, nyomás, hő: szét helyezve.",
+      "text": "A kétpont-küszöb az ujjbegyen a legkisebb (2-3 mm), mivel ott a receptorok sűrűsége a legnagyobb. Ez lehetővé teszi a finom manipulatív képességet."
+    },
+    {
+      "id": 9,
+      "term": "Milyen funkciót végeznek a szőrtüszőhöz csatlakozó idegvégződések?",
+      "definition": "A szőrtüszőt körülvevő idegvégződések az emelő hatás miatt a legkifinomultabb tapintásra (légmozgásra) is érzékenyek. Már 3-5° szögelhajlás is ingerületet eredményez, ami a legfésülöttebb tapintást biztosítja.",
+      "quote": "Szőr: légmozgás érzékelő, 3-5° érzékeny.",
+      "text": "Ez a mechanoreceptor típus rendkívüli érzékenységével járul hozzá az emberi tapintási képességhez, ami a finom manipulációhoz szükséges."
+    },
+    {
+      "id": 10,
+      "term": "Mitől függ az emberben az ujj-nyom (ujjlenyomat)?",
+      "definition": "Az ujjlenyomat az irha felső rétegének karakterisztikus mintázatára egyénekre jellemző. Ez az mintázat születéskor kialakul és végigé az élet során változatlan marad.",
+      "quote": "Irha mintázata: egyéni, állandó.",
+      "text": "Ez az egyéni mintázat biztosítja, hogy nem létezik két azonos ujjlenyomat az egész világon, így a kriminalisztika és a azonosítás alapja."
+    },
+    {
+      "id": 11,
+      "term": "Milyen bőrmirigyek vannak?",
+      "definition": "Faggyúmirigyek (külső elválasztású, szőrtüszőkhöz csatlakozva), verejtékmirigyek (hőszabályozásban és kiválasztásban), illatmirigyek (nagy verejtékmirigyek, pubertáskor aktiválódnak), tejmirigyek (emlősökre jellemző, módosult verejtékmirigyek).",
+      "quote": "Faggyú, verejték, illat, tej: mirigy típusok.",
+      "text": "Mindezen mirigyek hámszármazékok és kulcsfontosságú funkciókat végeznek a bőr egészsége és a szervezet működésében."
+    },
+    {
+      "id": 12,
+      "term": "Mi a faggyúmirigy funkciója?",
+      "definition": "A faggyúmirigyek külső elválasztású mirigyek, amelyek a szőrtüszőkhöz csatlakozva zsíros váladékukat az érintett felszínre ürítik. Ez elősegíti a szőrszálak és a bőr vízállóságát és rugalmasságát, valamint puhán tartja a szaruréteget.",
+      "quote": "Zsír: vízálló, rugalmas, puha.",
+      "text": "A faggyú rétegében szimbióta baktériumok tapadnak meg, savas váladékot (pH 5.5) termelve, amely védi a bőrt a gombás fertőzésektől. Ez természetes védelmét az égészségét biztosítja."
+    },
+    {
+      "id": 13,
+      "term": "Milyen szerepe van az verejtékmirigynek?",
+      "definition": "Az verejtékmirigyek hosszú feltekeredett végkamrájú csöves mirigyek az irha aljában. Kétféle: kisebb verejtékmirigyek (hőszabályozás, kiválasztás) és nagy verejtékmirigyek / illatmirigyek (nemi vonzalom).",
+      "quote": "Hő, kiválasztás, szag, vonzalom.",
+      "text": "A verejték nagyon híg vizeletnek tekinthető, amely kiválasztási funkcióban betöltött szerepet jelzi. A nagy verejtékmirigyek működése pubertáskor indul meg hormonális hatásokra."
+    },
+    {
+      "id": 14,
+      "term": "Hol helyezkednek el a nagy verejtékmirigyek?",
+      "definition": "A nagy verejtékmirigyek (illatmirigyek) kivezetőcsövei a szőrtüszőkbe nyílnak és elhelyezkedésük: hajlatoksban, emlők környéke, nemi szervek környéke, végbélnyílás környéke. Működésük hormonális és pszichés hatásokra aktiválódik.",
+      "quote": "Hajlatok: nagy verejtékmirigyek, szag.",
+      "text": "Az izgalom hatásra lúgos kémhatású váladék termelődik, amely gyorsan bomlik, ezért könnyen kellemetlen szagú lehet. Ez az egyéni illatot biztosítja."
+    },
+    {
+      "id": 15,
+      "term": "Milyen a tejmirigyek szerepe?",
+      "definition": "A tejmirigyek a legnagyobb bőrmirigyek, kizárólag emlősökben fordulnak elő. Az emlőkben helyezkednek el, módosult verejtékmirigyeknek tekinthetők. Ivarérettség után fejlődnek ki, funkcionális értelemben járulékos nemi mirigyek.",
+      "quote": "Legna nagyobb bőrmirigy, emlősök sajátja.",
+      "text": "A tej a tejmirigyek terméke, amely az emlősök jellegzetességét jelenti az állati világban. Az emlők alakja, elhelyezkedése és fejlettsége állatfajonként eltérő."
+    },
+    {
+      "id": 16,
+      "term": "Milyen szerepe van a szőröknek az emberben?",
+      "definition": "A szőrök kizárólag emlősállatokra jellemzők. Az embernél a tenyér és talp kivételével teljes testfelületünket szőrök fedik. Funkciók: mechanikai védelem, hőszigetelés. Cserélődésük a vedlés, amely folyamatosan zajlik.",
+      "quote": "Mechanikai, hőszigét, vedléssel cserél.",
+      "text": "Egy egészséges felnőtt naponta 70-80 hajszálat cserél. Az átlagember koronáját alkotó 100 000 hajszál napi 0,4 mm növekedése 40 méter napi haj-termelést jelent."
+    },
+    {
+      "id": 17,
+      "term": "Milyen felépítésű a szőr?",
+      "definition": "A szőr felső része a szőr szára (ferdén nő ki a bőrből), a bőrben levő része a szőrtüsző (hám csőszerű betüremkedéséből). A szőrtüszőhöz szőrmerevítő simaizmok és tápláló papilla kapcsolódik.",
+      "quote": "Szára: külül, tüsző: belül, papilla: tápláló.",
+      "text": "A szőr anyaga a keratin, amely a szőrtüsző alapján található hagymaszerű megvastagodásában termelődik. A szőrborzolás (libabőr) az ideges állapot fizikai manifesztációja."
+    },
+    {
+      "id": 18,
+      "term": "Milyen az köröm felépítése?",
+      "definition": "A köröm az ujjak végpercének háti oldalán fekvő rugalmas szarulemez. Részei: körömlemez, oldalsó körömsánc, félhold, hátsó körömsánc. Funkciója az ujjak végpercének mechanikus védelme.",
+      "quote": "Szarú lemez: ujj-végek védelme.",
+      "text": "A köröm az összetartott keratin-fehérje szerkezet, amely az ujjak finom manipulációs képességét biztosítja. A köröm állapota számos hiánybetegségre utal (pl. A-vitamin hiány)."
+    },
+    {
+      "id": 19,
+      "term": "Milyen szerepe van a bőraljának (hypodermis)?",
+      "definition": "A bőralja rostos kötőszövete az alatta levő izomhoz vagy csonthoz kapcsolja a bőrt. Helyenként jelentékeny mennyiségű zsírszövettel tartalmaz, amely tápanyagraktár és hőszigetelésben játszik szerepet.",
+      "quote": "Zsír: tápanyag, hőszigét, védelem.",
+      "text": "A bőralja zsírszövete mechanikai védelmet nyújt a mélyebben húzódó szövetek és szervek számára, és fontos energiaforrás a szervezetnek."
+    },
+    {
+      "id": 20,
+      "term": "Hogyan működik a bőr hőszabályozásában?",
+      "definition": "A bőr melegben az irha érhálózatával fokozza a hőleadást (kitágulnak az erek, kipirulunk), hidegben csökkenti (szűkülnek az erek, sápadunk). A verejtékmirigyek működése is fokozódik melegben, a verejték párolgása hőt von el.",
+      "quote": "Melegben: ér-tágulás, verejték párolgása.",
+      "text": "Ez az aktív hőszabályozás biztosítja a test normális hőmérsékletének fenntartását (37°C), amely alapvető az enzimműködéshez és az idegsejt funkcióhoz."
+    },
+    {
+      "id": 21,
+      "term": "Mi a mitesszer (faggyúdugasz) képződése?",
+      "definition": "A mitesszer akkor keletkezik, ha a megvastagodott, beszáradt szaruréteg elzárja a szőrtüsző vagy a faggyúmirigy nyílását. Főleg serdülőknél jelentkezik a hormonális változások miatt fokozottan működő faggyúmirigyek miatt.",
+      "quote": "Szarú dugó: faggyúmirigy elzárva.",
+      "text": "A felhalmozódó szennyeződésektől a faggyú megreked, felhalmozódik, és fekete pontok jelennek meg a bőrön. A mitesszer pattanásra vezethet, ha begyulladnak vagy felülfertőződnek."
+    },
+    {
+      "id": 22,
+      "term": "Mi az akne (pattanás) képződése?",
+      "definition": "Az akne akkor alakul ki, ha az elzáródott szőrtüszők begyulladnak vagy felülfertőződnek, begennyesednek. Serdülőkorban gyakoribb, mivel a hormonális változások fokozzák a faggyúmirigy működését.",
+      "quote": "Gyulladás, fertőzés: pattanás kialakulása.",
+      "text": "Az akne kezelése lehet antibiotikumokkal, szárazásra alkalmas szerekkel vagy a faggyúmirigy működésének csökkentésére alkalmas gyógyszerekkel."
+    },
+    {
+      "id": 23,
+      "term": "Hogyan képződik a vízhólyag és vérhólyag?",
+      "definition": "A vízhólyag egy megemelkedett bőrterület, amelyben szövetnedv található, dörzsölődés és nyomástól. A folytonos nyomás végül a hámréteg alsóbb bőrrétegektől való leválásához vezet. A vérhólyag esetén felszakadt kapillárisokból vér kerül a folyadékba.",
+      "quote": "Nyomás: leválás, víz vagy vér gyűl.",
+      "text": "A vízhólyag kiszakadhat és nyílt seb marad, amely fájdalmas és könnyen elfertőződhet. Kezelésük legjobb módja, ha érintetlenül hagyjuk azokat helyreállni."
+    },
+    {
+      "id": 24,
+      "term": "Mit jelent az anyajegy és mi a kialakulása oka?",
+      "definition": "Anyajegynek nevezzük a bőrön születéskor már meglévő vagy később kialakuló jóindulatú elváltozásokat, amelyeket a melanocitok felszaporodása okoz. Kialakulásukban elsősorban az UV sugárzás mennyisége játszik szerepet.",
+      "quote": "Melanocita felszaporodása: jóindulatú elváltozás.",
+      "text": "A melanoma malignum eseteinek több mint fele meglévő anyajegyekből indul ki, ezért az olyan személyek, akiknek nagyszámú anyajegy található, fokozottabb figyelemmel kell kísérik testüket."
+    },
+    {
+      "id": 25,
+      "term": "Mit jelent a szemölcs és mi okozza?",
+      "definition": "A szemölcsök kisebb-nagyobb bőrkinövések a test különböző részein. Többféle típusuk ismert, melyeket általában vírus (pl. HPV) okoz. Néhány HPV típus a hámsejtek rákos átalakulását idézheti elő.",
+      "quote": "Vírus okozza: HPV, rákos veszély.",
+      "text": "Az egészséges immunrendszer többnyire képes megelőzni az betegség kialakulását, de az immunrendszer legyengülése (stressz, dohányzás, krónikus betegség) esetén megjelenhetnek a szemölcsök."
+    },
+    {
+      "id": 26,
+      "term": "Mi a melanoma és miért veszélyes?",
+      "definition": "A melanoma a bőrrákok legagresszívebb és legveszélyesebb formája, amely a melanocitákból fejlődik. Kialakulhat meglévő anyajegyből vagy anyajegymentes bőrfelületen. Korai kezelés (sebészeti eltávolítás) 95%-os 5 éves túlélési arányt biztosít.",
+      "quote": "Melanoma: legveszélyesebb bőrrák, korai kezelés fontos.",
+      "text": "Melanomára utal, ha megváltozik az anyajegy színe, pigmentációja, felszíne vagy alakja, illetve ha a határa bizonytalan vagy terjedni kezd a bőrfelszínen."
+    },
+    {
+      "id": 27,
+      "term": "Hogyan működik az UV-sugárzás hatása a DNS-re?",
+      "definition": "Az UV-sugárzás megváltoztatja a DNS-molekulák szerkezetét, mutációt idézhet elő. Ez a folyamat vezethet a sejtek rákos átalakulásához. A melanin ezt a hatást csökkenti, de extrém UV-expozíció még a melanin védelmét is áttöri.",
+      "quote": "UV: DNS mutáció, rákos elváltozás.",
+      "text": "A napozás és szolárium használata növeli a bőrrák kockázatát, ezért a megfelelő UV-védelem (napraforgó krém, védőruha) szükséges a hosszú napozáshoz."
+    },
+    {
+      "id": 28,
+      "term": "Milyen fokozatai vannak az égési sérülésnek?",
+      "definition": "Elsőfokú: csak a felhám károsodik, vörös, feszes, fájdalmas (napégés). Másodfokú: hám és irha sérül, hólyagos. Harmadfokú: bőr alatti szövet érintett, szenes, szürke. Negyedfokú: izom és csontszövet is károsodik.",
+      "quote": "Egy-négy fok: felső-mélyebb rétegek érintve.",
+      "text": "Az égési sérülés súlyossága az érintett felület, az égés foka és az életkor függvénye. A 25%-nál nagyobb másodfokú vagy 10%-nál nagyobb harmadfokú égés égési centrumba szállítás szükséges."
+    },
+    {
+      "id": 29,
+      "term": "Hogyan kezelik az égési sérüléseket elsősegélyalapon?",
+      "definition": "Az égési sérülést hideg folyó vízzel kell hűteni (nem jéggel!). Ez megakadályozza a hőhatás szöveteken belüli terjedését. Nagyobb testfelületen zuhanyozás vagy kádfürdő hatékony. Zsiradék, tejföl nem kerülhetnek az égett területre.",
+      "quote": "Hideg víz hűtés, zsiradék tilos.",
+      "text": "Az elsőfokú égés után a bőrt hidratáló krémmel védhetjük a berepedezéstől. Másodfokúnál a hólyag megnyitása csak steril körülmények között javasolt. Súlyos égés infúziós folyadékbevitel szükséges."
+    },
+    {
+      "id": 30,
+      "term": "Miért veszélyesek a súlyos égési sérülések?",
+      "definition": "A súlyos égésekben nagy mennyiségű sebváladék veszítés felboríthatja a beteg vérkeringését, sokkos állapotba kerülhet. Az elhalt bőrterületeket műtéti úton kell eltávolítani. Antibiotikus kezelés válhat szükségessé.",
+      "quote": "Folyadék-vesztés: sokk, fertőzés, komplikáció.",
+      "text": "A bőr léfontosságú védelmet nyújt a fertőzések ellen, ezért roncsolódása esetén az infúziós folyadékbevitel és antibiotikus kezelés elengedhetetlen."
+    },
+    {
+      "id": 31,
+      "term": "Milyen szerepe van a bőr-baktériumflórájának?",
+      "definition": "A bőr felszínén szimbióta baktériumok élnek, amelyek savas váladékot (pH 5.5) termelnek. Ez a savas béke (acid mantle) védi a bőrt a gombás és baktérium fertőzésektől, ezáltal biztosítja a bőr egészségét.",
+      "quote": "Szimbióta: savas, gombavédelem.",
+      "text": "Az alkalikus szappanok túlzott használata semlegesíti ezt a savas védelmet, szárazzá és sérülékennyé teheti a bőrt. Ezután hidratáló szerek segíthetnek az elvesztett nedvesség pótlásában."
+    },
+    {
+      "id": 32,
+      "term": "Hogyan működik a bőr regenerációja?",
+      "definition": "A bőr felső rétegei állandóan megújulnak. A felhám alsó rétegei mitózis révén folyamatosan osztódnak, az idősebb sejtek felfelé tolódnak, szarusodnak, végül elpusztulnak és lehámlódnak.",
+      "quote": "Mitózis, felfelé tolás, szarusodás, lepattanás.",
+      "text": "Ez az állandó megújulás biztosítja a bőr integritását és védelmi funkcióját. Az emberen naponta több milliárd hámsejt pusztul el és regenerálódik."
+    },
+    {
+      "id": 33,
+      "term": "Hogyan érdekesnek a napsugárzás hatása a bőrre?",
+      "definition": "A napsugárzás (UV sugárzás) felelős az anyajegyek kialakulásáért, a bőr barnulásáért (melanin termelés fokozódása) és hosszú távon bőrrákok kialakulásáért. A napozás egészségtani vonatkozásai: D-vitamin termelés előnyös, de UV-kár veszélyes.",
+      "quote": "UV: barnít, véd, de rák-kockázat.",
+      "text": "A megfelelő védekezés (napkrém, védőruha, időablak) szükséges a napsugárzás kedvezőtlen hatásainak megelőzéséhez, miközben a D-vitamin szintézis előnyei megmaradnak."
+    },
+    {
+      "id": 34,
+      "term": "Milyen szerepe van a hajápolásnak és bőrápolásnak?",
+      "definition": "A hajat szennyeződésektől és zsírosodástól függően kell mosni. Az alkalikus szappan túlzott tisztító hatása a savas védelmi réteget semlegesítheti. A bőrápolás során testápolókkal pótolható az elvesztett nedvesség.",
+      "quote": "Érdekesség: tisztaság, hidratáció egyensúlya.",
+      "text": "A hajkötőin már feltekeredett végeladás alapján megállapítható az igényes gondozás, illetve az alapos torülközés megakadályozza a gombás fertőzéseket."
+    }
+  ]
+}

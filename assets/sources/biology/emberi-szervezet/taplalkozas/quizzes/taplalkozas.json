@@ -1,0 +1,342 @@
+{
+  "subjectId": "biology",
+  "moduleId": "taplalkozas",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "A pepszin enzim termelődésének helyét és optimális működési kémhatását tekintve, melyik állítás HELYES?",
+      "options": [],
+      "answer": "A pepszin a gyomorban termelődik és savas kémhatásban (pH 2) működik optimálisan. Magyarázat: A pepszin a gyomorban a fősejtekben termelődik pepszinogén precursor formájában, amely az erős sósav hatására aktív formában szabadul fel. Optimális pH-ja 2, ez az oka annak, hogy a fehérjebontás elsősorban a gyomorban kezdődik meg"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Az alábbiak közül melyik jellemzés IGAZ az emésztés folyamatára a tápcsatorna különböző szakaszaiban?",
+      "options": [],
+      "answer": "A szénhidrátok lebontása a szájüreg nyálamilázával kezdődik, majd a hasnyálamiláz folytatja a folyamatot a vékonybélben. Magyarázat: A nyálamiláz a szájüreg nyálmirigyek által termelt enzim, amely a keményítőt maltózzá bontja. A hasnyálamiláz pedig a hasnyálmirigy által termelt enzim, amely a vékonybélben folytatja a szénhidrát emésztést"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "A máj szerepét az emésztésben és anyagcserében tekintve, melyik funkció NEM tartozik a máj fő feladata közé?",
+      "options": [],
+      "answer": "A máj a tápcsatornaban közvetlenül sava enzimeket termel a fehérjék és zsírok lebontásához. Magyarázat: A máj epét termel, amely nem enzim, hanem emulgeáló folyadék. A máj nem termel közvetlenül emésztőenzimeket a tápcsatornában. Az összes vizsgált funkció közül a máj nem végez enzimtermelést az emésztéshez"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "[TF] Az amiláz enzim specifikus szubsztrátja a keményítő, amely α-1,4 és α-1,6 glikozid kötéseket hasít fel.",
+      "options": [],
+      "answer": "IGAZ. Magyarázat: Az amiláz valóban az amilóz és amilopektin α-glikozid kötéseit bontja fel. A nyálamiláz α-1,4 kötéseket, az enzimek egy része pedig ágáthasító enzimként működik."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "A lipáz enzim működésének tekintetében melyik jellemzés HELYES?",
+      "options": [],
+      "answer": "A hasnyállipáz a hasnyálmirigy által termelt, a triglicerideket 2-monogliceridekre és zsírsavakra bontja lúgos pH-n. Magyarázat: A hasnyállipáz optimális pH-ja 8-8,5, azaz a vékonybél lúgos közegében működik. A máj által termelt epe szükséges az emulgeáláshoz, de nem enzim. A lipáz a zsírok esterképződésének feloldására szolgál"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "[BLANK] A tripszin, amely a hasnyálmirigy által termelt proteolit enzim, az alapszubsztrátja _____ kötések hasítása révén működik.",
+      "options": [],
+      "answer": "peptid. Magyarázat: A tripszin a hasnyálmirigy által termelt szerin-protease enzim, amely peptidkötéseket hasít fel. A tripszin specifikusan az arginin és lizin maradékok után lévő peptidkötéseket bontja."
+    },
+    {
+      "id": 7,
+      "type": "BLANK",
+      "question": "[TF] A ghrelin hormon az éhségérzet kialakulásáért felelős, és szintje az étkezés után közvetlenül a legmagasabb.",
+      "options": [],
+      "answer": "HAMIS. Magyarázat: A ghrelin szintje az étkezés előtt maximális, az étkezés után pedig a legalacsonyabb. A ghrelin az éhség kialakulásáért felelős hormon, amely a gyomor falán termelt peptidhormon."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "A leptin és a ghrelin hormonok közötti antagonisztikus viszony szempontjából melyik állítás HELYES?",
+      "options": [],
+      "answer": "A leptin a jóllakottsági jelet jelzi a hipotalamusznak, míg a ghrelin az éhség szignáljaként működik. Magyarázat: A leptin a zsírszövet által termelt hormon, amely a hipotalamuszban a jóllakottsági centrumra hat. A ghrelin ellentétes hatást fejt ki, az éhség érzését indukálja. Leptinrezisztencia során magas leptinszint mellett is fennáll az éhségérzet"
+    },
+    {
+      "id": 9,
+      "type": "BLANK",
+      "question": "[BLANK] A D-vitamin felszívódása és hatása szempontjából a _____ hormonként működik a nyálkahártyán a kalcium felszívódásának fokozásában.",
+      "options": [],
+      "answer": "kalcitriol vagy 1,25-dihidroxikolkalciferol. Magyarázat: A D-vitamin aktív formája a kalcitriol, amely hormonként működik. Elősegíti a kalcium felszívódását az epiteliális sejtekben a vékonybélben."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "A bélbolyhok (villi) felépítésénél melyik jellemzés HELYES az a felszívódás szempontjából?",
+      "options": [],
+      "answer": "A bélbolyhok egy sejtmély hámból állnak, amelyekben a mitokondrium és más organellumok gazdagok a transzport folyamatok megvalósításához. Magyarázat: A bélbolyhok egyrétegű oszlopos hámból épülnek fel, amely alatt erős kötőszöveti bázis van. Az epitél sejtek gazdag mitokondrium-tartalommal rendelkeznek az aktív transzporthoz szükséges ATP előállítása miatt"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "[TF] A felszívódás szempontjából a monoszszaharidok (glükóz, fruktóz) passzív diffúzióval szívódnak fel a bélnyálkahártyán.",
+      "options": [],
+      "answer": "HAMIS. Magyarázat: A glükóz aktív transzporttal szívódik fel cotranszporter fehérjék segítségével. A fruktóz pedig főként fasicilis diffúzióval, de egyes részben aktív transzporttal is."
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "A bélmikroflóra szerepét tekintve az alábbiak közül melyik NEM igaz?",
+      "options": [],
+      "answer": "A bélbaktériumok K-vitamin termelése során előállított K-vitamin közvetlenül a szájüregben szívódik fel. Magyarázat: A vastagbélben élő baktériumok termelik meg a K-vitamint. A K-vitamin a vastagbélben, nem a szájüregben szívódik fel. Az antibiotikum szedés hosszú ideig tartó hiánya a K-vitaminhiányhoz vezethet"
+    },
+    {
+      "id": 13,
+      "type": "BLANK",
+      "question": "[BLANK] A tápcsatorna _____ szakaszában végzik le a zsírok és lipidek teljes emésztését, mivel itt működik a hasnyállipáz enzim és a máj epéje a hasnyálmirigy bikarbonátal biztosítja a szükséges lúgos kémhatást.",
+      "options": [],
+      "answer": "vékonybél (vagy patkóbél). Magyarázat: Az emésztés szakaszaiban vékonybél az a régió, ahol a lipidek és zsírok teljes lebontása megtörténik. A patkóbél az első szakasza a vékonybélnek, ahova az összes emésztőnedv beáramlik."
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "A szájüreg nyálkahártyáját borító nyálkaanyag (mucin) és a nyál funkciójának összefüggéseit tekintve melyik HELYES?",
+      "options": [],
+      "answer": "A mucin a nyálban lévő protein, amely a szájüreg mechanikai és kiszáradás elleni védelmét látja el, valamint a falatképzésben játszik szerepet. Magyarázat: A mucin olyan szerkezet, amely viszkózus és nyújtó csapadékot képez. Ez a mucin összeragasztja az élelmiszereket és segít a falat képzésében a rágás során"
+    },
+    {
+      "id": 15,
+      "type": "BLANK",
+      "question": "[TF] Az emberi fog zománcrétege sejtmentes, élettelen, a szervezet által nem regenerálható, azonban az alatt lévő dentin tudja új dentin képzésével helyreállítani a sérüléseket.",
+      "options": [],
+      "answer": "IGAZ. Magyarázat: A zománc valóban regeneráció-képtelen réteg. Az alatt lévő dentin azonban odontoblastok segítségével képes másodlagos dentint termelni sérülésre válaszul."
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "A fogképlet és fogváltás folyamatát tekintve melyik állítás HELYES?",
+      "options": [],
+      "answer": "A tejfogak elülső-hátúlt folyamatosan kiesnek és helyüket a maradó fogak veszik át, a fogváltás jellemzően a 6. életévben kezdődik meg. Magyarázat: A fogváltás körülbelül 6 éves korban kezdődik, amikor a tejfogak gyökerei felszívódnak és a fogak kiesnek. Az utolsó tejőrlő kihullása körülbelül 11 éves korban következik be"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "[BLANK] A fogképlet az egyik oldali _____ és alsó kvadránson belül az egyes fogtípusok számát mutatja, ahol egy kvadránsban 8 fog helyezkedik el.",
+      "options": [],
+      "answer": "felső vagy felsô. Magyarázat: A fogképlet a felső és alsó fogaknak az egyik oldalát ábrázolja. A fogak 4 kvadránsra oszlanak, melyek közül egyik felső és egy alsó oldal egy oldalát reprezentálja."
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "A glikémiás index (GI) fogalmát tekintve melyik jellemzés HELYES?",
+      "options": [],
+      "answer": "A glikémiás index egy 0-100 közötti skálán méri, hogy egy élelmiszer a vércukorszintet mekkora mértékben és milyen gyorsan emeli meg. Magyarázat: A magas GI-indexű élelmiszerek gyorsan és nagymértékben emelik meg a vércukorszintet, ami az inzulin termelésének fokozódásához vezet. Ezt követően 1-2 órával hipoglikémia alakul ki"
+    },
+    {
+      "id": 19,
+      "type": "BLANK",
+      "question": "[TF] A rostanyagok emésztésénél az emberi szervezetben termelődő emésztőenzimek teljes mértékben felszívódtatják a celluláz szerkezetű rostokat.",
+      "options": [],
+      "answer": "HAMIS. Magyarázat: Az emberi szervezetben nincs cellulázis enzim. A rostok a vastagbél baktériumai által csak részben szétbontva kerülnek kiürítésre a széklettel."
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "A vitaminok közül melyik csoport oldódik zsírban (zsíroldékony vitaminok)?",
+      "options": [],
+      "answer": "D-vitamin, E-vitamin, K-vitamin, A-vitamin. Magyarázat: Ezek mind zsírban oldódó vitaminok, amelyek szöveti tárolódásra képesek a máj és a zsírszövetekben. Túlzott bevitelük hipervitaminózishoz vezethet"
+    },
+    {
+      "id": 21,
+      "type": "BLANK",
+      "question": "[BLANK] A _____ vitamin hiánya szürkületi vakságot (farkasvakságot) és végül teljes vakságot okozhat, mivel előanyaga a szem retinájában a fényelektront befogó retinal vegyületnek.",
+      "options": [],
+      "answer": "A-vitamin. Magyarázat: Az A-vitamin esszenciális a látáshoz, és ennek hiánya szürkületi vakságot, majd teljes vakságot okozhat. A retinal a retina fotoreceptor sejtjeiben van jelen."
+    },
+    {
+      "id": 22,
+      "type": "MC",
+      "question": "A C-vitamin biokémiai funkcióit tekintve melyik állítás HELYES?",
+      "options": [],
+      "answer": "A C-vitamin erős redukálószer és antioxidáns, amely hidrogéndonorként működik a sejtekbe, továbbá elősegíti a vas és kalcium felszívódását az emésztőcsatornában. Magyarázat: Az aszkorbinsav több biokémiai szerepet játszik: hidrogén adományozó, antioxidáns, és a vas-felszívódás katalitikus faktora. A skorbutban ezeknek a funkciónak hiánya nyilvánvalóvá válik"
+    },
+    {
+      "id": 23,
+      "type": "BLANK",
+      "question": "[TF] A B1-vitamin (tiamin) koenzimként működik elsősorban a szénhidrátok lebontása során az energiaforgalom során, hiánya a beri-beri betegséghez vezet.",
+      "options": [],
+      "answer": "IGAZ. Magyarázat: A B1-vitamin a szénhidrátemésztés és energiatermelés koenzime. Hiánya szívelégtelenség, ödémaképződés, és neurológiai panaszok miatt kialakuló beri-beri betegséget okozhat."
+    },
+    {
+      "id": 24,
+      "type": "MC",
+      "question": "A K-vitamin szerepét a szervezetben melyik állítás írja le helyesen?",
+      "options": [],
+      "answer": "A K-vitamin a máj véralvadási faktorainak (protrombinnak) szintetizálásához szükséges, és részben a vastagbél baktériumai termelik meg. Magyarázat: A K-vitamin nélkülözhetetlen a véralvadás normális működéséhez. A hosszú antibiotikum-kezelés vagy bélgyulladás miatt K-vitamin-hiány alakulhat ki"
+    },
+    {
+      "id": 25,
+      "type": "BLANK",
+      "question": "[BLANK] Az alapanyagcsere (alapmetabolizmus) a szervezet fenntartásához szükséges _____ energia termelése, amely körülbelül 60-70 %-a a napi energiaszükségletnek.",
+      "options": [],
+      "answer": "minimális. Magyarázat: Az alapanyagcsere az olyan vitális funkciók energiaigénye, mint a keringés, kiválasztás, idegi szabályozás, és hőtermelés fenntartása."
+    },
+    {
+      "id": 26,
+      "type": "MC",
+      "question": "A testtömegindex (BMI) értékelésénél melyik állítás HELYES?",
+      "options": [],
+      "answer": "A BMI 20-25 közötti érték az egészséges testsúlyt jelzi, azonban az érték függ az életkortól, nemtől és testösszetételtől. Magyarázat: A BMI tájékoztató érték, de nem tökéletes, mert nem veszi figyelembe a testösszetételt. Sportolóknál nagy izomtömeg magasabb BMI-t eredményez az azonos súlyú nem sportolóhoz képest"
+    },
+    {
+      "id": 27,
+      "type": "BLANK",
+      "question": "[TF] A rendszeresen magas glikémiás indexű élelmiszerek fogyasztása révén az inzulin termelésének fokozódása és az azt követő hipoglikémia hosszú ideig tartó, erős éhségérzetet okozhat.",
+      "options": [],
+      "answer": "IGAZ. Magyarázat: A magas GI-indexű élelmiszerek gyors vércukor-emelkedést okoznak, amelyre az inzulin erős válasza nagy vércukor-zuhanást eredményez, ami kifejezett éhséget kiválthat."
+    },
+    {
+      "id": 28,
+      "type": "MC",
+      "question": "A szomjúságközpontot tekintetbe véve, mely hipotalamikus regio-t aktiválja a vér ozmotikus koncentrációjának emelkedése?",
+      "options": [],
+      "answer": "A szomjúságközpont a hipotalamuszban található, és aktiválódik a vér ozmotikus koncentrációjának emelkedésekor, amely csökkent folyadékbevitel által okozódik. Magyarázat: Az ozmotikus receptorok felfedik a sót és a vízkoncentráció viszonyát. A szomjúságközpont aktiválódása vízkereső magatartást válthat ki"
+    },
+    {
+      "id": 29,
+      "type": "BLANK",
+      "question": "[BLANK] A nyálamiláz enzim specifikus szubsztrátja a _____, amely glikozidkötéseit malózára bontja szájüreg.",
+      "options": [],
+      "answer": "keményítő (vagy amilóz). Magyarázat: A nyálamiláz a keményítő (amilóz) és a glikogén α-1,4 glikozid kötéseit hasítja fel maltózzá. Ez a szénhidrát emésztés kezdete."
+    },
+    {
+      "id": 30,
+      "type": "MC",
+      "question": "A máj funkciójáról vallhatunk-e azt, hogy az nem játszik közvetlenül szerepet az emésztőenzimek termelésében?",
+      "options": [],
+      "answer": "Igen, a máj nem termel közvetlenül emésztőenzimeket, hanem epét, amely emulgeáló folyadék. Magyarázat: A máj epét termel, amely nem enzim. Az emésztőenzimek a nyálmirigyek, a gyomor és a hasnyálmirigy termelik. Az enzimek a tápcsatornában szabadul fel"
+    },
+    {
+      "id": 31,
+      "type": "BLANK",
+      "question": "[TF] A telített és telítetlen zsírsavak közötti különbség az, hogy a telített zsírsavaknak vannak kettős szénkötéseiket, míg a telítetlen zsírsavaknak nincs.",
+      "options": [],
+      "answer": "HAMIS. Magyarázat: Éppen az ellenkezője igaz: a telített zsírsavak NO kettős szénkötéseket tartalmaznak, míg a telítetlen zsírsavaknak VAN egy vagy több kettős szénkötése."
+    },
+    {
+      "id": 32,
+      "type": "MC",
+      "question": "A laktáz enzim szerepe melyik szénhidrátnak a lebontásában áll?",
+      "options": [],
+      "answer": "A laktáz a tejcukrot (laktózt) két monoszaharidra (glükóz és galaktóz) bontja fel a vékonybélben. Magyarázat: A laktáz a vékonybél nyálkahártyájában termelődő enzim, amely a laktóz emésztéséhez szükséges. Laktózintoleranciában a laktáz termelődése csökken az életkor előrehaladtával"
+    },
+    {
+      "id": 33,
+      "type": "BLANK",
+      "question": "[BLANK] A bélperistaltika szervezete az ellentétes irányú _____ simaizom-rétegek összehúzódása révén biztosítja a táplálék mozgását lefelé a tápcsatornában.",
+      "options": [],
+      "answer": "hosszanti és körkörös. Magyarázat: A peristaltika hosszanti és körkörös izomrétegek koordinált munkájával működik, amely falvolt típusú hullámban mozgatja a táplálékot szájától a végbélnyílásig."
+    },
+    {
+      "id": 34,
+      "type": "MC",
+      "question": "A pepszin enzim működésének tekintetében melyik állítás NEM IGAZ?",
+      "options": [],
+      "answer": "A pepszin a glükóz és a keményítő szénhidrátos lebontásáért felelős enzim. Magyarázat: A pepszin proteolaktikus enzim, amely a fehérjéket lebontja, nem a szénhidrátokat. A szénhidrátok lebontása a amiláz enzimek által végzett funkcció"
+    },
+    {
+      "id": 35,
+      "type": "BLANK",
+      "question": "[TF] Az emésztésében szereplő szekrétin hormon a hasnyálmirigyből termelődik és a gyomor ürítésének szabályozásában játszik szerepet.",
+      "options": [],
+      "answer": "HAMIS. Magyarázat: A szekrétin a vékonybél S sejtjei által termelődik, nem a hasnyálmirigytől. A szekrétin a gyomor savtermelésének csökkentésére és a hasnyálmirigy bikarbonat-termelésének fokozására hat."
+    },
+    {
+      "id": 36,
+      "type": "MC",
+      "question": "Az eppenhatás (epperisztaltika) szempontjából melyik szerv játszik kulcsszerepet az emésztésben?",
+      "options": [],
+      "answer": "A máj által termelt és a vesiculae biliaris által tárolódó epe emulgeálja a zsírokat, ezáltal felszívódásukat lehetővé teszi. Magyarázat: Az epe nem enzim, hanem emulgeáló folyadék, amely a zsíroknak a felszívódási felület növelésre. Koleszterinből és sóból áll"
+    },
+    {
+      "id": 37,
+      "type": "BLANK",
+      "question": "[BLANK] A _____ a vékonybélben a membránhoz kötött enzimek egy csoportja, amelyek az amino-oligopeptideket monosaccharidokra bontják fel a teljes fehérje-emésztés befejezésében.",
+      "options": [],
+      "answer": "membránpeptidázok. Magyarázat: A membránpeptidázok a bélnyálkahártya mikrovilliához kötöttek, és végzik az aminosav-felszívódás előtti végső bontást."
+    },
+    {
+      "id": 38,
+      "type": "MC",
+      "question": "A beri-beri betegség tünetei közül melyik NEM jellemző?",
+      "options": [],
+      "answer": "Az aranyértékű zsír-szövet felszaporodása. Magyarázat: A beri-beri B1-vitamin hiányból ered, amely szívelégtelenség, fájdalom, bénulás, és neurológiai panaszokat okoz. Nem okozza a zsírszövet felszaporodást, hanem az izomgyengeséget és fáradtságot"
+    },
+    {
+      "id": 39,
+      "type": "BLANK",
+      "question": "[TF] A skorbutban az érintett szövetek jellegzetesen vérzékenyekké válnak a C-vitamin hiánya miatt, amely a kollagénszintézisben játszik szerepet.",
+      "options": [],
+      "answer": "IGAZ. Magyarázat: A C-vitamin nélkülözhetetlen a kollagén hidroxilálásához. A hiánya az érfalak és az íny meggyengítése miatt vérzékenységet okoz."
+    },
+    {
+      "id": 40,
+      "type": "MC",
+      "question": "A szajüreg ízműködése szempontjából melyik állítás HELYES az umami ízzel kapcsolatban?",
+      "options": [],
+      "answer": "Az umami az ötödik alapíz, amelyet természetesen a glutamátonok és nukleotidok (pl. guanozimon) okoznak. Magyarázat: Az umami japánul finom ízt jelent. A mesterséges umami-adalékanyag az E621 nátrium-glutamát. Előfordul paradicsomban és parmezán sajtban"
+    },
+    {
+      "id": 41,
+      "type": "BLANK",
+      "question": "[BLANK] A K-vitamin hiánya hosszú antibiotikum-terápia vagy bélgyulladás során kialakulhat, mivel a _____ szakaszban élő baktériumok termelik meg a K-vitamint.",
+      "options": [],
+      "answer": "vastagbél. Magyarázat: A vastagbélben (kolon) élő baktériumflóra nagy mennyiségben termel K-vitamint. Antibiotikumok megsemmisítik a baktériumokat, így a K-vitamin-hiány kialakul."
+    },
+    {
+      "id": 42,
+      "type": "MC",
+      "question": "A D-vitaminhiányának következtében az angol-kór kialakulásánál melyik folyamat zavarodik meg?",
+      "options": [],
+      "answer": "A kalcium felszívódása a bélből és az ásványi anyagok beépítése a csontokba. Magyarázat: A D-vitamin hiánya kalcium hiányt eredményez, amely a csontok ásványi összetevőjének demineralizációjához vezethet, így csontritkulás, deformáció és csonttörések jelennek meg főleg gyermekekben"
+    },
+    {
+      "id": 43,
+      "type": "BLANK",
+      "question": "[TF] Az E-vitamin (tokoferol) antioxidáns szerepe az, hogy megvédi a többszörösen telítetlen zsírsavak oxidációját csökkentve a szabadgyökök által okozódhat káros hatásokat.",
+      "options": [],
+      "answer": "IGAZ. Magyarázat: Az E-vitamin könnyen oxidálódik, amíg megvédi más molekulákat a szabadgyökkeltől. Ez a lipidperoxidáció gátlásában fontos."
+    },
+    {
+      "id": 44,
+      "type": "MC",
+      "question": "Az emésztés folyamatát és a tápanyagok anyagcseréjét tekintve melyik állítás HELYES?",
+      "options": [],
+      "answer": "Az emésztés során a makromolekulák lebontása monomerekre, majd ezek felszívódása után a sejtszintű anyagcsere folytatódik az energiatermelés és az anabolikus folyamatok végzése miatt. Magyarázat: Az emésztésben és felszívódásban nyert monomerek (glükóz, aminosavak, zsírsavak) a sejtekbe kerülnek, ahol az anyagcserében szerepet játszanak"
+    },
+    {
+      "id": 45,
+      "type": "BLANK",
+      "question": "[BLANK] A _____ a testsúlynak a magasság négyzetével való felosztásából kiszámított szám (kg/m2), amely felnőttek egészséges testsúlyának becslésére szolgál.",
+      "options": [],
+      "answer": "testtömegindex vagy BMI. Magyarázat: A BMI a testtömegindex, amely az egészséges súlytartomány meghatározásában segít, azonban nem veszi figyelembe a testösszetételt és az izomtömeget."
+    },
+    {
+      "id": 46,
+      "type": "MC",
+      "question": "A zsírfiltrációs szerepe a tápcsatorna működésében melyik szervnek az funkciójával áll összefüggésben?",
+      "options": [],
+      "answer": "A máj által termelt és a vesiculae biliaris által tárolódó epe a zsírok emulgeálásában játszik szerepet, amely növeli a felszívódási felületet és a lipáz enzim hatékonyságát. Magyarázat: Az epe nem enzim, de szükséges ahhoz, hogy a lipáz zavartalan módon működjön a zsír felszívódásakor"
+    },
+    {
+      "id": 47,
+      "type": "BLANK",
+      "question": "[TF] A hipotalamusz éhségközpontjának aktiválódása során a ghrelin hormon szintje csökken, és az étvágy növekedik.",
+      "options": [],
+      "answer": "HAMIS. Magyarázat: A hipotalamusz éhségközpontjának aktiválódása magas ghrelin-szinttel jár. Az alacsony ghrelin-szint a jóllakottság jelét jelzi."
+    },
+    {
+      "id": 48,
+      "type": "MC",
+      "question": "A glükóz felszívódása a vékonybél nyálkahártyáján melyik transzportmechanizmus révén valósul meg?",
+      "options": [],
+      "answer": "Az aktív transzporter mechanizmuson keresztül, amely a Na+ ionokkal való cotranszporttal működik az SGLT1 fehérje segítségével. Magyarázat: A glükóz fő felszívódási módja a SGLT1 cotranszporter által közvetített Na+-glükóz symporter. Ez aktív transzport, amely ATP-t igényelhet"
+    }
+  ]
+}

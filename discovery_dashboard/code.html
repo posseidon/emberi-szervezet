@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Lumina - Discovery Dashboard</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+  tailwind.config = {
+    darkMode: "class",
+    theme: {
+      extend: {
+        colors: {
+          "primary": "#0fbd52",
+          "background-light": "#f6f8f7",
+          "background-dark": "#102217",
+          "surface": "#FFFFFF",
+          "text-main": "#2B302D",
+          "text-muted": "#909893",
+          "border-color": "#E3E5E4",
+          "accent": "#D4A373"
+        },
+        fontFamily: {
+          "display": ["Manrope", "sans-serif"]
+        },
+        borderRadius: {"DEFAULT": "0.125rem", "sm": "0.25rem", "lg": "0.25rem", "xl": "0.5rem", "full": "0.75rem"},
+      },
+    },
+  }
+</script>
+<style>
+  body {
+    background-color: #f6f8f7;
+    color: #2B302D;
+    font-family: 'Manrope', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .card-hover:hover {
+    border-color: #909893;
+    transform: translateY(-2px);
+  }
+  .card-hover {
+    transition: all 0.3s ease;
+  }
+</style>
+</head>
+<body class="bg-background-light dark:bg-background-dark text-text-main font-display min-h-screen flex flex-col">
+<!-- Top Navigation Bar -->
+<header class="flex items-center justify-between whitespace-nowrap border-b border-solid border-border-color bg-surface px-10 py-3 shrink-0">
+<div class="flex items-center gap-8">
+<div class="flex items-center gap-4 text-text-main">
+<div class="size-4 text-primary">
+<svg fill="none" viewbox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_6_330)">
+<path clip-rule="evenodd" d="M24 0.757355L47.2426 24L24 47.2426L0.757355 24L24 0.757355ZM21 35.7574V12.2426L9.24264 24L21 35.7574Z" fill="currentColor" fill-rule="evenodd"></path>
+</g>
+<defs>
+<clippath id="clip0_6_330"><rect fill="white" height="48" width="48"></rect></clippath>
+</defs>
+</svg>
+</div>
+<h2 class="text-text-main text-lg font-bold leading-tight tracking-[-0.015em]">Lumina</h2>
+</div>
+<label class="flex flex-col min-w-40 !h-10 max-w-64">
+<div class="flex w-full flex-1 items-stretch rounded-sm h-full border border-border-color overflow-hidden">
+<div class="text-text-muted flex bg-background-light items-center justify-center pl-4 pr-2" data-icon="magnifying_glass" data-size="24px" data-weight="regular">
+<span class="material-symbols-outlined text-[20px]">magnification_large</span>
+</div>
+<input class="form-input flex w-full min-w-0 flex-1 resize-none overflow-hidden text-text-main focus:outline-none focus:ring-0 border-none bg-background-light h-full placeholder:text-text-muted px-2 text-sm font-medium leading-normal" placeholder="Search courses" value=""/>
+</div>
+</label>
+</div>
+<div class="flex flex-1 justify-end gap-8">
+<div class="bg-center bg-no-repeat aspect-square bg-cover rounded-full size-10 border border-border-color" data-alt="User profile portrait" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuA6_tzCNo_lEtIxv5j3RqOV17ibIHNH7JIl8WJDIX2t_d7uue4vRecj3FPGkoEFA7Pj8p0uYu0NUMTgHMCcNUjKdFzEtvm_9q0nkOhtKeTmp3Y_bVKnt5hPedNiOz3cFyo4OL40k9OZ_jJ64QZSjAoHkvZQZXA4pm36JbY0wEI4fbMeyflbD4ihI-FbrlPSKfDCdUeqHrKJ_OrarYpJyGabUyhLSdGsXlcFdFlhdp2G8SW-h-KgztDZsql4xeS1zyd2iVWFYhu5Bwph");'></div>
+</div>
+</header>
+<!-- Main Content Area -->
+<main class="flex-1 max-w-[1400px] w-full mx-auto p-8 lg:p-12">
+<div class="flex flex-col gap-10">
+<!-- Section Header -->
+<div class="flex items-end justify-between border-b border-border-color pb-6">
+<div>
+<h3 class="text-xs font-bold text-text-muted tracking-wider uppercase mb-2">Curriculum Overview</h3>
+<h1 class="text-4xl font-bold text-text-main tracking-tight">Your Subjects</h1>
+</div>
+<button class="text-sm font-bold text-primary hover:text-primary/80 transition-colors flex items-center gap-2 px-4 py-2 border border-primary/20 rounded-sm">
+<span class="material-symbols-outlined text-[18px]">add</span>
+      Browse Full Catalog
+    </button>
+</div>
+<!-- Subjects Grid -->
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+<!-- Subject Card 1 -->
+<div class="bg-surface border border-border-color p-8 rounded-sm card-hover flex flex-col h-full cursor-pointer group">
+<div class="flex items-start justify-between mb-8">
+<div class="size-12 rounded-sm bg-primary/10 text-primary flex items-center justify-center">
+<span class="material-symbols-outlined text-[28px]">science</span>
+</div>
+</div>
+<div class="flex-grow">
+<h4 class="text-xl font-bold text-text-main group-hover:text-primary transition-colors mb-2">Organic Chemistry</h4>
+<p class="text-sm text-text-muted leading-relaxed">Currently studying: Alkanes &amp; Alkenes. You have 3 pending assignments this week.</p>
+</div>
+<div class="mt-8 pt-6 border-t border-border-color flex items-center justify-between">
+<span class="text-xs font-bold text-text-muted uppercase tracking-wide">Next: Molecular Geometry</span>
+<span class="material-symbols-outlined text-text-muted group-hover:translate-x-1 transition-transform">arrow_forward</span>
+</div>
+</div>
+<!-- Subject Card 2 -->
+<div class="bg-surface border border-border-color p-8 rounded-sm card-hover flex flex-col h-full cursor-pointer group">
+<div class="flex items-start justify-between mb-8">
+<div class="size-12 rounded-sm bg-primary/10 text-primary flex items-center justify-center">
+<span class="material-symbols-outlined text-[28px]">biotech</span>
+</div>
+</div>
+<div class="flex-grow">
+<h4 class="text-xl font-bold text-text-main group-hover:text-primary transition-colors mb-2">Cellular Biology</h4>
+<p class="text-sm text-text-muted leading-relaxed">Currently studying: Cell Division. Review mitochondria mechanics for the upcoming quiz.</p>
+</div>
+<div class="mt-8 pt-6 border-t border-border-color flex items-center justify-between">
+<span class="text-xs font-bold text-text-muted uppercase tracking-wide">Next: Mitosis Phases</span>
+<span class="material-symbols-outlined text-text-muted group-hover:translate-x-1 transition-transform">arrow_forward</span>
+</div>
+</div>
+<!-- Subject Card 3 -->
+<div class="bg-surface border border-border-color p-8 rounded-sm card-hover flex flex-col h-full cursor-pointer group">
+<div class="flex items-start justify-between mb-8">
+<div class="size-12 rounded-sm bg-primary/10 text-primary flex items-center justify-center">
+<span class="material-symbols-outlined text-[28px]">history_edu</span>
+</div>
+</div>
+<div class="flex-grow">
+<h4 class="text-xl font-bold text-text-main group-hover:text-primary transition-colors mb-2">World History</h4>
+<p class="text-sm text-text-muted leading-relaxed">Currently studying: The Renaissance. Focus on early 15th-century Florentine art.</p>
+</div>
+<div class="mt-8 pt-6 border-t border-border-color flex items-center justify-between">
+<span class="text-xs font-bold text-text-muted uppercase tracking-wide">Next: The Reformation</span>
+<span class="material-symbols-outlined text-text-muted group-hover:translate-x-1 transition-transform">arrow_forward</span>
+</div>
+</div>
+<!-- Subject Card 4 (New to fill grid) -->
+<div class="bg-surface border border-border-color p-8 rounded-sm card-hover flex flex-col h-full cursor-pointer group">
+<div class="flex items-start justify-between mb-8">
+<div class="size-12 rounded-sm bg-primary/10 text-primary flex items-center justify-center">
+<span class="material-symbols-outlined text-[28px]">functions</span>
+</div>
+</div>
+<div class="flex-grow">
+<h4 class="text-xl font-bold text-text-main group-hover:text-primary transition-colors mb-2">Calculus II</h4>
+<p class="text-sm text-text-muted leading-relaxed">Currently studying: Integration by Parts. Final exam prep modules now available.</p>
+</div>
+<div class="mt-8 pt-6 border-t border-border-color flex items-center justify-between">
+<span class="text-xs font-bold text-text-muted uppercase tracking-wide">Next: Polar Coordinates</span>
+<span class="material-symbols-outlined text-text-muted group-hover:translate-x-1 transition-transform">arrow_forward</span>
+</div>
+</div>
+<!-- Subject Card 5 (New to fill grid) -->
+<div class="bg-surface border border-border-color p-8 rounded-sm card-hover flex flex-col h-full cursor-pointer group">
+<div class="flex items-start justify-between mb-8">
+<div class="size-12 rounded-sm bg-primary/10 text-primary flex items-center justify-center">
+<span class="material-symbols-outlined text-[28px]">language</span>
+</div>
+</div>
+<div class="flex-grow">
+<h4 class="text-xl font-bold text-text-main group-hover:text-primary transition-colors mb-2">Modern Linguistics</h4>
+<p class="text-sm text-text-muted leading-relaxed">Currently studying: Phonology. Explore the sound systems of diverse language families.</p>
+</div>
+<div class="mt-8 pt-6 border-t border-border-color flex items-center justify-between">
+<span class="text-xs font-bold text-text-muted uppercase tracking-wide">Next: Morphology</span>
+<span class="material-symbols-outlined text-text-muted group-hover:translate-x-1 transition-transform">arrow_forward</span>
+</div>
+</div>
+<!-- Subject Card 6 (Empty/Add state) -->
+</div>
+</div>
+</main>
+</body></html>

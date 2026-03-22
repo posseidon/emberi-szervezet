@@ -1,0 +1,144 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi a többsejtűség kialakulásának előnye?",
+      "definition": "A többsejtűség kialakulásának vitathatatlan előnye a munkamegosztás. Az egyes sejtek különféle feladatok ellátására specializálódnak, amelyet hatékonyabban végezhetnek el.",
+      "quote": "Célzott feladatosztás sejten belül",
+      "text": "Az egy sejtűeknek szüntelen a teljes életműködést kell produkálniuk, míg a többsejtűek sejtjei belső miljőben nem érintkeznek a külvilággal és specializálódhatnak."
+    },
+    {
+      "id": 2,
+      "term": "Milyen szerveződési szintjei vannak az élőlényeknek?",
+      "definition": "Az egysejtűek (prokarióták és egysejtű eukarióták), többsejtűek (sejttársulás, telepes szerveződés, szövetes szerveződés) ezek a szerveződési szintek.",
+      "quote": "Szerveződés szintjei",
+      "text": "A szövetes szerveződés a legmagasabb szint, ahol a sejtek különféle szövetekbe csoportosulnak. Egy szövet egy adott feladat ellátására specializálódott sejtek összessége."
+    },
+    {
+      "id": 3,
+      "term": "Mi az a sejttársulás?",
+      "definition": "A sejttársulásban a sejtek osztódás után általában közös kocsonyaburokban együtt maradnak, közöttük munkamegosztás nincs, megőrzik önállóságukat.",
+      "quote": "Kocsonyaburokban összetapadó sejtek",
+      "text": "Ilyen sejttársulás a zöldmoszatok közé tartozó harmonikamoszat. A sejtek kvázi egysejtűként működnek."
+    },
+    {
+      "id": 4,
+      "term": "Mit jelent a telepes szerveződés?",
+      "definition": "A telepen belül a sejtek már kismértékben különféle feladatok ellátására specializáltak, önállóságukat elvesztették. Ez az álszövetes szerveződés.",
+      "quote": "Kezdődő differenciálódás",
+      "text": "Ezen a szerveződési szinten állnak a gombák, többsejtű moszatok, mohák és az állatok közé tartozó szivacsok."
+    },
+    {
+      "id": 5,
+      "term": "Mi a szövetes szerveződés?",
+      "definition": "A szövetes szerveződés a legmagasabb szintű többsejtű szerveződési forma, ahol a sejtek különféle szövetekbe csoportosulnak.",
+      "quote": "Speciális szövetek szervezete",
+      "text": "Szövetes élőlények a magasabb rendű növények (harasztok, nyitvatermők, zárvatermők) és a csalánozóktól kezdve az összes állat."
+    },
+    {
+      "id": 6,
+      "term": "Mi az a növényi sejt jellegzetessége?",
+      "definition": "A növényi sejt cellulosznál sejtfallal határolt, állandó alakú és hatszöges. A citoplazmában zöld színtestek és vakuólumok helyezkednek el.",
+      "quote": "Sejtfal, zöld színtest, vakuólum",
+      "text": "A tartalék tápanyag keményítő vagy olaj. A vakuólumok feladata a sejtek belső terének kitöltése, tápanyagok és anyagcseretermékek raktározása."
+    },
+    {
+      "id": 7,
+      "term": "Mi az a magyarázat az állati és növényi szervezetekre?",
+      "definition": "Az autotróf fotoszintetizáló életmód lehetővé tette a növényi szerveződés kialakulását, míg a heterotróf kemotróf anyagcsere az állati szerveződéshez vezetett.",
+      "quote": "Anyagcsere típus szerveződés",
+      "text": "Az eukarióta sejteket alapvetően az eltérő anyagcseréjük különböztet meg, amely alapján a növényi (autotróf) és állati (heterotróf) szervezete kialakult."
+    },
+    {
+      "id": 8,
+      "term": "Mi a nemzetségváltakozás a növényeknél?",
+      "definition": "A nemzetségváltakozás egy evolúciós újítás, amelynek során a haploid ivaros és diploid ivartalan szakaszok jellegzetesen váltják egymást.",
+      "quote": "Haploid és diploid váltás",
+      "text": "A mohákban a haploid ivaros szakasz fejlettebb a diploid ivartalan szakasznál. A harasztoknál már az ivartalan szakasz fejlettebb az ivarosnál."
+    },
+    {
+      "id": 9,
+      "term": "Mi a mohatelep jellegzetessége?",
+      "definition": "A mohatelep testszerű, tagolt, különböző alakú és működésű sejtekből épül fel, de valódi szöveteket nem tartalmaz.",
+      "quote": "Testszerű de szövet nélkül",
+      "text": "A mohatelep gyakran gyökérszerű fonalak (gyökerecske), fotoszintetizáló levelek (levelecske) és szárszerű képlet (száracska) és spóratartó szöveteket tartalmaz."
+    },
+    {
+      "id": 10,
+      "term": "Mi az a mohaszaporodás módja?",
+      "definition": "A mohák vegetatív úton feldarabolódással, ivartalanul spórákkal és ivarosan ivarsejtekkel szaporodhatnak.",
+      "quote": "Háromféle szaporodási mód",
+      "text": "A moha száraz állapotban könnyen törik, morzsolódik, így minden töredékből új növény fejlődhet. A spóraképzés és ivarsejtképzés a kétszakaszos fejlődéshez vezet."
+    },
+    {
+      "id": 11,
+      "term": "Mi az elotelep és szerepe a mohák fejlődésében?",
+      "definition": "Az előtelep egy fonalas, haploid szövetszerkezet, amely a haploid spórából mitózissal fejlődik és az ivarsejteket termelő szerv.",
+      "quote": "Fonalas ivarsejttermelő",
+      "text": "Az előtelepből mitózissal fejlődik ki a haploid mohanövényke. Az előtelep a mohák legrövididebb, de legkörülményesebbnek elnevezett szakasza."
+    },
+    {
+      "id": 12,
+      "term": "Mi az a megtermékenyítés szükségessége a moháknál?",
+      "definition": "A megtermékenyítéshez a kétostoros hímivarsejtek vízcseppben a női ivarszervekhez úsznak, szükséges a víz mint közeg.",
+      "quote": "Víz között megfertőzés",
+      "text": "Ez az oka annak, hogy a mohák szaporodása még vízhez kötött, szemben a nyitvatermőkkel, amelyeknek megtermékenyítése vízre független."
+    },
+    {
+      "id": 13,
+      "term": "Mi a zigóta és diploid szakasz a moháknál?",
+      "definition": "A megtermékenyítés után létrejön a diploid zigóta, amely mitózissal fejlődik a diploid spóratartó szövetévé.",
+      "quote": "Diploid spóratartó",
+      "text": "A spóratartó csupán egy nyélen függő szerv, amely meiózissal haploid spórákat termel. Ez az ivartalan diploid szakasz."
+    },
+    {
+      "id": 14,
+      "term": "Mi az a mohák ökológiai szerepe?",
+      "definition": "A mohák számos olyan élőhelyet benépesítették, ahol a vízellátás csupán rövid ideig kedvező. Pionír élőlények, jól regenerálódnak és indikátor fajok.",
+      "quote": "Ellenálló pionír szervezetek",
+      "text": "A mohák légszáraz állapotban hetekig, sőt hónapokig megtartják életképességüket. Egyetlen sejtrétegből álló levélkéik átjárhatók a víz és oldott sók számára."
+    },
+    {
+      "id": 15,
+      "term": "Mi a harasztok és evolúciós jelentősége?",
+      "definition": "A harasztok kb. 400 millió évvel ezelőtt voltak az első valódi szövetes és hajtásos (valódi szervekkel rendelkező) növények.",
+      "quote": "Első szövetes növények",
+      "text": "A harasztoknál az ivartalan szakasz már fejlettebb az ivarosnál. Ez az evolúciós trend folytatódik a nyitvatermőkben és zárvatermőkben."
+    },
+    {
+      "id": 16,
+      "term": "Mi a haraszt szaporodása és Nations lakozása?",
+      "definition": "A harasztoknál a spórák képesek mikrospórákra és makrospórákra differenciálódni. A megtermékenyítéshez még szükséges a víz.",
+      "quote": "Differenciálódott spórák",
+      "text": "A mikrospórákból mikroelőtelep fejlődik hím ivarszervekkel, a makrospórákból makroelőtelep női ivarszervekkel fejlődik."
+    },
+    {
+      "id": 17,
+      "term": "Mi a nyitvatermők és jellegzetességei?",
+      "definition": "A nyitvatermők a föld történetét során elsőként megjelenő virágos, magvas növények. Megtermékenyítésük független a víztől.",
+      "quote": "Virágos magvas növények",
+      "text": "A nyitvatermőknek nincsenek virágtakaró levelei, magkezdeményeik szabadon fejlődnek a termőleveleken. A magkezdemények szél közvetítésével pollozódnak."
+    },
+    {
+      "id": 18,
+      "term": "Mi a zárvatermők és evolúciós újításai?",
+      "definition": "A zárvatermők kialakulása a magvaspáfrányokból indult. Jellemző a kettős megtermékenyítés, zárt magház, termés és szállítócsövek.",
+      "quote": "Kettős megtermékenyítés terméses",
+      "text": "A zárvatermőknél megjelenő evolúciós újítások a takarólevelek, bibe, zárt magház, termés, szállítócsövek és gyökérszőrök továbbfejlesztette az alkalmazkodást."
+    },
+    {
+      "id": 19,
+      "term": "Mi az a növény differenciálódása szövetes szinten?",
+      "definition": "A szövetek különféle sejtekből összetevődnek, amelyek egy adott feladat ellátására specializálódtak. A szövet egy adott feladat elvégzésére specializálódott sejtek összessége.",
+      "quote": "Sejt szövet szerv",
+      "text": "A hámszövet, izomszövet, idegszövet és kötőszövet különféle funkciókat végeznek a szervezetben."
+    },
+    {
+      "id": 20,
+      "term": "Mit jelent a gombák elkülönülése a növényektől és állatoktól?",
+      "definition": "A gombák heterotróf, kemotróf anyagcseréjük miatt nem autotrófok. Állati szerv nélkül helyváltoztatásra képtelenek.",
+      "quote": "Heterotróf nem mozgó",
+      "text": "A gombák anyagcseréjét tekintve az állatokhoz állnak közelebb, de szerveződésük (teleptest, szövetesség szintje) a növények szintjén vagy alatt marad."
+    }
+  ]
+}

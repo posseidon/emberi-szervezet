@@ -1,0 +1,151 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi az eukarióta sejt és miből áll?",
+      "definition": "Az eukarióta sejt olyan sejt, amely magot (sejtmagot) és membránnal körülhatárolt organellumokat tartalmaz. Alapvető részei: sejthártya, sejtplazma, sejtmag.",
+      "quote": "Eukarióta: szervezettség magasabb szintje",
+      "text": "Az eukarióta sejt sokkal összetettebb, mint a prokariota. Tartalmazza az endoplazmatikus hálózatot, Golgi-készüléket, mitokondrium, kloroplasztisz (növényi), lizoszómákat, vakuolumot."
+    },
+    {
+      "id": 2,
+      "term": "Mi a sejthártya és mi a szerkezete?",
+      "definition": "A sejthártya (membrán) a sejt külső határhártyája. Szerkezete a folyadék-mozaik-modell szerint: foszfolipid kettős réteg fehérjékkel, koleszterin, szénhidrátokkal.",
+      "quote": "Membrán: szelektív határ",
+      "text": "A membrán szerepei: anyagforgalom, határolás, összeköttetés, jelölés, jelfogás. A foszfolipidek amfipatikus vegyületek, hidrofób farok és hidrofil fej részekkel."
+    },
+    {
+      "id": 3,
+      "term": "Mi a sejtplazma?",
+      "definition": "A sejtplazma a sejthártya és a sejtmag között található kolloid halmazállapotú anyag. Tartalmazza az organellumokat, molekulákat és víz, sók, szerves vegyületek oldatát.",
+      "quote": "Sejtplazma: élet közege",
+      "text": "A sejtplazma vagy ectoplazma a sejt működésének helyszíne. Tartalma: mitokondrium, riboszómák, endoplazmatikus hálózat, Golgi-apparátus és egyéb organellumok."
+    },
+    {
+      "id": 4,
+      "term": "Mi a sejtmag és milyen funkciójú?",
+      "definition": "A sejtmag (nucleus) a sejt központi, membránnal körülhatárolt organelluma. Tartalmazza az örökítőanyagot (DNS) és a sejtjellegi információk fennmaradásáért felelős.",
+      "quote": "Sejtmag: örökkség őrzője",
+      "text": "A sejtmag tartalmazza a kromoszómákat (DNS + fehérje), a magot, a zsinóron elhelyezkedő DNS-t. Szabályozza a sejt működését, az anyagcseréjét, az osztódást."
+    },
+    {
+      "id": 5,
+      "term": "Mi a mitokondrium és funkciója?",
+      "definition": "A mitokondrium az organellum, amely az energiatermelésért felelős. Az aerob respiráció helyszíne, ahol az ATP termelődik.",
+      "quote": "Mitokondrium: sejt erőműve",
+      "text": "Szerkezete: kettős membrán, kristák (belső membránbetüremkedések), mátrix. Saját DNS-sel rendelkezik (mitokondriális DNS). Az ATP termelés során glükóz oxidációja történik."
+    },
+    {
+      "id": 6,
+      "term": "Mi a kloroplasztisz és funkciója?",
+      "definition": "A kloroplasztisz a növényi sejtek organelluma, ahol a fotoszintézis zajlik. Tartalmazza a klorofill pigmentet.",
+      "quote": "Kloroplasztisz: napfény energiázója",
+      "text": "Szerkezete: kettős membrán, tilakoida (fényreakciók helyszíne), sztróma (sötét reakciók helyszíne). Saját DNS-sel rendelkezik. Zöld szín a klorofilltól."
+    },
+    {
+      "id": 7,
+      "term": "Mi az endoplazmatikus hálózat és típusai?",
+      "definition": "Az endoplazmatikus hálózat (ER) membránrendszer, amely a sejtmagot körülveszi és a sejtplazmában halad. Típusai: durva és sima ER.",
+      "quote": "ER: sejt szállítórendszere",
+      "text": "Durva ER: riboszómákkal borított, fehérjeszintézis helyszíne. Sima ER: fehérje- és lipidszintézis helyszíne. Az ER fehérje-szállítómácsák kialakulásában vesz részt."
+    },
+    {
+      "id": 8,
+      "term": "Mi a Golgi-apparátus és funkciói?",
+      "definition": "A Golgi-apparátus membránrendszer, amely az ER-ből érkező anyagokat feldolgozza, módosítja, pakolgatja és szekrécióra előkészíti.",
+      "quote": "Golgi: szállítmány feldolgozása",
+      "text": "Szerkezete: lapos zsákok (diktioszómák) és szállító vezikulák. Funkcija: fehérjék cukrozása, lipidek feldolgozása, enzimek szállítása, szekrét kiváló termékek pakolása."
+    },
+    {
+      "id": 9,
+      "term": "Mi a lizoszómá és funkciója?",
+      "definition": "A lizoszómá membránnal körülhatárolt organellum, amely emésztő enzimeket tartalmaz. Az intracellularis emésztésben vesz részt.",
+      "quote": "Lizoszóma: sejt emésztőszervé",
+      "text": "Funkcija: a sejtbe bejutó anyagok vagy belső felesleges anyagok lebontása. Az enzimek savas közegben működnek. Fontos az autofágia és apoptózis során."
+    },
+    {
+      "id": 10,
+      "term": "Mi a vakuola és mi a szerepe?",
+      "definition": "A vakuola nagyobb, membránnal körülhatárolt tér a sejtplazmában. Növényi sejtekben nagy központi vakuola, amely támasztószerkezetet biztosít.",
+      "quote": "Vakuola: tárolásért nélkülözik",
+      "text": "Növényi sejtek: nagy vakuola turgor fenntartásáért. Tárolása: víz, sejtnedv, zárványok. Lágyszárú növények alakjáért felelős a turgor."
+    },
+    {
+      "id": 11,
+      "term": "Mi a sejtváz és funkciói?",
+      "definition": "A sejtváz (citoszkeleton) a sejtplazma fehérjéinek szerkezeti hálózata. Három komponense: mikrofilamenta, mikrotubuli, köztes filamentumok.",
+      "quote": "Sejtváz: sejt vázlata",
+      "text": "Funkciói: sejt alakját fenntartja, organellumok helyzetét biztosítja, intracellularis szállítás, mozgás. A sejten belüli mozgások szervezése."
+    },
+    {
+      "id": 12,
+      "term": "Mi az ostor és csilló és milyen szerepe?",
+      "definition": "Az ostor hosszú, egy vagy néhány, az sejt felületén elhelyezkedő szerv a mozgásra. A csilló rövidebb és több van belőlük.",
+      "quote": "Ostor és csilló: sejt lábai",
+      "text": "Az ostor mozgása: csapó, s függőleges síkban (például spermium mozgása). Csilló: függőleges síkban csapó mozgás (például légcsőfodor). Szerekezete: centriol alapján kiindul."
+    },
+    {
+      "id": 13,
+      "term": "Mi az álláb és mozgása?",
+      "definition": "Az álláb (pszeudopódium) a protoplazmának a sejthártya által körülhatárolt nyúlványa. Mozgása a citoplazma áramlásának következtében.",
+      "quote": "Álláb: amoeboid mozgás",
+      "text": "Az állábak kialakulása és visszahúzása a citoplazma viszkozitásának és összetapadása változásával függ össze. Például: ameba mozgása."
+    },
+    {
+      "id": 14,
+      "term": "Mi a sejtfal és miből áll?",
+      "definition": "A sejtfal a sejthártya külső, merev szerkezeti réteg növényi sejt, gombák és baktériumok sejt. Növényi sejtekben cellulozt tartalmazza.",
+      "quote": "Sejtfal: mechanikai támasz",
+      "text": "Növényi sejtfal: cellulóz, hemicellulóz, pektinek. Funkciója: mechanikai támogatás, merevség, oszmotikus nyomás szabályozása (turgor)."
+    },
+    {
+      "id": 15,
+      "term": "Mi az antibiotikum-rezisztencia és milyeszt kapcsolata a sejtfallal?",
+      "definition": "Baktériumok sejtfala különbözik az eukarióták sejtfalétól, ezért bizonyos antibiotikumok csak baktériumokra hatnak, az embert nem veszélyeztetik.",
+      "quote": "Sejtfal: antibiotikum-target",
+      "text": "Gram-pozitív baktériumoknak vastag peptidoglikán rétegük, Gram-negatívaknak vékony. Az antibiotikumok (például penicillin) a sejtfal kialakításait gátolják."
+    },
+    {
+      "id": 16,
+      "term": "Mi a passzív szállítás és hogyan működik?",
+      "definition": "A passzív szállítás energiamentes anyag-szállítás. Az anyagok a membrán keresztül az alacsonyabb koncentráció felé halad (diffúzió).",
+      "quote": "Passzív: természetes áramlás",
+      "text": "Típusai: egyszerű diffúzió (kis molekulák), könnyített diffúzió (szállítófehérjék, ionok). Iránya: magasabb konzentráció → alacsonyabb koncentrációba."
+    },
+    {
+      "id": 17,
+      "term": "Mi az aktív szállítás és miben különbözik?",
+      "definition": "Az aktív szállítás energiafüggő anyag-szállítás. Az anyagok a membrán keresztül az alacsonyabb konzentráció felé halad (szemben a diffúzióval).",
+      "quote": "Aktív: energia-igényes szállítás",
+      "text": "ATP szükséges. Pumpafehérjék végzik (például Na+/K+ pumpa). Iránya: alacsonyabb konzentráció → magasabb koncentrációba. Ellentétes a termodinamikai tendenciához."
+    },
+    {
+      "id": 18,
+      "term": "Mi az endocitózis és milyeszt típusai?",
+      "definition": "Az endocitózis a sejt membránjának az invaginációja (beöblösödése) és a bejuttatott anyag burokkal történő felszívása.",
+      "quote": "Endocitózis: belsőfelvevés",
+      "text": "Típusai: fagocitózis (nagyobb részecskék), pinocitózis (folyadékok és oldott anyagok), receptor-mediált endocitózis. Létrehozói membránhólyagocskák (vezikulák)."
+    },
+    {
+      "id": 19,
+      "term": "Mi az exocitózis és milyen szerepe?",
+      "definition": "Az exocitózis a sejtből való anyag-szállítás folyamata. A vezikulák összeolvadnak a sejt membránnal és kiürítik tartalmaikat.",
+      "quote": "Exocitózis: kifelé szállítás",
+      "text": "Fontos a szekréciók (hormonok, enzimek) kiválasztásában. Az első formája az endoplazmatikus hálózatból a Golgi-aparátusba menő vezikulák által szállított anyagnak."
+    },
+    {
+      "id": 20,
+      "term": "Mi a könnyített diffúzió (facilitált diffúzió)?",
+      "definition": "A könnyített diffúzió szállítófehérjék segítségével zajló energiamentes szállítás. Az anyagok az alacsonyabb konzentráció felé haladnak.",
+      "quote": "Könnyített: segített diffúzió",
+      "text": "A szállítófehérjék (csatornafehérjék) az anyag számára nyílást nyitnak a membrán keresztül. Ionok, glükóz, aminosavak ilyen módon szállítódnak."
+    },
+    {
+      "id": 21,
+      "term": "Mi az ion csatorna és funkciója?",
+      "definition": "Az ion csatorna a membrán fehérjéje, amely szelektíven engedi át az ionokat. Passzív szállítást végez, az ionok az alacsonyabb koncentrációba haladdnak.",
+      "quote": "Ioncsatorna: szelektív kapu",
+      "text": "Feszültség-függő csatornák: nyílnak elektrális potenciál hatására. Ligand-függő csatornák: nyílnak kémiai jel hatására. Fontos az idegi jelátvitelben."
+    }
+  ]
+}

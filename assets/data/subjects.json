@@ -1,0 +1,238 @@
+[
+  {
+    "id": "biology",
+    "name": "Biology",
+    "icon": "biotech",
+    "description": "Comprehensive biology curriculum covering from molecular level to global ecosystems.",
+    "next": "1. Bevezetés a biológiába",
+    "topics": [
+      {
+        "id": "bevezetes-biologiaba",
+        "name": "1. Bevezetés a biológiába",
+        "description": "Introduction to Biology - Foundational concepts of biology",
+        "difficulty": "Beginner",
+        "time": "3 Hours",
+        "modules": [
+          {
+            "id": "biologia-tudomanya",
+            "name": "1.1. A biológia tudománya",
+            "description": "Characteristics of living organisms and research methods"
+          },
+          {
+            "id": "fizikai-kemiai-alapismeretek",
+            "name": "1.2. Fizikai, kémiai alapismeretek",
+            "description": "Basic physical and chemical fundamentals"
+          }
+        ]
+      },
+      {
+        "id": "egyed-alatti-szervezodes",
+        "name": "2. Egyed alatti szerveződési szint",
+        "description": "Subcellular and cellular organization",
+        "difficulty": "Intermediate",
+        "time": "5 Hours",
+        "modules": [
+          {
+            "id": "szervezetek-alkototelelemek",
+            "name": "2.1. Szervezetek és szerves alkotóelemek",
+            "description": "Elements, molecules, lipids, carbohydrates, proteins, nucleic acids, and laboratory activities"
+          },
+          {
+            "id": "anyagsere-folyamatai",
+            "name": "2.2. Az anyagsere folyamatai",
+            "description": "Cellular metabolism, nutrition and metabolic pathways"
+          },
+          {
+            "id": "sejtalkatotok-eukariotak",
+            "name": "2.3. Sejtalkatotók az eukarióta sejtben",
+            "description": "Eukaryotic cell structure and organelles"
+          }
+        ]
+      },
+      {
+        "id": "egyed-szervezodesi-szintje",
+        "name": "3. Az egyed szerveződési szintje",
+        "description": "Organism level organization - cellular to multicellular",
+        "difficulty": "Intermediate",
+        "time": "4 Hours",
+        "modules": [
+          {
+            "id": "nem-sejtes-rendszerek",
+            "name": "3.1. Nem sejtes rendszerek",
+            "description": "Non-cellular organisms - Viruses and Prions"
+          },
+          {
+            "id": "sejtes-rendszerek",
+            "name": "3.2. Sejtes rendszerek",
+            "description": "Prokaryotes and Eukaryotes"
+          },
+          {
+            "id": "tobsejtut-eukariota",
+            "name": "3.3. Többsejtű eukarióták",
+            "description": "Multicellular eukaryotes and their characteristics"
+          },
+          {
+            "id": "szovetek-szervezetek",
+            "name": "3.4. Szövetek, szervezetek, szerrendszerek, testájak",
+            "description": "Tissue and organism systems organization"
+          }
+        ]
+      },
+      {
+        "id": "emberi-szervezet",
+        "name": "4. Az emberi szervezet",
+        "description": "Comprehensive study of human body systems and functions",
+        "difficulty": "Advanced Intermediate",
+        "time": "8 Hours",
+        "modules": [
+          {
+            "id": "homeostazis",
+            "name": "4.1. Homeostázis",
+            "description": "Homeostasis and systemic perspective in human body",
+            "questions": 20,
+            "icon": "balance"
+          },
+          {
+            "id": "kultakaro",
+            "name": "4.2. Kültakaró",
+            "description": "Skin structure and function, skin care and defense",
+            "questions": 51,
+            "icon": "layers"
+          },
+          {
+            "id": "mozgas",
+            "name": "4.3. A mozgás",
+            "description": "Skeletal anatomy, muscle types, muscular system health",
+            "questions": 20,
+            "icon": "fitness_center"
+          },
+          {
+            "id": "taplalkozas",
+            "name": "4.4. A táplálkozás",
+            "description": "Nutrition, digestion, metabolism and nutritional health",
+            "questions": 48,
+            "icon": "restaurant"
+          },
+          {
+            "id": "legzes",
+            "name": "4.5. A légzés",
+            "description": "Respiratory system, gas exchange and breathing health",
+            "questions": 19,
+            "icon": "air"
+          },
+          {
+            "id": "anyagszallitas",
+            "name": "4.6. Az anyagszállítás",
+            "description": "Circulatory system, blood composition and cardiovascular health",
+            "questions": 20,
+            "icon": "favorite"
+          },
+          {
+            "id": "kivalasztas",
+            "name": "4.7. A kiválasztás",
+            "description": "Urinary system, kidney function and waste elimination",
+            "questions": 17,
+            "icon": "water_drop"
+          },
+          {
+            "id": "szabalyozas",
+            "name": "4.8. A szabályozás",
+            "description": "Nervous and endocrine systems, hormonal regulation and immune function",
+            "questions": 170,
+            "icon": "settings_input_component"
+          },
+          {
+            "id": "szaporodas-egyedfejlodes",
+            "name": "4.9. Szaporodás és egyedfejlődés",
+            "description": "Reproduction, sexual development and offspring development",
+            "questions": 49,
+            "icon": "family_history"
+          }
+        ]
+      },
+      {
+        "id": "egyed-feletti-szervezodes",
+        "name": "5. Egyed feletti szerveződési szintek",
+        "description": "Population and ecosystem organization levels",
+        "difficulty": "Intermediate",
+        "time": "4 Hours",
+        "modules": [
+          {
+            "id": "populacio",
+            "name": "5.1. Populáció",
+            "description": "Population characteristics, environmental relationships and population dynamics"
+          },
+          {
+            "id": "eletkozsosegek",
+            "name": "5.2. Életközösségek",
+            "description": "Ecological communities and species interactions"
+          },
+          {
+            "id": "okoszisztema",
+            "name": "5.4. Ökoszisztéma",
+            "description": "Ecosystem structure, energy flow and biological relationships"
+          },
+          {
+            "id": "biosfora-kornyezet",
+            "name": "5.3. Bioszféra 5.5. Környezet- és természetvédelem 5.6. Fenntarthatóság",
+            "description": "Global processes, environmental protection and sustainable development"
+          }
+        ]
+      },
+      {
+        "id": "oroklodes-evolucio",
+        "name": "6. Öröklödés, változékonyság, evolúció",
+        "description": "Genetics, inheritance and evolutionary biology",
+        "difficulty": "Advanced Intermediate",
+        "time": "5 Hours",
+        "modules": [
+          {
+            "id": "molekularis-genetika",
+            "name": "6.1. Molekuláris genetika",
+            "description": "DNA structure, replication, transcription and translation processes",
+            "questions": 0,
+            "icon": "biotech"
+          },
+          {
+            "id": "mendeli-genetika",
+            "name": "6.2. Mendeli genetika",
+            "description": "Mendelian inheritance patterns, genetic variation and population genetics",
+            "questions": 0,
+            "icon": "account_tree"
+          },
+          {
+            "id": "evolucio",
+            "name": "6.3. Evolúció",
+            "description": "Evolution mechanisms, Darwin's theory, Hardy-Weinberg model and evolutionary change",
+            "questions": 0,
+            "icon": "trending_up"
+          },
+          {
+            "id": "bioszfera-evolucio",
+            "name": "6.4. A bioszféra evolúciója",
+            "description": "Evolution mechanisms, Darwin's theory, Hardy-Weinberg model and evolutionary change",
+            "questions": 0,
+            "icon": "public"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "world-history",
+    "name": "World History",
+    "icon": "history_edu",
+    "description": "Currently studying: The Renaissance. Focus on early 15th-century Florentine art.",
+    "next": "The Reformation",
+    "topics": [
+      {
+        "id": "renaissance",
+        "name": "The Renaissance",
+        "description": "Explore the cultural, artistic, political, and economic 'rebirth' following the Middle Ages.",
+        "difficulty": "Intermediate",
+        "time": "5 Hours",
+        "modules": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,354 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "DNS megkettőződés (replikáció)",
+      "definition": "A DNS-molekula pontos másolatának létrehozása, amellyel a genetikai információ szinte változatlan megmarad az utódsejtekben.",
+      "quote": "Szemikonzervatív félig megmaradó",
+      "text": "A replikáció során a DNS két szála elválik, és mindegyik mintaként szolgál egy komplementer szál szintézishez. Az eredmény: egy eredeti szál és egy új szál az utód DNS-ben. A folyamat a replikációs origóban kezdődik és specifikus enzimek (helikázok, polimeráz III, ligáz) katalizálják."
+    },
+    {
+      "id": 2,
+      "term": "Meselson-Stahl kísérlet",
+      "definition": "1958-as kísérlet, amely bizonyította a DNS szemikonzervatív replikációjának mechanizmusát izotópjelölés és sűrűséggradiens centrifugálás segítségével.",
+      "quote": "Nehéz DNS könnyű DNS",
+      "text": "A kísérlet során 15N-vel jelölt (nehéz) DNS-t tartalmazó baktériumokat 14N-es (normál) tápoldatba helyezték. Az első osztódás után közepes sűrűségű DNS keletkezett, a második után 50-50%-ban közepes és könnyű DNS képződött, alátámasztva a szemikonzervatív modellt."
+    },
+    {
+      "id": 3,
+      "term": "Helikázok és kicsavarófehérjék",
+      "definition": "Enzimek, amelyek a replikáció során a DNS-szálakat elválasztják azáltal, hogy felszakítják a bázispárok között létesített hidrogénkötéseket.",
+      "quote": "Helix felcsavart szálak szétválasztása",
+      "text": "Az E. coli-ban körülbelül 10 000 helikáz működik egyszerre a replikáció során. Az egyfonalas DNS-szakaszokat stabilizálják az egyszálú DNS-kötő fehérjék, megakadályozva a kettős hélix visszarendeződését."
+    },
+    {
+      "id": 4,
+      "term": "Primer RNS és polimeráz III",
+      "definition": "Rövid RNS-szakasz, amely kezdeti pont a DNS-szál szintéziséhez, majd dezoxiribonukleotidok kapcsolódnak hozzá a polimeráz III enzim által.",
+      "quote": "5' 3' irány növekedés",
+      "text": "A primáz RNS-polimeráz 5-10 ribonukleotid egységből RNS-primert szintetizál. A polimeráz III ezt követően dezoxiribonukleotid-trifoszfátokat kapcsol össze 5'→3' irányba, az energia a lehasadó difoszfátok hidrolízisből származik."
+    },
+    {
+      "id": 5,
+      "term": "Vezető szál és követő szál",
+      "definition": "A DNS replikáció során a vezető szál folyamatosan nő 5'→3' irányba, míg a követő szál rövid, Okazaki-fragmentumok formájában készül.",
+      "quote": "Folyamatos versus szakaszos szintézis",
+      "text": "A helikázok csak egy irányba haladnak, így csak az egyik szál (vezető) szintetizálódhat folyamatosan. A másik szál (követő) szintézise 1000-2000 bázis hosszú Okazaki-fragmentumok formájában történik, amelyeket az RNS-primer, polimeráz I és ligáz dolgoz fel."
+    },
+    {
+      "id": 6,
+      "term": "Replikáció pontossága és hibajavítás",
+      "definition": "Az emberi genom átlagosan csak 6 hibát tartalmaz a 3 milliárd bázispár replikálása során, javítóenzimek biztosítják ezt a pontosságot.",
+      "quote": "Hiba egy millió per bázis",
+      "text": "A DNS-glikoziláz hibás bázisokat ismer fel és hasítja le. Az AP-endonukleáz az AP-helyet (apurin/apirimidin) felismerve bemetszést végez. A polimeráz I és ligáz javítja ki a hibákat. Xeroderma pigmentosum-ban ennek a rendszernek hiánya végzetes UV-érzékenységet okoz."
+    },
+    {
+      "id": 7,
+      "term": "Gén (molekuláris genetikai definíció)",
+      "definition": "A DNS-molekula egy szakasza, amely egy polipeptidlánc aminosavsorrendjét kódolja, vagy tRNS, rRNS, miRNS gént alkot.",
+      "quote": "Struct úrgén kódoló szekvencia",
+      "text": "Az emberben körülbelül 21 000 struktúrgén van, amely a teljes genom 1-2%-a. A gén magában foglal egy struktúrgént (kódoló régió) és szabályozó régiókat (promoter, operátor). A nem kódoló szekvenciák (hulladék DNS) az emberben körülbelül 90%-ot képeznek."
+    },
+    {
+      "id": 8,
+      "term": "Allél (génváltozat)",
+      "definition": "A kromoszóma egy adott lókuszán elhelyezkedő gén variációja, amely ugyanarra a tulajdonságra vonatkozik, de eltérő jellegeket kódol.",
+      "quote": "Gén ugyanaz másként",
+      "text": "Ugyanegy genuszban az allélok azonos funkciót végeznek, de különböző fenotiipusokat eredményeznek. Homozigóta: AA vagy aa; Heterozigóta: Aa. Példa: AB0 vércsoportot meghatározó gén IA és IB alléljei."
+    },
+    {
+      "id": 9,
+      "term": "Transzkripció (átírás)",
+      "definition": "A DNS információjának RNS-molekulára átmásolása, amelyet az RNS-polimeráz enzim végez az értelmes (mintaszál) DNS-en.",
+      "quote": "DNS RNS templát",
+      "text": "Az RNS-polimeráz a promoterhez kötődik, a DNS-szálak elválnak, és az értelmes szál alapján mRNS szintetizálódik 5'→3' irányba. A bázispárosodás szabálya: A=U, G=C. A szintézis a stop-jelhez érve befejeződik. A negatív szál soha nem íródik át."
+    },
+    {
+      "id": 10,
+      "term": "Prokariótában a transzkripció és transzláció",
+      "definition": "A prokariótákban a transzkripc ió és fehérjeszintézis szimultán folyamat, az mRNS még szintézis közben riboszómákhoz kapcsolódik.",
+      "quote": "Szimultán átírás fordítás",
+      "text": "Az mRNS 5' végének elkészülte után azonnal riboszómák kapcsolódnak hozzá. A transzláció még az átírás befejeződése előtt megkezdődik. Ez gyorsabb fehérjeszintézist tesz lehetővé a prokariótákban."
+    },
+    {
+      "id": 11,
+      "term": "Eukarióta mRNS érési folyamata",
+      "definition": "Az elsődleges átiratot több átalakuláson kell átmennie az mRNS-nek, mielőtt kikerülne a citoplazmába.",
+      "quote": "Sapka poli-A farok splicing",
+      "text": "Az érett mRNS-nek: 1) Védősapka (cap) 5' végén az m7G-vel; 2) Poli-A farok 3' végén ~150-200 adenin nukleotid; 3) Intronok eltávolítása (splicing) az exonok összeillesztésével. Az snRNP (sznörp) gömböcskék végzik a splicing mechanizmusát."
+    },
+    {
+      "id": 12,
+      "term": "Intronok és exonok",
+      "definition": "Intronok: az érett mRNS-ből kivágódó, üzenetett nem tartalmazó szakaszok. Exonok: a kifejeződő szakaszok, amelyek a végső mRNS-ben maradnak.",
+      "quote": "Hagyja vágd ragaszd össze",
+      "text": "Az exonokat 10-10 000 nukleotid hosszú intronok választják el. Az emberben az intronok mennyisége gyakran nagyobb az exonénak. Az alternatív splicing lehetővé teszi, hogy egy gén több féle fehérjét is kódoljon, attól függően, mely exonok kombinálódnak."
+    },
+    {
+      "id": 13,
+      "term": "Genetikai kód alapjai",
+      "definition": "A genetikai kód egy szabályrendszer, amely a nukleotidsorrend információját lefordítja aminosavsorrendre a fehérjékben.",
+      "quote": "Nukleotid triplet kodon",
+      "text": "A 4 bázis nem lehet elegendő 20 aminosavhoz (4 < 20), két bázis sem (4² = 16 < 20), de három bázis igen (4³ = 64 > 20). Ezért három nukleotidból álló egységek (tripletek, kodonok) kódolják az aminosavakat."
+    },
+    {
+      "id": 14,
+      "term": "Kodonszótár megfejtése",
+      "definition": "Robert Holley, Har Ghobind Khorana és Marshall Nierenberg 1968-ban feltárták a kapcsolatot az mRNS kodonok és az aminosavak között, Nobel-díjat kaptak érte.",
+      "quote": "UUU fenilalanin poli-U",
+      "text": "Nierenberg poli-U mesterséges mRNS-t használva fenilalanin polimert kapott. Ezután különböző nukleotidelegy kombinációkat használt és valószínűség-számítással megállapított több kodon szekvenciáját és kódolt aminosavát."
+    },
+    {
+      "id": 15,
+      "term": "Genetikai kód tulajdonságai",
+      "definition": "A genetikai kód degenerált, univerzális, átfedés- és kihagyásmentes. Az AUG start kodon, az UAA, UAG, UGA stop kodonok.",
+      "quote": "Degenerált univerzális egyértelmű",
+      "text": "Degenerált: 20 aminosav 64 kodonnal kódolódik, több kodon jelöl egy aminosavat. Univerzális: minden élőlényre igaz. Kihagyásmentes: minden nukleotid része valamely kodonnak. Start AUG (metionin), stop kodonok: nincs aminosav."
+    },
+    {
+      "id": 16,
+      "term": "tRNS szerkezete és funkciója",
+      "definition": "A transfer RNS 75-90 nukleotidból álló molekula, amely a megfelelő aminosavat hozzákapcsolja az mRNS kodonhoz antikodon-komplementaritás révén.",
+      "quote": "Lóherelevél antikodon",
+      "text": "A tRNS térbeli szerkezete lóherelevélre hasonlít. Az antikodon felismerés biztosítja az aminosav-kodon egyeztetést. Az aminosav aktiválása során ATP közreműködésével nagy energiájú kötés képződik a tRNS 3' végéhez."
+    },
+    {
+      "id": 17,
+      "term": "Riboszóma szerkezete",
+      "definition": "A fehérjeszintézis helyszíne, rRNS-ekből és fehérjékből álló, egy nagyobb és egy kisebb alegységből épülő komplexum.",
+      "quote": "Nagy kis alegység tRNS helyek",
+      "text": "A nagy alegység három tRNS-kötőhelyet tartalmaz: E (exit/kilépés), P (peptidil-tRNS), A (aminosav-tRNS). A fehérjeszintézis kezdetén kapcsolódnak, végén disszociálnak. Az antikodont a kis alegységben találja meg az mRNS."
+    },
+    {
+      "id": 18,
+      "term": "Transzláció iniciációja (kezdés)",
+      "definition": "A polipeptidlánc szintézisének indítása, melyet a start kodon (AUG) és az első aminosav (formil-metionin) jelöl ki.",
+      "quote": "AUG formil-metionin start",
+      "text": "Az mRNS hozzákötődik a riboszóma kis alegységéhez a Shine-Dalgarno szekvencia által. Az AUG start kodon a P ablakba kerül, és az első aminosavat szállító fMet-tRNS kapcsolódik hozzá. A nagy alegység majd összekapcsolódik a kicsivel."
+    },
+    {
+      "id": 19,
+      "term": "Transzláció elongációja (hosszabbítása)",
+      "definition": "Az aminosavak lépésenkénti beépülése, peptidkötés-képződés és a riboszóma odébb csúszása (transzlokáció) az mRNS-en.",
+      "quote": "Kodon antikodon peptidkötés",
+      "text": "A megfelelő aminosav-tRNS az A helyre kerül, aminosava kötést alkot az P helyen lévő aminosaval. Az A helyről a P helyre (transzlokáció), majd az E helyre kerül az elhasznált tRNS. A polipeptid az N-terminálisról a C-terminális felé nő."
+    },
+    {
+      "id": 20,
+      "term": "Transzláció terminációja (befejezés)",
+      "definition": "A fehérjeszintézis leállítása, mely akkor történik, amikor a stop kodon (UAA, UAG, UGA) az A helyre kerül.",
+      "quote": "Stop kodon fehérjeszintézis vége",
+      "text": "A stop kodonokhoz nem kötődik tRNS, mivel nincs hozzájuk komplementer antikodon. Riboszómális fehérjék (release factors) felismerik a stop jeleket, a polipeptid leválik a riboszómáról, majd a riboszóma alegységei disszociálnak."
+    },
+    {
+      "id": 21,
+      "term": "Poliriboszóma",
+      "definition": "Több riboszóma, amely egyszerre dolgozik ugyanazon az mRNS-en, lehetővé téve több polipeptidlánc szimultán szintézisét.",
+      "quote": "Sok riboszóma sok fehérje",
+      "text": "Ha a riboszóma bizonyos számú kodont leolvasott, újabb riboszóma kapcsolódhat az mRNS-hez. Ez gyorsítja a fehérjeszintézist, mivel egyetlen mRNS-ről több fehérje készülhet egyszerre."
+    },
+    {
+      "id": 22,
+      "term": "Mutáció definíciója",
+      "definition": "Az örökítő anyag (DNS) egyetlen nemzedéken belüli, ugrásszerű, öröklödő megváltozása, amelynek óriási evolúciós és populációgenetikai jelentősége van.",
+      "quote": "Ugrásszerű DNS megváltozás öröklödő",
+      "text": "A mutáció a populációk genetikai sokféleségének alapja. Hatása lehet hátrányos (leggyakoribb), közömbös vagy előnyös. Az evolúció során a kedvező mutációk felhalmozódtak, ezt hordozzák az élőlények."
+    },
+    {
+      "id": 23,
+      "term": "Szomatikus mutáció",
+      "definition": "A testi sejtekben történő mutáció, amely nem öröklödő és mozaikus jellegű fenotípusokat okoz.",
+      "quote": "Testi sejt nem örökülne",
+      "text": "A szomatikus mutációkat szenvedő testi sejtek utódai klónt alkotnak és gyakran elkülöníthető mutáns szektorként jelennek meg. A mutáns szektor mérete annál nagyobb, minél korábban történt a mutáció az egyedfejlődés során."
+    },
+    {
+      "id": 24,
+      "term": "Generatív (csíravonal) mutáció",
+      "definition": "Az ivarsejtekben megjelenő öröklödő mutáció, amely átadódik az utódoknak és nagy evolúciós, valamint klinikai jelentőséggel bír.",
+      "quote": "Ivarsejt örökülne generáció",
+      "text": "Az BRCA1 és BRCA2 gének csíravonal-mutációi örökletes emlő- és petefészekrákra hajlamosítanak. E gének a DNS hibáinak kijavításáért felelősek, mutáns formái csökkentik a javítómechanizmusok hatékonyságát."
+    },
+    {
+      "id": 25,
+      "term": "Spontán mutáció",
+      "definition": "Olyan mutáció, melynek pontos kiváltó oka nem ismert, külső behatás nélkül, természetes belső folyamatok eredményeként jönnek létre.",
+      "quote": "Véletlenszerű tautomer átalakulás",
+      "text": "A tautomer átalakulás során a bázisok szerkezete átmenetileg olyan módon alakul, hogy nem komplementer bázissal képes kapcsolódni (pl. adenin-citozin helyett adenin-timin). Ezt követően a másoláskor hibás bázis beépül."
+    },
+    {
+      "id": 26,
+      "term": "Indukált mutáció és mutagének",
+      "definition": "Ismert környezeti hatások (fizikai, kémiai, biológiai) által kiváltott mutáció, amely a spontán mutációs rátát megemelkedik.",
+      "quote": "Fizikai kémiai biológiai hatás",
+      "text": "Mutagén lehet UV, röntgen, radioaktív sugárzás, hőmérséklet-emelkedés, alkiláló szerek (pl. mustárgáz), EMS, aflatoxinok. Az UV-sugárzás timin dimereket hoz létre, amelyek a kettős hélix szerkezetét torzítják."
+    },
+    {
+      "id": 27,
+      "term": "Pontmutáció típusai",
+      "definition": "Egy vagy néhány nukleotidot érintő mutáció, amely alapvetően három módon történhet: báziscsere, beépülés vagy kiesés.",
+      "quote": "Csere kiesés beépülés frame shift",
+      "text": "1) Báziscsere: egy bázis helyén másik kerül (pl. stop kodon jön létre). 2) Kiesés/beépülés: egy vagy két nukleotid hiánya vagy többlete a leolvasási keretet eltolja (frame shift), az egész leolvasási keret módosul."
+    },
+    {
+      "id": 28,
+      "term": "Stille mutáció (csendes mutáció)",
+      "definition": "Egy báziscsere, amely nem változtatja meg az aminosavsorrendet, mivel a megváltozott kodon ugyanazt az aminosavat kódolja.",
+      "quote": "Kodon módosul aminosav azonos",
+      "text": "A genetikai kód degeneráltsága miatt egy aminosavat többféle kodon kódol. Ha mutáció egy kodonon belül olyan bázist érint, amely nem változtatja meg az aminosavat, az stille mutáció. Ezek közömbösek a fenotípusra."
+    },
+    {
+      "id": 29,
+      "term": "Mutációs ráta",
+      "definition": "Az ivarsejtek képződésekor bekövetkező mutációk gyakoriságát fejezi ki, általában generációnként egy adott gén esetén.",
+      "quote": "10-5 emberben generáció",
+      "text": "Pl. 10-3 érték azt jelenti, hogy 1000 ivarsejt képződésekor 1 mutáció történt. Az emberben átlagosan 10-5 nagyságrendű. A mutációs ráta fajonként eltérő, diploid szervezetekben gyakoribb, egy fajon belül génenként változó."
+    },
+    {
+      "id": 30,
+      "term": "Deléció (kromoszóma szerkezeti mutáció)",
+      "definition": "Egy kromoszómadarab kiesése, amely információvesztést okoz.",
+      "quote": "Szakasz hiánya törléselés",
+      "text": "A cri-du-chat szindróma az 5. kromoszóma rövid karjának vége hiányozása miatt jön létre. Kisfejűség, holdszerű arc, macskanyávogásszerű hang és szellemi elmaradottság jellemzi. A deléció a meiózis során létrejött rendelleneses visszaforrasztásból származik."
+    },
+    {
+      "id": 31,
+      "term": "Inverzió és transzlokáció",
+      "definition": "Kromoszóma szerkezeti mutációk: inverzió (180 fokos átfordulás), transzlokáció (két nem homológ kromoszóma közötti részcsere).",
+      "quote": "Fordít átrendez áthelyez",
+      "text": "Az inverzió során egy szakasz felfordul az adott kromoszómán. A transzlokáció során részek cserélődnek két nem homológ kromoszóma között. Mindkettő strukturális rendellenesség, amely az utódokban kiválasztódhat."
+    },
+    {
+      "id": 32,
+      "term": "Aneuploidia (számbeli mutáció)",
+      "definition": "Néhány kromoszómával több vagy kevesebb van a genomban, általában a meiózis során a kromoszómák hibás szétválása miatt.",
+      "quote": "Trizómia monoszómia extra hiányó",
+      "text": "A meiózis I. szakaszában a homológ kromoszómapárok tagjai nem válnak el, így egy gamétában két, másikban nulla az adott kromoszóma. A Down-szindróma (21-es trizómia) a 21. kromoszóma háromszori jelenléte miatt alakul ki."
+    },
+    {
+      "id": 33,
+      "term": "Down-szindróma (21-es trizómia)",
+      "definition": "A 21. kromoszóma háromszori jelenléte miatt kialakuló genetikai rendellenesség, az anyai életkorral nagyobb valószínűséggel fordul elő.",
+      "quote": "Drei 21 mongóloid arc",
+      "text": "Jellemzői: mongoloid szemrés, holdvilág arc, nagy nyelv, IQ 50 körül, négyujjas tenyérbarázda, szívhibák. A valószínűség az anya életkorával növekszik, mivel a petesejtek meiózisa még az embrionális időszakban kezdődik, majd megáll és csak később folytatódik."
+    },
+    {
+      "id": 34,
+      "term": "Euploidia (teljes genomszám-változás)",
+      "definition": "A haploid kromoszómakészlet egész számú többszöröse (diploid, triploid, tetraploid), amely növényi szaporodásban gyakori.",
+      "quote": "Diploida tripla tetra ploida",
+      "text": "A triploidok (3x) általában steriek, mert páratlan számú kromoszómának kellene párba állni a meiózisban. A tetraploidok (4x) szepteti. A termesztett banán triploid, nincs magja, nincs normális meiózisa."
+    },
+    {
+      "id": 35,
+      "term": "Fenilketonúria (PKU)",
+      "definition": "Egy enzimhiányon alapuló, öröklödő anyagcsere-betegség, amelyben a fenilalanin nem alakul át tirozinná, így mérgező anyagcseretermékek keletkeznek.",
+      "quote": "Fenilalanin enzimhiány agy",
+      "text": "A szervezet a majban termelődő enzim hiánya miatt nem tudja átalakítani a fenilalanint, amely felhalmozódik. Az feldúsulás agykárosodást okoz, szellemi fogyatékosságot. Kezelése fehérjeszegény diétával történik, lehetőleg születés után azonnal elkezdve."
+    },
+    {
+      "id": 36,
+      "term": "Albinizmus",
+      "definition": "A melanin termelődésének csökkenésén vagy teljes hiányán alapuló genetikai betegség, amely pigmentációs hiányt okoz.",
+      "quote": "Melanin hiánya pigment",
+      "text": "Az 1-es típusú albinizmusban a tirozináz enzim hiánya miatt a tirozin nem alakul melaninná. Az autoszomális recesszív módon öröklödik. A bőr, haj, írisz pigmentációja hiányzik, a szem pirossá válik a hajszálerekben keringő vér miatt."
+    },
+    {
+      "id": 37,
+      "term": "Sarlósejtes anémia (hemoglobinopátia)",
+      "definition": "Egy pontmutációból eredő betegség, ahol a hemoglobin β-lánc glutaminsava valinra cserélődik, az oldat összecsapódik.",
+      "quote": "Glutamin valin hemoglobin kikristály",
+      "text": "A hibás hemoglobin kikristályosodik, a vörösvértestek sarlóvá válnak, merevek. Ez vérszegénységet, vérkeringési zavarokat és oxigénhiányt okoz. Homozigóta homozigóták súlyos, heterozigóták enyhébb tüneteket mutatnak."
+    },
+    {
+      "id": 38,
+      "term": "Onkogén és tumor-szuppresszor gének",
+      "definition": "Onkogénok: mutálódott protoonkogének, amelyek a sejtet végtelen osztódásra sarkallják. Tumor-szuppresszorok: a sejtciklus szabályozásáért felelős gének (pl. P53).",
+      "quote": "Rákos terjedés fékezés",
+      "text": "Az onkogének a növekedési jelek folyamatos jelenlétét imitálják. A tumor-szuppresszorok (P53) féken tartják a sejtosztódást, és hiba esetén az apoptózist indítják. A rák kialakulásához általában öt-hat egymást követő mutáció szükséges."
+    },
+    {
+      "id": 39,
+      "term": "Apoptózis (programozott sejthalál)",
+      "definition": "A sejtek genetikailag meghatározott program szerint történő halála, amely gyulladás nélkül zajlik, és fontos a normális fejlődésben és rákmegelőzésben.",
+      "quote": "Öngyilkosság sejthalálgének",
+      "text": "Az apoptózis során a sejt zsugorodik, DNS lebomlik, feldarabolódik. A sejtdarabokat a környező sejtek gyorsan bekebelezik. Ez megakadályozza az unkontrollált sejtburjánzást és a tumorképződést. Hibás apoptózis a daganatok kialakulásáhozvezethet."
+    },
+    {
+      "id": 40,
+      "term": "Jóindulatú (benign) daganat",
+      "definition": "Kontrollálatlanul növekedő, de nem beszűrődő daganat, amely kötőszövetes hártya borítja és nem képez áttéteket.",
+      "quote": "Nő de nem terjed",
+      "text": "A jóindulatú daganatok általában lassan növekednek, eltávolíthatók, nem szóródnak szét, nem képeznek áttéteket. Azonban ha belső elválasztású mirigyekben fejlődnek, hormonális zavart okozhatnak. Általában nem veszélyeztetik az életet."
+    },
+    {
+      "id": 41,
+      "term": "Rosszindulatú (malignus) rákos daganat",
+      "definition": "Kontrollálatlanul osztódó sejtek által képzett daganat, amely beszűrődik a környezőszövetekbe, áttéteket képez és veszélyes.",
+      "quote": "Betörés metasztázis infiltráció",
+      "text": "A rákos sejtek megállíthatatlanul osztódnak, nem borítja határoló hártya. A tumorsejtek betörve (infiltráció) a környező szövetekbe áttéteket képeznek. A túmor saját vérellátást épít ki, elveszik a táplálékot az egészséges sejtektől."
+    },
+    {
+      "id": 42,
+      "term": "Karcinóma és szarkóma",
+      "definition": "A rosszindulatú tumoros két alapvető csoportja: karcinóma hámszövetből, szarkóma kötőszövetből ered.",
+      "quote": "Hám kötőszövet rossz",
+      "text": "A karcinómák a bőr, belső szerek felszínét burkoló hámszövetekből indulnak ki. A szarkómák a kötőszövetekből fejlődnek. Az egyes ráktípusokat gyakran a megtámadott szerv alapján nevezik el (emlő-, tüdő-, gyomorrák)."
+    },
+    {
+      "id": 43,
+      "term": "Emlőrák rizikófaktorai",
+      "definition": "Előrehaladott életkor, családi előfordulás, hormonális faktorok, életmód-változók és genetikai mutációk (BRCA1, BRCA2).",
+      "quote": "Kor család hormon lifestyle",
+      "text": "Az BRCA1 és BRCA2 mutációk 80%-os kockázatot jelentenek. Az egyéb faktorok közé tartozik: korai menstruáció, késői menopauza, gyermektelenség, elhízás, dohányzás. A családi előfordulás (különösen anyai ágon, fiatalabb korban) fokozott kockázatot mutat."
+    },
+    {
+      "id": 44,
+      "term": "Laktóz-operon (lac-operon)",
+      "definition": "Jacob és Monod által leírt génműködés-szabályozási modell, amely megmutatja, hogyan szabályozódik a prokariótákban a génkifejeződés.",
+      "quote": "Represszor operátor promóter",
+      "text": "A lac-operon elemei: lacZ, lacY, lacA struktúrgének, promoter (lacP), operátor régió (lacO). Laktóz hiányában a represszor az operátorhoz kötődik, gátolva a transzkripciót. Laktóz jelenlétében a represszor inaktiválódik, az átírás engedélyezett."
+    },
+    {
+      "id": 45,
+      "term": "Triptofán-operon (trp-operon)",
+      "definition": "A lac-operon ellentétes működésű szabályozási rendszer: felépítő utat (triptofán-szintézis) szabályoz negatív visszacsatolással.",
+      "quote": "Trp kikapcsol szintézis gátol",
+      "text": "Ha nincs trp, történhet transzkripció, így a szintézis megindul. Ha van trp, a trp-represszor fehérje trp-nal kapcsolódva aktiválódik, az operátor régióhoz kötődik, a transzkripció gátolt. Ez negatív visszacsatolás, amely a trp-szintézist szabályozza."
+    },
+    {
+      "id": 46,
+      "term": "Őssejt és differenciálódás",
+      "definition": "Az őssejtek korlátlan osztódóképességgel rendelkező differenciálatlan sejtek, amelyek fejlődés során specializálódnak.",
+      "quote": "Korlátlan sokfeladat",
+      "text": "Az embrióban a totipotens őssejtek (pl. zigóta) az összes szövet és szerv létrehozására képesek. A felnőttben a szöveti őssejtek regenerációra és megújulásra képesek. A differenciálódás szelektív génkifejeződésen alapul."
+    },
+    {
+      "id": 47,
+      "term": "Pluripotens és multipotens őssejtek",
+      "definition": "Pluripotens sejtek: az összes szövet létrehozására képesek, de extraembrionális szöveteket nem. Multipotens: specifikus szövet-típusokat állítanak elő.",
+      "quote": "Három csíraiomez multiséjt",
+      "text": "A pluripotens sejtek a három csíralemez kialakulására és ivarsejtképzésre képesek. A multipotens szöveti őssejtek (pl. a csontvelőben) különböző vérsejteket hoznak létre, de nem képesek ivarsejt létrehozására."
+    },
+    {
+      "id": 48,
+      "term": "Epigenetikai szabályozás",
+      "definition": "A DNS nukleotidsorrendjét nem változtató, de a génműködést módosító szabályozás, amely DNS-metilálás és hiszton-acetilálás révén történik.",
+      "quote": "Metilcsoportmegváltás genexpresszió",
+      "text": "A metilcsoport gátolja az átírást, az acetilcsport megindíthatja. A nukleoszómák töltésének megváltozása acetilálás révén az átírást engedélyezi. Az epigenetikai hatások (táplálék, stressz, mérgek) részben az utódsejtekre is átadódnak."
+    },
+    {
+      "id": 49,
+      "term": "Penetrancia és expresszivitás",
+      "definition": "Penetrancia: azonos genotípusú egyedek csoportjában az anyagok százalékos hány mutatják a jellegzetes fenotípust. Expresszivitás: az egyedek fenotípusának kifejeződési mértéke.",
+      "quote": "Százalék megjelenés súlyosság",
+      "text": "A BRCA1 mutáció penetranciája 80%, vagyis hordozóinak 80%-ában alakul ki emlődaganat. Az expresszivitás változó, a Marfan-szindróma például enyhébb vagy súlyosabb formákban jelentkezhet ugyanazzal a mutációval."
+    },
+    {
+      "id": 50,
+      "term": "Génhálózatok és többtényezős öröklődés",
+      "definition": "Legtöbb tulajdonság nem egyedi gén, hanem génhálózatok (gén-gén és gén-környezet kölcsönhatások) eredménye.",
+      "quote": "Komplex genetikai többfaktor",
+      "text": "Bizonyos jellegek (pl. magasság, szem szín) több tucat gén összműködéséből függnek. Az epigenetikai tényezők is befolyásolják a kifejeződést. A gyakori betegségek általában nem egyetlen gén hibája, hanem több gén variánsainak együttes jelenléte okozza őket."
+    }
+  ]
+}

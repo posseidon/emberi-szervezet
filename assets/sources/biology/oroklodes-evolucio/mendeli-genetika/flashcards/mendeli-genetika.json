@@ -1,0 +1,354 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Gén definíciója",
+      "definition": "A gén az öröklődés anyagi egysége. Klasszikus értelemben: a gén egy olyan anyagi egység, amely egy tulajdonság kialakulását határozza meg. Molekuláris értelemben: a gén a DNS-molekula egy szakasza, amely egy polipeptidlánc aminosavsorrendjét kódolja.",
+      "quote": "Az öröklődés anyagi egysége",
+      "text": "A gén tartalmaz egy struktúrgént (amely RNS-be átíródhat) és szabályozó régiót. A DNS nagyrészt nem-kódoló szekvenciákat tartalmaz - az ember esetén ez a genom kb. 90%-a."
+    },
+    {
+      "id": 2,
+      "term": "Kromoszómaszerelvény",
+      "definition": "A fajra jellemző kromoszómák egyszeres sorozata. Az ember esetén 23 darab kromoszóma, amely a haploid sejtek kromoszómaszáma.",
+      "quote": "A fajra jellemző genetikai alapszám",
+      "text": "Az egyes fajoknak más-más a kromoszómasodarzámuk. Ez a fajra jellemző szám határozza meg az alapvető genetikai szerkezetet."
+    },
+    {
+      "id": 3,
+      "term": "Haploid sejt",
+      "definition": "Egyszeres kromoszómaszerelvényű sejt, amely egy genomot tartalmaz (n). Ilyenek az ivarsejtek, spórák, és néhány szervezet testi sejtjei.",
+      "quote": "Egyszeres genetikai állomány",
+      "text": "A petesejtek és spermiumok haploidok. A mohák és harasztok előtelepének sejtjei is haploidok, ciklusváltakozó szaporodás során."
+    },
+    {
+      "id": 4,
+      "term": "Diploid sejt",
+      "definition": "Kétszeres genomot (2n) tartalmazó sejt, amely kettős kromoszómaszerelvénnyel rendelkezik. Jellemző az általános testi sejtekre.",
+      "quote": "Kettős genetikai állomány",
+      "text": "A diploid szervezetek egy-egy homológ kromoszómapárt hordoznak - egy apai és egy anyai változatot. Ez lehetővé teszi az allélok közötti kölcsönhatást."
+    },
+    {
+      "id": 5,
+      "term": "Allél",
+      "definition": "A kromoszóma egy adott szakaszán (lókuszán) elhelyezkedő gén variációja. Egy diploid egyednek egy gén adott tulajdonságára vonatkozóan két allélja van.",
+      "quote": "Gén variációja, genetikai változat",
+      "text": "Az allélok lehetnek dominánsok vagy recesszívek. Az azonos helyen különböző allélok a populáció genetikai sokféleségét teremtik meg."
+    },
+    {
+      "id": 6,
+      "term": "Homozigóta egyed",
+      "definition": "Olyan egyed, amelynél az adott két allél teljesen azonos. A jelölésük: AA vagy aa, ahol az azonos betűk az ugyanolyan allélokat jelölik.",
+      "quote": "Azonos allélek, tiszta vonal",
+      "text": "Homozigóta egyedek egymás között keresztezve mindig ugyanolyan fenotípusú utódokat hoznak létre. Ez a tisztavonalúság alapja."
+    },
+    {
+      "id": 7,
+      "term": "Heterozigóta egyed",
+      "definition": "Olyan egyed, amelynél az adott két allél különbözik. Jelölése: Aa, ahol a nagybetű a domináns, a kisbetű a recesszív allélt jelöli.",
+      "quote": "Eltérő allélek, hibrid",
+      "text": "Heterozigóták fenotípusa a dominanciaviszonyok függvénye. Lehetnek domináns fenotípusúak, köztes, vagy mindkét szülői fenotípust mutatóak."
+    },
+    {
+      "id": 8,
+      "term": "Domináns allél",
+      "definition": "Az a allél, amelynek hatása elnyomja a recesszív allélt. Heterozigótákban is kifejeződik a domináns allél hatása.",
+      "quote": "Uralkodó, erősebb hatás",
+      "text": "A domináns allél jelölése általában nagybetű (A). A domináns homozigóta (AA) és a heterozigóta (Aa) azonos fenotípust mutat."
+    },
+    {
+      "id": 9,
+      "term": "Recesszív allél",
+      "definition": "Az a allél, amely hatása csak homozigóta formában (aa) tudja kifejteni. Heterozigótákban lappang, nem fejezi ki hatását.",
+      "quote": "Lappangó, gyengébb hatás",
+      "text": "A recesszív allél jelölése általában kisbetű (a). Heterozigóta egyedekben a recesszív allélt csak a homozigóta recesszív utódok öröklik 25%-os valószínűséggel."
+    },
+    {
+      "id": 10,
+      "term": "Kodominancia",
+      "definition": "Az allélok olyan viszonya, amelyben mindkét allél egyformán kifejeződik heterozigótákban. Sem egyik, sem másik allél nem domináns.",
+      "quote": "Mindkét allél megnyilvánul",
+      "text": "A kodominancia példái: az AB0 vércsoportrendszer A és B allélja, az MN vércsoportrendszer. Kodominancia esetén a heterozigóta fenotípusa mindkét szülő fenotípusának elegyét mutatja."
+    },
+    {
+      "id": 11,
+      "term": "Nem teljes dominancia (intermedier öröklödés)",
+      "definition": "Az egyik allél nem nyomja el teljesen a másik allél hatását. A heterozigóta fenotípusa a homozigóták fenotípusa között van.",
+      "quote": "Köztes fenotípus, átmeneti jelleg",
+      "text": "Az F2 nemzedékben 1:2:1 arányban jelenik meg a homozigoták domináns, a heterozigóták köztes és a homozigoták recesszív fenotípusa."
+    },
+    {
+      "id": 12,
+      "term": "Genotípus",
+      "definition": "A jelleg létrehozását biztosító genetikai szerkezet. Az adott tulajdonságot meghatározó DNS szakaszának minősége, amely lehet homozigóta domináns, homozigóta recesszív, vagy heterozigóta.",
+      "quote": "Genetikai szerkezet",
+      "text": "A genotípus a nem látható genetikai információ. Az azonos fenotípusú egyedeknek lehet eltérő genotípusa (AA és Aa), de az azonos genotípusú egyedeknek sempre ugyanaz a fenotípusa."
+    },
+    {
+      "id": 13,
+      "term": "Fenotípus",
+      "definition": "A látható megjelenési forma, amely a genotípus és a környezeti hatások kölcsönhatásaként alakul ki.",
+      "quote": "Látható megjelenés",
+      "text": "A fenotípus a genotípus és a környezet szorzata. Ugyanazon genotípusú egyedek eltérő fenotípust mutathatnak eltérő környezeti körülmények között."
+    },
+    {
+      "id": 14,
+      "term": "Fenom",
+      "definition": "A megfigyelhető tulajdonságok, a fenotípusok összessége egy szervezet összes jellegét tekintve.",
+      "quote": "Összes megfigyelhető jelleg",
+      "text": "A fenom sokkal komplexebb a genomnál, mivel annak az eredménye a genetikai információ és a környezeti tényezők együttes hatásának."
+    },
+    {
+      "id": 15,
+      "term": "Gregor Mendel",
+      "definition": "Az osztrák szerzetestanár (1822-1884), a genetika tudományának megalapítója. Gondos keresztezési kísérleteket végzett kerti borsóval 1857-1868 között.",
+      "quote": "A genetika tudományának alapítója",
+      "text": "Mendel módszere különleges volt korára: sok adatot gyűjtött és statisztikailag értékelte az eredményeket. Ez a megközelítés forradalmi volt a biológiában."
+    },
+    {
+      "id": 16,
+      "term": "Mendel I. törvénye (uniformitás)",
+      "definition": "Két eltérő tiszta vonalú szülői vonal közötti keresztezés első utódnemzedéke egyöntetűen egyforma, uniform, és heterozigóta.",
+      "quote": "Első utódok egyformák",
+      "text": "Az F1 nemzedék fenotípusa a domináns szülő fenotípusával azonos. A domináns tulajdonság az F1-ben mindannyian megjelenik, mivel heterozigótáké a genotípusa."
+    },
+    {
+      "id": 17,
+      "term": "Mendel II. törvénye (szegregáció)",
+      "definition": "Az F1 egyedeit tovább keresztezve (F1 x F1) a második utódnemzedékben mindkét szülő tulajdonságai megjelennek 3:1 arányban.",
+      "quote": "3:1 hasadási arány",
+      "text": "Az F2-ben 3 rész domináns fenotípusú, 1 rész recesszív fenotípusú egyed jelenik meg. Genotypikusan: 1 AA : 2 Aa : 1 aa az arány."
+    },
+    {
+      "id": 18,
+      "term": "Mendel III. törvénye (független kombinálódás)",
+      "definition": "Amely kimondja, hogy egyes tulajdonságok egymástól függetlenül öröklődnek, ha a vizsgált tulajdonságokat meghatározó gének nem ugyanazon a kromoszómán helyezkednek el.",
+      "quote": "Egymástól független öröklödés",
+      "text": "A tesztelő keresztezésnél 1:1:1:1 arány a várható. Ha a gének nem kapcsoltak, akkor szabadon kombinálódnak az ivarsejtek képzése során."
+    },
+    {
+      "id": 19,
+      "term": "Tesztelő keresztezés",
+      "definition": "Egy domináns fenotípusú egyed genotípusának megállapítására használt módszer, amelynél egy recesszív fenotípusú homozigóta egyeddel kell keresztezni.",
+      "quote": "Genotípus megállapítása",
+      "text": "Homozigóta domináns (AA) x recesszív (aa) = 100% domináns fenotípus. Heterozigóta (Aa) x recesszív (aa) = 50% domináns, 50% recesszív fenotípus."
+    },
+    {
+      "id": 20,
+      "term": "Gamétatisztaság szabálya",
+      "definition": "Egy haploid ivarsejt az adott tulajdonságpárból csak az egyik tulajdonságot hordozza. Az ivarsejtek tiszta alléleket tartalmaznak.",
+      "quote": "Ivarsejtekben egy-egy allél",
+      "text": "Ez a szabály a meiózis mecanizmusán alapul, ahol a homológ kromoszómák szétválnak és külön ivarsejtekbe kerülnek."
+    },
+    {
+      "id": 21,
+      "term": "Reciprocitás szabálya",
+      "definition": "Az első utódnemzedék tulajdonságai függetlenek attól, hogy a tulajdonságot az apai vagy az anyai vonal hordozta. A reciprok keresztezés ugyanolyan eredményt ad.",
+      "quote": "Irányra független öröklödés",
+      "text": "A reciprok keresztezés azt jelenti, hogy megcseréljük a szülők szerepét. Mendel elvégezte ezeket a kísérleteket és ugyanolyan hasil kapott."
+    },
+    {
+      "id": 22,
+      "term": "AB0 vércsoportok öröklödése",
+      "definition": "Az ember AB0 vércsoportjának négy vércsoportját egyetlen gén háromtagú allélsora határozza meg. Az IA és IB allél kodomináns, mindkettő domináns az i alléllel szemben.",
+      "quote": "Három allél, négy fenotípus",
+      "text": "0-s (ii), A (IA IA vagy IA i), B (IB IB vagy IB i), AB (IA IB). A kodomináns viszony az AB vércsoportban jelenik meg tisztán."
+    },
+    {
+      "id": 23,
+      "term": "Többszörös allélek",
+      "definition": "Egy diploid szervezet egy génből csak két allélt hordoz, azonban a populációban egy gén különböző alléljeinek száma nagyon nagy lehet. Ezt nevezzük többszörös allélizmúsnak.",
+      "quote": "Populációban sok allél",
+      "text": "Az allélok lehetnek egyenértékűek, de mutathatnak különböző dominanciaviszonyokat is. Az allélok összességei allélsorokat képeznek."
+    },
+    {
+      "id": 24,
+      "term": "Letális allél",
+      "definition": "Olyan allél, amely homozigóta formában a hordozó halálát okozza. Az ilyen homozigóták életképtelenek.",
+      "quote": "Halált okozó genetikai변이",
+      "text": "Exempel: az egér sárga bundát kialakító As allél letális. Sárga egerek csak heterozigóták lehetnek (As/A). Sárga x sárga keresztezésből 2:1 arány jön létre helyett 3:1."
+    },
+    {
+      "id": 25,
+      "term": "Pleiotrópia",
+      "definition": "Az a jelenség, amikor egy gén egyszerre több tulajdonságot is befolyásol. A gének túlnyomó része pleiotróp.",
+      "quote": "Egy gén több jelleget befolyásol",
+      "text": "Példa: a sarlósejtes vérszegénység, fenilketonúria, cisztás fibrózis. Az egerekben az aguti gén terméke jelátvivő peptid, amely a pigmentáció, szteroidszintézis, energiaháztartást befolyásolja."
+    },
+    {
+      "id": 26,
+      "term": "Domináns gények kölcsönhatása",
+      "definition": "Két gén alléljai olyan fenotípust alakítanak ki, hogy domináns alléljainak jelenlétére új fenotípus jön létre. Ilyenkor a F2-ben 9:3:3:1 arány módosul.",
+      "quote": "Kettős dominancia új jellegek",
+      "text": "Baromfi taréjforma: dió, rózsa, borsó, egyszerű. Domináns R és B genotípusok együtt dió formát hoznak létre, amely a szülőknek nem volt jellemző."
+    },
+    {
+      "id": 27,
+      "term": "Episztázis",
+      "definition": "Az a jelenség, amikor egyik gén bizonyos allélja elfedi vagy megakadályozza egy másik gén megnyilvánulását.",
+      "quote": "Egy gén elnyomja másikat",
+      "text": "Domináns episztázis: az A gén domináns allélja elnyomja a B gén alléljeinek hatását. Lovak szőrszíne: A domináns szürke, B csak aa mellett jelenhet meg feketeként."
+    },
+    {
+      "id": 28,
+      "term": "Komplementer gének",
+      "definition": "A két különböző gén alléljainak hatása kiegészíti egymást. Egy adott fenotípus csak akkor jelenik meg, ha mindkét génből jelen van a domináns allél.",
+      "quote": "Együtt szükséges a fenotípus",
+      "text": "Kukorica szemszíne: a bíbor szín csak akkor jelenik meg, ha mindkét génből (A_B_) legalább egy domináns allél van. F2 arány 9:7."
+    },
+    {
+      "id": 29,
+      "term": "Génkölcsönhatás",
+      "definition": "A gények sokszor nem magukban, hanem más génekkel együttműködve, kölcsönhatásban alakítják ki a fenotípust. A különböző génkölcsönhatások módosított mendeli arányokat eredményeznek.",
+      "quote": "Gének együttes hatása",
+      "text": "A génkölcsönhatások magyarázzák, hogy miért nem kapunk mindig a várt 9:3:3:1 arányokat. Az F2 arányok 9:7, 9:3:4, 10:3:3, 12:3:1, 13:3, 15:1 lehetnek."
+    },
+    {
+      "id": 30,
+      "term": "Hemizigóta",
+      "definition": "Olyan egyed, amely az adott génből csak egy másolattal rendelkezik. Jellemző a férfiakra az X-kromoszómához kötött gének vonatkozásában.",
+      "quote": "Egyetlen gén másolat",
+      "text": "Az X-kromoszómán található génekre féfiaknak nincs homológja, így hemizigóták. Az XY szexkromoszóma páros nem homológ klasszikus értelemben."
+    },
+    {
+      "id": 31,
+      "term": "XX/XY nemmeghatározás",
+      "definition": "A legtöbb emlős és néhány rovar által használt nemmeghatározási rendszer, ahol a nőstények XX, a hímek XY szexkromoszómákkal rendelkeznek.",
+      "quote": "Emlősök nemmeghatározása",
+      "text": "Az emberben 22 pár autoszóma mellett a 23. pár az ivari kromoszómapár. Az Y-kromoszóma a hím ivar meghatározásáért felelős, az SRY gén szabályozza ezt."
+    },
+    {
+      "id": 32,
+      "term": "SRY gén (sex determining region Y)",
+      "definition": "Az Y-kromoszómán elhelyezkedő gén, amely a TDF (testis determining factor) transzkripciós faktort kódolja. Ez a gén dönti el, hogy az embrió sejtjei herekké vagy petefészekké differenciálódnak.",
+      "quote": "Férfi meghatározó gén",
+      "text": "Az SRY gén mutációja női fenotípust eredményez, de az érintett egyén terméketlen (Swyer szindróma). Az XX férfi szindróma: az SRY gén áthelyeződik egy testi kromoszómára."
+    },
+    {
+      "id": 33,
+      "term": "X-kromoszóma inaktivációja",
+      "definition": "A női szervezetben az egyik X-kromoszóma a fejlődés során inaktiválódik minden sejtben, és ezt az állapotot minden utódsejtben továbbörökíti.",
+      "quote": "Random dóziskompenzáció nőkben",
+      "text": "Az inaktiválódás véletlenszerű: akár az anyai, akár az apai eredetű X inaktiválódhat. Az inaktiválódott X-kromoszóma a Barr-test, amely a sejtmaghártyához kitapad."
+    },
+    {
+      "id": 34,
+      "term": "Barr-test",
+      "definition": "Az inaktiválódott X-kromoszóma egy kicsi, tömör kromatinszemcsét alkot, amely kitapad a sejtmaghártyájához és mikroszkóppal jól azonosítható.",
+      "quote": "Inaktív X-kromoszóma",
+      "text": "A Barr-test csak nők testi sejtjeiben található meg (petesejtben nem, mert az haploid). Régebben a sportolók cromoszómális nemének meghatározására használták."
+    },
+    {
+      "id": 35,
+      "term": "Criss-cross szabály",
+      "definition": "Az X-kromoszómához kötött recesszív betegségek öröklödésének szabálya: az apa a lányának, az anya a fiának örökíti az X-kromoszómán lévő tulajdonságait.",
+      "quote": "Generációkat átugró öröklödés",
+      "text": "Recesszív jellegű betegségek: beteg anyának nem lehet egészséges fia; beteg lánynak nem lehet egészséges apja. Ez az átlós szál jellegét magyarázza."
+    },
+    {
+      "id": 36,
+      "term": "X-kromoszómához kötött recesszív öröklödés jellemzői",
+      "definition": "Jóval több érintett férfi, mint nő. Heterozigóta nőknél enyhébb tünetek lehetnek. Érintett férfiak anyja és lányai tünetmentes hordozók.",
+      "quote": "Főleg férfiakat érinti",
+      "text": "Az X-kromoszóma véletlen inaktivációja révén heterozigóta nőknél mozaikosság figyelhető meg. Az érintett férfiak valamennyi fia egészséges, lányai mind hordozók."
+    },
+    {
+      "id": 37,
+      "term": "Nondiszjunkció",
+      "definition": "Az ivari kromoszómapár nem válik szét az ivarsejtek képződésekor zajló meiózis alatt. Ennek eredménye egy ivarsejt két szexkromoszómát kap, a másik egyet sem.",
+      "quote": "Kromoszómák szeparációs hibája",
+      "text": "Nondiszjunkció eredménye: Turner-szindróma (X0), Klinefelter-szindróma (XXY), Tripla X-szindróma (XXX). Mindkét szülőben előfordulhat."
+    },
+    {
+      "id": 38,
+      "term": "Turner-szindróma (X0)",
+      "definition": "45 kromoszóma, nincs szexkromatin, az egyén alacsony növésű, külsejében nő, másodlagos nemi jellegek nem kifejezettek.",
+      "quote": "Monosomia X",
+      "text": "Jellemzői: ovuláció nincs, szívfejlődési rendellenességek, trapéz alakú nyaki bőrredő, tarkón mélyen lehúzódó haj. Szellemi fejlődésben esetleg visszamaradhat."
+    },
+    {
+      "id": 39,
+      "term": "Klinefelter-szindróma (XXY)",
+      "definition": "47 kromoszóma, szexkromatin jelen van, az egyén magas, túlsúlyos, külsődlegesen férfi, szellemileg visszamaradott lehet.",
+      "quote": "Trisomia X",
+      "text": "Jellemzői: heréi fejletlenek, szőrzete gyér, zsíreloszlása nőies. Szellemileg rendszerint visszamaradottak. Szémen kívül, szokásos esetekben Barr-test található."
+    },
+    {
+      "id": 40,
+      "term": "Nem által befolyásolt jelleg",
+      "definition": "Olyan autoszomális jelleg, ahol a heterozigóta fenotípusát neme befolyásolja, vagyis a tulajdonság az egyik nemben erősebben kifejeződik.",
+      "quote": "Nemdependens domináncia",
+      "text": "Kopaszság: az m allél heterozigóta férfiakban domináns (kopasz), nőkben recesszív (nem kopasz). A tesztoszteron befolyásolja a domináncia viszonyát."
+    },
+    {
+      "id": 41,
+      "term": "Mitokondriális DNS",
+      "definition": "A mitokondriumban található DNS, amely gyűrűalakú, kb. 16569 nukleotidpár hosszú az embernél, és 37 gént tartalmaz (13 fehérjét kódol).",
+      "quote": "Az energia termeléshez szükséges DNS",
+      "text": "A mitokondriális DNS mutációs gyakorisága nagyobb, mint a cromoszómális DNS-é. Az ember mitokondriális DNS-ében az összes hasznos információ kompakt elrendezésben helyezkedik el."
+    },
+    {
+      "id": 42,
+      "term": "Anyai öröklödés",
+      "definition": "A mitokondriális és kloroplaszt DNS által meghatározott tulajdonságok öröklödése, amely kizárólag az anya útján adódik át az utódokba.",
+      "quote": "Csak anyai szülőtől származik",
+      "text": "A petesejtben több százezer mitokondrium van, a spermiumban csak néhány száz. A megtermékenyítés után a paternal mitokondriái elpusztulnak, így csak anyai maradnak."
+    },
+    {
+      "id": 43,
+      "term": "Anyai hatás",
+      "definition": "Az a jelenség, amikor az utód valamely tulajdonságát a petesejt citoplazmájában levő RNS és fehérjemolekulák határozzák meg, nem pedig a sejt genomja.",
+      "quote": "Citoplazmatikus programozás",
+      "text": "A petesejt citoplazmája tartalmazza azokat az anyai eredetű anyagokat, amelyekre az embriófejlődés kezdetén szükség van. Ez epigenetikai hatásnak tekinthető."
+    },
+    {
+      "id": 44,
+      "term": "Kapcsolt öröklödés",
+      "definition": "Az egy kromoszómán elhelyezkedő gének öröklödésmenete. Az egy kromoszómán elhelyezkedő gének úgymond kapcsoltan örlödnek, és nem vonatkozik rájuk a független kombinálódás törvénye.",
+      "quote": "Azonos kromoszómán lévő gének",
+      "text": "Az emberi genom kb. 21 000 gént tartalmaz 23 kromoszómában. Ez azt jelenti, hogy kromoszómánként átlagosan 1000 gén helyezkedik el. Ezek kapcsoltan örlödnek."
+    },
+    {
+      "id": 45,
+      "term": "Rekombináció",
+      "definition": "A meiózis során a meglévő tulajdonságokat kialakító örökítő tényezők újrarendeződnek, és ezzel új génkombinációkat hoznak létre.",
+      "quote": "Új génkombinációk létrejötése",
+      "text": "Két féle rekombinációt különböztetünk meg: intrakromoszomális (átkereszteződés miatt) és interkromoszomális (homológ kromoszómák véletlenszerű szétválása miatt)."
+    },
+    {
+      "id": 46,
+      "term": "Intrakromoszomális rekombináció",
+      "definition": "Az átkereszteződés (crossing over) miatt bekövetkező rekombináció. A homológ kromoszómák egy-egy kromatidája között történik.",
+      "quote": "Átkereszteződés révén új gén",
+      "text": "Az intrakromoszomális rekombináció során a rekombinánsok aránya kevesebb, mint 50%. Ez azt jelenti, hogy a gének fizikailag összekapcsolt a kromoszómán."
+    },
+    {
+      "id": 47,
+      "term": "Interkromoszomális rekombináció",
+      "definition": "A homológ kromoszómák véletlenszerű szétválásának eredménye. Ez az interkromoszomális (független) rekombináció mindig 50%-os rekombinációs gyakoriságot eredményez.",
+      "quote": "Véletlenszerű szétválás, 50%",
+      "text": "Az interkromoszomális rekombináció az, amely az független kombinálódás törvénye mögött áll. Szemben az intrakromoszomális rekombinacioval, ez nem a gének között játszódik le."
+    },
+    {
+      "id": 48,
+      "term": "Rekombinációs gyakoriság",
+      "definition": "A rekombináns utódok aránya az összes utódhoz képest, százalékban kifejezve. Ha két gén között a rekombinációs gyakoriság kisebb 50%-nál, akkor kapcsoltan helyezkednek el.",
+      "quote": "Rekombinánsok százalékos aránya",
+      "text": "Morgan kísérletében: (305/2839) x 100 = 10,7%. Ez a rekombinációs gyakoriság azt jelenti, hogy a gének között a távolság a kromoszómán megfelelő a 10,7%-os rekombinacinak."
+    },
+    {
+      "id": 49,
+      "term": "Géntérkép, térképegység (cM)",
+      "definition": "A gének egymástól való távolságát, a genomban való viszonylagos elhelyezkedésüket ábrázolja. A térképegység az a génpárok közötti távolság, amikor 100 utódsejtből egy rekombináns.",
+      "quote": "Gének cromoszómális helyzete",
+      "text": "1% rekombinációs gyakoriság = 1 térképegység (cM - centimorgan). A távolabb lévő gények között nagyobb a rekombináció valószínűsége."
+    },
+    {
+      "id": 50,
+      "term": "Mennyiségi jellegek",
+      "definition": "Azok a tulajdonságok, amelyek fenotípusai egy folytonos skálán mérhetőek. Poligénesek, sok gén által befolyásoltak, eloszlásuk a populációban haranggörbéhez közelít.",
+      "quote": "Folytonosan változó jellegek",
+      "text": "Mennyiségi jellegek: testmagasság, testsúly, bőrszín, intelligencia. Fenotípusa sohasem köthető egy adott genotípushoz, mivel több gén által befolyásoltak és a környezet is erős hatással van rájuk."
+    }
+  ]
+}

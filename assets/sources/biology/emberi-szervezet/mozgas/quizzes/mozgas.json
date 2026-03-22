@@ -1,0 +1,196 @@
+{
+  "subjectId": "biology",
+  "moduleId": "mozgas",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "A szarkomer az izom mely szerkezeti szintjén jelenik meg?",
+      "options": [
+        "Izomrost szintjén",
+        "Izomfonalak (miofilamentumok) szintjén",
+        "Izomfonal-köteg (miofibrillum) szintjén",
+        "Izomnyaláb szintjén"
+      ],
+      "answer": "Izomfonal-köteg (miofibrillum) szintjén"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Az aktin-miozin csúszómechannizmusban melyik folyamat közvetlenül az ATP-hidrolízis energiájához kötött?",
+      "options": [
+        "A Ca2+ felszabadulása a szarkoplazmatikus reticulumból",
+        "A miozinfej konformációváltozása és bólintó mozgása",
+        "A troponin konformációváltozása",
+        "A tropomiozin elmozdulása az aktinon"
+      ],
+      "answer": "A miozinfej konformációváltozása és bólintó mozgása"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik ion hiánya vezethet rigor állapothoz az izomban?",
+      "options": [
+        "K+",
+        "Na+",
+        "Mg2+",
+        "Ca2+"
+      ],
+      "answer": "Mg2+"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "A porckorongsérv kialakulása mely szerkezet meggyengüléséhez vezethet közvetlenül?",
+      "options": [
+        "A csigolyatest porosodásához",
+        "A rostos gyűrű átszakadásához",
+        "A gerincvelő sérüléséhez",
+        "A csigolyák ízesülésének zavarásához"
+      ],
+      "answer": "A rostos gyűrű átszakadásához"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "A gerincoszlop S-alakú görbülete emberi adaptációjának mely funkciójához kapcsolódik?",
+      "options": [
+        "A csontok vastagodásához",
+        "A két lábon járás során a koponyacsont rugalmas alátámasztásához",
+        "A vörösvérkoponyák termeléséhez",
+        "A gerincvelő védelmének optimalizálásához"
+      ],
+      "answer": "A két lábon járás során a koponyacsont rugalmas alátámasztásához"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Az emelőelv alapján, melyik megállapítás IGAZ az izom hajlítóizmainak működésére?",
+      "options": [
+        "Az erőkar mindig hosszabb, mint a teherkar",
+        "Az izom tapadási pontja általában közelebb van a forgásponthoz, mint a teher",
+        "A forgástengely az ízület, az erő a csont közepéről hat",
+        "Az erőkar és teherkar azonos hosszúságú"
+      ],
+      "answer": "Az izom tapadási pontja általában közelebb van a forgásponthoz, mint a teher"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "A kreatin-foszfát fiziológiai szerepe az izom-összehúzódás mely szakaszában a legfontosabb?",
+      "options": [
+        "Az erjedés során",
+        "A biológiai oxidáció során",
+        "A maximális terhelés első 7 másodpercében",
+        "A hosszantartó terhelés alatt"
+      ],
+      "answer": "A maximális terhelés első 7 másodpercében"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "A mioglobin oxigénkötésének sajátos mechanizmusa mely szempontból különbözik a hemoglobintól?",
+      "options": [
+        "Magasabb pH-n és alacsonyabb oxigénkoncentrációnál képes oxigént kötni",
+        "Egy helyett több polipeptidláncból épül fel",
+        "Vastagabb szöveti eloszlása miatt könnyebben hozzáférhető",
+        "Kizárólag anaerob körülmények között működik"
+      ],
+      "answer": "Magasabb pH-n és alacsonyabb oxigénkoncentrációnál képes oxigént kötni"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Az izmok melyik típusára jellemzően magas mioglobin-tartalom?",
+      "options": [
+        "Gyors, fehér izmokra (végtagok izmai)",
+        "Lassú, tartós összehúzódásra képes vörös izmokra (testtartásizmok)",
+        "Mimikai izmokra",
+        "Rágóizmokra"
+      ],
+      "answer": "Lassú, tartós összehúzódásra képes vörös izmokra (testtartásizmok)"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "A gerincferdülés (skoliózis) mely szövődménye közvetlenül a mellkas deformációjához kapcsolódik?",
+      "options": [
+        "Az izomláz kialakulása",
+        "A szív és tüdő működésének zavara",
+        "A porckorongsérv képződése",
+        "A csonttöréké"
+      ],
+      "answer": "A szív és tüdő működésének zavara"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "Az izomműködéshez szükséges kalcium-ionok az izomrost _____ részéből szabadulnak fel összehúzódáskor.",
+      "options": [],
+      "answer": "szarkoplazmatikus reticulumból (SER-ből)"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az ízület felépítésében az _____ nevű képlet termeli az ízületi nedvet, amely súrlódáscsökkentő és csúszóssá teszi az ízületi porcokat.",
+      "options": [],
+      "answer": "ízületi tok"
+    },
+    {
+      "id": 13,
+      "type": "BLANK",
+      "question": "A normális csípőízület anatómiai felépítésében a combcsont feje és az őt befogadó medencecsonti _____ pontosan összeilleszkednek.",
+      "options": [],
+      "answer": "vápa (ízületi árok)"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A csigolyák közötti _____ magas víztartalmú kocsonyás magot tartalmaz, amely porckorongsérv esetén a gerinccsatorna felé kiboltosodik.",
+      "options": [],
+      "answer": "porckorong"
+    },
+    {
+      "id": 15,
+      "type": "BLANK",
+      "question": "Az agykoponyacsontok összecsontosodása az idősödéssel szemben az arckoponya és agykoponyacsontok _____ összeköttetésein keresztül történik.",
+      "options": [],
+      "answer": "varratos"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az izomfej az _____ olyan elnevezése, amely több részre osztott izmok, mint a bicepsz vagy tricepsz, egyes részeit jelöli.",
+      "options": [],
+      "answer": "izom"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "A csont szerves állománya a csontok _____, a szervetlen állománya pedig a csontok szilárdságát biztosítja.",
+      "options": [],
+      "answer": "rugalmasságát"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ a gerinc görbületeinek és a medence dőlésszögének megfelelő egyensúlyát jelenti, amelynél a tekintet előre néz és fejtetővel felfelé nyújtózkodunk.",
+      "options": [],
+      "answer": "helyes testtartás"
+    },
+    {
+      "id": 19,
+      "type": "BLANK",
+      "question": "A feltételezetlen mozgásreflexek, mint pl. a nyújtási vagy hajlító reflex, automatikusan mennek végbe, amelyeket elsősorban _____ irányítanak.",
+      "options": [],
+      "answer": "gerincvelői és agytörzsi központok"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az izmok kifáradásának hátterében többféle tényező áll, többek között az izomrost pH-jának csökkenése és a _____ tartalom megemelkedése.",
+      "options": [],
+      "answer": "tejsav"
+    }
+  ]
+}

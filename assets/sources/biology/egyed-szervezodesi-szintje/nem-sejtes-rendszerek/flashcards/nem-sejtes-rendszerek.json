@@ -1,0 +1,214 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi az a vírus?",
+      "definition": "A vírus egy fertőzőképes, kórokozó sejtparazita, amely makromolekuláris rendszer és nem éri el a sejtes szerveződés szintjét. Az élő és élettelen világ határán áll.",
+      "quote": "Élő és élettelen határán",
+      "text": "A vírusok nem tekinthetők élőlényeknek, mert a gazdasejt nélkül nem képesek szaporodni és nincs önálló anyagcseréjük. Azonban a gazdasejtben szaporodni képesek, így nem is teljesen élettelennek tekinthetők."
+    },
+    {
+      "id": 2,
+      "term": "Mekkora a vírusok mérete?",
+      "definition": "A vírusok nanométeres nagyságrendűek, méretük 20-néhány száz nm között terjed, csak elektronmikroszkóppal láthatók 10.000 x-es nagyítás mellett.",
+      "quote": "Nanométeres mérettartomány",
+      "text": "1 nanométer = 10^-9 méter. Ez az oka annak, hogy a XIX. századi fénymikroszkópokkal nem lehetett őket megfigyelni, csak baktériumszűrővel lehetett detektálni őket."
+    },
+    {
+      "id": 3,
+      "term": "Mi a vírus szerkezete?",
+      "definition": "A vírus két fő részből áll: az örökítőanyagból (DNS vagy RNS) a belsejében, amely az információt tárolja, és egy fehérjeburokból (tok), amely az örökítőanyagot védi és a megtapadást lehetővé teszi.",
+      "quote": "Körül fehérjeburok",
+      "text": "A retrovírusok az RNS-t használják örökítőanyagként, amelyet a gazdasejtben reverz transzkriptáz enzim segítségével DNS-sé másolódnak át. Ez különleges mechanizmus, amely lehetővé teszi a vírus beépítését a gazdaszervezet genomjába."
+    },
+    {
+      "id": 4,
+      "term": "Milyen víruscsoportok léteznek alakjuk szerint?",
+      "definition": "A vírusok 4 csoportba sorolhatók: helikális (spirális), kubikális (köbös), kombinált (binális) és burkos vírusok, amelyek különböző fehérjeburok-szerkezetűek.",
+      "quote": "Négy fő szerkezeti típus",
+      "text": "A helikális szerkezetű dohánymozaikvírus, a kubikális bárányhimlő vírusa, a kombinált bakteriofágok és a burkos HIV vírus különböző testszerveződésű gazdasejteket támadnak meg."
+    },
+    {
+      "id": 5,
+      "term": "Mit jelent a virion forma?",
+      "definition": "A virion a vírus sejten kívüli fázisa, amely élettelen és kristályos szerkezetű. Ebben a formában a vírus nem mutat semmilyen életjelenséget.",
+      "quote": "Élettelen kristályos forma",
+      "text": "A virion a gazdasejtből kiszabaduló, szabad lebegő vírusrészecske. Ez az a forma, amely közvetlenül új gazdasejtekre juthat és fertőzéseket okozhat."
+    },
+    {
+      "id": 6,
+      "term": "Mi a lizogenikus és litikus életciklus?",
+      "definition": "A litikus ciklus során az új vírusok azonnal képződnek és a sejt szétszakad. A lizogén ciklus során a vírus DNS-e beépül a gazdasejt DNS-ébe és hosszú ideig rejtve maradhat.",
+      "quote": "Szétszakadás vagy beépülés",
+      "text": "A lizogén ciklus jellemző az RNS tumorvírusokra, herpesvírusokra és HIV-re. Ebben az esetben a vírus sokáig észrevétlen maradhat, majd például az immunrendszer legyengülése vagy egyéb stressz hatására aktívvá válhat."
+    },
+    {
+      "id": 7,
+      "term": "Hogyan történik a vírusfertőzés folyamata?",
+      "definition": "A vírus megtapad a gazdasejthez, behatolnak az örökítőanyaga és tokja, majd a sejtben új vírusok keletkeznek, amelyek végül kiszabadul nak és elpusztítják a gazdasejtjet.",
+      "quote": "Megtapadás, behatolás, szaporodás",
+      "text": "A bakteriofágok esetén a talpon található enzim (lizozim) kilyukasztja a sejtfalat, és a DNS injektálódik a sejtbe. A fehérjeburok kívül marad. Eukariota sejtekben a vírus peplonja összeolvad a sejthártyával."
+    },
+    {
+      "id": 8,
+      "term": "Mi a gazdaspecifikum a vírusokkal kapcsolatban?",
+      "definition": "A legtöbb vírus gazdaspecifikus, azaz kizárólag a rá jellemző gazdaszervezetben képes szaporodni. Ez a megtapadás specifikus receptorakon történik.",
+      "quote": "Egy gazdaszervezet egy vírus",
+      "text": "A specifikus víruskötő helyek (receptorok) mindig az adott sejttípusra jellemzőek. Ezért például az influenzavírus emberben, a dohánymozaikvírus növényben, a bakteriofág pedig baktériumban szaporodik."
+    },
+    {
+      "id": 9,
+      "term": "Mit jelent a fertőzés, megbetegedés és járvány?",
+      "definition": "Fertőzés: a kórokozó behatol és elszaporodik. Megbetegedés: a test fiziológiai állapotának kóros megváltozása. Járvány: ugyanazon betegség sokszoros, egyidejű fellépése bizonyos terület lakói között.",
+      "quote": "Fertőzés, betegség, járvány",
+      "text": "A fertőzés három módja: cseppfertőzés (légúti váladékcseppek), testváladékokkal (nyál, vér), fertőzött széklettel. A járványt pandémiának nevezzük, ha világméretűvé válik."
+    },
+    {
+      "id": 10,
+      "term": "Milyen emberi vírusos betegségek léteznek?",
+      "definition": "Az influenza, COVID-19, AIDS, kanyaró, bárányhimlő, herpesz, veszettség, hepatitis, HPV, rubeola és nátha az emberi vírusos betegségek között a legfontosabbak.",
+      "quote": "Lázas és fertőző megbetegedések",
+      "text": "Az influenza magas lázat, orrfolyást, köhögést és fejfájást okoz. A COVID-19 cseppfertőzéssel terjed. Az AIDS a HIV-fertőzés végstádiuma, amely az immunrendszert rombolja."
+    },
+    {
+      "id": 11,
+      "term": "Mi az interferencia-jelenség a vírusokkal szemben?",
+      "definition": "Az RNS interferencia egy védekező mechanizmus, ahol a sejt kettős szálú RNS-t felismer, és elpusztít minden olyan beérkező vírus mRNS-t, amely hasonló szekvenciájú.",
+      "quote": "Kettős szálú RNS detektálása",
+      "text": "Ez a mechanizmus elsősorban a növényekben jellemző. Az interferonok az emberi szervezetben működő más típusú védelem, amelyeket a vírussal fertőzött sejtek bocsátanak ki és a szomszédos sejteket aktiválják."
+    },
+    {
+      "id": 12,
+      "term": "Mit jelent az aktív és passzív immunizálás?",
+      "definition": "Aktív: a szervezet immunrendszere részt vesz a védettség kialakításában, immunmemória alakul ki. Passzív: másból kivont ellenanyagot juttatnak be, de nincs immunmemória.",
+      "quote": "Saját vagy kölcsön ellenanyag",
+      "text": "Az aktív immunizálás lehet mesterséges (oltás legyengített kórokozóval) vagy természetes (betegségen átesés). A passzív lehet mesterséges (ellenanyag bevitele) vagy természetes (anyatej, méhlepény)."
+    },
+    {
+      "id": 13,
+      "term": "Ki találta fel a himlőoltást?",
+      "definition": "Edward Jenner angol sebész 1749-1823 között az első mesterséges aktív immunizálást végezte: tehénhimlővel fertőzött anyag beadásával bevezette a vakcinázást.",
+      "quote": "Jenner, himlőoltás, vakcinázás",
+      "text": "A tehén latin neve 'vacca', innen ered a vakcinázás elnevezése. Jenner munkássága iránti tiszteletből Louis Pasteur nevezte így a védőoltásokat általában."
+    },
+    {
+      "id": 14,
+      "term": "Mi az influenzavírus szerkezete és terjedése?",
+      "definition": "Az influenzavírus burkos vírus, amely A, B és C típusban ismert. A burkon lévő H és N jelű molekulák alapján csoportosítható, például H1N1.",
+      "quote": "Burkon H és N molekulák",
+      "text": "Az influenza járványok évről évre kialakulnak, mert a felszíni molekulák szerkezete gyakran megváltozik. Az immunrendszer nem ismeri fel a korábban leküzdött kórokozót."
+    },
+    {
+      "id": 15,
+      "term": "Mik a COVID-19 tünetei?",
+      "definition": "A COVID-19 jellemzően lázzal, száraz köhögéssel, fáradékonysággal jár. Előfordulhat nehézlégzés, torokfájás, fejfájás, izom- vagy ízületi fájdalom.",
+      "quote": "Száraz köhögés, láz, fáradtság",
+      "text": "A betegség leggyakrabban (kb. 80%-ban) enyhe vagy közepesen súlyos formában zajlik. A halálozási arány 2-3% között változik, legmagasabb az idősek körében."
+    },
+    {
+      "id": 16,
+      "term": "Mi a HIV szerkezete és hogyan támad meg sejtet?",
+      "definition": "A HIV egy retrovírus, amelynek RNS-éből reverz transzkriptáz enzim segítségével DNS képződik. A peplon glikoproteidek (gp41 és gp120) segítségével CD4 receptorokat kötnek meg.",
+      "quote": "Reverz transzkriptáz DNS-képzés",
+      "text": "A HIV az immunrendszer CD4+ fehérvérsejtjeit támadja meg. A beépült HIV-DNS alapján új vírusok keletkeznek, amelyek kiszabadulásakor elpusztítják a gazdasejtjet."
+    },
+    {
+      "id": 17,
+      "term": "Hogyan terjed a HIV?",
+      "definition": "A HIV védekezés nélküli szexuális úton, fertőzött vérrel, anyáról gyermekre, injekciós kábítószerrel és nem sterilizált orvosi eszközökkel terjed.",
+      "quote": "Vér, váladék, szexuális kontakt",
+      "text": "Az AIDS az utolsó stádium, amikor az immunsejtek száma egy bizonyos érték alá csökken. Ezt az opportunista fertőzések jellemzik, amelyek az egészséges emberekben nem okoznak betegséget."
+    },
+    {
+      "id": 18,
+      "term": "Mit jelent az AIDS és mi az utolsó stádiuma?",
+      "definition": "Az AIDS (Acquired Immuno Deficiency Syndrome) a HIV-fertőzés végstádiuma, amikor az immunsejtek száma kritikus szintre csökken és az opportunista fertőzések megjelennek.",
+      "quote": "Szerzett immunhiányos szindróma",
+      "text": "Az opportunista fertőzések közé tartoznak a tüdőgyulladás, hasmenés, gombásodás, TBC, hepatitis és egyes daganatos megbetegedések. Kezelés nélkül halálos kimenetelű."
+    },
+    {
+      "id": 19,
+      "term": "Mi a hepatitis B és C terjesztési módja?",
+      "definition": "A hepatitis B és C vérrel, szexuális úton, ondóval és hüvelyváladékkal terjed. A tünetmentes hordozók és krónikus betegek életük végéig fertőzőképesek.",
+      "quote": "Vér és testnedvek",
+      "text": "A HBV ellen aktív védőoltás javasolt, amely a 14 éves korosztály számára kötelező. A HCV rendkívüli mutációs készsége miatt hatásos védőoltás még nincs."
+    },
+    {
+      "id": 20,
+      "term": "Mi a kanyaró és tünetei?",
+      "definition": "A kanyaró lázas, hurutos, kiütéses, igen fertőző betegség. Cseppfertőzéssel terjed, és szövődményeként agyvelőgyulladás vagy tüdőgyulladás alakulhat ki.",
+      "quote": "Lázas kiütéses betegség",
+      "text": "A kanyaró szövódménye végzetes is lehet. Az oltás 1-2 éves korban javasolt, amely hosszú idejű védettséget nyújt."
+    },
+    {
+      "id": 21,
+      "term": "Mi a veszettség és hogyan terjed?",
+      "definition": "A veszettség vírus okozta, halálos kimenetelű fertőző betegség, amely veszett állatok nyálával terjed. A központi idegrendszert támadja meg és gyakorlatilag minden esetben végzetes.",
+      "quote": "Halálos agyvelőgyulladás",
+      "text": "A lappangási idő 3-7 hét. A betegség levertséggel kezdődik, majd fokozott ingerlékenység, intenzív nyálfolyás, és végül légzésbénulás okozza a halált."
+    },
+    {
+      "id": 22,
+      "term": "Mit jelent a hidrofóbia a veszettség esetén?",
+      "definition": "A hidrofóbia (víziszony) a veszettség jellegzetes tünete, amely során a beteg görcsöt kap vizet iszik vagy annak látványára is.",
+      "quote": "Víziszony veszettségnél",
+      "text": "Az intenzív nyálfolyás és a száj, garat, gége izomzatában kialakult görcsök miatt a beteg nem képes a nyálát lenyelni, kifolyik a szájából."
+    },
+    {
+      "id": 23,
+      "term": "Mi az mRNS-alapú vakcina működési elve?",
+      "definition": "Az mRNS-alapú vakcina a vírus tüskefehérjéjének genetikai információját lipidburokban lévő mRNS-sel juttatja be az emberi sejtekbe, amelyek legyártják ezt a fehérjét.",
+      "quote": "mRNS, lipidburka, tüskefehérje",
+      "text": "A termelődött tüskefehérje az immunrendszert aktiválja. A B-limfociták antitesteket termelnek, amelyek az igazi vírus megjelenésekor felismerik és elpusztítják azt."
+    },
+    {
+      "id": 24,
+      "term": "Mi a vektor-alapú vakcina?",
+      "definition": "A vektoros vakcina genetikailag módosított adenovírusok segítségével juttatja be a koronavírus tüskefehérje génjét az emberi sejtekbe.",
+      "quote": "Módosított vírus hordozó",
+      "text": "Az adenovírusok önmagukban meghűléses tüneteket okoznak, de genetikai módosítás után ártalmatlanított hordozóként működnek a tüskefehérje gén szállítójául."
+    },
+    {
+      "id": 25,
+      "term": "Mi az inaktivált vírus alapú vakcina?",
+      "definition": "Ez a hagyományos módszer legyengített, inaktivált vírust juttat a szervezetbe, amelynek felszíni burokfehérjéi immunválaszt váltanak ki.",
+      "quote": "Legyengített vírus immunizálás",
+      "text": "Az inaktivált vírusok lehetnek genetikai anyagukat karban károsított vírusok vagy teljesen elpusztított vírusok. Az immunválasz kialakul, de nem alakul ki fertőzés."
+    },
+    {
+      "id": 26,
+      "term": "Mi a prion és mitől különbözik a vírusoktól?",
+      "definition": "A prion egy fertőző, kórokozó fehérje, amely semmilyen örökítőanyaggal nem rendelkezik és egyszerűbb képződmény a vírusoknál.",
+      "quote": "Fehérje csak, örökítőanyag nélkül",
+      "text": "A prionok az egyébként normálisan meglevő sejtes fehérjék (celluláris prion, PrPc) szerkezetileg módosult változatai. A kóros konformáció (PrPSc) előidézi a neurodegeneratív betegségeket."
+    },
+    {
+      "id": 27,
+      "term": "Milyen prion-betegségek vannak emberben és állatban?",
+      "definition": "Emberben a Jakob-Creutzfeldt betegség, állatban (szarvasmarha) a szivacsos agyvelősorvadás vagy kergemarhakór a legfontosabb prion-betegségek.",
+      "quote": "Szivacsos agyelhalás",
+      "text": "A prion betegségeknél nincs ellenanyag termelés, nincs gyulladásos reakció, és a lappangási idő évekig tarthat. Az agyban üregek jönnek létre, az állomány szivacsossá válik."
+    },
+    {
+      "id": 28,
+      "term": "Mi az endoszimbióta elmélet?",
+      "definition": "Az elmélet szerint az eukarióta sejtek kb. 1,5-2 milliárd évvel ezelőtt jöttek létre, kialakulásukat szimbióta baktériumok felhasználása révén magyarázza.",
+      "quote": "Szimbióta eredet eukarióták",
+      "text": "A mitokondrium és a kloroplaszt felépítésüket és működésüket tekintve hasonlít az autonóm baktériumokra, amely támogatja az endoszimbióta elméletet."
+    },
+    {
+      "id": 29,
+      "term": "Milyen szerepet játszanak a vírusok az ökoszisztémában?",
+      "definition": "A bakteriofágok szabályozzák a baktériumok populációját. A vírusok járványaik révén megelőzik a populációk túlnépesedését és fenntartják az ökológiai egyensúlyt.",
+      "quote": "Populáció-szabályozás járványokkal",
+      "text": "Az anyagok körforgása fontos folyamat, amelyben a vírusok szerepet játszanak a szerves anyagok lebomlásában és szervetlen anyagokká alakításában."
+    },
+    {
+      "id": 30,
+      "term": "Mit jelent a fertőzés megelőzése?",
+      "definition": "A megelőzés leghatékonyabb módja az immunizálás védőoltásokkal és az alapvető higiénés szabályok betartása.",
+      "quote": "Oltás és higiénia",
+      "text": "Fontos a rendszeres szappanos kézmosás, a szemünkre és szánkra nem nyúlunk piszkos kézzel, járvány esetén szájmaszk viselése, és megfelelő táplálkozás, mozgás az immunrendszer erősítésére."
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi a biogén elem?",
+      "definition": "Az élő szervezeteket felépítő kémiai elem. Az élőlények testének mintegy 30 elem építi fel, bár a természetben 92 elem van.",
+      "quote": "Az élő szervezetek alapvető építőkövei",
+      "text": "Az elsődleges biogén elemek (C, H, O, N) az élőlények tömegének 95-97%-át adják. Kicsi atomsulyúak, erős kovalens kötéseket képeznek és többszörös kötésekre is képesek."
+    },
+    {
+      "id": 2,
+      "term": "Miért szénalap az élet?",
+      "definition": "A szén egyedülálló képessége szinte korlátlan számú szénatomot összekapcsolódva különféle stabil óriásmolekulákat létrehozni.",
+      "quote": "Szén: az élet molekuláris alapja",
+      "text": "A szén atomjai tetraéderesen helyezkednek el, amely lehetővé teszi a stabil C-C kötések kialakítását. A Si-Si kötések sokkal gyengébbek, mivel a szilícium nagyobb és a kötéstávolság nagyobb."
+    },
+    {
+      "id": 3,
+      "term": "Az elsődleges biogén elemek mely?",
+      "definition": "H (hidrogén), O (oxigén), C (szén), N (nitrogén) - ezek az élőlények tömegének 95-97%-át adják.",
+      "quote": "Négy elem, három életforma",
+      "text": "Közös jellemzőik: kicsi atomméret, nagy elektronvonzó képesség, erős kovalens kötések, többszörös kötések képzésére képesek."
+    },
+    {
+      "id": 4,
+      "term": "Másodlagos biogén elemek közül melyek fontosak?",
+      "definition": "P, S, Fe, Mg, Na, K, Ca, Cl, I - az élőlények tömegének néhány %-át adják. Specifikus biológiai funkciókat töltnek be.",
+      "quote": "Kevesen, de létfontosak",
+      "text": "P: nukleinsavakban, foszfolipidekben, csontban; S: fehérjékben; Fe: hemoglobinban; Mg: klorofillban; Ca: csontban, izomműködésben."
+    },
+    {
+      "id": 5,
+      "term": "Mi az ion?",
+      "definition": "Töltéssel rendelkező atom vagy atomcsoport. Az élő szervezetekben ionos formában fordulnak elő különféle ásványi anyagok.",
+      "quote": "Töltött részecskék, vital funkciók",
+      "text": "Az ionok többnyire oldott állapotban fordulnak elő természetes vizekben, sejtplazómában vagy különféle testnedvekben (vér, szöveti folyadék, nyirok)."
+    },
+    {
+      "id": 6,
+      "term": "Mi a pH és hogyan számítható?",
+      "definition": "A pH a H+ ionok koncentrációjának hatványkitevőjéből adható meg (pH = -log[H+]). A pH skála 0-14-ig terjed.",
+      "quote": "pH: savasság és lúgosság mérése",
+      "text": "Semleges oldat pH = 7. Savas oldatok: pH < 7 (több H+). Lúgos oldatok: pH > 7 (több OH-). Például: 0,1 mol/dm³ sósav pH = 1."
+    },
+    {
+      "id": 7,
+      "term": "Milyen szerepe van a Ca2+ ionnak?",
+      "definition": "Kalcium-ionok a csontokban és fogzománcban fordulnak elő, fontos az izomműködéshez, vércsalódáshoz és másodlagos hírvivő szerepet tölt be.",
+      "quote": "Csontok és izmok régens",
+      "text": "Ca2+ az élő szervezet másodalagos közvetítője, jelátvivő szerepe van szellemi folyamatban. Apatitok formájában a csontok szilárd szervetlen állományának fő alkotói."
+    },
+    {
+      "id": 8,
+      "term": "Hogyan működik a szén és hidrogén kimutatása?",
+      "definition": "Szerves vegyület elégetésénél a szén szén-dioxiddá, a hidrogén vízzé oxidálódik. A CO2-t meszes vízbe vezetjük (megzavarosodik), a vízpára lecsapódik.",
+      "quote": "Égés által történő elemanalízis",
+      "text": "Szén: CO2 + Ca(OH)2 = CaCO3 + H2O (kalcium-karbonát csapadék). Hidrogén: páracseppek a kémcső hidegebb részein."
+    },
+    {
+      "id": 9,
+      "term": "Hogyan mutatható ki a nitrogén?",
+      "definition": "Szerves vegyületek nitrogéntartalma nátrium-hidroxiddal ammóniává alakítható. A lúgos ammónia keletkezésétlakmusz indikátor kékre változása jelzi.",
+      "quote": "Ammónia-szag: nitrogén jele",
+      "text": "Közeg: lúgos (NaOH), indiátor: lakmusz. A szerves anyagok nitrogén-tartalma alkalikus körülmények között ammóniává alakul."
+    },
+    {
+      "id": 10,
+      "term": "Mi az a víz és miért fontos?",
+      "definition": "A víz poláris, dipólusos molekula, az élőlények legfontosabb szervetlen vegyülete. Az élőlények tömegének 55-98%-a víz.",
+      "quote": "Az élet folyékony alapja",
+      "text": "H2O molekula: oxigénatomon elektronfelesleg (negatív), hidrogénatomokon elektronhiány (pozitív). Az oxigén nagyobb elektronegativitása miatt H-kötések alakulnak ki."
+    },
+    {
+      "id": 11,
+      "term": "Melyek a víz fizikai tulajdonságai?",
+      "definition": "Magas olvadáspont (0°C), forráspont (100°C), nagy hőkapacitás, nagy párolgáshő, nagy felületi feszültség, sűrűsége +4°C-nál legnagyobb.",
+      "quote": "Víz: szokatlan fizikai tulajdonságok",
+      "text": "Ezek a tulajdonságok a molekulák közötti H-kötésekre vezethetők vissza. Molekulasúlyához képest szokatlanul magas halmazváltozási hőmérsékletek."
+    },
+    {
+      "id": 12,
+      "term": "Mi a hőkapacitás és mivel kapcsolatos?",
+      "definition": "A hőkapacitás az adott tömegű anyag hőmérsékletének 1°C-al emeléshez szükséges hő. A víz nagy hőkapacitással rendelkezik.",
+      "quote": "Víz: hőtáro a természetben",
+      "text": "A víz sok hőt képes elnyelni, tárolni és szállítani. Ez klímameghatározó szerepe, és az élőlények testhőmérséklete stabilabb marad."
+    },
+    {
+      "id": 13,
+      "term": "Mi a párolgáshő és jelentősége?",
+      "definition": "Egységnyi tömegű folyadék állandó hőmérsékleten elpárologtatásához szükséges energia. A víz nagy párolgáshővel rendelkezik.",
+      "quote": "Párolgás: hűtés az élőlények számára",
+      "text": "A víz sok hőt von el a környezetéből párolgása során. Fontos szerepe az élőlények hőszabályozásában (növények és állatok egyaránt)."
+    },
+    {
+      "id": 14,
+      "term": "Miért nem fagy alulról a természetes víztest?",
+      "definition": "A víz sűrűsége +4°C-nál a legnagyobb, azt követően csökken. Fagyáskor térfogata nő, ezért felülről fagy be a tó.",
+      "quote": "Jég felül, víz alatt: végzet vágása",
+      "text": "Télen az édesvizek +4°C-ra hűlnek le teljes mennyiségükben, majd csak a legfelső vízréteg fagy meg. Ez a vízi élővilág számára rendkívül kedvező."
+    },
+    {
+      "id": 15,
+      "term": "Mi a felületi feszültség és oka?",
+      "definition": "A vízszintes folyadék felülete rugalmas hártyához hasonlóan viselkedik. Oka: a felszínen elhelyezkedő molekulákat csak belülről éri vonzóhatás (kohéziós erő).",
+      "quote": "Felület: rugalmas határ",
+      "text": "Ennek köszönhetően egyes rovarok képesek a víz felszínén futkározni, és megjelenik a kapillárishatás is."
+    },
+    {
+      "id": 16,
+      "term": "Mi a kapillárishatás és miért lényeges?",
+      "definition": "Ha a folyadék és szilárd anyag között nagyobb az adhézió, mint a kohézió, a folyadék keskeny térben a nehézségi erő ellenében is képes mozogni.",
+      "quote": "Víz: vezetés szűk terekben",
+      "text": "Fontos szerepe van a növények vízszállító edényeiben és a talajban a felfelé irányuló vízmozgásban."
+    },
+    {
+      "id": 17,
+      "term": "Melyek a víz biológiai szerepei?",
+      "definition": "Poláris oldószer, reakciópartner (hidrolízis, kondenzáció), reakcióközeg, szállítóközeg, szerkezetmeghatározó.",
+      "quote": "Víz: egyetemes biológiai közeg",
+      "text": "Oldószer: poláris és ionos vegyületeket hidratációval, elektrolitos disszociációval oldja. Kondenzáció: monomerek makromolekulákká; hidrolízis: makromolekulák monomerekre bomlása."
+    },
+    {
+      "id": 18,
+      "term": "Mi a lipid és milyen fajtái vannak?",
+      "definition": "A lipidek szerves vegyületek gyűjtőcsoportja, közös sajátságuk, hogy apoláris oldószerekben jól oldódnak. Fajtái: neutrális zsírok, foszfolipidek, szteroidok, karotinoidok.",
+      "quote": "Lipidek: sokszínű apoláris molekulák",
+      "text": "Neutrális zsírok: trigliceridek (glicerin + zsírsavak). Foszfolipidek: amfipatikus, membránok alapja. Szteroidok: hormonok, koleszterin. Karotinoidok: fotoszintézis, látás."
+    },
+    {
+      "id": 19,
+      "term": "Mik a neutrális zsírok és szerkezete?",
+      "definition": "A neutrális zsírok kémiailag a glicerin zsírsavakkal alkotott észterei (trigliceridek). Szilárdak szobahőn: zsírok, folyékonyak: olajok.",
+      "quote": "Zsírok: energia kondenzált formája",
+      "text": "Glicerinből és zsírsavakból kondenzációval keletkeznek. Bomlásuk hidrolízissel történik (például az emésztésben lipáz enzim hatására)."
+    },
+    {
+      "id": 20,
+      "term": "Telített vagy telítetlen zsírsavak - mi a különbség?",
+      "definition": "Telített: csak egyszeres C-C kötések (palmitinsav, sztearinsav). Telítetlen: kettős kötéseket is tartalmaznak (olajsav).",
+      "quote": "Kettős kötések: folyékony zsír",
+      "text": "Telített zsírsavak: állati eredetű, szobahőn szilárd. Telítetlen: növényi olajok, szobahőn folyékony. Kettős kötések miatt hajlékonyabbak és folyékonyabbak."
+    },
+    {
+      "id": 21,
+      "term": "Milyen biológiai szerepei vannak a neutrális zsíroknak?",
+      "definition": "Raktározott tápanyagok (2x több energia, mint szénhidrát), hőszigetelés, mechanikai védelem, zsírban oldódó vitaminok oldószerei.",
+      "quote": "Zsír: energia és védelem",
+      "text": "Apolárisak, így vízmentesen tárolhatók. Több H-C kötésekből több energia nyerhető. Állati szervezetben: zsírszövet. Növényekben: olajos magvak."
+    },
+    {
+      "id": 22,
+      "term": "Mik a foszfolipidek (foszfatidok)?",
+      "definition": "Alapvegyülete a foszfatidsav: glicerin + két zsírsav + foszforsav. Amfipatikus, kettős oldódású vegyületek.",
+      "quote": "Foszfolipidek: membránok alapja",
+      "text": "Poláris rész: glicerin, foszforsav, kolin. Apoláris rész: zsírsavak. Vízben liposzómákat, micellákat alkotnak. Legfontosabb: biológiai membránok."
+    },
+    {
+      "id": 23,
+      "term": "Mi a szteránváz és mik a szteroidok?",
+      "definition": "A szteroidok közös szerkezeti sajátsága a szteránváz (négy gyűrű szerkezet). Az egyes szteroidok funkciós csoportjaiban térnek el.",
+      "quote": "Szteránváz: hormonok vázáratlanúl",
+      "text": "Szteroidok közé tartoznak: koleszterin, hormonok (ösztrogén, tesztoszteron), D-vitamin. Alapvető anyagok az élő szervezetben."
+    },
+    {
+      "id": 24,
+      "term": "Koleszterin: hol fordul elő és miért fontos?",
+      "definition": "Állati zsírokban, vérben, epében, sejthártyában. Részben táplálékkal vesszük fel, részben a szervezet termel (máj).",
+      "quote": "Koleszterin: hormonal alapanyag",
+      "text": "Fontos előanyaga szteránvázas vegyületek szintézisének (hormonok). Magas koncentrációja érszűkületet, érelmeszesedést okoz."
+    },
+    {
+      "id": 25,
+      "term": "Mi a D3-vitamin (kolekalciferol) funkciója?",
+      "definition": "Egy szteránvázas vegyület, amely a kalcium felszívódásáért és csontosodásért felelős.",
+      "quote": "D-vitamin: csontok építőmestere",
+      "text": "Napfény hatására a bőrben képződik. Segít a kalcium és foszfor felszívódásban, a csontok és fogak szilárdságát biztosítja."
+    },
+    {
+      "id": 26,
+      "term": "Mi az epesav és mi a szerepe?",
+      "definition": "A koleszterin metabolikus terméke. A máj termel, az epébe szabadul. Zsírok emésztésében emulgeálási és lipáz-aktiváló szerepe van.",
+      "quote": "Epesav: zsír szétszórása",
+      "text": "Az epesavak amfipatikus vegyületek, képesek a zsírokat vizbe oldott micellákat képezni. Stabilizálja az emulziót és elősegíti a lipáz működését."
+    },
+    {
+      "id": 27,
+      "term": "Mik a karotinoidok és miért fontosak?",
+      "definition": "Szerves pigmentek konjugált kettőskötés-rendszerrel. Növényekben: karotinok (narancs), xantofillok (sárga). Embernél: A-vitamin, rodopszin.",
+      "quote": "Karotinoidok: szín és lát",
+      "text": "Konjugált kettőskötés-rendszere fotokémiailag aktív. Fotosintetikus pigmentek, illetve a retinában a rodopszin része (látás eseti egy fontos komponense)."
+    }
+  ]
+}

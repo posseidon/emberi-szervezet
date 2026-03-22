@@ -1,0 +1,349 @@
+{
+  "subjectId": "biology",
+  "moduleId": "szaporodas-egyedfejlodes",
+  "quiz": [
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "D) Mindkettőben csak az embrionális korban zajlik az ivarsejtképzés",
+      "options": [],
+      "answer": "A) Mindkettőben egyenletes, szünetek nélküli a spermatogenezis és oogenezis"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Magyarázat: A férfiak spermatogenezise pubertáskor kezdődik és szinte élethosszig tart. A nőkben az oogenezis magzati korban indul (600.000 oogónium), a pubertásig szünetelik (200.000 periódiumban), majd pubertástól a menopauzáig havonként zajlik egy petesejt éréséhez.",
+      "options": [],
+      "answer": "Szaporodás::MC"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "D) Oogónium → direkt petesejt",
+      "options": [],
+      "answer": "B) Oogónium → I. oocyta → II. oocyta → petesejt"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Magyarázat: Az oogénezis lépcsőzetes: oogónium → I. oocyta (amely a diplotén stádiumban megakad) → ovuláció után II. oocyta (érett petesejt) + polocita.",
+      "options": [],
+      "answer": "Szaporodás::MC"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "B) Agyalapi mirigy elülső lebenye",
+      "options": [],
+      "answer": "B) Agyalapi mirigy elülső lebeny"
+    },
+    {
+      "id": 19,
+      "type": "BLANK",
+      "question": "Magyarázat: Az FSH és LH gonadotropin hormonok az adenohipofízisből (elülső lebenye) szabadulnak fel, amelyet a hipotalamusz GnRH-ján keresztül szabályoz.",
+      "options": [],
+      "answer": "Szaporodás::MC"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A) Az egész ciklus",
+      "options": [],
+      "answer": "B) A 14-28. nap"
+    },
+    {
+      "id": 25,
+      "type": "BLANK",
+      "question": "Magyarázat: Az ösztrogénhatás fázisa a ciklus első felét jellemzi: az 1-4. nap a menstruáció, majd az 5-14. napig a regeneráció és burjánzás zajlik az endometrium vastagodásával.",
+      "options": [],
+      "answer": "Szaporodás::MC"
+    },
+    {
+      "id": 30,
+      "type": "BLANK",
+      "question": "D) Nem befolyásolják a hipofízis működését",
+      "options": [],
+      "answer": "B) Mindkettőt csökkentik (gátolják)"
+    },
+    {
+      "id": 31,
+      "type": "BLANK",
+      "question": "Magyarázat: A ciklus második felében a progeszteron és ösztrogén negatív visszacsatolás révén gátolják az FSH és LH termelődését, ami a sárgatest involuciójához és a menstruációhoz vezethet.",
+      "options": [],
+      "answer": "Szaporodás::MC"
+    },
+    {
+      "id": 36,
+      "type": "BLANK",
+      "question": "B) Csak a feji rész (sejtmag és akroszóma)",
+      "options": [],
+      "answer": "C) Feji rész és az akroszóma is kívül marad"
+    },
+    {
+      "id": 37,
+      "type": "BLANK",
+      "question": "Magyarázat: A megtermékenyítés során csak a spermium feji része (sejtmag az akroszómával) kerül be, a nyak, középdarab és farok kívül marad. Ezért a zigóta mitokondriumai kizárólag anyai eredetűek.",
+      "options": [],
+      "answer": "Szaporodás::MC"
+    },
+    {
+      "id": 42,
+      "type": "BLANK",
+      "question": "B) Az oogeneszisből 1 petesejt + 3 polocita, spermatogenezisből 4 spermium keletkezik",
+      "options": [],
+      "answer": "C) A spermatogenezisből 1 spermium, az oogeneszisből több petesejt jön létre"
+    },
+    {
+      "id": 43,
+      "type": "BLANK",
+      "question": "Magyarázat: Az oogenezis eredménye 1 haploid petesejt és 3 sarkisejt (polocita). A spermatogenezis 4 egyenlő méretű haploid spermiumot eredményez.",
+      "options": [],
+      "answer": "Szaporodás::MC"
+    },
+    {
+      "id": 48,
+      "type": "BLANK",
+      "question": "B) LH",
+      "options": [],
+      "answer": "D) Progeszteron"
+    },
+    {
+      "id": 49,
+      "type": "BLANK",
+      "question": "Magyarázat: A chorion sejtjei hCG hormont termelnek a 10. naptól, amely fenntartja a sárgatestet és a progeszterontermelést a terhesség első trimeszterében.",
+      "options": [],
+      "answer": "Szaporodás::MC"
+    },
+    {
+      "id": 55,
+      "type": "BLANK",
+      "question": "D) Túlzott ösztrogéntermelés csak az ovuláció után",
+      "options": [],
+      "answer": "C) Csökkent ösztrogén- és progeszteronszint"
+    },
+    {
+      "id": 56,
+      "type": "BLANK",
+      "question": "Magyarázat: A PCOS jellemzője az emelkedett LH/FSH arány, amely a tüszők érésének zavara és a sok cisztikus tüszö kialakulása révén meddőséget okoz, gyakran inzulinrezisztenciával társul.",
+      "options": [],
+      "answer": "Szaporodás::MC"
+    },
+    {
+      "id": 61,
+      "type": "BLANK",
+      "question": "C) Ektoderm, mezoderma és köldök",
+      "options": [],
+      "answer": "B) Ektoderm, endoderm és mezoderma"
+    },
+    {
+      "id": 62,
+      "type": "BLANK",
+      "question": "Magyarázat: Az embrió 3. hetén az ektoderma befordulása miatt mezoderma is képződik (primitív csíkon keresztül). Ezek a három csíralemez az összes szövetet és szervet hozzák létre.",
+      "options": [],
+      "answer": "Szaporodás::MC"
+    },
+    {
+      "id": 67,
+      "type": "BLANK",
+      "question": "B) A méhnyak rendellenessége",
+      "options": [],
+      "answer": "D) Az ovulációs mechanizmus zavara"
+    },
+    {
+      "id": 68,
+      "type": "BLANK",
+      "question": "Magyarázat: Az endometriozis során az endometriális szövet a méhüregen kívülre (petefészekre, petevezetőre, hashártyára) telepszik, amely gyulladást, szöveti sérüléseket és meddőséget okoz.",
+      "options": [],
+      "answer": "Szaporodás::MC"
+    },
+    {
+      "id": 73,
+      "type": "BLANK",
+      "question": "C) Enzimek tárolása a petesejt behatolásához szükséges",
+      "options": [],
+      "answer": "B) Az ATP termelés a mozgáshoz"
+    },
+    {
+      "id": 74,
+      "type": "BLANK",
+      "question": "Magyarázat: Az akroszóma a spermium fejében található, amelyből hialuronidáz és akrózin enzimek szabadulnak fel a zona pellucida felhasadásához.",
+      "options": [],
+      "answer": "Szaporodás::MC"
+    },
+    {
+      "id": 75,
+      "type": "BLANK",
+      "question": "Magyarázat: Egy ciklus során több tüsző indul el (mintegy 10), de csak egy vagy kevés válik dominánssá és érik meg. A többi apoptózissal elsorvad.",
+      "options": [],
+      "answer": "Szaporodás::TF"
+    },
+    {
+      "id": 76,
+      "type": "BLANK",
+      "question": "Magyarázat: Az LH szintjének hirtelen megemelkedése (surge) a 14. nap körül kiváltja az ovulációt, amely a ciklus kb. 14. napján zajlik.",
+      "options": [],
+      "answer": "Szaporodás::TF"
+    },
+    {
+      "id": 77,
+      "type": "BLANK",
+      "question": "Magyarázat: A Sertoli-sejtek (dajkasejtek) az FSH-receptorokkal rendelkeznek és nem csak gátlást (inhibin), hanem serkentést is közvetítenek az FSH révén.",
+      "options": [],
+      "answer": "Szaporodás::TF"
+    },
+    {
+      "id": 78,
+      "type": "BLANK",
+      "question": "Magyarázat: A spermatogenesis kb. 70 nap (az első szedercsírától az érésig), majd az utóérés a mellékherében további 8-12 napig tart.",
+      "options": [],
+      "answer": "Szaporodás::TF"
+    },
+    {
+      "id": 79,
+      "type": "BLANK",
+      "question": "Magyarázat: Ezek a kritikus időablakok a megtermékenyítéshez szükségesek. A petesejt rövidebb ideig marad életképes.",
+      "options": [],
+      "answer": "Szaporodás::TF"
+    },
+    {
+      "id": 80,
+      "type": "BLANK",
+      "question": "Magyarázat: A placenta teljes fejlettségét a terhesség 3. hónapjára (kb. 12. hét) eléri.",
+      "options": [],
+      "answer": "Szaporodás::TF"
+    },
+    {
+      "id": 81,
+      "type": "BLANK",
+      "question": "Magyarázat: A magzati és anyai vérkeringés anatómiai értelemben teljesen független, a szűrőberendezés (placenta) választja el őket, csak diffúzió révén történik anyagtranszport.",
+      "options": [],
+      "answer": "Szaporodás::TF"
+    },
+    {
+      "id": 82,
+      "type": "BLANK",
+      "question": "A _____ a menstruációs ciklus 1-5. napjában az endometrium 2/3-ának lelökődésével jellemzett szakasz.",
+      "options": [],
+      "answer": "menstruáció"
+    },
+    {
+      "id": 83,
+      "type": "BLANK",
+      "question": "Magyarázat: A menstruáció az endometrium hormonális visszahúzódása és vérzésével járó fiziológiai folyamat, amely a ciklus első szakasza.",
+      "options": [],
+      "answer": "Szaporodás::BLANK"
+    },
+    {
+      "id": 84,
+      "type": "BLANK",
+      "question": "A _____ a megtermékenyítés után a spermium membránján bekövetkezett felületi molekuláris változások során végbemenő érési folyamat a női nemi utakban.",
+      "options": [],
+      "answer": "kapacitáció"
+    },
+    {
+      "id": 85,
+      "type": "BLANK",
+      "question": "Magyarázat: A kapacitáció a spermium membránváltása, amely szükséges az akroszóma-reaktióhoz és a petesejt behatolásához.",
+      "options": [],
+      "answer": "Szaporodás::BLANK"
+    },
+    {
+      "id": 86,
+      "type": "BLANK",
+      "question": "Az _____ a sárgatestet fenntartó hormon, amelyet a chorion sejtjei termelnek az embrió beágyazódása után.",
+      "options": [],
+      "answer": "hCG (human Chorionic Gonadotropin)"
+    },
+    {
+      "id": 87,
+      "type": "BLANK",
+      "question": "Magyarázat: Az hCG fenntartja a sárgatestet a terhesség első trimeszterében, amely biztosítja a progeszterontermelést.",
+      "options": [],
+      "answer": "Szaporodás::BLANK"
+    },
+    {
+      "id": 88,
+      "type": "BLANK",
+      "question": "Az _____ a méh és a petefészek közötti csöves szerv, amelyben csillók és peristaltikus mozgás segítik a petesejt továbbítását.",
+      "options": [],
+      "answer": "petevezeték (méhkürt)"
+    },
+    {
+      "id": 89,
+      "type": "BLANK",
+      "question": "Magyarázat: A petevezeték az ovuláció helye és a megtermékenyítés gyakori színhelye, kb. 10-13 cm hosszú csöves szerv.",
+      "options": [],
+      "answer": "Szaporodás::BLANK"
+    },
+    {
+      "id": 90,
+      "type": "BLANK",
+      "question": "A _____ a tüszőhámsejtekből keletkezett, prosztágroxinokat tartalmazó citokinek összessége, amely a spermium mozgásának fokozásáért felelős.",
+      "options": [],
+      "answer": "ondó (sperma) (vagy: prosztaglandinok)"
+    },
+    {
+      "id": 91,
+      "type": "BLANK",
+      "question": "Magyarázat: Az ondó prosztaglandinja fokozza a spermium mozgáskészségét és a méh simaizomzatának kontraktilitását.",
+      "options": [],
+      "answer": "Szaporodás::BLANK"
+    },
+    {
+      "id": 92,
+      "type": "BLANK",
+      "question": "A _____ az embrión belül és annak körül termelődő első magzatburok, amely hCG hormont választ el.",
+      "options": [],
+      "answer": "chorion (irhahártya)"
+    },
+    {
+      "id": 93,
+      "type": "BLANK",
+      "question": "Magyarázat: A chorion a szedercsíra külső sejtrétegéből alakul ki, bolyhos felszínnel és hCG termelésével jellemzett.",
+      "options": [],
+      "answer": "Szaporodás::BLANK"
+    },
+    {
+      "id": 94,
+      "type": "BLANK",
+      "question": "Az _____ az amnion által termelt folyadék, amely a magzatot védi a mechanikai hatásoktól és a kiszáradástól.",
+      "options": [],
+      "answer": "magzatvíz (amnionvíz)"
+    },
+    {
+      "id": 95,
+      "type": "BLANK",
+      "question": "Magyarázat: A magzatvíz három óránként cserélődik és fontos genetikai szűrővizsgálatokhoz (Down-szindróma nyomkövetése).",
+      "options": [],
+      "answer": "Szaporodás::BLANK"
+    },
+    {
+      "id": 96,
+      "type": "BLANK",
+      "question": "A _____ az első meiotikus osztódásban megakadt oocyta, amely a Graaf-tüszőben végzi el az első meiosztázist az ovuláció alatt.",
+      "options": [],
+      "answer": "I. rendű oocyta"
+    },
+    {
+      "id": 97,
+      "type": "BLANK",
+      "question": "Magyarázat: Az I. oocyta a profázis I-ben megreked (diplotén stádium) és csak az ovuláció alatt fejezi be az első osztódást.",
+      "options": [],
+      "answer": "Szaporodás::BLANK"
+    },
+    {
+      "id": 98,
+      "type": "BLANK",
+      "question": "A _____ az FSH hatására képződő, fehérje jellegű peptid, amely gátolja az FSH termelődésének további emelkedését a tüszőben és a sárgatestben.",
+      "options": [],
+      "answer": "inhibin"
+    },
+    {
+      "id": 99,
+      "type": "BLANK",
+      "question": "Magyarázat: Az inhibin a Sertoli-sejtekben és a petefészek tüszőiben termelődik, negatív visszacsatolást gyakorol az FSH-ra.",
+      "options": [],
+      "answer": "Szaporodás::BLANK"
+    }
+  ]
+}

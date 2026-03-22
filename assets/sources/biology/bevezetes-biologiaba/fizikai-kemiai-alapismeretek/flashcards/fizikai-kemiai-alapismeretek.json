@@ -1,0 +1,284 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mit jelent az oldat?",
+      "definition": "Az oldat két vagy több komponensből álló homogén anyagi rendszer, ahol a nagyobb mennyiségben jelen lévő folyadék az oldószer, a másik az oldott anyag.",
+      "quote": "Homogén összetett rendszer",
+      "text": "Az oldatok alapvető szerepet játszanak az élő szervezetekben. A biológiai oldatok többnyire vizes oldatok, ahol az oldószer a víz."
+    },
+    {
+      "id": 2,
+      "term": "Mi az oldott anyag?",
+      "definition": "Az oldott anyag az a komponens, amely az oldószerben oldódik. Lehetnek ionok, gázok vagy szerves vegyületek az élő rendszerekben.",
+      "quote": "Az oldódó komponens",
+      "text": "Az oldott anyagok mennyiségét a koncentrációval lehet kifejezni, amely az anyagmennyiség és az oldat térfogatának hányadosa."
+    },
+    {
+      "id": 3,
+      "term": "Milyen oldódási folyamatok vannak?",
+      "definition": "Az oldódás lehet pusztán fizikai folyamat, amikor kémiai reakció nem történik (pl. oxigén oldódása vízben), vagy kémiai változással járhat (pl. CO2 szénsavvá alakulása).",
+      "quote": "Fizikai vagy kémiai oldódás",
+      "text": "Az oldószer és oldott anyag részecskei elkeverednek. A molekuláris oldalnak megértéséhez szükséges az oldószer természete."
+    },
+    {
+      "id": 4,
+      "term": "Milyen tulajdonságai vannak a víznek?",
+      "definition": "A víz dipólusos szerkezetű, magas olvadás- és forráspontja van, nagy hőkapacitása és nagy párolgáshője karakterizálja, fagyásakor térfogata nő.",
+      "quote": "Poláris, H-kötésekkel",
+      "text": "A víz egyedi tulajdonságai az élő rendszerek működésében alapvetőek. A H-kötések biztosítják a víz rendkívüli hőkapacitását."
+    },
+    {
+      "id": 5,
+      "term": "Mit jelent az oldhatóság?",
+      "definition": "Az oldhatóság az a maximális mennyiség, amelyet egy oldószer egy adott hőmérsékleten képes feloldani az adott oldott anyagból.",
+      "quote": "Maximum oldódható mennyiség",
+      "text": "A telített oldat azt jelenti, hogy az oldószer nem tud több oldott anyagot feloldani. A telített oldatban dinamikus egyensúly áll be."
+    },
+    {
+      "id": 6,
+      "term": "Mit jelent a dinamikus egyensúly?",
+      "definition": "A dinamikus egyensúlyban az ellentétes irányú folyamatok (pl. oldódás és kiválás) sebessége megegyezik, így a rendszer makroszkópikusan nem változik.",
+      "quote": "Egyensúly folyamatok között",
+      "text": "Dinamikus egyensúly az oldatban azt jelenti, hogy az oldódás és kiválás egyidejűleg folyik, de nem okoz nettó változást."
+    },
+    {
+      "id": 7,
+      "term": "Mi a diffúzió?",
+      "definition": "A diffúzió a koncentrációkülönbség hatására a nagyobb koncentrációjú hely felől a kisebb felé irányuló, spontán végbemenő anyagtranszport.",
+      "quote": "Konzentráció kiegyenlítődése",
+      "text": "A diffúzió a részecskék Brown-féle mozgása révén megy végbe. Gázokban és oldatokban van jelentősége, sebessége a hőmérséklettel nő."
+    },
+    {
+      "id": 8,
+      "term": "Hogyan működik Fick törvénye?",
+      "definition": "Fick I. törvénye szerint az anyagáram-sűrűség (J) egyenesen arányos a koncentrációgradienssel (Δc/Δx). Az egész formula: J = -D·Δc/Δx",
+      "quote": "Anyagáram és gradiens",
+      "text": "A negatív előjel azt jelenti, hogy a részecskék az alacsonyabb koncentrációjú hely felé mozognak. A D diffúziós együttható az anyagtól függ."
+    },
+    {
+      "id": 9,
+      "term": "Miért fontos a diffúzió az élőben?",
+      "definition": "A diffúzió az anyagáramlás alapvető módja, az oxigén és tápanyagok szervezetbe jutása, és az ionok passzív transzportja diffúzión alapul.",
+      "quote": "Élet alapvető transzportja",
+      "text": "Az akciós potenciálok, légzés, tápanyag-felvétel mind diffúzióval vagy ozmózissal működnek. A sejtek oxigén- és CO2-cseréje diffúzión alapul."
+    },
+    {
+      "id": 10,
+      "term": "Mi az ozmózis?",
+      "definition": "Az ozmózis az az oldószer (víz) diffúziója egy féligáteresztő hártyán keresztül a hígabb oldatrész felől a töményebb felé.",
+      "quote": "Víz diffúziója membránon",
+      "text": "A féligáteresztő hártya csak az oldószer molekuláit engedi át, az oldott anyag nagyobb molekuláit nem. Ez az élő szervezetben kritikus folyamat."
+    },
+    {
+      "id": 11,
+      "term": "Mi a féligáteresztő hártya?",
+      "definition": "A féligáteresztő (szemipermeábilis) hártya olyan pórusos membrán, amely az oldott anyag nagyobb molekuláit nem, csak a kisebb méretű oldószer molekuláit enged át.",
+      "quote": "Szelektív átjárható hártya",
+      "text": "A biológiai membránok (sejtmembránok, kapillárisok fala) féligáteresztő tulajdonságúak. Ezek kritikusak az ozmózis működésében."
+    },
+    {
+      "id": 12,
+      "term": "Mi az ozmózisnyomás?",
+      "definition": "Az ozmózisnyomás az a nyomás, amelyet az oldószerrel féligáteresztő hártyán át kapcsolatban lévő oldatra kell kifejteni ahhoz, hogy dinamikus egyensúly beálljon.",
+      "quote": "Nyomás az oldatra",
+      "text": "Az ozmózisnyomás az oldat koncentrációjával egyenesen arányos. Az ozmotikusan aktív részecskék száma (ozmolalitás) határozza meg."
+    },
+    {
+      "id": 13,
+      "term": "Mi az onkotikus nyomás?",
+      "definition": "Az onkotikus (kolloidozmotikus) nyomás az ozmotikus nyomás azon része, amelyet a nem diffundáló kolloidok, főleg fehérjék és albuminok hoznak létre.",
+      "quote": "Fehérjék ozmotikus nyomása",
+      "text": "Az onkotikus nyomás az érrendszerben kritikus szerepet játszik. A vérplazma vérfehérjéi az onkotikus nyomás létrehozásáért felelősek."
+    },
+    {
+      "id": 14,
+      "term": "Mit jelent a reverz ozmózis?",
+      "definition": "A reverz ozmózis akkor történik, ha nagyobb külső nyomást alkalmazunk, mint az ozmózisnyomás, így az oldószer az érpályából kiáramlik.",
+      "quote": "Nyomás nagyobb az ozmózisnyomásnál",
+      "text": "A reverz ozmózis a kapillárisok artériás szakaszán történik. A vérnyomás meghaladja az onkotikus nyomást, így vérplazma szivárog ki."
+    },
+    {
+      "id": 15,
+      "term": "Milyen típusú az élő szervezet rendszere?",
+      "definition": "Az élő szervezet nyílt anyagi rendszer, amely anyag- és energiaforgalmat bonyolít le a környezettel, emellett információáramlás is szükséges.",
+      "quote": "Nyílt rendszer az élő",
+      "text": "A nyílt anyagi rendszer szükséges az élet fenntartásához. Az anyag és energia cseréje mellett az információáramlás (DNS, jelek) alapvető."
+    },
+    {
+      "id": 16,
+      "term": "Mit jelent az izotóniás oldat?",
+      "definition": "Az izotóniás oldat ozmózisnyomása megegyezik a vérplazma ozmózisnyomásával. Ilyen a 0,9%-os NaCl-oldat, a fiziológiás sóoldat.",
+      "quote": "Egyenlő ozmózisnyomás",
+      "text": "Az izotóniás oldatok kritikusak az orvosi gyakorlatban. Az infúziókat és injekciók izotóniás oldatban adják, hogy megvédjék a sejteket."
+    },
+    {
+      "id": 17,
+      "term": "Mit jelent a hipertóniás oldat?",
+      "definition": "A hipertóniás oldat ozmózisnyomása nagyobb a vérplazma ozmózisnyomásánál, ezért a sejtek vizet veszítenek és zsugorodnak.",
+      "quote": "Nagyobb ozmózisnyomás",
+      "text": "A hipertóniás oldatban a vörösvértestek kicsavarodnak (hemolízis fordítottja). Ezt használják az ödéma kezelésében."
+    },
+    {
+      "id": 18,
+      "term": "Mit jelent a hipotóniás oldat?",
+      "definition": "A hipotóniás oldat ozmózisnyomása kisebb a vérplazma ozmózisnyomásánál, ezért a sejtek vízzel telítődnek és megduzzadnak.",
+      "quote": "Kisebb ozmózisnyomás",
+      "text": "Hipotóniás oldatban a vörösvértestek legömbölyödnek és kipukkadnak (hemolízis). A sejt turgornyomása megemelkedik."
+    },
+    {
+      "id": 19,
+      "term": "Mi a hemolízis?",
+      "definition": "A hemolízis a vörösvértestek vízfelvétele és kipukkadása hipotóniás közegben, amikor az ozmózisnyomás kisebb a sejtplazmaénál.",
+      "quote": "Vörösvértest felrobban",
+      "text": "A hemolízis a hipotóniás oldatok hatása az RBC-kre. Az ellenkező folyamat krezikotákrízis, amikor a sejtek zsugorodnak."
+    },
+    {
+      "id": 20,
+      "term": "Mi a plazmolízis?",
+      "definition": "A plazmolízis akkor következik be, ha növényi szöveteket hipertóniás közegbe helyezünk, a sejtek vizet veszítenek, és a sejthártya elválik a sejtfaltól.",
+      "quote": "Sejt zsugorodik sejttől",
+      "text": "A plazmolízis dinamikus egyensúlyi állapot után megáll. Ezt figyelhető meg a vöröshagyma nyúzatán hipetóniás KCl-oldatban."
+    },
+    {
+      "id": 21,
+      "term": "Mit jelent a turgornyomás?",
+      "definition": "A turgornyomás a citoplazma sejtfalra gyakorolt nyomása, amely akkor jön létre, amikor a sejt vízzel telítődik és a sejtfal ellenáll a térfogatnövekedésnek.",
+      "quote": "Sejt nyomása falra",
+      "text": "A turgor nagy szerepet játszik a növényi test alakjának fenntartásában. A növények hervadása a turgornyomás csökkenésekor történik."
+    },
+    {
+      "id": 22,
+      "term": "Mi a kolloid rendszer?",
+      "definition": "A kolloid rendszer olyan folyékony rendszer, ahol a szétoszlatott részecskék mérete 1-1000 nm közötti, nem pedig egyenletes molekuláris oldot.",
+      "quote": "Finom részecskék szuszpenziója",
+      "text": "A kolloidok biológiailag jelentősek nagy fajlagos felületük miatt. A talajkolloidok, fehérjék és poliszacharidok kolloid rendszereket alkotnak."
+    },
+    {
+      "id": 23,
+      "term": "Milyen típusú kolloidok vannak?",
+      "definition": "Az emulzió folyadékban feloldott folyadék. A szuszpenzió szilárd részecskéket tartalmaz folyadékban. A szol és gél az állapotuk alapján különböznek egymástól.",
+      "quote": "Emulzió, szuszpenzió, szol, gél",
+      "text": "Az asszociációs kolloidok micellákat tartalmaz. A makromolekuláris kolloidok nagy molekulákat (fehérjék, nukleinsavak) oldanak fel."
+    },
+    {
+      "id": 24,
+      "term": "Mi a szol?",
+      "definition": "A szolban a kolloid részecskék közötti vonzóerők kisebbek a hőmozgás szétszóró erejénél, ezért a részecskék szabadon elmozdulhatnak. Folyékony halmazállapotú.",
+      "quote": "Szabad mozgó részecskék",
+      "text": "A szol állapotú kolloidok közé tartozik a tojásfehérje, vér és tej. Kolloidal oldatok nevezik őket."
+    },
+    {
+      "id": 25,
+      "term": "Mi a gél?",
+      "definition": "A gélben a kolloid részecskék egymáshoz kapcsolódnak és haladó mozgást nem végeznek. Szilárdnak mondható halmazállapotú, alakállandó.",
+      "quote": "Összekapcsolt részecskék szilárd",
+      "text": "Gél állapot például a főtt tojás, alvadt vér és tejföl. A gél még folyékony anyagot is tartalmazhat a hálóban."
+    },
+    {
+      "id": 26,
+      "term": "Milyen a sejt alakja az ozmózis tekintetében?",
+      "definition": "A sejt meghatározott alakja az anyagcsere folyamatok zavartalan lejátszódása miatt fontos, mivel az ozmózis befolyásolja a sejtalakot a testfolyadékok koncentrációviszonyai révén.",
+      "quote": "Alak az ozmózistól függ",
+      "text": "A sejtmembránok féligáteresztő. Az ozmózisnyomás különbségei meghatározzák a sejt kinézétét és működőképességét."
+    },
+    {
+      "id": 27,
+      "term": "Hogyan működik az ozmózis a veseban?",
+      "definition": "A vesében az elvezetőcsatornák és gyűjtőcsövek olyan szöveti környezetben futnak, amely ozmotikus nyomása meghaladja a szűrlet nyomását, így 180 liter víz szívódik vissza.",
+      "quote": "Szűrlet visszaszívódása",
+      "text": "A vérfehérjék és sók megnövekedett koncentrációja biztosítja a nagyobb ozmotikus nyomást. Ez az ozmózis egy kiváló biológiai alkalmazása."
+    },
+    {
+      "id": 28,
+      "term": "Hogyan működik az ozmózis a kapillárisokban?",
+      "definition": "A kapillárisok falán a hidrosztatikai nyomás a vért kifelé préseli, míg a vérfehérjék onkotikus nyomása vissza. A kiegyenlítés után dináimikus egyensúly alakul ki.",
+      "quote": "Nyomás és sorvacuum egyensúlya",
+      "text": "Az artériás oldalon a nyomás nagyobb, így szövetközi folyadék keletkezik. A vénás oldalon a szövetnedv egy része visszaszívódik."
+    },
+    {
+      "id": 29,
+      "term": "Mi az enzim alapvetően?",
+      "definition": "Az enzim elsősorban globuláris fehérje, amely biokatalizátor, a kémiai reakciókat felgyorsítja az aktiválási energia csökkentésével.",
+      "quote": "Biokatalitikus fehérje",
+      "text": "Az enzimek lehetővé teszik, hogy a biokémiai reakciók a test hőmérsékletén megfelelő sebességgel mennek végbe anélkül hogy dehúsítanánk."
+    },
+    {
+      "id": 30,
+      "term": "Mi az aktív centrum?",
+      "definition": "Az aktív centrum az enzim azon helye, ahol a katalizátorhatás történik. A szerkezete specifikus és komplementer a szubsztrát szerkezetével.",
+      "quote": "Kulcs-zár találkozáshely",
+      "text": "Az aktív centrum a szubsztráttal reverzibilis komplexet alkot. A szubsztrát specificitása az aktív centrum szerkezetén alapul."
+    },
+    {
+      "id": 31,
+      "term": "Mit jelent az enzimspecificitás?",
+      "definition": "Az enzimspecificitás azt jelenti, hogy az egyes enzimek csak meghatározott szubsztrátokkal reagálnak, mivel az aktív centrum szerkezete komplementer a szubsztrátéval.",
+      "quote": "Specifikus szubsztrátokra",
+      "text": "Az enzimek katalitikus működésének ezt a tulajdonságát kulcs-zár modellel lehet szemléltetni. Egy enzim általában egy szubsztráttal működik."
+    },
+    {
+      "id": 32,
+      "term": "Hogyan befolyásolja a hőmérséklet az enzimeket?",
+      "definition": "A hőmérsékletet emelve az enzim aktivitása nő, azonban a túl magas hőmérséklet az enzim térszerkezetét megváltoztatja (denaturáció), ami aktivitásveszteséget okoz.",
+      "quote": "Aktivitás csúcs: 37 Celsius",
+      "text": "Az emberi enzimek optimális hőmérséklete körülbelül 37 Celsius. A 41 Celsius felett az enzimek denaturálódnak, ami az élet veszélyét jelenti."
+    },
+    {
+      "id": 33,
+      "term": "Mit jelent az enzim denaturálódása?",
+      "definition": "A denaturálódás az enzim térszerkezetének megváltozása hőmérséklet, kémhatás vagy nehézfém ion hatására. Az enzim elveszti katalitikus képességét.",
+      "quote": "Fehérje szerkezet összeroppan",
+      "text": "A denaturáció általában irreverzibilis. A fehérje harmadlagos szerkezete felbomlódik, az aktív centrum funkcióját elveszíti."
+    },
+    {
+      "id": 34,
+      "term": "Hogyan befolyásolja a pH az enzimeket?",
+      "definition": "Az enzimek optimális pH-értékben működnek a legjobban. A savas vagy lúgos közeg megváltoztatja az enzim térszerkezetét, így inaktívvá válik.",
+      "quote": "Savas, semleges, lúgos",
+      "text": "Az egyes enzimeknek más-más optimális pH-ja van. Az emésztő enzimek különböző pH-val optimálisak (pepsz savas, trypszin lúgos)."
+    },
+    {
+      "id": 35,
+      "term": "Mi a pH?",
+      "definition": "A pH a hidrogénionok (H+) koncentrációjának logaritmusa. A pH-skála 0-tól 14-ig terjed, ahol 7 semleges, 0-7 savas, 7-14 lúgos.",
+      "quote": "Hidrogénion koncentrációja",
+      "text": "A pH = -log[H+]. A semleges oldatban [H+] = [OH-]. Az élő szervezet pH-ja szorosanrégulált."
+    },
+    {
+      "id": 36,
+      "term": "Mit jelent az enzimaktivitás?",
+      "definition": "Az enzimaktivitás megmutatja, hogy adott idő alatt, adott mennyiségű enzim, adott feltételek mellett mennyi szubsztrátot képes átalakítani.",
+      "quote": "Enzim munkakapacitása",
+      "text": "Az enzimaktivitás különféle szabályozó mechanizmusok által szabályozható. Az inhibitorok csökkentik az aktivitást."
+    },
+    {
+      "id": 37,
+      "term": "Mit jelent az enzimgátlás?",
+      "definition": "Az enzimgátlás az enzimaktivitás csökkentése inhibitorok révén. A versengő inhibitorok az aktív centrumba kapcsolódnak, az alloszérikus gátlás a szerkezet megváltoztatásával működik.",
+      "quote": "Enzim működés blokkolása",
+      "text": "A versengő inhibitorok versenyeznek a szubsztráttal az aktív centrumért. Az alloszérikus inhibitorok az enzim szerkezetét megváltoztatják."
+    },
+    {
+      "id": 38,
+      "term": "Mi az összetett enzim?",
+      "definition": "Az összetett enzim nem fehérje részből (kofaktor) szükséges a működéséhez. A prosztetikus csoport erősen kötődik, a koenzimek lazán kötődnek.",
+      "quote": "Fehérje plusz koenzim",
+      "text": "A kofaktorok lehetnek fémionok (Cu2+, Zn2+, Fe2+) vagy koenzimek (NAD+, NADP+). A koenzimek vitaminokból állnak."
+    },
+    {
+      "id": 39,
+      "term": "Mi a prosztetikus csoport?",
+      "definition": "A prosztetikus csoport az enzimhez erősen kötődő nem fehérje rész. Eltávolítása az enzim funkcióját szünteti meg. Többnyire fémion.",
+      "quote": "Szilárdan kötött koenzim",
+      "text": "A prosztetikus csoport az enzim aktív centrumának szerkezetét biztosítja. Ezek gyakran fém koordinációs komplexek."
+    },
+    {
+      "id": 40,
+      "term": "Mi a koenzim?",
+      "definition": "A koenzim olyan nem fehérjetermészetű vegyület, amely lazán és reverzibilis módon kötődik az enzimhez. Szállítómolekulaként működik szubsztrátok között.",
+      "quote": "Víz oldódó kisegítő",
+      "text": "A koenzimek (NAD+, NADP+, FAD) vitaminokból épülnek fel. A vitaminhiány gátolja a koenzim szintézist és az anyagcserét."
+    }
+  ]
+}

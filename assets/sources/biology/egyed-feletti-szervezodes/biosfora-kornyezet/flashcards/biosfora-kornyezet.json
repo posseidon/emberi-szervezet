@@ -1,0 +1,116 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Bioszféra fogalma",
+      "definition": "Az élet területe, az összes élő szervezet által lakott és módosított földi zóna, a kőzetburok felszínétől a felső légkör bizonyos részéig.",
+      "quote": "Élő szervezetek bolygója",
+      "text": "A bioszféra az összes ökoszisztémát magában foglalja: száraz föld, tengerek, édesvizek, légkör. Az élet és az abiotikus környezet intenzív kölcsönhatásban állapotban van."
+    },
+    {
+      "id": 2,
+      "term": "Gaia-elmélet",
+      "definition": "Az a koncepció, hogy a Föld egy önszabályozó rendszer, ahol az élővilág fenntartja a fizikai és kémiai környezet feltételeit az élet számára.",
+      "quote": "Föld mint élő szervezet",
+      "text": "James Lovelock hipotézise: az élet nem csak a Föld felszínén él, hanem alakítja a légkört, tengereket és talajt. A visszacsatolási mechanizmusok biztosítják a stabilitást."
+    },
+    {
+      "id": 3,
+      "term": "Civilizációs ártalmak",
+      "definition": "Az emberi tevékenységből eredő környezeti károk: kibocsátások, hulladékok, szennyezés, amely az ökoszisztémákat és élővilágot rontják.",
+      "quote": "Antropogén szennyezés",
+      "text": "Légköri szennyezés: CO2 üvegházhatása, ózonlyuk, savas esők. Vízszennyezés: fogyasztástöbbletek, agrokémikáliák. Talajpusztulás: eróció, tereprendezés."
+    },
+    {
+      "id": 4,
+      "term": "Üvegházhatás és globális felmelegedés",
+      "definition": "A légkör gázainak (CO2, metán) által okozott hővisszatartás, amely a globális átlaghőmérsékletet emeli.",
+      "quote": "Üvegház-gázok felmelegedés",
+      "text": "A CO2 koncentrációja az ipari forradalom óta 280-ről 420 ppm-re nőtt. Következmények: tengerszint-emelkedés, szélsőséges időjárás, ökoszisztémák zsugorodása."
+    },
+    {
+      "id": 5,
+      "term": "Ózonlyuk",
+      "definition": "Az ózonréteg helyenként lassú átlyukgatódása, melyet a klórfluorokarbonok (CFC) okoznak, a UV sugárzás erősödésé vezet.",
+      "quote": "Klór-atomok roncsolnak",
+      "text": "Az ózonlyuk főleg a pólusokon jelentős. Az UV-B sugárzás erősödése rákot okozhat, immunrendszert gyengít, fotoszintézist gátol."
+    },
+    {
+      "id": 6,
+      "term": "Savas esők",
+      "definition": "Az ipari folyamatok által kibocsátott szulfur-dioxid és nitrogén-oxidok a vízcseppekkel savvá alakulnak, lezúdulnak savas formában.",
+      "quote": "Savas csapadék",
+      "text": "A savas esők megváltoztatják a talaj pH-ját, károsítják az akvárium állatvilágát, megkárosítják az építmények homokkő és márvány részei."
+    },
+    {
+      "id": 7,
+      "term": "Eutrofizáció",
+      "definition": "A vízbázis túlzott nitrogén és foszfor dúsulása, amely mohó alga növekedést okoz, végül oxigén hiányt, halálozást.",
+      "quote": "Alga robbanás halálzónák",
+      "text": "Szexuális és szexuális visszafogottság gátló. Forrása: szőlészeti szennyezés, csatorna kibocsátás. Halak és más vízifauna pusztulnak el."
+    },
+    {
+      "id": 8,
+      "term": "Biológiai sokféleség csökkenése",
+      "definition": "Fajok kihalása, populáció-szűkülés gyorsabb üteműn, mint az evolúció új fajokat termelhet, az ökoszisztémák funkcióját veszítik.",
+      "quote": "Szörnyű kihalási üteme",
+      "text": "Antropogén kihalás üteme 1000x gyorsabb a természetesnél. Okai: élőhelyrombolás, klímaváltozás, túlhasznosítás, permetezés."
+    },
+    {
+      "id": 9,
+      "term": "Élőhelyrombolás",
+      "definition": "Az ember által okozott ökoszisztéma-pusztulás, erdőirtás, vizes élőhelyeket lecsapolás, füves pusztákat szántóvá átalakítása.",
+      "quote": "Természeti puszta",
+      "text": "A világ erdőterületének 50%-a eltűnt az elmúlt 300 évben. Az esőerdők az élővilág 50%-ét házirják, de 1% évente eltűnik."
+    },
+    {
+      "id": 10,
+      "term": "Természetvédelmi megközelítések",
+      "definition": "Védett területek (nemzeti parkok, rezervátumok), jogszabályok, internacional egyezmények (CITES, Rio Egyezmény).",
+      "quote": "Törvényi és szervezeti védelem",
+      "text": "Nemzeti parkok: teljes védelem. Természetvédelmi területek: korlátozott hasznosítás megengedett. CITES: veszélyeztetett fajok kereskedelme tiltott."
+    },
+    {
+      "id": 11,
+      "term": "Fenntartható fejlődés",
+      "definition": "Az az fejlődés, amely a mai szükségleteket kielégíti anélkül, hogy veszélyeztetné a jövő generációk szükségleteinek kielégítésének lehetőségét.",
+      "quote": "Jelen és jövő egyensúlya",
+      "text": "Három pillér: gazdasági, szociális, ökológiai fenntarthatóság. Megvalósítási módok: megújuló energia, szelektív hulladékkezelés, biotermesztés, egyenlő erőforrások-elosztás."
+    },
+    {
+      "id": 12,
+      "term": "Megújuló energia",
+      "definition": "Olyan energiaforrások, melyek önmagukat megújítják: napenergia, szélenergia, vízenergia, geotermális energia, biomassza.",
+      "quote": "Újratermelődő energiaforrások",
+      "text": "A fosszilis energiahordozók 300 millió év alatt alakultak ki, de 300 év alatt eltöltjük. A megújuló energia fenntartható alternatívát jelent."
+    },
+    {
+      "id": 13,
+      "term": "Körforgásos gazdaság",
+      "definition": "Olyan gazdasági modell, amely a hulladék termelésének csökkentésére, a szelektívségre, az újrahasznosításra és az újfeldolgozásra épít.",
+      "quote": "Nincs hulladék csak erőforrás",
+      "text": "Ellentétes az egyutas gazdasággal. Célok: alapanyag-spórolás, energiaspórolás, hulladékcsökkentés, környezetszennyezés mérséklése."
+    },
+    {
+      "id": 14,
+      "term": "Biotermesztés (biogazdálkodás)",
+      "definition": "Szintetikus vegyszerek (permetező, műtrágya) nélküli mezőgazdasági termelés, amely az ökoszisztéma funkcióit segíti.",
+      "quote": "Szerves és tiszta termelés",
+      "text": "Módszerek: vetésváltás, komposztálás, természetes kártevő-ellenőrzés. Előnyei: nagyobb szimulációs értékű termények, talaj-egészség."
+    },
+    {
+      "id": 15,
+      "term": "Közlekedés ökológiai hatásai",
+      "definition": "A gépjárművek és közlekedési rendszerek okozta szennyezés: emissziók, zajszennyezés, élőhelyrombolás, szénlábnyom.",
+      "quote": "Személygépkocsi szén-kibocsátás",
+      "text": "A közlekedés 14-27% a globális CO2 kibocsátásból. Alternatívák: tömegközlekedés, kerékpár, villamos, elektromos autók."
+    },
+    {
+      "id": 16,
+      "term": "Fajok szándékos terjedítése",
+      "definition": "Az ember által szándékosan vagy véletlenül más területre hovatott fajok, melyek gyakran invazív versenytársai lesznek a natív fajoknak.",
+      "quote": "Idegen fajok - jövevényfajok",
+      "text": "Például kagylók a Duna-deltában, pucolán Japánból jövevényfajtől, medveállatok. Az invazív fajok veszélyt jelentenek a biodiverzitásra."
+    }
+  ]
+}

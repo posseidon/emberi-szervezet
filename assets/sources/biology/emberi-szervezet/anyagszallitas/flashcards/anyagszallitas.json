@@ -1,0 +1,214 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Milyen alapfeladatai vannak az anyagszállító szervrendszernek?",
+      "definition": "Az anyagszállító szervrendszer alapfeladatai: tápanyagok szállítása, bomlástermékek elszállítása, légzési gázok szállítása, hormonok szállítása, immunsejtek termelése, hő elszállítása.",
+      "quote": "Szervezet-közlekedés",
+      "text": "Az emberi test sok, egymástól távol eső sejtek aggregátuma, ahol a sejtek túlnyomó többsége belsejében található. Az anyagszállító rendszer közvetít a különböző sejtek között, összekapcsolja a belső sejteket a külső környezettel. Ezen kívül biztosítja a szervezet belső védekezésének alapjait, az immunitást. A keringési szervrendszer zárt rendszer, ahol a vér a vérerekben keringve végzi el az említett szállítófeladatokat."
+    },
+    {
+      "id": 2,
+      "term": "Mik az emberi szervezet folyadékerei?",
+      "definition": "Az emberi szervezet 3 fő folyadékteret tartalmaz: intravazális (vér, 5%), intersticiális (szövetnedv, nyirok, 15%), intracelluláris (sejten belüli, 55%).",
+      "quote": "Három víztér",
+      "text": "Ezek a tereket különféle határoló hártyák (érfal, sejthártya) választják el egymástól. A tereket kicsik között élénk anyagforgalom zajlik. Az elkülönülés lehetőséget teremt a különféle biokémiai, élettani folyamatok térbeli elválasztására. A zárt keringési rendszerrel rendelkező gerinces állatok és emberi szervezet ezt a háromféle folyadékteret tartalmazza, mely a szervezet működésének alapját képezi."
+    },
+    {
+      "id": 3,
+      "term": "Mekkora egy 70 kg-os ember vértérfogata?",
+      "definition": "Egy 70 kg-os testsúlyú ember átlagos vértérfogata kb. 5 liter. A vér folyékony kötőszövet, sejtközötti és sejtes állományból áll.",
+      "quote": "5 liter vital folyadék",
+      "text": "A sejtközötti állomány a vérplazma, amely a teljes vértérfogat mintegy 56%-a. A fennmaradó részt az alakos elemek alkotják kb. 44%-ban. Az alakos elemek térfogat-százalékos aránya a hematokritérték. A vér az egyetlen olyan szövet, amely folyékony, így képes a szállítási feladatok ellátására szívpumpálás révén. Ezen kívül egy nyílt szövet, amely egyenlő hozzáférést biztosít az összes szervhez."
+    },
+    {
+      "id": 4,
+      "term": "Mi a vérplazma összetétele?",
+      "definition": "A vérplazma sárgás, átlátszó folyadék, amely vizet (90%), ionokat, tápanyagokat, bomlástermékeket, légzési gázokat, hormonokat és fehérjéket (7%) tartalmaz.",
+      "quote": "Oldószero-hordozó",
+      "text": "A vérplazma anorganikus sókat és ionokat tartalmaz: Na+, K+, Ca2+, Mg2+, Cl-, PO43-, HCO3-. Tápanyagok: glükóz, aminosavak, zsírsavak, lipoproteinek (LDL). Bomlástermékek: karbamid, húgysav, tejsav, bilirubin, ammónia. Oldott légzési gázok, hormonok. A fehérjék a vér 7%-át teszik ki, de extrém fontosak a szállítás, ozmotikus nyomás és védalvadás tekintetében."
+    },
+    {
+      "id": 5,
+      "term": "Milyen fehérjék találhatók a vérplazmában?",
+      "definition": "A vérplazmafehérjéket 3 csoportba soroljuk: albuminok (transzport, ozmotikus nyomás), globulinok (transzport, immunitás), véralvadási faktorok.",
+      "quote": "Fehérje-funkciók",
+      "text": "Albuminok: az összes plazmafehérje kb. 60%-át adják, a májban termelődnek. Transzportfehérjékként vízben rosszul oldódó anyagokat szállítanak, ozmotikus nyomást képeznek, puffer-rendszerek. Globulinok: alfa- és béta-globulinok transzportfeladatot végeznek, hormonokat, vasat szállítanak. Gamma-globulinok: immunoglobulinok (antitestek), B limfociták termelik, immunitásban szerepet játszanak. Véralvadási faktorok: fibrinogén, protrombin, többnyire a májban termelődnek."
+    },
+    {
+      "id": 6,
+      "term": "Mi a vörösvértest (eritrocita) szerepe?",
+      "definition": "A vörösvértestek a légzési gázok szállítására specializálódtak. Az oxigén a hemoglobinhoz kötötten szállítódik, amely a vörösvértest szárazanyagának 95%-át adja.",
+      "quote": "Oxigén-szállítók",
+      "text": "Az egészséges embernél milliliter vérben kb. 4,5-5,5 millió vörösvértest található. A vörösvértest bikonkáv alakja a felszín/térfogat arány optimalizálásához alakult, megkönnyíti az anyagcserét. A hemoglobin egy vas-porfirin komplexeket (hem) tartalmazó összetett fehérje, amely az oxigént könnyen megköti és leadja. Az intracelluláris elektrolit-egyensúly fenntartása a Na+/K+ pumpa által történik."
+    },
+    {
+      "id": 7,
+      "term": "Mit jelent a hemoglobin szerkezete?",
+      "definition": "A hemoglobin 4 alegységből felépülő, vörös színű, vas-porfirin komplexeket (hem) tartalmazó összetett fehérje. Az oxigén a hem vas-ionjához kötődik.",
+      "quote": "4-rész szállító",
+      "text": "A hemoglobin terciáris és negyedleges szerkezete megváltozik az oxigén kötődésekor. A hemoglobin a vörösvértest szárazanyagának 95%-át adja. Az egyik hemoglobin molekula 4 hem-csoportot tartalmaz, így legfeljebb 4 oxigén molekulát képes szállítani. A globin fehérjék biztosítják a szerkezeti stabilitást, míg a hem-csoportok végzik az oxigén-kötést."
+    },
+    {
+      "id": 8,
+      "term": "Mi a vérszegénység és milyen típusai vannak?",
+      "definition": "A vérszegénység a vörösvértest-számban vagy hemoglobin-koncentrációban bekövetkezett csökkenés. Több típusa létezik: hiányanyagos, hemolitikus, akár genetikai (pl. béta-thalassemia).",
+      "quote": "Oxigén-szállítás zavara",
+      "text": "A vérszegénység a szövetek oxigénellátásának csökkentéséhez vezethet, fáradtság, szédülés, szaporabb szívverés, légszomj tüneteket okozva. A béta-thalassemia súlyos formájában a hemoglobin béta-láncainak szintézise zavart szenved, a vörösvértestek feloldódnak. A szervezet fokozott vérképzéssel reagál, amely a vörös csontvelőben történik, befolyásolva a csontok szerkezetét és a gyermek fejlődését."
+    },
+    {
+      "id": 9,
+      "term": "Ahol képződnek a vérsejteim?",
+      "definition": "A vér alakos elemeinek túlnyomó többsége a vörös csontvelőben termelődik. Az embrionális korban a máj termelődött őket. A T-nyiroksejtek a csecsemőmirigyben fejezik be érésüket.",
+      "quote": "Vesejtképzés hely",
+      "text": "A vörös csontvelő a lapos csontok szivacsos állományában, a bordákban és a medencecsontban található. A csigolyák ún. csigolyatesti részében és a hosszú csöves csontok végein szintén jelen van. Fiatalabb korban általában a csöves csontok központi üregeiben fordul elő. Az életkor előrehaladtával a hosszú csontokban a vörös csontvelő egy része sárga csontvelővé alakul át. Fokozott vérvesztés esetén a sárga csontvelő visszaalakulhat vörös csontvelővé."
+    },
+    {
+      "id": 10,
+      "term": "Mit jelent a multipotens őssejt?",
+      "definition": "Multipotens őssejtekből indulnak ki az összes vérsejtfajták. Ezek korlátlan osztódóképességgel rendelkező differenciálatlan sejtek.",
+      "quote": "Vérsejtforrás",
+      "text": "Az őssejtek osztódásukkal különböző sejtvonalakat hoznak létre. Egy-egy sejtvonalban az eltérő génműködés miatt a sejtek különböző differenciálódási folyamatok mennek keresztül. Az eltérő sejtvonalaknak megfelelő sejttípus jön létre. Totipotens őssejtnek tekintjük a zigótát, pluripotens az embrionális-őssejtek, multipotens a szöveti őssejtjei, unipotens az izom-őssejtjei."
+    },
+    {
+      "id": 11,
+      "term": "Mi a fehérvértest (leukocita) és milyen típusai vannak?",
+      "definition": "A fehérvértestek az immunitásban játszanak szerepet. Legfontosabb típusai: nyiroksejtjei (limfociták), falósejtek (makrofágok), egyéb granulociták.",
+      "quote": "Véd-sejtek",
+      "text": "Az egészséges embernél milliliter vérben kb. 4000-11000 fehérvértest található. Limfociták (B és T sejtek) az adaptív immunitásban szerepet játszanak. Makrofágok és más falósejtek a fagocitózisban részt vesznek. A granulociták (neutrofil, eosinofil, bazofil) különféle immunológiai folyamatokba vannak bevonva. A fehérvértestek száma és típusa a szervezet immunológiai állapotát tükrözi, betegseg során gyakran megváltozik."
+    },
+    {
+      "id": 12,
+      "term": "Mit jelent a vérlemezkék és mi a funkciójuk?",
+      "definition": "A vérlemezkék (thrombociták) a vörösvértestek és fehérvértestek nélkül maradtak sejt-maradványok. Kb. 150000-450000 mm³-ként fordulnak elő.",
+      "quote": "Véralvadás-iniciátorok",
+      "text": "A vérlemezkék a sérült érfal helyén aggregálódnak és a véralvadási folyamatot indítják be. Granulumjaikban számos szállított anyag található, amely segít a véralvadás folyamatában. A vérlemezkék száma csökkent lehet betegségekben vagy bizonyos gyógyszerek mellékhatásaként, amit vérszakadásos jellegű tünetekhez vezethet (vér az orrban, könnyű kékülés)."
+    },
+    {
+      "id": 13,
+      "term": "Mi a vérszérum és hogyan tér el a vérplazmától?",
+      "definition": "A vérszérum a véralvadás után maradó folyadék, amely nem tartalmazza a fibrinogént és más véralvadási faktorokat, mivel azok elfogynak a fibrin képzésében.",
+      "quote": "Post-alvadás folyadék",
+      "text": "A vérplazma a fibrinogént és más véralvadási faktorokat tartalmazza, a vérszérum nem. A vérszérum összetétele hasonló a vérplazmához, de összetétele módosult a véralvadás miatt. Az immunológiai vizsgálatok gyakran szérumot használnak, mivel a fibrin nem zavaró. A vérszérum gyűjtése egyszerűbb, mivel nem szükséges antikoaguláns (véralvadás-gátló) szer."
+    },
+    {
+      "id": 14,
+      "term": "Hogyan történik a szűrletképzés a kapillárisban?",
+      "definition": "A szűrletképzés az arteriális végén történik, ahol a vérnyomás magasabb az onkotikus nyomásnál, így folyadék lép ki a kapillárisból a szövetnedvbe.",
+      "quote": "Kapilláris szűrés",
+      "text": "A kapilláris arteriális végén a vérnyomás (kb. 35 Hgmm) nagyobb, mint a fehérjék onkotikus nyomása (kb. 25 Hgmm), így nettó folyadékkiáramlás történik. A vénás végén fordított a helyzet - az onkotikus nyomás nagyobb a vérnyomásnál, így folyadék szívódik vissza. Ez az egyensúly biztosítja az anyagcserét a kapillárison keresztül. A szövetnedv mennyisége és összetétele ezáltal szabályozódik."
+    },
+    {
+      "id": 15,
+      "term": "Mi a véralvadás folyamata?",
+      "definition": "A véralvadás több szakaszból áll: érösszehúzódás, vérlemezka-fázis (trombuszképzés), véralvadási lánc, fibrinolízis.",
+      "quote": "Vér-szilárdulás",
+      "text": "Érösszehúzódás: a sérült érfal simaizmainak összehúzódása csökkenti a vérfolyást. Vérlemezke-fázis: a sérült érfallhoz tapadnak és aggregálódnak, létrehozva a fehér thrombus első rétegét. Véralvadási lánc: enzimatikus kaszkád, amely prothrombin trombin aktiválást, fibrinogén fibrinné alakítást eredményez. Fibrinolízis: a fibrin lebomlása a gyógyulás után. Az egész folyamathoz kalciumion (Ca2+) és K-vitamin szükséges."
+    },
+    {
+      "id": 16,
+      "term": "Mi a protrombin-trombin konverzió és miért fontos?",
+      "definition": "A protrombin enzimatikcus aktiválása trombinná a véralvadási lánc központi lépése. A trombin a fibrinogént fibrinná alakítja, így képzi a szövedék alapját.",
+      "quote": "Véralvadás-kulcs",
+      "text": "A protrombin a máj által termelt előalak, amely a faktor X és a faktor V aktiválásával trombinná alakul. A trombin egy szerin-proteáz, amely specifikusan felismer és hasít fibrinogén molekulákat, fibrin-monomerek képzéséhez vezet. A fibrin-monomerek spontán polimerizálódnak és keresztkötéseket képeznek, így szilárd szövedék (vérrögök) jön létre. A trombin működéséhez Ca2+ ionok szükségesek."
+    },
+    {
+      "id": 17,
+      "term": "Miért szükséges a K-vitamin a véralvadáshoz?",
+      "definition": "A K-vitamin nélkülözhetetlen a máj által termelt véralvadási faktorok (protrombin, faktor VII, IX, X) szintézisében.",
+      "quote": "Antikoaguláns antagonista",
+      "text": "A K-vitamin a szerves foszforilálási folyamatokhoz szükséges. A K-vitamin hiánya a véralvadási faktorok hiányához vezet, amely vérzékenységet okoz. Az antikoaguláns warfarin a K-vitamin antagonistaként működik, megakadályozva annak működését. Emellett a szénannak és más zöld leveles zöldségeknek nagy K-vitamin-tartalma van, amely a warfarin-terápia megbízhatóságát befolyásolhatja."
+    },
+    {
+      "id": 18,
+      "term": "Mi a trombózis és mi az embólia?",
+      "definition": "A trombózis a vérrögök (thrombus) képződése az élő érben, amely a vérkeringés zavarához vezethet. Az embólia akkor alakul ki, ha egy vérrög vagy más anyag elszakadva lezárja a vérereket.",
+      "quote": "Érelhzáródás",
+      "text": "A trombózis szöveti károsodáshoz, szövetnekrózishoz vezethet, mivel az érintett szövet oxigén nélkül marad. Az artériás trombózis szívinfarkusz vagy stroke-ot okozhat. A vénás trombózis a lábakban gyakori, amely tüdőembóliához vezethet. Az embólia bármely érbe eljuthat, ahol a vérrög lezárja az áramlást, halál okozva, ha kritikus szervet érinti. A vérrög képződésének rizikófaktorai közé tartozik a mozdulatlanság, a hipertenzió, az atherosclerosis, a szívbetegség."
+    },
+    {
+      "id": 19,
+      "term": "Mit jelent a pH-szabályozás a vérben?",
+      "definition": "A vér pH-ját különböző puffer-rendszerek tartják állandó értéken. A normál vér pH-ja 7,38-7,42, amely a homeosztázis fenntartásához kritikus.",
+      "quote": "Sav-bázis egyensúly",
+      "text": "A sav-bázis egyensúly fenntartásában a tüdő (CO2 eltávolítása), vese (H+ vagy HCO3- kiválasztása), szövetek (CO2 termelés) és a vér pufferei (bikarbonát, plazmafehérjék, hemoglobin) vesznek részt. A bikarbonát puffer-rendszer: H+ + HCO3- = H2CO3 = CO2 + H2O. Savasodáskor az H+ mennyisége csökken, mert azt a hidrokarbonát-ionok megkötik, amelyből szén-dioxid képződik, amely a tüdőn át eltávozik. A plazmafehérjék amino- és karboxil csoportjai H+-t köthetnek meg vagy adhatnak le."
+    },
+    {
+      "id": 20,
+      "term": "Mi az hemoglobin puffer-szerepe?",
+      "definition": "Az hemoglobin a vér fontos puffer-rendszere. A vörösvértestekbe bediffundáló CO2 rögtön szénsavvá alakul, majd a trombin megköti a felszabaduló H+-ionokat.",
+      "quote": "Sejt-puffer",
+      "text": "Az hemoglobin erősebben köti a protont, mint a szénsav, így csökkenti a savasság mértékét. Ez a megköti a H+-ionokat, így csökkenti a savasság mértékét. Ez a folyamat különösen fontos a szövetekben, ahol intenzív anyagcsere során sok szén-dioxid és így sok H+-ion jön létre. A hemoglobin oxigén leadása mellett a protonok megtartásához is hozzájárul, így biztosítja a pH-egyensúlyt."
+    },
+    {
+      "id": 21,
+      "term": "Milyen ozmotikus nyomás-típusok lehetséges?",
+      "definition": "Az ozmotikus nyomás az oldott részecskék mennyiségétől függ. Az onkotikus (kolloidozmotikus) nyomás a nem diffundáló kolloidok (főleg fehérjék) által létrehozott ozmotikus nyomás része.",
+      "quote": "Kolloid-szívóerő",
+      "text": "A vérplazma teljes ozmolalitása: 291-292 mOsm/kg. Ebből Na+, Cl-, HCO3- kb. 290 mOsm, fehérjék hozzájárulása: 1-2 mOsm. A glomeruláris kapillárisban a víz kilépése miatt nő a plazmafehérjék koncentrációja: belépő onkotikus nyomás: 25 Hgmm, kilépő onkotikus nyomás: 35 Hgmm. A vér teljes ozmotikus nyomása gyakorlatilag nem változik: 5400 Hgmm."
+    },
+    {
+      "id": 22,
+      "term": "Mi a szövetnedv összetétele és funkciója?",
+      "definition": "A szövetnedv (szövetközi folyadék) a sejtekhez közvetlenül közel helyezkedik el, köztük és a vér között zajlik az anyagcsere.",
+      "quote": "Sejt-szomszédság",
+      "text": "A szövetnedv összetétele hasonló a vérplazmához, de fehérjeszintje alacsonyabb. Ez a folyadék a kapillárisok szűrésének eredménye és a nyiroksístémán keresztül a vérbe visszaáramlik. A szövetnedv biztosítja a sejtek közvetlen anyagcsere-lehetőségét, szállítva az oxigént, tápanyagokat és eltávolítva a bomlástermékeket. A szövetnedv összetételét az endotéli szűrés és a vénás visszaszívás szabályozza."
+    },
+    {
+      "id": 23,
+      "term": "Mi a nyirokrendszer funkciója?",
+      "definition": "A nyirokrendszer a szövetnedvet (nyirokot) szállítja a vérkeringésbe, és az immunitási szerveket (nyirokcsomók, lép) tartalmazza.",
+      "quote": "Véd-közlekedés",
+      "text": "A nyirokskapillárisok a szövetekben kezdődnek és a nyirokcsatornák képezik meg őket. A nyirokscsomók szűrésen alapulnak, eltávolítják a patogén szervezeteket és a felesleges részecskéket. A nyirokscsomókon átvonuló nyirok B- és T-sejtek által gazdag, így az immunitásban döntő szerepe van. A nyirokrendszer passzívan működik - az izmok összehúzódása és a légzőmozgások nyomják be a nyirokot a csatornákon. A nyirokscsomókon keresztül a nyirok visszajut a vérkeringésbe."
+    },
+    {
+      "id": 24,
+      "term": "Mekkora egy egészséges embernél a vörös és fehér csontvelő mennyisége?",
+      "definition": "A vörös csontvelő a lapos csontok és csöves csontok végei találhatók, míg a sárga csontvelő a csöves csontok hosszú szakaszaiban helyezkedik el.",
+      "quote": "Csont-belső állomány",
+      "text": "A fiatalabb korban általában a csöves csontok központi üregeiben van vörös csontvelő. Az életkor előrehaladtával a hosszú csontokban a vörös csontvelő egy része sárga csontvelővé alakul át. A sárga csontvelő elsősorban zsírszövetből áll és nem képez vérkörzeteket. Azonban fokozott vérvesztés vagy betegség esetén a sárga csontvelő visszaalakulhat vörös csontvelővé, segítve a vérképzést. Ezt az átalakulást az erithropoetin és más szövethorn monokok szabályozzák."
+    },
+    {
+      "id": 25,
+      "term": "Milyen szerepe van az albuminnak az ozmotikus nyomásban?",
+      "definition": "Az albuminok az összes plazmafehérje 60%-át adják, és a vérplazma optimális ozmotikus nyomásának megteremtésében vannak szerepük.",
+      "quote": "Fehérje-szívóerő",
+      "text": "Az albuminok az onkotikus (kolloidozmotikus) nyomás többségét teszik ki. Ez a nyomás biztosítja, hogy a szövetnedv visszaszívódjon a kapilláris vénás végén. Az albumin szintje csökkenhet máj-betegségben (csökkent termelés), vesebetegségben (kiürülés), malnutrícióban. Az albumin szintjének csökkenése csökkent onkotikus nyomást eredményez, amely ödémákat okozhat (folyadék felgyülemlés a szövetekben)."
+    },
+    {
+      "id": 26,
+      "term": "Mi az eritropoetin és miért fontos?",
+      "definition": "Az eritropoetin a vesében termelődő hormon, amely serkenti a vörösvértest-képzést a vörös csontvelőben.",
+      "quote": "Vérsejtképzés serkentő",
+      "text": "Az eritropoetin termelődése az alacsony vér-oxigén-szinthez (hipoxia) válaszul indukálódik. Ez a hormon elindítja a vörösvértest-előalakjai osztódását és differenciálódását a csontvelőben. Az eritropoetin termelése az oxigén-ellátottságnak megfelelően szabályozódik - alacsony oxigén-szint fokozza a termelődést, magas szint gátolja azt. Ez az egyik fontos mekanizmusa az eritrocita-szám szabályozásának, amely biztosítja az optimális oxigén-szállítási kapacitást."
+    },
+    {
+      "id": 27,
+      "term": "Mi a transzferin és mi a szerepe?",
+      "definition": "A transzferin a vérben olyan szállítófehérje, amely a vasat szállítja a szövetek felé. A béta-globulin csoport része.",
+      "quote": "Vas-szállító",
+      "text": "A transzferin a máj és a makrofágok által szabadított vasat köti meg és szállítja a vérben. A vason keresztüli hemoglobin-szintézis függő vasa-koncentrációjától. A transzferin szatúrációja az azt mutatja, hogy a transzferin hány százaléka kötött vas-ionnal. Az alacsony transzferin-szaturáció a vas-deficienciát jelzi, amelyet vas-pótlással lehet kezelni. A magas szaturáció vas-túlterhelést jelezhet, amely hemokromatózishoz vezethet."
+    },
+    {
+      "id": 28,
+      "term": "Hogyan szabályozódik a vérlemezke-termelés?",
+      "definition": "A vérlemezkék termelödése a vörös csontvelöben, a trombopoietin hormon által szabályozottan történik.",
+      "quote": "Thrombocita-kontrol",
+      "text": "A trombopoietin a máj és a vese által termelt hormon, amely serkenti a megakaryocita osztódását és a vérlemezkék képződését. Az alacsony vérlemezkeszám fokozza a trombopoietin termelődést, amely helyreállítja a normál szintet. Ez az egy negatív visszacsatolási rendszer. Az egészséges embereknél a vérlemezkeszám 150000-450000 mm³ között változik. A gyógyszerek, betegségek vagy sugárzás csökkenthetik a vérlemezkeszámot, amit trombocitopénia-nak hívunk."
+    },
+    {
+      "id": 29,
+      "term": "Mi az kapilláris-dinamika?",
+      "definition": "A kapilláris-dinamika azt írja le, hogyan mozog a folyadék az arteriális végről a vénás végre, az onkotikus és hidosztatikus nyomások összjátéka miatt.",
+      "quote": "Folyadék-mozgás",
+      "text": "Az arteriális végén a hidosztatikus vérnyomás (35 Hgmm) nagyobb az onkotikus nyomásnál (25 Hgmm), így nettó szűrés történik. Az út során a hidosztatikus nyomás csökken, a vénás végén pedig az onkotikus nyomás (25 Hgmm) nagyobb a hidosztatikus nyomásnál (15 Hgmm), így nettó visszaszívás történik. Ez az egyensúly biztosítja az anyagcserét és a folyadék-homeosztatózist. Az ödéma akkor alakul ki, ha ez az egyensúly megzavarodik (pl. magas vénás nyomás, alacsony fehérjeszint)."
+    },
+    {
+      "id": 30,
+      "term": "Milyen anyagok szállítódnak a vérben a fehérjékhez kötötten?",
+      "definition": "Számos vízben rosszul oldódó anyag szállítódik a vérben fehérjékhez kötötten: hormonok, vitaminek, lipidek, toxinok, gyógyszerek.",
+      "quote": "Fehérje-szállítás",
+      "text": "Az albuminok és globulinok transzport-fehérjékként szolgálnak. A lipoproteinék (LDL, HDL) a lipidek szállításáért felelősek. Az est radián-hormonok (tiroxin, kortizol) fehérjékhez kötötten szállítódnak. A gyógyszerek nagy része fehérjékhez kötötten mozog a vérben. Ez a kötés számos előnnyel jár: mérsékelt lebomlás, elkerülés a vesés kiürülésből, specifikus szöveti felvétel. Azonban néhány gyógyszer-kölcsönhatás e fehérjék kötési helyéért való versengésből adódhat."
+    }
+  ]
+}

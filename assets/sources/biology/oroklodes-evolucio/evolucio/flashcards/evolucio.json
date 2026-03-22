@@ -1,0 +1,704 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Biotechnológia definíciója",
+      "definition": "Az alkalmazott tudományterület, amely az élő rendszerekben zajló biológiai folyamatokat alkalmazza mezőgazdasági, ipari és orvosi-egészségügyi célokra az emberi életminőség javításának érdekében.",
+      "quote": "Élet szolgálatára alkalmazott tudomány",
+      "text": "A biotechnológia az alapkutatások (pl. molekuláris biológia) eredményeit felhasználva olyan anyagokat állít elő, amelyeket egyébként túl drágán vagy túl kis mennyiségben lehetne csak termelni. Jellegzetes alkalmazásai közé tartozik az inzulin előállítása, vakcinák gyártása, és genetikai módosítás."
+    },
+    {
+      "id": 2,
+      "term": "Klón és klónozás",
+      "definition": "A klón egyetlen élőlény ivartalan szaporodással létrehozott genetikailag azonos leszármazottja. A klónozás az egyetlen élőlény elszaporítása ivartalan módon, emberi tevékenységgel.",
+      "quote": "Azonos gének, szaporítás nélkül",
+      "text": "Klónok természetes körülmények között is keletkeznek (baktériumok kettéhasadása, növények vegetatív szaporodása, egypetéjű ikrekedés). A mesterséges klónozás legismertebb példája Dolly birka, amelyet 1996-ban Skóciában hoztak létre sejtmag átültetéssel."
+    },
+    {
+      "id": 3,
+      "term": "Dolly birka klónozása",
+      "definition": "Az első emlősállat, amelyet sejtmag átültetésével klónoztak meg. 1996-ban születésett Skóciában, hosszú kutatási folyamat eredménye volt.",
+      "quote": "Első klónozott emlős",
+      "text": "Az eljárás lépései: 1) differenciálódott testi sejtből sejtmag kinyerése, 2) petesejtből a magot eltávolítása, 3) testi sejtmag bejuttatása a magjától megfosztott petesejtbe, 4) mesterséges zigóta in vitro fejlesztése, 5) embrió beültetése béranya állatba. Dollynak 433 testvére volt, amely az embriógenezis különféle szakaszaiban elpusztultak."
+    },
+    {
+      "id": 4,
+      "term": "Vegetatív szaporítás növényeknél",
+      "definition": "Ivartalan szaporodás, amely során szaporítósejtek nem jönnek létre, a növényi test egyszerűen kettészakad vagy vegetatív szaporítószervekből új növény fejlődik.",
+      "quote": "Nélküle nincs újra, csak osztódás",
+      "text": "Vegetetatív szaporítószervek: földieper indája, burgonya gumója, hagymások hagymája, tarackbúza tarackja. Mesterséges vegetatív szaporítási formák: dugványozás, bujtás, tőosztás. Ez a klónozásnak tekinthető, mivel genetikailag azonos leszármazottat állít elő."
+    },
+    {
+      "id": 5,
+      "term": "Nemesítés definíciója",
+      "definition": "Mesterséges szelekció, az ember tudatos, tervszerű tevékenysége, amellyel meghatározott tenyészcél érdekében kiválasztja az állomány legkedvezőbb tulajdonságokkal rendelkező egyedeit, majd továbbszaporítja őket.",
+      "quote": "Mesterséges választás, szándékos szaporítás",
+      "text": "A háziasítás (a vadállatok háziállatakká válása) teszi lehetővé a nemesítést. A nemesítés gazdasági tevékenység is: az ember a számára megfelelő tulajdonságokat nemzedékről nemzedékre gyarapítja az állatállományában."
+    },
+    {
+      "id": 6,
+      "term": "Géntechnológia",
+      "definition": "A biotechnológia egyik részterülete, olyan eljárások összessége, amellyel megváltoztatják a genetikai anyagot.",
+      "quote": "Gének szándékos módosítása",
+      "text": "Alkalmazott eljárások közé tartozik a DNS-szekvenálás, DNS sokszorosítás, génszerkesztés (CRISPR-rendszer), DNS-chip, genetikai ujjlenyomat, rekombináns DNS technológia. Alkalmazási területei: géndiagnosztika, génterápia, személyre szabott terápia, igazságügyi orvostani alkalmazás."
+    },
+    {
+      "id": 7,
+      "term": "DNS-szekvenálás",
+      "definition": "Az adott DNS-molekulaszakasz bázissorrendjének meghatározása, amely az örökletes és szerzett mutációk vizsgálatának alapmódszere.",
+      "quote": "DNS betűit soronként olvasni",
+      "text": "Alkalmazása: érökletes genetikai betegségek diagnosztizálása, fajok rokonsági viszonyainak meghatározása, molekuláris törzsfa szerkesztése. Az ember és csimpánz DNS-e 98%-ban megegyezik, fejlődésünk szétválása kb. 6-7 millió évvel ezelőtt történt."
+    },
+    {
+      "id": 8,
+      "term": "Sanger-féle szekvenálási eljárás",
+      "definition": "A szekvenáláshoz szükséges DNS-t előbb izolálni kell, majd 4 lombikba összeállítanak keveréket a DNS-szálhoz, enzimekhez, nukleotidokhoz és didezoxi nukleotidokhoz. Ezek a módosított nukleotidok megállítják a szintézist.",
+      "quote": "Négy lombik, négy alapból",
+      "text": "Az eljárás: 1) DNS-szál és enzimek, 2) normál és módosított nukleotidok, 3) részmásolatok különböző hosszúságban, 4) hőkezeléssel leválasztás, 5) gélelektroforézissel szeparálás. Ma már automata készülékekkel végzik, fluoreszcens jelöléssel."
+    },
+    {
+      "id": 9,
+      "term": "Gélelektroforézis",
+      "definition": "Az eljárás a makromolekulákat a méretük, alakjuk és töltésük alapján választja el. Az elektromos térben a töltött molekulák az ellentétes töltésű elektróda felé vándorolnak.",
+      "quote": "Elektromosan szeparálja a molekulákat",
+      "text": "A gél egy térhálós szerkezetű anyag, amely a molekulák mozgását méretfüggően lassítja. Kicsi molekula gyorsabban mozog, nagy molekula szinte mozdulatlan marad. Ismeretlen minták mellett mindig molekulamarkert kell futtatni referenciához."
+    },
+    {
+      "id": 10,
+      "term": "PCR technika (Polimeráz Lánc Reakció)",
+      "definition": "Forradalmasította a géntechnológiát és a molekuláris diagnosztikát. A módszer a vizsgálni kívánt DNS-szakaszt sokszorozza meg 20-30 ciklus során.",
+      "quote": "DNS megsokszorozása hőciklusalapúan",
+      "text": "Szükséges komponensek: DNS-minta, két primer, DNS-polimeráz enzim, nukleotidok, pufferoldat. Három lépés minden ciklban: 1) 95°C - DNS denaturálódik, 2) 68°C - primerek kötődnek, 3) 72°C - DNS-polimeráz szintézise. A ciklus végén a DNS mennyisége megkétszereződik."
+    },
+    {
+      "id": 11,
+      "term": "PCR alkalmazási területei",
+      "definition": "Az igazságügyi munkában genetikai ujjlenyomatokra, mutációk vizsgálatára, vírusok és baktériumok fertőzésének kimutatására, valamint több ezeréves DNS elemzésére alkalmazható.",
+      "quote": "Szaporít és azonosít apró DNS-eket",
+      "text": "Előnye, hogy elméleti szinten egyetlen DNS-szál is elegendő. A mikro-organizmusoknak az antitestek kimutatásán alapuló módszerekkel szemben lehetővé teszi a fertőzés kimutatását akkor is, ha az immunválasz elmarad."
+    },
+    {
+      "id": 12,
+      "term": "Humán Genom Projekt (HGP)",
+      "definition": "A biológiai tudományok eddigi legátfogóbb, legdrágább és legambiciózusabb vállalkozása volt. 1990-től 13 évig tartott, 3 milliárd dollárba került, hat ország 16 kutatólaboratóriuma vett részt.",
+      "quote": "Az emberiség genetikai térképe",
+      "text": "Fontosabb eredmények: az emberi genom ~3 milliárd DNS bázispárból áll, ~21 000 gén van benne. Két ember DNS-szekvenciájának átlagosan 0,1%-os eltérése van (99,9%-os egyezés). Az embrióből vagy végzett egy genomikai adatbázis-felhasználási lehetőséget."
+    },
+    {
+      "id": 13,
+      "term": "HGP orvosi forradalma",
+      "definition": "Az egyik legfontosabb eredmény az egyénre szabott célzott terápiák és gyógyszeres kezelések kidolgozásának lehetősége, valamint új tudományterületek megjelenése.",
+      "quote": "Személyre szabott gyógyítás lehetővé vált",
+      "text": "Új tudományterületek: géndiagnosztika (betegséget okozó gének feltárása), génterápia (testi sejtek génjeinek megváltoztatása). Például 22 tüdőrákos betegben az EGFR gén extra kópiákat azonosítottak, így célzott terápiát lehetett alkalmazni."
+    },
+    {
+      "id": 14,
+      "term": "Genom komplexitása",
+      "definition": "Az emberi gének száma csak kétszerese a Drosophila (gyümölcslegy) génjeinek, a komplexitás titka nem a gének számában, hanem a fehérjék összerakási módjában rejlik.",
+      "quote": "Kevés gén, sok lehetőség",
+      "text": "Az alternatív splicing mechanizmusa fontos szerepet játszik: egy gén többféle fehérjét is meghatározhat. A klasszikus 'egy gén - egy enzim' tézis messzemenően nem igaz. Az ember genomja száz mikro-RNS-eket kódoló gén-családot tartalmaz, amely nem fehérjét kódolnak."
+    },
+    {
+      "id": 15,
+      "term": "Transzpozonok",
+      "definition": "Mozgékony, helyváltoztatásra képes genetikai elemek. Az emberi genom mintegy felét adják, azonban többségük nem aktív.",
+      "quote": "DNS-darabók, amik mozognak",
+      "text": "Átrendeződésük kétféleképpen történhet: 1) DNS-szakasz kihasad és másik helyen beépül, 2) DNS-régió megkettőződik - egyik máshol integrálódik. A transzpozíció RNS közvetítésével is történhet reverz transzkriptáz segítségével."
+    },
+    {
+      "id": 16,
+      "term": "Génszerkesztés és genomszerkesztés",
+      "definition": "Egy vagy több gén DNS-szekvenciájának szándékos megváltoztatása az élő sejtben, amelynek célja a géneken belüli hibák kijavítása vagy hibásan működő gének kiütése.",
+      "quote": "DNS-hiba kijavítás pontosan",
+      "text": "Szemben a korábbi eljárásokkal, elsődleges célja nem máshonnan származó gének sejtbe juttatása (mint a GMO), hanem a szekvencia megváltoztatása. Jelenleg a legpontosabb módszer az ún. CRISPR-Cas rendszer."
+    },
+    {
+      "id": 17,
+      "term": "CRISPR-Cas rendszer",
+      "definition": "A baktériumok DNS-ében található rövid, ismétlődő DNS-szakaszok (clustered regularly interspaced short palindromic repeats), amely a baktériumok védekezési módszere a vírusok ellen.",
+      "quote": "Bakteriális virusvédelem, a mi eszközünk",
+      "text": "Működése: amikor egy bakteriofág megfertőz egy baktériumot, a sejt a vírus DNS részét beépíti saját DNS-ébe. A Cas9 enzim a crRNS-ek segítségével felismeri és elvágja a bejutó vírus DNS-t. Ez a rendszer laboratóriumban is felhasználható: guide RNS-szel jelölhetjük az elváganadó helyet."
+    },
+    {
+      "id": 18,
+      "term": "CRISPR génszerkesztés lépései",
+      "definition": "Az elhasított DNS szakaszok néhány nukleotid kiesésével újra összeillesztődnek vagy új DNS-szakasz illeszthető az elhasított végek közé.",
+      "quote": "Vág, kitörli vagy beépít",
+      "text": "Két lehetőség: 1) Kieséses mutáció - ha gén belül játszódik, a fehérje működésképtelenné válhat (onkogének kiütésére). 2) Új gén beépítése - új tulajdonságokkal ruházza fel a genomot. A Cas9 nukleáz enzim sejtbe vitelével meghatározott helyen elvágódik a sejt DNS-e."
+    },
+    {
+      "id": 19,
+      "term": "Génterápia alkalmazási lehetőségei",
+      "definition": "A mutáns gén helyettesítése génbevitellel (vírusok segítségével) vagy hibás gének módosítása CRISPR technikával.",
+      "quote": "Hibás gének kijavítása vagy helyettesítése",
+      "text": "A CRISPR génszerkesztéses technikának számos alkalmazása van rákkutatásban. Tumorsejtekben onkogének bekapcsolódnak, tumorszupresszor gének kiesnek, jelátviteli útvonalak aktiválódnak. A géndiagnosztikával azonosítható gének után célzott szerkesztéssel aktiválhatók a tumorszupresszor gének vagy kikapcsolhatók az onkogének."
+    },
+    {
+      "id": 20,
+      "term": "Szomatikus vs. csíravonal génterápia",
+      "definition": "Szomatikus: a születés után a meglévő betegségek kijavítása, a változás nem öröklődik. Csíravonal: az ivarsejtek vagy embrió genetikai anyagának módosítása, ami továbböröklődik.",
+      "quote": "Egy vagy minden generáció?",
+      "text": "A csíravonal génterápia igen komoly etikai problémákat vet fel: a változás korlátlan számú generáción át érvényesül. Napjainkban alkalmazása nem megengedett. A mai jogszabályok szerint a génterápia nem érintheti az ivarsejteket, illetve a transzgén generációról generációra nem öröklődhet."
+    },
+    {
+      "id": 21,
+      "term": "Génterápia etikai problémái",
+      "definition": "Többek között: a gyermekeknek joga van mesterségesen meg nem változtatott genetikai állománnyal születni, az emberiség genetikai állománya közös tulajdon, az evolúció természetes folyamataiba nem szabad beavatkozni.",
+      "quote": "Etika védi az ember genetikai jogát",
+      "text": "További megfontolások: jelenleg tudományos ismereteink nem elegendőek az eljárások következményeinek előrejelzésére, ha egyszer elkezdünk egy genetikai beavatkozást, lehetetlen megakadályozni nemkívánatos felhasználást."
+    },
+    {
+      "id": 22,
+      "term": "DNS-chip technológia (microarray)",
+      "definition": "Felhasználható a gének aktivitásának mérésére, funkciójának vizsgálatára, DNS minták azonosítására. Az eljárás komplementer egyszálú DNS molekulák összekapcsolódásán alapszik.",
+      "quote": "Több ezer gén tesztje egyidejűleg",
+      "text": "A DNS-chip egy lapocska több ezer piciny cellával. Mindegyik cellában a vizsgálandó sejt egy-egy génjének egyszálú DNS szakasza található. A vizsgálandó mintát fluoreszcens festékkel jelölik meg, így a komplementer DNS-szálak összekapcsolódásakor megjelennek."
+    },
+    {
+      "id": 23,
+      "term": "DNS-chip mintázati elemzése",
+      "definition": "Normál és rákos sejtekből eltérő színű fluoreszcens jelöléssel cDNS-eket szintetizálnak, majd összekeverve a DNS-chiphez adják.",
+      "quote": "Szín mutatja a gén-kifejeződést",
+      "text": "Az előhívás után: csak rákos sejtekben kifejeződő gén piros, mindkét mintában jelenlévő gén sárga (piros+zöld), csak normál sejtben működő gén zöld. Ez lehetővé teszi annak megállapítását, mely gének fejeződnek ki nagyobb mértékben rákos sejtekben."
+    },
+    {
+      "id": 24,
+      "term": "DNS ujjlenyomat (DNS profil)",
+      "definition": "A humán genomban nem kódoló DNS szakaszaiban több tízezer rövid, ismétlődő szekvencia (STR) található, amelyek ismétlődési mintázatai személyenként eltérőek.",
+      "quote": "Minden ember DNS-e egyedi",
+      "text": "Alkalmazása: igazságügyi orvostani vizsgálatok, apaság megállapítása, genetikai betegségek elemzése, katasztrófák áldozatainak azonosítása. A DNS-ujjlenyomat elkészítésével meghatározható az egyén DNA profilja, amely minden emberre sajátságosan jellemző."
+    },
+    {
+      "id": 25,
+      "term": "Southern-blot (lenyomat) technika",
+      "definition": "Igazságügyi orvostani eljárásban használt DNS hibridizáció eljárás, amely a gyanúsított és a tetthelyen talált DNS azonosságának megállapítására szolgál.",
+      "quote": "DNS lenyomat azonosító módszer",
+      "text": "Az eljárás lépései: 1) DNS mintavétel és restrikciós endonukleázokkal lebontás, 2) gélelektroforézissel szeparálás, 3) denaturálás NaOH-val, 4) nylonmembránra rögzítés, 5) izotóppal jelölt DNS-szel hibridizáció. Azonosság esetén az izotóppal jelölt DNS szakaszok azonos mintázatot mutatnak."
+    },
+    {
+      "id": 26,
+      "term": "Genetikai transzformáció",
+      "definition": "Az a jelenség, amikor örökítőanyag jut át egyik szervezetből a másikba. Ezt történhet transzformáció, konjugáció és transzdukció útján.",
+      "quote": "Gén közötti szervezetek között",
+      "text": "Mindhárom módszer esetén a génátadás egyirányú. A transzformáció során a sejt környezetéből idegen DNS-t vesz fel és beépíti. A konjugációban plazmahíd jön létre között két baktérium között. A transzdukcióban bakteriofágok közvetítik az átvitelt."
+    },
+    {
+      "id": 27,
+      "term": "Rekombináns DNS technológia",
+      "definition": "Olyan technológia, amellyel különböző eredetű géneket tartalmazó hibrid, ún. rekombináns DNS molekulák állíthatók elő, amely új tulajdonságokkal ruházza fel az élőlényeket.",
+      "quote": "Gének ötvözése új szervezetekhez",
+      "text": "Az eljárás lépéseihez szükséges: transzgén (pl. inzulin gén) izolálása, vektor-DNS (plazmid vagy bakteriofág), hibrid plazmid létrehozása, transzgén bejuttatása (transzformáció, vírus vagy génágyú)."
+    },
+    {
+      "id": 28,
+      "term": "Restrikciós endonukleázok",
+      "definition": "Enzimek, amelyek az idegen DNS-t a molekula belsejében levő helyeken hasítják el. Nem pontosan szemben vágják el a DNS két szálát, hanem eltolódva, ragadós végeket képezve.",
+      "quote": "DNS-vágó enzimek pontos helyen",
+      "text": "Nevüket arról kapták, hogy megakadályozzák az idegen DNS invázióját a molekula feldarabolásával. Az endodukleáz jelölés azt jelenti, hogy belső helyeken hasítanak (görög: endo=belső). A ragadós végek megkönnyítik két DNS összekapcsolását."
+    },
+    {
+      "id": 29,
+      "term": "DNS ligáz enzim",
+      "definition": "Az enzim képes összekapcsolni különböző DNS-ekből származó szabad végű DNS-darabokat, létrehozva így a hibrid plazmidot.",
+      "quote": "DNS-darabokat ragasztó enzim",
+      "text": "A genetikai vektorok kialakításához szükséges lépés a ligáz enzim alkalmazása, amely az restrikciós endonukleázok által létrehozott ragadós végeket összeköti, stabil rekombináns DNS-t hozva létre."
+    },
+    {
+      "id": 30,
+      "term": "GMO (Genetikailag Módosított Organizmus)",
+      "definition": "Olyan élő szervezet, amelynek genetikai anyagát génbevitellel módosították. Az új genetikai kombinációk természetben nem találhatók meg.",
+      "quote": "Gének módosítva, új tulajdonságokkal",
+      "text": "Az 1. generációs GMO-k: gyomirtószertűrő, stressztűrő, patogén-rezisztens növények. Például kukoricába Bacillus thüringiensis rovarölő génjét ültették. A későbbi generációk bioreaktorok: vakcinákat, hormonokat termeltetünk velük."
+    },
+    {
+      "id": 31,
+      "term": "GMO növények előnyei",
+      "definition": "Csökkentik a növényvédőszer és műtrágya szükségletét, mivel a Bt-toxint a növény termeli, a nem kártevő ízeltlábúak között kevesebb kárt okoz, mint a vegyszeres rovarirtás.",
+      "quote": "Kevesebb vegyszer, több termés",
+      "text": "A bioszintetizátor élőlények (gyógyszer-, hormon-, enzim-termelő) használata lehetővé teszi új gyógyszerek előállítását. Az aranyrizs béta-karotint termel, amit az emberi szervezet A-vitaminnál alakít át a májban."
+    },
+    {
+      "id": 32,
+      "term": "GMO ellenérvek",
+      "definition": "Az antibiotikumrezisztencia-gén átkerülhet baktériumokba, a Bt-toxin mennyisége 1500-2000-szerese az ajánlott dózisnak, potenciális allergia veszély, valamint a hosszú távú környezeti és egészségügyi hatások ismeretlenek.",
+      "quote": "Kockázatok és ismeretlenül",
+      "text": "A Bt-toxint a növény minden sejtje termeli, ami potenciális mérgezőséget jelent. Az antibiotikumrezisztencia terjedése a rezisztens baktériumok kialakulásához vezethet. Az ökológiai és társadalmi hatások még nem teljesen feltártak."
+    },
+    {
+      "id": 33,
+      "term": "Bioetika",
+      "definition": "Az élővilág etikai kérdéseivel foglalkozó tudományág, amely az orvosi, egészségügyi, környezetvédelmi és állatvédelmi etikával foglalkozik.",
+      "quote": "Éthika az életről és halálról",
+      "text": "Fő elvei: Ne árts elve, Jótékonyság elve, Igazságosság elve, Korlátozott erőforrások elosztásának elve, Autonómia elve. Az etika általános jelentése: a józan ész alapján meghozott optimális megoldás és helyes döntés."
+    },
+    {
+      "id": 34,
+      "term": "Emberi méltóság bioetikai aspektusa",
+      "definition": "A bioetika alapelve, amely azt jelenti, hogy minden emberi lénynek egyedi és elidegeníthetetlen lényegi tulajdonsága van, alapvető emberi jogokkal és értékkel rendelkezik.",
+      "quote": "Minden ember méltó és tisztelt",
+      "text": "Az egészségügyi ellátás során tiszteletben kell tartani az egyén méltóságát, önrendelkezési jogát, az informált beleegyezés elvét, személyes adatok védelmét. A bánásmódnak tisztességesnek, empatikusnak és gondoskodónak kell lennie, valamint figyelembe kell venni az egyén kulturális és vallási hátterét."
+    },
+    {
+      "id": 35,
+      "term": "Élet tisztelete",
+      "definition": "Az emberi élet és más életformák védelmét és tiszteletét jelenti, amely különös hangsúlyt bír az emberi reprodukció, genetikai kutatások, állatkísérletek, emberi kísérletek, abortusz és eutanázia köreiben.",
+      "quote": "Minden élet védendő és tisztelt",
+      "text": "Ez a tisztelet megköveteli, hogy az emberi életet ne veszélyeztessük és minden intézkedést olyan módon hozzunk meg, amely tiszteletben tartja az élet értékét és az élethez való elidegeníthetetlen jogot."
+    },
+    {
+      "id": 36,
+      "term": "Fogyatékosság bioetikai aspektusa",
+      "definition": "Olyan fizikai, mentális vagy érzékszervi károsodott állapot, amely hatással lehet az egyén tevékenységeire és társadalomban való részvételében.",
+      "quote": "Különbség, nem betegség",
+      "text": "A fogyatékosságot nem szabad betegségnek tekinteni, hanem olyan különbségnek, amely megértést, befogadást és esélyegyenlőséget igényel a társadalomban. A fogyatékossággal élőknek eltérései vannak a társadalmilag elfogadott normáktól, de jogaik egyenlőek."
+    },
+    {
+      "id": 37,
+      "term": "Állatkísérletek etikai aspektusa",
+      "definition": "Két alapvető nézet: az állatokat nem szabad emberi célokra felhasználni, vagy a tudományos fejlődés és emberi egészség szempontjából elengedhetetlenek az állatkísérletek.",
+      "quote": "Tudománya vagy szenvedés?",
+      "text": "A bioetika egyensúlyt igyekszik teremteni az emberi érdekek és az állati jólét között. A szabályozás célja minimalizálni az állatok szenvedését, alternatív módszereket előnyben részesíteni (sejtkultúra, számítógépes modellek), szigorú engedélyezési eljárást követni."
+    },
+    {
+      "id": 38,
+      "term": "Transzplantáció etikai kérdései",
+      "definition": "Szerv-, szervrész- vagy szöveti átültetés donorból recipiensbe. A fő etikai kérdések: szervadományozás önkéntesség alapján, egyenlő elosztás, ingyenesség az illegális szervkereskedelem elkerülésére.",
+      "quote": "Szervezet ajándék, nem kereskedelem",
+      "text": "Az átültetett szerv kilökődésének veszélyét mérsékelni lehet: az átültetést követően immunszupresszív terápia szükséges, vagy család/közeli rokon szerv kisebb kilökődési veszéllyel jár. Magyarországon az 'feltételezett beleegyezés' elve érvényesül, de nyomásgyakorlás nélkül kell történnie."
+    },
+    {
+      "id": 39,
+      "term": "Biomimetika (bionika)",
+      "definition": "A biológiai, molekuláris fizikai-kémiai és informatika tudományok határterületén elhelyezkedő tudomány, amely az élő természetben kialakult megoldásokat alkalmazza mesterséges rendszerek megtervezésére.",
+      "quote": "Természet tanít, mérnök alkalmaz",
+      "text": "Alkalmazási területei: bionikus végtagok fejlesztése, agy és gerincvelő helyettesítése, cetek szárnyai alapján hajók, passzív szellőztetés, csont finomszerkezete alapján rácsos szerkezetek, denevérek ultrahangjából szenzorok, cápabőr alapján csökkent közegellenállás."
+    },
+    {
+      "id": 40,
+      "term": "Genetikai tanácsadás",
+      "definition": "A tudatos családtervezés első lépése, olyan szakrendelés, amely során a páciensek genetikai hátterű betegségre/rendellenességre vonatkozó információt kaphatnak.",
+      "quote": "Genetikai kockázat felmérhető",
+      "text": "A tanácsadás feladata: betegség természetének tisztázása, genetikai kockázat megállapítása, betegség várható lefolyásának közlése. A házaspár az objektív felvilágosítást követően saját döntést hoz az invazív vizsgálatokról és terhesség továbbviseléséről."
+    },
+    {
+      "id": 41,
+      "term": "Magzati diagnosztika",
+      "definition": "Azokat a módszereket foglalják magukba, amelyekkel az embrió vagy magzat egészségi állapotáról információ nyerhető, valamint a magzati öröklött vagy szerzett rendellenességeket lehet felismerni.",
+      "quote": "Méhen belüli fejlődés figyelemmel kísérve",
+      "text": "Nem invazív eljárások: szívultrahang, anyai vérvizsgálat, CTG, NST. Invazív eljárások: genetikai magzatvíz mintavétel, magzatburok-mintavétel, vérvétel köldökzsinórból. A módszerek segítségével méhen belüli vagy korai újszülöttkori kezelésre szoruló rendellenességeket lehet azonosítani."
+    },
+    {
+      "id": 42,
+      "term": "Bioinformatika",
+      "definition": "A biológiai tudományok és az informatikai technológiák határterülete, amely informatikai módszereket alkalmaz biológiai adatok elemzésére és értelmezésére.",
+      "quote": "Számítógép biológiát tanulmányozza",
+      "text": "Foglalkozik a biológiai adatok gyűjtésével, tárolása, kezelésével, elemzésével, valamint biológiai rendszerek viselkedésének számítógépes modellezésével. Alkalmazásai: genomi annotáció, szekvenciaelemzés, összehasonlító genomika, evolúció-biológia, SNP analízis, rendszerbiológia."
+    },
+    {
+      "id": 43,
+      "term": "Genomi annotáció",
+      "definition": "A genom szekvencia értelmezése, melynek során kutatók azonosítják a gének helyét és funkcióját a genomikus adatokban.",
+      "quote": "Genom funkcionális térképe",
+      "text": "Az annotáció kulcsfontosságú: segít megérteni a gének és nem-kódoló régiók kapcsolatait, gének szabályozását, betegségek kialakulását, hozzájárul a gyógyszerfejlesztéshez és egyénre szabott célzott terápiához."
+    },
+    {
+      "id": 44,
+      "term": "SNP analízis (Single Nucleotide Polymorphism)",
+      "definition": "Egyetlen nukleotid eltérés különböző emberekből származó szekvenciaadatok között. Az SNP-k az emberi genom leggyakoribb típusú genetikai változásai.",
+      "quote": "Egy bázis különbség, nagy hatás",
+      "text": "Az SNP-k összefüggésbe hozhatók különböző tulajdonságokkal, betegségek hajlamával vagy gyógyszerre adott válaszok különbségeivel. Ezek a változások lehetővé teszik személyre szabott medikálást és betegség-kockázat felmérést."
+    },
+    {
+      "id": 45,
+      "term": "Szekvenciaelemzés jelentősége",
+      "definition": "Funkcionális elemzések segítségével DNS-szakaszok működése feltárható, gének, exonok, intronok, promóterek azonosíthatók, evolúciós kutatások végezhetők, betegség-diagnosztika és gyógyszerfejlesztés lehetséges.",
+      "quote": "DNS-elemzés mindent megtár",
+      "text": "Evolúciós kutatások: fajok közötti hasonlóságok és különbségek alapján rokonsági viszonyok és filogenikai törzsfák készíthetők. Betegségkutatás: genetikai variációk azonosítása alapján személyre szabott terápia kidolgozható."
+    },
+    {
+      "id": 46,
+      "term": "Személyre szabott terápia bioinformatikában",
+      "definition": "Ha két betegnél ugyanaz a betegség is előfordulhat eltérő gyógyszer-válasz molekuláris szintű vizsgálatok után olyan gyógyszereket adnak, amelyek a beteg egyéni szükségleteinek megfelelnek.",
+      "quote": "Terápia az egyénhez igazítva",
+      "text": "Az elsősorban a rák kezelésében van jelentősége. A betegek genetikai és egyéb biológiai tulajdonságai különbözőek, ezért az alkalmazott gyógyszerek és dózisok is eltérhetnek. A bioinformatikai elemzés révén azonosíthatók az adott betegre leghatékonyabb terápiák."
+    },
+    {
+      "id": 47,
+      "term": "Célzott daganatterápiák",
+      "definition": "A célzott kezelések egy meghatározott molekuláris célpontra irányulnak, amely általában egy fehérje, amely sejteket növekedésre és osztódásra készteti.",
+      "quote": "Támadás konkrét fehérjét",
+      "text": "A célzott terápiás gyógyszerek a hibásan működő fehérjét vagy jelátviteli láncolatban elhelyezkedő molekulát gátolják, leállítva a tumorsejt növekedését. Az új és eddig alkalmazott rákgyógyszerek közötti alapvető különbség, hogy a célzott terápiák elsősorban daganatsejteket pusztítanak, enyhébb mellékhatások."
+    },
+    {
+      "id": 48,
+      "term": "Géndiagnosztikai vizsgálatok betegségei",
+      "definition": "DNS-szekvenálási módszerek alkalmazásai: cisztás fibrózis, hemofília, fenilketonúria, örökletes emlőrák (BRCA-1, BRCA-2) diagnózisára, illetve több gén vizsgálatára hajlamosító betegségeknél.",
+      "quote": "Gén hibái felismerhetők",
+      "text": "A gyakori betegségek genetikai vizsgálatának jelenlegi módszere a genom-asszociációs analízis. Az elmúlt 5 évben csaknem 200 gyakori betegségnél több mint 1000 kromoszómális régiót azonosítottak (elhízás, agydaganat, szívinfarktus, koleszterin, testmagasság)."
+    },
+    {
+      "id": 49,
+      "term": "Gyakori betegségek genetikai hátere",
+      "definition": "Általában nem egyetlen gén hibája, hanem több gén variánsainak együttes jelenléte és ezek összegződő hatásai, továbbá környezeti tényezők és epigenetikai hatások okozzák.",
+      "quote": "Sok gén, egy betegség",
+      "text": "Ezért ezekben az esetekben nem betegséget okozó génekről, hanem arra hajlamosító tényezőkről beszélünk. Ez a bonyolult genetikai háttér magyarázza, hogy miért nehéz előrejelezni egy betegség kialakulásának kockázatát."
+    },
+    {
+      "id": 50,
+      "term": "Inzulingyártás baktériumokkal",
+      "definition": "A coli baktériumba az emberi inzulin génjét juttatják, amely kódolt fehérjét termeli a sejt. Ezt a fehérjét kinyerve felhasználható a diabétesz kezelésére.",
+      "quote": "Bakteriális bioreaktor inzulin termeléséhez",
+      "text": "Az eljárás lépései: 1) inzulin gén izolálása emberi genomból, 2) plazmid vektorba építése, 3) hibrid plazmid létrehozása, 4) transzformáció a baktériumba. A coli baktériumnak ezt a módosított plazmidja segítségével nagy mennyiségben termeli az inzulint."
+    },
+    {
+      "id": 1,
+      "term": "Evolúció (törzsfejlődés)",
+      "definition": "Az élővilág többnyire fokozatos és szüntelen történeti fejlődése, mely során a fajok öröklődő jellegei nemzetről nemzedékre változnak.",
+      "quote": "Biológiai változás folyamata",
+      "text": "Az evolúció több szinten értelmezhető: a fizikai világtól a tudományos elméletek alakulásáig. A biológiai evolúció során az egyes tulajdonságok gyakorisága változik a populációban, új tulajdonságok megjelenése nélkül is bekövetkezhet evolúciós változás."
+    },
+    {
+      "id": 2,
+      "term": "Biológiai faj",
+      "definition": "Mindazon egyedek, amelyek lényeges külső és belső tulajdonságaikban hasonlóak, egymással szaporodni képesek, és önmagukhoz hasonló, termékeny utódot hoznak létre.",
+      "quote": "Szaporodási közösség",
+      "text": "A faj fogalma az evolúció alapegysége. A genetikai értelemben vett faj azok az egyedek, amelyek tényleges szaporodási közösséget alkotnak és közös génállománnyal rendelkeznek. Az evolúciós (filogenetikai) faj fogalmában a közös ősre való visszavezethetőség alapvető."
+    },
+    {
+      "id": 3,
+      "term": "Darwin evolúciós elmélete",
+      "definition": "Charles Darwin tudományosan megalapozott elmélete, amelyben a természetes kiválasztódás mechanizmusával magyarázza a fajok evolúcióját és a biológiai sokféleséget.",
+      "quote": "Rátermettebbek maradnak fenn",
+      "text": "Darwin 1859-ben publikálta 'A fajok eredete' című művet. Az elmélet alapján a populációban több egyed születik, mint amennyien élhetnek, a környezet véges erőforrásokkal bír, az alkalmas változatok fennmaradnak, a kevésbé alkalmasak kiselektálódnak. Ez a természetes szelekció folyamata."
+    },
+    {
+      "id": 4,
+      "term": "Lamarckizmus",
+      "definition": "Jean-Baptiste Lamarck elmélete, mely szerint a szerzett tulajdonságok öröklődnek és átadódnak az utódoknak.",
+      "quote": "Szerzett öröklödik",
+      "text": "Lamarck úgy gondolta, hogy az élőlények egy megváltozott környezetben új viselkedésformákat alakítanak ki, amelyek felépítésbeli változásokat vonnak maguk után, és ezek átöröklődnek az utódokra. Az epigenetikai kutatások újabban ismét felkarolták ezt az elméletet."
+    },
+    {
+      "id": 5,
+      "term": "Természetes szelekció",
+      "definition": "Az evolúció mechanizmusa, amely során az alkalmas genotípusok elterjednek, a kevésbé alkalmasak kiküszöbölődnek a létért való küzdelemben.",
+      "quote": "A legrátermettebb marad",
+      "text": "A természetes szelekció alapfeltétele a genetikai változatosság. A szelekcióval a populáció generációkon át alkalmazkodik az adott környezethez, ezt adaptív evolúciónak nevezzük. A folyamat a rátermettség (fitness) fogalmán alapul."
+    },
+    {
+      "id": 6,
+      "term": "Az evolúció jellemzői",
+      "definition": "Az evolúció három alapvető komponense: szaporodás, öröklödés és változatosság. Ezek együttes jelenléte szükséges az evolúció megvalósulásához.",
+      "quote": "Szaporodás, öröklödés, változékonyság",
+      "text": "Az evolúció nem igényli új tulajdonságok megjelenését, a meglévő típusok gyakoriságának megváltozása is elegendő. A Manchester környéki nyírfaaraszoló lepkék példája szemlélteti ezt: az ipari forradalom alatt a sötét és világos fenotípusok aránya megfordult az oxid-szennyezés miatt."
+    },
+    {
+      "id": 7,
+      "term": "Hardy-Weinberg szabály",
+      "definition": "Az ideális populációkra vonatkozó törvény, amely kimondja, hogy az allélek relatív gyakorisága nemzedékről nemzedékre nem változik, ha véletlenszerű a párosodás.",
+      "quote": "Allélok stabil gyakorisága",
+      "text": "Az ideális populáció feltételei: nincs szelekció, mutáció, migráció; véletlenszerű párosodás; nagy populációméret; nincs genetikai sodródás. A Hardy-Weinberg-eloszlást: p² + 2pq + q² = 1 képlettel adjuk meg. Ha a populáció eltér ezektől a feltételektől, az allélgyakoriságok változnak."
+    },
+    {
+      "id": 8,
+      "term": "Mutáció",
+      "definition": "A DNS szerkezetében bekövetkezett véletlen, véletlenszerű, előre nem látható változás, amely új allélokat hozhat létre.",
+      "quote": "Genetikai variáció forrása",
+      "text": "A mutáció az evolúció során az egyes allélváltozatok keletkezésének alapja. Genetikai diverzitást növelő, nem adaptív evolúciós folyamat. A ma élő élőlények az evolúció során felhalmozódott kedvező mutációkat hordozzák."
+    },
+    {
+      "id": 9,
+      "term": "Genetikai sodródás (drift)",
+      "definition": "Az allélgyakoriságok véletlenszerű megváltozása, főleg kis létszámú, elszigetelt populációkban, amely diverzitást csökkentő, nem adaptív folyamat.",
+      "quote": "Véletlenszerű populációváltozás",
+      "text": "Ha egy populációban a szaporodó egyedek száma lecsökken, az allélgyakoriságok megváltoznak, hasznos allélek elveszhetnek. Az elméletileg várt hasadási arányok nem tapasztalhatók a következő generációkban. Általában lerontja a populáció tulajdonságait, de lehet a fajképződés útja (endemikus fajok)."
+    },
+    {
+      "id": 10,
+      "term": "Kihalási küszöb",
+      "definition": "Az a kritikus populációnagyság, amely alatt a populáció már nem szaporodóképes és kihalásnak indul.",
+      "quote": "Minimális életképes lélekszám",
+      "text": "Minél kisebb az egyedszám, annál nagyobb a beltenyésztés és genetikai sodródás veszélye, amelyek a populáció genetikai leromlását eredményezik. A populáció optimális nagysága óriási természetvédelmi és fajmegőrzési jelentőséggel bír."
+    },
+    {
+      "id": 11,
+      "term": "Beltenyészet",
+      "definition": "A rokonok közötti szaporodás, amely során a homozigóták aránya egyre nő, és a recesszív allélok találkozásának esélye megnövekedik.",
+      "quote": "Rokonok szaporodása",
+      "text": "A rokon egyedek nagyobb mennyiségben hordoznak hasonló allélokat. Az önmegtermékenyítés szélsőséges esete, ahol minden generációban felére csökken a heterozigóták aránya. A recesszív allélok leggyakrabban hátrányos jellegeket és betegségeket alakítanak ki homozigóta formában."
+    },
+    {
+      "id": 12,
+      "term": "Génáramlás",
+      "definition": "Az egymás mellett élő populációk között az egyedek vándorlása, amely új allélokat hozhat be és megváltoztathatja a populáció genetikai összetételét.",
+      "quote": "Allél-transfer populációk között",
+      "text": "A bevándorlás megváltoztatja a populáció genetikai összetételét, a jövevény egyedek új allélokat hozhatnak magukkal. Például a B vércsoport elterjedése Európában a tatárjárásnak köszönhető. A génáramlás diverzitást növelő, nem adaptív evolúciós folyamat."
+    },
+    {
+      "id": 13,
+      "term": "Alapító hatás (founder effect)",
+      "definition": "A genetikai sodródás szélsőséges esete, amikor egy nagy létszámú populáció kis egyedszámú része elkülönül és új populációt alapít.",
+      "quote": "Kis csoport új populációval",
+      "text": "Az alapító egyedek genetikai állománya eltérhet az eredeti populáció átlagától. Az észak-amerikai indiánok többsége 0 vércsoportú, míg B vércsoport nem fordul elő közöttük. Ez a Bering-szoroson keresztül bevándorló kis csoport genetikai összetételét tükrözi."
+    },
+    {
+      "id": 14,
+      "term": "Irányító szelekció",
+      "definition": "A szelekció típusa, amely a jelleg átlagától valamilyen irányban eltérő, szélsőséges tulajdonságokat részesíti előnyben.",
+      "quote": "Szélsőségeket kedvez",
+      "text": "Száraz környezetben a keskenylevelű egyedek a rátermettebbek. Mesterséges szelekciónál gyakran alkalmazott módszer a nemesítésben, állattenyésztésben és növénytermesztésben. Az ember tervszerű tevékenysége révén a számára megfelelő tulajdonságokat gyarapítja az élőlények csoportjaiban."
+    },
+    {
+      "id": 15,
+      "term": "Szétválasztó szelekció",
+      "definition": "A szelekció típusa, amely a szélsőértékeket részesíti előnybe az átlaggal szemben.",
+      "quote": "Szélsőértékek előnyt kapnak",
+      "text": "Ez a szelekciós típus az átlagos fenotípusok kiküszöbölésére vezet, míg a szélsőséges megjelenésűek terjednek el a populációban. Ennek eredménye lehet a populáció kettévétódása, új fajképződés kezdete."
+    },
+    {
+      "id": 16,
+      "term": "Stabilizáló szelekció",
+      "definition": "A szelekció típusa, amely az átlagértékeket részesíti előnybe, az extrémumokai szélsőértékeket hátrányosan érinti.",
+      "quote": "Átlagos tulajdonságok győznek",
+      "text": "A természetben a leggyakoribb típus. Pázsitfűfélék levelének szélessége: átlagos környezetben az átlagos szélesség kedvezö, széleslevelűek kiszáradnak, keskenylevelűek kevésbé fotoszintetizálnak hatékonyan."
+    },
+    {
+      "id": 17,
+      "term": "Heterozigóta fölény",
+      "definition": "Speciális eset, amikor a recesszív allél homozigóta formában letális, azonban heterozigótákban szelekciós előnyt biztosít.",
+      "quote": "Heterozigóta előnye",
+      "text": "Erre példa a sarlósejtes vérszegénységre nézve heterozigóták gyakori előfordulása Afrikában, ahol a malária pusztít. A heterozigóták nem betegednek meg sem maláriában, sem sarlósejtes vérszegénységben, mert a kóros hemoglobin védelmet biztosít a malária kórokozójával szemben."
+    },
+    {
+      "id": 18,
+      "term": "Rátermettség (fitness)",
+      "definition": "Egy adott genotípus megjelenésének a valószínűsége az utódnemzedékben, amely az egyedek túlélési és szaporodási képességén alapul.",
+      "quote": "Reproduktív sikeresség",
+      "text": "A rátermettség az egyes genotípusok túlélése, szaporodási képessége és az utódnemzedékekben való megjelenésétől függ. Ez a tényező képezi a természetes szelekció alapját. A populáció egyedei eltérő rátermettséggel rendelkeznek."
+    },
+    {
+      "id": 19,
+      "term": "Altruizmus (önzetlen magatartás)",
+      "definition": "Az etológiában: amikor egy állat tevékenysége fajtársának, rokonának életben maradási, szaporodási sikerét növeli, azon az áron, hogy saját maga hátrányba kerül.",
+      "quote": "Rokonok segítése saját kárára",
+      "text": "Olyan viselkedések, mint az altruizmus, azért alakulnak ki, mert segítik a rokonokat a túlélésben és szaporodásban. Az egyedek saját génjeik fennmaradását segítik mások testében a közös génállomány révén. A rokonszelekció Hamilton-törvénye szerint működik."
+    },
+    {
+      "id": 20,
+      "term": "Rokonszelekció",
+      "definition": "Az altruista viselkedés evolúciós magyarázata: minél közelebbi a családtag, annál nagyobb az önzetlenség, hiszen nagyobb valószínűséggel közös génállomány.",
+      "quote": "Közös gének megosztása",
+      "text": "Az olimpiai mormoták füttyentenek ellenség észlelésekor, segítik a többiek túlélését, saját magára fölhívják a figyelmet. A kolóniában élő egyedek génkészlete részben azonos, mert rokonok, ezért a füttyentést szóló gén terjedhet még akkor is, ha a füttyentő egyed áldozatul esik."
+    },
+    {
+      "id": 21,
+      "term": "Csoportszelekció-együttműködés",
+      "definition": "A szelekció olyan folyamata, amelynek egysége nem az egyed, hanem a csoport, amely az egyedek csoportjainak szaporodási sikerét és életképességét növeli.",
+      "quote": "Csoport alkalmazkodása",
+      "text": "Annak a csoportnak az egyedei maradnak életben, amely a legjobban tökéletesítette a munkamegosztást, az utódok gondozását, a védekezést és támadást. Az Együttműködés-szelekció révén alakultak ki az evolúció során az egyre magasabb szerveződési szintek."
+    },
+    {
+      "id": 22,
+      "term": "Mikroevolúció",
+      "definition": "Az evolúció faj alatti szintű változásai, egy populáción belül történő genetikai összetétel megváltozása az egymást követő nemzedékek során.",
+      "quote": "Populáción belüli változások",
+      "text": "A mikroevolúciót az allélgyakoriságok megváltozása és az egyes fenotípusok gyakorisági aránya jellemzi. Általában kis lépésekben és rövidebb időtávon zajlik. Alapja az ivaros szaporodás során a meiózis, az átkereszteződés és az ivarsejtek véletlenszerű találkozása."
+    },
+    {
+      "id": 23,
+      "term": "Makroevolúció",
+      "definition": "Az evolúció faj szintje feletti változásai, azaz magasabb rendszertani egységek kialakulásának folyamata (nemzetség, család stb.).",
+      "quote": "Nagyobb evolúciós léptékek",
+      "text": "A makroevolúció folyamatát a nagyobb rendszertani csoportok létrejöttét és az élőlénycsoportok leszármazási viszonyait megjelenítő törzsfák készítésével lehet jellemezni. Például a kétéltűek az ősi bojtosúszós halakból fejlődtek ki."
+    },
+    {
+      "id": 24,
+      "term": "Genetikai diverzitás",
+      "definition": "A genetikai diverzitásnak négy szintjét különböztetjük meg: fajok közötti, fajon belüli, egy populáción belüli és egy egyed DNS-e szerinti sokféleség.",
+      "quote": "Genetikai sokféleség szintjei",
+      "text": "Az emberi genetikai állomány 99,9%-ban megegyző, de 0,1%-ban eltérő. A genetikai diverzitás jelentősége abban rejlik, hogy nagyobb változatossággal rendelkező populáció sokkal nagyobb eséllyel képes alkalmazkodni az állandóan változó környezeti viszonyokhoz."
+    },
+    {
+      "id": 25,
+      "term": "Biodiverzitás",
+      "definition": "Az élet megjelenési formáinak gazdagsága, az élővilág változatosságát és változékonyságát kifejező fogalom, több szinten értelmezhető.",
+      "quote": "Biológiai sokféleség",
+      "text": "A biodiverzitás szintjei: genetikai, faji és ökológiai. A genetikai diverzitás egy nagyobb változatossággal rendelkező populáció sokkal nagyobb eséllyel képes alkalmazkodni az állandóan változó környezeti viszonyokhoz."
+    },
+    {
+      "id": 26,
+      "term": "Horizontális géntranszfer",
+      "definition": "Az a folyamat, melynek során az élőlények genetikai információt adnak át egymásnak, elsősorban mikroorganizmusokra jellemző.",
+      "quote": "Gének különböző fajok között",
+      "text": "A horizontális géntranszfer a génátadás legtöbbször vírusok vagy plazmidok közvetítésével zajlik. A baktériumok esetén a transzformáció, transzdukció és konjugáció során valósul meg. Ez a vertikális öröklödéstől eltérő, generációkon keresztüli genetikai információ-átadás."
+    },
+    {
+      "id": 27,
+      "term": "Kladisztika",
+      "definition": "Olyan rendszerezési eljárás, amelyben az élőlényeket az evolúciós leszármazási kapcsolataik alapján kládoknak nevezett csoportokba osztják be.",
+      "quote": "Leszármazási alapú osztályozás",
+      "text": "A kladisztika a fajok rokonsági viszonyait tükrözi. A kladogram a leszármazási viszonyt feltüntető diagram, kettéágazó ágakból álló fára emlékeztet. Egy klád egyetlen közös ősből leszármaztatható élőlények csoportja, amely magába kell foglalja a közös őstől levezethető összes csoportot."
+    },
+    {
+      "id": 28,
+      "term": "Filogenetikai fa",
+      "definition": "Az evolúciós leszármazást és rokonsági kapcsolatokat feltüntető diagram, amely a ma élő és kihalt fajok közötti viszonyokat ábrázolja.",
+      "quote": "Törzsfejlődés ábrázolása",
+      "text": "A filogenetikai fák az élőlények leszármazási kapcsolatait tükrözik. A gyökér az közös ősre mutat, az elágazások pedig specifikációs eseményeket jelölnek. Az időpontok az elágazások közötti evolúciós időtartamot mutatják."
+    },
+    {
+      "id": 29,
+      "term": "Homológ szervek",
+      "definition": "Hasonló eredetű, alapszabásában megegyező szerkezetű, azonban az eltérő környezethez való alkalmazkodás miatt különböző megjelenésű szervek.",
+      "quote": "Közös ősből azonos alapon",
+      "text": "A szárazföldi gerinces állatok ötujjú végtagtípusa homológ. A madarak szárnya, a kutyák lábai, a bálnák úszói - mindez egy közös ötujjú végtagtípusra vezethető vissza. Az eltérő fejlődés a divergencia."
+    },
+    {
+      "id": 30,
+      "term": "Analóg szervek",
+      "definition": "Törzsfejlődéstanilag eltérő eredetű és szerkezetű szervek, amelyek a hasonló környezethez való alkalmazkodás miatt hasonlóvá válnak.",
+      "quote": "Hasonló funkció, eltérő eredet",
+      "text": "Az analóg szervek konvergens fejlődésből erednek. Példák: rovarok és gerincesek szárnya, vakond és lótücsök ásólába, halak és cetek úszói. Az eltérő fejlődés a konvergencia, amely hasonló szerveket hoz létre eltérő alapon."
+    },
+    {
+      "id": 31,
+      "term": "Atavizmus",
+      "definition": "Ősi, letűnt jellegek visszatérése, amelyek az evolúció során elvesztek, majd előfordulnak az egyedfejlődés során.",
+      "quote": "Ős-tulajdonságok visszatérése",
+      "text": "Átavisztikus tulajdonságok: hátsó végtagok megjelenése bálnáknál és kígyóknál, emberi farok kialakulása, vagy a 3 ujjú ló. Ezek az ősi jellegek az egyedfejlődés során abnormális módon regresszív fejlődést mutatnak."
+    },
+    {
+      "id": 32,
+      "term": "Élő kövület (living fossil)",
+      "definition": "Olyan élőlények, amelyek túlélték azt az időszakot, amelyekben virágkorukat élték, és napjainkban is megtalálhatók rendre módosított formában.",
+      "quote": "Élő ősmaradványok",
+      "text": "Példák: bojtosúszós halak, hidasgyíkok, páfrányfenyők. Az élő kövületek az evolúció során szinte változatlanul maradtak meg, ami azt mutatja, hogy az adott formák már adaptáltak az ősi környezethez és nem változtak meg jelentősen."
+    },
+    {
+      "id": 33,
+      "term": "Fajképződés (speciáció)",
+      "definition": "Az evolúciós folyamat, melynek során egy faj különböző populációi olyan mértékben megváltoznak, hogy az őket alkotó egyedek már nem tudnak egymással szaporodni.",
+      "quote": "Új faj kialakulása",
+      "text": "A genetikai összetételt megváltoztató mechanizmusok lehetnek nem adaptív jellegűek (mutáció, genetikai sodródás, migráció) vagy adaptív folyamatok (szelekció). Filogenetikai szempontból anagenezis (átalakulás) vagy kladogenezis (elágazás) formájában valósulhat meg."
+    },
+    {
+      "id": 34,
+      "term": "Fokozatos evolúció",
+      "definition": "Az evolúciós változás típusa, amely többnyire lassú, sok generáción keresztül valósul meg, általában izolációs folyamatok eredményeként.",
+      "quote": "Lassú fokozatos fejlődés",
+      "text": "Az izoláció során egy faj különböző populációi elkülönülnek, aminek eredményeként az elkülönülő részek között lehetetlenné válik az egyedek vándorlása. Az elkülönülő populációk genetikai sodródással vagy adaptációval sajátos úton fejlődhetnek."
+    },
+    {
+      "id": 35,
+      "term": "Allopatrikus fajképződés (földrajzi izoláció)",
+      "definition": "A fajképződés típusa, amelyekben a véletlenszerű szétválás miatt elsősorban a genetikai sodródás hatására képződnek új fajok.",
+      "quote": "Térben elkülönült populációk",
+      "text": "Földrajzi izoláció oka lehet: kontinensek vándorlása, folyók kialakulása, édesvízi tavak és óceáni szigetek elkülönülése. Az elkülönült populációk a genetikai sodródás vagy a megváltozott környezet hatására új fajokká fejlődhetnek."
+    },
+    {
+      "id": 36,
+      "term": "Szimpatrikus fajképződés (ökológiai izoláció)",
+      "definition": "A fajképződés típusa, amelyekben a populációk ugyanazon földrajzi területen különböző élőhelyeket foglalnak el és az eltérő ökológiai környezethez való alkalmazkodás hatására fejlődnek új fajok.",
+      "quote": "Azonos hely, eltérő élőhelyek",
+      "text": "A vöröshasú és sárgahasú unka hazai előfordulása példája: a sárgahasú unka főleg a hegyvidékek, a vöröshasú a síkvidékek lakója. Az ökológiai fajképződés egy jellemző példája az adaptív szétterjedés (radiáció)."
+    },
+    {
+      "id": 37,
+      "term": "Adaptív radiáció (adaptív szétterjedés)",
+      "definition": "Az evolúciós folyamat, amelynek során a túlnépesedett populációk kiszorulnak eredeti élőhelyükről és új élőhelyeken alkalmazkodnak az ott elő egyedek.",
+      "quote": "Új élőhelyek meghódítása",
+      "text": "Galápagos-szigetek pintyjei: vulkanikus szigetekre néhány egyed vetődött, az eredeti élőhelyeket foglalták el, majd új, üres élőhelyeket népesítettek be versengés nélkül. Ma 14 pintyfaj él a szigeteken, különböző csőrszerkezettel alkalmazkodva."
+    },
+    {
+      "id": 38,
+      "term": "Konvergens fejlődés (konvergencia)",
+      "definition": "Az evolúciós fejlődés típusa, amelyekben törzsfejlődéstanilag eltérő eredetű szervek a hasonló környezethez való alkalmazkodás miatt hasonlóvá válnak.",
+      "quote": "Párhuzamos alakulás",
+      "text": "A konvergens fejlődés eredményeként analóg szervek jönnek létre. Az eltérő fejlődés a divergencia, amely során az élőlények szervei alkalmazkodnak az eltérő környezeti feltételekhez."
+    },
+    {
+      "id": 39,
+      "term": "Divergens fejlődés (divergencia)",
+      "definition": "Az evolúciós fejlődés típusa, amelyekben az alapszabásában megegyező szerkezetű szervek az eltérő környezethez való alkalmazkodás miatt különböző megjelenésűvé válnak.",
+      "quote": "Eltérő alakulás közös alapból",
+      "text": "Az adaptív radiáció magyarázható a divergencia fogalmával. A szárazföldi gerinces állatok különböző végtagtípusai egy közös ötujjú típusra vezethetők vissza, de alkalmazkodtak a különféle környezeti körülményekhez."
+    },
+    {
+      "id": 40,
+      "term": "Ugrásszerű evolúció",
+      "definition": "Rövid idő - egy-két nemzedék - alatt végbemenő evolúciós változás, amely néhány egyedre terjed csak ki és új faj keletkezhet belőle.",
+      "quote": "Gyors evolúciós ugrás",
+      "text": "Módjai: génáramlás vagy genetikai sodródás révén, vagy génmutáció és kromoszómamutáció révén. A poliploidizáció (genomsokszorozódás) is hasonló eredményt hoz, amely során a kromoszómák megsokszorozódnak az osztódás során."
+    },
+    {
+      "id": 41,
+      "term": "Poliploidizáció (genomsokszorozódás)",
+      "definition": "Az evolúciós folyamat, amelyében az osztódások során a kromoszómák megsokszorozódnak, új fajok kialakulásához vezet.",
+      "quote": "Kromoszómasokszorozódás",
+      "text": "Okai: homológ kromoszómák nem válnak szét a meiózis során, vagy a sejtek mitózisuk alatt a szétváló kromatidák ugyanabba a sejtbe kerülnek. A tönkölybúza a kecskebúza és alakor búza hibridizációja és poliploidizációja útján jött létre."
+    },
+    {
+      "id": 42,
+      "term": "Az evolúció mechanizmusai",
+      "definition": "Az evolúciót meghatározó alapvető folyamatok: mutáció, genetikai sodródás, génáramlás és szelekció.",
+      "quote": "Mutáció, sodródás, áramlás, szelekció",
+      "text": "Az evolúciós folyamatoknak két szakasza van: a változatosság kialakulása (pl. mutáció) és annak terjedése (szelekció, genetikai sodródás, génáramlás). Az evolúció nem igényli új tulajdonságok megjelenését, a meglévő típusok gyakoriságának megváltozása elegendő."
+    },
+    {
+      "id": 43,
+      "term": "Relatív gyakoriság",
+      "definition": "Egy érték relatív gyakorisága az abszolút gyakoriságának osztva a sokaság elemszámával, megmutatja az érték az összes elem hányad részét.",
+      "quote": "Részarány az összes közül",
+      "text": "Az alapváltozat képlete: relatív gyakoriság = abszolút gyakoriság / összes elem száma. Az értéke 0 és 1 között, illetve 0% és 100% között van. A relatív gyakoriságok összege mindig 1, illetve 100%."
+    },
+    {
+      "id": 44,
+      "term": "Genotípus- és allélgyakoriságok",
+      "definition": "A populáció genetikai összetételét a populációban előforduló allélek relatív gyakorisága (p, q) és a genotípusok gyakorisága (D, H, R) írja le.",
+      "quote": "Populáció genetikai leírása",
+      "text": "A Hardy-Weinberg-modellben: D = p² (AA), H = 2pq (Aa), R = q² (aa), ahol p + q = 1. Az ideális populációban az allélgyakoriságok a meiózis és a véletlenszerű párosodás miatt nem változnak meg egy generáció alatt."
+    },
+    {
+      "id": 45,
+      "term": "Ideális populáció",
+      "definition": "Egy hipotetikus populáció, amely feltételei szerint: nincs szelekció, mutáció, migráció; véletlenszerű párosodás; nagy méret; nincs genetikai sodródás.",
+      "quote": "Elméleti viszonyítási alapot",
+      "text": "Az ideális populációban az allélek relatív gyakorisága nemzedékről nemzedékre nem változik (Hardy-Weinberg-törvény). A reális populációk általában eltérnek ezektől a feltételektől, így az allélgyakoriságok változnak, és evolúció történik."
+    },
+    {
+      "id": 46,
+      "term": "Reális populáció",
+      "definition": "A valódi, természetes populáció, amely eltér az ideális populáció feltételeitől: van szelekció, mutáció, migráció, nem véletlenszerű párosodás, kisebb méret.",
+      "quote": "Valódi biológiai populáció",
+      "text": "A reális populációkra nem feltétlenül érvényes az ideális populáció törvénye. Ha az ellentétes hatások kiegyenlítik egymást, a populáció genetikai egyensúlyban lehet, de általában az allélgyakoriságok változnak, evolúció történik."
+    },
+    {
+      "id": 47,
+      "term": "Koevolúció",
+      "definition": "A biológiában két vagy több faj egymással kölcsönhatásban történő evolúciója, ahol egy populáció génállománya a másik populáció hatására megváltozik.",
+      "quote": "Közös evolúciós fejlődés",
+      "text": "Példák: virágok és őket beporzó rovarok, paraziták és gazdaszervezetek, ragadozók és prédaállatok, növények és növényevők. A koevolúció a populáció szintű szelekció egy speciális esete."
+    },
+    {
+      "id": 48,
+      "term": "Fosszília",
+      "definition": "Az egykor élt élőlények különbözőképpen megőrződött maradványa, amely lehet kövület, lenyomat, borostyánkövekben zárványos, vagy hideg által konzervált.",
+      "quote": "Ős-maradványok",
+      "text": "Az ősmaradvány kialakulásának feltétele a szilárd váz és a gyors betemetődés, amely megvédi az elhalt szervezetet a pusztulástól. A fosszíliák nagyrészt tengeri üledékes kőzetekben találhatók. Az evolúció közvetlen bizonyítékai."
+    },
+    {
+      "id": 49,
+      "term": "Abszolút (radiometrikus) kormeghatározás",
+      "definition": "A kőzetekben található radioaktív elemek lebomlási ideje alapján történő kormeghatározás, amely abszolút időpontokat ad.",
+      "quote": "Radioaktív elem bomlási ideje",
+      "text": "A radiokarbon módszer: a szén-14 izotóp felezési ideje 5730 év, használatával a régészeti leletek kora 70 000 évig visszamenőleg meghatározható. A kálium-argon módszer az egészen fiatal és az igen öreg kőzetek vizsgálatára is alkalmazható, felezési ideje 1,3 milliárd év."
+    },
+    {
+      "id": 50,
+      "term": "Relatív kormeghatározás",
+      "definition": "Az ősmaradványok korának meghatározása ismert korú ősmaradványok segítségével, amely alkalmazható, ha nincs lehetőség abszolút kormeghatározásra.",
+      "quote": "Ismert kövületek referenciája",
+      "text": "A módszer: ha ismerjük egy fosszília korát, a vele egy rétegben elhelyezkedő ismeretlen ősmaradvány korát is meg tudjuk határozni. Az egymásra települt kőzetek alulról felfelé haladva egyre fiatalabbak. Vezérkövületek: Trilobita, Ammoniteszek."
+    }
+  ]
+}

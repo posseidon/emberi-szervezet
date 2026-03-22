@@ -1,0 +1,340 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Evolúció fogalma",
+      "definition": "Az élővilág fokozatos és szüntelen történeti fejlődése. Tágabb értelemben egy lassú, fokozatos, bizonyos irányba haladó változást jelent, amely az Univerzum fejlődésében, társadalmi változásokban és tudományos elméletekben is megjelenik.",
+      "quote": "Lassú, fokozatos fejlődés",
+      "text": "Az evolúció több szinten értelmezhető: fizikai evolúció (anyag fejlődése, kémiai elemek kialakulása), kémiai/molekuláris evolúció (biológiailag fontos vegyületek kialakulása), és biológiai evolúció. A biológiai evolúciót a fizikai és kémiai evolúció (prebiológiai evolúció) előzte meg."
+    },
+    {
+      "id": 2,
+      "term": "Big Bang elmélet",
+      "definition": "Az Univerzum kb. 13,7 milliárd évvel ezelőtt egy végtelen hőmérsékletű és nyomású, rendkívüli sűrűségű pontban koncentrálódott, majd tágulni és hűlni kezdett.",
+      "quote": "Univerzum kezdete",
+      "text": "Az ősrobbanást követő extrém gyors kiterjedés (kozmikus infláció) 10^-30 s-ig tartott, amely alatt a világegyetem eredeti méretének 1048-szorosára nőtt. A mai látható Univerzum 350 milliárd galaxisban 3-5×10^22 csillagot tartalmaz."
+    },
+    {
+      "id": 3,
+      "term": "Fizikai evolúció",
+      "definition": "Az anyag fejlődése és a kémiai elemek kialakulása az Univerzum történetében. Az ősrobbanást követő elemképződés a vasig terjedő elemeket hozta létre, az ennél nehezebbek csak szupernóva-robbanásban jöhettek létre.",
+      "quote": "Elemek kialakulása",
+      "text": "A legegyszerűbb elemek (H, He, Li) kb. 380 000 év alatt jöttek létre. A csillagok belsejében uralkodó viszonyok a vasig terjedő elemek képződéséhez vezettek. A Naprendszer 4,6 milliárd évvel ezelőtt szupernóva-robbanás maradványaiból sűrűsödött össze."
+    },
+    {
+      "id": 4,
+      "term": "Föld kialakulása",
+      "definition": "A Föld kozmikus porból és gázból álló felhőkből gravitációs hatásra sűrűsödött össze. Egy Mars méretű égitest ütközésből jött létre a Hold. Különböző sűrűségű összetételű övekből (magnézium-szilikai köpeny, vasmagot) áll.",
+      "quote": "Gravitációs tömörödés",
+      "text": "Az ősanyag megolvadt és eltérő sűrűségű övekre rétegződött. A Föld éppen úgy, mint a többi belső bolygó, különböző méretű, összetételű, a központi vasmagtól a kéregig csökkenő sűrűségű övekből áll. A Föld korai állapotában kialakultak az alapvető felszíni jellegek."
+    },
+    {
+      "id": 5,
+      "term": "Őslégkör kialakulása",
+      "definition": "A Föld legelső légköre meteorok, üstökösök és bolygókezdemények becsapódásából, valamint vulkanizmusból származó gázokból képződött (CO₂, N₂, H₂, SO₂, vízgőz, NH₃, HCN, CH₄, H₂S).",
+      "quote": "Vulkáni gázleadás",
+      "text": "A szén-dioxid mennyisége jelentősen meghaladta a jelenlegi értéket (egyesek a jelenlegi tízszeresét becsülik). Az oxigéntartalom elhanyagolhatóan csekély volt. A széndioxid-koncentráció csökkenésének oka az ősóceánok kialakulása és a fotoszintézis megjelenése volt."
+    },
+    {
+      "id": 6,
+      "term": "Ózonréteg kialakulása",
+      "definition": "Az ózon (O₃) egy három oxigénatomból álló instabil molekula. A légkör 20-30 km magasságában köpenyszerűen veszi körül a Földet, hőmérséklete eléri a 60 °C-ot. Az UV-sugarak legnagyobb részét kiszűri.",
+      "quote": "UV-védelem az élet számára",
+      "text": "Az ózon rendkívül fontos az élővilág számára, mert kiszűri az UV-sugárzás (100-400 nm hullámhosszúság) legnagyobb részét. Az O₂ két forrása az UV-sugárzás által okozott vízbontás és az oxigéntermelő fotoszintézis volt."
+    },
+    {
+      "id": 7,
+      "term": "Ősóceán kialakulása",
+      "definition": "Kb. 4,3 milliárd évvel ezelőtt, amikor a hőmérséklet elérte a 100°C-ot, megkezdődött a vízgőz cseppfolyósodása és az óceánvizek kialakulása. A víz jeges üstökösökből és vulkanikus kigőzölgésekből származott.",
+      "quote": "Folyékony víz a Földön",
+      "text": "Az ősóceán kialakulása kritikus volt az élet lehetőségéhez. A víz egy része a becsapódó jeges üstökösökből, másik része vulkanikus kigőzölgésekből származott. Az ősóceánok szén-dioxidot nyeltek el, karbonátos kőzeteket hozva létre."
+    },
+    {
+      "id": 8,
+      "term": "Pánspermia-elmélet",
+      "definition": "Az élet nem a Földön keletkezett, hanem valahol a Földön kívül, és egy kisbolygó vagy meteorit útján került a Földre. A szerves anyagok csillagközi molekuláris porfelhőkben, meteoritokban és üstökösökben is megtalálhatók.",
+      "quote": "Élet az űrből",
+      "text": "Az Allen Hills meteoritban (ALH84001) 4,5 milliárd éves anyagból vannak fosszilizálódott mikrobák nyomai. A Stardust és Deep Impact űrmissziók szénhidrogén-molekulákat és szerves molekulákat találtak az üstökösökben. A porrészecskék katalizátorként működhetnének az egyszerűbb szerves molekulákból bonyolultabbak létrehozásában."
+    },
+    {
+      "id": 9,
+      "term": "Miller kísérlete",
+      "definition": "Stanley Miller 1953-ban végzett kísérletet, amely bizonyította az abiotikus szervesanyag-képződést. H₂O, CO, CO₂, CH₄, NH₃ és H₂ gázokat elektródákon keresztül szikrázott, amely a korai Föld villámlásait modellezett.",
+      "quote": "Szerves molekulák képződnek",
+      "text": "Az eszköz szimulálta a víz körforgását. A lecsapódott vízből végzett vegyelemzés azt mutatta, hogy a szén 10-15%-a alakult át szerves vegyületté. Ezek az egyszerű szerves molekulák (aminosavak, karbonsavak) belemosódtak az ősóceánba, ahol mennyiségük növekedett (ősleves)."
+    },
+    {
+      "id": 10,
+      "term": "Abiotikus szervesanyag-képződés",
+      "definition": "A szerves vegyületek megjelenésére vonatkozó elmélet szerint az oxigénmentes őslégkörben villámlás és UV-sugárzás hatására egyszerű szerves molekulák keletkeztek, amelyek az ősóceánba mosódtak be (ősleves-elmélet).",
+      "quote": "Szerves élet előtti képződés",
+      "text": "Az elmélet Stanley Miller és Harold Urey munkásságáról ismert. Ez az abiotikus szervesanyag-képződés (abiogén képződés) magyarázza az első organikus vegyületek létezését. Az egyszerű szerves monomerek később összekapcsolódva bonyolultabb makromolekulákká alakultak."
+    },
+    {
+      "id": 11,
+      "term": "Koacervátum",
+      "definition": "Makromolekuláris rendszer, amely az óriásmolekulák vizes közegben spontán nagyobb cseppekké összeállásából jön létre. Oparin fehérjékből és poliszacharidokból mikroszkopikus cseppeket figyelt meg.",
+      "quote": "Élethez hasonló cseppek",
+      "text": "Az Oparin-féle koacervátum-modellben a cseppek anyagcserét folytatnak, anyagokat vesznek föl és adnak le, nyílt rendszerként működnek, növekednek és szaporodnak. Azonban nincsenek öröklődő tulajdonságaik, nem tartanak fenn homeosztázist, nem alkalmazkodnak, nem ingerlékenyek. Lehetnek a kémiai evolúció egy állomása."
+    },
+    {
+      "id": 12,
+      "term": "Chemoton-elmélet",
+      "definition": "Gánti Tibor által megalkotott elmélet, amely az élő rendszerekre vonatkozó alapkritériumokat foglalja magába: anyagcsere, állandóság, önfenntartás, elhatárolódás, növekedés, szaporodás, öröklödés.",
+      "quote": "Élet biokémiai modellje",
+      "text": "A chemoton egy kémiai szuperrendszer, mely három autokatalitikus alrendszert tartalmaz: egy reakcióciklust (anyagcsereciklus), egy információtárolót (RNS, DNS) és egy határolórendszert (foszfolipidek alkotta membrán). Ez az Oparin-féle modellt továbbfejlesztette."
+    },
+    {
+      "id": 13,
+      "term": "RNS-világ",
+      "definition": "Az élet keletkezésének máig megválaszolatlan problémájára (tyúk-tojás probléma: melyik jött létre előbb, fehérjék vagy DNS?) megoldást adtak a ribozimok. Egyes RNS-ek enzimként (ribozimként) működve más RNS-eket hasítanak vagy a fehérjeszintézist katalizálják.",
+      "quote": "RNS információ és enzim",
+      "text": "Az RNS-világban az RNS-molekulák töltötték be mind az információtárolás, mind az enzimek szerepét. A retrovírusok (HIV, koronavírusok) RNS örökítőanyaggal rendelkeznek, amely reverz transzkriptáz enzim segítségével DNS-molekulába íródik át. Ez arra utal, hogy az élet RNS-sel kezdődhetett."
+    },
+    {
+      "id": 14,
+      "term": "Sztromatolitok",
+      "definition": "Az első életformák legrégebbi fosszilis geológiai maradványai. Kb. 3,4 milliárd évesek. Réteges, párnaszerű üledékes kőzetek, amelyek ősi kékbaktériumok sejtjei körüli mészkiválás eredményeképpen jöttek létre.",
+      "quote": "Élet legrégebbi nyomai",
+      "text": "Ezek Földünk legrégibb ismert élőlényei. Valószínűleg ez előtt, akár már 3,8 milliárd éve, 10-13 m magas vízoszlop alatt – ahová a roncsoló UV-sugárzás nem jutott le – megjelenhetett az élet a Földön. Az első sejtek anaerob, heterotróf, prokarióta ősbaktériumok lehettek."
+    },
+    {
+      "id": 15,
+      "term": "LUCA (Last Universal Common Ancestor)",
+      "definition": "Az utolsó egyetemes közös ős. A feltételezett LUCA a törzsfa legalján foglal helyet, és minden ma ismert élőlény tőle származtatható. Az első sejtek kb. 3,5-4 milliárd évvel ezelőtt jöttek létre.",
+      "quote": "Összes élet közös őse",
+      "text": "A LUCA az első anaerob, heterotróf prokarióta ősbaktérium volt, amely az ősóceán szerves anyagait használta fel. Ez a közös ős nélkülözhetetlen a modern evolúcióelméletnél, és biztosítja az összes ma élő szervezet közös eredete közötti kapcsolatot."
+    },
+    {
+      "id": 16,
+      "term": "Ősbaktériumok (Archaea)",
+      "definition": "A prokarióták egyik fő csoportja, amely szélsőséges körülmények között képes élni és szaporodni. Fehérjeszintézisük és genetikai anyaguk átírási módja alapján az eukarioták ősi ágának tekintik.",
+      "quote": "Szélsőséges körülmények lakói",
+      "text": "A termofilek 80°C-nál melegebb helyeken, gejzírekben élnek. A halofilek rendkívül sós vizekben találhatók (Holt-tenger). A metanogének anaerob környezetben (kérődzők bendőjében, mocsarákban) végzik feladatukat. Az ősbaktériumok törzsfejlődéstanilag sokkal közelebb állnak az eukariótákhoz, mint a valódi baktériumokhoz."
+    },
+    {
+      "id": 17,
+      "term": "Oxigén-válság (O₂-krízis)",
+      "definition": "Amikor az oxigéntermelő fotoszintézis megjelent (kb. 3,5 milliárd éve), az anaerob, O₂-mentes környezetben kialakult élőlények számára az oxigén mérgező hatású volt, mivel nagyon reaktív volt.",
+      "quote": "Oxigén méreg az anaerob élőlényeknek",
+      "text": "Az oxigén jelentősebb (0,1%) megjelenése után kb. 2,5 milliárd évvel ezelőtt az anaerob sejtek választási lehetőségei voltak: olyan anaerob környezetbe bújtak (mélytengerek), vagy kifejlesztettek enzimes védekezést és kialakultak az aerob baktériumok. Az O₂ pozitív hatásai az ózonréteg kialakulása és az aerob légzés révén jelentkeztek."
+    },
+    {
+      "id": 18,
+      "term": "Fotoszintézis és kémiai evolúció",
+      "definition": "A kb. 3,5 milliárd éve megjelenő oxigéntermelő fotoszintézis (6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂) az ősleves szerves anyag-fogyásának problémájára megoldást adott. Az autotróf szervezetek CO₂-t használtak szénforrásként.",
+      "quote": "Élet áttérése fotoszintézisre",
+      "text": "Az első válság akkor következett be, amikor az őslevesből elfogytak az energia szolgáltató szerves vegyületek. Azok a sejtek jutottak előnyhöz, amelyek a légkör CO₂-ját tudták hasznosítani. A CO₂ bőven volt jelen, az energia pedig a fényből nyerődött. Az oxigéntermelés az ózonréteg kialakulásához vezetett."
+    },
+    {
+      "id": 19,
+      "term": "Eukarioták kialakulása",
+      "definition": "Az eukarióta sejtek az ősi prokarióták egy csoportjából kialakultak kb. 1,5-2 milliárd évvel ezelőtt. A sejthártya befűződésével a DNS-t kettős membránnal körbevette, létrehozva a valódi sejtmagot.",
+      "quote": "Sejtmag kialakulása",
+      "text": "Az eukarióta sejtek létrejöttét az endoszimbióta elmélettel magyarázzák. Az ősi prokarióták egy csoportjában sejthártya befűződött, és a DNS-t kettős membránnal vette körül. A prokarióták mintegy 2 milliárd éven keresztül egyedül uralták a Földet, míg kialakultak az eukarióták."
+    },
+    {
+      "id": 20,
+      "term": "Endoszimbióta elmélet - mitokondrium",
+      "definition": "Az oxigén gyarapodásával az eukarióta sejtek őse szimbiózisot alakított ki egy aerob heterotróf baktériummal, így alakult ki az eukarióták mitokondriuma. Az ősi eukarióta sejt bekebelezte a baktériumot, nem emésztette meg, tartós szimbiózisra lépett vele.",
+      "quote": "Energia-háztar-tartó baktérium",
+      "text": "A mitokondrium saját DNS-szel rendelkezik (gyűrű alakú, hisztonokat nem tartalmaz), önálló osztódásra képes, saját fehérjeszintetizáló képességgel rendelkezik. A mitokondriumokat kettős membrán határolja, amelynek belső membránja az eredeti prokarióta sejt saját membránja."
+    },
+    {
+      "id": 21,
+      "term": "Endoszimbióta elmélet - kloroplaszt",
+      "definition": "A színtestek (kloroplasztok) kialakulása egy aerob fototróf kékbaktérium bekebelezésére vezethetők vissza. Az eukarióta sejt szimbiózist alakított ki a fototrófokkal, létrehozva a fotoszintézisre képes organizmusokat.",
+      "quote": "Fotoszintézis szervecskéje",
+      "text": "A kloroplasztok is saját DNS-szel rendelkeznek, önálló osztódásra képesek, és saját fehérjeszintetizáló képességgel bírnak. Kettős membrán határolja őket, ahol a belső membránja az eredeti prokarióta sejt saját membránja. Ez az elmélet számos bizonyítékkal támasztott alá."
+    },
+    {
+      "id": 22,
+      "term": "Föld Naprendszeren belüli elhelyezkedése",
+      "definition": "A Föld létezésének és az élet kialakulásának feltétele az ötlet a Naprendszeren belüli helyzetében rejlik. A bolygó megfelelő távolságban kering a Naptól az élet számára szükséges viszonyokat biztosítva.",
+      "quote": "Megfelelő távolság az élettől",
+      "text": "Egy nagyobb csillag életideje kisebb, így nem lenne elég idő az élet kifejlődésére. A csillag legyen több milliárd éves (Nap-típusú). Túl kicsi csillag annyira kevés hőt sugározna, hogy csak csillagközelben keringhetne a bolygó, amely forró és fagyott oldalú lenne. A csillagnak bolygórendszere kell, üstökösök és kisbolygók biztosítják a vizet."
+    },
+    {
+      "id": 23,
+      "term": "Életövezet (Habitable Zone)",
+      "definition": "A bolygó körül az az intervallum, ahol a megfelelő feltételek az élet kialakulásához és fennmaradásához biztosítottak. Ez az övezet a csillag nagyságától és távolságától függ.",
+      "quote": "Élet lehetséges övezete",
+      "text": "Minden csillaghoz rendelhető egy méret és egy távolság, amely megfelelő körülményeket biztosít az élet kialakulásához. A bolygónak megfelelő méretűnek, sűrűségűnek, anyagúnak kell lennie, folyékony vízzel rendelkezzen. Mágneses tere, tömeget légkörtartó képessége szükséges. A forgási sebesség légtömegeket, tengeráramlatokat hozza létre."
+    },
+    {
+      "id": 24,
+      "term": "Bolygó adottságai az élethez",
+      "definition": "Az élethez szükséges bolygó-feltételek: megfelelő méret, sűrűség, anyag, szilárd felszín, folyékony víz, mágneses tér, légkör megtartó tömeg, megfelelő hőmérséklet, összetétel, áteresztés, nyomás, ózonpajzs.",
+      "quote": "Élet bolygó-feltételei",
+      "text": "A bolygó forgási sebessége légtömeg-áramlásokat és tengeráramlatokat hoz létre az egyenletesebb klíma érdekében. A légkör összetétele, sűrűsége, nyomása megfelelő kell legyen. Az ózonpajzs az UV-sugárzás ellen véd. A folyékony víz minden földi élet alapja. A csillag megfelelő Nap-típusú, több milliárd éves kell legyen."
+    },
+    {
+      "id": 25,
+      "term": "Főemlősök evolúciója",
+      "definition": "Kb. 60-70 millió évvel ezelőtt az ősi rovarevő emlősökből indult el a főemlősök evolúciója. Megjelent a csökkent fogszám, differenciálódott fogak, szembefordítható hüvelykujj, előre kerülő szemek (térlátás), lehetővé téve a fákon élő életmódot.",
+      "quote": "Fa lakók kialakulása",
+      "text": "A főemlősök csoportjai: félmajmok, valódi majmok (szélesorrú újvilági és keskenyorrú óvilági), cerkófok, emberszerűek (gibbonfélék), emberfélék (hominidák). Az emberfélék közös őse a kb. 15 millió éve kialakult afrikai Ramapithecus volt. Ramapithecus leletek Európából és Ázsiából is előkerültek, európai képviselői a Dryopithecusok voltak."
+    },
+    {
+      "id": 26,
+      "term": "Emberfélék szétválása",
+      "definition": "Az orangután ősei kb. 14 millió évvel ezelőtt, a gorillák kb. 7-8 millió évvel ezelőtt, a csimpánzok kb. 5-6 millió évvel ezelőtt váltak el az ember fejlődésétől.",
+      "quote": "Emlős nemzetségek divergenciája",
+      "text": "A Rudapithecus hungaricus 10-12 millió éves magyarországi leletek agytérfogata 300-340 cm³ körüli volt, intelligenciája a mai páviánok szintjét érhette el. Ezek a szétválási folyamatok Afrika ökológiájában történtek, ahol a zárt erdőségeket ligetes szavannák váltották fel."
+    },
+    {
+      "id": 27,
+      "term": "Australopithecus",
+      "definition": "Kb. 5-6 millió évvel ezelőtti szétválási folyamat során Afrikában kialakult déli majmok (Australopithecus). Az Australopithecus leletek 5-2 millió év közöttiek. Átmenetet mutattak az emberszabású majmok és az ember között.",
+      "quote": "Felegyenesedett járás",
+      "text": "Afrika klímája szárazabbá és hűvösebbé lett, a zárt erdőségeket ligetes szavannák váltották fel. A fán lakó életmódról áttértek a talajon tartózkodó életmódra, ahol a magas fűben előnyt jelentett a két lábon járás. Ez felszabadította a kezeket a szerszámhasználathoz. Kb. 4-5 faj élt egyszerre, majd kb. 1 millió éve kihaltak."
+    },
+    {
+      "id": 28,
+      "term": "Australopithecus jellegzetességei",
+      "definition": "Emberszabásúnak tartott: nagy arc, kis agykoponya. Emberre jellemző: felegyenesedett járás (kiszélesedett medence, kettős S alakú gerincoszlop), eszközhasználat (kőszerszámok), foghézag nélküli szemfogak.",
+      "quote": "Átmenet majom és ember között",
+      "text": "Az agykoponya hallójárat nyílása felett a legszélesebb volt. A korai Australopithecusokból jöttek létre a Homo nemzetség fajai. A késői Australopithecusok zsákutcát jelentettek, nem vezettek az emberhez. Az emberiség bölcsője Kelet-Afrikában van."
+    },
+    {
+      "id": 29,
+      "term": "Homo habilis",
+      "definition": "Az 'ügyes ember' korai Australopithecusokból alakult ki. Az első lelet 1,8 millió éves. Agykoponya kb. 700 cm³ körüli. Stabil két lábon járás, már nem fogásra alkalmas láb. Pattintott kőeszközök 2,5 millió évesek. Szájpadlás alapján megjelentek a beszéd elemei.",
+      "quote": "Ügyes ember szerszámokkal",
+      "text": "A Homo habilis az emberiség bölcsőjében, Kelet-Afrikában élt 2,5-1,5 millió évvel ezelőtt. Az eszközkészítés megjelenése a Homo nemzetség legfontosabb jellegzetessége. Ez az első igazi ember az evolúciós sorban, aki eszközöket tudatosan készített és használt."
+    },
+    {
+      "id": 30,
+      "term": "Homo erectus",
+      "definition": "A 'felegyenesedett ember' a Homo habilisből jött létre, legidősebb leletek 1,5 millió évesek. Egyenes combcsont, felegyenesedett testtartás. Húsevő vadászok voltak. Használták a tüzet, kőeszközöket készítettek, hordákban éltek.",
+      "quote": "Tűz és vadászat",
+      "text": "Több csoportjuk több hullámban kivándorolt Afrikából. A jávai előember 800 000 éves, agykoponyája 800 cm³. A pekingi előember 600 000 éves, agytérfogata 1100 cm³. A vértesszőlősi előember 300 000 éves, agytérfogata 1200 cm³. Barlangokban laktak, kannibálok voltak, halottaikat nem temették el."
+    },
+    {
+      "id": 31,
+      "term": "Homo heidelbergensis",
+      "definition": "A Homo erectusok egyik fejlődési ágából alakult ki. Melyből Afrikában a Homo sapiens, Európában a Homo neanderthaliensis alakult ki (közvetlen közös ős). Ez a faj a neandervölgyiek és a modern ember közös őse.",
+      "quote": "Közös ős két emberfajnak",
+      "text": "A Homo heidelbergensis a paleolitikum közép-szakaszában élt. Ezt a fejlődési vonalat kettévált: az egyik kihalt fejlődési ágat a Neander-völgyi ősember képviselte, a másik pedig a Homo sapienshez vezetett."
+    },
+    {
+      "id": 32,
+      "term": "Homo neanderthaliensis",
+      "definition": "A Neander-völgyi ősember kb. 200 000 éve alakult ki Európában. Magassága 158 cm körüli, lábaik feltűnően rövidek, zömök testalkatuk a jégkorszaki klímához való alkalmazkodást tükrözik. Agykoponyájuk 1500 cm³ körüli, az összes ember közül a legnagyobb.",
+      "quote": "Jégkorszaki ősember",
+      "text": "Felsőtestük előrehajolt, gerincoszlopuk egyenes volt, homlokuk lapos, homlokeresze erős. Még nem volt állcsúcsuk. Hordában éltek, barlangokban laktak, vadásztak, pattintott kőszerszámokat készítettek. Nagyobb vadaknak csapdákat állítottak, húsukat megsütötték, tüzet használtak, kannibalizmusra voltak hajlamosak, halottaikat eltemették. Kb. 30 000 évvel ezelőtt eltűntek. Hazai leletek: Szeleta-barlang, Istállós-kői-barlang, Suba-lyuk barlang."
+    },
+    {
+      "id": 33,
+      "term": "Homo sapiens kialakulása",
+      "definition": "A korai Homo sapiens kb. 300 ezer éve alakulhatott ki É-Afrikában, melyből kb. 100 000 éve jött létre a mai modern embertípus. A modern emberhez vezető fejlődési ág a neandervölgyiektől elkülönült.",
+      "quote": "Modern ember eredetének",
+      "text": "Valószínűnek tűnik, hogy a korai Homo sapiens kb. 300 000 évvel ezelőtt jött létre, majd kb. 100 000 éve a mai modern embertípus. Az emberiség ma csak egy fajba tartozik (Homo sapiens), egyetlen alfaja (Homo sapiens sapiens)."
+    },
+    {
+      "id": 34,
+      "term": "Cro-Magnoni ember",
+      "definition": "A Homo sapiens másik fejlődési ágának fosszilis képviselője. Európában kb. 40 ezer éve jelent meg. Agytérfogata 1400 cm³, nincs homlokeresze, kialakult az állcsúcs (tagolt beszéd). Csonteszközöket, művészi alkotásokat készített (Willendorfi Vénusz, barlangrajzok). Több típusa jött létre, melyek a nagyrasszok őseinek tekinthetők.",
+      "quote": "Művészeti ember",
+      "text": "A cro-magnoni ember már nem különbözött szignifikánsan a mai embertől. Képes volt művészeti kifejezésre, szofisztikált eszközöket készített, komplex társadalmi struktúrákban élt. A különböző típusok a mai nagyrasszok ősei voltak."
+    },
+    {
+      "id": 35,
+      "term": "Homo sapiens kialakulásának elméletek",
+      "definition": "Kétféle elmélet ismert: 1) Többközpontú (multiregionális) elmélet: az afrikai, közel-keleti és távol-keleti Homo erectus populációkból egymástól függetlenül fejlődött ki a Homo sapiens. 2) Egyközpontú elmélet: kizárólag Afrikában alakult ki kb. 300 000 éve, majd több hullámban vándorolt szét.",
+      "quote": "Modern ember originálisa",
+      "text": "A többközpontú elmélet szerint a Neander-völgyi emberek lennének az európai Homo sapiens közvetlen elődei, azonban molekuláris biológiai vizsgálatok (mitokondriális DNS, Y-kromoszóma) ezt megcáfolták. Az egyközpontú elmélet szerint az afrikai Homo sapiens kiszorította az addig ott élő Homo erectus populációkat. Az egyközpontú elmélet a genetikai hasonlóság alapján támasztott alá (99,7% genetikai hasonlóság)."
+    },
+    {
+      "id": 36,
+      "term": "Nagyrasszok (emberfajták)",
+      "definition": "Az emberi evolúció során kialakult, az egyes földrajzi területeknek megfelelően a környezethez való alkalmazkodás eredményeként létrejött emberi fajok csoportjai. Az európai rendszer szerint négy nagyrassz létezik: negrid, europid, mongoloid, veddo-ausztralid.",
+      "quote": "Emberi biológiai csoportok",
+      "text": "A nagyrasszokat további alcsoportokra (rasszokra) szokták osztani antropológiai szempontok alapján. Az emberi nagyrasszok közötti legszembetűnőbb különbség a bőrszínben mutatkozik meg. Azonban genetikai szempontból a nagyrasszok közötti és az azokon belüli különbség nagyon csekély, a legnagyobb 0,176%, amely alig 11%-a az ember és a csimpánz genetikai állománya közötti 1,6%-os relatív különbségnek."
+    },
+    {
+      "id": 37,
+      "term": "Nagyrasszok és értékbeli különbségek",
+      "definition": "Az ember evolúciója során kialakult nagyrasszok értékükben nem különböznek. A biológiai és kulturális örökség az emberiség közös kincse. A 99,7%-os genetikai hasonlóság alapján megállapítható, hogy a ma élő összes ember egy fajba (Homo sapiens) tartozik.",
+      "quote": "Közös emberi örökség",
+      "text": "A rasszizmus egy olyan gondolkodásmód, amely az egyes embercsoportok között külsődleges jegyek, kulturális eltérések alapján értékbeli különbséget állít fel. Ez tudományosan alaptalan, mivel genetikai szempontból a különbségek minimálisak. Az emberiség egységes szervezete mindannyiunkat összeköt a közös evolúciós múlt által."
+    },
+    {
+      "id": 38,
+      "term": "Emberré válás biológiai jellegzetességei",
+      "definition": "Két lábon járás, medence és combcsont szögének megváltozása, medenceöv kiszélesedése, gerincoszlop gyenge S alakú hajlása, lábfejboltozat kialakulása, mély háti izom megerősödése, ívelt nagyujj vaskos, a fej a test tetejére került.",
+      "quote": "Biológiai emberi vonások",
+      "text": "Az öreglyuk a koponya aljára kerül. A koponyán a csonttarajok megszűnnek. Az agykoponya nő (1400 cm³), az arckoponya csökken, arányuk megváltozott. Az agyvelő-gerincvelő súlyarány az agyvelő javára tolódik el. Az eszközkészítés kb. 2,5 millió éve (pattintott kőeszközök), a tűz használata 1 millió éve alakult ki."
+    },
+    {
+      "id": 39,
+      "term": "Ember vs. emberszabású majom összehasonlítása",
+      "definition": "Az ember agykoponyája 1400 cm³ vs. 4-500 cm³. Az arckoponya az embernél kisebb, az agykoponya nagyobb. Az öreglyuk helye: ember alapján hátul vs. majom oldalt. Az ember homloka magas, egyenes; a majomé hátrahajló.",
+      "quote": "Szellemi és fizikai különbség",
+      "text": "Az ember nem rendelkezik homlokeresze (erős az majmoknál). Az ember 32 fogú, fogai kisebbek, szemfogai kisebbek. Az embernek foghézagmentes a fogsor, a majomnak hézag van. Az emberé parabola-alakú fogív (széttartó), a majomé U-alakú (párhuzamos). Az embernek van állcsúcsa (tagolt beszéd), a majomnak nincs."
+    },
+    {
+      "id": 40,
+      "term": "Ember és emberszabású majom gerincoszlop-különbsége",
+      "definition": "Az ember gerincoszlopa kettős S alakú (kétlábú járáshoz), az emberszabású majomé ívelt. Az ember medencecsontja kiszélesedett (kétlábú járáshoz), a majomé keskeny. Az ember mellkasa hát-hasi irányban lapított, a majomé oldalirányban lapított.",
+      "quote": "Kettős S görbe járási lenyomata",
+      "text": "Az ember felső végtagja rövidebb, alsó hosszabb és erőteljesebb, a majomé ennek az ellenkezője: felső végtag hosszabb. Az ember talpon nem fordítható hüvelykujja, a majomé fordítható. Az ember vércsoportjai: A, B, AB, 0. Az ember 23 párja kromoszóma, a majomé 24 pár."
+    },
+    {
+      "id": 41,
+      "term": "Ember és emberszabású majom fejlődés-különbségei",
+      "definition": "Az ember terhessége 9 hónap (majom is 9 hónap), azonban az ember gyermekkora lassúbb, hosszabb. Az ember tanulási ideje hosszabb, a szocializáció mélyebb. Az embernél az érzelmi kifejezés mimikai izmokkal bonyolultabb. Az ember szerszámokat készít, a majom csak használ.",
+      "quote": "Hosszú gyermekkor és tanulás",
+      "text": "Az embernek lassúbb gyermekkora, hosszabb tanulási időszaka van, amely lehetővé teszi a mélyebb szocializációt és a kultúra átadását. Ez az emberi faj egyik legfontosabb jellegzetessége: a társadalmi és kulturális fejlődés képessége, amely a puszta biológiai evolúción túl halad."
+    },
+    {
+      "id": 42,
+      "term": "Korai emberfélék evolúciós timeline",
+      "definition": "60-70 millió éve: főemlősök evolúciójának kezdete. 15 millió éve: Ramapithecus. 10-12 millió éve: Dryopithecus (Rudabánya). 5-6 millió éve: Australopithecus. 2,5-1,5 millió éve: Homo habilis. 1,5-0,1 millió éve: Homo erectus.",
+      "quote": "Evolúciós idősor millióévekben",
+      "text": "200 000 éve: Homo neanderthaliensis. 300 000 éve: korai Homo sapiens. 40 000 éve: Cro-Magnoni ember. 30 000 éve: Homo neanderthaliensis eltűnik. A mai Homo sapiens az egyetlen túlélő emberfaj, amely az afrikai bölcsőből indult, majd világszerte elterjedt."
+    },
+    {
+      "id": 43,
+      "term": "Szerszámhasználat fejlődése",
+      "definition": "2,5 millió éve: pattintott kőeszközök (Homo habilis). 1 millió éve: tűz használata, barlangok használata (Homo erectus). Neander-völgyi: csapdák, húsmegsütés. Cro-Magnoni: csonteszközök, művészi alkotások.",
+      "quote": "Technológia fejlődési lépcsőfoka",
+      "text": "Az eszközhasználat az emberiség fejlődésének jelei közül az egyik legfontosabb. Az első szerszámok egyszerű pattintott kőeszközök voltak, majd fokozatosan fejlődtek: csonteszközök, művészi alkotások. Ez a technológiai fejlődés az agykapacitás növekedésével párhuzamosan történt, és az ember szellemi fejlődésének tükre."
+    },
+    {
+      "id": 44,
+      "term": "Beszéd és nyelv fejlődése",
+      "definition": "Homo habilis szájpadlása alapján megjelentek a beszéd elemei. A valódi emberek fejlődésének legfontosabb jellemzője a nyelvfejlődés. Homo neanderthaliensis használhatott már elemei a beszédnek. Homo sapiens teljesen kifejlett nyelvvel rendelkezett.",
+      "quote": "Szimbolikus kommunikáció",
+      "text": "A kialakult állcsúcs (Homo sapiens) lehetővé tette a tagolt beszédet. A Homo neanderthaliensis fosszilis maradványai azt mutatják, hogy hallójárata már felkészült a beszéd befogadására. A modern ember szofisztikált nyelvvel rendelkezett, amely lehetővé tette a komplex gondolatok kifejezését és az ismeret átadását."
+    },
+    {
+      "id": 45,
+      "term": "Társas és kulturális fejlődés",
+      "definition": "Homo erectus: hordákban élt, közös vadászat. Homo neanderthaliensis: hordákban élt, halottaikat eltemette (vallási szokások?). Homo sapiens: komplex társadalmi struktúrák, művészeti kifejezés, halottainak temetkezési rítusai.",
+      "quote": "Közösségi és szellemi élet",
+      "text": "A társas kapcsolatok fejlődése az emberi evolúció kritikus tényezője. A halottaknak az eltemetetésének gyakorlata vallási vagy szimbolikus gondolkodásra utal. Az emberi kultúra fejlődése párhuzamosan haladt a biológiai fejlődéssel, és végül túllépett rajta."
+    },
+    {
+      "id": 46,
+      "term": "Asztrobiológia",
+      "definition": "Az asztrobiológia tudománya a Földön kívüli élet kutatásával foglalkozik. Alapproblémája, hogy egyáltalán mi az 'élet'. A kutatás során figyelembe kell venni a központi csillag típusát, a bolygó adottságait, az életövezetet (habitable zone).",
+      "quote": "Élet az Univerzumban",
+      "text": "Az asztrobiológia abból indul ki, hogy a máshol keletkezett élet hasonló feltételek között jöhetett létre, mint a Földön. Azonban azt is mérlegelni kell, hogy más környezetben eltérő életformák jöhetnének létre. Az Univerzumban 100 milliárd galaxis van, bennük egyenként átlagosan 100 milliárd csillag, így milliárdnyi potenciálisan lakható bolygó létezik."
+    },
+    {
+      "id": 47,
+      "term": "Szén-alapú élet és folyékony víz",
+      "definition": "Az asztrobiológia alapfeltevése, hogy a galaxisunkban található életformák szénalapúak kell legyenek, mint a Földön. A folyékony víz jelenléte elengedhetetlen, mivel a víz minden földi élet alapja. Ez a feltételezés a szén és víz univerzális kémiájára alapszik.",
+      "quote": "Szén és víz alapvetők",
+      "text": "A szén sokféle vegyületet képez, amelyek biológiai fontosságúak. A víz kiváló oldószer, amely az említett szénhidrogén vegyületeket oldja. Az Univerzum leggyakoribb háromatomos molekulája valóban a víz, és az első aminosavak (glicin) is megtalálhatók voltak a csillagközi porban."
+    },
+    {
+      "id": 48,
+      "term": "Prebiológiai evolúció és élet keletkezésének modellei",
+      "definition": "A prebiológiai evolúció a fizikai és kémiai evolúciót magában foglalja az élet kialakulása előtt. Az élet keletkezésének magyarázatára több elmélet ismert: Pánspermia, Ősleves-elmélet, Koacervátum, Chemoton, RNS-világ.",
+      "quote": "Élet előtti kémia",
+      "text": "A prebiológiai evolúció az abiotikus szervesanyag-képződéstől (Miller kísérlet) a cseppek képzésén (koacervátum) át az információtárolórendszerek (RNS) megjelenéséig terjed. Ezek az elméletek magyarázzák, hogyan lehetett az élettelen anyagból élet létrejönni az első 'sejtek' megjelenése előtt."
+    }
+  ]
+}

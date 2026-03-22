@@ -1,0 +1,179 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi az elsődleges és másodlagos nemi jelleg?",
+      "definition": "Elsődleges nemi jellegek: a nemi szervek és ivarsejt-termelés eltérő fejlődése. Másodlagos nemi jellegek: a szaporodással közvetlenül nem kapcsolódó, de nemhez kötött testi és pszichikus tulajdonságok (szőrzet, csontrendszer, hang, psziché).",
+      "quote": "Reproduktív és másodlagos jellegek",
+      "text": "Az elsődleges jellegek az ivarmirigyek funkciójára alapulnak. A másodlagos jellegek a pubertáskorban alakulnak ki a nemi hormonok hatására. A nemi identitás biológiai és pszichoszociális tényezők komplexe."
+    },
+    {
+      "id": 2,
+      "term": "Mi az irány a nem meghatározásának?",
+      "definition": "1. Kromoszomális nem: XX (női) vagy XY (hím). 2. Gonadális nem: petefészek (női) vagy here (hím). 3. Genitális (fenotípusos) nem: külső ivarszervek minősége. 4. Pszichés nem: szexuális magatartás és nemi identitás. 5. Nemi magatartás: társadalom által meghatározott viselkedésforma.",
+      "quote": "Öt szint nemei meghatározása",
+      "text": "Minden szint biológiai vagy pszichoszociális tényezőkön alapul. A különböző szintek általában kongruensek, de bizonyos körülmények között eltérések alakulhatnak ki. A születéskor meghatározott nem továbbá fejlődik."
+    },
+    {
+      "id": 3,
+      "term": "Milyen a here felépítése és funkciója?",
+      "definition": "A here kanyargós herecsatornácskákból áll. A csatornácskák falában képződnek a hímivarsejtek. A csatornácskák közötti kötőszövetben helyezkednek el a tesztoszteront termelő Leydig-sejtek. A here endokrin és exokrin szervként működik.",
+      "quote": "Gamét termelés és hormonzást",
+      "text": "A here a hasüregben fejlődik, majd a születés előtt a herezacskóba süllyedik (migráció). A herezacskó 2-3 °C-kal alacsonyabb hőmérsékletet biztosít, amely a spermiumok termeléséhez szükséges."
+    },
+    {
+      "id": 4,
+      "term": "Milyen a hímivarsejt (spermium) felépítése?",
+      "definition": "A spermium három fő részből áll: fej (sejtmag + akroszóma), középrész (mitokondriumok, energia), farok (ostor, mozgatás). Az akroszóma a petesejtbe behatolást segítő enzimeket (hialuronidáz) tartalmaz.",
+      "quote": "Fej, közép, farok",
+      "text": "A spermium haploid, rendelkezik a hím genetikai információval. A mozgásképessége a mellékherében alakul ki (utóérés). A fej csak minimális citoplazmát tartalmaz, hogy könnyű maradjon."
+    },
+    {
+      "id": 5,
+      "term": "Milyen a spermatogenezis szakaszai?",
+      "definition": "1. Mitózis: diploid spermatogóniumok osztódása. 2. Differenciáció: I. spermatocita képződése. 3. Meiózis I: II. spermatocita képződése (haploid). 4. Meiózis II: spermida képződése. 5. Spermiogenezis: spermida fejlődése érett spermummá (70 nap alatt).",
+      "quote": "Öt fázis 70 nap alatt",
+      "text": "Az FSH (tüszőserkentő hormon) serkenti a spermiumok képződését a Sertoli-sejteken keresztül. A tesztoszteron a Sertoli-sejtek működését szabályozza. A pubertáskor a spermiumtermelés néhány alkalommal megismétlődik."
+    },
+    {
+      "id": 6,
+      "term": "Milyen a tesztoszteron funkciója?",
+      "definition": "A tesztoszteron serkenti a Sertoli-sejtek működését és a spermiumok képződését. A magzatban az elsődleges nemi jellegek kialakítása. A serdüléskor a másodlagos nemi jellegek kialakulása (testszőrzet, mély hang, vállszélesség).",
+      "quote": "Reproduktív és másodlagos fejlesztő",
+      "text": "A tesztoszteron a zsírszövetekben ösztrogénné alakulhat. A tesztoszteron szintje az egész életen át ingadozik, nagyobb mértékben serdülőkorban. Az anyagcsere és csontépítés is alatt áll annak hatása."
+    },
+    {
+      "id": 7,
+      "term": "Milyen a petefészek felépítése és ciklusa?",
+      "definition": "A petefészek körülbelül 28 napos ciklus szerint működik. A pubertáskortól a menopauzáig általában félhavi rendszerességgel működik. A ciklus három fő fázisra oszlik: follicularis, ovulációs, luteinális.",
+      "quote": "28 napos hormonális ciklus",
+      "text": "A petefészkek felváltva érlelnek egy-egy petesejtet havonta. A petesejt a tüszőhöz körülvéve helyezkedik el. A tüszőhámsejtek pro-ösztrogént termelnek az aglomerulus körül."
+    },
+    {
+      "id": 8,
+      "term": "Milyen a petesejt (ovum) szerkezete?",
+      "definition": "A petesejt a haploid ivarsejtből áll, melyet fénylő réteg (zona pellucida) vesz körül. Körül van véve tüszőhámsejtekkel. A sejtmag a petesejt perifériájában helyezkedik el, nagy mennyiségű élelmezési anyaggal gazdag citoplazma körül.",
+      "quote": "Haploid reproduktív sejt",
+      "text": "A petesejt az összes emberi sejtek közül az egyik legnagyobb. A sejtmagban a női genetikai információ helyezkedik el. A citoplazma tartalmazza az embrionális fejlődéshez szükséges anyagokat."
+    },
+    {
+      "id": 9,
+      "term": "Milyen a nőgyógyászati ciklus három fázisa?",
+      "definition": "1. Follicularis fázis (14 nap): FSH serkenti a tüszők érésétét, ösztrogén termelődik. 2. Ovulációs fázis (24-48 óra): LH csúcs, petesejt kilépése. 3. Luteinális fázis (14 nap): progeszteron termelődik, majd szint csökken → menstruáció.",
+      "quote": "14-2-14 napos ciklus",
+      "text": "Az ösztrogén a tüszők érésétét serkenti és az endomét megvastagodást okozza. A progeszteron az endométriumot felkészíti az implantációra. A menstruáció az endométrium-pelyhezésének elhullása."
+    },
+    {
+      "id": 10,
+      "term": "Milyen a petevezető szerkezete és funkciója?",
+      "definition": "A petevezeték csatorna a petefészek és a méh között. Ampulla szakasza tágas, ahol jellemzően megtörténik a megtermékenyítés. Isthmusz szakasza szűk, a méhhez kapcsolódik. Az endometrium egy réteg sejtel bélelt.",
+      "quote": "Megtermékenyítés helye általában",
+      "text": "A petevezető izmos falú, peristaltikus mozgásai szállítják a petesejtet. A petesejt mintegy 3-4 napot tölt a petevezetékben. Az epiteliumsejtek fluidumot termelnek a spermiumok és petesejt táplálásához."
+    },
+    {
+      "id": 11,
+      "term": "Milyen a méh szerkezete és funkciója?",
+      "definition": "A méh egy körte alakú szerv, amelyben az embrió és magzat fejlődik. Falában három réteg: endometrium (belső, mukóza), myometrium (izom), perimetrium (külső, szerosztam). A méh nyaka a cervixe.",
+      "quote": "Magzati fejlődés helye",
+      "text": "Az endometrium ciklikusan megvastagszik és vékonyabbá válik a hormonok hatására. A myometrium erős izomzat, amely szüléskor kontrahál. A cervix vaginálistranzit védi a méhet."
+    },
+    {
+      "id": 12,
+      "term": "Milyen a megtermékenyítés folyamata?",
+      "definition": "A megtermékenyítés során a spermium átfúrod a fénylő réteget, az akroszóma felszabadítja az enzimeket. A spermium behatolás az ooplaszt aktiválja, a második pólár test kidobódik. A kétségen spermium prenucleus fúziója a zigótát képezi.",
+      "quote": "Spermium és petesejt fúziója",
+      "text": "A megtermékenyítés jellemzően az ampulla szakaszban történik. Csak egy spermium penetrálhat (polispermi blokádája). A genetikai információ kombinálódik az új egyeddé."
+    },
+    {
+      "id": 13,
+      "term": "Milyen az embrionális fejlődés szakaszai?",
+      "definition": "1. Barázdálódás: sejtosztódás az embrió nagyság megváltozása nélkül. 2. Szedercsíra-képződés: 3 réteg kialakulása (ectoderm, mesoderm, endoderm). 3. Hólyagcsíra: a hármas réteg szerkezeti szervezésének folyamata. 4. Organogenezis: szervek kialakulása.",
+      "quote": "Barázdálódás → szedercsíra → szerv",
+      "text": "A barázdálódás az ovulációt követő 3. napra megy végbe. A szedercsíra-képződés az 1. héten kezdődik. Az organogenezis az 1-8. héten zajlik, majd a magzati fejlődés."
+    },
+    {
+      "id": 14,
+      "term": "Milyen a beágyazódás folyamata?",
+      "definition": "A hólyagcsíra az 5-7. nap körül a méh endometriuma nyálkahártyájába fúródik be (implantáció). A beágyazódás során a trofoblaszt elviszi a hólyagcsírát az endometrium mélyrétegébe. Ez biztosítja a magzati keringés kialakulását.",
+      "quote": "Hólyagcsíra beágyzása az endometriumba",
+      "text": "A beágyazódás az endometrium-hormonális állapotától függ. Az implantáció helye általában az elülső vagy hátsó falban van. A sikeres beágyazódás után a méhgonoszterin termelődik."
+    },
+    {
+      "id": 15,
+      "term": "Milyen a méhlepény szerkezete és funkciója?",
+      "definition": "A méhlepény az anyai és magzati részekből áll. Az anyai rész az endometrium decidua-szövete. A magzati rész a trofoblasztból és a magzati mesodermából áll. Gaszt és tápanyag-szállítás funkcióit látja el.",
+      "quote": "Anyai-magzati csere helye",
+      "text": "A méhlepény nem oldja fel a anyai és magzati vérkeringést, hanem kordon tartalmazza őket. Az oxigén és tápanyagok diffúzióval haladnak át. Az antitestek szelektíven jutnak át, részleges immunvédelmzet nyújtva."
+    },
+    {
+      "id": 16,
+      "term": "Milyen a magzatvíz szerepe a fejlődésben?",
+      "definition": "A magzatvíz (amnion folyadék) körülveszi a magzatot, méretének körülbelül 1 literét érzi. Pufferként működik, megvédi a magzatot a mechanikai sérülésektől. Lehetővé teszi a magzat mozgásait.",
+      "quote": "Védelem és mozgás közege",
+      "text": "A magzatvíz súlyának fogyása lehet a magzati disztresszhez. Az amniocentezis alatt magzatvízből mintát vesznek a genetikai teszteléshez. A magzat vizeletét és székreszükségletét szintén tartalmazza."
+    },
+    {
+      "id": 17,
+      "term": "Milyen az egy- és kétpetéjű ikrek közötti genetikai különbség?",
+      "definition": "Egypetéjű ikrek (monozigoták): egy petesejt és egy spermium fúziójából keletkeznek. Genetikailag azonosak (100% DNS-azonosság). Kétpetéjű ikrek (dizigoták): két különböző petesejt és zwei spermium fúziójából keletkeznek, mint a testvérek.",
+      "quote": "Mono: azonos, di: testvér",
+      "text": "Az egypetéjű ikrek mindig azonos nemű. A kétpetéjű ikrek lehetnek azonos vagy különböző nemű. Az egypetéjű ikrek kialakulása öntlen oka szelvényzésnek nevezett. Az egypetéjűség ritka (1:250 születés)."
+    },
+    {
+      "id": 18,
+      "term": "Milyen a szülés szakaszai?",
+      "definition": "1. Szülés előtti fázis: Braxton-Hicks kontrakciók, cervix dilatáció kezdete. 2. Aktív szülés: cervix 4-8 cm dilatáció, rendszeres erős kontrakciók. 3. Kihajtási fázis: 8-10 cm dilatáció, a magzat a méhből a medencébe kerül. 4. Második szakasz: aktív nyomás, magzat szüle. 5. Harmadik szakasz: méhlepény kiálasa.",
+      "quote": "Fázisok szüléskövetkezésében",
+      "text": "Az oxitocin serkenti a metriumkontrakciókat. A prospaglandinok nyitják a cervixet. A szülés vakozitatása jellegzetes, az intervallumok rövidülnek."
+    },
+    {
+      "id": 19,
+      "term": "Milyen a szoptatás biológiai folyamata?",
+      "definition": "A szoptatás során az oxitocin serkenti a tejmirigyek szöveti összehúzódását, a tej kilövellésének reflexét. A prolaktin serkenti a tejtermelést. A gyakori szoptatás fenntartja a tejtermelést.",
+      "quote": "Oxitocin és prolaktin szerepe",
+      "text": "A tehené első tejét kolosztrumnak nevezzük, amely antitestekben gazdag. A szoptatás legalább 6 hónapig javasolt az egészséges fejlődéshez. A szoptatás megelőzi a női szerzet bizonyos rákjait."
+    },
+    {
+      "id": 20,
+      "term": "Milyen a posztembrionális fejlődés fő szakaszai?",
+      "definition": "Csecsemőkor (0-1): rápban való fejlődés, fogak megjelenése, istálóisz, járás tanulása. Kora gyermekkör (1-3): beszéd fejlődése, kézhasználat, függetlenség. Serdülés: nemi érés, teste növekedés. Felnőttkor: tetemes paraméterek stabilizálódása.",
+      "quote": "Négy életszakasz fejlődése",
+      "text": "A testméretű növekedés (szomatikus növekedés) nem egyenletes az élet folyamán. A serdüléskor hirtelen gyorsulás tapasztalható (pubertális spurt). Az öregedés egyensúly és fájdalom problémáit okozza."
+    },
+    {
+      "id": 21,
+      "term": "Milyen a fogak megjelenése és funkcija?",
+      "definition": "Tejfogazat: 6 hónap-3 év között 20 fog megjelenésűvá. A fogazat megerősítésében szerepe van a kalciumnak és a D-vitaminnak. Az állandó fogazat 6-12 év között helyettesíti a tejfogakat.",
+      "quote": "Tejfog majd állandó",
+      "text": "A fogak az emésztésben és beszédben fontos szerepet játszanak. A fogápolást korai gyermekkortól tanítani kell. A szájhigiénia a fogak megőrzéséhez fontos az élet során."
+    },
+    {
+      "id": 22,
+      "term": "Milyen a pubertás és nemi érés jellegzetességei?",
+      "definition": "A pubertás általában 8-14 éves kor között kezdődik. A primer nemi szervek fejlődésén túl másodlagos nemi jellegek nyilvánulnak meg. A gyorsumlási spurt a testmagasság és testsúly drasztikus növekedése.",
+      "quote": "Nemi érés pubertáskor",
+      "text": "Lányoknál az első menstruáció (menarche) az egyik legfontosabb esemény. Fiúknál a spermiumok megjelenése jellemzős. Az érzelmi és szociális problémák is jellemzők a serdüléskor."
+    },
+    {
+      "id": 23,
+      "term": "Milyen a nőgyógyászati szűrővizsgálatok célja?",
+      "definition": "A szűrővizsgálatok a rákmegelőzés, szexuális úton terjedő betegségek felderítése és a reproduktív egészség monitorozása céljára szervezzödnek. Citológiai vizsgálatok, ultrahang, HPV-tesztek alkalmazhatók.",
+      "quote": "Megelőzés és korai felismerés",
+      "text": "A szcervix-rák megelőzésében a HPV-oltás és szűrés fontos. Az emlőszűrés 40 év után ajánlott. Az önerő-vizsgálatok támogatják a szűrést."
+    },
+    {
+      "id": 24,
+      "term": "Milyen a fogamzásgátlási módszerek típusai?",
+      "definition": "Hormonális: fogamzásgátló tabletta, patch, gyűrű. Mechanikai: kondom, pessárium. Spermicidális: spermium-ölő szubsztanciák. Módszert kombinálva: a kettőből egyre magasabb hatékonyság. Permanens: sterilizáció.",
+      "quote": "Fogamzásgátlás módszerei",
+      "text": "A kondom egyedüli módszer az STI megelőzésben. A hormonális módszerek 99% feletti hatékonyság esetén. Az IUD (spirál) 99% fölötti hatékonyságú, hosszú hatástartammal."
+    },
+    {
+      "id": 25,
+      "term": "Milyen az meddőség okai és kezelése?",
+      "definition": "Az meddőség oka lehet ivarsejttermelés zavara (hipogonadizmus), hormonzavarok (FSH vagy LH alacsony szintje), szerkezeti problémák (obstrukcióság). A kezelésben FSH/LH injekciók, IVF (mesterséges megtermékenyítés) alkalmazható.",
+      "quote": "Többszöros etiológia, sokféle kezelés",
+      "text": "Az IVF-ben a petesejt megtermékenyítése a laboratóriumban történik, majd az embrió implantálása. Az ivarsejt és embriót gyűjtésig szükséges hormonális stimuláció. Az IVF sikerességi aránya az életkortól függ."
+    }
+  ]
+}

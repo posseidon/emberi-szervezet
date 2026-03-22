@@ -1,0 +1,518 @@
+{
+  "subjectId": "biology",
+  "moduleId": "kultakaro",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "A felhám sejtes megújulásának teljes ciklusa során melyik folyamat biztosítja a sejtek szaruanyag-felhalmozódásán túlmenően a szaruréteg stabilitását?",
+      "options": [
+        "A faggyúmirigyek zsíros váladékának bevonya",
+        "Az irha kollagénrostjainak merevítő hatása",
+        "A hámréteg alsó sejtjeinek folyamatos mitózissal történő osztódása, amely felszín felé tolják az idősebb sejteket",
+        "A melanin termelésének szabályozása"
+      ],
+      "answer": "A hámréteg alsó sejtjeinek folyamatos mitózissal történő osztódása, amely felszín felé tolják az idősebb sejteket"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Az ultraibolya sugárzás durch a melanin termelés fokozódásához és a bőr sötétedéséhez vezethet, de mi a potenciális genetikai veszélye?",
+      "options": [
+        "A melanocita-sejtek jóindulatú felszaporodása",
+        "Az elasztin-rost degradációja az irhában",
+        "A kollagén-szerkezet megváltozása",
+        "A nagy intenzitású UV DNS-mutációt idéz elő, amely bőrrák kialakulásához vezethet"
+      ],
+      "answer": "A nagy intenzitású UV DNS-mutációt idéz elő, amely bőrrák kialakulásához vezethet"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "A bőr hőszabályozásában az irha gazdag érhálózatának melyik mechanizmusa felelős a hűtésért melegben?",
+      "options": [
+        "Az irha kollagénrostjainak összehúzódása",
+        "Az erek kitágulása, amely növeli a bőrön átfolyó vér mennyiségét és hőleadást",
+        "A faggyúmirigyek működésének gátlása",
+        "Az epidermiszis viszketési receptoraing aktiválódása"
+      ],
+      "answer": "Az erek kitágulása, amely növeli a bőrön átfolyó vér mennyiségét és hőleadást"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "A kétpont-küszöb (az a legkisebb távolság, melynél két vékony pálca érintését különbözőnek érezzük) melyik anatómiai tényezővel áll közvetlen kapcsolatban?",
+      "options": [
+        "A bőrreceptorok eloszlásának sűrűségével az adott testrészen",
+        "A szaruréteg vastagságával",
+        "Az irha fibrocita-számával",
+        "A faggyúmirigyek funkcionalitásával"
+      ],
+      "answer": "A bőrreceptorok eloszlásának sűrűségével az adott testrészen"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Hogyan működik a szőrtüsző körül helyezkedő sima izomzat, amikor a szőr 3-5 fokos szögelven mozdul meg?",
+      "options": [
+        "A verejtékmirigyeket aktiválja a párologtatáshoz",
+        "A faggyúmirigy váladéktermelését fokozza",
+        "A legkifinomultabb tapintásreceptor-nak működik, amely már ilyen kicsi mozgásokra is reagál a szőrborzolás révén",
+        "Az irha vérkeringését korlátozza az érzékelhetőség növelésére"
+      ],
+      "answer": "A legkifinomultabb tapintásreceptor-nak működik, amely már ilyen kicsi mozgásokra is reagál a szőrborzolás révén"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "A szabad idegvégződések a bőr receptorai közül melyik két érzékelési módusért felelősek?",
+      "options": [
+        "A nyomás és a vibráció érzékeléséért",
+        "A magas ingerküszöbű fájdalom-érzékelésért és a hőmérséklet-változás érzékeléséért",
+        "A finomabb tapintás- és hideg-érzékeléséért",
+        "A vibráció és a nyomás érzékeléséért az ujjak hegyén"
+      ],
+      "answer": "A magas ingerküszöbű fájdalom-érzékelésért és a hőmérséklet-változás érzékeléséért"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "A Meissner-testek és Merkel-korongok az irha mely rétegében helyezkednek el?",
+      "options": [
+        "Az irha felszíni rétegeiben, ahol a finomabb tapintást érzékelik",
+        "A bőralja zsírszövetéhez közel, ahol nyomásérzékenyek",
+        "Az epidermisz-irha határfelületén, ahol hő-érzékenyek",
+        "A szőrtüszők körül, ahol a szőrmozgást érzékelik"
+      ],
+      "answer": "Az irha felszíni rétegeiben, ahol a finomabb tapintást érzékelik"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "A Vater-Pacini-testek, mint nyomásérzékeny receptorok, melyik helyzetből érzékelik az erőteljes mechanikai hatásokat?",
+      "options": [
+        "Az epidermisz-irha határfelületén",
+        "Az irha felszíni szemölcsös rétegében",
+        "Az ujjak hegyén és az ajkakon",
+        "A bőr mélyebb rétegeiben a zsírszövetek közelében helyezkednek el"
+      ],
+      "answer": "A bőr mélyebb rétegeiben a zsírszövetek közelében helyezkednek el"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Milyen szövettani szempontból származék az összes bőrmirigy (faggyúmirigy, verejtékmirigy, tejmirigyek)?",
+      "options": [
+        "Idegrendszeri szövettípusok",
+        "Kötőszövet-eredetű struktúrák",
+        "Hámszármazékok, amelyek az epidermiszből fejlődtek ki",
+        "Vázizom-szöveti differenciációk"
+      ],
+      "answer": "Hámszármazékok, amelyek az epidermiszből fejlődtek ki"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "A faggyúmirigy-váladék melynek a rezisztenciáját növeli meg az irányított sejtaktivitás révén?",
+      "options": [
+        "A szőr pigmentációját",
+        "A szőrszálak és a bőr vízállóságát és rugalmasságát, valamint a szaruréteg puhítását",
+        "Az epidermisz hámsejtjeinek termelést",
+        "A verejtékmirigy működési kapacitása"
+      ],
+      "answer": "A szőrszálak és a bőr vízállóságát és rugalmasságát, valamint a szaruréteg puhítását"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "A szimbióta baktériumok, amelyek a faggyúrétegben élnek, milyen módon védik a bőrt a gombás fertőzésektől?",
+      "options": [
+        "Savas váladékot termelve (pH 5.5), amely inhibitálja a gombás elszaporodást",
+        "Antibiotikus fehérjéket szekretálva az összes patogén ellen",
+        "Az epidermisz sejtjeinek sűrítésével",
+        "A faggyúmirigyek váladékmennyiségét csökkentve"
+      ],
+      "answer": "Savas váladékot termelve (pH 5.5), amely inhibitálja a gombás elszaporodást"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "A kisebb verejtékmirigyek hőszabályozásban betöltött szerepe során a verejték párolgása milyen fizikai folyamaton alapul?",
+      "options": [
+        "A verejték magas sókoncentrációjának evaporatív hatása",
+        "Az irhában lejátszódó endoterm kémiai reakciók",
+        "A verejtékmirigy csatornáinak összehúzódása",
+        "A párolgási hő, amely a bőr felületéről hőt von el, hűtve a bőrön átfolyó vért"
+      ],
+      "answer": "A párolgási hő, amely a bőr felületéről hőt von el, hűtve a bőrön átfolyó vért"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A nagy verejtékmirigyek (illatmirigyek) kivezetőcsövei mely struktúrákba nyílnak?",
+      "options": [
+        "Közvetlenül a bőr felszínére, az epidermisz szarurétegén keresztül",
+        "A szőrtüszőkbe, ellentétben a kisebb verejtékmirigyek felszíni nyílásaival",
+        "Az irha kollagén-resztrukturájához",
+        "A tüdőn keresztüli keringésbe"
+      ],
+      "answer": "A szőrtüszőkbe, ellentétben a kisebb verejtékmirigyek felszíni nyílásaival"
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "A nagy verejtékmirigyek hormonális kontrollja alatt milyen korban kezd meg működésükben?",
+      "options": [
+        "Pubertáskorban hormonális hatásokra",
+        "Az embrionális fejlődés alatt, majd deaktiválódnak",
+        "Születéskor azonnal teljes kapacitáson",
+        "Az idősödéskor serdülés nélkül"
+      ],
+      "answer": "Pubertáskorban hormonális hatásokra"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az illatmirigyek (nagy verejtékmirigyek) izgalom hatására termelődő váladék kémhatása melyik minőségi változáson megy át?",
+      "options": [
+        "Savanyú kémhatásúvá válik, mely longán-stabil",
+        "Lúgos kémhatású, amely gyorsan bomlik és ezáltal kellemetlen szagú lehet",
+        "Semleges pH-jú válik, mely gyors hidrolizise",
+        "Erősen savas váladék termelődik"
+      ],
+      "answer": "Lúgos kémhatású, amely gyorsan bomlik és ezáltal kellemetlen szagú lehet"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "A tejmirigyek, amelyek kizárólag emlősökhöz tartoznak, milyen szövettani szempontból értelmezhetőek?",
+      "options": [
+        "Valódi endokrin mirigyek",
+        "Idegvégi receptorok módosított szöveti szervezetei",
+        "Módosult verejtékmirigyek és járulékos nemi mirigyek",
+        "Kollagén-termelő fibroblaszt-sejtcsalád"
+      ],
+      "answer": "Módosult verejtékmirigyek és járulékos nemi mirigyek"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "A szőr életciklusa során a hájyszőr papillára gyakorolt nyomása milyen szöveti jellegzetességet biztosít?",
+      "options": [
+        "Az epidermisz-irha határfelület erősítését",
+        "A bőr pigmentáció-termelésének stimulálása",
+        "Az izzadság termelés fokozása",
+        "A papilla az osztódó sejtekben a szőrszál szaruanyagát (keratin) hozza létre"
+      ],
+      "answer": "A papilla az osztódó sejtekben a szőrszál szaruanyagát (keratin) hozza létre"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Az ujjnyomatok karakterisztikus bőrlécrajzolata az irha mely szöveti rétegének jellegzetes mintázatán alapul?",
+      "options": [
+        "Az irha felső, finom rostos szemölcsös rétegének karakterisztikus mintázatán",
+        "Az epidermisz szarurétegének elszarusodásán",
+        "A bőralja zsírszövetének csomósodásán",
+        "A faggyúmirigyek csatornáinak geometriai elrendezésén"
+      ],
+      "answer": "Az irha felső, finom rostos szemölcsös rétegének karakterisztikus mintázatán"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "A köröm melynek az elsődleges biológiai funkciója?",
+      "options": [
+        "A szőrszál-termeléshez szükséges vasékszállítás",
+        "Az ujjak végpercének mechanikus védelme",
+        "Az epidermisz sebészeti érckötésének biztosítása",
+        "Az ujjak hőszabályozása"
+      ],
+      "answer": "Az ujjak végpercének mechanikus védelme"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "A köröm melyik része az a puffad, félhold alakú terület, amely a köröm növekedési aktivitásának a szöveti indikátora?",
+      "options": [
+        "Az oldalsó körömsánc",
+        "A hátsó körömsánc",
+        "A félhold (lunula), amely a körömlemez alatt található növekedési zóna",
+        "A körömlemez külső bordája"
+      ],
+      "answer": "A félhold (lunula), amely a körömlemez alatt található növekedési zóna"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "A bőralja zsírszövetének duális funkciója mely két aspektusban nyilvánul meg?",
+      "options": [
+        "Kollagén-termelés és faggyú-szintézis",
+        "Tápanyagraktár és mechanikai védelem, valamint hőszigetelés",
+        "Pigment-termelés és UV-védekezés",
+        "Lympha-termelés és immunsejt-szaporodás"
+      ],
+      "answer": "Tápanyagraktár és mechanikai védelem, valamint hőszigetelés"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "[TF] Az epidermisz (felhám) szarurétege a külső- és belső felszínen is azonos vastagságú, mivel az összes testrészen egyenletes védelmet nyújt.",
+      "options": [],
+      "answer": "HAMIS."
+    },
+    {
+      "id": 23,
+      "type": "BLANK",
+      "question": "[TF] Az epidermisz hámsejtek felfelé haladása során a keratin halmozódása az apoptotikus sejtkockázat növekedésé vezethet, amely végül a szarupikkely-elpusztuláshoz vezet.",
+      "options": [],
+      "answer": "IGAZ."
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "[TF] Az ultraibolya sugárzás által okozott DNS-mutáció kizárólag melanomához vezethet, és más bőrműködési zavarokra nincsen hatása.",
+      "options": [],
+      "answer": "HAMIS."
+    },
+    {
+      "id": 25,
+      "type": "BLANK",
+      "question": "[TF] A verejtékmirigyek kiválasztó szerepét illetően, mivel a verejték egy nagyon híg folyadék, funkcionálisan szinte vizeletnek tekinthető.",
+      "options": [],
+      "answer": "IGAZ."
+    },
+    {
+      "id": 26,
+      "type": "BLANK",
+      "question": "[TF] A szőrtüszőkhöz kapcsolódó faggyúmirigyek váladéka a szőr rugalmasságának csökkentésére szolgál, hogy az könnyen törhető legyen.",
+      "options": [],
+      "answer": "HAMIS."
+    },
+    {
+      "id": 27,
+      "type": "BLANK",
+      "question": "[TF] A szimbióta baktériumok a faggyúrétegben szavas védelmet biztosítanak a bőrnek, ami azt jelzi, hogy a fizika-kémiai és biológiai védelmet nem lehet élesen szétválasztani.",
+      "options": [],
+      "answer": "IGAZ."
+    },
+    {
+      "id": 28,
+      "type": "BLANK",
+      "question": "[TF] A nagyobb verejtékmirigyek (illatmirigyek) működésük kezdetekor közvetlenül a pubertás előtt megindul és egyenletes mértékben működnek az egész életben.",
+      "options": [],
+      "answer": "HAMIS."
+    },
+    {
+      "id": 29,
+      "type": "BLANK",
+      "question": "[TF] Az ujjnyomatok bőrlécrajzolata az epidermisz szarurétegének mintázatán alapul, amely minden egyes embernél egyedi és genetikailag meghatározott.",
+      "options": [],
+      "answer": "HAMIS."
+    },
+    {
+      "id": 30,
+      "type": "BLANK",
+      "question": "Az epidermiszis egy nagyon fontos belső réteg, amely sebességű sejtoszlódást végez, hogy a felszínen leöltés után az új sejteket felszín felé _____ az idősebb sejteket.",
+      "options": [],
+      "answer": "tolj"
+    },
+    {
+      "id": 31,
+      "type": "BLANK",
+      "question": "A melanin a bőr pigmentsejteiben termelődik, és az általa elnyelt _____ sugárzást a mélyebb bőrrétegek védelmét biztosítja.",
+      "options": [],
+      "answer": "ultraibolya (UV)"
+    },
+    {
+      "id": 32,
+      "type": "BLANK",
+      "question": "Az irha gazdag kollagén- és _____ rostokban gazdag rostos kötőszövet, amely felelős a bőr rugalmasságáért.",
+      "options": [],
+      "answer": "rugalmas (vagy elastin)"
+    },
+    {
+      "id": 33,
+      "type": "BLANK",
+      "question": "A bőr legfelső védőrétege az _____, amely szövettanilag többrétegű elszarusodó laphámból áll.",
+      "options": [],
+      "answer": "felhám (vagy epidermisz)"
+    },
+    {
+      "id": 34,
+      "type": "BLANK",
+      "question": "A kétpont-küszöb az a legkisebb távolság, melynél két vékony pálca érintéseit különbözőnek érezzük, amely az _____ sűrűségétől függően az ujjbegyen a legkisebb.",
+      "options": [],
+      "answer": "receptorok (vagy bőrreceptorok)"
+    },
+    {
+      "id": 35,
+      "type": "BLANK",
+      "question": "A szőr szerkezete a bőrből kiemelkedő szőr szárból és a bőrben fekvő _____ alkotják, amely a hám csőszerű betüremkedéséből jön létre.",
+      "options": [],
+      "answer": "szőrtüsző"
+    },
+    {
+      "id": 36,
+      "type": "BLANK",
+      "question": "A szőrtüszőhöz csatlakozó _____ simaizmok a szőr felállításáért felelősek, amely az szőrborzolást (libabőr) okozza.",
+      "options": [],
+      "answer": "szőrmerevítő"
+    },
+    {
+      "id": 37,
+      "type": "BLANK",
+      "question": "A szőrszál anyaga a _____, amely a szőrtüsző alapján, a hagymában foglalt osztódó sejtekből szintetizálódik.",
+      "options": [],
+      "answer": "keratin"
+    },
+    {
+      "id": 38,
+      "type": "BLANK",
+      "question": "A verejtékmirigyek csatornái a _____ felszínén keresztül nyílnak a bőr felszínére, ahonnan a verejték lecsepeg.",
+      "options": [],
+      "answer": "bőr (vagy epidermisz)"
+    },
+    {
+      "id": 39,
+      "type": "BLANK",
+      "question": "A mitesszer (faggyúdugasz) akkor keletkezik, ha a megvastagodott szaruréteg elzárja a _____ vagy a faggyúmirigy nyílását.",
+      "options": [],
+      "answer": "szőrtüsző"
+    },
+    {
+      "id": 40,
+      "type": "BLANK",
+      "question": "Az akne (pattanás) alakul ki, ha az elzáródott szőrtüszők _____ vagy felülfertőződnek, begennyesednek.",
+      "options": [],
+      "answer": "begyulladnak"
+    },
+    {
+      "id": 41,
+      "type": "BLANK",
+      "question": "A vízhólyag a kézen és a lábfejen a _____ és nyomástól kialakuló, szövetnedv tartalmazó megemelkedett bőrterület.",
+      "options": [],
+      "answer": "dörzsölődés"
+    },
+    {
+      "id": 42,
+      "type": "MC",
+      "question": "Az anyajegy (mola) kialakulása szempontjából melyik tényező játszik az elsődleges szerepet?",
+      "options": [
+        "A genetikai tényezők kizárólagos hatása",
+        "A bőrt ért UV-sugárzás (napfény, szolárium) mennyisége",
+        "Az epidermisz vérkeringésének zavara",
+        "A faggyúmirigyek túlműködése"
+      ],
+      "answer": "A bőrt ért UV-sugárzás (napfény, szolárium) mennyisége"
+    },
+    {
+      "id": 43,
+      "type": "MC",
+      "question": "A melanoma malignum kialakulásánál melyik anatómiai jelenség a legjellegzetesebb korai figyelmeztető jel?",
+      "options": [
+        "A szaruréteg felszíni hámlik és hámlást",
+        "A bőr fokozat szőrösödése az anyajegy körül",
+        "Az anyajegy színének, pigmentációjának, felszínének vagy alakjának megváltozása, valamint a határ elmosódása",
+        "Az anyajegy körüli bőr hőmérsékletének emelkedése"
+      ],
+      "answer": "Az anyajegy színének, pigmentációjának, felszínének vagy alakjának megváltozása, valamint a határ elmosódása"
+    },
+    {
+      "id": 44,
+      "type": "MC",
+      "question": "A HPV vírus miért támadja meg elsősorban a bőr hámsejtjeit?",
+      "options": [
+        "Mert a hámsejteknek nincs sejtmagi membránja",
+        "Mert az enyhe savas pH megakadályozza más sejteket",
+        "Mert az epidermisz anyagcseréje a leggyorsabb az összes között",
+        "Akkor, amikor azok védekező rendszere nem tökéletes és a bőr vagy nyálkahártya sérült"
+      ],
+      "answer": "Akkor, amikor azok védekező rendszere nem tökéletes és a bőr vagy nyálkahártya sérült"
+    },
+    {
+      "id": 45,
+      "type": "MC",
+      "question": "Az egészséges immunrendszer ellenére mely körülmények között képes a HPV fertőzés megjelenni a bőrön?",
+      "options": [
+        "Stressz, erős dohányzás, krónikus betegségek vagy egyéb gyulladások legyengítik az immunrendszert",
+        "Amikor az emberek túl sok vizet isznak",
+        "Csak akkor, amikor az immunrendszer öreg vagy fiatal",
+        "Az UV-sugárzás által kiváltott DNS-kár miatt"
+      ],
+      "answer": "Stressz, erős dohányzás, krónikus betegségek vagy egyéb gyulladások legyengítik az immunrendszert"
+    },
+    {
+      "id": 46,
+      "type": "MC",
+      "question": "A HPV fertőzés után átlagosan milyen időpont alatt jelennek meg a szemölcsök?",
+      "options": [
+        "Az esetek többségében azonnal a fertőzés után",
+        "Megközelítőleg a vírus szervezetbe kerülésétől számított 3-6 hónap elteltével",
+        "Több év után, főként az öregkor során",
+        "Csak akkor, ha az immunrendszer legyengül a vakcinációból"
+      ],
+      "answer": "Megközelítőleg a vírus szervezetbe kerülésétől számított 3-6 hónap elteltével"
+    },
+    {
+      "id": 47,
+      "type": "MC",
+      "question": "Az elsőfokú égésben mely bőrréteg vagy rétegek károsodnak?",
+      "options": [
+        "Az epidermisz és az irha felső rétegei",
+        "Az epidermisz, az irha és a bőralja",
+        "Csak az epidermisz (felhám)",
+        "Az irha és a bőralja, de az epidermisz sértetlen marad"
+      ],
+      "answer": "Csak az epidermisz (felhám)"
+    },
+    {
+      "id": 48,
+      "type": "MC",
+      "question": "A másodfokú égés mely jellegzetes klinikai karakterisztikáit mutatja?",
+      "options": [
+        "Nedves, hólyagos felszín, kifejezetten fájdalmas",
+        "Szürke, pergamenszerű felszín, fájdalommentes",
+        "Vörös, feszes, sima, igen fájdalmas",
+        "Fekete, szenes felszín, mely felületén vér látható"
+      ],
+      "answer": "Nedves, hólyagos felszín, kifejezetten fájdalmas"
+    },
+    {
+      "id": 49,
+      "type": "MC",
+      "question": "A harmadfokú égésben mely jellegzetes szöveti változás veszélyes?",
+      "options": [
+        "Az epidermisz elasztikus visszanyerése",
+        "Az irha vérkeringésének fokozódása",
+        "Az idegvégződések elpusztulása által okozott fájdalommentesség",
+        "A faggyúmirigyek váladékának fokozódása"
+      ],
+      "answer": "Az idegvégződések elpusztulása által okozott fájdalommentesség, amely késedelmet okozhat az orvosi ellátásban"
+    },
+    {
+      "id": 50,
+      "type": "MC",
+      "question": "Az égési sérülés kezelésében az első lépés melyik?",
+      "options": [
+        "Zsiradék vagy tejföl alkalmazása az égett területre",
+        "Az égést kiváltó tényező eltávolítása, majd hideg, nem jeges, folyó víz alá helyezés",
+        "Azonnal antibiotikus kötés felvétele",
+        "A nagy kiterjedésű égésben azonnal izomnak összeesése"
+      ],
+      "answer": "Az égést kiváltó tényező eltávolítása, majd hideg, nem jeges, folyó víz alá helyezés"
+    },
+    {
+      "id": 51,
+      "type": "MC",
+      "question": "Az égési sérülés melyik fokozatában indokolt lehet csak steril körülmények között szakember által végzett hólyag-megnyitás?",
+      "options": [
+        "Az elsőfokú égésben azonnal",
+        "A harmadfokú égésben, ahol szöveti elhalás van",
+        "A másodfokú égésben, ahol a hólyagok megnyitása szükséges lehet",
+        "A negyedfokú égésben, ahol az izomszövet elégetett"
+      ],
+      "answer": "A másodfokú égésben, ahol a hólyagok kiszáradásakor váladék termelődik"
+    }
+  ]
+}

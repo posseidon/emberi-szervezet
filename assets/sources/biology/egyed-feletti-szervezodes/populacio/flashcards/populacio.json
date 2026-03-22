@@ -1,0 +1,179 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Populáció definíciója",
+      "definition": "Genetikai értelemben egy fajhoz tartozó azon egyedek összessége, melyek tényleges szaporodási közösséget alkotnak.",
+      "quote": "Szaporodási közösség",
+      "text": "A populáció alapvetően genetikai fogalom az ökológiában. Például egy bükkerdő összes bükkfája egy populációt alkot. Ökológiai értelemben a populáció a térbeli és időbeli meghatározottság alapján értelmezhető."
+    },
+    {
+      "id": 2,
+      "term": "Egyedszám és egyedsűrűség",
+      "definition": "Az egyedszám a populáció összes egyedének száma, az egyedsűrűség az egyedszám egységnyi térfogatra vagy területre vonatkoztatott értéke.",
+      "quote": "Egyedek száma térfogatra",
+      "text": "Az egyedsűrűség mérhető tömegegységre vonatkoztatva is. Meghatározza a populáció erőforrás-igényét és versengési potenciálját."
+    },
+    {
+      "id": 3,
+      "term": "Korlátlan növekedési modell",
+      "definition": "Exponenciális növekedés, amikor nincs korlátozó tényező és az egyedek száma geometrikus sorozat szerint nő.",
+      "quote": "Exponenciális növekedés",
+      "text": "A képlet: Nt = N0 × e^(r×t). Természetben nem haladhatatlan, mert a korlátok korlátozottá teszik. Az r a növekedési ráta."
+    },
+    {
+      "id": 4,
+      "term": "Korlátozott növekedési modell",
+      "definition": "Logisztikus növekedés, amely beépíti a környezet eltartó képességét (K), és az egyedszám a K felé stabilizálódik.",
+      "quote": "Logisztikus görbe",
+      "text": "A képlet az S-alakú logisztikus görbe adja: dN/dt = r×N×(K-N)/K. Ez jobban közelíti a valós populáció-dinamikát. K a környezeti eltartó képesség."
+    },
+    {
+      "id": 5,
+      "term": "Környezet eltartó képessége",
+      "definition": "A K paraméter, amely meghatározza az adott környezetben egy faj populációjának maximális egyedszámát.",
+      "quote": "Maximális fenntartható populáció",
+      "text": "Az eltartó képesség függ az erőforrásokhoz való hozzáférésből, az élőhelytől, a táplálékmennyiségtől és más abiotikus tényezőktől."
+    },
+    {
+      "id": 6,
+      "term": "Gradáció",
+      "definition": "Hirtelen elszaporodás és ezt követően összeomló populáció, amely végzetes lehet az élőhelyre nézve.",
+      "quote": "Elszaporodás és összeomlás",
+      "text": "Gyakran rovarfajok esetében figyelhető meg. Az elszaporodás a táplálék bősége, ragadozók hiánya vagy kedvező feltételek miatt történik. Az összeomlas közvetkezmenyei: táplálék kimerülése, járványok."
+    },
+    {
+      "id": 7,
+      "term": "r-stratégista jellemzői",
+      "definition": "Gyors szaporodó, fürge, nem gondoznak utódaikat, korai szexuális éréskorú, nagy egyedszámú populációban élnek.",
+      "quote": "Gyors szaporítás",
+      "text": "Tipikus r-stratégisták: rovarok, rágcsálók, halak, egypetés növények. Evolúciós stratégiájuk a gyors terjedésre van optimalizálva. K értékük alacsony."
+    },
+    {
+      "id": 8,
+      "term": "K-stratégista jellemzői",
+      "definition": "Lassú szaporodó, gondoznak utódaikat, késői szexuális éréskorú, hosszú élettartamú, kis egyedszámú populációban élnek.",
+      "quote": "Lassú szaporítás és gondozás",
+      "text": "Tipikus K-stratégisták: nagyvadak, madarak, primates, hosszú élettartamú növények. Evolúciós stratégiájuk a K fenntartásra van optimalizálva."
+    },
+    {
+      "id": 9,
+      "term": "Korfák típusai",
+      "definition": "A korfák a populáció korszerkezetét mutatják: az ifjú, szaporodóképes és öregkor sorszámát vagy számának hányadát ábrázolja.",
+      "quote": "Korszerkezet oszlopdiagram",
+      "text": "Piramis alakú korfák a növekvő, oszlop alakú a stabil, fordított piramis az öregedő populáció struktúráját jelzi. Az emberi populációban korfák a születési és halálozási aránnyal kapcsolatban vannak."
+    },
+    {
+      "id": 10,
+      "term": "Koreloszlás",
+      "definition": "A populáció különböző korú egyedjeinek megoszlása vagy aránya a teljes populáción belül.",
+      "quote": "Egyedek korcsoportonkénti aránya",
+      "text": "A koreloszlás alapján lehet megjósolni a populáció jövőbeni növekedési vagy csökkenési trendjét. Sok ifjú egyed növekedésre, sok fiatal szaporodó megkönnyíti a szaporodást."
+    },
+    {
+      "id": 11,
+      "term": "Biológiai jelzés (indikáció)",
+      "definition": "Egy szervezet vagy populáció, amelynek jelenléte, hiánya vagy állapota a környezeti feltételekre utal.",
+      "quote": "Indikátor szervezet",
+      "text": "Például a moha nedves, árnyékos helyeken él, így a moha jelenléte a magas páratartalmat jelzi. Epigenetikus szennyezési indikátorok: halak szép vizet, rossz levegő füst-fajok jelzi."
+    },
+    {
+      "id": 12,
+      "term": "Tűrőképesség és annak görbe",
+      "definition": "Az a szakterület, amelyen belül egy szervezet még életképes. A görbe mutatja a minimum, optimum és maximum értékeket.",
+      "quote": "Minimum-optimum-maximum",
+      "text": "Az egyes fajok szűk vagy tág tűrőképességgel rendelkeznek. Például a sekély vizet preferáló apróhalak szűk tűrőképességűek, a vándorsólyom széles hőmérséklet-toleranciájú."
+    },
+    {
+      "id": 13,
+      "term": "Szűk és tág tűrőképesség",
+      "definition": "Szűk: a faj csak szűk környezeti tartományban él (stenohalin, stenoterm). Tág: a faj széles tartományban él (euryhalin, eurytermikus).",
+      "quote": "Eltérő adaptációk",
+      "text": "Stenotermikus: kis hőmérséklet-tartomány. Eurytermikus: nagy hőmérséklet-tartomány. Halóban ide tartoznak: stenohalin (sós vizet csak sós vizet preferálók) versus euryhalin (akár sós, akár édes vizet türnak)"
+    },
+    {
+      "id": 14,
+      "term": "Minimum-elv",
+      "definition": "Libich minimális elve: a szükséges anyag közül az egyik limitáló szükséglet határozza meg a populáció növekedésének mértékét.",
+      "quote": "Limitáló tényező dönt",
+      "text": "Ha a nitrogén, foszfor, víz vagy más érték kevés van, az a legkevesebb nem a legtöbb korlátozódik. Alkalmazható környezeti rendszerekre."
+    },
+    {
+      "id": 15,
+      "term": "Gauze-elv (versengési kizárás)",
+      "definition": "Egy erőforrásért versengő két faj nem élhet azonos ökológiai niche-ben - az egyik kirekesztődik.",
+      "quote": "Egy niche-egy faj",
+      "text": "Gause kísérletei Tetrahymena-val mutatták, hogy versengésben az egyik egyedülsül meg. A valóságban az egyik faj átköltözik más niche-be vagy mutációs mechanizmussal."
+    },
+    {
+      "id": 16,
+      "term": "Ökológiai niche",
+      "definition": "Egy szervezet teljes funkcionális helyzete az ökoszisztémában, beleértve az erőforrás-hasznosítást, időbeli tevékenységet és táplálkozási szintet.",
+      "quote": "Teljes funkcionális szerep",
+      "text": "Az ökológiai niche nagyobb fogalom, mint az élőhely. Például a búvó madár niche-je az édesvizekben való búvárkodás, halak fogyasztása, nappal aktív lét."
+    },
+    {
+      "id": 17,
+      "term": "Élettani niche vs ökológiai niche",
+      "definition": "Élettani: az az erőforrás-tartomány, amelyre a faj potenciálisan adaptálódott. Ökológiai: a ténylegesen elfoglalt tartomány versengs korlátozások miatt.",
+      "quote": "Potenciális vs valós",
+      "text": "Az élettani niche tágabb, az ökológiai niche szűkebb. A versengő fajok közül az egyik az élettani niche egy részét a valós ökológiai niche-nak kell átengednie."
+    },
+    {
+      "id": 18,
+      "term": "Trágyázás és gyakorlata",
+      "definition": "Műtrágya hozzáadása a talajhoz növények tápanyag-igényének kielégítésére, de szakszerűtlen alkalmazása eutrofizációhoz vezethet.",
+      "quote": "Nitrogén-foszfor adagolása",
+      "text": "Előnyei: magasabb hozam, termésmennyiség. Hátrányai: talajszennyezés, víziszennyezés, mikrobaflóra károsodása, minőség romlása. Szakszerű adagolás szükséges."
+    },
+    {
+      "id": 19,
+      "term": "Territorial viselkedés",
+      "definition": "Állatok a természetükben őrizik meg egy meghatározott területet, amelyet agresszíven védelmeznek a rivális csoportokkal szemben.",
+      "quote": "Terület őrzés és védelem",
+      "text": "A territórium funkciói: ellátás (táplálék, víz), szaporodás, pihenés biztosítása. Jelölésmódok: vizelet, illat, hang, fizikai jel. A territórium mérete a fajra és erőforrások függvénye."
+    },
+    {
+      "id": 20,
+      "term": "Rangsor a csoportban",
+      "definition": "Szocális hierarchia, ahol az egyedek között dominancia-szubmisszió kapcsolatok alakulnak ki, amely az erőforrások elérését szabályozza.",
+      "quote": "Dominancia hierarchia",
+      "text": "Megfigyelhető az állatok nagy részénél: primates, madarak, kutyák. Alacsonyabb rangú egyedek az erőforrásokhoz kevesebb hozzáféréssel rendelkeznek. Viselkedésjelzések: behódolás, alávetettség gesztusai."
+    },
+    {
+      "id": 21,
+      "term": "Agresszív és önzetlen magatartás",
+      "definition": "Agresszív: támadó, versengő magatartás. Önzetlen (altruizmus): az egyén saját fitnesz csökkentésével csoportjának vagy másnak hasznot okoz.",
+      "quote": "Versengés versus segítségnyújtás",
+      "text": "Az agresszió terület és szaporodás jogaiért folyik. Az altruizmus evolúciós magyarázata: rokon kiválogatás, reciprok altruizmus, csoport szelekció."
+    },
+    {
+      "id": 22,
+      "term": "Állati kommunikáció modalitásai",
+      "definition": "Az állatok között információt továbbító jel-rendszerek: vizuális, akusztikus, kémiai, tapintásos, elektromos módok.",
+      "quote": "Többféle jelrendszer",
+      "text": "Vizuális: tánc, szín, gesztura. Akusztikus: hang, éneklés, sípszó. Kémiai: feromonok, illatok. Tapintásos: érintkezés, masszázs. Elektromos: hal elektroforos szerveik."
+    },
+    {
+      "id": 23,
+      "term": "Családi szocialitás",
+      "definition": "Az egyedek között szoros szocális kapcsolatok alakulnak ki, szülő-utód gondozás, ivadékvédelem és szexuális reprodukció jellemzi.",
+      "quote": "Szülő-utód egység",
+      "text": "Megfigyelhető a legtöbb emlösben, madarakban és számos halaknál. Az ivadékgondozás igényes erőforrások felhasználása."
+    },
+    {
+      "id": 24,
+      "term": "Kolónia szerkezet",
+      "definition": "Nagyobb szervezetcsoportok állandó, szoros szociális és funkcionális egységét jelenti, gyakran rokon egyedekből és hierarhikus szervezettséggel.",
+      "quote": "Széles szocális közösség",
+      "text": "Méhkolóniák, hangyaboly, termitkép jellegzetes kolóniák. Differenciáció: királyné, drón, dolgozó. Erősen szervezett, közös célokra (táplálékgyűjtés, szaporodás)."
+    },
+    {
+      "id": 25,
+      "term": "Társas kapcsolatok fenntartása",
+      "definition": "Az állatok közötti pozitív szocális kölcsönhatások, melyek csoportkohéziót, együtműködést, és információcserét biztosítanak.",
+      "quote": "Csoportkohézió és együttműködés",
+      "text": "Fenntartják: játék, grooming, közös tevékenységek. A csoportöltözés nagyobb védelemben, tápláléklelésben segít. Információcsere: veszélyre figyelmeztetés."
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi a haraszt evolúciós szerepe?",
+      "definition": "A harasztok kb. 400 millió évvel ezelőtti megjelenése merőben új fejezetet jelentett az evolúció történetében, mivel voltak az első valódi szövetes és hajtásos növények.",
+      "quote": "Első szövetes hajtásos",
+      "text": "A mohákhoz hasonlóan ősi zöldmoszatokból alakultak ki, de fejlődésük nem vezetett a magasabb rendű növények felé. Kialakulásuk zsákutcát képviselik az evolúcióban."
+    },
+    {
+      "id": 2,
+      "term": "Miért kellett a szárazföldi életmódra áttérni szövetekre?",
+      "definition": "A szárazföldi életmódra áttérés indukálta a valódi szövetek, növényi szervek kialakulását. Vízban élő növénynek szöveteire nincs szüksége.",
+      "quote": "Szárazföldi alkalmazkodás",
+      "text": "Vízben élő növénynek nem kell gyökér, szállítószövet, bőrszövet vagy mechanikai szövet, mivel a tápanyagokat egész testfelületén felszívja és a vízben nincs gravitáció."
+    },
+    {
+      "id": 3,
+      "term": "Mi a gyökér biológiai funkciója?",
+      "definition": "A gyökér a növényt a talajhoz rögzíti, a vízzel oldott ásványi anyagokat felszívja és tárgyak felhasználásával tárolódik.",
+      "quote": "Rögzítés és vízfelvétel",
+      "text": "A gyökér összetett szözetekből áll, amelyek között vannak vízfelvételi sejtek, tápanyag szállító sejtek és a növényt a talajban rögzítő sejtek."
+    },
+    {
+      "id": 4,
+      "term": "Mi a szár biológiai funkciója?",
+      "definition": "A szár a levéleket a fényes helyre emeli és a gyökér által felszívott vízet, valamint a levélekben termelődött szerves anyagokat szállítja.",
+      "quote": "Támasztás és szállítás",
+      "text": "A szár összetett szövetekből épül fel: külső bőrszövet, szállítószövet (farész, háncsrész), mechanikai szövet a szilárdsághoz."
+    },
+    {
+      "id": 5,
+      "term": "Mi a levél biológiai funkciója?",
+      "definition": "A levél a fotoszintézis fő helye, ahol a napsugárzás energiáját felhasználva szerves anyagok képződnek.",
+      "quote": "Fotoszintézis szerv",
+      "text": "A levél nagy felületével maximalizálja a fényfelvételt. Gázcserenyílásain keresztül CO2 kerül be és O2 lép ki."
+    },
+    {
+      "id": 6,
+      "term": "Mik a harasztvál és nyitvatermő tünetei?",
+      "definition": "A harasztoknál még csak önfenntartó, ún. vegetatív szervek találhatók (pl. levél). A nyitvatermőknél megjelennek a szaporítószervek: mag és virág.",
+      "quote": "Virág és mag megjelenése",
+      "text": "A termés csak a zárvatermők törzsére jellemző, amely a befejezett evolúciót mutatja."
+    },
+    {
+      "id": 7,
+      "term": "Mi a virág biológiai szerepe?",
+      "definition": "A virág a szaporítás szerve, amely a pollen (hímivarsejt) és petesejt egyesülésén keresztül magvakat termel.",
+      "quote": "Ivaros szaporodás szerve",
+      "text": "A virág összetett szerv, amely különféle segédszervekből (virágtakaró, porzók, termő) és egy alapvető szaporító részből épül fel."
+    },
+    {
+      "id": 8,
+      "term": "Mit jelent az egyivarú és kétvarú virág?",
+      "definition": "Az egyivarú virágban vagy csak termőlevél vagy csak porzó található. A kétvarú virágban mindkettő megtalálható.",
+      "quote": "Egy vagy két ivar",
+      "text": "Az egylaki növény egy egyeden mind a termőlevél, mind a porzós virágok megtalálhatók. A kétlaki növénynek vannak csak hím és csak női egyedei."
+    },
+    {
+      "id": 9,
+      "term": "Mi a mag és szerepe?",
+      "definition": "A mag a megtermékenyített ovulum, amely csírát (embrió), tartaléktápanyagot és maghéjat tartalmaz. Biztosítja a növény terjedését.",
+      "quote": "Védett csíra és táp",
+      "text": "A mag az emberkori alkalmazkodás csúcsa, amely az új generáció megjelenésének biztosításánál új kezdetleges szint nyújt."
+    },
+    {
+      "id": 10,
+      "term": "Mi a termés?",
+      "definition": "A termés a megtermékenyített virág termőjéből fejlődik. Egyetlen zárvatermő sajátsága, amely a magokat a késői terjesztésig védi.",
+      "quote": "Megtermékenyített termő",
+      "text": "A termés megjelenése az evolúció jele, amely a magterjesztéshez alkalmazott sejtek közvetlen szervezeteiből fejlődik."
+    },
+    {
+      "id": 11,
+      "term": "Mi az a kettős megtermékenyítés a zárvatermőknél?",
+      "definition": "A kettős megtermékenyítés során egy spermium a petesejtet, a másik spermium az endospermium magját megtermékenyíti.",
+      "quote": "Kétszeres megtermékenyítés",
+      "text": "Ez a folyamat csak a zárvatermőknél fordul elő, amely biztosítja, hogy a csírának megfelelő tartaléktápanyag legyen rendelkezésére."
+    },
+    {
+      "id": 12,
+      "term": "Mi a növényi szövet típusai és funkciójuk?",
+      "definition": "Az osztódó szövet (növekedés), állandósult szövetek (bőrszövet, alapszövet, szállítószövet) különféle funkciókat végeznek.",
+      "quote": "Osztódó és állandósult",
+      "text": "A bőrszövet védelmet, az alapszövet tápanyag-raktározást, a szállítószövet anyagszállítást végez a növényi testben."
+    },
+    {
+      "id": 13,
+      "term": "Mi a gázcserenyílások és funkciójuk?",
+      "definition": "A gázcserenyílások a levél fonákján végzik a CO2 felvételét és az O2 leadást. Szabályozzák a vízpárolgást is.",
+      "quote": "CO2 és O2 csere",
+      "text": "A gázcserenyílások záródnak száraz körülmények között, hogy megakadályozzák a túlzott vízpárolgást."
+    },
+    {
+      "id": 14,
+      "term": "Mi a kapillaritás és kohézió szerepe a vízszállításban?",
+      "definition": "A kohézió a vízmolekulák közötti vonzás, a kapillaritás a víz és a sejt közötti vonzás. Ezek lehetővé teszik a víz felvételt és szállítást.",
+      "quote": "Víz molekula attrakkió",
+      "text": "A vízszállító csövekben a víz egy folytonos oszlopon keresztül szállítódik a gyökértől a levelekig a kapillarítás és kohézió miatt."
+    },
+    {
+      "id": 15,
+      "term": "Mi a párologtatás és szerepe?",
+      "definition": "A párologtatás a leveleken a víznek a levegőbe való elpárolgása. Ez a folyamat a vízszállítás hajtóereje.",
+      "quote": "Víz párlgása hajtóerő",
+      "text": "A párologtatás mellett a gyökérnyomás (ozmotikus nyomás) is hozzájárul a vízszállításhoz."
+    },
+    {
+      "id": 16,
+      "term": "Mi az éves gyűrű és képződése?",
+      "definition": "Az éves gyűrűk a fás szár keresztmetszetén láthatók, amelyekben a tavaszi világos gyűrű, az őszi sötét gyűrűhöz tartozik.",
+      "quote": "Tavaszi és őszi vastagság",
+      "text": "Egyetlen éves gyűrű egy naptári év növekedési periódusát reprezentálja. A sötét és világos gyűrűk száma a fa életkorát jelzi."
+    },
+    {
+      "id": 17,
+      "term": "Mi az a csírázás és feltételei?",
+      "definition": "A csírázás a mag kicsírája fejlődésének folyamata. Szükségesek belső feltételek (csírázási gátló lebontása), külső feltételek (víz, hőmérséklet, oxigén).",
+      "quote": "Magkicsíráztatás",
+      "text": "A mag csírázása egyensúlya a vizet felszívja és a sejtek kitöltésével nyomást gyakorol, ami az embrió növekedésének kezdetét okozza."
+    },
+    {
+      "id": 18,
+      "term": "Mi az ivartalan szaporítás módjai?",
+      "definition": "Az ivartalan szaporítás módjai: tőosztás, dugványozás, oltás, szemzés, klónozás. Ezek vegetatív szaporodás módjai.",
+      "quote": "Vegetatív szaporodás",
+      "text": "Az ivartalan szaporítás előnye, hogy az eredeti növény tulajdonságait teljes egészében megőrzi. Az ivaros szaporodás viszont nagyobb genetikai változatosságot eredményez."
+    },
+    {
+      "id": 19,
+      "term": "Mi az auxin és hatása a növényen?",
+      "definition": "Az auxin egy növényi hormon, amely a növekedést szabályozza. Fényre való válasz (fototrópizmus) és gravitációra való válasz (gravitrópizmus) alatt működik.",
+      "quote": "Növekedés szabályozó hormon",
+      "text": "Az auxin jelenlétét az ún. Went-kísérlet bizonyította, amely osztató csölök közötti diffúzióját vizsgálta."
+    },
+    {
+      "id": 20,
+      "term": "Mi az etilén és gyakorlati felhasználása?",
+      "definition": "Az etilén egy növényi hormon, amely a gyümölcsérést szabályozza. Gyakorlatban a gyümölcsök érésének felgyorsítására vagy késleltetésére használják.",
+      "quote": "Érés serkentő hormon",
+      "text": "Az etilén gázként terjedő hormon, amely kölcsönhatást gyakorol a gyümölcsérés folyamatában és az elnyűltség megakadályozásában."
+    },
+    {
+      "id": 21,
+      "term": "Mi a szivacsok legfőbb jellegzetessége?",
+      "definition": "A szivacsok a legősibb többsejtű állatok, amely testének felépítése az elmúlt mintegy 580 millió év alatt gyakorlatilag nem változott.",
+      "quote": "Evolúció során változatlan",
+      "text": "A szivacsoknak nincs valódi szövete, csupán álszövetből épülnek fel. Az ide tartozó élőlény csupán egyetlen törzs, a szivacsok törzse."
+    },
+    {
+      "id": 22,
+      "term": "Milyen élőhelyen fordulnak elő a szivacsok?",
+      "definition": "A szivacsok nagyrészt tengeriek, ritkán édesvíziek (2 százalék). Elsősorban a sekélyebb part menti vizeket kedvelik, de ismertek 6000 méteren élő fajok is.",
+      "quote": "Tengeri és édesvízi élőhely",
+      "text": "A szivacsok mindig valamilyen felülethez tapadnak, amely lehet az aljzat vagy mesterséges építmény. A szivacsok telepei összefüggő szervezeteket képeznek."
+    },
+    {
+      "id": 23,
+      "term": "Mi a szivacs testfelépítése?",
+      "definition": "Az állat kívülről a testfal határolja, amely egy üreget, az ún. űrbelet veszi körül. A testfalon rengeteg apró (pórusok) és egy nagyobb (kivezető nyílás) nyílás található.",
+      "quote": "Csatorna rendszer",
+      "text": "A pórusokból a víz beáramlik az űrbélbe, a kivezető nyílásból pedig ki. Az egész vízrendszer a szivacs táplálkozásának és légzésének alapja."
+    },
+    {
+      "id": 24,
+      "term": "Mik a szivacs 3 szövetrétege?",
+      "definition": "A külső réteg fedősejtekből, a belső az űrbelet határoló galléros ostoros sejtekből, a középső egy kocsonyás lemnzből áll.",
+      "quote": "Három rétegű szerkezet",
+      "text": "A galléros ostoros sejtek ostoruk csapkodásával vízáramot keltenek és a vízből táplálékot felszívnak. A középső rétegben vándorsejtek és váztűképző sejtek helyezkednek el."
+    },
+    {
+      "id": 25,
+      "term": "Milyen vázelemei vannak a szivacsknak?",
+      "definition": "A vázelemek anyaga szerint a szivacsok 3 csoportjába: kovaszivacs (szilícium-dioxid), mészszivacs (kalcium-karbonát), szaruszivacs (szponginjódtartalmú fehérje).",
+      "quote": "Három váztípus",
+      "text": "A vázelemek igen változatos felépítésűek és egymáshoz kapcsolódva bonyolult vázrendszert képeznek, amely biztosítja a szivacstest alakállandóságát."
+    },
+    {
+      "id": 26,
+      "term": "Mi a szivacs táplálkozási módja?",
+      "definition": "A szivacs táplálékát elsősorban egysejtűek, baktériumok és szerves törmelék képezi. A testén átszűrődő tengervízből a galléros-ostoros sejtek veszik fel a táplálékot.",
+      "quote": "Átszűrés táplálkozás",
+      "text": "A táplálék beleragad a sejteket borító nyálkarétegbe, majd bekebelezve megkezdődik az emésztés. Ez az emésztésnek a sejten belüli formája."
+    },
+    {
+      "id": 27,
+      "term": "Miért szerzett örömét a szivacs diffúz légzéssel?",
+      "definition": "A szivacsoknak külön légzőszervük nincs, a szükséges oxigént a testüket körülvevő és az átáramló vízből veszik fel diffúzióval.",
+      "quote": "Egész testfelület légzés",
+      "text": "A szivacs túl egyszerű szerkezetéhez nem szükséges fejlett légzőrendszer, a felület-térfogat arány elég nagy a diffúziós légzéshez."
+    },
+    {
+      "id": 28,
+      "term": "Mi a szivacs ivartalan szaporodása?",
+      "definition": "A szivacs ivartalan szaporodása lehet bimbózás (sarjadzás) vagy édesvízi fajoknál gyöngysarj képzés.",
+      "quote": "Bimbó vagy gyöngysarj",
+      "text": "A gyöngysarj egy ellenálló tokkal körülvett őssejtek halmaza, amely a vízáramlás messzire elsodorja és egy alkalmas helyen megtapadva a telet végig veszi."
+    },
+    {
+      "id": 29,
+      "term": "Mi a szivacs ivaros szaporodása?",
+      "definition": "Az ivaros szaporodás során az őssejtekből meiózissal ivarsejtek keletkeznek. A szivacs lehetnek váltivarúak vagy hímnősek.",
+      "quote": "Ivaros szaporodás",
+      "text": "A hímivarsejtek nagy mennyiségben keletkeznek és vízárammal egy petesejtet tartalmazó szivacs testének belsejébe kerülnek."
+    },
+    {
+      "id": 30,
+      "term": "Mi a laposférgek és jellegzetességei?",
+      "definition": "A laposférgek az evolúcióban elsőként rendelkeztek valódi szövetekkel. Jellemző a kétoldali szimmetria, a testtájak megjelenése és a dúcidegrendszer.",
+      "quote": "Első valódi szövetek",
+      "text": "A laposférgek között például a füles planária található. Testük hát-hasi irányban lapított, csillós hammal és simaizomszövettel borított."
+    },
+    {
+      "id": 31,
+      "term": "Mi a planária táplálkozása?",
+      "definition": "A füles planária ragadozó, amely emésztőcsatornájául csupán elő- és középbélből áll. Kiölthető csőszerű garattal ragadja meg áldozatát.",
+      "quote": "Üresen végződő bélcsatorna",
+      "text": "Az emésztés részben sejten kívüli (mirigysejtek), részben sejten belüli. Az emészthetetlen salakanyag a szájnyíláson távolszik."
+    },
+    {
+      "id": 32,
+      "term": "Mi a gyűrűsférgek jellegzetessége?",
+      "definition": "A gyűrűsférgek neve a testük jellegzetes gyűrüs tagoltságára utal. Rendelkeznek keringési rendszerrel és fejlettebb idegrendszerrel.",
+      "quote": "Gyűrüs tagoltság",
+      "text": "A gyűrűsférgek közé tartoznak az ízeltlábúak és a puhatestűek. A tagoltság belső és külső felépítésükre is jellemző."
+    },
+    {
+      "id": 33,
+      "term": "Mi az ízeltlábúak (rovarok) jellegzetessége?",
+      "definition": "Az ízeltlábúak harmadik páripláva, felhasított végtagokkal rendelkeznek. Szervezete tagolt, a test szegmentekből épül fel.",
+      "quote": "Tagolt végtagok",
+      "text": "Az ízeltlábúak közé tartoznak a rákok, pókók, százlábúak és rovarok. Külső vázuk kitinből készült, amely időnként vedlés útján lecserélődik."
+    },
+    {
+      "id": 34,
+      "term": "Mi a puhatestűek (csigák) jellegzetessége?",
+      "definition": "A puhatestűeknek nincsen külső váza, testük rugalmas és felsőbbrendű szervrendszert jelleneznek.",
+      "quote": "Puha test szervezet",
+      "text": "A puhatestűek közé tartoznak a csigák, kagylók és tintahal. Fejlettebb idegrendszerük van más gerinctelenek közül."
+    },
+    {
+      "id": 35,
+      "term": "Mi a gerincesek jellegzetessége?",
+      "definition": "A gerincesek belső gerincoszloppal (csigolyákkal) rendelkeznek, amely támogatja a testüket és védi az agyvelmőt.",
+      "quote": "Gerinc gerincoszlop",
+      "text": "A gerincesek között vannak halak, kétéltűek, hüllők, madarak és emlősök. Ez az egyik legsikerbében és legváltozatosabb állatcsoport az evolúcióban."
+    },
+    {
+      "id": 36,
+      "term": "Mi a csontos halak jellegzetessége?",
+      "definition": "A csontos halak testei csontvázzal, úszókkal és kopoltyúkkal rendelkeznek. Ezek az első igazi vízben élő gerincesek.",
+      "quote": "Csont váz úszó kopoltyú",
+      "text": "A csontos halak a gerincesek azon osztálya, amely a legtöbb létező halat tartalmazza."
+    },
+    {
+      "id": 37,
+      "term": "Mi a kétéltűek jellegzetessége?",
+      "definition": "A kétéltűek szárazföldön és vízben is élhetnek. Fejlődésük közvetett, a tadpole lárváról az imágóra történő metamorfózison mennek keresztül.",
+      "quote": "Víz és szárazföld",
+      "text": "A kétéltűek közé tartoznak a békák, varangyok és mollyok. Szaporodásuk vízhez kötött, imádkozó állatok."
+    },
+    {
+      "id": 38,
+      "term": "Mi a hüllők jellegzetessége?",
+      "definition": "A hüllők szárazföldi élőlények, száraz bőrrel, kagyló-szerű tojásokkal. A korai szárazföldi gerincesek közé tartoznak.",
+      "quote": "Száraz bőr szárazföldi",
+      "text": "A hüllők közé tartoznak a kígyók, gyíkok, teknősök és krokodilusok. Testük általában hosszúkás és négy végtaggal rendelkeznek."
+    },
+    {
+      "id": 39,
+      "term": "Mi a madarak jellegzetessége?",
+      "definition": "A madarak fedettségét toll borítja, amely izolál, repüléshez segít. Csontvázzuk könnyű, csontjaik üreges felépítésűek.",
+      "quote": "Toll és üreges csont",
+      "text": "A madarak magas testhőmérsékletű állatok, szívük jól fejlett és egy két kör keringésből álló vérkeringési rendszerük van."
+    },
+    {
+      "id": 40,
+      "term": "Mi az emlősök jellegzetessége?",
+      "definition": "Az emlősöket szőr borítja, magas testhőmérséklettel rendelkeznek, és az ivarosukméreg szül élő utódokat.",
+      "quote": "Szőr és emlőmirigyek",
+      "text": "Az emlősök közé tartozunk magunk is, az emberek. Ez az egyik legsikerbiben evolúció származott csoportja a szárazföldi gerincteseknek."
+    },
+    {
+      "id": 41,
+      "term": "Mi az állati szövet típusai?",
+      "definition": "Az állati szervezetekben öt fő szövettípust különböztetünk meg: hámszövet, kötőszövet, támasztószövet, izomszövet, idegszövet.",
+      "quote": "Öt szövettípus",
+      "text": "A legtöbb szövetféleség sejtekből és a közöttük lévő sejtközötti állományból áll, amely tömegét tekintve jelentős mennyiségben lehet jelen."
+    },
+    {
+      "id": 42,
+      "term": "Mi a hámszövet funkciói?",
+      "definition": "A hámszövet a test külső és belső felszíneit fedi. Feladata mechanikai, kémiai védelem, párolgás elleni védelem, anyagfelvétel és -leadás, ingerek felvétele.",
+      "quote": "Védelem és csere",
+      "text": "A hámszövet sejtjei igen szorosan kapcsolódnak egymáshoz, sejtközötti állomány nincs. Ezért ereket nem tartalmaz, táplálása a hámszöveteket mindig kísérő kötőszövet felől történik diffúzióval."
+    },
+    {
+      "id": 43,
+      "term": "Mi az egyrétegű laphám?",
+      "definition": "Az egyrétegű laphám szorosan illeszkedő, lapos, sokszögletű sejtekből áll. Ilyen a vér- és nyirokereket bélelő hámréteg.",
+      "quote": "Szoros lapos sejtek",
+      "text": "Az egyrétegű laphám előfordulhat a tüdőhólyagocskák belső felszínén is, ahol a gázcsere történik."
+    },
+    {
+      "id": 44,
+      "term": "Mi az egyrétegű hengerhám és jellegzetességei?",
+      "definition": "Az egyrétegű hengerhám hosszúkás, hatszögletű sejtekből épül fel. Sejtjei gyakran viselnek felszíni differenciálódásokat (mikrobolyhok, csillók, kutikula).",
+      "quote": "Elterjedt hámféleség",
+      "text": "A mikrobolyhok ujjszerű citoplazma-kitűrődések, amelyek a felületet sokszorosára növelik. Igen nagyszámú, azonos méretű mikroboholy borítja a bélhámsejtek felszínét."
+    },
+    {
+      "id": 45,
+      "term": "Mi a csillók funkciója a hengerhámon?",
+      "definition": "A csillók mozgékony, apró sejtnyúlványok, amelyek az orrüreg belső felszínén, a légcsőben és a petevezetékben fordulnak elő.",
+      "quote": "Mozgó sejtnúlványok",
+      "text": "A csillók segítségével a nyákok és más részecskék megtakarítódnak az emlősök légúti rendszerében."
+    },
+    {
+      "id": 46,
+      "term": "Mi a kutikula funkciója?",
+      "definition": "A kutikula a gerinctelen állatok kültakarójának hámjának külső felszínén előforduló, védőréteg. Az ízeltlábúaknál ilyen a kitin.",
+      "quote": "Külső védőréteg",
+      "text": "A kitin egy kemény, rugalmas szerkezet, amely az ízeltlábúak meghatározó jellegzetességét képezi."
+    },
+    {
+      "id": 47,
+      "term": "Mi a többrétegű el nem szarusodó laphám?",
+      "definition": "Ez a hámféleség mechanikai igénybevételeknek kitett, de kiszáradástól nem veszélyeztetett felületeken fordul elő, mint a halak bőre.",
+      "quote": "Ellenálló de nedves",
+      "text": "Sok helyen gyengén elszarusodó formája ismert, mint a szájüreg, nyelőcső, hüvely, végbél, és a szem szaruhártyája."
+    },
+    {
+      "id": 48,
+      "term": "Mi a többrétegű elszarusodó laphám?",
+      "definition": "Ez a hám legfelső sejtsorai elhalnak, elszarusodnak, aminek következtében egy szaruréteg alakul ki, amely véd a kiszáradástól és mechanikai hatásoktól.",
+      "quote": "Száraz védelmi réteg",
+      "text": "Ez jellemzően a szárazföldi gerincesek – hüllők, madarak, emlősök – bőrének felszínén fordul elő."
+    },
+    {
+      "id": 49,
+      "term": "Mi a mirigyhám és funkciói?",
+      "definition": "A mirigyhám különféle funkciójú és összetételű váladék termelésére specializálódott szövetféleség.",
+      "quote": "Váladék termelés",
+      "text": "A termelt váladék lehet kiválasztott (felesleges) vagy elválasztott (felhasznált). Az elválasztás lehet belső (hormon) vagy külső (nyálmirigyek, verejtékmirigyek)."
+    },
+    {
+      "id": 50,
+      "term": "Mi a belső elválasztású mirigy és hormon?",
+      "definition": "A belső elválasztású mirigy (endokrin mirigy) a termelt váladékot közvetlenül a vérbe ürítik. A váladék neve hormon.",
+      "quote": "Vérbe ürített hormon",
+      "text": "Az endokrin mirigyek között vannak az epekészülékek, hasnyálmirigyek (Langerhans-szigetek), pajzsmirigy, agyalapi mirigy és sok más."
+    },
+    {
+      "id": 51,
+      "term": "Mi a kötőszövet feladata?",
+      "definition": "A kötőszövet különféle feladatot végző szöveteket tartalmaz, amelyek elláthatnak mechanikai, anyagcsere, hőszabályozási, védelmi és regenerációs feladatokat.",
+      "quote": "Sokoldalú működés",
+      "text": "A kötőszövet formái: lazarostos kötőszövet, tömöttrostos kötőszövet, zsírszövet. A sejtek nem fekszenek szorosan egymás mellett."
+    },
+    {
+      "id": 52,
+      "term": "Mi a csontszövet és funkciója?",
+      "definition": "A csontszövet a legmegterhelhetőbb szövetünk, amely mechanikai erőknek nagyban ellenáll és a testünk vázrendszerét képezi.",
+      "quote": "Szilárd vázrendszer",
+      "text": "A csont nagy része ásványi anyag, amelyet szerves alapanyag (kollagén) teszi rugalmassá. A belső szerkezet szpongyózus, a külső sűrű csontszövet."
+    },
+    {
+      "id": 53,
+      "term": "Mi az idegszövet összetevői?",
+      "definition": "Az idegszövet idegsejtekből (neuronok) és támasztó sejtekből (gliasejtek) épül fel. Az idegsejtek az ingerek átvitelét végzik.",
+      "quote": "Jelvezetés sejtek",
+      "text": "Az idegsejteknek testük, dendritjük és axonuk van. Az ingerek a dendritokon érkeznek, az axonok pedig elvezetik az ingerekto."
+    },
+    {
+      "id": 54,
+      "term": "Mi az izomszövet típusai és funkciójuk?",
+      "definition": "Az izomszövet három típusa: vázizom (összehúzódás alatt kontrolld), szívizom (ritmikus összehúzódás), simaizom (akaratlan működés).",
+      "quote": "Háromféle izomzat",
+      "text": "A vázizom voluntér működésű, a szívizom és simaizom involuntér. Az izmok energiájául az ATP szolgál az erőforrás."
+    },
+    {
+      "id": 55,
+      "term": "Mi a vér összetétele?",
+      "definition": "A vér plazmaból és vérsejtekből (vörösvérsejt, fehérvérsejt, vérlemezkék) áll. A vér szövetként funkcionál az anyagszállítás és védekezésben.",
+      "quote": "Folyékony szövet",
+      "text": "A vörösvérsejtek hemoglobint tartalmaznak, amely az oxigénszállítást végzi. A fehérvérsejtek a védekezésben, a vérlemezkék a véralvadásban játszanak szerepet."
+    },
+    {
+      "id": 56,
+      "term": "Mi az ivaros és ivartalan szaporodás előnyei?",
+      "definition": "Az ivaros szaporodás genetikai változatosságot biztosít, de lassabb. Az ivartalan szaporodás gyors, de genetikai azonosság ezt eredményez.",
+      "quote": "Változatosság vs. gyorsaság",
+      "text": "Az élet körülmények és populáció nagyságára függően az egyik vagy másik szaporodási mód lehet előnyös."
+    },
+    {
+      "id": 57,
+      "term": "Mi a külső és belső megtermékenyítés?",
+      "definition": "A külső megtermékenyítés a szervezet testén kívül történik (pl. hal, békka). A belső megtermékenyítés a nőstény szervezetében történik (pl. emlős, hüllő).",
+      "quote": "Víz vagy test közegben",
+      "text": "A belső megtermékenyítés a szárazföldi élet előfeltétele. Az életkörülmények és utódszám között szoros kapcsolat van."
+    },
+    {
+      "id": 58,
+      "term": "Mi az embrionális és postembrionális fejlődés?",
+      "definition": "Az embrionális fejlődés az első megtermékenyítéstől a születésig vagy kelésig tart. A postembrionális fejlődés születés után folytatódik.",
+      "quote": "Születés előtt után",
+      "text": "Egyes állatoknál a fejlődés közvetett (lárvákon keresztül), másoknál közvetlen (nem lárva forma)."
+    },
+    {
+      "id": 59,
+      "term": "Mit jelent az ivari kétalakúság?",
+      "definition": "Az ivari kétalakúság azt jelenti, hogy a hím és nőstény egyedek morfológiailag különböznek egymástól.",
+      "quote": "Hím-nő fizikai eltérés",
+      "text": "Az ivari kétalakúság bizonyos állatfajoknál rendkívül markáns lehet, mint például a pávabaknál a tollaknál."
+    },
+    {
+      "id": 60,
+      "term": "Mi az a regeneráció az állatoknan?",
+      "definition": "A regeneráció az a képesség, hogy az elvesztett vagy megsérült szövetek és szervek újraépüljenek.",
+      "quote": "Szövet helyreállítás",
+      "text": "Az alacsonyabb rendű állatok (pl. laposférgek, szivacs) kitűnően regenerálódnak, míg a magasabb rendűeknél korlátozottabb ez a képesség."
+    }
+  ]
+}

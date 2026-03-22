@@ -1,0 +1,1736 @@
+{
+  "subjectId": "biology",
+  "moduleId": "szabalyozas",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az idegsejtnek mely része továbbítja az ingerületet más sejtekhez?",
+      "options": [
+        "Dendrit",
+        "Sejttest (soma)",
+        "Axon és axonvégfácska",
+        "Axondomb"
+      ],
+      "answer": "Axon és axonvégfácska"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Melyik ioncsatorna-típus működik az akciós potenciál depolarizációs fázisában?",
+      "options": [
+        "Ligand-függő Na+-csatornák a szinapszisban",
+        "Feszültségfüggő Na+-csatornák az axonon",
+        "Feszültségfüggő K+-csatornák a dendriteken",
+        "Szivárgási csatornák"
+      ],
+      "answer": "Feszültségfüggő Na+-csatornák az axonon"
+    },
+    {
+      "id": 3,
+      "type": "BLANK",
+      "question": "Az ingerület vezetésében az axondomb (akadályok) jelenti az _____ helyet, ahol az akciós potenciál kialakulása vagy meghiúsulása eldöl.",
+      "options": [],
+      "answer": "küszöb döntési"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "A myelinfelhő nélküli (unmyelinated) axonokon az ingerületvezetés sebessége miért lassabb?",
+      "options": [
+        "Mert a depolarizáció a teljes axonhosszon pontról pontra terjedhet",
+        "Mert az axon átmérője általában kisebb",
+        "Mert a Na+-csatornák száma csökkent",
+        "Mert a K+-ionok nem tudnak kilépni"
+      ],
+      "answer": "Mert a depolarizáció a teljes axonhosszán pontról pontra terjedhet"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Az akciós potenciál repolarizációs fázisában melyik ion áramlás játszik fő szerepet?",
+      "options": [
+        "Na+ beáramlás",
+        "K+ kiáramlás az axonon",
+        "Cl- beáramlás a szinapszisban",
+        "Ca2+ felszabadulása az endoplazmatikus reticulumból"
+      ],
+      "answer": "K+ kiáramlás az axonon"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az idegsejt olyan neurotranszmittert választ ki a synapzison, amely alapján azt serkentő vagy gátló szinapszisnak nevezik. A gátló synapszisok tipikusan _____ -ot szabadítanak fel.",
+      "options": [],
+      "answer": "GABA-t (gamma-amino-bogyósav)"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Elektromos synapszisok (rés kapcsolatok) főbb jellemzője a kémiai szinapszihoz képest:",
+      "options": [
+        "Sokkal több neurotranszmitter felhasználása",
+        "Az ingerület egyirányú transzmisszióban történik",
+        "Sokkal gyorsabb ingerületvezetés és kétirányú transzmisszió",
+        "A szinaptikus hólyagok közvetlenül az ionokat juttatják át"
+      ],
+      "answer": "Sokkal gyorsabb ingerületvezetés és kétirányú transzmisszió"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "A szinaptikus szakadékban (szinaptikus résben) mely folyamat révén jut el a neurotranszmitter az utcai receptorokhoz?",
+      "options": [
+        "Aktív transzport",
+        "Egyszerű diffúzió",
+        "Receptor-közvetített endocitózis",
+        "Exocitózis"
+      ],
+      "answer": "Egyszerű diffúzió"
+    },
+    {
+      "id": 9,
+      "type": "BLANK",
+      "question": "Az akciós potenciál amplitúdója maximális (minden vagy semmi törvénye), amely azt jelenti, hogy az ingerület erőssége nem az amplitúdóban, hanem az _____ -ban kódolódik.",
+      "options": [],
+      "answer": "frekvenciában (pulzusszámban)"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "A gliasejtek (glia, support sejtek) mely típusa elsősorban az axon myelinizációját végzi?",
+      "options": [
+        "Asztrociták",
+        "Mikroglya",
+        "Oligodendrocyta (központi idegrendszer) és Schwann-sejtek (perifériás idegrendszer)",
+        "Ependima sejtek"
+      ],
+      "answer": "Oligodendrocyta (központi idegrendszer) és Schwann-sejtek (perifériás idegrendszer)"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Az akciós potenciál vezetésének sebessége az alábbiak közül melyik tényezőn függ ELSŐ SORBAN?",
+      "options": [
+        "Az axon átmérője és a myelinburkolat jelenléte",
+        "A Na+-K+ pumpa aktivitása",
+        "Az akciós potenciál amplitúdója",
+        "A neurotranszmitter típusa"
+      ],
+      "answer": "Az axon átmérője és a myelinburkolat jelenléte"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az acetilkolin az ideg-izom szinapszisban Na+-csatornákat nyit meg, amely serkentő hatást okoz. Ugyanakkor a szívizomban _____ -csatornákat nyit meg, amely gátló hatáshoz vezet.",
+      "options": [],
+      "answer": "K+-"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A szerotonin neurotranszmitter elsősorban mely funkcióban játszik szerepet?",
+      "options": [
+        "Izomösszehúzódás a szomatikus mozgatási ágon",
+        "Alvás, hangulat és fájdalomérzet szabályozása",
+        "Adrenalin termelésének aktiválása",
+        "Memória konszolidáció az agykéregben"
+      ],
+      "answer": "Alvás, hangulat és fájdalomérzet szabályozása"
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "A preszinapszis axonvégfácskájában mely folyamat révén ürülnek a szinaptikus hólyagok neurotranszmitter tartalmukkal?",
+      "options": [
+        "Endocitózis",
+        "Diffúzió a membránon keresztül",
+        "Ca2+-beáramlás-kiváltotta exocitózis",
+        "ATP-függő aktív transzport"
+      ],
+      "answer": "Ca2+-beáramlás-kiváltotta exocitózis"
+    },
+    {
+      "id": 15,
+      "type": "BLANK",
+      "question": "A _____ olyan gliasejtek, amelyek a központi idegrendszer területén az inflamációs válaszban és a patogének eltávolításában játszanak szerepet, miközben szerepe van az axonális szinaptikus plasticitásban is.",
+      "options": [],
+      "answer": "Mikroglia"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "A hiperpolarizáció durante a repolarizáció után miért is történik?",
+      "options": [
+        "Mivel a K+-csatornák lassan zárulnak, még akkor is amikor a membránpotenciál eléri a nyugalmi értéket",
+        "Mivel a Na+-beáramlás még nem szűnt meg teljesen",
+        "Mivel a Na+-K+ pumpa lassabb a K+ kiáramlásánál",
+        "Mivel a Cl--ionok magas koncentrációja megakadályozza a K+ visszatérését"
+      ],
+      "answer": "Mivel a K+-csatornák lassan zárulnak, még akkor is amikor a membránpotenciál eléri a nyugalmi értéket"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Az endorfinok (endogén opioidok) milyen mechanizmussal fejtenek ki fájdalomcsillapító hatást?",
+      "options": [
+        "Direkt Na+-csatorna blokk",
+        "Az axon felszínén GABA receptorok aktiválása",
+        "Fájdalomcsillapítást végző központokba ható és dopamin felszabadulás serkentésé",
+        "A szinaptikus résben a neurotranszmitter eltávolításának gyorsítása"
+      ],
+      "answer": "Fájdalomcsillapítást végző központokba ható és dopamin felszabadulás serkentése"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "A gerincvelő melyik részeiben helyezkednek el a mozgatóneuronok sejttestei?",
+      "options": [
+        "Hátsó szarv",
+        "Mellső szarv és oldalsó szarv",
+        "Központi csatorna",
+        "Fehérállomány"
+      ],
+      "answer": "Mellső szarv és oldalsó szarv"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "A gerincvelői gyökerek közül melyik tartalmaz kizárólag érzőrostokat?",
+      "options": [
+        "Mellső gyökér",
+        "Hátsó gyökér",
+        "Mindkettő kevert",
+        "Egyik sem tartalmaz idegrostokat"
+      ],
+      "answer": "Hátsó gyökér"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "Hány pár gerincvelői ideg található az emberi szervezetben?",
+      "options": [
+        "12 pár",
+        "24 pár",
+        "31 pár",
+        "42 pár"
+      ],
+      "answer": "31 pár"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "A szimpatikus preganglionális rostok melyik gerincvelői szakaszból erednek?",
+      "options": [
+        "Nyaki szakasz (C1-C8)",
+        "Mellkasi és ágyéki szakasz (Th1-L2)",
+        "Keresztcsonti szakasz (S2-S4)",
+        "A teljes gerincvelőből"
+      ],
+      "answer": "Mellkasi és ágyéki szakasz (Th1-L2)"
+    },
+    {
+      "id": 22,
+      "type": "MC",
+      "question": "A dermatóma fogalmán mit értünk?",
+      "options": [
+        "A gerincvelő egy szelvénye",
+        "A bőrnek egy adott gerincvelői ideggel beidegzett területe",
+        "A csigolyaközti dúc egy része",
+        "A felszálló pályák egyike"
+      ],
+      "answer": "A bőrnek egy adott gerincvelői ideggel beidegzett területe"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "A bőreredetű szomatikus reflex melyik típusú reflex?",
+      "options": [
+        "Azonos oldali kettős mozgatóneuroni",
+        "Azonos oldali hajlító-keresztezett feszítő reflex",
+        "Csak felszálló pályákat érint",
+        "Direkten az agyba jut"
+      ],
+      "answer": "Azonos oldali hajlító-keresztezett feszítő reflex"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az izomorsó a combfeszítő izmomban található tokkal körülvett, módosult izomrostokra csavarodott érző _____.",
+      "options": [],
+      "answer": "idegvégződés"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Az akaratlagos mozgások szabályozásáért mely pálya felelős?",
+      "options": [
+        "Felszálló szenzoros pályák",
+        "Piramispálya (leszálló motoros pálya)",
+        "Felszálló spinocerebellaris pályák",
+        "A retroflexus pályák"
+      ],
+      "answer": "Piramispálya (leszálló motoros pálya)"
+    },
+    {
+      "id": 26,
+      "type": "MC",
+      "question": "A vegetatív reflexek végrehajtó neuronjai hol helyezkednek el?",
+      "options": [
+        "A gerincvelő mellső szarvában",
+        "A gerincvelő oldalsó szarvában",
+        "A testben elhelyezkedő perifériális vegetatív dúcokban",
+        "A pia materben"
+      ],
+      "answer": "A testben elhelyezkedő perifériális vegetatív dúcokban"
+    },
+    {
+      "id": 27,
+      "type": "BLANK",
+      "question": "Az interneuronok sejttestei a gerincvelő _____ szarvában helyezkednek el.",
+      "options": [],
+      "answer": "hátsó"
+    },
+    {
+      "id": 28,
+      "type": "MC",
+      "question": "A paraszimpatikus idegrostok melyik gerincvelői szakaszokból lépnek ki?",
+      "options": [
+        "Mellkasi és ágyéki (Th1-L2)",
+        "Keresztcsonti (S2-S4)",
+        "Nyaki (C1-C8)",
+        "Mellkasi (Th1-Th12) és keresztcsonti (S2-S4)"
+      ],
+      "answer": "Keresztcsonti (S2-S4)"
+    },
+    {
+      "id": 29,
+      "type": "MC",
+      "question": "Mit jelent az, hogy a gerincvelő szelvényezett?",
+      "options": [
+        "A gerincvelő szakaszokra osztott, melyek a csigolyáknak felelnek meg",
+        "A gerincvelőből kilépő idegek szelvényesen hálózzák be a testet",
+        "A szürgeállomány szelvényes elrendeződésű",
+        "A fehérállomány szelvényes kötegekből áll"
+      ],
+      "answer": "A gerincvelőből kilépő idegek szelvényes elrendeződésű beidegzést biztosítanak"
+    },
+    {
+      "id": 30,
+      "type": "BLANK",
+      "question": "A mellső szarvi mozgatóidegsejtekből kiinduló rostok az _____ gyökéren keresztül hagyják el a gerincvelőt.",
+      "options": [],
+      "answer": "mellső"
+    },
+    {
+      "id": 31,
+      "type": "MC",
+      "question": "A lófarok (cauda equina) miből áll?",
+      "options": [
+        "A gerincvelő végpontja után kilépő ideghalmaz",
+        "Az első ágyékcsigolya alatt a gerinccsatornában húzódó gerincvelői gyökerek",
+        "A gerincvelő keresztcsonti szakasza",
+        "Az érzőrostok csoportosulása"
+      ],
+      "answer": "Az első ágyékcsigolya alatt a gerinccsatornában húzódó gerincvelői gyökerek"
+    },
+    {
+      "id": 32,
+      "type": "MC",
+      "question": "A gerincvelő melyik szarva tartalmazza a központi vegetatív interneuronokat?",
+      "options": [
+        "Mellső szarv",
+        "Hátsó szarv",
+        "Oldalsó szarv",
+        "Központi csatorna körüli terület"
+      ],
+      "answer": "Oldalsó szarv"
+    },
+    {
+      "id": 33,
+      "type": "BLANK",
+      "question": "A szomatikus reflex végeredménye vázizom _____, míg a vegetatív reflex simaizmokat, mirigyeket és szívizmot érint.",
+      "options": [],
+      "answer": "összehúzódása"
+    },
+    {
+      "id": 34,
+      "type": "MC",
+      "question": "Mely pályák futnak a gerincvelő oldalsó kötegében?",
+      "options": [
+        "Kizárólag felszálló pályák",
+        "Kizárólag leszálló pályák",
+        "Vegyesen felszálló és leszálló pályák",
+        "Csak vegetatív rostok"
+      ],
+      "answer": "Vegyesen felszálló és leszálló pályák"
+    },
+    {
+      "id": 35,
+      "type": "MC",
+      "question": "A piramispályán futó ingerületek hol érik el a mozgatóneuronokat?",
+      "options": [
+        "Az agyban",
+        "A csigolyaközti dúcban",
+        "A gerincvelő mellső szarvában",
+        "Az oldalsó szarvban"
+      ],
+      "answer": "A gerincvelő mellső szarvában"
+    },
+    {
+      "id": 36,
+      "type": "BLANK",
+      "question": "A reflexkörben a központ szabályozza a receptor _____ küszöbét.",
+      "options": [],
+      "answer": "ingerküszöbét"
+    },
+    {
+      "id": 37,
+      "type": "MC",
+      "question": "A gerincvelő mely szakaszához köthetők a felső végtagot ellátó ideghalmaz (karfonat) kilépési helyei?",
+      "options": [
+        "Nyaki szakaszhoz",
+        "Mellkasi szakaszhoz",
+        "Ágyéki szakaszhoz",
+        "Keresztcsonti szakaszhoz"
+      ],
+      "answer": "Nyaki szakaszhoz"
+    },
+    {
+      "id": 38,
+      "type": "MC",
+      "question": "Az akciós potenciál a receptortól mely struktúrán keresztül jut a központba?",
+      "options": [
+        "Mozgatóidegsejtnek",
+        "Érzőidegsejtnek",
+        "Interneuronnak",
+        "Gliasejtnek"
+      ],
+      "answer": "Érzőidegsejtnek"
+    },
+    {
+      "id": 39,
+      "type": "BLANK",
+      "question": "A térdreflex esetén a combfeszítő izom megnyúlása az _____ receptorokkal történő érzékelés révén válik ingerületté.",
+      "options": [],
+      "answer": "izomorsó"
+    },
+    {
+      "id": 40,
+      "type": "MC",
+      "question": "A fájdalmas inger esetén az érzőinformáció melyik pályán jut az agyba?",
+      "options": [
+        "Felszálló spinális pályákon (például spinothalamikus pálya)",
+        "Leszálló piramispályákon",
+        "Oldalsó szarv rostjain",
+        "A mellső gyökéren"
+      ],
+      "answer": "Felszálló spinális pályákon (például spinothalamikus pálya)"
+    },
+    {
+      "id": 41,
+      "type": "MC",
+      "question": "Melyik agyterület felelős elsősorban az érzelmi feldolgozásért, a memóriakialakításért és a motiváció szabályozásáért?",
+      "options": [
+        "Agytörzs",
+        "Limbikus rendszer",
+        "Kisagy",
+        "Agykérgi lebenyek"
+      ],
+      "answer": "Limbikus rendszer"
+    },
+    {
+      "id": 42,
+      "type": "MC",
+      "question": "Mely agyterületek tartoznak a köztiagy (diencephalon) részeihez?",
+      "options": [
+        "Talamusz és hypothalamus",
+        "Hippocampus és amygdala",
+        "Nyúltvelő és híd",
+        "Kisagy és nagyagy"
+      ],
+      "answer": "Talamusz és hypothalamus"
+    },
+    {
+      "id": 43,
+      "type": "MC",
+      "question": "A Broca-terület, amely a motorikus beszédért felelős, mely agyterületben helyezkedik el?",
+      "options": [
+        "Talamuszban",
+        "Frontális lebeny inferior gyrusában",
+        "Temporális lebeny Wernicke-mezejében",
+        "Nyúltvelőben"
+      ],
+      "answer": "Frontális lebeny inferior gyrusában"
+    },
+    {
+      "id": 44,
+      "type": "MC",
+      "question": "Az agytörzsi hálózatos állomány mely funkciók fenntartásában játszik kritikus szerepet?",
+      "options": [
+        "Motoros tervezés és végrehajtás",
+        "Alvás-ébrenléti ciklus, éberség és vegetatív funkciók",
+        "Rövid és hosszú távú memória",
+        "Vizuális és akusztikus feldolgozás"
+      ],
+      "answer": "Alvás-ébrenléti ciklus, éberség és vegetatív funkciók"
+    },
+    {
+      "id": 45,
+      "type": "MC",
+      "question": "Melyik testérző pályavonal közvetíti a nyomás, vibráció és proprioceptív információkat?",
+      "options": [
+        "Spinothalamikus pálya",
+        "DCML pálya (medialis lemniscus)",
+        "Szpináris pálya",
+        "Korticospinális pálya"
+      ],
+      "answer": "DCML pálya (medialis lemniscus)"
+    },
+    {
+      "id": 46,
+      "type": "MC",
+      "question": "Az anterolaterális testérző pályavonal mely típusú ingereket közvetít?",
+      "options": [
+        "Nyomás és vibráció",
+        "Propriocepció",
+        "Fájdalom és hőérzet",
+        "Szőrsejtek stimulációja"
+      ],
+      "answer": "Fájdalom és hőérzet"
+    },
+    {
+      "id": 47,
+      "type": "MC",
+      "question": "A fájdalomkapumechanizmus során mely neurotranszmitterek játszanak fájdalomcsökkentő szerepet?",
+      "options": [
+        "Glutamát és aszkorbinsav",
+        "Endorfin és encefalin",
+        "Szerotonin és norepinefrin",
+        "GABA és glicin"
+      ],
+      "answer": "Endorfin és encefalin"
+    },
+    {
+      "id": 48,
+      "type": "MC",
+      "question": "Mely receptor típusok találhatók a bőr és belső szervek szöveteiben?",
+      "options": [
+        "Csak mechanoreceptorok",
+        "Fájdalom-, hő-, kemo- és mechanoreceptorok",
+        "Csak proprioreceptorok",
+        "Kizárólag hőreceptorok"
+      ],
+      "answer": "Fájdalom-, hő-, kemo- és mechanoreceptorok"
+    },
+    {
+      "id": 49,
+      "type": "BLANK",
+      "question": "A Wernicke-terület a _____ értésért felelős, míg a Broca-terület a motorikus beszédért.",
+      "options": [],
+      "answer": "beszédmegértés"
+    },
+    {
+      "id": 50,
+      "type": "MC",
+      "question": "Melyik agyterület felelős elsősorban az agyi lateralizáció során a beszédért és az analitikus gondolkodásért?",
+      "options": [
+        "Jobb agykéreg",
+        "Bal félteke",
+        "Limbikus rendszer",
+        "Agytörzs"
+      ],
+      "answer": "Bal félteke"
+    },
+    {
+      "id": 51,
+      "type": "MC",
+      "question": "Az ízomorsó mely funkciót lát el a mozgásszabályozásban?",
+      "options": [
+        "A csontok helyzetét érzékeli",
+        "A hirtelen nyújtást és a nyújtás sebességét érzékeli",
+        "A fájdalomingereket közvetíti",
+        "A hőmérsékleti változásokat detektálja"
+      ],
+      "answer": "A hirtelen nyújtást és a nyújtás sebességét érzékeli"
+    },
+    {
+      "id": 52,
+      "type": "MC",
+      "question": "Az agytörzsi hálózatos állomány mely része szabályozza az alvás-ébrenléti ciklust?",
+      "options": [
+        "Kizárólag a medulla oblongata",
+        "Csak a köztiagy",
+        "Nyúltvelő és agytörzsi hálózatos állomány",
+        "Csak a kisagy"
+      ],
+      "answer": "Nyúltvelő és agytörzsi hálózatos állomány"
+    },
+    {
+      "id": 53,
+      "type": "MC",
+      "question": "A testérző receptorok közül mely típus felel a szőrszálak mechanikai stimulációjáért?",
+      "options": [
+        "Chemoreceptorok",
+        "Thermoreceptorok",
+        "Szőrsejt-receptorok",
+        "Nocireceptorok"
+      ],
+      "answer": "Szőrsejt-receptorok"
+    },
+    {
+      "id": 54,
+      "type": "BLANK",
+      "question": "Az érzőpályák kéreg alatti központjaiban már _____ feldolgozás is történik, nem csak az információ továbbítása.",
+      "options": [],
+      "answer": "előzetes"
+    },
+    {
+      "id": 55,
+      "type": "MC",
+      "question": "Mely szerv tartalmazza a szem fényérzékeny receptorait?",
+      "options": [
+        "Szivárványhártya",
+        "Szaruhártya",
+        "Retina (ideghártya)",
+        "Üvegtest"
+      ],
+      "answer": "Retina (ideghártya)"
+    },
+    {
+      "id": 56,
+      "type": "MC",
+      "question": "A szem optikai rendszerében mely réteg felelős az egyik legjelentősebb fénytörésért?",
+      "options": [
+        "Szem lencséje",
+        "Levegő-szaruhártya határfelülete",
+        "Csarnokvíz",
+        "Üvegtest"
+      ],
+      "answer": "Levegő-szaruhártya határfelülete"
+    },
+    {
+      "id": 57,
+      "type": "MC",
+      "question": "Melyik fotoreceptor típus felelős az éles, részletgazdag nappalitásért és a színlátásért?",
+      "options": [
+        "Pálcika",
+        "Csap",
+        "Pigmenthám",
+        "Bipoláris neuron"
+      ],
+      "answer": "Csap"
+    },
+    {
+      "id": 58,
+      "type": "MC",
+      "question": "Mit jelent az akkomodáció?",
+      "options": [
+        "A pupilla szűkülése erős fényre",
+        "A szem lencséjének domborulatának megváltoztatása közeli tárgyak éles látásához",
+        "A retina elöregedése",
+        "A szaruhártya károsodása"
+      ],
+      "answer": "A szem lencséjének domborulatának megváltoztatása közeli tárgyak éles látásához"
+    },
+    {
+      "id": 59,
+      "type": "MC",
+      "question": "A szem melyik részén található a vakfolt?",
+      "options": [
+        "Szivárványhártyán",
+        "Szaruhártyán",
+        "A retinan, ahol a látóideg elhagyja a szemet",
+        "Üvegtestben"
+      ],
+      "answer": "A retinan, ahol a látóideg elhagyja a szemet"
+    },
+    {
+      "id": 60,
+      "type": "BLANK",
+      "question": "A pálcikák fényelektromos működésében az opszennel komplexet alkotó vegyület _____ név alatt ismert.",
+      "options": [],
+      "answer": "rodopszin"
+    },
+    {
+      "id": 61,
+      "type": "MC",
+      "question": "A látás mely szakaszán történik meg a fényelektromos jelátalakítás?",
+      "options": [
+        "A ganglionsejtekben",
+        "A bipoláris sejtekben",
+        "A fotoreceptorokban",
+        "A talamuszban"
+      ],
+      "answer": "A fotoreceptorokban"
+    },
+    {
+      "id": 62,
+      "type": "MC",
+      "question": "A szürkehályog (katarakt) lényege?",
+      "options": [
+        "A szivárványhártya pigmentes szövetének degenerációja",
+        "A szem lencséjének elhomályosulása",
+        "A retina leválása az érhártyáról",
+        "A látóideg atrófiája"
+      ],
+      "answer": "A szem lencséjének elhomályosulása"
+    },
+    {
+      "id": 63,
+      "type": "MC",
+      "question": "Mely enzim szabadít fel cGMP-t sötétben a pálcikasejtben?",
+      "options": [
+        "Transzducin",
+        "Guanilát-cikláz",
+        "Foszfodiészteráz",
+        "Triptofán hidroxiláz"
+      ],
+      "answer": "Guanilát-cikláz"
+    },
+    {
+      "id": 64,
+      "type": "BLANK",
+      "question": "A csapok fotoreceptor pigmentje _____ néven ismert, amely az opszen három féle típusának egyik változatát tartalmazza.",
+      "options": [],
+      "answer": "jodopszin"
+    },
+    {
+      "id": 65,
+      "type": "MC",
+      "question": "A zöldhályog (glaukóma) kialakulásának oka?",
+      "options": [
+        "A szaruhártya elhomályosulása",
+        "A csarnokvíz termelődése és elfolyása közötti egyensúly felbomlása, növekvő szemnyomás",
+        "A retina pigmentsejtjei defektusa",
+        "A szivárványhártya gyulladása"
+      ],
+      "answer": "A csarnokvíz termelődése és elfolyása közötti egyensúly felbomlása, növekvő szemnyomás"
+    },
+    {
+      "id": 66,
+      "type": "MC",
+      "question": "Hol helyezkedik el az elsődleges látókéreg?",
+      "options": [
+        "Homloklebenyben",
+        "Nyakszirtlebenyben",
+        "Halántéklebenyben",
+        "Szagitális lebenyben"
+      ],
+      "answer": "Nyakszirtlebenyben"
+    },
+    {
+      "id": 67,
+      "type": "BLANK",
+      "question": "Az akkomodáció során a sugártest izmai _____, amitől a lencsefüggesztő rostok ellazulnak és a lencse domborodik.",
+      "options": [],
+      "answer": "összehúzódnak"
+    },
+    {
+      "id": 68,
+      "type": "MC",
+      "question": "A pálcikák mely retinarétegben helyezkednek el?",
+      "options": [
+        "Pigmenthám réteg",
+        "Fotoreceptor réteg (csapok és pálcikák rétege)",
+        "Bipoláris érzősejt réteg",
+        "Ganglion sejt réteg"
+      ],
+      "answer": "Fotoreceptor réteg (csapok és pálcikák rétege)"
+    },
+    {
+      "id": 69,
+      "type": "MC",
+      "question": "Mit okoz a cisz-retinal transz-retinallá való átalakulása megvilágításkor?",
+      "options": [
+        "A rodopszin regenerációja",
+        "A rodopszin lebomlása és az opszen felszabadulása",
+        "A glutamát felszabadulása",
+        "A cGMP szintézise"
+      ],
+      "answer": "A rodopszin lebomlása és az opszen felszabadulása"
+    },
+    {
+      "id": 70,
+      "type": "BLANK",
+      "question": "A látópályán az 1. neuron a fotoreceptor, a 2. neuron a _____, a 3. neuron a ganglion sejt.",
+      "options": [],
+      "answer": "bipoláris sejt"
+    },
+    {
+      "id": 71,
+      "type": "MC",
+      "question": "A színvakság kialakulásának oka?",
+      "options": [
+        "A szaruhártya homályosodása",
+        "Az egyik csapsejt típus hiánya vagy nem megfelelő működése az ideghártyában",
+        "A szivárványhártya pigmentációs zavara",
+        "A retina leválása"
+      ],
+      "answer": "Az egyik csapsejt típus hiánya vagy nem megfelelő működése az ideghártyában"
+    },
+    {
+      "id": 72,
+      "type": "MC",
+      "question": "Mit jelent a dioptria?",
+      "options": [
+        "A fénytörő képesség mértékegysége (reciprok fókusztávolság méterben)",
+        "A pupilla átmérője",
+        "A retina vastagságának mértéke",
+        "A szem folyadéknyomása"
+      ],
+      "answer": "A fénytörő képesség mértékegysége (reciprok fókusztávolság méterben)"
+    },
+    {
+      "id": 73,
+      "type": "BLANK",
+      "question": "A binokuláris látás alapja az, hogy a két szem legalább kissé eltérő nézőpontjából adódóan ugyanazon tárgy retináján kialakuló képek eltérnek, ezt _____ nak nevezzük.",
+      "options": [],
+      "answer": "binokuláris eltérésnek"
+    },
+    {
+      "id": 74,
+      "type": "MC",
+      "question": "A közeli akomodációs hatása során a szem mely része nem változik?",
+      "options": [
+        "A szem lencséjének domborulata",
+        "A pupilla mérete",
+        "A szaruhártya görbülete",
+        "A lencsefüggesztő rostok húzása"
+      ],
+      "answer": "A szaruhártya görbülete"
+    },
+    {
+      "id": 75,
+      "type": "MC",
+      "question": "Az érzőidegvégződések mely csapfajta az áttetsző szaruhártyára nem terjednek ki?",
+      "options": [
+        "Szabad idegvégződések",
+        "Érzőreceptorok",
+        "Nociceptorok",
+        "Mechanoreceptorok"
+      ],
+      "answer": "Mechanoreceptorok"
+    },
+    {
+      "id": 76,
+      "type": "BLANK",
+      "question": "A szem fő előbetegségei közül a teljes vaksághoz vezet a műtét nélkül a _____.",
+      "options": [],
+      "answer": "szürkehályog"
+    },
+    {
+      "id": 77,
+      "type": "MC",
+      "question": "A szaruhártya melyik jellemzője biztosítja annak nagy érzékenységét?",
+      "options": [
+        "Pigmenttartalma",
+        "Nagy számú érző idegvégződése és ereket nem tartalmaz",
+        "Vastag kollagén rétege",
+        "Vas-tartalmú pigmentei"
+      ],
+      "answer": "Nagy számú érző idegvégződése és ereket nem tartalmaz"
+    },
+    {
+      "id": 78,
+      "type": "MC",
+      "question": "A hang feldolgozásának mely lépése közvetlenül követi a dobhártya rezgésbe hozását?",
+      "options": [
+        "Az ovális ablakon keresztüli rezgésátvitel",
+        "A hallócsontocskák által közvetített rezgésátvitel",
+        "A Corti-szerv szőrsejtjeinek elhajlása",
+        "A hallóideg impulzusainak a halántéklebenyhez való eljutása"
+      ],
+      "answer": "A hallócsontocskák által közvetített rezgésátvitel"
+    },
+    {
+      "id": 79,
+      "type": "MC",
+      "question": "Melyik szerv szabályozza a hang terjedésének helyét a csiga belsejében, amely a frekvencia-kódolás alapja?",
+      "options": [
+        "A kerek ablak",
+        "Az alaphártya",
+        "A fedőlemez",
+        "A csigavezeték"
+      ],
+      "answer": "Az alaphártya"
+    },
+    {
+      "id": 80,
+      "type": "MC",
+      "question": "A külső fül mely strukturális jellemzője akadályozza meg a víz és más anyagok felgyülemlését a hallójáratban?",
+      "options": [
+        "A fülzsír antibakteriális hatása",
+        "A hallójárat görbülete",
+        "A szőrszálak szűrő funkciója",
+        "A dobhártya rugalmassága"
+      ],
+      "answer": "A hallójárat görbülete"
+    },
+    {
+      "id": 81,
+      "type": "MC",
+      "question": "A hallócsontocskák mely arányban erősítik meg a hangnyomást a dobhártya és az ovális ablak között?",
+      "options": [
+        "5:1",
+        "10:1",
+        "15:1",
+        "20:1"
+      ],
+      "answer": "20:1"
+    },
+    {
+      "id": 82,
+      "type": "MC",
+      "question": "Mely szöveteké az a folyadék - endolympha -, amely a hártyás labirintust tölti ki?",
+      "options": [
+        "A kéreg",
+        "A csontok közötti tér",
+        "Az agyi folyadék",
+        "Az agyvelő"
+      ],
+      "answer": "A kéreg"
+    },
+    {
+      "id": 83,
+      "type": "MC",
+      "question": "Mely szerkezet zárja le a csiga kerek ablakát, amely a perilympha nyomáscsökkentésében játszik szerepet?",
+      "options": [
+        "Az alaphártya",
+        "A dobcsatorna",
+        "A fedőlemez",
+        "A vesztibuláris csatorna"
+      ],
+      "answer": "A dobcsatorna"
+    },
+    {
+      "id": 84,
+      "type": "MC",
+      "question": "Az alacsony frekvenciájú hangok (mély hangok) a csiga mely részében deformálják az alaphártyát?",
+      "options": [
+        "Az alapján",
+        "Az közepén",
+        "A csúcsán",
+        "A vesztibuláris csatornában"
+      ],
+      "answer": "A csúcsán"
+    },
+    {
+      "id": 85,
+      "type": "MC",
+      "question": "Az presbyacusis (öregedés miatti hallásvesztés) mely frekvenciáknál jelentkezik először?",
+      "options": [
+        "Az alacsony frekvenciáknál (2000 Hz alatt)",
+        "A magas frekvenciáknál (12000 Hz fölött)",
+        "Az összes frekvencián egyszerre",
+        "A beszédtartományban (300-3000 Hz)"
+      ],
+      "answer": "A magas frekvenciáknál (12000 Hz fölött)"
+    },
+    {
+      "id": 86,
+      "type": "BLANK",
+      "question": "A dobhártyafeszítő-izom és a kengyelizom az erős zajok hatására _____, így csökkentik a túl nagy nyomást az ovális ablaken.",
+      "options": [],
+      "answer": "összehúzódnak"
+    },
+    {
+      "id": 87,
+      "type": "MC",
+      "question": "A Wernicke-mező (beszédértő központ) mely agytörzsi területben helyezkedik el?",
+      "options": [
+        "A frontális lebeny inferior gyrusában",
+        "A temporális lebeny felső részében",
+        "A nyúltvelőben",
+        "A talamuszban"
+      ],
+      "answer": "A temporális lebeny felső részében"
+    },
+    {
+      "id": 88,
+      "type": "MC",
+      "question": "A hangirány meghatározásának mely mechanizmusa játszik szerepet az oldalsó hangforrások lokalizációjában?",
+      "options": [
+        "Kizárólag az intenzitáskülönbség",
+        "Az időkülönbség és intenzitáskülönbség",
+        "A rezgési frekvencia",
+        "A hallócsontocskák erősítése"
+      ],
+      "answer": "Az időkülönbség és intenzitáskülönbség"
+    },
+    {
+      "id": 89,
+      "type": "MC",
+      "question": "Mely receptor típusok találhatók a tömlőcske és a zsákocska szöveteiben?",
+      "options": [
+        "Kizárólag fotoreceptorok",
+        "Szőrsejtek támasztósejtekkel között mészkristályos kocsonyás burokkal",
+        "Csak mechanoreceptorok",
+        "Akusztikus hallóreceptorok"
+      ],
+      "answer": "Szőrsejtek támasztósejtekkel között mészkristályos kocsonyás burokkal"
+    },
+    {
+      "id": 90,
+      "type": "MC",
+      "question": "A Bárány-féle kalorikus reakció mely szerv működésének vizsgálatára szolgál?",
+      "options": [
+        "A szaglópályára",
+        "Az egyensúlyérzésre",
+        "A látásra",
+        "Az ízlelésre"
+      ],
+      "answer": "Az egyensúlyérzésre"
+    },
+    {
+      "id": 91,
+      "type": "BLANK",
+      "question": "Az egyensúlyzás érzékszervei a tömlőcskét, a zsákocskát és az elfordulás síkjaiban helyezkedő _____ nem.",
+      "options": [],
+      "answer": "félkörös ívjáratokat"
+    },
+    {
+      "id": 92,
+      "type": "MC",
+      "question": "Melyik kémiai receptor típus szabályozza a légzést a nyúltvelőben az CO2 (H+-ion) kimutatásával?",
+      "options": [
+        "Szaglóreceptorok",
+        "Ízlelőbimbók",
+        "Nyúltvelői CO2/H+-érzékeny kemoreceptorok",
+        "Bőrreceptorok"
+      ],
+      "answer": "Nyúltvelői CO2/H+-érzékeny kemoreceptorok"
+    },
+    {
+      "id": 93,
+      "type": "MC",
+      "question": "A szaglópályán mely szerkezet képez szinaptikus kapcsolatot az olfactory bulbusban?",
+      "options": [
+        "Az ízlelőbimbó",
+        "A szaglógumó",
+        "A bazális ganglia",
+        "Az agytörzs"
+      ],
+      "answer": "A szaglógumó"
+    },
+    {
+      "id": 94,
+      "type": "MC",
+      "question": "Melyik alapíz keletkezik a nagy Na+-koncentráció hatására?",
+      "options": [
+        "Sós",
+        "Savanyú",
+        "Keserű",
+        "Édes"
+      ],
+      "answer": "Keserű"
+    },
+    {
+      "id": 95,
+      "type": "MC",
+      "question": "Az ízlelőbimbók mely életkor körül érik el maximális számát az embernél?",
+      "options": [
+        "A születéskor",
+        "A 10-15 életév között",
+        "A 40. életév körül",
+        "A 60. életév után"
+      ],
+      "answer": "A 40. életév körül"
+    },
+    {
+      "id": 96,
+      "type": "BLANK",
+      "question": "Az ízlelőbimbók átlagosan _____ nap alatt elpusztulnak és újak lépnek a helyükbe.",
+      "options": [],
+      "answer": "10"
+    },
+    {
+      "id": 97,
+      "type": "MC",
+      "question": "Az umami ízét kiváltó mesterséges adalékanyag mely szubsztancia?",
+      "options": [
+        "Nátrium-cián",
+        "Nátrium-glutamát",
+        "Kalcium-acetát",
+        "Magnézium-szulfát"
+      ],
+      "answer": "Nátrium-glutamát"
+    },
+    {
+      "id": 98,
+      "type": "MC",
+      "question": "Az agykamra falánál elhelyezkedő Na+-koncentrációt érzékelő receptorok mely szervmoduláció szerv működésében játszik szerepet?",
+      "options": [
+        "A hallásban",
+        "A szomjúság és hipotalamikus vazopresszin (ADH) termelésében",
+        "A szaglásban",
+        "Az egyensúlyérzésben"
+      ],
+      "answer": "A szomjúság és hipotalamikus vazopresszin (ADH) termelésében"
+    },
+    {
+      "id": 99,
+      "type": "MC",
+      "question": "Az ízlelőbimbók mely alapízét váltja ki a H+-ion koncentrációja?",
+      "options": [
+        "Az édes íz",
+        "A sós íz",
+        "A savanyú íz",
+        "Az umami"
+      ],
+      "answer": "A savanyú íz"
+    },
+    {
+      "id": 100,
+      "type": "MC",
+      "question": "Az ADH (vazopresszin) mely hatása játszik szerepet a vérnyomás emelésében?",
+      "options": [
+        "A hőmérséklet csökkentése",
+        "A vízvisszaszívás növelése és az erek tónusának fokozása",
+        "A sóleadás csökkentése",
+        "A vér glükózkoncentrációjának emelése"
+      ],
+      "answer": "A vízvisszaszívás növelése és az erek tónusának fokozása"
+    },
+    {
+      "id": 101,
+      "type": "MC",
+      "question": "A klasszikus kondicionálás és az operáns kondicionálás közötti alapvető különbség melyik?",
+      "options": [
+        "A klasszikus kondicionálásban az állat aktív szerepet játszik a viselkedés kialakításában",
+        "Az operáns kondicionálásban a viselkedés következménye befolyásolja a jövőbeli viselkedést",
+        "A klasszikus kondicionálásban az inger spontán kapcsolódik a válaszhoz",
+        "Az operáns kondicionálás csak embereknél figyelhető meg"
+      ],
+      "answer": "Az operáns kondicionálásban a viselkedés következménye befolyásolja a jövőbeli viselkedést"
+    },
+    {
+      "id": 102,
+      "type": "MC",
+      "question": "Az LTP (hosszú távú potencírozás) mechanizmusa során az NMDA receptorok aktiválódása milyen ionok beáramlását teszi lehetővé?",
+      "options": [
+        "Nátrium és kálium ionok",
+        "Kalcium ionok, amelyek erősebb szinaptikus kapcsolatot eredményeznek",
+        "Klór ionok",
+        "Magnézium ionok"
+      ],
+      "answer": "Kalcium ionok, amelyek erősebb szinaptikus kapcsolatot eredményeznek"
+    },
+    {
+      "id": 103,
+      "type": "MC",
+      "question": "A szenzoros tárak (sensory store) kapacitása és időtartama hogyan jellemzi azokat?",
+      "options": [
+        "Korlátozott kapacitás, hosszú tárolási idő (perc)",
+        "Végtelen kapacitás, nagyon rövid tárolási idő (másodpercek)",
+        "Korlátozott kapacitás, rövid tárolási idő",
+        "Az ikonikus tár tartósabb az echoikus tárnál"
+      ],
+      "answer": "Végtelen kapacitás, nagyon rövid tárolási idő (másodpercek)"
+    },
+    {
+      "id": 104,
+      "type": "MC",
+      "question": "A Harlow-féle majomkísérlet (szőr- és drótanya) fő következtetése melyik volt?",
+      "options": [
+        "A gyerekeknek legfőképpen táplálkozásra van szükségük",
+        "Az érintés biztonsága és az érzelmi kötődés alapvetőbb, mint a táplálás",
+        "A szőr és a drót egyforma hatékonyságú pótanyaként",
+        "Az állatok nem képeznek érzelmi kötelékeket"
+      ],
+      "answer": "Az érintés biztonsága és az érzelmi kötödés alapvetőbb, mint a táplálás"
+    },
+    {
+      "id": 105,
+      "type": "MC",
+      "question": "A habituáció és szenzitizáció közötti alapvető különbség hogyan jellemez?",
+      "options": [
+        "A habituáció erős ingerekre, a szenzitizáció gyenge ingerekre hat",
+        "A habituáció a megismerés elmaradása, a szenzitizáció az erősödő válaszadás",
+        "A habituáció tanult, a szenzitizáció öröklött",
+        "Nem létezik közöttük lényeges különbség"
+      ],
+      "answer": "A habituáció a megismerés elmaradása, a szenzitizáció az erősödő válaszadás"
+    },
+    {
+      "id": 106,
+      "type": "BLANK",
+      "question": "A tanulás alatt az idegsejtek szintjén megváltozik a _____ hatékonyság, ami új szinaptikus kapcsolatok kialakulásához vezethet.",
+      "options": [],
+      "answer": "szinaptikus"
+    },
+    {
+      "id": 107,
+      "type": "BLANK",
+      "question": "A _____ az emberi magatartás olyan sajátos formája, amely végigkíséri az embert egész életén, szabadon választott és önmagáért való tevékenység.",
+      "options": [],
+      "answer": "játék"
+    },
+    {
+      "id": 108,
+      "type": "BLANK",
+      "question": "Az _____ egy viszonylag állandó viselkedésváltozás, amely a gyakorlás és tapasztalatszerzés következtében jelenik meg.",
+      "options": [],
+      "answer": "tanulás"
+    },
+    {
+      "id": 109,
+      "type": "MC",
+      "question": "A pozitív és negatív érzelmek hogyan befolyásolják az információfeldolgozást és emlékezést?",
+      "options": [
+        "A negatív érzelmek gyorsabb döntéshozatalt eredményeznek",
+        "A pozitív érzelmek alatt gyorsabban hozunk döntéseket, de az erős érzelmeket kiváltó helyzetekről többet gondolkodunk",
+        "Az érzelmek nem befolyásolják az emlékezeti folyamatokat",
+        "Csak a negatív érzelmek javítják a hosszú távú memóriából való felidézhetőséget"
+      ],
+      "answer": "A pozitív érzelmek alatt gyorsabban hozunk döntéseket, de az erős érzelmeket kiváltó helyzetekről többet gondolkodunk"
+    },
+    {
+      "id": 110,
+      "type": "MC",
+      "question": "Az emberi viselkedés kialakulásában az evolúciós pszichológia mely állítása helyes?",
+      "options": [
+        "A legtöbb viselkedésünk tudatos pszichológiai válaszok",
+        "A legtöbb viselkedésünk mögött nem tudatosult pszichológiai adaptáció áll",
+        "Az evolúciós adaptációk az utolsó 100 évben alakultak ki",
+        "Az édes és zsíros ételek iránti vonzódás csak megfelelő neveléssel alakul ki"
+      ],
+      "answer": "A legtöbb viselkedésünk mögött nem tudatosult pszichológiai adaptáció áll"
+    },
+    {
+      "id": 111,
+      "type": "MC",
+      "question": "A szocializáció és az emberi viselkedés között milyen kapcsolat áll fenn?",
+      "options": [
+        "A szocializáció csak az iskola során történik",
+        "A szocializáció során az egyén társadalmi lénnyé válik, megtanulja az adott kultúra szokásait és viselkedési mintáit",
+        "A szocializáció nem befolyásolja az öröklött viselkedési formákat",
+        "A szocializáció csak az első egy évben lényeges"
+      ],
+      "answer": "A szocializáció során az egyén társadalmi lénnyé válik, megtanulja az adott kultúra szokásait és viselkedési mintáit"
+    },
+    {
+      "id": 112,
+      "type": "MC",
+      "question": "A drogfüggőség operáns kondicionálás alapján magyarázható melyik mechanizmus révén?",
+      "options": [
+        "A pozitív megerősítés során a dopamin felszabadulása jutalmazó hatás",
+        "Az alapvető reflexek közvetlenül kiváltják a szerhasználatot",
+        "A klasszikus kondicionálás kizárólag csak alkohollal működik",
+        "Az érzelmek nem játszanak szerepet a szerhasználatban"
+      ],
+      "answer": "A pozitív megerősítés során a dopamin felszabadulása jutalmazó hatás"
+    },
+    {
+      "id": 113,
+      "type": "MC",
+      "question": "A hormonreceptorok elhelyezkedésének alapján melyik állítás helyes?",
+      "options": [
+        "A peptidhormonok sejten belüli receptorokhoz kötődnek",
+        "A szteroid hormonok és tiroxin sejten belüli receptorokat használnak, mivel vízben rosszul oldódnak",
+        "Az összes hormon membránreceptorokhoz kötődik",
+        "A receptorok típusa nem befolyásolja a hormonhatás típusát"
+      ],
+      "answer": "A szteroid hormonok és tiroxin sejten belüli receptorokat használnak, mivel vízben rosszul oldódnak"
+    },
+    {
+      "id": 114,
+      "type": "MC",
+      "question": "Az inzulin és a glukagon közötti antagonista kapcsolat milyen anyagcsere-folyamatra vonatkozik?",
+      "options": [
+        "Fehérje lebontás",
+        "Szénhidrát-anyagcsere és vércukorszint szabályozása",
+        "Lipid szintézis",
+        "Köpeny nyirokcsomó működés"
+      ],
+      "answer": "Szénhidrát-anyagcsere és vércukorszint szabályozása"
+    },
+    {
+      "id": 115,
+      "type": "MC",
+      "question": "Az LTP (hosszú távú potencírozás) során AMPA receptorok beépülése miért erősítik a szinaptikus jelölést?",
+      "options": [
+        "Több glutamát receptort jelent, így nagyobb mennyiségű ionsáv tud átjutni",
+        "Az NMDA receptorok felváltódnak az AMPA receptorokkal",
+        "Az AMPA receptorok az NMDA receptorokat gátolják",
+        "Az AMPA receptorok csökkentik a kalciumáramlást"
+      ],
+      "answer": "Több glutamát receptort jelent, így nagyobb mennyiségű ionsáv tud átjutni"
+    },
+    {
+      "id": 116,
+      "type": "MC",
+      "question": "A kortizol (mellékvesekéreg-hormon) milyen típusú receptor-mediált jelölésen keresztül fejti ki hatását?",
+      "options": [
+        "Membránreceptoron keresztüli cAMP aktiváció",
+        "Sejten belüli citoplazmatikus receptor, amely transzkripciós faktorként működik",
+        "Csak kirekesztő hatás az idegrendszerre",
+        "Közvetlen enzimatikus aktiváció"
+      ],
+      "answer": "Sejten belüli citoplazmatikus receptor, amely transzkripciós faktorként működik"
+    },
+    {
+      "id": 117,
+      "type": "MC",
+      "question": "Az ADH (vazopresszin) mely folyamatok szabályozásáért felelős?",
+      "options": [
+        "Csupán vérhőmérséklet-szabályozás",
+        "Vízháztartás és vérnyomás szabályozása aquaporin fehérjék útján",
+        "Glükozanyagcsere",
+        "Nemi hormon termelés"
+      ],
+      "answer": "Vízháztartás és vérnyomás szabályozása aquaporin fehérjék útján"
+    },
+    {
+      "id": 118,
+      "type": "BLANK",
+      "question": "A hasnyálmirigy _____ sejtjei az inzulint termelik és bocsátják ki a vérbe.",
+      "options": [],
+      "answer": "B-sejtek (béta-sejtek)"
+    },
+    {
+      "id": 119,
+      "type": "BLANK",
+      "question": "A hormonok vérben általában _____ -hoz kötve szállítódnak, így lassabban bomlanak le és kevésbé ürülnek ki a vesén keresztül.",
+      "options": [],
+      "answer": "fehérjékhez"
+    },
+    {
+      "id": 120,
+      "type": "BLANK",
+      "question": "Az agyalapi mirigy _____ lebenye idegsejtetből áll, és hormonokat raktároz és szabadít fel, nem pedig szintetizálja azokat.",
+      "options": [],
+      "answer": "hátulsó"
+    },
+    {
+      "id": 121,
+      "type": "MC",
+      "question": "A növekedési hormon (STH, GH) mely hatása alapozza meg az óriásnövekedés kialakulását?",
+      "options": [
+        "Direkt gén aktiválás az összes sejtben",
+        "Az IGF-1 közvetítésével a porcsejtek osztódásának serkentése és csont hosszabb-/szélességi növekedés",
+        "A tirokszin szintézis fokozása",
+        "Az inzulin szintézis gátlása"
+      ],
+      "answer": "Az IGF-1 közvetítésével a porcsejtek osztódásának serkentése és csont hosszabb-/szélességi növekedés"
+    },
+    {
+      "id": 122,
+      "type": "MC",
+      "question": "A Basedow-kor (hipertireózis) mely biológiai oka miatt rendszeres betegség?",
+      "options": [
+        "Az agyalapi mirigy túlműködése",
+        "Egy kórosan képződött immunoglobulin a TSH-al hasonló szerkezetű, ezért TSH-hoz hasonló hatást fejt ki",
+        "A pajzsmirigy közvetlen idegstimulációja",
+        "Az adrenalin túltermelődése"
+      ],
+      "answer": "Egy kórosan képződött immunoglobulin a TSH-al hasonló szerkezetű, ezért TSH-hoz hasonló hatást fejt ki"
+    },
+    {
+      "id": 123,
+      "type": "MC",
+      "question": "A cukorbetegség 1-es és 2-es típusa közötti fő különbség abban áll, hogy:",
+      "options": [
+        "Az 1-es típus csak gyerekeknél, a 2-es csak felnőtteknél alakul ki",
+        "Az 1-es típusban inzulindeficit, a 2-esben inzulinrezisztencia áll fenn",
+        "A 2-es típusban nincs szükség inzulin terápiaára",
+        "Az 1-es típus csak genetikai okokra vezethető vissza"
+      ],
+      "answer": "Az 1-es típusban inzulindeficit, a 2-esben inzulinrezisztencia áll fenn"
+    },
+    {
+      "id": 124,
+      "type": "MC",
+      "question": "Az aldoszteron és a vazopresszin (ADH) mely közös funkciót látnak el?",
+      "options": [
+        "Mindkettő növeli a vércukorszintet",
+        "Mindkettő a só- és vízháztartás szabályozásában vesz részt",
+        "Mindkettő csökkenti a vérnyomást",
+        "Mindkettő a szénhidrát-anyagcserét szabályozza"
+      ],
+      "answer": "Mindkettő a só- és vízháztartás szabályozásában vesz részt"
+    },
+    {
+      "id": 125,
+      "type": "MC",
+      "question": "Melyik immunsejt-típus mutatja be az MHC II-vel komplexben az antigéneket a T-sejteknek?",
+      "options": [
+        "CD8+ citotoxikus T-sejtek",
+        "NK-sejtek",
+        "Antigénbemutató sejtek (dendritikus sejtek, makrofágok)",
+        "Plazmasejtek"
+      ],
+      "answer": "Antigénbemutató sejtek"
+    },
+    {
+      "id": 126,
+      "type": "MC",
+      "question": "Melyik a jellemző különbség a veleszületett (innate) és az adaptív immunválasz között?",
+      "options": [
+        "A veleszületett immunválasz specifikus, az adaptív általános",
+        "Az adaptív immunválasz az első 24 órában működik maximális hatékonysággal",
+        "A veleszületett immunválasz nem specifikus és azonnal működik, az adaptív specifikus és memória-alapú",
+        "Az adaptív immunválasz neutrofilek és makrofágok által közvetített"
+      ],
+      "answer": "A veleszületett immunválasz nem specifikus és azonnal működik, az adaptív specifikus és memória-alapú"
+    },
+    {
+      "id": 127,
+      "type": "BLANK",
+      "question": "Az immunrendszer szervezetét a _____ szabályozza, amely a citokinek és kemokinek révén koordinálja az immunsejtek működését.",
+      "options": [],
+      "answer": "neuroendokrin rendszer"
+    },
+    {
+      "id": 128,
+      "type": "MC",
+      "question": "Milyen mechanizmus által működik a komplement-kaszkád?",
+      "options": [
+        "Antitestek termelése B-sejtekben",
+        "Szekvenciális enzimaktivációs lánc, amely lyza membránok és opsonizálás útján baktériumokat pusztít",
+        "Citotoxikus T-sejtek perforin-közvetített pore-képzése",
+        "NK-sejtek ADCC útján"
+      ],
+      "answer": "Szekvenciális enzimaktivációs lánc"
+    },
+    {
+      "id": 129,
+      "type": "MC",
+      "question": "Az első vakcinázás (primér immunválasz) és a második vakcinázás (szekunder immunválasz) között melyik az alapvető különbség?",
+      "options": [
+        "Az első vakcinázás gyorsabb antitesttermeléshez vezet",
+        "A második vakcinázás magasabb affinitású antitesteket termel memória B-sejtek aktiválása révén",
+        "Az első vakcinázás IgE termeléshez, a második IgG-hez vezet",
+        "A szekunder válasz lassabb, de hosszabb ideig tart"
+      ],
+      "answer": "A második vakcinázás magasabb affinitású antitesteket termel memória B-sejtek aktiválása révén"
+    },
+    {
+      "id": 130,
+      "type": "BLANK",
+      "question": "Az MHC I molekulák a szervezet _____ sejtjeiről prezentálják az antigéneket a CD8+ citotoxikus T-sejteknek, míg az MHC II ____ sejtjeiről kerülnek prezentálásra.",
+      "options": [],
+      "answer": "minden"
+    },
+    {
+      "id": 131,
+      "type": "MC",
+      "question": "Melyik autoimmun betegség az, ahol a szervezet saját szöveteket támad meg imunkomplexek és autoantitest-termelés révén?",
+      "options": [
+        "Rheumatoid arthritis",
+        "Celiac disease",
+        "Systemic lupus erythematosus (SLE)",
+        "Graves betegség"
+      ],
+      "answer": "Systemic lupus erythematosus (SLE)"
+    },
+    {
+      "id": 132,
+      "type": "MC",
+      "question": "A klónszelekció elve szerint az adaptív immunválaszban melyik történik?",
+      "options": [
+        "Az összes B-sejt azonos specificitású antitesteket termel",
+        "A T- és B-sejtek véletlen klónai válogatódnak ki és proliferálnak az antigén-stimulációra",
+        "Az antigént felismerő sejtek szaporodnak, az erre nem képes sejtek apoptózissal pusztulnak",
+        "Az antigénbemutató sejtek klónszelekción esnek át"
+      ],
+      "answer": "Az antigént felismerő sejtek szaporodnak, az erre nem képes sejtek apoptózissal pusztulnak"
+    },
+    {
+      "id": 133,
+      "type": "BLANK",
+      "question": "Az IgM antitest az elsőként termelődik a primér immunválasz során, majd az affinity maturation után az IgG dominánssá válik. Az IgA a _____ védelmében, az IgE pedig az _____ elleni védekezésben játszik szerepet.",
+      "options": [],
+      "answer": "nyálkahártyákon"
+    },
+    {
+      "id": 134,
+      "type": "MC",
+      "question": "Melyik citokinek szabályozzák a helper T-sejtek (Th1 vs Th2) differenciálódását?",
+      "options": [
+        "IFN-gamma és TNF-alpha (Th1) vs IL-4 és IL-5 (Th2)",
+        "IL-2 és IL-6 (Th1) vs TNF-alpha és TNF-béta (Th2)",
+        "TGF-beta kizárólagosan Th17 polarizálódáshoz vezet",
+        "Citokinek nem játszanak szerepet a T-sejt differenciálódásban"
+      ],
+      "answer": "IFN-gamma és TNF-alpha (Th1) vs IL-4 és IL-5 (Th2)"
+    },
+    {
+      "id": 135,
+      "type": "MC",
+      "question": "A vakcinációs protokoll melyik típusa bizonyult a leghatékonyabbnak az erős memória-védekezés kialakulásában?",
+      "options": [
+        "Egyszer beadott élő gyengített vakcina",
+        "Inaktivált kórokozót tartalmazó vakcina egyszeri adagban",
+        "Priming/boosting stratégia: élő gyengített vagy szubegység vakcina több adagban",
+        "Passzív antitestbevitellel kombinált kezelés"
+      ],
+      "answer": "Priming/boosting stratégia"
+    },
+    {
+      "id": 136,
+      "type": "BLANK",
+      "question": "Az endotoxin (LPS) a Gram-negatív baktériumok falából származik, a TLR4 útján az immun sejtek robusztus _____ termelésében, amely szepszisos sokk kiváltásában játszik szerepet.",
+      "options": [],
+      "answer": "citokinek termelésében"
+    },
+    {
+      "id": 137,
+      "type": "MC",
+      "question": "A hipersenzitivitási reakciók közül melyik jellemzi az I. típusát (azonnali típusú allergia)?",
+      "options": [
+        "Citotoxikus T-sejt közvetített sejtkárosodás",
+        "Hízósejtekből IgE-közvetített histamin-felszabadulás percek alatt",
+        "Immunkomplex-depozitálódás a vesékben és érfalakban",
+        "Késleltetett típusú (T-sejt közvetített) allergiás dermatitis"
+      ],
+      "answer": "Hízósejtekből IgE-közvetített histamin-felszabadulás percek alatt"
+    },
+    {
+      "id": 138,
+      "type": "MC",
+      "question": "A meningitis melyik baktériuma okozza a legsúlyosabb megbetegedést, és mely immunrendszeri komponens hiánya fokozza a fertőzés kockázatát?",
+      "options": [
+        "Haemophilus influenzae és neutrofil deficit",
+        "Neisseria meningitidis és komplement (C5-C9) deficiencia",
+        "Streptococcus pneumoniae és csökkent IgG szint",
+        "Listeria monocytogenes és CD8+ T-sejt deficit"
+      ],
+      "answer": "Neisseria meningitidis és komplement (C5-C9) deficiencia"
+    },
+    {
+      "id": 139,
+      "type": "BLANK",
+      "question": "A T-sejt aktiválódásához az MHC-TCR ligáción kívül _____ jelek szükségesek, például B7-CD28 kapcsolat, amely nélkül T-sejt anergizáció vagy apoptózis következik.",
+      "options": [],
+      "answer": "másodfokú"
+    },
+    {
+      "id": 140,
+      "type": "MC",
+      "question": "A T-sejt receptorok (TCR) melyik jellemzője biztosítja az MHC-kötés specificitásait?",
+      "options": [
+        "A TCR az összes antigén ellen azonos affinitással kötődik",
+        "A TCR hipervariábilis régióinak (CDR1, CDR2, CDR3) révén specifikus az MHC-peptid komplexre",
+        "A TCR egyrétegű megújulása és az idegen antiénekre való felismerése",
+        "A TCR az antitestekhez hasonló monoklonális eredetű"
+      ],
+      "answer": "A TCR hipervariábilis régióinak (CDR1, CDR2, CDR3) révén specifikus az MHC-peptid komplexre"
+    },
+    {
+      "id": 141,
+      "type": "MC",
+      "question": "A T-sejt receptorok szignalizációs kaszkádja melyik protein-kinázt aktiválja először az MHC-TCR ligáció után?",
+      "options": [
+        "Janus kinase (JAK)",
+        "Src-család kináz (Lck és Fyn)",
+        "Bruton's tyrosine kinase (Btk)",
+        "MAPK"
+      ],
+      "answer": "Src-család kináz (Lck és Fyn)"
+    },
+    {
+      "id": 146,
+      "type": "BLANK",
+      "question": "C) Inzulin",
+      "options": [],
+      "answer": "A) Parathormon"
+    },
+    {
+      "id": 147,
+      "type": "BLANK",
+      "question": "Magyarázat: A TSH (pajzsmirigyserkentő hormon) közvetlenül a pajzsmirigy tiroxin termelésének szabályozásáért felelős. Ez a klasszikus hipofízis-pajzsmirigy tengely.",
+      "options": [],
+      "answer": "Hormontáblázat::MC"
+    },
+    {
+      "id": 152,
+      "type": "BLANK",
+      "question": "A) Glukagon",
+      "options": [],
+      "answer": "D) Kortizol"
+    },
+    {
+      "id": 153,
+      "type": "BLANK",
+      "question": "Magyarázat: Az inzulin az egyetlen hipoglikémiás hormon. A glukagon, adrenalin és kortizol mind a vércukorszintet emelik.",
+      "options": [],
+      "answer": "Hormontáblázat::MC"
+    },
+    {
+      "id": 158,
+      "type": "BLANK",
+      "question": "D) Kalciumot mobilizál",
+      "options": [],
+      "answer": "C) Vizet visszaszívtat"
+    },
+    {
+      "id": 159,
+      "type": "BLANK",
+      "question": "Magyarázat: Mind az aldoszteron, mind az ADH (vazopresszin) emeli a vérnyomást, bár különböző mechanizmusokon keresztül (só-vízháztartás vs. víz visszaszívása).",
+      "options": [],
+      "answer": "Hormontáblázat::MC"
+    },
+    {
+      "id": 164,
+      "type": "BLANK",
+      "question": "C) Adrenalin",
+      "options": [],
+      "answer": "B) Aldoszteron"
+    },
+    {
+      "id": 165,
+      "type": "BLANK",
+      "question": "Magyarázat: Az adrenalin az aminosavszármazék hormon, amely a mellékvese velőállományában termelődik. A kortizol és aldoszteron a kéregből származnak.",
+      "options": [],
+      "answer": "Hormontáblázat::MC"
+    },
+    {
+      "id": 170,
+      "type": "BLANK",
+      "question": "C) A pajzsmirigy funkciója",
+      "options": [],
+      "answer": "B) A vér alacsony nátrium-ion tartalma és alacsony vérnyomás"
+    },
+    {
+      "id": 171,
+      "type": "BLANK",
+      "question": "Magyarázat: Az aldoszteron élettani szabályozása renin-angiotenzin-aldoszteron rendszer (RAAS) révén történik, amely a vér nátrium- és vízháztartásra reagál.",
+      "options": [],
+      "answer": "Hormontáblázat::MC"
+    },
+    {
+      "id": 176,
+      "type": "BLANK",
+      "question": "D) Oxitocin és ADH",
+      "options": [],
+      "answer": "B) Tiroxin és parathormon"
+    },
+    {
+      "id": 177,
+      "type": "BLANK",
+      "question": "Magyarázat: Az inzulin és glukagon gyakorlatilag minden sejtben találhatók, mivel az anyagcsere szabályozása globális folyamat. Az inzulin kifejezetten nincs kitüntetett célszerve.",
+      "options": [],
+      "answer": "Hormontáblázat::MC"
+    },
+    {
+      "id": 182,
+      "type": "BLANK",
+      "question": "B) PTH csökkenti, kalcitonin emeli a vér kalciumszintjét",
+      "options": [],
+      "answer": "C) Mindkettő emeli a vércalcium szintet"
+    },
+    {
+      "id": 183,
+      "type": "BLANK",
+      "question": "Magyarázat: A parathormon hipokalcémia során szabadul fel és emeli a vérkalcium szintet, a kalcitonin hiperkalcémia során csökkenti azt.",
+      "options": [],
+      "answer": "Hormontáblázat::MC"
+    },
+    {
+      "id": 188,
+      "type": "BLANK",
+      "question": "D) Parathormon",
+      "options": [],
+      "answer": "B) Kortizol, aldoszteron és szexuálszteroidok"
+    },
+    {
+      "id": 189,
+      "type": "BLANK",
+      "question": "Magyarázat: Az ACTH (adrenokortikotropin) a mellékvese kéregállománya serkentésén keresztül ezek a szteroidhormonok termelődésért felelős.",
+      "options": [],
+      "answer": "Hormontáblázat::MC"
+    },
+    {
+      "id": 190,
+      "type": "BLANK",
+      "question": "Magyarázat: A STH-nak nincs kitüntetett célszerve, az általános anyagcserére hat. Befolyásolja a szénhidrát-anyagcserét, fehérjebeépülést és vércukorszintet.",
+      "options": [],
+      "answer": "Hormontáblázat::TF"
+    },
+    {
+      "id": 191,
+      "type": "BLANK",
+      "question": "Magyarázat: A prolaktin túltermelődése (hiperprolaktinaemia) mindkét nemnél jelentős szexuális diszfunkciót okozhat.",
+      "options": [],
+      "answer": "Hormontáblázat::TF"
+    },
+    {
+      "id": 192,
+      "type": "BLANK",
+      "question": "Magyarázat: Az ADH (vízvisszaszívást serkentő hormon, vazopresszin) a hipotalamusz nagysejtes magvaiban termelődik és a hipofízis hátulsó lebenye által szabadul fel.",
+      "options": [],
+      "answer": "Hormontáblázat::TF"
+    },
+    {
+      "id": 193,
+      "type": "BLANK",
+      "question": "Magyarázat: A Cushing-kór a kortizol TÚLTERMELŐDÉSÉNEK a következménye. A hiány az Addison-kór előidézője.",
+      "options": [],
+      "answer": "Hormontáblázat::TF"
+    },
+    {
+      "id": 194,
+      "type": "BLANK",
+      "question": "Magyarázat: Mind az oxitocin, mind az ADH a hipotalamuszban termelődnek, de a hipofízis hátulsó lebenyéből szabadulnak fel a szervezetbe.",
+      "options": [],
+      "answer": "Hormontáblázat::TF"
+    },
+    {
+      "id": 195,
+      "type": "BLANK",
+      "question": "A _____ a mellékvese kéregállománya legkülső rétegéből termelődik és a só- és vízháztartásra hat.",
+      "options": [],
+      "answer": "aldoszteron"
+    },
+    {
+      "id": 196,
+      "type": "BLANK",
+      "question": "Magyarázat: Az aldoszteron az egyik legfontosabb mineralokorticoid, amely a nátrium-ion visszaszívásáért és a kálium kiválasztásáért felelős.",
+      "options": [],
+      "answer": "Hormontáblázat::BLANK"
+    },
+    {
+      "id": 197,
+      "type": "BLANK",
+      "question": "A mixödéma a _____ hiányának hosszú ideje fennálló következménye.",
+      "options": [],
+      "answer": "tiroxin"
+    },
+    {
+      "id": 198,
+      "type": "BLANK",
+      "question": "Magyarázat: A mixödéma krónikus pajzsmirigy-alulműködés tünete, jellemzi az alacsony anyagcsere és a szöveti duzzanat.",
+      "options": [],
+      "answer": "Hormontáblázat::BLANK"
+    },
+    {
+      "id": 199,
+      "type": "BLANK",
+      "question": "Az _____ az egyetlen hormon, amely közvetlenül csökkenti a vércukorszintet és a sejtek glükózfelvételét fokozza.",
+      "options": [],
+      "answer": "inzulin"
+    },
+    {
+      "id": 200,
+      "type": "BLANK",
+      "question": "Magyarázat: Az inzulin a hasnyálmirigy Langerhans-szigeteiből termelődik és az egyetlen hipoglikémiás hormon.",
+      "options": [],
+      "answer": "Hormontáblázat::BLANK"
+    },
+    {
+      "id": 201,
+      "type": "BLANK",
+      "question": "Az _____ az óriásnövekedést okozza, ha gyermekkorban fokozódik a termelődése.",
+      "options": [],
+      "answer": "növekedési hormon (STH/GH)"
+    },
+    {
+      "id": 202,
+      "type": "BLANK",
+      "question": "Magyarázat: A STH túltermelődése gyermekkorban gigantizmushoz, felnőttkorban akromegáliához vezet.",
+      "options": [],
+      "answer": "Hormontáblázat::BLANK"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi az a prokarióta?",
+      "definition": "A prokarióta a legegyszerűbb sejtes szerveződést mutató élőlény, amelynek sejtjeiben nincs membránnal körülhatárolt sejtmag. Ide tartoznak a valódi baktériumok (eubaktériumok) és az ősbaktériumok.",
+      "quote": "Sejtmag nélküli sejtes élet",
+      "text": "A prokarióták kb. 2,5 milliárd évvel ezelőtt jöttek létre, messze megelőzve az eukarióták kialakulását. Az első eukarióták kb. 1,5-2 milliárd évvel ezelőtt jelennek meg."
+    },
+    {
+      "id": 2,
+      "term": "Mekkora a baktériumok mérete?",
+      "definition": "A baktériumok átlagos mérete 1-10 mikrométer. Már fénymikroszkóppal láthatók néhány 100 x-es nagyítás mellett.",
+      "quote": "1-10 mikrométer",
+      "text": "1 mikrométer = 10^-6 méter. Egy felnőtt ember testfelülete 1,9 négyzetméter, de 1 mm³-ben 10⁹ kokkusz séjtből 3,1 négyzetméter felület lehet."
+    },
+    {
+      "id": 3,
+      "term": "Milyen alakú baktériumok vannak?",
+      "definition": "A baktériumok 3 nagyobb csoportba oszthatók: gömb alakú (kokkuszok), pálcika alakú (bacillusok), és görbült pálca (spirillumok és vibrió).",
+      "quote": "Kokkusz, bacilus, spirillum",
+      "text": "Az osztódás után a kokkuszok különböző csoportokban maradhatnak, például párosak (diplococci), láncosokon vagy gombolyagokon helyezkednek el."
+    },
+    {
+      "id": 4,
+      "term": "Mi a baktérium sejtfalának feladata?",
+      "definition": "A sejtfal biztosítja a sejt állandó alakját és véd is. Anyaga murein, amely egyedülálló módon csak a baktériumokra jellemző.",
+      "quote": "Murein falszerkezet",
+      "text": "Kedvezőtlen körülmények között a baktériumok spórát (endospórát) képeznek: a plazma vizet veszít, újabb falakat képez az örökítőanyag köré. Ez ellenáll a hőnek, sugárzásnak és roncsoló kémiai anyagoknak."
+    },
+    {
+      "id": 5,
+      "term": "Mi a Gram-pozitív és Gram-negatív baktérium?",
+      "definition": "A Gram-pozitív baktériumok vastag sejtfallal rendelkeznek, a Gram-negatívak vékony sejtfallal és egy külső membránnal.",
+      "quote": "Vastag vs. vékony sejtfal",
+      "text": "A penicillin érzékenysége a sejtfalnak köszönhető, mivel a penicillin a bakteriális sejtfal képzését gátolja. Ezért a Gram-pozitív baktériumok penicillinre érzékenyek."
+    },
+    {
+      "id": 6,
+      "term": "Mi a baktérium toka?",
+      "definition": "Egyes baktériumoknál a sejtfalon kívül még egy nyálkás, kocsonyás tok található, amely védelem az immunrendszerrel szemben és segít a tápanyag megkötésében.",
+      "quote": "Nyálkás védelmi réteg",
+      "text": "A tok feladata, hogy védi a sejtet a bekebelezéstől (fagocitózistól) és segítségével összetapadhatnak a sejtek, létrehozva sejttársulásokat."
+    },
+    {
+      "id": 7,
+      "term": "Hogyan szaporodnak a prokarióták?",
+      "definition": "A prokarióták nagyon gyorsan szaporodnak, elsősorban hasadással (ivartalan szaporodás). A sejtek 20 percenként kettéosztódhatnak.",
+      "quote": "20 percenként kettéosztódás",
+      "text": "Ha egyetlen baktériumból indulunk és a sejtek 20 percenként kettéosztódnak, 48 óra alatt a Föld tömegének megfelelő mennyiség jöhetne létre (2^144 sejt)."
+    },
+    {
+      "id": 8,
+      "term": "Mi a transzformáció baktériumoknál?",
+      "definition": "A transzformáció során a sejt a környezetéből idegen DNS-t vesz fel és a rajta elhelyezkedő géneket beépíti saját genetikai anyagába.",
+      "quote": "Idegen DNS felvétele",
+      "text": "Így adhat át egy baktérium a másiknak, például az antibiotikumokkal szembeni ellenállóképességet (rezisztenciát). A transzformáció után az utódok hasadással szaporodnak tovább."
+    },
+    {
+      "id": 9,
+      "term": "Mi a konjugáció a baktériumoknál?",
+      "definition": "Két baktérium között plazmahíd alakul ki, amelyen keresztül a donor (hím) baktérium DNS-t ad át a recipiens (nő) baktériumnak.",
+      "quote": "Plazmahíd DNS-átvitel",
+      "text": "A konjugáció során a plazmid megkettőződik és átmegy a hídon, megváltoztatva az utódsejtnek a genetikai készletét. Ez a szexuális folyamatok egyik formája a baktériumoknál."
+    },
+    {
+      "id": 10,
+      "term": "Mi a transzdukció?",
+      "definition": "A transzdukció a génátadásnak az a módja, amelyben a bakteriofágok segítségével jut át genetikai információ egyik baktériumsejtből a másikba.",
+      "quote": "Vírus közvetítette géntranszfer",
+      "text": "A bakteriofág DNS és a baktérium DNS-e kombinálódik, az új vírusrészecskék tartalmaznak donor bakteriális DNS-t, amelyet a következő baktériumba visznek."
+    },
+    {
+      "id": 11,
+      "term": "Mi az autotrófok csoportja?",
+      "definition": "Az autotrófok a testük felépítéséhez szükséges anyagokat az élettelen környezetből veszik fel, szervetlen anyagokból (CO2, H2O, NH3) állítanak elő szerves anyagokat.",
+      "quote": "Szervetlen anyagból szerves",
+      "text": "Az autotróf baktériumok az energiaforrás típusát tekintve lehetnek fototrófok (napsugárzást használnak) vagy kemoautotrófok (szervetlen anyag oxidációját)."
+    },
+    {
+      "id": 12,
+      "term": "Mi a kékbaktérium és szerepe?",
+      "definition": "A kékbaktériumok fotoautotróf baktériumok, amelyek fotoszintézist végeznek és oxigént termelnek. Kb. 2,5 milliárd évvel ezelőtt kezdték meg az oxigén termelést.",
+      "quote": "Oxigén termelő baktériumok",
+      "text": "A kékbaktériumok szerepe az evolúcióban rendkívül fontos volt, mivel az általuk termelt oxigén teljesen megváltoztatta az atmoszvéra összetételét és lehetővé tette az aerob élet kialakulását."
+    },
+    {
+      "id": 13,
+      "term": "Mi az ősbaktériumok (archaebacteria) csoportja?",
+      "definition": "Az ősbaktériumok különleges élőhelyeken fordulnak elő, főleg szélsőséges körülmények között élnek. Három fő csoport: termofilek (meleg), halofilek (sós), metanogének (anaerob).",
+      "quote": "Szélsőséges élőhelyek lakhói",
+      "text": "Az evolúció során az ősbaktériumok sok tekintetben közelebb állnak az eukariótákhoz, mint a valódi baktériumokhoz. Egyes feltételezések szerint az eukarióták ősi ágának tekinthetők."
+    },
+    {
+      "id": 14,
+      "term": "Mi a heterotrófok csoportja?",
+      "definition": "A heterotrófok testük felépítéséhez szükséges anyagokat az élő környezetből veszik fel szerves anyagok formájában, és lebomlásával nyerik az energiát.",
+      "quote": "Szerves anyagot fogyasztó élet",
+      "text": "A heterotróf baktériumok közé tartoznak a szaprofiták (elhalt szerves anyag lebontása), a szimbionták (kölcsönösen előnyös együttélés) és a paraziták (betegségeket okoznak)."
+    },
+    {
+      "id": 15,
+      "term": "Mi a szaprofiták szerepe?",
+      "definition": "A szaprofiták az elpusztult élőlények szerves anyagait bontják le, alakítják vissza CO2-á és vízzé, lehetővé téve az autotrófok által történő újrafelhasználást.",
+      "quote": "Elhalt anyag lebontók",
+      "text": "A szaprofiták nélkül megállna az anyagok körforgása, mert az összes szén az elpusztult élőlényekben halmozódna fel. Ide tartoznak a korhasztó talajbacik és erjesztő baktériumok."
+    },
+    {
+      "id": 16,
+      "term": "Mi a szimbionták szerepe baktériumoknál?",
+      "definition": "A szimbionták olyan baktériumok, amelyek olyan együttélésben élnek másik élőlénnyel, amely mindkét fél számára előnyös. Képesek olyan anyagcsereútvonalakra, amelyre az eukarióták nem képesek.",
+      "quote": "Kölcsönösen előnyös együttélés",
+      "text": "A pillangósvirágú növények gyökérgümőiben élő nitrogénkötő baktériumok, a növényevő állatok beleiben élő cellulózbontó baktériumok, az emberi vastagbelében élő vitamintermelő E. coli baktériumok mind szimbionták."
+    },
+    {
+      "id": 17,
+      "term": "Mi a paraziták szerepe?",
+      "definition": "A paraziták baktériumok különféle betegségeket okoznak. A baktériumsejt által termelt méreganyagok (toxinok) váltják ki a betegség tüneteit.",
+      "quote": "Betegségeket okozó baktériumok",
+      "text": "A baktériumtoxinok lehetnek neurotoxinok (idegi jelátvivő zavar), citotoxinok (enzimműködés károsodása), vagy enterotoxinok (bélfunkció zavara)."
+    },
+    {
+      "id": 18,
+      "term": "Mi a botulin toxin és botulizmus?",
+      "definition": "A botulin neurotoxin a Clostridium botulinum által termelt legerősebb ismert természetes toxin, amelyből 1 gramm egy millió ember halálát okozhatja.",
+      "quote": "Legerősebb természetes toxin",
+      "text": "A botulizmus az élelmiszermérgezések egyik legsúlyosabb formája. Az oxigéntől elzárt talajban élő baktérium a feldolgozás során a húsra kerülhet és feldolgozás után elszaporodva botoxot termel."
+    },
+    {
+      "id": 19,
+      "term": "Mi a Vibrio cholerae toxinja és a kolera?",
+      "definition": "A Vibrio cholerae baktérium által termelt enterotoxin a kolera betegség okozója, amely súlyos hasmenést és hányást okoz, amit dehidratáció követhet.",
+      "quote": "Hasmenés és dehidratáció",
+      "text": "A toxin a bélműködés zavarát okozza azáltal, hogy megváltoztatja a sejteket a víz felszívásában. A kezelés során kritikus a folyadék pótlása a kiszáradás elkerülésének érdekében."
+    },
+    {
+      "id": 20,
+      "term": "Mi a szalmonella és az élelmiszermérgezés?",
+      "definition": "A szalmonella az ételmérgezések okozója, amely rendszerint fertőzött étel fogyasztása után kialakuló gyomor-bélrendszeri betegség. A fertőzés magas lázzal, görcsös hasfájással jár.",
+      "quote": "Nyári ételmérgezés",
+      "text": "A baktérium a szájon át kerül be szennyezett élelmiszerrel. A fertőzés a nyári hónapokban gyakoribb, mert a meleg hatására a nem megfelelően tárolt élelmiszerekben könnyen elszaporodik."
+    },
+    {
+      "id": 21,
+      "term": "Mi a TBC (tuberculosis)?",
+      "definition": "A TBC elsődlegesen a tüdő szövetének pusztulásával járó betegség. A betegség jellemzően a tüdőben gyulladással kezdődik, de később az egész szervezetre kiterjedhet.",
+      "quote": "Tüdőszövet pusztulása",
+      "text": "A megelőzés elsődleges eszköze az újszülöttek BCG-oltása. A tüdőszűréssel az esetlegesen kezdődő folyamatok jól kimutathatók és hatékonyan gyógyíthatók."
+    },
+    {
+      "id": 22,
+      "term": "Mi a tetanusz és jellegzetessége?",
+      "definition": "A tetanusz egy talajban élő anaerob baktérium toxinja által okozott merevgörccsel járó bénulás, amely kezeletlen esetben halálos.",
+      "quote": "Merevgörcsös bénulás",
+      "text": "Az izommerevség gyorsan terjed fentről lefelé, végül a légzőizmok görcse fulladásos halált okoz. A lappangási idő átlagosan egy hét."
+    },
+    {
+      "id": 23,
+      "term": "Mi a pertussis (szamárköhögés)?",
+      "definition": "A pertussis különböző kórokozók által okozott betegség, amelyet rohamokban jelentkező, súlyos, később 'szamárordításszerű' köhögés jellemez.",
+      "quote": "Szamárordítás szerű köhögés",
+      "text": "Az életet veszélyeztető szövődmények főként csecsemőkorban fordulnak elő. Az egyébként magától gyógyul a betegség."
+    },
+    {
+      "id": 24,
+      "term": "Mi a diftéria és jellegzetessége?",
+      "definition": "A diftéria vagy torokgyík egy álhártyás gyulladás, amely leginkább a mandulákon alakul ki. Lassan fejlődik ki, a láz nem jellemző.",
+      "quote": "Álhártyás gyulladás",
+      "text": "Súlyos szövődménye a szívizom-károsodás és ideggyulladás. Ha az álhártya a gégében jelenik meg, fulladáshoz vezethet."
+    },
+    {
+      "id": 25,
+      "term": "Mi a Lyme-kór és terjesztője?",
+      "definition": "A Lyme-kór kullancs által terjesztett bakteriális fertőzés, amely először bőrtünetekkel, később ízületi és izomfájdalmakkal jár.",
+      "quote": "Kullancs által terjesztett",
+      "text": "Magyarország az egyik legfertőzöttebb terület, évente kb. 10.000 friss fertőzés fordulhat elő. A legelső tünet általában csípés körül megjelenő, legalább 5 cm-es bőrpír."
+    },
+    {
+      "id": 26,
+      "term": "Mit jelent az antibiotikum rezisztencia?",
+      "definition": "Amikor egy baktérium ellenáll az antibiotikumnak, rezisztensnek tekintjük a hatóanyaggal szemben. Ennek hátterében a plazmidokon található rezisztenciagének állnak.",
+      "quote": "Baktérium ellenáll az antibiotikumnak",
+      "text": "A felelőtlen antibiotikum-szedés vezethet a rezisztens formák elterjedéséhez. A nem megfelelő mennyiségben szedett vagy időben befejezett kezelés segíti elő a rezisztens baktériumok elszaporodását."
+    },
+    {
+      "id": 27,
+      "term": "Mik az antibiotikumok és hatásmechanizmusa?",
+      "definition": "Az antibiotikumok olyan hatóanyagok, amelyek a baktériumokat elpusztítják vagy szaporodásukat gátolják. Roncsolják a sejthártyákat vagy inaktiválják az enzimeket.",
+      "quote": "Baktériumölő vagy szaporodást gátló",
+      "text": "A penicillin a bakteriális sejtfal képzését gátolja. Az antibiotikumok a szervezetben rövid idő alatt hatástalanná válnak, ezért szükséges pontos időben és adagban bevenni őket."
+    },
+    {
+      "id": 28,
+      "term": "Mi a Pasteur szerepe a mikrobiológiában?",
+      "definition": "Louis Pasteur (1822-1895) tudományosan először bizonyította, hogy a baktériumok különféle fertőzések forrásai. Tanulmányozta az erjedést és feltalálta a veszettség elleni oltást.",
+      "quote": "Baktérium betegség forrás",
+      "text": "Bizonyította, hogy hő hatására lejátszódó csírátlanítás megakadályozta az élelmiszerek romlását. A pasztörizálás eljárást feltalálójáról nevezték el."
+    },
+    {
+      "id": 29,
+      "term": "Mi a Semmelweis szerepe a higiénében?",
+      "definition": "Semmelweis Ignác (1818-1865) magyar orvos kimutatta a fertőtlenítő eljárások előnyeit a szülészetben és sebészetben, és ajánlott klórmeszes kézmosást.",
+      "quote": "Kézmosás fertőzéseket megakadályoz",
+      "text": "Rájött, hogy a gyermekágyi lázat az orvosok okozzák azzal, hogy boncolás után mentek a szülészeti osztályra. Ez az „anyák megmentőjét" tette az orvostudomány hőseivé."
+    },
+    {
+      "id": 30,
+      "term": "Mik az oltási rend komponensei Magyarországon?",
+      "definition": "Magyarországon a BCG (0-4 hetes), DTP (2, 3, 4, 18 hó, 6 és 11 év), Hepatitis B (12 év) és Bárányhimlő (13 és 16 hó) oltásokat adnak.",
+      "quote": "Kötelező védőoltások",
+      "text": "A védőoltások kifejlesztése az orvostudomány legnagyobb hatású vívmánya. A DTP-oltás diftéria, tetanusz és pertussis ellen nyújt védelmet."
+    }
+  ]
+}

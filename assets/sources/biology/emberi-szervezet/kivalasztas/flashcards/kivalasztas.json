@@ -1,0 +1,235 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi a kiválasztás elsődleges feladata?",
+      "definition": "A kiválasztás a szervezet belső egyensúlyát veszélyeztető felesleges anyagok és az anyagcsere során keletkezett mérgező bomlástermékek eltávolítása.",
+      "quote": "Belső egyensúly fenntartása",
+      "text": "A kiválasztó működés biztosítja az ozmoreguláció (folyadéktérfogat és ozmotikus koncentráció állandósága) és a méregtelenítés. Eltávolítja a feleslegben felvett anyagokat (víz, sók), anyagcsere-végtermékeket (NH3, karbamid, húgysav), valamint bomlástermékeket. Ez szükséges a homeosztázis fenntartásához."
+    },
+    {
+      "id": 2,
+      "term": "Melyek a kiválasztó szervrendszer részei?",
+      "definition": "A kiválasztó szervrendszer főbb részei: páros vesék, páros húgyvezetékek, páratlan húgyhólyag, páratlan húgycső.",
+      "quote": "Vizelet-elvezetés folyamata",
+      "text": "A vesék biztosítják a szűrőműködést, visszaszívást és kiválasztást. A húgyvezetékek perisztaltikus mozgásokkal szállítják a vizelet a vesékből a húgyhólyagba, ahol tárolódik. A húgyhólyag és a húgycső végzi az ürítést. A húgycsőnek van egy akaratlagosan szabályozható harántcsíkolt záróizma."
+    },
+    {
+      "id": 3,
+      "term": "Mi az izoozmózis fogalma?",
+      "definition": "Az izoozmózis az ozmotikus koncentráció állandóságának törvénye, amely biztosítja, hogy a testfolyadékok ozmózisnyomása arányos az ionkoncentrációjával.",
+      "quote": "Sejtalak stabilitása",
+      "text": "Ha egy sejtet hipotóniás oldatba teszünk, víz áramlik be és hemolízis történik. Hipertóniás oldatban a sejt összezsugorodik. Izotóniás oldatban ozmotikus egyensúly alakul ki. A sejtek optimális alakja szükséges az anyagcsere zavartalan lejátszódásához és a sejtszervecskék megfelelő elrendeződéséhez."
+    },
+    {
+      "id": 4,
+      "term": "Mit jelent az izoionia?",
+      "definition": "Az izoionia az egyes ionok arányi állandóságának törvénye - nem csak az ionok abszolút koncentrációja, hanem azok egymáshoz viszonyított aránya is fontos.",
+      "quote": "Ion-egyensúly szabályozása",
+      "text": "A sejtekben a K+ koncentrációja magas, a Na+ alacsony. A sejten kívül fordítva van. A nátrium enzimméreg nagyobb mennyiségben, míg a kálium bizonyos koncentrációban szükséges az enzimek működéséhez. Ez az ionegyensúly az Na+/K+ pumpa által szabályozott."
+    },
+    {
+      "id": 5,
+      "term": "Mi az izohidria?",
+      "definition": "Az izohidria a testfolyadékok pH-állandóságának törvénye. Az emberi vér pH-ja 7,38 és 7,42 között változhat.",
+      "quote": "Vér pH-értéke konstans",
+      "text": "A tüdőben a CO2-leadás csökkenése savassá teheti a vért (eszméletvesztés veszélye). Hiperventilláció esetén a túlzott CO2-leadás miatt a vér pH-ja nő. Erős éhezéskor vagy cukorbetegségnél anyagcsere-termékek (acetecetsav, béta-oxivajsav) halmozódnak fel, szintén eszméletvesztéshez vezető."
+    },
+    {
+      "id": 6,
+      "term": "Mit jelent az izovolémia?",
+      "definition": "Az izovolémia a testfolyadékok térfogata állandóságának törvénye - a szervezet képes a vértérfogat változásait kompenzálni.",
+      "quote": "Vértérfogat-kiegyenlítés",
+      "text": "A véradásnál átlagosan 450 ml vért vesznek le, amely 5 hét alatt regenerálódik. 15-30%-os vérveszteség már rossz közérzettel, vérnyomáseséssel jár. 40-50%-os vérvesztés a keringés összeomlása miatt életveszélyes. Fokozott vértékanyagcsere garantálja az helyreállást."
+    },
+    {
+      "id": 7,
+      "term": "Mi a vese felépítésének alapja?",
+      "definition": "A vese három rétegű tokkal körülzárt szerv, amely kéregállomány és velőállomány (vesepiramisok) szerkezettel rendelkezik. A központi üreg a vesemedence, amely a húgyvezetékbe nyílik.",
+      "quote": "Szűrőrendszer szerkezete",
+      "text": "A vesét a hasfal háti oldalához kötőszövetes tok rögzíti. A középső réteg 1 cm-es zsírréteg, amely védelemül és párnázásul szolgál. Ehhez tartozik a mellékvese, amely belső elválasztású mirigy. A vese üreges szerv, a szűrőműködés a nefrónok sokasága révén valósul meg."
+    },
+    {
+      "id": 8,
+      "term": "Mi a nefron és hogyan épül fel?",
+      "definition": "A nefron a vese anatómiai és funkcionális alapegysége, amelyből egy vesében kb. 1,5 millió van. Két részből áll: a vesetestecskéből és az elvezető csatornából.",
+      "quote": "Mikro-szűrőrendszer",
+      "text": "A vesetestecske (Malpighi-féle) a kéregállományban helyezkedik el és két részből áll: az érgomolyagból (hajszálérhálózat) és a kétfalú Bowman-tokból. Az elvezető csatorna három részre tagolódik: közeli kanyarulatos csatorna (proximális tubulus), Henle-kacs és távoli kanyarulatos csatorna (disztális tubulus). A disztális tubulusok gyűjtőcsőkbe nyílnak."
+    },
+    {
+      "id": 9,
+      "term": "Hogyan működik az érgomolyag speciális szerkezete?",
+      "definition": "Az érgomolyag speciális hajszálérhálózat, amelyből az odavezető arteriola kapillárisokra osztódik, majd ismét arteriolává szedődik össze. A kilépő arteriola átmérője kisebb az odavezetőnél.",
+      "quote": "Nyomáscsökkentés szűréshez",
+      "text": "Az érgomolyagban az odavezető arteriola nyomása kb. 50 Hgmm. A kilépő arteriola kisebb átmérője miatt a nyomás nem csökken jelentősen, így szűrőműködéshez megfelelő marad. Az érgomolyag kapillárisait pórusos laphámsejtek bélelik, rajtuk 50-100 nm-es nyílások vannak. Ez biztosítja a hatékony szűrést."
+    },
+    {
+      "id": 10,
+      "term": "Mit jelent a szűrletképzés és mi az összetétele?",
+      "definition": "A szűrletképzés során a vérplazma része a vérnyomás hatására a Bowman-tok üregébe jut, létrehozva az elsődleges szűrlet, amely praktikusan fehérjementes vérplazma.",
+      "quote": "Vérplazma szűrése",
+      "text": "A szűrlet tartalmazza a vérplazma összes alkotóját a fehérjéken kívül: vizet, sókat, tápanyagokat (glükóz, aminosavak), bomlástermékeket (karbamid, urobilinogén, húgysav), hormonokat (szteránvázas ivari hormonok, hCG). Az érgomolyagból naponta kb. 20 kg-nyi albumbin átszűrődik, de csak 8 g jelenik meg a vizeletben, mivel a proximális tubulus sejtjei endocitózissal felveszik őket."
+    },
+    {
+      "id": 11,
+      "term": "Mi a szűrőberendezés és hogyan működik?",
+      "definition": "A szűrőberendezés az érgomolyagot és a Bowman-tok falát elválasztó negatív töltésű rostos alaphártya. Pórusai az alakos elemeket és nagy méretű fehérjéket visszatartják.",
+      "quote": "Szelektív szűrés",
+      "text": "Az alaphártya negatív töltése visszatartja a szintén negatív töltésű nagy fehérjemolekulákat. Az érgomolyagban a nyomás kb. 50 Hgmm, a vérplazma kolloidozmotikus nyomása 25 Hgmm, a tok szűrlet-nyomása kb. 15 Hgmm. Az effektív filtrációs nyomás: Peff = 50-25-15 = kb. 10 Hgmm. A szűrés passzív folyamat, nyomáskülönbségen alapul."
+    },
+    {
+      "id": 12,
+      "term": "Mi a glomeruláris filtrációs ráta (GFR)?",
+      "definition": "A GFR megadja az időegység alatt átszűrődő folyadék mennyiségét. Normális értéke kb. 120 ml/perc, így naponta kb. 180 liter szűrlet keletkezik.",
+      "quote": "Szűrési kapacitás",
+      "text": "A GFR meghatározása markervegyületek (inulin, kreatinin) segítségével történik. A clearance (C) az a plazmatérfogat, amely tartalmazza az időegység alatt kiürült anyag mennyiségét. A leggyakrabban használt formula: Cinulin = GFR = U·V/P, ahol U a vizeletben mért, V az ürített mennyiség, P a plazmában mért koncentráció."
+    },
+    {
+      "id": 13,
+      "term": "Hogyan történik a glükóz visszaszívódása a proximális tubulusban?",
+      "definition": "Az átszűrődött glükóz 100%-a aktív transzporttal szívódik vissza a proximális tubulusban, így egészséges, éhező ember vizeletében nem jelenik meg cukor.",
+      "quote": "Cukor visszavétele",
+      "text": "A glükóz Na+-glükóz kotranszport révén szívódik vissza. Ha a vérplazmában a glükóz koncentrációja meghaladja a 200 mg/100 ml-t, a szállítómolekulák kapacitásának felső határát érik el és cukor megjelenik a vizeletben. Hasonlóképpen szívódnak vissza az aminosavak is. Cukorbetegségnél az inzulin hiánya miatt nagy vércukorszint alakul ki, így cukor kerül a vizeletbe."
+    },
+    {
+      "id": 14,
+      "term": "Hogyan működik a proximális tubulus?",
+      "definition": "A proximális tubulusban a víznek és sónak nagy része - kb. 70%-a - szívódik vissza. A víz ozmózissal, a sók aktív transzporttal szívódnak vissza.",
+      "quote": "70%-os visszaszívás",
+      "text": "A proximális tubulus falát működésének megfelelően mikrobolyhos egyrétegű hám alkotja. A csatornát körülvevő érekben a vér ozmotikus szívóereje (onkotikus nyomása) megnő, mivel sok víz kilépett a szűrőműködés során. Ez hajtóereje lesz a víz passzív mozgásának. A proximális tubulus végén a szűrlet koncentrációja izoozmotikus (megegyezik a vérplazma koncentrációjával)."
+    },
+    {
+      "id": 15,
+      "term": "Mi az ozmotikus diurésis?",
+      "definition": "Az ozmotikus diurésis akkor történik, amikor egy nem felszívódott ozmotikusan aktív anyag (pl. cukor cukorbetegségnél) csökkenti a víz visszaszívódását.",
+      "quote": "Oldott anyag vízfogása",
+      "text": "Ha a csatornában nem szívódott fel egyensúlyozó anyag marad (pl. glükóz), az csökkenti a víz visszaszívódását. Az ozmotikus nyomás a szűrletben marad, ezért kevesebb víz követheti a visszaszívódó ionokat. A következő szakaszba érkező folyadék mennyisége megnő, ezt a késői szakaszok nem képesek kompenzálni, így a vizelet mennyisége jelentősen megnő."
+    },
+    {
+      "id": 16,
+      "term": "Hogyan működik a Henle-kacs?",
+      "definition": "A Henle-kacs leszálló és felszálló ágában eltérő jellegű transzportfolyamatok működnek. A leszálló ágban víz szívódik vissza, a felszálló ágban sók aktív transzporttal lépnek ki.",
+      "quote": "Ellenáramlás sokszorozása",
+      "text": "A leszálló ágban az átszűrődött víz további 15%-a szívódik vissza, de a csatorna fala sók számára átjárhatatlan. Ez azt eredményezi, hogy a szűrlet hiperozmotikus válik. A felszálló ágban a víz számára átjárhatatlan, de a sók aktív transzporttal kilépnek a szövetnedvbe. Ez a szövetnedv ozmotikus koncentrációját növeli, amely lehetővé teszi a víz kilépését a leszálló ágból és gyűjtőcsőkből."
+    },
+    {
+      "id": 17,
+      "term": "Mi az ellenáramlás sokszorozás?",
+      "definition": "Az ellenáramlás sokszorozása a Henle-kacs és környezete közötti speciális működési mód, amely fokozódó koncentrációgradienszt hoz létre.",
+      "quote": "Koncentráció felépítés",
+      "text": "A felszálló ágból kilépett NaCl növeli a szövetnedv koncentrációját. A leszálló ágból víz szívódik vissza, így a szűrlet NaCl-koncentrációja emelkedik. Ahogy az felszálló ág kezdetéhez érkezik, ebből az erősebb szűrletből több NaCl lép ki aktív transzporttal. Ez a folyamat ismétlődik, és a szövetnedv NaCl-koncentrációja fokozatosan emelkedik a vesepiramis csúcsa felé. Ezt a leszálló és felszálló ágak párhuzamos futása és az érgörbülés ellenárama támogatja."
+    },
+    {
+      "id": 18,
+      "term": "Hogyan működik az ADH (vazopresszin)?",
+      "definition": "Az ADH a hipotalamuszban termelődik és az agyalapi mirigy hátsó lebenyében raktározódik. Vízhiányos állapotban felszabadul, a gyűjtőcsőket áteresztővé teszi a víz számára.",
+      "quote": "Víz-megtartó hormon",
+      "text": "ADH jelenlétében a gyűjtőcsövek falában akvaporin-2 (AQP-2) vizescsatornák beépülnek a sejthártyába, lehetővé téve a víz passzív transzportját. Vízhiány során az ADH szintje emelkedik, így több víz szívódik vissza, a vizelet mennyisége csökken, koncentrációja nő. ADH hiánya nagy mennyiségű híg vizelet keletkezéséhez vezet. Az ADH az erek tónusát is fokozza (vazopresszin), így a vérnyomást is emeli."
+    },
+    {
+      "id": 19,
+      "term": "Mi az aldoszteron szerepe?",
+      "definition": "Az aldoszteron a mellékvesekéregben termelődő hormon, amely a Na+ visszaszívódását serkenti a disztális tubulusban és gyűjtőcsőkben.",
+      "quote": "Nátrium-visszaszívás",
+      "text": "Az aldoszteron sóhiányos állapotban termelődik fokozottabban. A Na+-visszaszívódás fokozásával növeli a víz visszaszívódását is (passzív transzport, ozmózis). Ez a vérnyomás emelkedéséhez vezet. Az aldoszteron szintjét az alacsony vérnyomás fokozza a renin-angiotenzin rendszeren keresztül. Aldoszteron hiánya nagyobb mennyiségű sóvesztésű vizelethez és vérnyomáscsökkenéshez vezet."
+    },
+    {
+      "id": 20,
+      "term": "Mit jelent a renin-angiotenzin rendszer?",
+      "definition": "Ez a vérnyomást szabályozó rendszer, amelyet az alacsony vérnyomás aktivál. A vesében termelődő renin enzim indítja el az angiotenzin II képzésének kaszkádját.",
+      "quote": "Vérnyomás-emelés",
+      "text": "Az alacsony vérnyomás hatására a vesében az érgomolyaghoz vezető arteriola falában lévő juxtaglomeruláris sejtek renint választanak ki. A renin a máj által felszabadított angiotenzinogént angiotenzin I-gyé alakítja. Az angiotenzin I a tüdőben angiotenzin II-vé alakul, amely fokozza az aldoszteronelválasztást és közvetlenül növeli a vérnyomást."
+    },
+    {
+      "id": 21,
+      "term": "Hogyan szabályozza a vese a vér pH-ját?",
+      "definition": "A vesékben a gyűjtőcsatornák sejtjei a vér savasodásakor H+-ionokat választanak ki a szűrletbe, miközben HCO3--ionok visszakerülnek a vérbe.",
+      "quote": "pH-szabályozás",
+      "text": "A vér savasodásakor a gyűjtőcsatornák sejtjei CO2-t vesznek fel. A sejtekben a CO2 vízzel szénsavat képez, amely bomlik H+- és HCO3--ionokra. A H+-ionok a szűrletbe kiválasztódnak és a vizelettel távoznak. A HCO3--ionok visszakerülnek a vérbe. Ez a folyamat emeli a vér pH-ját, biztosítva a sav-bázis egyensúly fenntartásához szükséges kompenzációt."
+    },
+    {
+      "id": 22,
+      "term": "Melyek a vizelet összetevői?",
+      "definition": "A vizelet kb. 1,5 liter naponta, sárgás, átlátszó folyadék, pH körülbelül 6. Fő összetevői: víz, ionok, karbamid, húgysav, urobilinogén, szteroidhormonok.",
+      "quote": "Szervezet hulladéka",
+      "text": "A vizeletben jelen van: víz, ionok (Na+, K+, Ca2+, Cl-, NH4+, PO43-), karbamid (aminosavak N-tartalmú bomlásterméke), húgysav (purinbázisok N-tartalmú bomlásterméke), urobilinogén (hemoglobin bomlásterm.), tejsav (intenzív izommunka esetén), szteroidhormonok, terhesség esetén hCG. A vizelet összetétele és mennyisége függhet a táplálékotól, folyadékbeviteltől, hőmérséklettől, fizikai aktivitástól, betegségtől."
+    },
+    {
+      "id": 23,
+      "term": "Milyen betegségeket jelezhet a vizelet összetételének megváltozása?",
+      "definition": "A vizelet tulajdonságainak megváltozása számos betegség jeleit mutathatja, ezért a vizeletvizsgálat diagnosztikai fontossággal bír.",
+      "quote": "Egészség-indikátor",
+      "text": "A vérplazmában a normál glükóz koncentrációját meghaladó szint miatt cukor jelenik meg a vizeletben cukorbetegségben. Nagyobb mennyiségű fehérje a vese gyulladásos folyamatait jelzi. Fehérvérsejtek és vérsejtek a fertőzést vagy daganatot jelezhetik. A ADH hiánya nagy mennyiségű híg vizelethez vezet. Az inzulin hiánya (I. típusú cukorbetegség) megnövekedett vizeletet eredményez, mivel a szűrlet glükóz-koncentrációja túl magas."
+    },
+    {
+      "id": 24,
+      "term": "Mit jelent a vesekő és hogyan alakul ki?",
+      "definition": "A vesekő akkor alakul ki, ha a vizelet kissé lúgosabb vagy töményebb az optimálisnál, és az egyébként oldott sók kikristályosodva kicsiny vesehomokot vagy nagyobb vesekövet képeznek.",
+      "quote": "Sólerakódás",
+      "text": "A vesekő a vesemedencében vagy a húgyhólyagban jöhet létre. Kialakulásának rizikófaktorai között szerepel az nem megfelelő hidratáció, a vizelet pH-értékének eltolódása, bizonyos anyagcsere-zavarok. A vesekőképződés megelőzésében kritikus szerepe van a megfelelő mennyiségű folyadékbevitelnek, amely a vizelet koncentrációját csökkenti. Az orvosi kezelésnek lehet az ezzel összefüggő izomgörcsök enyhítése."
+    },
+    {
+      "id": 25,
+      "term": "Mi az veseelégtelenség?",
+      "definition": "A veseelégtelenség a vese működésének súlyos zavara, amikor a vese nem tudja eltávolítani a toxikus anyagokat, amelyek felhalmozódnak a vérben.",
+      "quote": "Vese működésének összeomlása",
+      "text": "Az elégtelenség okozhatja a vese ereinek szűkülete vagy károsodása (pl. cukorbetegség miatt), vagy a nefronok szöveti károsodása gyulladásos vagy mérgezéses okok miatt. Csökkent mennyiségű vizelet keletkezik, és a vérben toxikus anyagok halmozódnak fel. A kezelésre megoldás lehet a mesterséges veseműködés (dialízis) vagy a veseátültetés."
+    },
+    {
+      "id": 26,
+      "term": "Hogyan működik a hemodialízis?",
+      "definition": "A hemodialízis dialízisközpontokban történik, hetente 3 x 4 óra időtartamban. A beteg vérét dializáló gépbe vezetik, ahol a féligáteresztő falú csőben áramlik egy dializáló folyadékkal körülvett térben.",
+      "quote": "Mesterséges szűrés",
+      "text": "A dialízis alapelve a diffúzió. A mérgező anyagok a koncentrációkülönbségnek megfelelően jutnak ki a vérből a féligáteresztő hártyán keresztül a csöveket körülvevő steril dializáló oldatba. A működés elve megegyezik az ellenáramlás elvével: az ellentétes irányban mozgó dializáló folyadék fenntartja a káros anyagok koncentrációgradiensét a két folyadéktér között, ezzel egyenletes diffúziósebességet biztosítva."
+    },
+    {
+      "id": 27,
+      "term": "Hogyan működik a vizelet elvezetése?",
+      "definition": "A vizelet a vesében a vesemedencében gyűlik össze, innen a húgyvezeték perisztaltikus mozgásokkal szállítja a húgyhólyagba, ahol időlegesen tárolódik, majd a húgycsövön keresztül ürül.",
+      "quote": "Vizelet-szállítás",
+      "text": "A húgyhólyag falában található simaizomréteg aktívan részt vesz a vizeletürítésben. A húgycső a húgyhólyag alsó részéből indul, eredési helyén gyűrű alakú simaizom található, lejjebb pedig erős harántcsíkolt záróizom, mely segítségével a vizeletürítés akaratlagosan szabályozható. A húgycső a nőknél rövidebb, férfiaknál hosszabb, mivel a péniszben fut és az ondóvezetékkel egyesül a prosztatában."
+    },
+    {
+      "id": 28,
+      "term": "Milyen információkat nyújthat a vérplazma GFR vizsgálata?",
+      "definition": "A GFR meghatározása markerek segítségével lehetővé teszi a vese filtrációs kapacitásának felmérését és egy adott anyag időegység alatti kiürülésének mértékének megállapítását.",
+      "quote": "Vese-teljesítmény mérése",
+      "text": "A leggyakrabban az inulin és a kreatinin kerül felhasználásra, mivel ezek 100%-ban átszűrődnek, nem szívódnak vissza, nem bomlékonyak és nem szintetizálódnak a vesében. A clearance értéke ezekre az anyagokra megegyezik a GFR-rel. Az eljárás során a vérplazmában lévő ismert mennyiségű anyag koncentrációjával összevetik a vizeletben megjelenő mennyiségét a képlet: Cinulin = GFR = U·V/P segítségével."
+    },
+    {
+      "id": 29,
+      "term": "Milyen szövetekben és szervekben történik kiválasztás a vesén kívül?",
+      "definition": "A vesén kívül a tüdő, máj, bőr, végbél is részt vesznek a kiválasztásban, de csak a vese végez szigorú értelemben kiválasztást.",
+      "quote": "Többszerv kiválasztás",
+      "text": "A tüdő a szén-dioxid eltávolításában vesz részt. A máj a hemoglobin bomlásából származó bilirubint az epével a bélcsatornába üríti. A bőr verejtékmirigyein keresztül vizet, konyhasót, illatanyagokat és egyes gyógyszereket választ ki. A végbél elsősorban a sók kiválasztásában működhet közre. Azonban csak a vesék biztosítják a szervezet belső egyensúlyának fenntartásához szükséges szabályozott kiválasztást."
+    },
+    {
+      "id": 30,
+      "term": "Mitől függ a vizelet mennyisége és összetétele?",
+      "definition": "A vizelet mennyiségét és összetételét számos körülmény befolyásolja: táplálék minősége és mennyisége, folyadékbevitel, hőmérséklet, fizikai aktivitás, és különféle élettani állapotok.",
+      "quote": "Körülmények szerinti változékonyság",
+      "text": "Az intenzív izommunka során szervezet vizeletürítése csökkent, mivel a vérnyomásesésre válaszul az ADH szintje emelkedik. Terhességi hormonok befolyásolhatják a vízháztartást. A vizelet összetétele és mennyisége széles határok között változhat, de normális körülmények között biztosítja a szervezet homeosztázisát."
+    },
+    {
+      "id": 31,
+      "term": "Mi a proximális tubulus szerepe a visszaszívásban?",
+      "definition": "A proximális tubulusban történik a szűrlet összes glükózjának, aminosavainak, és a sók valamint a víz kb. 70%-ának visszaszívása.",
+      "quote": "Elsődleges visszaszívás",
+      "text": "Az itt termelődő enzimek és transzportőrmolekulák lehetővé teszik a glükóz Na+-glükóz kotranszport révén, az aminosavak aktív transzporttal való visszaszívódását. A sók aktív, a víz pedig passzív (ozmózis) transzporttal szívódnak vissza. A proximális tubulus végén a szűrlet izoozmotikus a vérplazmához képest. Az itt végbemenő folyamatok miatt az első szűrlet mennyiségének jelentős része visszajut a szervezetbe."
+    },
+    {
+      "id": 32,
+      "term": "Mi a disztális tubulus funkciója?",
+      "definition": "A disztális tubulusban csak kismértékű só- (5%) és jelentéktelen vízvisszaszívás történik, elsősorban aldoszteron hatására.",
+      "quote": "Végső finomhangolás",
+      "text": "Az ezekben az enzimekben történő folyamatok már finom szabályozási feladatot végeznek. A gyűjtőcsatorna felé a kezdeti szűrlet mennyiségének csak kb. 15%-a (kb. 27 dm3 folyadék) halad. A további visszaszívás az ADH és aldoszteron hormonok kontrollja alatt történik meg, amely biztosítja a végleges vizelet összetételének és mennyiségének optimális szabályozását."
+    },
+    {
+      "id": 33,
+      "term": "Hogyan érinti a cukorbetegség a vizeletképzést?",
+      "definition": "Cukorbetegség esetén az inzulin hiánya miatt magas vércukorszint alakul ki, amely magas szűrletkoncentrációt eredményez, így csökkent a víz visszaszívódása.",
+      "quote": "Cukor-osmotikus hatás",
+      "text": "A szűrletben maradó glükóz nem szívódik vissza, mivel a szállítómolekulák kapacitása túlterhelve van. Ez az ozmotikus nyomást a szűrletben tartja, csökkentve a víz passzív visszaszívódását. A későbbi szakaszok ezt a megnövekedett vízmennyiséget nem képesek kompenzálni, így az úgynevezett osmotikus diurésis miatt napi 15 liter vagy még több vizelet is keletkezhet. Az betegek vízvesztése miatt jelentősen megnövekedett vízfogyasztáshoz vezet."
+    }
+  ]
+}

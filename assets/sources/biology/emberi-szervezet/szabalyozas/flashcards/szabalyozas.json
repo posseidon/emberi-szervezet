@@ -1,0 +1,1684 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mit jelent a negatív visszacsatolás a szabályozásban?",
+      "definition": "A negatív visszacsatolás olyan szabályozó folyamat, amikor a szabályozórendszer a hibajellel ellentétes előjelű hatással módosítja a rendszer működését.",
+      "quote": "Stabilizáló kontrol",
+      "text": "A negatív visszacsatolásnál kilépő hatások csökkentik a folyamatok mértékét (csökkenésre növelés, növekedésre csökkentés). Ez a rendszert stabilizálja, önszabályozás jön létre, a rendszer egy dinamikus egyensúlyi állapotban tartja fenn önmagát. Ez biztosítja a homeosztázist, a belső környezet szabályozott állandóságát. Az endokrin szabályozásban ezt az elvet széles körben alkalmazzák a hormonszintek szabályozásában."
+    },
+    {
+      "id": 2,
+      "term": "Mit jelent a pozitív visszacsatolás?",
+      "definition": "A pozitív visszacsatolás olyan szabályozó folyamat, amikor a rendszerből kilépő hatások tovább erősítik a folyamatok mértékét.",
+      "quote": "Erősítő kör",
+      "text": "A pozitív visszacsatolásnál növekedésre növelés, csökkenésre csökkentés következik. Például a légkör felmelegedése fokozza a párolgást, amely növeli a légkör páratartalmát, és mivel a vízgőz üvegházhatású, tovább növeli a felmelegedést. Az adrenalinfeltárása az oxitocin-e a szülésben szintén pozitív visszacsatolás - az anya oxitocinje fokozza az uterus összehúzódásait, amely több oxitocin felszabadulásához vezet. Azonban az állandóan változó külső környezetben az állati szervezet homeosztázisát elsősorban a negatív visszacsatolások teszik lehetővé."
+    },
+    {
+      "id": 3,
+      "term": "Mit jelent a homeosztázis?",
+      "definition": "A homeosztázis a belső környezet szabályozott dinamikus állandóságának állapota. A sejtek, élő szervezetek optimális működésének előfeltétele egy bizonyos belső stabilitás.",
+      "quote": "Dinamikus egyensúly",
+      "text": "Az önszabályozó folyamatok az élő szervezetek sokféle jellemzőjét tartják állandó értéken: kémhatás, ionkoncentráció, térfogat, hőmérséklet. A homeosztázis feltétele az egyes sejtek, szövetek, szervek működésének összehangolása. Az állati szervezet soksejtűségéből fakadóan a sejtek között szoros együttműködés van, amely a biológiai szabályozás révén valósul meg. A homeosztázis az egész szervezet normális működésének alapja."
+    },
+    {
+      "id": 4,
+      "term": "Milyen típusai vannak a sejtek közötti kommunikációnak?",
+      "definition": "Az endokrin kommunikáció a hormonális szabályozás alapja. További típusok: neurokrin, parakrin, autokrin kommunikáció.",
+      "quote": "Kommunikációs módok",
+      "text": "Endokrin kommunikáció: belső elválasztású mirigyek hormonokat a vérbe ürítik. Neuroszekréció: idegsejtek termelik a hormonokat. Neurokrin kommunikáció az idegi szabályozás alapja. Parakrin komunikáció a tápcsatorna falában termelődő szöveti hormonok kapcsán látható, a jelet kibocsátó sejtek a környezetükben lévő sejtek működését befolyásolják. Autokrin kommunikáció: az elválasztott anyag a sejt saját működését befolyásolja, például sok idegsejt az axonvégződésen meg is tudja kötni szinaptikus transzmitterét."
+    },
+    {
+      "id": 5,
+      "term": "Melyek a fontosabb belső elválasztású mirigyek?",
+      "definition": "A fontosabb belső elválasztású mirigyek: agyalapi mirigy, pajzsmirigy, mellékpajzsmirigy, mellékvesék, hasnyálmirigy, ivarmirigyek.",
+      "quote": "Hormon-termelők",
+      "text": "Az agyalapi mirigy az agytörzs alatt helyezkedik el, elülső és hátsó lebenyből áll. A pajzsmirigy a nyak elején helyezkedik el az ádámcsutka alatt. A mellékpajzsmirigy a pajzsmirigy mögött helyezkedik el. A mellékvesék a vesék tetejére telepednek. A hasnyálmirigy az epehólyag alatt helyezkedik el, e mellett van a Langerhans-szigetek. Az ivarmirigyek: herék férfiakban, petefészkek nőkben. Ezen kívül gyakorlatilag minden szerv képes előállítani hormont."
+    },
+    {
+      "id": 6,
+      "term": "Mit jelent a hormon és milyen típusai vannak?",
+      "definition": "A hormonok belső elválasztású mirigyek által termelt hatóanyagok, amelyek más sejtek működését megváltoztatják. Fajtái: aminosav-származékok, peptidek, szteroidok.",
+      "quote": "Elsődleges hírvivők",
+      "text": "Aminosav-származékok: tiroxin, adrenalin. Peptidek: ADH, oxitocin, inzulin, növekedési hormon. Szteroidok: mellékvesekéreg-hormonok, nemi hormonok. A hormonok rövid élettartalmúak (percekben, szteroid hormonok órákban mérhető), viszonylag gyorsan lebomlanak. Ezt a termelés mértékével szabályozható egy adott hormon koncentrációja a vérben, ami a hormonhatás intenzitását határozza meg. A hormonális hatás lehet lassú és tartós (növekedés) vagy viszonylag gyors, rövidebb hatású (adrenalin)."
+    },
+    {
+      "id": 7,
+      "term": "Mit jelent a célsejt és mi a receptorok szerepe?",
+      "definition": "A célsejt az a sejt, amely a jelet megköti specifikus receptoraival. A receptorok a sejt felszínén vagy belsejében helyezkednek el és specifikusan megkötik az adott jelet (ligandum).",
+      "quote": "Specifikus kötés",
+      "text": "A receptorok jelenléte teszi szelektívvé a hatást a különféle sejtek között. A receptorok olyan fehérjék, amelyek specifikusan megkötik az adott jelet, aminek következtében a sejten belül jelátalakítás, jelerősítés, sejtválasz indul be. Ugyanaz a hormon más szervben más hatást fejthet ki, mivel a receptor-különbségek miatt más sejtek más módon reagálnak a jelre. Ez biztosítja a hormonális rendszer szelektivitásában és specificitásában."
+    },
+    {
+      "id": 8,
+      "term": "Hogyan működik a párathormon és miért fontos?",
+      "definition": "A párathormon a mellékpajzsmirigyből ürül, szabályozza a vér kalcium-szintjét. Alacsony vér-kalcium hatására felszabadul.",
+      "quote": "Kalcium-emelés",
+      "text": "A párathormon növeli a vér kalcium-szintjét több mechanizmuson keresztül: fokozza a csontok kalcium-felszabadulását, fokozza a vesékben a kalcium-visszaszívódást, fokozza a D-vitamin aktiválódását, amely javítja a kalcium-felszívódást az emésztőrendszerben. Az alacsony vér-kalcium helyes ingere a párathormon kibocsátásának. Ez a negatív visszacsatolási rendszer biztosítja a vér-kalcium megfelelő szintjét, amely kritikus az izmok, az idegek és a szív megfelelő működéséhez."
+    },
+    {
+      "id": 9,
+      "term": "Mi a kalcitonin szerepe?",
+      "definition": "A kalcitonin a pajzsmirigy C-sejtjeiből ürül, csökkenti a vér kalcium-szintjét. Magas vér-kalcium hatására felszabadul.",
+      "quote": "Kalcium-csökkentés",
+      "text": "A kalcitonin közvetlenül gátolja az osteoklásztok (csontfaló sejtek) aktivitását, csökkentve a csontok kalcium-felszabadulását. Fokozza a szervezetben a kalcium-depozícióját az újonnan képzett csontban. Fokozza a vesékben a kalcium-kiürülést. A kalcitonin a párathormonnal ellentétes hatást fejt ki, és ezáltal közösen szabályozzák a vér-kalcium szintjét. A kalcitonin számos terápiás alkalmazást talál az osteoporózis kezelésében."
+    },
+    {
+      "id": 10,
+      "term": "Mi a D-vitamin (kalcitriol) hormonális funkciója?",
+      "definition": "A D-vitamin hormon formájában (kalcitriol) szabályozza a kalcium- és foszfor-anyagcserét. Fokozza a kalcium-felszívódást az emésztőrendszerben.",
+      "quote": "Kalcium-felszívás serkentő",
+      "text": "A D-vitamin a vesében kalcitriollá aktiválódik. A kalcitriol fokozza a kalcium-felszívódást az emésztőrendszerben, közvetlenül és a kalcium-kötő fehérjéket termelvénye által. Fokozza az alacsony kalcium-szint hatására a párathormon termelődésének érzékenységét. A D-vitamin hiánya csont-betegségekhez vezethet (rákitisz gyermekeknél, osteomalacia felnőtteknél). Az egészséges D-vitamin-szint fenntartásához napfény-expozíció és D-vitamin-gazdag étrend szükséges."
+    },
+    {
+      "id": 11,
+      "term": "Mit jelent az inzulin és mi a funkciója?",
+      "definition": "Az inzulin a hasnyálmirigy B-sejtjeiből ürül a magas vér-glükóz hatására. Csökkenti a vér-glükóz-szintjét.",
+      "quote": "Glükóz-csökkentő",
+      "text": "Az inzulin az izomba és zsírszövetbe beviszi a glükózt, ahol felhasználódik vagy tárolódik. Fokozza a glükóz szövetekben való felhasználódásáét, glikogenez és lipogenez révén tárolódását. Az inzulin a testfolyadékok fő anabolikus (felépítő) hormonja. Az inzulin hiánya cukorbetegséghez (diabétesz) vezethet, amelyben a vér-glükóz eredetileg magas, mert a sejtek nem tudják felvennni a glükózt. Az inzulin a vér-glükóz szintjét serkentő és gátló hatások közötti egyensúly révén negatív visszacsatolás szabályozza."
+    },
+    {
+      "id": 12,
+      "term": "Mit jelent a glukagon és hogyan ellensúlyozza az inzulint?",
+      "definition": "A glukagon a hasnyálmirigy A-sejtjeiből ürül az alacsony vér-glükóz hatására. Növeli a vér-glükóz-szintjét.",
+      "quote": "Glükóz-emelés",
+      "text": "A glukagon a máj glukogenolízise (glikogén lebontása) és glükoneogénezise (új glükóz szintézise) révén növeli a vér-glükóz-szintjét. Az alacsony vér-glükóz az inzulin termelődésének gátlásához és a glukagon termelődésének fokozásához vezet. Az inzulin és glukagon együtt szoros negatív visszacsatolási rendszert képez, amely biztosítja a vér-glükóz szintjének szűk tartományon belüli tartása. Ez az egyik legfontosabb szabályozási rendszer az anyagcsere-folyamatokban."
+    },
+    {
+      "id": 13,
+      "term": "Mit jelent az adrenalin és milyen hatásai vannak?",
+      "definition": "Az adrenalin a mellékvese-velő (medulla) által termelt katecholamin. A stressz hatására felszabadul, mobilizálja az energiarezervákat.",
+      "quote": "Küzdelem-futás hormon",
+      "text": "Az adrenalin fokozza a szívfrekvenciát és vérnyomást, tágítja az izompokat ellátó artériákat (vér az izmokhoz), szűkíti az emésztőrendszert ellátó artériákat (vér az agyhoz), fokozza az izomnyújtályálódást és glükóz mobilizálódást a máj glükogenolízisé révén, növeli a tüdő légzőterületét. Az adrenalin a szimpatikus idegrendszert jelzi, a vészhelyzetre való biológiai felkészüléshez. Az adrenalin hatása rövid, időtartama percek, és az adrenalináz enzim gyorsan lebontja azt."
+    },
+    {
+      "id": 14,
+      "term": "Mit jelent a kortizol és milyen szerepe van?",
+      "definition": "A kortizol a mellékvese-kéreg (cortex) által termelt glükokortikoid. A stressz hatására felszabadul az ACTH (adreno-corticotropic hormon) által serkentve.",
+      "quote": "Stressz-hormon",
+      "text": "A kortizol a glikoneogenezist fokozza, növeli a vér-glükóz-szintjét, fokozza a fehérjebontást, csökkenti az immunválaszt, csökkenti a gyulladást. A kortizol szintje napi ritmus szerint változik, reggel magas, este alacsony. Krónikus stressz fokozza a kortizol-szinteket, amely számos egészség-problémához vezethet: immunlokális csökkent, csont-vesztés, izom-gyengeség. Az agyalapi mirigy (hipofízis) és a hipotalamusz által szabályozottan működik egy negatív visszacsatolási rendszeren keresztül."
+    },
+    {
+      "id": 15,
+      "term": "Mit jelent a tiroxin és mi a funkciója?",
+      "definition": "A tiroxin a pajzsmirigy által termelt aminosav-származék hormon. Szabályozza a sejtlégzést és az anyagcsere-sebességet.",
+      "quote": "Anyagcsere-szabályozó",
+      "text": "A tiroxin növeli a sejtlégzés sebességét, megemeIi az energiatermelést és a hőlerakódást, serkenti a szívfrekvenciát, émelyít az izom-nyújtályálódást. A tiroxin termelődése a TSH (pajzsmirigy-serkentő hormon) által szabályozottan működik, amely az agyalapi mirigy elülső lebenyéből ürül. Az alacsony tiroxin-szint hypothyreózishez, a magas szint hyperthyreózishoz vezethet. A pajzsmirigy működésének szabályozása a termelödött hormon negatív visszacsatolása révén történik."
+    },
+    {
+      "id": 16,
+      "term": "Mit jelent a növekedési hormon és milyen hatásai vannak?",
+      "definition": "A növekedési hormon az agyalapi mirigy elülső lebenyéből ürül. Serkenti a csontok és izmok növekedését, fokozza a tüdő magasságát.",
+      "quote": "Növekedés serkentő",
+      "text": "A növekedési hormon serkenti a fehérjeszintézist, a csontok hosszabbodását, az izmok növekedésének fokozódást, a zsír-lebontást. Egyes hatásai direkt, mások az IGF-1 (inzulin-szerű növekedési faktor) termelödésén keresztül közvetett. A növekedési hormon termelödése az életkortól, az alvástól és a testmozgástól függ. A növekedési hormon hiánya törpenövéshez, a túlmennyisége óriásnövéshez (pubertás előtt) vagy akromegáliához (pubertás után) vezethet."
+    },
+    {
+      "id": 17,
+      "term": "Mit jelent az oxitocin és milyen szerepe van?",
+      "definition": "Az oxitocin az agyalapi mirigy hátsó lebenyéből ürül idegsejtek által termelt. Serkenti az uterus összehúzódásait és a szoptás során a melltejelet.",
+      "quote": "Szülés és szoptás",
+      "text": "Az oxitocin az anyaméhen a szülés során a méh izomösszehúzódásait erősíti meg, lehetővé téve a magzat születését. A szülés során a méhnyak kitágulása reflexesen oxitocin-felszabadulást okoz, amely pozitív visszacsatolás. Az oxitocin szoptás során a mellből a tejtel kilépésben segédik, a mellből a tej lezúdul az újszülötthez. Az oxitocin szerepet játszik a szexuális válaszban és az érzelmi kötődésben. Az oxitocin szintetikus formája (pitocin) használt a szülés indukálásában vagy fokozásában."
+    },
+    {
+      "id": 18,
+      "term": "Mit jelent az ADH (vazopresszin) és mi a funkciója?",
+      "definition": "Az ADH az agyalapi mirigy hátsó lebenyéből ürül a hipotalamusz idegsejte által termelt. Fokozza a víz-visszaszívódást a vesékben.",
+      "quote": "Víz-megtartó hormon",
+      "text": "Az ADH szintje a vér ozmotikus nyomása (ionkoncentrációja) által szabályozottan működik. Magas ozmotikus nyomás (kevés víz) fokozza az ADH termelödését, amely a vesékben fokozza a víz-visszaszívódást. Alacsony ozmotikus nyomás (sok víz) csökkenti az ADH termelödést, amely csökkent víz-visszaszívódáshoz és több vizelet-termelödéshez vezet. Ez a finom szabályozás biztosítja a vér ionkoncentrációjának állandóságát. Az ADH hiánya központi vagy renális diabetes insipidushoz vezethet."
+    },
+    {
+      "id": 19,
+      "term": "Mit jelent az aldoszteron és mi a funkciója?",
+      "definition": "Az aldoszteron a mellékvese-kéreg által termelt szteroid hormon. Fokozza a nátrium-visszaszívódást a vesékben.",
+      "quote": "Nátrium-megtartó",
+      "text": "Az aldoszteron fokozza az összesen visszaszívódás a disztális tubulusban és gyűjtőcsövekben a Na+/K+ csere révén. A nátrium-visszaszívódás fokozódása ozmotikus nyomás-különbség révén a víz-visszaszívódást is fokozza, így a vérnyomás emelkedik. Az aldoszteron termelödése az alacsony vérnyomás és a renin-angiotenzin rendszer által fokozottan működik. Az aldoszteron hiánya hyperkaliémiához (magas K+) és hiponatriémiához (alacsony Na+) vezethet, a túlmennyisége hypertenzióhoz és hipokaliémiához."
+    },
+    {
+      "id": 20,
+      "term": "Mi a női nemi ciklus és milyen hormonok szabályozzák?",
+      "definition": "A női nemi ciklus kb. 28 napos hormonális és szervi változások sorozata, amelyen keresztül az agyalapi mirigy, a pajzsmirigy és a petefészek között szoros interakció van.",
+      "quote": "Hormonális reproduktív ritmus",
+      "text": "A ciklus a menstruáció kiváltásával kezdődik, amely az ösztrógén és progeszteron szintjének hirtelen esésének következménye. Az agyalapi mirigy FSH-t (follicle-stimulating hormon) bocsát ki, amely a petefészekben a tüszőt és az ösztrógén-termelödést serkenti. Az ösztrógén-szint emelkedésére az agyalapi mirigy LH-fegésé (luteinizing hormon) felszabadulása válaszol, amely az ovulációt indukálja. Után a maradék tüsző sárgatestté alakul, amely a progeszteron-termelödést biztosítja. Ha nem történik megtermékenyítés, az ösztrógén és progeszteron-szint csökken, amely a menstruáció újabb kitöltésé vezet."
+    },
+    {
+      "id": 21,
+      "term": "Mit jelent a hormonális fogamzásgátlás?",
+      "definition": "A hormonális fogamzásgátlás szintetikus ösztrógén és progeszteron-szerű hormonok használatán alapul, amelyek megakadályozzák az ovulációt.",
+      "quote": "Ovuláció-gátlás",
+      "text": "Az ösztrógén és progeszteron együtt negatív visszacsatolás révén gátolják az FSH és LH felszabadulását az agyalapi mirigytől, ezáltal megakadályozva a tüszőfejlödést és az ovulációt. Az ún. kombinált tabletták mindkét hormont tartalmazzák, míg a progeszteron-csak tabletták (mini-pill) elsősorban a méhnyakciklis viszkozitásának módosítása révén működnek. A hormonális fogamzásgátlás mély megbízható azonban lehetséges mellékhatások, és nem nyújtják a szexuális úton terjedő betegségek elleni védelmet."
+    },
+    {
+      "id": 22,
+      "term": "Mit jelent az tesztoszteronnal és milyen hatásai vannak?",
+      "definition": "A tesztoszteronok a herékben (és kis mennyiségben a mellékvesékben) termelt szteroid hormon. Szabályozza a férfi nemi jellegek kifejlődését és az anyagcsere-folyamatokat.",
+      "quote": "Férfi nemi hormon",
+      "text": "A tesztoszteronok serkenti a spermiumok termelödését, fejleszti a férfi másodlagos nemi jellegeket (hangos mélyülés, testszőr), fokozza az izom-növekedést és az erőt, csökkenti a zsír-depoziciót. A tesztoszteronok termelödése az LH (luteinizing hormon) által serkentett, amely az agyalapi mirigy által irányítottan működik. A tesztoszteronok hiánya hirsutem és nőiességhez vezethet, a túlmennyisége aggresszivitás és egyéb mellékhatások okozhat. A tesztoszteron nemcsak a herékben, hanem az adrenális szöveti hormonok formájában is termelödik."
+    },
+    {
+      "id": 23,
+      "term": "Mit jelent az ösztrógén és mi a szerepe?",
+      "definition": "Az ösztrógén a petefészek granulózus sejtjeiből termelt szteroid hormon. Szabályozza a női nemi jellegek kifejlődését és a reproduktív szerv működését.",
+      "quote": "Női nemi hormon",
+      "text": "Az ösztrögén serkenti a méhnyálkahártya-hipertrófiáját (endometrium felépítése), fejleszti a női másodlagos nemi jellegeket (mellnagyobbodás, testszőr eloszlása), csökkenti a csont-vesztést az ösztrogén receptorok által az osteoblásztokon. Az ösztrögén szintje a nemi ciklus során változik, a tüszőfázisban magasabb, a corpus luteum-fázisban alacsonyabb. Az ösztrögén hiánya menopauza után csont-vesztéshez (osteoporózis) vezethet. Az ösztrögénről ismert, hogy az érelmeszesedés elleni védelem is nyújthat, azonban az hosszú-lefolyamú ösztrögén-termépia számos betegség-kockázattal jár."
+    },
+    {
+      "id": 24,
+      "term": "Mit jelent a progeszteron és mi a funkciója?",
+      "definition": "A progeszteron a corpus luteum-ból és a terhesség alatt a placentából termelt szteroid hormon. Felkészíti és fenntartja a méhnyálkahártyát a megtermékenyített petesejt beágyazódásához.",
+      "quote": "Terhesség-hormon",
+      "text": "A progeszteron fokozza a méhnyálkahártya sejtvérzését és vérellátottságát, biztosítva az embrió beágyazódásának feltételeit. Fokozza a méh izomzat nyugalmát, megakadályozva a méh összehúzódásait. Csökkenti az FSH és LH szintjét, megakadályozva további tüszők fejlödést. Ha nem történik megtermékenyítés, a progeszteron-szint csökken, amely a méhnyálkahártya leömlésének (menstruáció) kitöltésé vezet. A terhesség alatt a progeszteron szintje magas marad, mely megakadályozza az újabb ovulációt és támogatja a terhesség fenntartásított."
+    },
+    {
+      "id": 25,
+      "term": "Mit jelent a pajzsmirigy túlműködés (hyperthyreózis)?",
+      "definition": "A hyperthyreózis túl sok tiroxin termelödésére utal, amely megemeIi az anyagcsere-sebességet és számos tünetet okoz.",
+      "quote": "Tibor anyagcsere-gyorsulás",
+      "text": "A hyperthyreózis tünetei között szerepel: szapora szívverés, szorongás, izomgyengeség, súlycsökkenés fogyasztás mellett, fáradtság, kéztremor, hőérzékenység, nyaki duzzanat (strúma). A leggyakoribb oka az autoimmu graves-betegség, amelyben az antitestek a TSH receptorait támadják meg. A kezelés antithyreoid gyógyszerekkel, radioaktív jóddal vagy sebészeti eltávolítással történhet."
+    },
+    {
+      "id": 26,
+      "term": "Mit jelent a pajzsmirigy alulműködés (hypothyreózis)?",
+      "definition": "A hypothyreózis nem elég tiroxin termelödésé, amely csökkenti az anyagcsere-sebességet és számos tünetet okoz.",
+      "quote": "Lassú anyagcsere",
+      "text": "A hypothyreózis tünetei között szerepel: fáradtság, súlygyarapodás, hidegérzékenység, lassú szívverés, depresszió, száraz bőr, haj-kihullás, az agyalapi mirigy TSH szintje magas. A leggyakoribb oka a Hashimoto thyroiditis, egy autoimmu betegség. A kezelés szintetikus tiroxin (levothyroxine) adagolásával történik. A jó-ellátottság garantálja a normális anyagcsere-sebességet és az élet minőségét."
+    },
+    {
+      "id": 27,
+      "term": "Mit jelent a cukorbetegség (diabétesz)?",
+      "definition": "A cukorbetegség olyan anyagcsere-zavar, amely során a szervezet nem képes megfelelően szabályozni a vér-glükóz szintjét.",
+      "quote": "Glükóz-felszívódás zavara",
+      "text": "Az I-es típusú cukorbetegség az inzulin-termelödés hiánya miatt alakul ki, mivel az autoimmun folyamatok a hasnyálmirigy B-sejtjeit pusztítják. Az II-es típusú cukorbetegség az inzulin-rezisztencia miatt alakul ki, ahol az inzulin jelenlét ellenére a sejtek nem tud megfelelően felvenni a glükózt. A cukorbetegség tünetei közé tartozik a polidipszia (sok ásv), polyphagia (sok étvágy), poliúria (sok vizelet), súlycsökkenés, fáradtság. A kezelés az I-es típusban inzulin-szubsztitúcióval, a II-es típusban diétás módosítással, testmozgással és/vagy gyógyszerekkel történhet."
+    },
+    {
+      "id": 28,
+      "term": "Mit jelent az óriásnövés (gigantizmus)?",
+      "definition": "Az óriásnövés a növekedési hormon-túltermelödésének következménye, amely pubertás előtt vagy alatt alakul ki.",
+      "quote": "Túl-növekedés",
+      "text": "A növekedési hormon túlmennyisége, amely gyakran egy hipofízis-adénóma okozza, serkenti a csontok túlzott növekedésépet. Az óriásnövés másodlagos szövődményekre vezethet: csont- és ízületi problémák, szív-problémák, magas vérnyomás. A kezelés a növekedési hormon-termelödés gátlásán alapul, szurgikai eltávolítássale vagy radioterápiával, valamint somatosztatén-analógok használatával."
+    },
+    {
+      "id": 29,
+      "term": "Mit jelent az akromegália?",
+      "definition": "Az akromegália a növekedési hormon-túltermelödésének következménye, amely felnőttkorban (pubertás után) alakul ki.",
+      "quote": "Végtagok-nagyobbodása",
+      "text": "Az akromegáliában a csontok hosszabbodása nem lehetséges, mivel az epiphyzis-lemezek bezárultak, így a szövetekben a növekedési hormon hatására az arckésövetekben, kezes-lábfejekben, orrhegyen és ajkakon progresszív nagyobbodás alakul ki. Az akromegália tünetei közé tartozik az arc eldurvulása, nagy kéz-láb, magas vérnyomás, szív-betegség, cukorbetegség-kockázat. A kezelés szintén a növekedési hormon-termelödés gátlásán alapul."
+    },
+    {
+      "id": 30,
+      "term": "Milyen szöveti hormonok termelödnek a tápcsatornában?",
+      "definition": "A tápcsatorna több szöveti hormonnal rendelkezik: gasztrin, ghrelin, CCK, sekretin, készenlét, amelyek az emésztést szabályozzák.",
+      "quote": "Emésztés-szabályozás",
+      "text": "A gyomorban termelödő gasztrin fokozza a gyomornedv termelödését. A ghrelin a szomjúságot stimulálja, míg a PYY satyétást közvetít. Az epehólyagban a CCK (cholecystokinin) az epehólyag összehúzódását és a hasnyálmirigy enzim-kiválasztásáét serkenti. A sekretin a pankiárd és az epehólyag működésés. Ezek a szöveti hormonok az emésztésre összerendezett felépítésén alapul, amely a tápanyagok optimális felszívódása érdekében szükséges."
+    },
+    {
+      "id": 31,
+      "term": "Melyek a kognitív folyamatok?",
+      "definition": "Az ismeretek megszerezésének folyamatai: érzékelés, észlelés, figyelem, képzelet, gondolkodás, motiváció, tanulás, emlékezés, melyek elsősorban a homloklebeny működéséhez köthetők.",
+      "quote": "Megismerési alapok.",
+      "text": "Az érzékelés az érzékszervek receptorain keresztül a külvilág ingereinek felfogása. Az észlelés már értelmezés, az agy az információkat meglévő ismeretekkel kombinálva jut értelmezésre. A figyelem az ingerek közötti szelektálás, mely a reflektor működéséhez hasonló."
+    },
+    {
+      "id": 32,
+      "term": "Mi a reflektor modell a figyelem működésében?",
+      "definition": "A figyelem egy mozgatható reflektorhoz hasonlít, melynek fényét az érdeklő dolgokra irányítva kiemelkedik az adott tárgy, míg a környezet homályban marad.",
+      "quote": "Mozgatható fény-reflektás.",
+      "text": "A reflextor fókuszának szűkítésével az éles, részletgazdag látás, szélesítésével a nagyobb terület áttekintése lehetséges. A figyelem kiemeli, pontosabbá, élesebbé teszi az észlelésünket, optimális feltételeket teremtve az információk feldolgozásához."
+    },
+    {
+      "id": 33,
+      "term": "Mi a gondolkodás?",
+      "definition": "A gondolkodás során nem közvetlenül az ingerre jön létre a válasz, hanem az ingerek reprezentációit használjuk, a reprezentációkon végzünk műveleteket (képi, nyelvi, mozgásos gondolkodás).",
+      "quote": "Szimbolikus gondolat.",
+      "text": "A reprezentáció a világ belső leképezése, szubjektív megjelenítése. A gondolkodás szimbolikus tevékenység, melynek során valamit nem jelenlévőt szimbólumokkal helyettesítünk, belső megjelenítjük."
+    },
+    {
+      "id": 34,
+      "term": "Mi a motiváció?",
+      "definition": "A motiváció belső késztetés, hajtóerő, olyan tudatos, félig tudatos vagy öntudatlan belső szükséglet vagy kívánság, amely az akaratunkat befolyásolja és cselekedeteinket meghatározza.",
+      "quote": "Belső hajtóerő.",
+      "text": "Az alapvető motivációs tényezők a homeosztázis fenntartásában (éhség, szomjúság) vagy a fajfenntartásban (szexuális vágy) fontosak. A kíváncsiság motiváló erőként szolgál a tanulásban és felfedezésben."
+    },
+    {
+      "id": 35,
+      "term": "Mi a tanulás és milyen kapcsolata van az érzelmekhez?",
+      "definition": "A tanulás a gyakorlás és/vagy tapasztalatszerzés következtében bekövetkező viszonylag állandó viselkedésváltozás, mely szoros kapcsolatban áll az érzelmi állapottal.",
+      "quote": "Tartós viselkedésváltozás.",
+      "text": "Az idegsejtek szintjén a tanulás során megváltoznak a szinaptikus kapcsolatok erőssége és új szinapszisok alakulnak ki. Az érzelmi fejlődés és értelmi fejlődés szorosan összefügg - a pozitív érzelmek (kíváncsiság) segítik a tanulást, míg a szorongás és unalom gátlást jelentenek."
+    },
+    {
+      "id": 36,
+      "term": "Mely érzelmi és motivációs hatások nehezítik a tanulást?",
+      "definition": "A szorongás és unalom negatív befolyásolók - a szorongás beszűkíti a figyelmet és gátolja a kíváncsiságot, az unalom pedig csökkenti a motivációt és az ismeretszerzés kedvét.",
+      "quote": "Negatív érzelmek blokkolnak.",
+      "text": "Harlow majmokísérletei bizonyították, hogy az anya-gyermek érzelmi kapcsolat biztonsági alapot nyújt a világfelfedezéshez. Árvaházi csecsemőknél az érzelmi nélkülözöttség szellemi és testi fejlődés visszamaradottságához vezetett."
+    },
+    {
+      "id": 37,
+      "term": "Melyek az öröklött magatartásformák?",
+      "definition": "Az öröklött magatartásformák között találhatók a feltétlen reflexek (szopóreflex, bőreredetű védekező reflexek) és az érzelmeket kísérő mimika, mely kultúrától függetlenül ugyanolyan.",
+      "quote": "Veleszületett reflexek és mimika.",
+      "text": "A szopóreflex az éhes gyermek arca érintésére jelenik meg. Az érzelmi arckifejezések (mosoly, undor, félelem) a süketen és vakon születetteknél is megjelennek. Az emberi szociális vonzódás fajtársaihoz szintén örökletes alapú."
+    },
+    {
+      "id": 38,
+      "term": "Melyek a tanulás formái?",
+      "definition": "A tanulás formái: habituáció, szenzitizáció, imprinting (bevésődés), klasszikus és operáns kondicionálás, belátásos tanulás, szociális tanulás (utánzás, megfigyelés).",
+      "quote": "Hat tanulási forma.",
+      "text": "A habituáció az ismételt közömbös ingerek szokásként való elfogadása. Az imprinting kritikus időszakhoz kötött (pl. beszédtanulás 7 éves korig). Az operánt tanulás a megerősítésen alapul - pozitív megerősítés az általunk kívánt viselkedést erősíti, negatív a nem kívánt visszaszorítja."
+    },
+    {
+      "id": 39,
+      "term": "Mi a kondicionálás szerepe az emberi viselkedésben?",
+      "definition": "A kondicionálás az ingerek és válaszok asszociációja, mely félelmek, drogtolerancia és szokások kialakulásában játszik szerepet. Klasszikus kondicionálásban közömbös inger társul feltétlen ingerrel, operánt kondicionálásban a viselkedés következménye határozza meg a jövőbeli ismétlést.",
+      "quote": "Társítás-tanulás.",
+      "text": "Pavlov kutyáin végzett klasszikus kondicionálás kísérlete alapozta meg ezt az elvet. Az operánt kondicionálásban (Skinner) a viselkedés kibocsátása után a megerősítés befolyásolja a jövőbeli viselkedést. A drogfogyasztás szokássá válik a pozitív megerősítés (pl. dopamin felszabadulás) miatt."
+    },
+    {
+      "id": 40,
+      "term": "Mi a belátásos tanulás?",
+      "definition": "A belátásos tanulásban az alany a megoldás elemeit előre észbelileg (mentálisan) illeszti össze, nem a tapasztalat vagy véletlenszerű próbálgatás alapján hoz döntéseket.",
+      "quote": "Gondolati megoldás.",
+      "text": "Köhler majmokísérletei mutatták ezt - egy magasan levő tárgy eléréséhez az állat rájött, hogy a néhány dobozra felállva elérheti azt. Ez a problémafelismerés és megoldás előzetes gondolati feldolgozása jelenti."
+    },
+    {
+      "id": 41,
+      "term": "Mi a szociális tanulás?",
+      "definition": "A szociális tanulás az a tanulás, amely társas kölcsönhatások következtében alakul ki, mint pl. az utánzás, megfigyelésre tanulás, vagy a család, iskola, média hatása a szokások kialakításában.",
+      "quote": "Társas tanulás.",
+      "text": "A szocializáció a szociális tanulás folyamata - az egyén megtanul olyan tudásra és képességekre, amely alkalmassá teszi különböző társadalmi csoportok tagjává válni. Az utánzás az utódok legegyszerűbb tanulási formája."
+    },
+    {
+      "id": 42,
+      "term": "Mi az emlékezés három szakasza?",
+      "definition": "Az emlékezés három szakaszából áll: kódolás (információ átalakítása), tárolás (információ megőrzése) és előhívás (információ felidézése).",
+      "quote": "Kódol-tárol-idéz.",
+      "text": "A kódolás során a környezet információit jelentéssel bíró egységekre alakítjuk. A tárolás a kódolt információ megőrzésén alapul. Az előhívás során a korábban elraktározott információkat visszahozzuk tudatunkba."
+    },
+    {
+      "id": 43,
+      "term": "Melyek az emlékezeti tárak és típusai?",
+      "definition": "Az emlékezeti tárak három típusa: szenzoros (néhány másodperc), rövid-távú/munkamemória (20-30 másodperc) és hosszú-távú (végtelen).",
+      "quote": "Rövid-közép-hosszú tárak.",
+      "text": "A szenzoros tár képes óriási információmennyiséget befogadni, de csak néhány másodpercig őrzi meg. Az STM-ben az információk 20-30 másodpercig maradnak, kapacitása korlátozott (7±2 elem). Az LTM-ből az információ az STM-be kerül vissza feldolgozáshoz."
+    },
+    {
+      "id": 44,
+      "term": "Mi a szinaptikus plaszticitás szerepe az emlékezésben?",
+      "definition": "A szinaptikus plaszticitás a szinapszisokon bekövetkező változékonyság, mely az LTP (long-term potentiation) révén az ismételt neuron aktiválódás erősebb szinaptikus átkötést hoz létre, alapja az emlékezésnek.",
+      "quote": "Szinapszis erősödik.",
+      "text": "Az LTP során gyakran aktivált neuronok közötti kapcsolat erősödik - több AMPA receptor épül be a dendritbe. Az NMDA receptorok kalcium-influxot engedélyeznek, mely új receptor szintézist indít meg. Ez az alapja a tanulás és hosszú-távú memória kialakulásának."
+    },
+    {
+      "id": 45,
+      "term": "Mi az evolúciós pszichológia alapvető gondolata?",
+      "definition": "Az evolúciós pszichológia szerint a legtöbb viselkedés, vágy és érzés mögött megtudomásult pszichológiai adaptáció áll, mely az evolúció során szelekció útján alakult ki fajfenntartási előny miatt.",
+      "quote": "Evolúcós adaptáció.",
+      "text": "Az emberek, akik édes és zsíros ízeket kedveltek (véletlenszerű mutáció), jobb fizikai kondícióra tegyenek szert és több utódot létrehoztak. Ez az édesség és zsír iránti vonzódás ma is általános emberi vonás."
+    },
+    {
+      "id": 46,
+      "term": "Mi a stressz és mely tünetei vannak?",
+      "definition": "A stressz tartós feszültség, mely negatív ingerekre adott tartós válaszreakció, kiváltó okai: mindennapi események, nagy életfordulók, belső konfliktusok, katasztrófák. Tünetei: magas hormonszint, vérnyomás-emelkedés, immungyengülés, izomfeszülés, alvászavar.",
+      "quote": "Tartós feszültség-betegség.",
+      "text": "A szervezet szimpatikus idegrendszeri aktiválódása és adrenalin/kortizol felszabadulás történik. Akut stressz segíthet a megküzdésben, de krónikus stressz túlerőlteti a szervezetet. A stresszoldás lehetőségei: testmozgás, relaxáció, alvás, pozitív kapcsolatok."
+    },
+    {
+      "id": 47,
+      "term": "Mi a pszichoszomatikus betegség?",
+      "definition": "A pszichoszomatikus betegségek azok, melyekben a negatív pszichés állapot nagy szerepet játszik a kialakításában - pl. szívinfarktus, fekélyek, rák, szexuális zavarok, alvászavarok.",
+      "quote": "Lélek-test betegség.",
+      "text": "A zsigeri működések szoros kapcsolatban állnak az érzelmi-pszichikus működésekkel. A szomatikus idegrendszer és vegetatív rendszer összekapcsolt, így az érzelmi stressz könnyen testi tünetekhez vezethet."
+    },
+    {
+      "id": 48,
+      "term": "Mi az agyrázkódás és tünetei?",
+      "definition": "Az agyrázkódás a fejet ért ütés kapcsán létrejövő múló funkciózavar, melynek tünetei: átmeneti eszméletvesztés után tudatzavar, emlékezetkiesés, aluszékonyság, hányinger, szédülés, fejfájás.",
+      "quote": "Múló agysérülés.",
+      "text": "Az agyrázkódásnál az agy elmozdul és a koponyához csapódik, megduzzad (vizenyő), nyomásfokozódás keletkezik. Maradandó szerkezeti sérülés nem történik. Kezelése: nyugalom, fekvés, megemelt felsőtest, stabil oldalfekvés eszméletlenség esetén."
+    },
+    {
+      "id": 49,
+      "term": "Mi a migrén és kialakulása?",
+      "definition": "A migrén hirtelen kezdődő, lüktető, heves fájdalmú, időszakosan visszatérő fejfájás, mely általában egy oldalon jelentkezik. Kialakulásában az agyhoz vezető erek szűkülete majd tágulata, szerotonin és ösztrogén szintváltozások játszanak szerepet.",
+      "quote": "Heves, lüktető fejfájás.",
+      "text": "Bevezető tünetek: látászavar (részleges látótérkiesés, villogó fények), hallászavar, végtaggyengeség, zsibbadás. Gyakoribb nőkben, családi halmozódás figyelhető meg. A roham kialakulása előtt néhány perccel vagy legfeljebb fél órával bevezető tünetek jelentkeznek."
+    },
+    {
+      "id": 50,
+      "term": "Mi az epilepszia és típusai?",
+      "definition": "Az epilepszia az agyban az izgalmi és gátló folyamatok egyensúlyának felbomlása, izgalmi túlsúly, mely görccsel vagy gőrcs nélkül jelentkező rohamok sorozata. Típusai: generalizált (nagyroham) és parciális (féloldali, végtagra terjedő).",
+      "quote": "Izgalmi túlsúly roham.",
+      "text": "A nagyrohamban az összes izom megfeszül, majd intenzív rángások keletkeznek. A parciális rohamban csak egyes kérgi mezőkre terjed ki a folyamat, az eszmélet megtartott marad. Az alapvető okság: agysérülés vagy veleszületett agyműködési zavar."
+    },
+    {
+      "id": 51,
+      "term": "Mi a stroke (agyvérzés, agyérelzáródás)?",
+      "definition": "A stroke az agy valamely részének súlyos vérellátási zavara, mely a károsodott agyterület funkcióvesztéséhez vezet. Típusai: hemorrágiás (ér megreped, vérzés) és trombotikus (érszűkület, infarktus).",
+      "quote": "Vérellátási zavar.",
+      "text": "A hemorrágiás stroke-nál a beáramló vér nyomja az agyállományt. A trombotikus stroke-nál az érszűkület miatt az agyterület elhal (agylágyulás). Föleg időskorban jelentkezik, súlyossága nagyon változó a vérkeringés kiesésének időtartamától függ."
+    },
+    {
+      "id": 52,
+      "term": "Mi az anorexia nervosa és bulímia?",
+      "definition": "Az anorexia nervosa lelki eredetű kóros lesoványodás, a betegek súlyos fogyókúrával csökkentik súlyukat, gyakran 12-18 éves korban kezdődik. A bulímia falási rohamokkal járó betegség, ahol az ételvételt hányzás vagy hashajtók követik.",
+      "quote": "Evészavarok-teljesítmény.",
+      "text": "Az anorexiában nagy szerepe van a társadalmi-kulturális környezetnek (vékony-szépség ideál), valamint az eredmény-siker hajszolásának a családban. Mindkét betegségben testképzavar, testmagasság/forma túlbecslése áll. Az evészavarok súlyos egészségügyi kockázatokkal járnak."
+    },
+    {
+      "id": 53,
+      "term": "Mi az Alzheimer-kór és Parkinson-kór?",
+      "definition": "Az Alzheimer-kór visszafordíthatatlan, időben egyre súlyosbodó demencia, mely az idegsejtek fokozatos pusztulásán alapul. A Parkinson-kór a mozgatórendszer degeneratív betegége, fő tünetei: nyugalmi remegés, izommerevség, meglassultság, dopamin-hiány áll a hátterében.",
+      "quote": "Neurodegeneratív betegségek.",
+      "text": "Az Alzheimer-ben kóros fehérjelerakódások és sejtvázrendszer károsodása történik. A Parkinson-ben az idegsejtek pusztulása miatt a köztiagyban a dopamin szint csökken, ezért dopamin-hatású gyógyszerekre van szükség. Mindkettő gyógyíthatatlan, a kezelés a tünetek kontrollálására irányul."
+    },
+    {
+      "id": 54,
+      "term": "Mi az idegrendszer anatómiai felosztása?",
+      "definition": "Az idegrendszer két fő részre osztódik: központi idegrendszerre (agy, gerincvelő) és környéki idegrendszerre (agyidegek, gerincvelői idegek, dúcok).",
+      "quote": "Központi és perifériás.",
+      "text": "A központi idegrendszer (KIR) az agy és gerincvelő, mely szürke- és fehérállományra tagolódik. A szürkeállomány sejttesteket tartalmaz, a fehérállomány pályákat. A perifériális idegrendszer agy/gerincvelői idegekből, dúcokból és bélidegrendszerből áll."
+    },
+    {
+      "id": 55,
+      "term": "Mi a szürkeállomány és fehérállomány?",
+      "definition": "A szürkeállomány neuronok sejttestjeiből áll, míg a fehérállomány pályákat tartalmaz, amelyek velőshüvelyük miatt fehér színűek.",
+      "quote": "Sejtek vs pályák.",
+      "text": "A szürkeállomány elsősorban szinaptikus átkötésekre szolgál, az információ feldolgozásáért felelős. A fehérállomány az ingerületet szállítja, pályákat képezve. Az agykéreg felszíni szürkeállomány, az agy belsejében fehérállomány található."
+    },
+    {
+      "id": 56,
+      "term": "Mi az agyhártya (meninx) rendszere?",
+      "definition": "Az agy és gerincvelő három burkából áll: kemény agyhártya (dura mater), pókhálóhártya (arachnoidea) és lágy agyhártya (pia mater).",
+      "quote": "Három réteg véd.",
+      "text": "A dura mater külső, kemény réteg amely összenő a csonttal. A pókhálóhártya vékony fonalakkal kapcsolódik a pia materhez. A pia mater közvetlenül az agy és gerincvelő felszínéhez tapad. A pókhálóhártya és pia mater között agy-gerincvelői folyadék keringhet."
+    },
+    {
+      "id": 57,
+      "term": "Mi az agy-gerincvelői folyadék (likvor) szerepe?",
+      "definition": "A likvor vérplazma szűrletéből és gliasejt váladékából áll, melyet speciális érfonatok termelnek az agykamrákban, és az egész KIR-t védi és támogatja.",
+      "quote": "Folyadék véd és táplál.",
+      "text": "A likvor az agy súlyát csökkenti (1350g-ot csak 50g-ként nyomul), lökéshullámokat egyenletes eloszlásban szétterít. Diagnosztikai értéke igen nagy - összetétele megváltozik agyhártyagyulladás, agyvelőgyulladás, daganat és sclerosis multiplex esetén. Mintavétele a gerincvelő ágyéki szakaszán történik."
+    },
+    {
+      "id": 58,
+      "term": "Melyek az idegsejtcsoportok felosztása?",
+      "definition": "Az idegsejteket funkciójuk alapján érzőidegsejtek (receptorok felé), mozgatóidegsejtek (végrehajtó szervek felé) és köztes idegsejtek (interneuronok) csoportokra osztjuk.",
+      "quote": "Érzék, mozgás, kapcsolat.",
+      "text": "Az érzőidegsejtek a receptoroktól a központ felé továbbítanak, a perifériális idegrendszerhez tartoznak. A mozgatóidegsejtek a központból a végrehajtó szervek (izmok, mirigyek) felé közvetítik az utasításokat. Az interneuronok összekapcsolják az érzők és mozgatók között, a legtöbb idegsejt ilyen."
+    },
+    {
+      "id": 59,
+      "term": "Mi a reflex és reflexív?",
+      "definition": "A reflex a környezet ingereire szervezett válaszreakció. A reflexív az anatómiai képletek, amelyek ezt a reflexműködést kivitelezik: receptor, érzőideg, interneuron, mozgatóideg, végrehajtószerv.",
+      "quote": "Inger-válasz páros.",
+      "text": "A reflexműködés azonnali, öntudatlan válaszreakció a szervezet védelme érdekében. Magasabb szervezetekben reflexkörök alakulnak ki, ahol a központ szabályozza az ingerküszöböt, a végrehajtószerv pedig visszajelzést küld. Szomatikus reflexek vázizmon, vegetatív reflexek belsőszervekben működnek."
+    },
+    {
+      "id": 60,
+      "term": "Milyen a szomatikus és vegetatív reflex?",
+      "definition": "A szomatikus reflex vázizommal végeződik és nem akaratlagos, míg a vegetatív reflex simaizom/mirigyre hat és az autonóm rendszer részét képezi.",
+      "quote": "Vázizom vs zsiger.",
+      "text": "Szomatikus reflexben az érzőneuron a csigolyaközti dúcban, mozgatóneuron a KIR-ben található. Vegetatív reflexben az érzőneuron szintén a dúcban, de a mozgatóneuron a perifériális vegetatív dúcban van. Az izomeredetű (nyújtási) és bőreredetű (hajlító) reflexek szomatikus típusok."
+    },
+    {
+      "id": 61,
+      "term": "Mi a gerincvelő szerkezete és funkciója?",
+      "definition": "A gerincvelő 4 szakaszra oszlik: nyaki, háti, ágyéki, keresztcsonti. Fehér, hengerest szerv, amely kommunikációt és lokális reflexeket biztosít.",
+      "quote": "Hordozó és reflexközpont.",
+      "text": "A gerincvelő kb. 0,5m hosszú, az öreglyuktól az első ágyékcsigolya magasságáig húzódik. Keresztmetszete szürkeállományból (pillangó alakú) és fehérállományból (pályák) áll. Szürgeállomány szarvai: hátsó (interneuronok), oldalsó (vegetatív), mellső (mozgatóneuronok)."
+    },
+    {
+      "id": 62,
+      "term": "Melyek a gerincvelői reflexek típusai?",
+      "definition": "Szomatikus reflexek (izomeredetű nyújtási reflex és bőreredetű hajlító-keresztezett feszítő reflex) és vegetatív reflexek (szimpatikus és paraszimpatikus).",
+      "quote": "Két szomatikus, kétféle vegetatív.",
+      "text": "A nyújtási (feszítő) reflex az izmok túlzott megnyúlásáról véd, izomtónus fenntartásban és testtartási reflexekben fontos. A hajlító reflex veszélyforrástól távol tartja a végtagot. A vegetatív reflexek a bőr ereinek, vizelét-székletürítésnek, szexuális funkcióknak szabályozásában működnek."
+    },
+    {
+      "id": 63,
+      "term": "Mi a térdreflex mechanizmusa?",
+      "definition": "A combfeszítő izom megnyúlásakor az izomorsó érzőneurónja jelet küld a gerincvelőbe, amely direkt szinaptikus kapcsolat révén a mellső szarvi mozgatoneuront gerjeszti, kiváltva a lábszár kitendülését.",
+      "quote": "Monoszinaptikus kapcsolat.",
+      "text": "A reflex monoszinaptikus (egy szinapszis), a leggyorsabb típus. Az érzőneuron sejtteste a csigolyaközti dúcban, a mozgatoneuron a mellső szarvban találhatatható. Egyidejűleg a hajlítóizmok gátló interneuronok révén elernyednek, elkerülendő az izomszakadást."
+    },
+    {
+      "id": 64,
+      "term": "Mi a gliasejtek szerepe?",
+      "definition": "A gliasejtek (gliaból számára mesenchymális sejtek) táplálják és védelemben részesítik az idegsejtek, velőshüvelyük szigetelő hatása növeli az ingerület-vezetési sebességet.",
+      "quote": "Táplál, véd, szigetel.",
+      "text": "A velőshüvely (mielin) a gliasejtek burkolata, mely minden ~1mm-es ablakoknál (Ranvier barázdák) megszakad. Ez lehetővé teszi a megerősített vezetést (saltatorikus vezetés). Oligodendrocitok az agyban/gerincvelőben, Schwann sejtek a perifériás idegekben termelik a velőshüvelyét."
+    },
+    {
+      "id": 65,
+      "term": "Mi a sclerosis multiplex és miért alakul ki?",
+      "definition": "Az SM-ben az autóimmunsejtek megtámadják az idegsejtek velőshüvelyét, amely a vezetési sebesség csökkenéséhez és neurológiai tünetek kialakulásához vezet.",
+      "quote": "Velőshüvely-pusztulás.",
+      "text": "Az SM-ben a demyelinizáció következtében az ingerület-vezetés lelassul vagy blokkolódik. Az autóimmun folyamat okát nem teljesen ismerjük, de genetikai és környezeti tényezők szerepet játszanak. Az SM leggyakrabban serdülőkorra vagy felnőttkorban jelenik meg, nőkben gyakoribb."
+    },
+    {
+      "id": 66,
+      "term": "Melyek a dermatómák és miért fontosak?",
+      "definition": "A dermatómák a bőr egyes gerincvelői idegekkel beidegzett területei, amely a neurológiában a gerincvelő-sérülés helyének megállapításához és az spinális érzéstelenítéshez használatos.",
+      "quote": "Bőrterület-ideg leképezés.",
+      "text": "A dermatómák szelvényes elrendezése tükrözi a gerincvelő szelvényzetettségét. Az 1-31 pár gerincvelői ideg mindegyike egy meghatározott testterületet (dermatómát) idegez be. Ez a tudás kritikus a műtéti érzéstelenítéshez, mert az orvos a dermatóma-térkép alapján dönti el, mely ideggyök blokkolása szükséges."
+    },
+    {
+      "id": 67,
+      "term": "Mi az idegrendszer hierarchikus működése?",
+      "definition": "Az idegrendszer hierarchikus: a gerincvelő lokális reflexeket végez, az agytörzs vegetatív funkciókat szabályoz, az agyvelő az akaratlagos mozgások és tudatos funkciók központja.",
+      "quote": "Szint szerinti irányítás.",
+      "text": "A legmagasabb rendű funkciók a nagyagyban lokalizálódnak. Az agytörzs és gerincvelő alapvető, szükséges funkciókat ellátnak. Ez a hierarchia lehetővé teszi, hogy sérülés után az alacsonyabb szintek részlegesen kompenzálhassanak (pl. gerincvelő-sérülés után reflexek működhetnek)."
+    },
+    {
+      "id": 68,
+      "term": "Mi az idegrendszer működésének fő folyamatai?",
+      "definition": "Az idegrendszer működésének fő folyamatai: ingerület felfogása (receptorok), továbbítása (idegsejtek), feldolgozása (központi feldolgozás) és végül a végrehajtó szervekre ható válaszreakció.",
+      "quote": "Érzékelés-feldolgozás-válasz.",
+      "text": "Ez az alapvető folyamat bármely reflexben vagy komplex magatartásban szerepet játszik. Az ingerület elektromos jelekként terjed az idegsejt hálózatában, majd a szinaptikus kapcsolatoknál neurotranszmitterek közvetítésével továbbadódik."
+    },
+    {
+      "id": 69,
+      "term": "Mi az immunrendszer felépítése és feladatai?",
+      "definition": "Az immunrendszer biológiai védekezőrendszer, mely a szervezetet idegen anyagok, parazitákkal és megváltozott saját sejtek (vírus, tumor) ellen védi. Felépítése: elsődleges nyirokszervek (csont velő, tímusz), másodlagos nyirokszervek (nyirokcsomók, lép, mandulák).",
+      "quote": "Védekezés-szervezet.",
+      "text": "Az immunrendszer három szintű védekezése: fizikai (bőr, nyálkahártya), kémiai (antitestek, komplementrendszer, lizozim) és biológiai (immunsejtek, mikrobiom). Az immunrendszer sejtjei: fehérvérsejtek, nyiroksejtek (limfociták), fagociták (makrofágok, granulocitók)."
+    },
+    {
+      "id": 70,
+      "term": "Mi a mikrobiom és szerepe?",
+      "definition": "A mikrobiom az emberi szervezetben élő mikrobák összessége (baktériumok, gombák, vírusok), melyek szimbiózisban élnek velünk. Szerepei: emésztésben, B/K-vitaminok termelésében, immunrendszer erősítésében, kórokozók elnyomásában, anyagcserét befolyásoló.",
+      "quote": "Szimbionta védelem.",
+      "text": "A mikrobiom összetétele föld- rajzi területenként és egyéneként különböző, dinamikusan változó. Az optimális mikrobiom nélkülözhetetlen az egészséghez. A mikrobiom egyensúlyának megváltozása bélproblémákhoz, elhízáshoz, cukorbetegséghez, bőrproblémákhoz vezethet."
+    },
+    {
+      "id": 71,
+      "term": "Melyek az idegrendszerre ható immunitás-szervek?",
+      "definition": "A szervezet fizikai védelme: bőr és nyálkahártya szövete megakadályozza káros anyagok, baktériumok, vírusok bejutását. Légutak nyálkahártyájának csillói nyákba tapadott kórokozókat eltávolítják. A gyomor savas kémhatása, nők hüvelyében tejsavat termelő baktériumok savas kémhatás kialakítanak.",
+      "quote": "Fizikai gátak.",
+      "text": "A légző- és emésztőrendszeri váladékokban antibakteriális anyagok (lizozim) találhatók. A máj komplementrendszer tagjait termel. A kémiai és fizikai védelem közösen működik az immunitás első vonalaként."
+    },
+    {
+      "id": 72,
+      "term": "Mi az antigén és immunogén?",
+      "definition": "Az antigén olyan makromolekula (főleg fehérje, poliszacharid, nukleinsav), melyet az immunrendszer sejtjei receptorjaik segítségével felismernek. Az immunogén olyan antigén, mellyel szemben immunválasz indul meg. A tolerogének saját sejtjeinkből származó anyagok, melyeket az immunrendszer sajátként ismer fel.",
+      "quote": "Inger molekula.",
+      "text": "Az MHC molekulák a sejtek felszínén helyezkednek el, a szövetösszeférhetőség antigénjeként működnek. Az MHC I minden sejten megtalálható, az MHC II az antigénbemutató sejteken fordul elő. Szövátültetésnél az MHC antigének intenzív T-sejt választ provokálnak."
+    },
+    {
+      "id": 73,
+      "term": "Melyek az immunitás típusai?",
+      "definition": "Az immunitás lehet: nem specifikus (veleszületett, természetes) - az antigén fajtájától független, általános védelem; specifikus (adaptív, szerzett) - adott típusú antigénre irányul. Mindkettő lehet humorális (vegyületekhez kötött) vagy sejtes (celluláris) - sokféle immunsejttel kapcsolatos.",
+      "quote": "Nem-specifikus vs specifikus.",
+      "text": "A nem specifikus immunitás gyors, az antigén fajtájától független, nem alakít ki immunmemóriát. Az adaptív immunitás lassú először, de memóriasejtek révén tartós védettséget biztosít. A másodlagos immunválasz a memóriasejtek jelenléte miatt 3-5 napra lerövidülhet."
+    },
+    {
+      "id": 74,
+      "term": "Mi a komplementrendszer?",
+      "definition": "A komplementrendszer vérplazmában keringő inaktív fehérjék (enzimek) halmaza, melyek láncreakcióban aktiválják egymást. A kórokozók felszínén a mintázatok azonosítása vagy az antigén-antitest komplex felismerése indítja meg az aktiválódást.",
+      "quote": "Protein kaszkád.",
+      "text": "A komplementrendszer utolsó elemei pórust képeznek a megtámadott sejt sejthártyájában, mely az ozmotikus egyensúly megbomlásához és sejthalálhoz vezet. Szintén jelölik az antigéneket a fagociták számára. Szerepet játszanak az gyulladás kialakulásában is."
+    },
+    {
+      "id": 75,
+      "term": "Mi az interferon?",
+      "definition": "Az interferont a vírussal fertőzött sejtek bocsátják ki, mely még egészséges sejtek megkötik, bennük olyan enzimek képződnek, amelyek a fertőzés bekövetkezésekor aktiválódnak, gátolva a vírus RNS bontást és fehérjeszintézist.",
+      "quote": "Antiviális védekezés.",
+      "text": "Az interferonok az első vonalbeli antivirális védekezés részét képezik. Többféle interferon típus van (alfa, béta, gamma), melyek különböző sejtekben termelődnek és más-más funkciókat látnak el."
+    },
+    {
+      "id": 76,
+      "term": "Mi az adaptív immunválasz és B-limfociták?",
+      "definition": "Az adaptív immunválasz adott típusú antigénre irányul, B-limfociták humorális immunválaszt (antitestek), T-limfociták sejtes immunválaszt bonyolítanak le. A B-limfociták antitesteket termelnek, a vörös csontvelőben termelődnek és érnek be.",
+      "quote": "Specifikus válasz.",
+      "text": "A B-limfociták érése során klónszelekció történik - az antigénekkel reagáló B-sejtek apoptózissal elpusztulnak, csak olyan sejtek élnek túl, amelyek saját anyagokkal nem lépnek reakcióba. A szabályos B-sejtszám: kb. 10-20 százalék a limfociták között."
+    },
+    {
+      "id": 77,
+      "term": "Mi a T-limfociták szerepe és típusai?",
+      "definition": "A T-limfociták sejtes immunválaszért felelősek, a vörös csontvelőben termelődnek, de érésüket a tímuszban fejezik be. Típusai: segítő (Th) sejtek (citokinek termeléséért), memória T-sejtek, citotoxikus T-sejtek (fertőzött sejtek elpusztítása), szupresszor T-sejtek (immunválasz visszaszorítása).",
+      "quote": "Sejtes védelem.",
+      "text": "A T-sejt receptorok (TCR) igen sokféle szerkezetűek lehetnek, genetikai mechanizmusok biztosítják a sokféleséget. Az éréskor a T-sejtek megtanulnak megkülönböztetni a saját anyagokat az idegentől (klónszelekció a tímuszban)."
+    },
+    {
+      "id": 78,
+      "term": "Mi a kettős felismerés és antigénbemutató sejtek?",
+      "definition": "A T-limfociták kettős felismerést hajtanak végre: az antigént kizárólag a makrofágok (APC) által feldarabolt és bemutatott formában ismerik fel az MHC-molekulákhoz kapcsoltan a T-sejt receptorok (TCR) segítségével.",
+      "quote": "Kettős ismerés.",
+      "text": "A makrofágok molekuláris mintázataik alapján vagy az MHC I hiánya miatt felismerik a patogéneket, bekebelezik és részben lebontják, majd jellegzetes részletüket az MHC struktúrákkal együtt kijuttatják a sejthártya felszínére."
+    },
+    {
+      "id": 79,
+      "term": "Mi az antitestek (immunoglobulinok) szerkezete és funkciói?",
+      "definition": "Az antitestek Y alakú molekulák, melyekben állandó és változékony aminosavsorrendű szakaszok vannak. A variábilis szakaszok az Y két végén az antigén-kötésért felelősek. Az antitestek: hozzákötődnek az antigénhez, fagocitózisra késztetik a falósejteket, mozgósítják a komplementrendszert.",
+      "quote": "Védekezési molekula.",
+      "text": "Az emberi szervezet kb. 10^9 különböző antitestet képes előállítani, melyet néhány száz DNS szakasz véletlenszerű újrarendeződése kódolja. Az antitestek testnedvekben szabadon keringve működnek (humorális válasz)."
+    },
+    {
+      "id": 80,
+      "term": "Mi a gyulladás és mechanizmusa?",
+      "definition": "A gyulladás a szervezetnek a szövetkárosodásra adott helyi válaszreakciója. Kiváltó okai: kórokozók, mechanikai/kémiai/hő hatás, sugárzás. Tünetei: duzzanat, vörösség, melegség, fájdalom, fehérvérsejtszám-emelkedés, láz.",
+      "quote": "Szövetkárosodás-válasz.",
+      "text": "A gyulladás mechanizmusában: sejtek szövete szétesnek, gyulladásindító vegyületek (hisztamin, citokinek, prosztaglandinok) szabadulnak fel, fokozódik az erek áteresztőképessége, szövetnedv felszaporodik, fagociták vándorolnak a fertőzött gócok felé (kemotaxis)."
+    },
+    {
+      "id": 81,
+      "term": "Melyek az immunizálás típusai?",
+      "definition": "Az immunizálás lehet: aktív (saját immunrendszer mobilizálódik) - természetes (betegség után) vagy mesterséges (védőoltás); passzív (más által előállított antitestek jut be) - természetes (anyatej) vagy mesterséges (tetanusz elleni oltás).",
+      "quote": "Aktív vs passzív.",
+      "text": "Az aktív immunizálás hosszú-távú védettséget biztosít, memóriasejtek kialakulása révén. A passzív immunizálás gyors, de csak néhány hétig tart, nincs immunmemória. Az első vírusfertőzés után a memóriasejtek 7-14 napon belül kifejlődnek, a másodlagos válasz gyorsabb."
+    },
+    {
+      "id": 82,
+      "term": "Milyen vakcinák vannak és miből készülnek?",
+      "definition": "Első generációs vakcinák: inaktivált kórokozó alapú (legyengített patogén). Második generációs: vírus genetikai anyaga nélküli immunválaszt kiváltó fehérjék (Hepatitis B vakcina). Harmadik generációs: mRNS/DNS alapú - a fehérje előállításához szükséges nukleinsav jut be, a szervezet gyártja a fehérjét.",
+      "quote": "Generációs fejlődés.",
+      "text": "A vektor alapú vakcinák genetikailag módosított adenovírusokat használnak a vírus DNS-szakasz szállítására. Az mRNS vakcinákban a vírus burokfehérjéjének genetikai információja egy lipidburokban található. A harmadik generációs vakcinák kevésbé okoznak mellékhatásokat, mivel a valódi patogén nem szükséges."
+    },
+    {
+      "id": 83,
+      "term": "Mi az AB0 vércsoportrendszer?",
+      "definition": "Az AB0-rendszer négy vércsoportra osztható: A (A antigén, B ellenanyag), B (B antigén, A ellenanyag), AB (A és B antigén, nincs ellenanyag), 0 (nincs antigén, A és B ellenanyag).",
+      "quote": "Négy vércsoport.",
+      "text": "Az A és B antigének a H antigénhez kapcsolódnak. Vérátömlesztésnél csoportazonos vért kell használni, mert az eltérő vércsoportok vörösvértestei csapódnak ki egymás ellenanyagai miatt, mely súlyos szövődményeket okozhat."
+    },
+    {
+      "id": 84,
+      "term": "Mi az Rh-vércsoportrendszer?",
+      "definition": "Az Rh-vércsoportrendszer az Rh-faktor (D-antigén) jelenlétén alapul: Rh+ (D-antigén megtalálható), Rh- (D-antigén hiányzik). Az Rh ellenanyag eredendően nincs a vérplazmában, csak Rh- személynél termelődik, ha Rh+ vért kap.",
+      "quote": "Rhesus-faktor.",
+      "text": "Az Rh-összeférhetetlenség az Rh- nő Rh+ gyermeket szült után jelentkezik - szüléskor a vér keveredésekor az anya immunrendszere ellenanyagot termel. A második Rh+ gyermeket az anyai antitestek károsíthatják. Megelőzésre szülés után 72 órán belül Rh+ ellenanyag adódik."
+    },
+    {
+      "id": 85,
+      "term": "Mi az allergia és kiváltó okai?",
+      "definition": "Az allergia az immunrendszer kórosan reagál általában ártalmatlan anyagokra (allergénekre). Leggyakoribb allergének: poratka ürüléke, pollenek, élelmiszerek (mogyoró, tejTermékek), rovarcsípés, egyes gyógyszerek.",
+      "quote": "Túlérzékenység-reakció.",
+      "text": "Az allergia kialakulásában genetikai és környezeti tényezők játszanak szerepet. A szennyezett levegőben több allergén halmozódik fel, növekvén az allergiás megbetegedések kockázatát. Az anafilaxiás sokk a legveszélyesebb allergiás reakció, mely légzési nehézséghez, vérnyomáseséshez, halálhoz vezethet."
+    },
+    {
+      "id": 86,
+      "term": "Mi a szervátültetés (transzplantáció) és problémái?",
+      "definition": "A transzplantáció egy szerv/szövet áthelyezése egyik személyből másikba. A leggyakrabban átültetett szervek: vesék, máj, szív, tüdő. A fő probléma az átültetett szerv kilökődése - az immunrendszer az idegen szervek transzplantációs antigénjeit felismeri és immunválaszt indít meg.",
+      "quote": "Szerv-áthelyezés.",
+      "text": "A kilökődés megelőzésére immunszupresszív terápiát alkalmaznak, ami azonban fertőzésveszélyt és egyéb szövődményeket okoz. Kisebb kilökődés veszély, ha a szerv családtagtól vagy közeli rokontól származik. Etikai kérdések: szervadományozás önkéntesség, egyenlő elosztás, ingyenesség."
+    },
+    {
+      "id": 87,
+      "term": "Mi az R0 érték és járványterjedés?",
+      "definition": "Az R0 (alap szaporodási ráta) azt jelzi, hogy egy fertőző beteg átlagosan hány másik személyt fertőz meg a népességben járványügyi korlátozások nélkül. Ha R0 < 1: a betegség nem terjed; R0 > 1: a betegség terjed. A nyájimmunitás képlete: 1 - 1/R0.",
+      "quote": "Terjedési mutató.",
+      "text": "Az R0 értéke a fertőző betegség sajátságaitól, terjedési mechanizmusától függ. Cseppfertőzéssel terjedő betegségek (influenza) általában magasabb R0-val rendelkeznek. Az R0 érték befolyásol a társadalmi viszonyokat (zsúfoltság, higiéne)."
+    },
+    {
+      "id": 88,
+      "term": "Mi a nyájimmunitás és közösségi védettség?",
+      "definition": "A nyájimmunitás akkor alakul ki egy népességben, ha a védett személyek száma eléri a kritikus tömeg értéket - azt az egyedszámot %-osan, ami megmutatja, mekkora hányadnak kell védettnek lennie a terjedés megakadályozásához.",
+      "quote": "Közösségi védelem.",
+      "text": "A nyájimmunitás kialakulásának módjai: megfelelően magas átoltottság vagy korábbi járványok során szerzett nagyszámú védettség. Ez védi a nem oltotható (csecsemő) vagy oltásra reagálatlan személyeket is."
+    },
+    {
+      "id": 89,
+      "term": "Mi a fertőzés és járvány?",
+      "definition": "Fertőzés akkor lép fel, ha a kórokozó behatol a szervezetbe és ott megtelepedve elszaporodik. A megfertőződés módja: cseppfertőzés, testváladék, szennyezett széklet. Járvány akkor, ha ugyanaz a betegség sokszoros, egyidejű fellépése egy adott terület lakói között.",
+      "quote": "Terjedő betegség.",
+      "text": "A betegség a test fiziológiai állapotának kóros megváltozása, homeosztázisának felborulása. A járvány megelőzésében a higiénia, a sterilizálás (teljes csíramentesítés) és a fertőtlenítés (csíródás csökkentése) fontos szerepet játszik."
+    },
+    {
+      "id": 90,
+      "term": "Mi a nyirokrendszer és nyirokszervek?",
+      "definition": "A nyirokrendszer a vérpályával párhuzamos rendszer, mely a nyirkot - szövetközti folyadékot - szállítja a vérpályába. Nyirokszervei: nyirokcsomók (bábaalakú), mandulák (tápcsatorna eleje), lép (vérpályára rendszer része), tímusz (csecsemőmirigy), vörös csontvelő.",
+      "quote": "Nyirok-szállítás.",
+      "text": "A nyirokcsomók a nyirokadatok összefutási pontjaiban helyezkednek el, szűrözik a nyirkot, nyiroksejteket tárolnak. A nyirokcsomók nyiroktüszőiben az érett nyiroksejtek találkoznak a kórokozókkal. A lép a legnagyobb nyirokszerv, azonban a vérpályához tartozik."
+    },
+    {
+      "id": 91,
+      "term": "Mi a tímusz (csecsemőmirigy) funkciója?",
+      "definition": "A tímusz a szegycsont mögött, a szív felső részén helyezkedő szerv, hol a T-sejtek fejezik be érésüket. A magzati fejlődéskor maximális, pubertás után a legnagyobb, majd csökkenés kezdődik, felnőtt korban szinte elcsökevényesedik.",
+      "quote": "T-sejt érettségi hely.",
+      "text": "A T-sejtek érésük során megismerkednek a szervezet saját anyagaival, megtanulnak megkülönböztetni a sajátot az idegentől (klónszelekció). A tímusz sérülésénél a sejtes immunitás zavara jön létre, így a T-sejtek érésében és szelekciójában gond támad."
+    },
+    {
+      "id": 92,
+      "term": "Mi az autoimmun betegség?",
+      "definition": "Az autoimmun betegségek akkor alakulnak ki, ha az immunrendszer az autoantigénekből származó peptideket felismeri és magára az antigénre válaszol immunválasszal, mely normális saját sejteket pusztít el. Példák: I. típusú cukorbetegség, sclerosis multiplex, gluténérzékenység, Basedow-kór.",
+      "quote": "Önmagunk ellen.",
+      "text": "Az autoimmun betegségek kialakulásában genetikai és környezeti tényezők játszanak szerepet. Az autoimmun folyamatot kedvező, ha a saját sejtek rendellenesen jönnek létre (daganatos sejtek), de kóros, ha normális anyagokkal szemben indul meg."
+    },
+    {
+      "id": 93,
+      "term": "Mi az agytörzs szerkezete és funkciója?",
+      "definition": "Az agytörzs három részből áll: nyúltvelő, híd, középagy. Szürkeállománya egyedi magokból és hálózatos állományból (reticularis) áll, mely vegetatív és mozgatóműködéseket szabályoz.",
+      "quote": "Vital központok.",
+      "text": "A nyúltvelőben a szívműködés, légzés és nyálkahártya reflexek központjai vannak. A híd az agytörzs és kisagy között közvetít, illetve légzési központokat tartalmaz. A középagy reflexes látóműködésekben, testtartás szabályozásában és alvás-ébrenléti ciklus szabályozásában vesz részt."
+    },
+    {
+      "id": 94,
+      "term": "Mi az alvás-ébrenléti ciklus és szervezése?",
+      "definition": "Az alvás-ébrenléti ciklus a REM (rapid eye movement, paradox alvás) és NREM (non-REM, lassú hullámú alvás) fázisok ciklikus váltakozásából áll, az agytörzs hálózatos állománya és talamusz szabályozzák.",
+      "quote": "REM-NREM váltás.",
+      "text": "A REM fázisban az agy nagyon aktív, szemmozgások, alacsony izomtónus, álmodás jellemzi. Az NREM fázisban az agyi és testi működések csökkennek, mélyebb alvás. Az alvásfolyamat 90-120 percenként ismétlődik. Az alvásmegvonáskor a REM 100%-osan bepótlódik."
+    },
+    {
+      "id": 95,
+      "term": "Melyek az alvás fázisai és jellemzői?",
+      "definition": "A REM fázis (paradox alvás) az EEG-ben ébrenlétre hasonlít, szemmozgások, álmodás jellemzi, 4-5 db szakasz/8h alvás. Az NREM fázis mélyebb, lassú hullámú alvás, agyi és testi működés csökken, 80%-ot tesz ki az alvásnak.",
+      "quote": "Paradox vs mély alvás.",
+      "text": "A REM fázisban a szívverés gyorsabb, légzés intenzívebb, izomtónus szinte nulla. Az NREM-ben a vegetatív rendszer paraszimpatikus túlsúlya jellemző, testhőmérséklet csökken, növekedési hormon termelődése nő."
+    },
+    {
+      "id": 96,
+      "term": "Mi az alvás biológiai funkciója?",
+      "definition": "Az NREM alvás az energia-készletek visszaállítását biztosítja. Az REM alvás az agy fejlődésében, memória funkcióban segít - fehérjeszintézis fokozódik, új szinapszisok alakulnak ki, az agy információ integrálódik.",
+      "quote": "Pihenés és tanulás.",
+      "text": "Az alvás során a nap során beérkezett információ integrálódik a memóriatárakba, melyeket újraszerveznek a napi élmények szerint. Az REM fázis a tanulás és információ feldolgozásának előfeltétele. Egy másik elmélet szerint az REM a felesleges memóriák törlésének szolgál."
+    },
+    {
+      "id": 97,
+      "term": "Mi a cirkadián ritmus?",
+      "definition": "A cirkadián ritmus egy körülbelül 24 órás ciklus az élőlények fiziológiai folyamataiban. Belső időmérő rendszer szabályozza, de külső fényszinkronizáló hatások befolyásolják, az alvás-ébrenléti ciklus egy cirkadián ritmus.",
+      "quote": "Napi ritmus.",
+      "text": "Szenzoros kísérletekben az emberek körülbelül 24 óra 11 perc-re beállt alvási ciklustartammal rendelkeznek. A hipotalamuszban az SCN (szuprakiázmás nucleus) az alvásprogram időzítésének központja, a melatonin és szerotonin termelődésének szabályozása áll a cirkadián ritmus alatt."
+    },
+    {
+      "id": 98,
+      "term": "Mi a melatonin és szerotonin szerepe az alvásban?",
+      "definition": "A melatonin a tobozmirigyben sötétben termelődik, elősegíti az elalvást. A szerotonint az agytörzsi hálózatos állomány termel, mindkettő alvást elősegítő szerepe a hipotalamikus magokon keresztül érvényesül.",
+      "quote": "Hormonok támogatnak.",
+      "text": "A világosság (főleg kék fény) gátolja a melatonin termelődését. A melatonin az ivarmirigyek működését is gátolja, befolyásolja a kedélyállapotot (magas szintje depressziót okozhat). A melatonin és szerotonin receptorokat a hipotalamusz magjainak neuronjaiban mutattak ki."
+    },
+    {
+      "id": 99,
+      "term": "Mi az izomtónus és testtartás szabályozása?",
+      "definition": "Az izomtónus az akaratlan, állandó, kismértékű izomfeszülés, mely az izmok nyújtási reflexén alapul. A testtartást az antigravitációs izmok (törzs-, felső végtag hajlító, alsó végtag nyújtó izmok) meghatározott tónusługűe teszi lehetővé.",
+      "quote": "Közbülső feszülés.",
+      "text": "Az izomtónus vészélyes hirtelen mozgások elleni védelemként működik. Az agytörzs mozgásszabályozó működése, a vesztibuláris rendszer és kisagy összeműködésével biztosítja a testtartást. A reflexes működés révén egy instabil helyzet gyorsan korrigálható."
+    },
+    {
+      "id": 100,
+      "term": "Mi a vesztibuláris rendszer és egyensúlytartás?",
+      "definition": "A vesztibuláris rendszer a testtartás és egyensúly szabályozásáért felelős, receptorai a belső fülben (labirintus) találhatók, mely a fej térbeli helyzetét és mozgását érzékeli.",
+      "quote": "Mérleg-rendszer.",
+      "text": "A belső fülben zsákok, tömlőcskék és félkörös ívjáratok vannak szőrsejtekkal. Az agytörzs, kisagy és nagyagy összeköttetésével biztosítják az egyensúlyt. Az érzőinformáció koordinálása: vizuális, egyensúlyozási és nyomási ingerek összehangolása."
+    },
+    {
+      "id": 101,
+      "term": "Mi a köztiagy és részei?",
+      "definition": "A köztiagy a talamusz, hipotalamusz és tobozmirigyből áll, mely az III. agykamra körül szerveződik. Ez az agy legfontosabb koordinációs és szabályozási központja.",
+      "quote": "Három szervez.",
+      "text": "A talamusz az érzőinformáció kéreg alatti központja, a legtöbb érzőpálya rajta átkapcsolódik. A hipotalamusz a vegetatív rendszer, hormonális rendszer és ösztönös magatartás központja. A tobozmirigy a melatonint termelő szerv."
+    },
+    {
+      "id": 102,
+      "term": "Mi a hipotalamusz funkciói?",
+      "definition": "A hipotalamusz végzi: hormonális rendszer irányítása, víz/sóháztartás regulációja, vegetatív idegrendszer összehangolása, éhség/jóllakottság, szomjúság, testhőmérséklet-szabályozás, szimpatikus aktiválás, biológiai óra.",
+      "quote": "Szabályozó központ.",
+      "text": "A hipotalamusz neuroszekréciós sejtjei gátló és serkentő faktorokat termelnek a hipofízisre. Az ADH és oxitocin termelő neuronok axonjai a hipofízis hátulsó lebenye és tárálnak. A hipotalamusz a vegetatív és szomatikus rendszer összehangolója (Cannon-féle vészreakció)."
+    },
+    {
+      "id": 103,
+      "term": "Melyek a hőszabályozás központjai?",
+      "definition": "Az ember állandó testhőmérsékletet (mag 37°C) fenntart a hipotalamusz két egymást ellenző magjának egyensúlya révén: fűtőközpont (alacsonyabb hőmérsékletre) és hűtőközpont (magasabb hőmérsékletre) működnek.",
+      "quote": "Hő-ellentét egyensúly.",
+      "text": "A fűtőközpont: bőr erek szűkülnek, lebontó anyagcsere nő, didergéses hőtermelés, szőrzetborzolás. A hűtőközpont: bőr erek tágulnak, verejtékezés fokozódik, légzés nő, anyagcsere csökken. A szabályozás negatív visszacsatolás elvén alapul."
+    },
+    {
+      "id": 104,
+      "term": "Mi a láz és hogyan kezelhető?",
+      "definition": "Láz akkor beszélünk, ha a testhőmérséklet 38,2°C fölé emelkedik. A hipotalamusz kell érték magasabbra állítódik, az immunrendszer működésének elősegítése. Lázcsillapítás: gyógyszeresen (paracetamol, aspirin) vagy fizikai módszerekkel (hűtőfürdő).",
+      "quote": "Magas hőmérséklet.",
+      "text": "A láz első szakaszában didergés, hőleadás csökken. Az állandó szakaszban az emelkedett hőmérséklet tartása. Harmadik szakaszban verejtékezés kezdődik (1 fokos hőváltozás 500-1000ml folyadékveszteséget jelent). 39°C felett lázcsillapítás szükséges."
+    },
+    {
+      "id": 105,
+      "term": "Mi a kisagy szerkezete és funkciója?",
+      "definition": "A kisagy a mozgáskoordináció központja, amely az izommozgások összerendeződésében, a pontos, bonyolult, célvezérelt mozgások kivitelezésében és az izomtónus szabályozásában játszik szerepet.",
+      "quote": "Koordináció központ.",
+      "text": "A kisagy szinte az idegrendszer valamennyi részétől kap információt: egyensúlyérző rendszer, szem, bőr és izomreceptorok, nagyagykéreg. A sérüléskor ataxia (inkoordináció) lép fel: kéz mögé-elé nyúl, járás részegés-szerű, beszéd zavarban szenved."
+    },
+    {
+      "id": 106,
+      "term": "Mi a nagyagy felépítése?",
+      "definition": "A nagyagy a KIR legfejlettebb részét képezi, 1300-1400g, mely két féltekéből áll. A felszínt barázdák tekervényekre tagolják. A belsejében fehérállomány, nagyagymagvak (bazális ganglionok) találhatók.",
+      "quote": "Legfejlettebb rész.",
+      "text": "A nagyagy 6 szövettani rétegre különül, melyek funkciójában eltérnek. Az agykéreg felülete körülbelül 2200 cm2, mely a tekervények útján megnövelt. Az agyveľő keresztmetszetén jól látszik a felszíni szürgeállomány (nagyagykéreg) és belső fehérállomány."
+    },
+    {
+      "id": 107,
+      "term": "Melyek a nagyagy lebenyei és funkciójuk?",
+      "definition": "A nagyagyat lebenyekre osztjuk: homloklebeny (mozgatás, beszéd, kognitív funkcók), falilebeny (érzés, ízérzés), nyakszirti (látás), halántéklebeny (hallás, memória).",
+      "quote": "Négy funkció-lebeny.",
+      "text": "Az agykéreg oszlopos működésével dolgozik - 5000-10000 sejt alkot egy modult, mely kb. 100-200 másik modullal tart kapcsolatot. A gátló sejtek megakadályozzák az ingerület szomszédos oszlopokra terjedését (hermetikus elszigetelés)."
+    },
+    {
+      "id": 108,
+      "term": "Mi a limbikus rendszer és funkciói?",
+      "definition": "A limbikus rendszer az agy ősi magcsoportjai és kéregrészletei, mely a végtagokon, hippokampuszon, mandulagyűrűn alapul. Funkciói: vegetatív, neuroendokrin szabályozás, érzelmek, indulatok, motiváció, szociális viselkedés, tanulás, memória.",
+      "quote": "Érzelem-memória hálózat.",
+      "text": "A mandulamag az érzelmek (félelem, szorongás), indulatok (agresszió) központja. A hippokampusz a hosszú-távú memória kialakulásában alapvető. A limbikus rendszer az érzelmek, akarati élet és szocializáció központja."
+    },
+    {
+      "id": 109,
+      "term": "Mi a receptor és milyen típusai vannak?",
+      "definition": "A receptor olyan sejt vagy idegvégződés, mely különféle ingereket felfog, potenciálváltozást eredményezve. Csoportosítása: szerkezet (szabad, tokkal körülvett, érzékhámsejt), elhelyezkedés (bőr, szövet, KIR), adekvát inger (mechanoreceptor, fotoreceptor, termoreceptor, kemoreceptor).",
+      "quote": "Inger-átalakító.",
+      "text": "Az adekvát inger az, mellyel szemben a receptornak legkisebb az ingerküszöbe. A receptorok energiaátalakítóként működnek, az adott energiafajtát elektromos jellé alakítják (jelátalakítás)."
+    },
+    {
+      "id": 110,
+      "term": "Melyek a mechanoreceptorok?",
+      "definition": "A mechanoreceptorok nyomást, tapintást, áramlást érzékelő receptorok a bőrben, valamint az izmok, inak, ízületek mechanikai ingereit felfogó receptorok.",
+      "quote": "Nyomás-érzékelő.",
+      "text": "Az aortaív falában magasnyomású mechanoreceptorok a vérnyomás-szabályozásban működnek. A gyomor falában a telítettség/üresség jelzésére szolgálnak. A belső fülben szőrsejtek a fej mozgásáról tájékoztatnak."
+    },
+    {
+      "id": 111,
+      "term": "Melyek a termoreceptorok és működésük?",
+      "definition": "A termoreceptorok a hőmérsékletváltozás érzékelésében vesznek részt: központi (hipotalamusz), mély (gerincvelő, belső szervek), perifériás (bőr, szájüreg). A bőrben két típus: hidegérzékelő (Aδ rost) és melegérzékelő (C rost).",
+      "quote": "Hő-szenzor.",
+      "text": "A hidegérzékelő receptorok 10°C alatti hőmérsékleten ingerület leadása megszűnik (hideg érzéstelenítő). 45°C felett paradox hidegérzet lép fel. A melegérzékelő receptorok maximum 45°C körül működnek."
+    },
+    {
+      "id": 112,
+      "term": "Mi a fájdalom érzékelése és receptorai?",
+      "definition": "A fájdalom szubjektív érzet, szöveti károsodáshoz kapcsolódik. Fájdalomérző receptorai: velőhüvelyes rostok (Aδ) - éles fájdalom, csupasz axonok (C) - tompa, sajgó fájdalom. Polimodális receptorok többféle ingerrel (mechanikai, kémiai, extrém hőmérséklet) is ingerelhetők.",
+      "quote": "Szövetsérülés jele.",
+      "text": "A nem-szteroid gyulladásgátlók (NSAID) a fájdalomérző receptorok ingerekként működő vegyületeit gátolják. A fájdalom csillapítása gátló interneuronok, endogén ópioidok és más mechanizmusok révén történik."
+    },
+    {
+      "id": 113,
+      "term": "Melyek a kemoreceptorok és funkciói?",
+      "definition": "A kemoreceptorok: szaglás és ízlelés receptorai (környezet kémiai anyagai), szívközeli nagyerek falának kemoreceptorai (vér O2/CO2), központi idegrendszeri neurális kemoreceptorok (vér CO2, H+, ozmotikus nyomás, vérglükóz).",
+      "quote": "Kémiai szenzor.",
+      "text": "A szaglás és ízlelés közös jellemzői: alacsony ingerküszöb, nagy felbontóképesség, könnyen adaptálódnak. A szívközeli receptorok vérnyomás és légzés szabályozásában működnek. A központi kemoreceptorok keringés, légzés és metabolikus funkciók szabályozásában aktívak."
+    },
+    {
+      "id": 114,
+      "term": "Mi az érzékelés és észlelés közötti különbség?",
+      "definition": "Az érzékelés során a receptorok az ingert elektromos jellé alakítják, az agykéreg elsődleges központjában az adekvát érzet alakul ki (pl. fénypont). Az észlelés során az információ értelmezése, összekapcsolása korábbi ismeretekkel történik, felismerés és jelentésadás.",
+      "quote": "Szenzor vs interpretáció.",
+      "text": "Az észlelésünket előzetes tapasztalataink, pillanatnyi hangulatunk, szükségleteink, érdeklődésünk, valamint a kultúra jelentősen befolyásolja. Az észlelés minden esetben szubjektív - két egyén ugyan arról dologról mást észlel."
+    },
+    {
+      "id": 115,
+      "term": "Mi az érzékcsalódás és kiváltó okai?",
+      "definition": "Az érzékcsalódás illúzió vagy hallucináció - az illúzió egy valós inger helytelen értelmezése, míg a hallucináció valós inger nélkül képződő érzés. Kiváltásukban pszichés tényezők és drogok játszanak szerepet.",
+      "quote": "Hamis percepció.",
+      "text": "Az illúziót a környezeti feltételek (kontraszt, megvilágítás) segítik elő. A hallucináció valós inger nélkül jön létre, pszichózis vagy droghatás (hallucinogének) során gyakori. Az érzékcsalódások az agy értelmezési rendszerének működésétől függenek."
+    },
+    {
+      "id": 116,
+      "term": "Mi a szabályozás alapvető jellemzője?",
+      "definition": "A szabályozás kétirányú kapcsolat, ahol az irányított rendszer folyamatosan visszajelez a központnak és befolyásolja annak működését, ellentétben a vezérléssel amely egyirányú.",
+      "quote": "Kétirányú visszacsatolás biztosítja.",
+      "text": "A szabályozás lényege, hogy a rendszer kimenete visszahat a bemenetre, létrehozva egy szabályozási kört. Ez lehetővé teszi a rendszer önszabályozó képességét és adaptációját a változó körülményekhez."
+    },
+    {
+      "id": 117,
+      "term": "Mitől függ az idegsejt elektrofiziológiai állapota?",
+      "definition": "Az idegsejt elektrofiziológiai állapota a kémiai potenciál és az elektromos potenciál eredőjéből alakul ki, melyek az ionkoncentráció-gradiensekből és töltéskülönbségekből származnak.",
+      "quote": "Kémiai és elektromos összege.",
+      "text": "Az idegsejt membránjában a különböző ionok eltérő koncetrációja kémiai hajtóerőt hoz létre, míg a töltéskülönbségek elektromos hajtóerőt. Ezek kombinálódnak, gyakran ellentétes irányban működnek."
+    },
+    {
+      "id": 118,
+      "term": "Mekkora az idegsejtek nyugalmi potenciálja?",
+      "definition": "Az idegsejtek nyugalmi potenciálja átlagosan -70 mV, mely az ICF-ban elhelyezett elektród negatív töltésű az ECF-ban lévőhöz képest.",
+      "quote": "-70 mV a nyugalom.",
+      "text": "Ez az érték a sejten belüli és kívüli ionkoncentrációk különbségéből adódik, ahol K+ belül magas, Na+ kívül magas. Az érték -50 és -90 mV között változhat az egyes sejtekben."
+    },
+    {
+      "id": 119,
+      "term": "Mit jelent a depolarizáció?",
+      "definition": "Depolarizáció a membrán eredeti polarizációjának megszűnése, amikor a membránpotenciál értéke csökken és kevésbé negatívvá válik, például -70 mV-ról -50 mV-ra.",
+      "quote": "Polarizáció vége, feszültség csökken.",
+      "text": "Depolarizáció során Na+ ionok áramolnak be a sejtbe, a pozitív töltés nő a membránon belül, ezáltal csökken a potenciálkülönbség. Ez kulcsfontosságú az akciós potenciál keletkezésében."
+    },
+    {
+      "id": 120,
+      "term": "Mi a Na+-K+ pumpa szerepe?",
+      "definition": "Az ATP-áz enzim aktív transzporttal 1 ATP hidrolízise mellett 3 Na+ ionokat juttat ki és 2 K+ ionokat visz be a sejtbe, fenntartva az ioneloszlásokat és a sejt ozmotikus nyomását.",
+      "quote": "3 Na+ ki, 2 K+ be.",
+      "text": "A pumpa eltávolítja az enzimműködést gátló Na+ ionokat a sejtből, szabályozza az ozmotikus nyomást és ezáltal biztosítja a sejt optimális alakját. Szüntetlenül működik az élet során."
+    },
+    {
+      "id": 121,
+      "term": "Mik a főbb ioncsatorna típusok?",
+      "definition": "Három fő típus ismert: szivárgási csatornák (állandóan nyitva), ligandkötődésre nyíló csatornák és feszültségfüggő csatornák, valamint mechanikai ingerre nyíló csatornák.",
+      "quote": "Szivárgás, ligand, feszültség, mechanika.",
+      "text": "Mindegyik csatorna szelektív az adott ionra, léteznek Na+-, K+-, Cl-- és Ca2+-csatornák. A csatornák nyitási és zárási mechanizmusa kulcs a membrán aktivitásában."
+    },
+    {
+      "id": 122,
+      "term": "Mit jelent az ingerület és az inger?",
+      "definition": "Az inger külső vagy belső környezeti hatás, amely megváltoztatja a sejt működését. Az ingerület az inger hatására bekövetkező anyagcsere-változás, mely membránpotenciál-változásban nyilvánul meg.",
+      "quote": "Inger gerjeszti, ingerület létrejön.",
+      "text": "Az inger különféle lehet: mechanikai, kémiai, termikus vagy elektromos. Az ingerület az idegsejtek alapvető jellemzője, amely információ továbbításának alapja."
+    },
+    {
+      "id": 123,
+      "term": "Mi az ingerküszöb és hogyan változhat?",
+      "definition": "Az ingerküszöb az a membránpotenciál-érték, amely kiváltja az akciós potenciált. Változhat endogén módon (endogén opiátok) és exogén módon (pl. kalciumszint, stressz).",
+      "quote": "Küszöb: akciós potenciál határán.",
+      "text": "Alacsony kalciumszint csökkenti az izomrost membránájának ingerküszöbét és fokozza az ideg-izom ingerlékenységet. Küzdelem alatt endogén opiátok emelnék az ingerküszöböt és csökkentik a fájdalmat."
+    },
+    {
+      "id": 124,
+      "term": "Mit jelent az adekvát inger?",
+      "definition": "Az adekvát inger az az inger, mellyel szemben a receptornak a legkisebb az ingerküszöbe, ezért a leghatékonyabban váltja ki az ingerületet.",
+      "quote": "Megfelelő inger, legkisebb küszöb.",
+      "text": "Mechanoreceptor adekvát ingere a mechanikai deformáció, fotoreceptor a fény, termoreceptor a hőmérséklet-változás. Ez a specificitás biztosítja az egyedi szenzoros funkciókat."
+    },
+    {
+      "id": 125,
+      "term": "Mi történik az akciós potenciál során a Na+-ionokkal?",
+      "definition": "Az akciós potenciál depolarizációs fázisában ligandkötődésre és majd feszültségfüggésre Na+ ionok tömegesen beáramlanak az axoneredésén, amely az axonon +30 mV csúcspotenciált hoz létre.",
+      "quote": "Na+ beözönlik, +30 mV csúcs.",
+      "text": "Az áramlás passzív transzporttal történik, mivel az elektrokémiai gradiens a sejten belülre mutat. Ez az pozitív visszacsatolás, amely megnyitja a szomszédos feszültségfüggő csatornákat."
+    },
+    {
+      "id": 126,
+      "term": "Mi a repolarizáció és hogyan jön létre?",
+      "definition": "A repolarizáció az akciós potenciál depolarizációs fázisát követő szakasz, amikor a membránpotenciál negatívvá válik vissza. Feszültségfüggő K+-csatornák megnyílnak és K+ ionok áramolnak ki.",
+      "quote": "K+ kimegy, vissza a negatívba.",
+      "text": "A Na+-csatornák inaktiválódnak, míg a K+-csatornák nyílnak, azonban az inaktiváció szükséges az akciós potenciál befejezéséhez. Nagy mennyiségű K+ kiáramlás hiperpolarizációt okoz."
+    },
+    {
+      "id": 127,
+      "term": "Mi az utópotenciál és hiperpolarizáció?",
+      "definition": "Az utópotenciál az akciós potenciál után kialakuló szakasz, ahol hiperpolarizáció (megnövekedett negatív membránpotenciál, akár -100 mV) fordulhat elő K+-kiáramlás és Cl--beáramlás miatt.",
+      "quote": "Túl negatív után hiperpolarizál.",
+      "text": "Ez az excesszív repolarizáció átmenetileg megnehezíti a következő akciós potenciál kiváltását, amit az ingerküszöb az idővel helyreáll és a sejt visszatér az alapállapotba."
+    },
+    {
+      "id": 128,
+      "term": "Mi az analóg és digitális jel különbsége?",
+      "definition": "Az analóg jel az időben folytonosan változó értékeket vehet fel, míg a digitális jel csak meghatározott értékekből áll (0 vagy 1). Helyi potenciálok analóg, akciós potenciálok digitális jelként működnek.",
+      "quote": "Analóg folytonos, digitális diszkrét.",
+      "text": "A helyi potenciálok amplitúdója az inger erősségével arányos (analóg), de az akciós potenciálok függetlenek az inger erőtől, csak frekvenciájuk változik (frekvencia-kódolás)."
+    },
+    {
+      "id": 129,
+      "term": "Mit jelent a frekvenciakódolás?",
+      "definition": "Az inger erőssége az akciós potenciál hullámsorozat szaporaságában (frekvenciájában) kódolt. Erősebb ingerek nagyobb frekvenciájú akciós potenciálokat eredményeznek, gyengébbek alacsonyabbat.",
+      "quote": "Erős inger, magas frekvencia.",
+      "text": "Ez az 'minden vagy semmi törvénye' alapvető elve, ahol az akciós potenciál amplitúdója mindig maximális, az inger erősségét a tüskék sűrűsége fejezi ki az idegsejt által felismert információ."
+    },
+    {
+      "id": 130,
+      "term": "Mi a helyi potenciál és hogyan jön létre?",
+      "definition": "A helyi (lokális) potenciál a szinapszison vagy a sejttest és dendritek szintjén keletkezik, ahol ligandkötődésre nyíló ioncsatornák működnek. Amplitúdója arányos az ingerrel és térben-időben csökkentő.",
+      "quote": "Lokális, csökken távolban.",
+      "text": "A helyi potenciálok nem terjednek az axonon, de az axoneredésénél (axondomb) összegződhetnek (térbeli szummáció). Csak akkor váltanak ki akciós potenciált, ha eredőjük eléri az ingerküszöböt."
+    },
+    {
+      "id": 131,
+      "term": "Mit jelent a térbeli és időbeli szummáció?",
+      "definition": "Térbeli szummáció: több helyi potenciál egyidejűleg az axoneredésénél összegződik. Időbeli szummáció: egymást követő helyi potenciálok összegződnek, mert az előző nem érkezik lebomlása előtt.",
+      "quote": "Több ingert összeadódnak.",
+      "text": "Ez a mechanizmus lehetővé teszi, hogy gyengébb ingerek kombinálódva akciós potenciált váltanak ki. Ez fontos információfeldolgozási mód az idegrendszerben."
+    },
+    {
+      "id": 132,
+      "term": "Milyen sebességgel terjed az ingerület az axonon?",
+      "definition": "Az ingerület terjedési sebessége néhány cm/s-től 120 m/s-ig változhat, attól függően, hogy az axont védi-e velőshüvely és az axon átmérője.",
+      "quote": "Lassú cm/s vagy gyors 120 m/s.",
+      "text": "Gerincsekben a velőshüvely szigeteléssel és az ugrálva terjedéssel a gerinctelenekéhez képest több száz szoros gyorsulást ér el. Az óriásaxon a tintahalban így lett alapos tanulmányi tárgy."
+    },
+    {
+      "id": 133,
+      "term": "Mi a befűződés és hogyan gyorsítja az ingerületvezetést?",
+      "definition": "A befűződés (Ranvier-csomó) a gliasejtek közötti rés az idegrostokon, ahol a depolarizáció csak itt jöhet létre. Az ingerület így ugrálva terjed, amely sokkal gyorsabb vezetést tesz lehetővé.",
+      "quote": "Ugrálva vezetés, gyorsabb terjedés.",
+      "text": "A mielinizációs szint feszültségfüggő ioncsatornákat nem tartalmaz, de az axonmembránban igen. Ez a szaltatoros vezetés 'saltare' = ugrálni szóból ered."
+    },
+    {
+      "id": 134,
+      "term": "Mit jelent az elektromos szinapszis és jellemzői?",
+      "definition": "Az elektromos szinapszisban a sejtek membránja között fehérjékből álló csatornák valósítják meg az ingerületátvitelt. Jellemzői: kis szinaptikus rés (2 nm), kétirányú átvitel, gyors vezetés.",
+      "quote": "Elektromos, kétirányú, gyors.",
+      "text": "Elektromos szinaptikus résen ionok és kisebb molekulák (ATP, cAMP) áramolhatnak. Gerinctelenekben, szívben és simaizomsejtekben gyakoribb, ahol gyors szinkronizáció szükséges."
+    },
+    {
+      "id": 135,
+      "term": "Mi a kémiai szinapszis felépítése?",
+      "definition": "A kémiai szinapszis preszinapszisból (axonvég), szinaptikus résből (30-50 nm) és posztszinaptikus membránból áll. A neurotranszmitterek szinaptikus hólyagokban tárolódnak és exocitózissal ürülnek.",
+      "quote": "Előtte, közötte, után: exocitózis.",
+      "text": "Az átvitel egyirányú, mivel csak a preszinapszisban keletkeznek szinaptikus hólyagok. A neurotranszmitterek receptorfehérjékhez kötődnek a posztszinaptikus membránon."
+    },
+    {
+      "id": 136,
+      "term": "Mi a pre- és posztszinaptikus összehúzódás szabályozása?",
+      "definition": "A preszinaptikus aktivitás akciós potenciáljainak frekvenciájával arányosan ürül a neurotranszmitter. A posztszinaptikus membránpotenciál a beáramló ionok mennyiségétől és fajtájától függ.",
+      "quote": "Frekvencia diktálja az uralmat.",
+      "text": "Serkentő szinaptisok Na+-csatornákat nyitnak (hipopolarizáció), gátló szinaptisok Cl-- és K+-csatornákat nyitnak (hiperpolarizáció). Az acetilkolin például a vázizomon és a szívizmon eltérő hatást fejt ki."
+    },
+    {
+      "id": 137,
+      "term": "Mi történik a szinaptikus résben az ingerületátvivő anyagokkal?",
+      "definition": "A neurotranszmitterek a szinaptikus résben három módon kerülnek eltávolításra: enzimek bontják, diffúzió során kimosódnak, vagy aktív transzporttal/endocitózissal visszavételeket.",
+      "quote": "Bontás, mosódás, visszavétel.",
+      "text": "A kiürült átvivőanyagok hatásukat csak rövid ideig fejtik ki (ms-perc), ami fontos a szinaptikus szabályozáshoz és az információ precisz továbbítéséhez."
+    },
+    {
+      "id": 138,
+      "term": "Mi a Dale-elv az idegsejtek működésében?",
+      "definition": "A Dale-elv szerint egy neuron csak egyféle neurotranszmittert képes termelni és felszabadítani, függetlenül attól, hogy hány szinapszisa van és milyen sokféle célsejtet ingerül.",
+      "quote": "Egy sejt, egy transzmitter.",
+      "text": "Ez az elv az 1930-as években Sir Henry Dale által megfogalmazott megfigyelés, amely ma már módosultnak tekinthető, hiszen egyes idegsejtek több transzmittert is termelhetnek, bár ezt komodulációnak hívják."
+    },
+    {
+      "id": 139,
+      "term": "Milyen neurotranszmittereket ismersz?",
+      "definition": "Főbb neurotranszmitterek: acetilkolin (tanulás), dopamin (mozgás, jutalmazás), szerotonin (alvás, hangulat), endorfinok (fájdalomcsillapítás), adrenalin/noradrenalin (szimpatikus), GABA (gátlás).",
+      "quote": "Sok transzmitter, sok funkció.",
+      "text": "Aminosavakból és deriváltaikból állnak (acetilkolin kivétel). Egyes neurotranszmitterek szinergetikusan vagy antagonisztikusan hatnak, összetett szabályozást lehetővé téve."
+    },
+    {
+      "id": 140,
+      "term": "Hogyan hatnak az agonisták és antagonisták?",
+      "definition": "Az agonisták olyan ligandumok, melyek receptorokhoz kötődnek és azokat aktiválják. Az antagonisták gátolják az agonisták hatását a receptorokhoz kapcsolódva, azokat inaktiválva.",
+      "quote": "Agonista aktivál, antagonista gátol.",
+      "text": "Példa agonistára: a morfin K+-csatornákat nyitva hiperpolarizálódást okoz. Példa antagonistára: a curare az acetilkolin-receptorokat blokkálja az izomban, bénulást okozva."
+    },
+    {
+      "id": 141,
+      "term": "Hogyan hatnak a serkentő drogok a szinapszisban?",
+      "definition": "A serkentő drogok gátolják a neurotranszmitterek visszavételét vagy lebomlását, vagy serkentik azok felszabadulását. Pl. kokain dopamin-visszavétel gátlása, amfetamin ürülés fokozása.",
+      "quote": "Felszabadulás növelése, visszavétel gátlása.",
+      "text": "Az extasy szerotonin, dopamin és noradrenalin felszabadulásást fokozza. Ez az agyban dopamin és szerotonin szintjének emelkedését okozza, melyek örömérzetet és függőséget kiváltanak."
+    },
+    {
+      "id": 142,
+      "term": "Hogyan hatnak a lassító drogok?",
+      "definition": "A depresszáns drogok gátolják az neurotranszmitterek ürülését vagy GABA-receptorokat aktiválnak, melyek Cl--ioncsatornákat nyitnak hiperpolarizációt okozva. Pl. opiátok, benzodiazepinek, alkohol.",
+      "quote": "Gátlás, hiperpolarizáció, lassulás.",
+      "text": "Az alkohol GABA-receptorokat serkent és glutamát-receptorokat gátol, összességében szorongásoldó hatást ér el. Hosszú távú alkoholhasználat GABA-receptorok szám csökkenésére vezethet."
+    },
+    {
+      "id": 143,
+      "term": "Mi a tolerancia és addikció a droghasználatban?",
+      "definition": "A tolerancia a droghoz szervezet alkalmazkodása, amely nagyobb adagok igényét váltja ki. Az addikció függőség, ahol a drog hiánya megvonási tüneteket okoz, mivel a természetes transzmitterek termelése csökken.",
+      "quote": "Szokás nő, függőség kialakulhat.",
+      "text": "A folyamatos droghasználat miatt a szervezet az adott receptorhoz hasonlóan működő természetes neurotranszmitterek termelésének csökkentésére megy rá, amit negatív visszacsatolás okoz."
+    },
+    {
+      "id": 144,
+      "term": "Mit jelent az endokrin kommunikáció?",
+      "definition": "Az endokrin kommunikáció során belső elválasztású (endokrin) mirigyek hormonokat termelnek, amelyeket közvetlenül a vérbe ürítik. A jelátvitel viszonylag lassú, de a hatás tartós.",
+      "quote": "Hormon véren át, tartós hatás.",
+      "text": "Az endokrin mirigyek kivezetőcső nélküliek. A hormonok véráramon keresztül jelen tudnak lenni a szervezet bármely pontjában, ahol a célsejtek receptoraikkal felismerik őket."
+    },
+    {
+      "id": 145,
+      "term": "Mi a parakrin kommunikáció?",
+      "definition": "Parakrin kommunáció során a szöveti sejtek szöveti hormonokat termelnek és azokat a szövetnedvbe ürítik, ahol a közeli sejtek felismerik a diffúzión keresztüli hatást.",
+      "quote": "Szöveti hormon, lokális hatás.",
+      "text": "Erre példa a gyomorban termelődő gasztrin, amely fokozza a gyomornedv elválasztását és a gyomor mozgásait. A hatás lokalizált és rövid hatótávolságú."
+    },
+    {
+      "id": 146,
+      "term": "Mi a neuroszekréció?",
+      "definition": "A neuroszekréció során idegsejtek hormonokat termelnek és azokat neurotranszmitterekként vagy hormonokként felszabadítják. Ez egyesíti az idegi és endokrin szabályozás előnyeit.",
+      "quote": "Idegsejt termel hormont.",
+      "text": "Erre példa a hipotalamusz idegsejtek, melyek ADH (vazopresszin) és oxitocin termeléséért felelősek, amelyeket a hipofízis posterior lobusa ürit."
+    },
+    {
+      "id": 147,
+      "term": "Hogyan működik az idegsejt ingerületvezetésének folyamata összességében?",
+      "definition": "Az inger serkentő neurotranszmitter receptorokhoz kapcsolódik, ligandkötődésre Na+-csatornák nyílnak, helyi potenciál képződik, az axoneredésénél összegződik, és ha eléri az ingerküszöböt, akciós potenciálok keletkeznek.",
+      "quote": "Inger → helyi → küszöb → akciós.",
+      "text": "Az információ az akciós potenciálok frekvenciájában kódolt. Az axon mentén az ugrálva terjedésnek köszönhetően gyorsan halad az impulzus. A szinapszisban az információ átvétele ismét kémiai jelekké alakul."
+    },
+    {
+      "id": 148,
+      "term": "Hogyan függ az ionáramok erőssége az ioncsatornák megnyílásától?",
+      "definition": "Az ionáramok erőssége közvetlenül függ az ioncsatornák nyitott számától. Több nyílt ligandkötődésre csatorna = több Na+ beáramlás = nagyobb hipopolarizáció és helyi potenciál.",
+      "quote": "Nyitott csatorna → több ion → nagyobb áram.",
+      "text": "A neurotranszmitterek mennyisége diktálja, hogy hány ligandkötődésre csatorna nyílik meg. Erős ingertől sok transzmitter szabadul fel, sok csatorna nyílik, nagy áram keletkezik."
+    },
+    {
+      "id": 149,
+      "term": "Mi a sejttest feladata az idegsejt működésében?",
+      "definition": "A sejttest tartalmazza a sejtmagot, mitokondrium és riboszómákat, ahol intenzív fehérjeszintézis zajlik. Funkciója az idegsejt energiaellátása és a nyúlványok származtatásához szükséges fehérjék termelése.",
+      "quote": "Sejt test: energia és fehérje.",
+      "text": "Az idegsejtek nagy energiaigényűek az akciós potenciálok keletkezésének és a Na+-K+ pumpa működésének miatt. A mitokondrium a sejtben pedig az adenozin-trifoszfát (ATP) termelésért felel."
+    },
+    {
+      "id": 150,
+      "term": "Mi a dendrit funkciója az idegsejtekben?",
+      "definition": "A dendritek rövidebb, elágazó nyúlványok, amelyek a sejttesthez kapcsolódnak. Funkciójuk a sejt felszínének nagyítása és a szinaptikus kapcsolatok kialakítása, információ befogadása.",
+      "quote": "Dendrit: befogadó, sokágazú.",
+      "text": "Az idegsejt számos szinaptikus kapcsolódást képez az axonvégek által, amelyek mind a dendriteken vagy a sejttesten helyezkednek el. Ez az összetett információfeldolgozásnak lehetővé teszi."
+    },
+    {
+      "id": 151,
+      "term": "Mik az idegsejtek típusai nyúlványaik szerint?",
+      "definition": "Egynyúlványú (unipoláris), pszeudounipoláris (ál-egynyúlványú, az axon kettéágazik), kétnyúlványú (bipoláris) egy axonnal és egy dendrittel, és soknyúlványú (multipoláris) egy axonnal és több dendrittel.",
+      "quote": "Egy, pszeudo, két, sok nyúlvány.",
+      "text": "A soknyúlványú idegsejtek a leggyakoribbak. A pszeudounipoláris sejtek a gerincvelő csigolyaközti dúcaiban találhatók és az olfaktóriás/szagló idegsejtek bipolárisak a retinában."
+    },
+    {
+      "id": 152,
+      "term": "Milyen idegsejt-típusok vannak funkcionálisan?",
+      "definition": "Érző (szenzoros) idegsejtek a receptoroktól a központ felé, mozgató (motoros) idegsejtek a központtól a végrehajtó szervek felé, és köztes (interneuron) sejtek összekapcsolják őket.",
+      "quote": "Érzők, moztók, köztes idegsejt.",
+      "text": "Az interneuronok teszik fel a szervezet idegsejteinek 90%-át. Az érző idegsejtek pszeudounipolárisak vagy bipolárisak, a motoros mindig multipoláris."
+    },
+    {
+      "id": 153,
+      "term": "Mit jelent a membránpotenciál és hogyan keletkezik?",
+      "definition": "A membránpotenciál a sejt belseje és külseje közötti potenciálkülönbség, amely az eltérő ionkoncentrációból és ioncsatornák kiválogatott áteresztő képességéből adódik. Értéke széles élő sejtekben 20-100 mV között.",
+      "quote": "Ion eloszlás, potenciál különbség.",
+      "text": "Az emberi fü legtöbb sejtjét jellemzi, nem csak idegsejtek. Záskötödésének megváltoztatása alapvető az idegsejt működésében az ingerületvezetéshez szükséges."
+    },
+    {
+      "id": 154,
+      "term": "Mi történik a nyugalomban az Na+ és K+ ionokkal?",
+      "definition": "Nyugalomban az idegsejt Na+-t és K+-t folyamatosan veszít és vesz fel az ioncsatornákon keresztüli diffúzió miatt. A Na+-K+ pumpa fenntartja az egyensúlyt az ATP-felhasználás révén.",
+      "quote": "Folyamatos csere, pumpa helyreállít.",
+      "text": "Ha a Na+-K+ pumpát blokkálnánk, a Na+ fokozatosan feldúsulna és a K+ csökkenne a sejtben, és végül az inger nem tudna kialakulni normálisan."
+    },
+    {
+      "id": 155,
+      "term": "Hogyan függ az akciós potenciál az inger erősségétől?",
+      "definition": "Az akciós potenciál amplitúdója független az inger erősségétől (minden vagy semmi törvénye), de az akciós potenciál-sorozatok frekvenciája arányos az inger erősségével.",
+      "quote": "Amplitúdó azonos, frekvencia nő.",
+      "text": "Ez azt jelenti, hogy az idegsejt csak akkor válaszol, ha az inger eléri az ingerküszöböt. Ha igen, maximális akciós potenciál keletkezik. Erősebb inger több akciós potenciált indít el másodpercenként."
+    },
+    {
+      "id": 156,
+      "term": "Mit jelent a hang frekvenciája és amplitúdója?",
+      "definition": "A hang frekvenciája a rezgések sűrűsége (Hz-ben mérve), amely a hangmagasság érzetét határozza meg. Az amplitúdó a rezgés mértéke, amely a hangerőt (dB-ben) határozza meg.",
+      "quote": "Frekvencia: magassága, amplitúdó: erőssége.",
+      "text": "Az emberi hallástartomány 16-20 000 Hz között van. A beszédtartomány 300-3 000 Hz. A hangerősség 0 dB (hallásküszöb) és 130 dB (fájdalom) között változik."
+    },
+    {
+      "id": 157,
+      "term": "Milyen frekvenciákon érzékeny leginkább az emberi fül?",
+      "definition": "Az emberi fül érzékenysége a hallásküszöbtől körülbelül 5 000 Hz-ig folytonosan növekszik, majd újra csökken. A beszédtartomány (300-3 000 Hz) tisztán hallható.",
+      "quote": "5000 Hz-ig nő, utána csökken.",
+      "text": "Ez az evolúciós adaptáció a szociális kommunikáció szükségletét tükrözi. A fül közvetlenül nem egy egyenletes görbe szerint működik, hanem az egyéb hanghullámok által módosítható perceptuális feldolgozás alapján."
+    },
+    {
+      "id": 158,
+      "term": "Mi a hallásküszöb és miért függ a frekvenciától?",
+      "definition": "A hallásküszöb a leghalkabb hallható hang intenzitása. Függ a frekvenciától, mert az emberi fül bizonyos frekvenciákon érzékenyebb. Suttogó beszéd 40 dB, normális beszéd 60 dB.",
+      "quote": "Leghalkabb hallható, frekvencia függő.",
+      "text": "A fül frekvenciájától függően eltérő érzékenységet mutat. Ez az emberi hallásszerv biológiai jellemzője, amely az evolúció során alakult ki a fontosabb hangok hallásához."
+    },
+    {
+      "id": 159,
+      "term": "Milyen szerkezeti részei vannak a külső fülnek?",
+      "definition": "A külső fül fülkagyló (rugalmas porcos váza, kötőszövetes bőr borítja) és hallójárat (hallósejtek, szőrszálak, fülzsír termelésért felelős faggyúmirigyek). Feladata a hangot tereli és vezeti.",
+      "quote": "Fülkagyló, hallójárat: tereli, szűr.",
+      "text": "A hallójárat görbülete megakadályozza a víz felgyülemlését. A fülzsír (cerumen) antibakteriális és vízálló hatású. A hallójárat belső végét a dobhártya zárja le."
+    },
+    {
+      "id": 160,
+      "term": "Mi a dobhártya és hallócsontok funkciója?",
+      "definition": "A dobhártya rugalmas kötőszövetes lemez, amely a hangrezgéseket átveszi. A hallócsontok (kalapács, üllő, kengyel) ízületesen kapcsolódnak és az erősítést biztosítanak. A kengyel talpa az ovális ablakhoz tapad.",
+      "quote": "Dobhártya rezeg, csontok erősítenek.",
+      "text": "A hallócsontok kb. 20-szoros erősítést biztosítanak a dobhártya és az ovális ablak között a felületeik arányának (15:1) és ízületi mechanizmusuknak köszönhetően."
+    },
+    {
+      "id": 161,
+      "term": "Milyen működést végez a középfül?",
+      "definition": "A középfül a dobüreg, ahol a hallócsontok rezgéseit továbbítják. Erősítik a hangnyomást és azt az ovális ablakon keresztül a belső fülbe juttatják. Az Eustach kürt kiegyenlíti a nyomást.",
+      "quote": "Erősítés 20-szoros, ovális ablakra.",
+      "text": "Az Eustach kürt szükség esetén kiegyenlíti a dobhártya két oldala közötti nyomáskülönbséget. Erős zajhatásra az izmok összehúzódnak és merevebbé teszik a csontokat."
+    },
+    {
+      "id": 162,
+      "term": "Mi a belső fül (labirintus) szerkezete?",
+      "definition": "A belső fül csontos és hártyás labirintus, amely perilympha (csontos labirintus) és endolympha (hártyás labirintus) folyadékkal töltött. Részei: 3 félkörös ívjárat, tömlőcske, zsákocska, és csiga.",
+      "quote": "Csontos, hártyás, folyadéktöltött.",
+      "text": "Az összetett szerkezet a halláshoz és az egyensúlyérzékeléshez szükséges. A csiga a hallóreceptorokat, a félkörös ívjáratok az egyensúlyérzékelést, a tömlőcske és zsákocska a helyzetérzékelést végzik."
+    },
+    {
+      "id": 163,
+      "term": "Mi a Corti-szerv és részei?",
+      "definition": "A Corti-szerv a hallószerv a csiga csigavezetékében. Részei: alaphártya (csúcs felé szélesedik), fedőlemez, támasztósejtek, és szőrsejtek (mechanoreceptorok, VIII. agyideg nyúlványai csatlakoznak).",
+      "quote": "Szőrsejt: receptorsejt, IV. agyideg csatlakoz.",
+      "text": "A szőrsejtek felső részén mikrobolyhok találhatók mechanoszenzitív kation csatornákkal. A hang hatására az alaphártya deformálódik, a szőrsejtek elhajlanak, ingerület keletkezik."
+    },
+    {
+      "id": 164,
+      "term": "Hogyan működik a hallás folyamata a fültől az agyig?",
+      "definition": "A hallójáraton bejutó levegőrezgések a dobhártyát rezegtetik, a hallócsontok az ovális ablakot rezegtetik, az alaphártya deformálódik, szőrsejtek elhajlanak, VIII. agyideg rostjai továbbítják az impulzusokat.",
+      "quote": "Rezgés → dobhártya → csontok → vízcsatorna → szőrsejt → idegsejt.",
+      "text": "A folyadékhullámok a csiga csúcsán átfordulnak az alsó járatba és a kerek ablaknál csillapodnak. Az egyes frekvenciájú hangok az alaphártya különböző helyein deformálják azt."
+    },
+    {
+      "id": 165,
+      "term": "Milyen frekvenciák okoznak deformációt a csigában különböző helyeken?",
+      "definition": "Az alacsony frekvenciájú mély hangok a csiga csúcsánál deformálják az alaphártyát, míg a magas frekvenciájú magas hangok a csiga alapján. Ez a tonotopikus szerveződés.",
+      "quote": "Mély alul csúcs, magas alapnál.",
+      "text": "Ez a frekvencia-helyzet kódolás lehetővé teszi, hogy az agy azonosítsa az adott hang frekvenciáját annak alapján, hogy a csigában melyik terület aktív. Ez a fiziológiai alapja az adott frekvencia hallásának."
+    },
+    {
+      "id": 166,
+      "term": "Mi a szőrsejt receptorainak működése alapja?",
+      "definition": "A szőrsejtek nyúlványainak elhajlási iránya határozza meg az ioncsatornák nyitott/zárt állapotát. A nagyobbik nyúlványok irányába való kitérés depolarizációt, az ellenkező irányú hiperpolarizációt okoz.",
+      "quote": "Elhajlás iránya: depolarizáció vagy hiperpolarizáció.",
+      "text": "Ez az irányfügg mechanoreceptor tulajdonság lehetővé teszi az agy számára, hogy olyan információkat dolgozzon fel, mint a hang irányából vagy a test helyzetéből adódó ingerek."
+    },
+    {
+      "id": 167,
+      "term": "Milyen hallópályát követnek az idegsejtek az agyban?",
+      "definition": "VIII. agyideg rostjai a nyúltvelőben részben kereszteződnek, átkapcsolódnak a középagyban (colliculus inferior) és talamuszban (corpus geniculatum mediale), végül az agykéreg halántéklebenyében a hallókérgiben.",
+      "quote": "Nyúltvelő → középagy → talamus → hallókéreg.",
+      "text": "A hallópálya hossza és az egyes feldolgozási szintek biztosítják az összetett hangfeldolgozást. A beszédértő központ (Wernicke-mező) szintén a halántéklebenyben található."
+    },
+    {
+      "id": 168,
+      "term": "Mit jelent a tonotopikus szerveződés a hallócentralis szinteken?",
+      "definition": "A tonotopikus szerveződés azt jelenti, hogy az egy frekvenciájú hangokra adott válasz a kéregben egy adott helyen történik. Az egymás melletti frekvenciák képviselete a kéregben is egymás mellett van.",
+      "quote": "Pont-hely kódolás: frekvencia térkép.",
+      "text": "Ez az információ-feldolgozás módja lehetővé teszi az agy számára, hogy összetett hangok összetevőit szétválassza és feldolgozza. A zene hallása és a beszédértés erre a szerveződésre épül."
+    },
+    {
+      "id": 169,
+      "term": "Hogyan lokalizálja az agy a hangforrás irányát?",
+      "definition": "A hangirány meghatározása a két fülbe érkező hang időkülönbségén és hangerőkülönbségén alapul. Az oldalsó hangforrás különböző időben és intenzitással éri a két füléhez.",
+      "quote": "Időkülönbség és hangerőkülönbség azonosít.",
+      "text": "Az agy összeveteti a két füléből érkező jeleket és számít a hangforrás helyzetét. Ez a binaural hallás az aktív lokalizációhoz szükséges."
+    },
+    {
+      "id": 170,
+      "term": "Mit mutat a hangirány-érzékelési kísérlet?",
+      "definition": "A sztetoszkóp-kísérletben egyenlő hosszú karok mellett a hang a fej középsíkjára lokalizálódik. Egyenlőtlen karok mellett a rövidebb kar irányába lokalizálódik, mert ott előbb érkezik a hang.",
+      "quote": "Rövidebb kar: hang ott van.",
+      "text": "Ez a kísérlet bizonyítja, hogy a fül érzékeli az időkülönbséget és az agy ezt alapul veszi a hangforrás lokalizálásához. Egy fül nélkül az ember nem tudja jól lokalizálni a hangokat."
+    },
+    {
+      "id": 171,
+      "term": "Mi az egyensúlyozó szerv felépítése?",
+      "definition": "Az egyensúlyozó szerv részei: tömlőcske (utriculus) és zsákocska (sacculus) a helyzetérzékeléshez, valamint 3 félkörös ívjárat (ampullákkal) a szöggyorsulás érzékeléséhez.",
+      "quote": "Tömlőcske, zsákocska, félkörös ívek.",
+      "text": "Mindezeket endolympha folyadék töltötte. A szőrsejtek kocsonyás burokba ágyazottak, amely mészkristályokat tartalmaz (otolit), amely fokozza a nyomóerőt."
+    },
+    {
+      "id": 172,
+      "term": "Hogyan működik a tömlőcske és zsákocska?",
+      "definition": "A tömlőcske és zsákocska szőrsejtjei a fej helyzetét és az egyenes vonalú gyorsulást érzékelik. A szőrsejtek a kocsonyás burokban lévő mészkristályok miatt deformálódnak a fej mozgatásakor.",
+      "quote": "Helyzetérzékelés, otolit okoz deformáció.",
+      "text": "Az oldalirányú helyzetváltozás hiperpolarizálódást, a fordított irányú depolarizálódást okoz. Ez az információ alapvető az egyensúly fenntartásához és a vesztibularis reflexekhez."
+    },
+    {
+      "id": 173,
+      "term": "Milyen információkat adnak a félkörös ívjáratok?",
+      "definition": "A félkörös ívjáratok (ampullákban) szőrsejtjei a fej gyorsuló vagy lassuló mozgását (szöggyorsulást) érzékelik. Három ívjárat három ortogonális síkban helyezkedik el a fej minden irányú mozgásának érzékeléséhez.",
+      "quote": "Szöggyorsulás: gyorsulás, lassulás.",
+      "text": "A fej elfordításakor az elfordulás síkjába eső ívjáratban a folyadék az ellenkező irányba mozdul, ami a szőrsejtek elhajlásához és az információ továbbásához vezet."
+    },
+    {
+      "id": 174,
+      "term": "Mi a vesztibuláris rendszer funkciója?",
+      "definition": "A vesztibuláris rendszer az egyensúly fenntartásáért és az egyes testhelyzetekben az izomtónus szabályozásáért felelős. Receptorainak információi kombinálódnak a szem, az izomorsó és az ínorsó adataival.",
+      "quote": "Egyensúly, izomtónus szabályozás.",
+      "text": "Az agytörzsi mozgató központjai koordinálják az információ alapján a szemmozgásokat, vázizmok tónusát, testtartást és cselekvéseket. A kisagy az egyensúlyi helyzet megtartásához és mozgáskoordinációhoz szükséges."
+    },
+    {
+      "id": 175,
+      "term": "Mi a szaglás közös jellemzője az ízérzékeléssel?",
+      "definition": "Mindkettő kemoreceptorok által végzett szenzáció, ahol a környezet vegyületei hatnak a receptorokra. Mindkettő ősi érzék, alacsony ingerküszöb, könnyen adaptálódó, és nagy felbontóképesség.",
+      "quote": "Kémiás érzékelés: szag és ízlelés.",
+      "text": "Mindkettő bizonyos fiziológiás reflexeket válthat ki (emésztőnedvek elválasztása, perisztaltika fokozódása) és magatartási/hangulatbeli változásokat okozhatnak (undor)."
+    },
+    {
+      "id": 176,
+      "term": "Milyen jellemzői vannak a szaglásnak?",
+      "definition": "A szaglás limbikus rendszerrel szoros kapcsolat miatt régi emlékek felidézője. Nagy egyéni különbségek, nők érzékenyebbek. Az életkor, dohányzás, vegyi anyagok hatásos szenzitás módosítják. Vakoknál nagyobb érzékenység.",
+      "quote": "Emlékezet, egyéni, nőknél nagyobb.",
+      "text": "A szaglás az egyik leghangosabb emlékeket felidéző érzék az agyba közvetlen limbikus kapcsolata miatt. Ez az evolúciós adaptáció a szociális jelekhez és az élelmiszer azonosításához köthető."
+    },
+    {
+      "id": 177,
+      "term": "Milyen felépítésű a szaglórendszer?",
+      "definition": "A szaglóhám az orrüreg felső részén helyezkedik el, saját axonnal rendelkező valódi idegsejtek (primer receptorok). Kb. 1000 különböző szaglóreceptortípus ismert. Axonjaik szaglógumóban (Bulbus olfactorius) kapcsolódnak át.",
+      "quote": "Szaglóhám: primer receptorok, 1000 típus.",
+      "text": "Az axonok átkapcsolása után az információ az igen ősi szaglókérgéhez fut (halántéklebeny és homlolebeny alsó felszín). A talamusz szintén kap szaglórostokat, mint az érzelmekért és hosszú távú memóriáért felelős limbikus rendszer."
+    },
+    {
+      "id": 178,
+      "term": "Mi az ízérzékelés alapja és hol található?",
+      "definition": "Az ízérzékelést az ízlelőbimbók végzik, amelyek a nyelv hátának elülső 2/3-án, valamint a szájpadláson, a torokban, a gégefedőn és a nyelvőcsőben találhatók. Az alapízek: savanyu, sós, keserű, édes, umami.",
+      "quote": "Ízlelőbimbók öt alapíz, mindenütt.",
+      "text": "A különböző terület érzékeli mindegyik ízt, bár van némi különbség az érzékenységben. A jellegzetes íz az összetett szaglásérzésből és ízérzésből kombinálódik."
+    },
+    {
+      "id": 179,
+      "term": "Melyek az alapízek kemiai alapja?",
+      "definition": "Savanyu: H+-ionkoncentráció függő. Sós: Na+-ionok. Keserű: Ca2+, Mg2+, és más nagyobb töltésű kationok. Édes: sok -OH csoportot tartalmazó vegyületek. Umami: glutamát (E 621: nátrium-glutamát).",
+      "quote": "H+, Na+, Ca2+, -OH, glutamát.",
+      "text": "A kapszaicin (csípős ételek) nem egy alapíz, hanem a fájdalomérző receptorokat aktiválja. Ez az ötödik alapíz, umami, a japánból ered és a savanyú, sós, keserű, édes mellett fontos ízérzékelésben."
+    },
+    {
+      "id": 180,
+      "term": "Hogyan működik a nyúltvelői CO2/H+-érzékelés a légzésszabályozásban?",
+      "definition": "A nyúltvelőben és a hídon elhelyezkedő kemoreceptorok érzékelik a CO2 és H+-koncentrációt a vérben és az idegszövetben. Ezek a legfontosabb ingerek a belégző központ működésének serkentéséhez.",
+      "quote": "CO2/H+ serkenti a légzésközpontot.",
+      "text": "A CO2 a vérben oldódva H+ és HCO3- ionokra disszociál. A H+-ionok emelt szintje közvetlenül serkenti a belégzést, ezt a vezérlő központok és a szívhez közeli kemoreceptorok is érzékelik."
+    },
+    {
+      "id": 181,
+      "term": "Mit csinál a szomjúságközpont a hipotalamuszban?",
+      "definition": "A hipotalamuszban az agykamra falánál található szomjúságközpont Na+-koncentrációt érzékeli a kemoreceptorai révén. A magas Na+-szint aktiválja, szomjúságérzetet és vízkereső magatartást indít be.",
+      "quote": "Na+ magas → szomj, vízkeresés.",
+      "text": "Ez az osmoreceptor a testfolyadékok ozmotikus koncentrációjának nőtt értékét jelzi. Az aktiváció szomjúságérzetet és az ADH termelésének fokozódást okozza."
+    },
+    {
+      "id": 182,
+      "term": "Hogyan szabályozza az ADH (vazopresszin) a víztartalmakot?",
+      "definition": "A hipotalamusz neuroszekréciós sejtjei ADH-t termelnek, amely a vesék gyűjtőcsatornáiban fokozza a vízvisszaszívást. Ez csökkenti a vízleadást és emeli a vérnyomást.",
+      "quote": "ADH: vízvisszaszívás növeli.",
+      "text": "Az ADH az agykamra falánál elhelyezkedő neuronok kemoreceptorainak Na+-érzékelésekor szabadul fel. A vérnyomás is befolyásolja az ADH termelést: magas nyomás gátolja azt."
+    },
+    {
+      "id": 183,
+      "term": "Mi a zajszennyeződés és hatásai az emberi szervezetre?",
+      "definition": "A zaj minden nemkívánatos hang, amely kellemetlenséget vagy zavaró érzetet kelt. Hatásai: pszichés (idegesség), vegetatív (alvaszavar), halláskárosító (hosszú időn keresztül).",
+      "quote": "Zaj: nem kívánatos, kellemetlen, káros.",
+      "text": "A zajforrások közlekedési, ipari, szabadidős, épületen belüli és lakóhelyi lehet. Az erős hangok átmeneti hallásküszöb-eltolódást vagy tartós halláscsökkenést okozhatnak."
+    },
+    {
+      "id": 184,
+      "term": "Milyen halláskárosodások léteznek?",
+      "definition": "A halláskárosodások vezetéses (középfül) vagy idegi típusúak (belső fül/hallóideg) lehetnek. Az otoszklerózis a kengyel mozgásképtelenné válása, öregedés fokozatos halláscsökkenés a magas frekvenciákon.",
+      "quote": "Vezetéses, idegi: középfül, belső fül.",
+      "text": "A zajkárosodás főleg az idegi típusú halláskárosodást okozza a szőrsejtek elhalása révén. A süketség törvényi definíciója: 82 dB-nél halkabbat nem lehet meghallni."
+    },
+    {
+      "id": 185,
+      "term": "Hogyan állítható össze az ízlelőbimbók viselkedése az ízérzékelésben?",
+      "definition": "Az ízlelőbimbók sejtek a kemoreceptorok valójában módosult hámsejtek, nem igazi idegsejtek. Állandóan pusztulnak és újak képződnek, átlagéletkoruk 10 nap. Szintézis 40. életév tájékán maximális, később csökken.",
+      "quote": "Módosult hámsejtlek, 10 napi átlagélet.",
+      "text": "Az ízlelőbimbók száma születéstől eltérő: csecsemőknél viszonylag kevés, majd gyorsan nő. A regeneráció folyamatos, így az ízlési képesség viszonylag stabil marad az élet során, az életkor előrehaladtával azonban csökken."
+    },
+    {
+      "id": 186,
+      "term": "Mit jelent a hallásadaptáció és miért történik?",
+      "definition": "A hallás gyorsan adaptálódó rendszer, amely elsősorban a szaglóközpont működési sajátossága. Ez azt jelenti, hogy az állandó hangingerre a válasz csökken az idővel.",
+      "quote": "Adaptáció: állandó inger után válasz csökken.",
+      "text": "Ez az adaptáció fontos az idegrendszer számára, hogy az újdonság és a veszély jeleit ne néhányan, hanem a szokatlan hangok felismerésében keressen. Így az agy szabadon marad az új információk feldolgozásához."
+    },
+    {
+      "id": 187,
+      "term": "Milyen szerepe van az emlékekhez a szaglásnak?",
+      "definition": "A szaglórendszer limbikus rendszerrel való közvetlen kapcsolata miatt a szagok régi emlékeket felidézhetnek. Az amigdala és hippocampusz szintén kap szaglórostokat, amely érzelmi és memória-asszociációkat lehetővé tesz.",
+      "quote": "Szag: emlékek felidézője, emóció.",
+      "text": "Ez a direkt kapcsolat a szaglórendszer és a limbikus rendszer között biztosít egy erős asszociációs mechanizmust az emlékek felidézésére. Ez az egyik legerősebb érzék-memória kapcsolat az emberben."
+    },
+    {
+      "id": 188,
+      "term": "Hogyan működik az ízlelés és szaglás együttes hatása?",
+      "definition": "Az ízlelés és szaglás tillsammans alkotja az összetett 'ízérzetet'. Az aroma és a szag mellett az ízlelőbimbók alapízei kombinálódnak az agyban, hogy komplex ízérzetet hozzanak létre.",
+      "quote": "Szaglás + ízlelés = teljes íz érzet.",
+      "text": "Ezt demonstrálja az a tény, hogy hidegben, amikor az orrunk elzáródik, a tápszer 'ízetlennek' tűnik, pedig az alapízeket még érzékeli. A szaglás a tej nagy része az 'íznek'."
+    },
+    {
+      "id": 189,
+      "term": "Milyen szerepe van a kémiai érzékelésnek az élettani folyamatok szabályozásában?",
+      "definition": "A kemoreceptorok érzékelik a testfolyadékok összetételét (CO2, Na+, O2), amely alapján az agy és az agytörzs szabályozási központjai állítják be a szervezet működését (légzés, folyadékbevitel, vérnyomás).",
+      "quote": "Kémia érzékelés szabályozza életmű.",
+      "text": "Ez az integratív rendszer biztosítja a homeosztázist azáltal, hogy a szervezet folyamatosan monitorozza az alapvető paramétereket és azok alapján reflexeket válthatnak ki."
+    },
+    {
+      "id": 190,
+      "term": "Milyen feltételeken aktívódnak az ízlelőbimbók?",
+      "definition": "Az ízlelőbimbók akkor aktiválódnak, ha a receptorsejtek a szájüregbe jutó kémiai anyagokkal érintkeznek. Az aktiváció bipoláris neuronok révén halad a talamuszba és az agykéregbe.",
+      "quote": "Kémiai kontakt: receptor aktiváció.",
+      "text": "Az ízlelőbimbók a fájdalomérző receptorokkal együttesen dolgoznak, mert a csípős ételek kapszaicinja nem alapíz, hanem fájdalominger. Ez az integrált érzékelés összetett ízérzetet hoz létre."
+    },
+    {
+      "id": 191,
+      "term": "Mi a szem járulékos szervei közé tartozik?",
+      "definition": "A szem járulékos szervei közé tartoznak a védőberendezések (szemöldök, szemhéj, kötőhártya, szempilla), a könnyrendszer, a szemmozgató izmok, valamint a szemideg és látópálya.",
+      "quote": "Védelmi és támogató szervrendszer",
+      "text": "A járulékos szervek funkciója a szemgolyó védelme, nedvesítése és mozgatása. A könnymirigyek folyamatosan termelnek könnyeket, amely immunoglobulinokat tartalmaz és baktériumölő hatása van."
+    },
+    {
+      "id": 192,
+      "term": "Mely szerkezeti elemek alkotják a szemgolyót?",
+      "definition": "A szemgolyó három rétegű hólyagszem: külső réteg (ínhártya és szaruhártya), középső réteg (érhártya, sugártest, írisz), és belső réteg (retina-ideghártya).",
+      "quote": "Három rétegű összetett szerkezet",
+      "text": "A külső réteg fehérjét képez, a szaruhártya átlátszó és fénytörő. A középső réteg érellátást biztosít és a szemlencse fénytörőképességét szabályozza. A retina ideghártya tartalmazza a fényérzékeny receptorokat."
+    },
+    {
+      "id": 193,
+      "term": "Mi a szaruhártya funkciója és jellegzetessége?",
+      "definition": "A szaruhártya az elülső 1/5-e az ínhártyának, átlátszó és óraüvegszerűen domborodik. Az egyik legfontosabb fénytörő felület, nagyon érzékeny a kiszáradásra.",
+      "quote": "Átlátszó, érzékeny, fénytörő",
+      "text": "A szaruhártya sok érző idegvégződéssel rendelkezik, de ereket nem tartalmaz. A könnymirigyek által termelt könnycseppek biztosítják nedvességét és tisztaságát."
+    },
+    {
+      "id": 194,
+      "term": "Melyek a pupilla funkciói és szabályozása?",
+      "definition": "A pupilla az írisz középrészén lévő kerek nyílás, amely szabályozza a szembe jutó fény mennyiségét. Szűkülésért a paraszimpatikus pupillaszűkítő simaizom, tágulásért a szimpatikus simaizom felelős.",
+      "quote": "Dinamikus fényt szabályozó membránapertura",
+      "text": "Erős fényre a pupilla beszűkül, félhomályban tágul. Az írisz pigmenttartalma a szem színét adja. A pupillareflex az egyik legfontosabb szemreflex."
+    },
+    {
+      "id": 195,
+      "term": "Mi a csapok és pálcikák közötti fő különbség?",
+      "definition": "Csapok: 7 millió, a sárgafoltban tömörülnek, 1 csap 1 idegsejthez kapcsolódik, nappali látásért és szín-érzékelésért felelősek. Pálcikák: 130 millió, periferiális elhelyezkedésűek, 5-8 pálcika kapcsolódik egy bipoláris sejthez, szürkületi látásért felelős.",
+      "quote": "Nap kontra éj receptorok",
+      "text": "A csapok kevésbé érzékenyek (100 foton ingerküszöb), de jól felbontottak. A pálcikák már egy foton Detection képesek. A 3 féle csap (L, M, S) különböző hullámhosszakon érzékeny."
+    },
+    {
+      "id": 196,
+      "term": "Mi a rodopszin és hogyan működik?",
+      "definition": "A rodopszin a pálcikák fényérzékeny vegyülete, amely opszin fehérjéből és cisz-retinalból áll. A foton abszorpciója transz-retinalá alakítja azt, amely leválik az opszinról és elindítja az elektromos jelátvitelt.",
+      "quote": "Fény → kémiai → elektromos jel",
+      "text": "Sötétben a guanilát-cikláz nagy mennyiségű cGMP-t termel, amely a Na+ és Ca2+ csatornákat nyitva tartja (sötétáram). Megvilágításkor a cGMP-t bontó enzim aktiválódik, csökken a cGMP szint, bezáródnak a csatornák (hiperpolarizáció)."
+    },
+    {
+      "id": 197,
+      "term": "Mi történik szürkületadaptációkor?",
+      "definition": "Szürkületadaptáció során a szemünk a gyenge fényre való alkalmazkodása etwa 15-20 perc alatt megy végbe. Ez azért szükséges, mert az erős fényben lebomló rodopszin újratermelődéséhez idő kell.",
+      "quote": "Rodopszin regenerálódási időszak",
+      "text": "Erős fényből sötétbe lépve hirtelen nem látunk semmit, mert a gyenge fényre érzékeny pálcikák rodopszinja lebomlik. A sötétben a rodopszin újratermelődik és az érzékenység fokozatosan nő."
+    },
+    {
+      "id": 198,
+      "term": "Mely rétegek alkotják a hátsó retinát?",
+      "definition": "A retina 10 rétegből áll. Legfontosabbak: pigmenthám réteg (fényelnyel), csapok és pálcikák rétege (receptorok), bipoláris sejtek, ganglion-dúcsejtek (axonijai a látóideget alkotják), Z-lemez.",
+      "quote": "Tíz rétegű neural feldolgozó",
+      "text": "A pigmenthám az elülső sugártest és írisz hátsó felszínét borítja, nem fényérzékeny. A ganglion sejtek axonjai a vakfolt területén hagyják el a szemet, ahol nincsenek receptorok."
+    },
+    {
+      "id": 199,
+      "term": "Mi a látópálya?",
+      "definition": "A látópálya az 1. neuron (csap vagy pálcika), 2. neuron (bipoláris sejt), 3. neuron (ganglion sejt), 4. neuron (talamusz), 5. neuron (primer látókéreg) sorozata.",
+      "quote": "Öt neuron feldolgozási lánc",
+      "text": "A ganglion sejtek axonjai a látóideget alkotják, amely a talamuszban kapcsol át. A látóideg-kereszteződés az orr felőli retinafélből származó rostokat keresztezi (félig kereszteződés)."
+    },
+    {
+      "id": 200,
+      "term": "Milyen látótérkiesések következnek a látópálya sérüléséből?",
+      "definition": "A látóideg és látópálya különböző helyein történő sérüléseiből különféle látótérkiesések adódnak. Az orr felőli retinafélből származó rostok kereszteződnek, a halánték felőli részéből nem.",
+      "quote": "Sérülés → speciális látóterekben",
+      "text": "A jobb látótér képe a bal féltekébe kerül és fordítva. A középagy oldalágakat küld a pupillareflex, akkomodáció és szemhéjzárási reflex központjaihoz."
+    },
+    {
+      "id": 201,
+      "term": "Mi az akkomodáció és milyen mechanizmus működik?",
+      "definition": "Az akkomodáció a szem közellátási képessége, amikor a sugártest izmai összehúzódnak, a lencsefüggesztő rostok ellazulnak, és a lencse domborabbá válik, fénytörése nő.",
+      "quote": "Közeli látásra való beállítás",
+      "text": "Az akkomodáció központjai a középagyban helyezkednek el. Paraszimpatikus reaktíó: a sugártest izmai összehúzódnak, lencsefüggesztő rostok ellazulnak, lencse domborodik, pupilla szűkül."
+    },
+    {
+      "id": 202,
+      "term": "Mi a dioptria és hogyan számítjuk?",
+      "definition": "A dioptria a lencse méterben kifejezett fókusztávolságának reciprok értéke (D = 1/f). Ez fejezi ki a lencse fénytörőképességét.",
+      "quote": "Fénytörőképesség mértékegysége",
+      "text": "Végtelenre nézéskor a szem lencserendszere körülbelül 41,7 dioptriás. Közelre nézéskor (25 cm) az 45,7 dioptriásra nő. Az eltérés (4 dioptria) mutatja a szükséges szemüveg erősségét."
+    },
+    {
+      "id": 203,
+      "term": "Melyek a fénytörés helyei a szemben?",
+      "definition": "Legnagyobb mértékben a levegő-szaruhártya határán törik meg a fény. További jelentős helyek: csarnokvíz-lencse elülső felszíne, lencse hátulsó felszíne-üvegtest határfelülete.",
+      "quote": "Szaruhártya legfontosabb",
+      "text": "A szaruhártya alakja nem változtatható, fénytörése állandó. A lencse alakja változtatható, ezáltal a fénytörése is. Az üvegtest a szem alakját tartja meg és átlátszó."
+    },
+    {
+      "id": 204,
+      "term": "Milyen fénytörési hibák vannak és miként korrigálhatók?",
+      "definition": "Távollátás (hypermetropia): éles kép csak távoli tárgyakról, korrekció gyűjtőlencsével. Rövidlátás (myopia): éles kép csak közeli tárgyakról, korrekció homorú (negatív) lencsével.",
+      "quote": "Fénytörési anomáliák",
+      "text": "Távollátásnál a kép az ideghártya mögött alakul ki, rövidlátásnál az ideghártya előtt. Oka lehet az alak vagy az erősség eltérése."
+    },
+    {
+      "id": 205,
+      "term": "Mi a zöldhályog és milyen mechanizmus működik?",
+      "definition": "A zöldhályog során a csarnokvíz termelődése és elfolyása közötti egyensúly felborul, a szemnyomás megemelkedik, ami vérellátási zavarokat okoz az ideghártyában és látóidegben.",
+      "quote": "Fokozódott szemnyomás által okozott",
+      "text": "A vérellátási zavar az ideghártya és látóideg idegsejtjeit elpusztítja. Visszafordíthatatlan látásromlás alakul ki, de időben felismert és kezelt betegség esetén a romlás megállítható."
+    },
+    {
+      "id": 206,
+      "term": "Mi a szürkehályog és miért alakul ki?",
+      "definition": "A szürkehályog a szemlencse maradandó elhomályosulása, jellemzően idősebb korban alakul ki. Az alfa-krisztallin nevű dajkafehérje aktivitása csökken, ami fehérje-rostok aggregációját okozza.",
+      "quote": "Lencseelhomályosodás öregedéskor",
+      "text": "A lencse keménysége nő, rugalmassága csökken. Az elhomályosodás azt eredményez, hogy a beeső fény egy része szétszóródik. Egyedüli eredményes gyógymódja az elszürkült lencse műtéti eltávolítása."
+    },
+    {
+      "id": 207,
+      "term": "Milyen монokularis távolságészlelési módok vannak?",
+      "definition": "Monokuláris módok: relatív nagyság, takarás, relatív magassági helyzet, perspektíva, mozgás sebessége, részletgazdagság. Ezek egy szem információja alapján működnek.",
+      "quote": "Egy szemmel is érzékelhetők",
+      "text": "A távolabb lévő objektumok kisebbek, alacsonyabban helyezkednek el, kevésbé részletgazdagok. A közelebbi objektumok gyorsabban mozognak a szemünk előtt."
+    },
+    {
+      "id": 208,
+      "term": "Mi a binokuláris eltérés és konvergencia?",
+      "definition": "Binokuláris eltérés: a két szem kissé eltérő nézőpontjából ugyanannak a tárgynak a retinaképe enyhén eltér. Minél közelebb a tárgy, annál nagyobb az eltérés. Konvergencia: a két szem látótengelyének szöge változik a tárgytávolság függvényében.",
+      "quote": "Két szem mélységérzékelése",
+      "text": "A binokuláris eltérésből az agy következtet a tárgytávolságra. Ez az alapja a mélységészlelésnek és a térlátásnak. A szög nagyságából a rendszerünk megállapítja a tárgytávolságot."
+    },
+    {
+      "id": 209,
+      "term": "Milyen kihatása van a szem fénytörésének a betegségekre?",
+      "definition": "A fénytörés hibái miatt a képpont nem esik a retinára, amit szemüveggel vagy kontaktlencsével kell korrigálni. Súlyosabb hibák műtéti korrekciót igényelhetnek.",
+      "quote": "Optikai korrekció szükséges",
+      "text": "Az elég nagy fénytörési hiba miatt még az akkomodáció sem tud megfelelő képet biztosítani. A korrekció típusa (gyűjtő vagy szóró lencse) az eltérés jellegétől függ."
+    },
+    {
+      "id": 210,
+      "term": "Mi a vakfolt és hogyan lehet demonstrálni?",
+      "definition": "A vakfolt az a retina terület, ahol a látóideg elhagyja a szemet. Ezen a területen nincsenek receptorok. Az agy ezt a hiányt a másik szem vagy a környezet alapján kompenzálja.",
+      "quote": "Látóideg kilépési hely",
+      "text": "Egyszerű kísérlettel demonstrálható: bal szemet letakarva, jobb szemünkkel egy pontra koncentrálva, az ábrát közelítve-távolítva lesz egy pont, amikor a kereszt képe eltűnik."
+    },
+    {
+      "id": 211,
+      "term": "Mi a színtévesztés és színvakság közötti különbség?",
+      "definition": "Színtévesztés: az egyik csap nem működik megfelelően, valamelyik színtartományban nem kellően érzékeny vagy az eltolódik. Színvakság: egy csapsejt típus hiányzik vagy nem működik egyáltalán.",
+      "quote": "Csap működési zavarok",
+      "text": "Leggyakoribb a zöld és vörös receptorok hibája. A vörös csap színtartománya tolódik a zöld felé. A teljes szín-vaksággá vezethet, ahol csak szürkében látnak."
+    },
+    {
+      "id": 212,
+      "term": "Miért fontos a szemészeti szűrővizsgálat?",
+      "definition": "A szűrővizsgálatok segítségével korai stádiumban felismerhető a zöldhályog, szürkehályog, fénytörési hibák és egyéb szemszöveti problémák, melyek a vaksághoz vezethetnek.",
+      "quote": "Megelőzés és korai kezelés",
+      "text": "Rendszeres vizsgálatok lehetővé teszik az időben történő beavatkozást. A zöldhályog asymptomatic kezdete miatt különösen fontos a szűrés."
+    },
+    {
+      "id": 213,
+      "term": "Mi a térlátás vagy mélységészlelés alapja?",
+      "definition": "A térlátás alapja a háromdimenziójú tárgyaknak a jobb és bal oldali képeinek eltérése (binokuláris eltérés). Az agy a két képet egyetlen, térhatású képpé egyesíti.",
+      "quote": "3D látás kettős képelőállítás",
+      "text": "Amely tárgy a két szem látóterének átfedési tartományában található, a retinán két különböző szögből különböző kép keletkezik, amit az agy egyesít."
+    },
+    {
+      "id": 214,
+      "term": "Milyen szerepe van az akkomodációs reflexnek?",
+      "definition": "Az akkomodációs reflex három összetevőből áll: lencsedomborulás, pupillaszűkülés és konvergencia (összetartás). Ezek koordinált módon működnek a közeli tárgy éles látásához.",
+      "quote": "Hármas reflex közellátáshoz",
+      "text": "A reflex központjai a középagyban helyezkednek el. A paraszimpatikus idegek aktiválódnak közeli tárgy nézésekor. A pupilla szűküléséhez hozzájárul az apertúra csökkentése, ami élesebbet mutat."
+    },
+    {
+      "id": 215,
+      "term": "Mi a primér és szekunder látókéreg funkciója?",
+      "definition": "A primér látókéreg a nyakszirtlebenyen helyezkedik el, itt alakul ki a fényérzet. A szekunder látóközpontok az észlelési folyamatokért felelősek: arcfelismerés, színek és alakok felismerése, olvasás.",
+      "quote": "Szétspecializált feldolgozási területek",
+      "text": "A primér látókéreg sérülésekor a beteg lát, de feldolgozási problémák léphetnek fel. A szekunder zentrum sérülésére agnozia jellemző (objektumok nem ismerése)."
+    },
+    {
+      "id": 216,
+      "term": "Mi a táplálék és tápanyag közötti különbség?",
+      "definition": "Táplálék: minden olyan anyag, amely étkezésre alkalmas, működteti az emberi szervezetet. Tápanyag: a táplálékban lévő hasznosítható anyagok (fehérjék, szénhidrátok, zsírok, vitaminok, ásványi anyagok, víz).",
+      "quote": "Táplálék > tápanyag",
+      "text": "A táplálék tartalmaz felesleges anyagokat (salakanyagok) is, amelyeket a szervezet nem használ fel. A tápanyagokat funkció szerint csoportosítjuk: testépítő (fehérje), energiaforrás (szénhidrát, zsír), koenzim (vitamin, ásványi anyag)."
+    },
+    {
+      "id": 217,
+      "term": "Mi az alapanyagcsere és hogyan mérik?",
+      "definition": "Az alapanyagcsere a szervezet fenntartásához szükséges minimális energia termelése (60-70% a napi szükségletből). Megmérésé: hőleadás vagy oxigénfogyasztás mérésével éber, nyugalmi állapotban, ruhátlanul, 12-24 óra éhezés után.",
+      "quote": "Fenntartó energiaszükséglet",
+      "text": "Az alapanyagcsere nőknél 6000 KJ, férfiaknál 7000 KJ körüli naponta. Korral (gyermekeknél magasabb), nemmel, hormonokkal és élettani állapottal változik. A terhesség és szoptatás növeli az értéket."
+    },
+    {
+      "id": 218,
+      "term": "Milyen az egyes tápanyagok fajlagos energiatartalma?",
+      "definition": "Fehérjék: 17 KJ/g. Szénhidrátok: 17 KJ/g. Zsírok: 38 KJ/g. A zsírok több mint kétszer annyi energiát tárolnak, mint azonos mennyiségű fehérje vagy szénhidrát.",
+      "quote": "Zsír > szénhidrát = fehérje",
+      "text": "A fajlagos energiatartalom a kémiai szerkezettől függ. A zsíroknak többszöri C-H kötések vannak, amelyek nagyon energiamentes. Az energiaszükségletekben ezt figyelembe kell venni."
+    },
+    {
+      "id": 219,
+      "term": "Mi a glikémiás index és miért fontos?",
+      "definition": "A glikémiás index 0-100-ig terjedő számérték, amely jellemzi egy élelmiszer vércukorszintre gyakorolt hatását. Az index nagyságát az élelmiszer szénhidrát-emészthetősége és a felszabadult egyszerű cukrok felszívódási sebessége határozza meg.",
+      "quote": "Vérelszínnövekedés üteme",
+      "text": "A magas indexű tápanyagok gyorsan emelik meg a vércukorszintet, ami nagy inzulin-kibocsátást indít. Ennek következtében 1-2 óra után hipoglikémia alakul ki, erős éhségérzetet okozva. Az alacsony indexű élelmiszerek (rostban gazdagak) előnyösebb."
+    },
+    {
+      "id": 220,
+      "term": "Mi az étvágy és az éhség közötti különbség?",
+      "definition": "Éhség: fiziológiás állapot, az alacsony vércukorszint és gyomor üressége szignálozza. Ezt az agy éhségközpontja (hipotalamusz) szabályozza. Étvágy: mentális éhség, külső tényezők által kiváltott (stressz, unalom, ételek szaglata, TV, beidegződések).",
+      "quote": "Fizikai vs pszichológiai",
+      "text": "A ghrelin-hormon az éhséget serkenti, a leptin a jóllakottságot. Az étvágy sokkal szubjektívebb, társadalmi és egyéni tényezőktől függ. Helyes megfigyelése és szabályozása fontos az egészséges testsúly-fenntartásban."
+    },
+    {
+      "id": 221,
+      "term": "Milyen szerepe van a ghrelinnek és leptinnek?",
+      "definition": "Ghrelin: a gyomor falában termelődik, az éhséget serkenti. Szintje étkezés előtt a legmagasabb, közvetlenül utána a legalacsonyabb. Szomatikus növekedés során alacsony. Leptin: a zsírszövet sejtjeiben termelődik, a jóllakottságot jelzi. Az alacsony leptinszint folyamatos éhségérzetet okozhat.",
+      "quote": "Ghrelin: éhség, leptin: jóllakaottság",
+      "text": "A ghrelin energiatakarékos üzemmódra váltja a szervezetet. A magas leptinszint mellett kialakuló elhízás (leptinrezisztencia) gyakori a modern társadalmakban. Az obesitas-kezelésben ezek a hormonok kutatás tárgya."
+    },
+    {
+      "id": 222,
+      "term": "Mi a BMI (testtömegindex) és hogyan számítjuk?",
+      "definition": "BMI = testsúly (kg) ÷ testmagasság (m)². Értékek: 20 alatti = soványság, 20-25 = normális, 25 felett = túlsúlyosság, 35 felett = kóros elhízás.",
+      "quote": "Súly ÷ magasság négyzete",
+      "text": "A BMI nem teljesen pontosan jelzi a testösszetételt. Sportolóknál magasabb lehet az izomtömeg miatt. Az életkor és nem is befolyásolja az értékelést. A BMI megvezetõ lehet nagy testmagasság esetén."
+    },
+    {
+      "id": 223,
+      "term": "Milyen az emésztés lépéseit és szervei?",
+      "definition": "Emésztés: a táplálék felbontása egyszerűbb anyagokra. Folyamata: 1. Szájüreg (rágás, nyálamiláz). 2. Gyomor (pepszin, sósav). 3. Vékonybél (hasnyálamiláz, lipáz, peptidázok). 4. Vastagbél (víz-visszaszívás, baktérium-lebontás).",
+      "quote": "Szem → szá → gyomor → bél",
+      "text": "Az emésztés mechanikai és kémiai folyamatok kombinációja. Az emésztőnedvek speciális enzimeket tartalmaz. Az emésztés kezdete már a szájban, az első nyál-amiláz hatására megy végbe."
+    },
+    {
+      "id": 224,
+      "term": "Milyen a fog szerkezete és funkciója?",
+      "definition": "A fog részei: koróna (az ínyen kívüli rész), gyök (az ínyen belüli rész), nyak (átmenet). Belső szerkezet: email (felső réteg), dentint, csont, fogbél (erz ideg). Funkcíó: rágás, táplálék-feldarabolás.",
+      "quote": "Fogzövettan és rágási munka",
+      "text": "Az emberi fogképlet: 8 metszőfog, 4 szemfog, 8 premoláris, 12 moláris (32 összesen). A tejfogazat 20 fogból áll. Az igényes szájápolás megelőzi a fogcaries-t és parodontitist."
+    },
+    {
+      "id": 225,
+      "term": "Milyen az emésztőenzimek és azok optimális kémhatása?",
+      "definition": "Nyálamiláz: szájban, semleges pH, keményítő felhasítása. Pepszin: gyomorban, savas pH (1,5-2), fehérje felhasítása. Hasnyálamiláz: vékonybélben, lúgos pH (8), keményítő felhasítása. Lipáz: vékonybélben, lúgos pH, zsír felhasítása.",
+      "quote": "Enzim-hely-pH összhangja",
+      "text": "Az enzimek csak az optimális pH-n működnek hatékonyan. A magam savi kicsit denaturálódik a gyomorban is. A pankreász számos enzim-koktél terméli a hasnyálmirigyet."
+    },
+    {
+      "id": 226,
+      "term": "Milyen a máj szerkezete és funkciói?",
+      "definition": "A máj a test legnagyobb szerve, több mint 300 funkciót lát el. Anatómiailag: jobb és bal lebenyre oszlik, körülötte a máj hályag (epetermelés). Funkciók: emésztőnedv-termelés, fehérjeszintézis, glükóz-homeosztázis, méregtelenítés.",
+      "quote": "Többfunkciós endokrin-exokrin szerv",
+      "text": "A máj a nagyobb része portális vérből (bélekből származó), valamint hepaticus artériából kapja a vért. A máj cirkumventusos keringésben részt vesz az összes felszívódott táplálékot. A glükóz szabályozása (glikogén-szintézis) kritikus funkciója."
+    },
+    {
+      "id": 227,
+      "term": "Mi az epének az emésztésben és funkciói?",
+      "definition": "Az epét a máj terméli és a máj hályag tároller. Az epét az patkóbélbe bocsátódik, ahol a zsírokat emulzióvá alakítja, ezáltal a lipáz hatékonyabbá válik. Az epe továbbá koleszterint, bilirubint és egyéb anyagokat tartalmaz.",
+      "quote": "Zsír-emulzionáció és kiürítés",
+      "text": "Az epe sárga-zöld folyadék, amely lúgos kémhatású. A máj napi 0,5-1 liter epét terméli. A máj hályag 50 ml epét tárol, szükség esetén kibocsátja."
+    },
+    {
+      "id": 228,
+      "term": "Milyen a vékonybél szerkezete és funkciói?",
+      "definition": "A vékonybél három részre oszlik: patkóbél (23 cm, pankreász-ductus és epevezeték bejutása), éhbél (2,5 m, középső), csípőbél (3,5 m). A felszívásban legnagyobb szerepe az éhbélnek. Felszínét bolyhok (villi) borítják, amelyek a felszívódást 100x-esen növelik.",
+      "quote": "23-250-350 cm három szakaszban",
+      "text": "A bélbolyhok mikro-villoszággal borítottak. A vékonybél-nyálkahártya az egyik legaktívabb felület az emberi testben. A felszívódott tápanyagok vért és nyirokkeringésbe jutnak."
+    },
+    {
+      "id": 229,
+      "term": "Milyen a felszívódás mechanizmusa a vékony bélben?",
+      "definition": "Felszívódás: a felhasított tápanyagok áttérnek az emésztőcsatorna nyálkahártyájáról a vérkeringésbe és nyirokeringésbe. Mechanizmusok: diffúzió (glükóz, aminosavak), aktív szállítás (Na+, glükóz), passzív szállítás (zsírok, vitaminok).",
+      "quote": "Passzív és aktív szállítás",
+      "text": "A monosaccharidok és aminosavak a vérkeringésbe jutnak. A zsírok a nyirokeringésbe (chylomicronok). Az aktív szállítás energiát igényel (ATP). Az ionok és vitaminok speciális szállítókkal működnek."
+    },
+    {
+      "id": 230,
+      "term": "Milyen a vastagbél szerkezete és funkciói?",
+      "definition": "A vastagbél: vakbél, felszálló, haránt, leszálló, szigmabél, végbél részekből áll. Funkciói: víz visszaszívása, elektrolitok visszaszívása, baktérium-lebontás, székletképzés.",
+      "quote": "Víz-visszaszívás és kiürítés",
+      "text": "A vastagbél 1,5 m hosszú, tágabb, mint a vékonybél. Az itt lakó baktériumok fermentálják az emesztetlen rostokat, B-vitaminokat és K-vitaminot termelnek. A széklet itt marad 12-48 óráig."
+    },
+    {
+      "id": 231,
+      "term": "Milyen a minőségi és mennyiségi éhezés?",
+      "definition": "Minőségi éhezés: elegendő mennyiségű táplálék, de nem megfelelő az egyes tápanyagok aránya (például hiányzik a D-vitamin, kalcium, vas). Mennyiségi éhezés: az elfogyasztott táplálék mennyisége és energiatartalma kevesebb, mint a szervezet szüksége.",
+      "quote": "Minőség vs mennyiség hiánya",
+      "text": "A minőségi éhezés long időn át hiánybetegségeket okozhat. A mennyiségi éhezés súlyos tápanyag-hiányt eredményez. Mindkettő veszélyes, de az első gyakran rejtett és nem felismert."
+    },
+    {
+      "id": 232,
+      "term": "Milyen a vitaminok osztályozása és funkciói?",
+      "definition": "Vízoldékony vitaminok: B1, B6, folsav, B12, C. Zsírban oldódó vitaminok: D, E, K, A. A vitaminok többsége koenzimek vagy koenzim-előanyagok. Hiányuk specifikus betegségeket okoz (pl. C-vitamin hiánya: skorbut).",
+      "quote": "Vízoldékony vs zsíroldékony",
+      "text": "A vízoldékony vitaminok feleslegét a szervezet kiüríti, de napi szükség van értékek. A zsíroldékony vitaminok felszívódásához zsír szükséges, és raktározhatók. A vitaminok túlzott bevitele (hipervitaminózis) szintén káros lehet."
+    },
+    {
+      "id": 233,
+      "term": "Milyen a C-vitamin, B12-vitamin és folsav funkciói?",
+      "definition": "C-vitamin: antioxidáns, kollagén-szintézis, foszfát-felszívódás. Hiánya: skorbut. B12-vitamin: vérképzés, idegrendszer. Hiánya: perniciosus anémia. Folsav: vérképzés, magzati fejlődés, DNS-szintézis. Hiánya: velejárulós malformáció (nyitott gerinccsatorna).",
+      "quote": "Koenzim és szintézis funkciók",
+      "text": "A B12-vitamin csak állati forrásokból szerzehető, vegák szupplementálás szüksége. A folsav terhesség alatt kritikus a velőcsatorna-záródáshoz. A C-vitamin (70 mg/nap) az immunrendszer erősítésében szerepet játszik."
+    },
+    {
+      "id": 234,
+      "term": "Milyen az ásványi anyagok fontosabb elemei?",
+      "definition": "Kalcium: csontok, fogak, kontrakcció. Vas: hemoglobin, vérképzés. Magnézium: enzim-koenzim, izom-funkcció. Nátrium és kálium: folyadék-elektrolit-egyensúly. Jód: pajzsmirigyhormón. Cink: immunműködés.",
+      "quote": "Hét esszenciális ásványi elem",
+      "text": "Az ásványi anyagok hiánya vagy túlsúlya egyaránt patológiához vezethet. A csepp-elemek (nyomfémeek: selen, réz, mangán) is lényegesek. A sós élelmiszerek túl sok nátriumot tartalmaznak."
+    },
+    {
+      "id": 235,
+      "term": "Milyen az étrendpiraminál szerkezetét és ajánlásai?",
+      "definition": "Az étrendpiramis alulról: 1. szint teljes kiőrlésű gabonafélék (nagy mennyiség). 2. szint zöldségek és gyümölcsök. 3. szint magas fehérjetartalmú termékek (tej, hús). 4. szint (csúcs) telített zsírok és finomított cukor (kevés).",
+      "quote": "Napi kiegyensúlyozott étrendműlés",
+      "text": "Az étrendpiramisz biztosítja az összes szükséges tápanyag felvételét. Megbízhatóan nem biztosít túl sok telített zsírt vagy egyszerű cukrot. Az ajánlás a költségvetésértékű, hozzáférhető táplálékokra alapul."
+    },
+    {
+      "id": 236,
+      "term": "Milyen a rostok szerepe az emésztésben és egészségben?",
+      "definition": "A rost az élelmiszer olyan része, amely az szervezet nem tud megemészteni. Rostban gazdag élelmiszerek: teljes kiőrlésű gabona, zöldség, gyümölcs. Funkciók: felszívódási sebesség csökkentése, perisztaltika fokozása, szénhidrát-felszívódás szabályozása.",
+      "quote": "Emészthetetlen szöveti rész",
+      "text": "A rostok vizet felszívnak, a végbél tartalma telt marad, könnyebb a széklet ürítése. Az élelmiszerrostok csökkentik a vér koleszterinszintjét, és megelőzik a vastagbél rákot. A napi 25-30 g rostbevitel javasolt."
+    },
+    {
+      "id": 237,
+      "term": "Milyen az alultápláltság és túltápláltság következményei?",
+      "definition": "Alultápláltság: hiánybetegségek (vitaminhiány, csontritkulás), ödéma (vérfehérje-szint csökkenés), fertőzésre való hajlam, izmok és szervezet gyengülése. Túltápláltság (elhízás): érelmeszesedés, magas vérnyomás, szívinfarktus, cukorbetegség, ízületi problémák.",
+      "quote": "Mindkettő szövődményekkel jár",
+      "text": "Az elhízás többnyire részben genetikai, részben környezeti okok miatt alakul ki. A mozgásszegény életmód és felesleges kalória-bevitel a fő kockázati tényezők. Az alultápláltság még veszélyesebb, különösen gyermekkorban."
+    },
+    {
+      "id": 238,
+      "term": "Milyen az élelmiszer- és ételtartósítás alapelvei?",
+      "definition": "Tartósítási módszerek: hűtés (4°C alatt), fagyasztás (-18°C alatt), szárítás (nedvesség eltávolítása), só- vagy cukorimpregnálás, pácolás (savanyítás), füstölés (antimikrobális anyagok), hőkezelés (konzervírozás).",
+      "quote": "Mikrob-megelőzési módszerek",
+      "text": "A hőkezelés a leghatékonyabb módszer, pasztörizáció 65°C, szterilizáció 121°C. A hűtés mikroba-szaporodást lassítja, de nem állítja meg. A kombinált módszerek (pl. füstölés és hűtés) hosszabb eltarthatóságot biztosítanak."
+    },
+    {
+      "id": 239,
+      "term": "Milyen az étrendi követelmények különböző populációkban?",
+      "definition": "Az étrendi követelmények az aktivitás, kor, nem és élettani állapot (terhesség, szoptatás) szerint változnak. Gyermekek magasabb anyagcsere-igénye van, serdülők gyors növekedésük miatt. Terhes és szoptató nők fokozottabb energia- és tápanyag-igénye.",
+      "quote": "Egyéni igény-kiszolgáltatás",
+      "text": "A napi energiaszükségletet: alapanyagcsere × aktivitás-faktor kalkulációval határozhatjuk meg. Sportolók fokozottabb fehérjebevitel szüksége, már szükséges energia-körül. Szervezeti szükségletek függnek az egyén fiziológiájától."
+    },
+    {
+      "id": 240,
+      "term": "Milyen a táplálkozási allergiák és a kezelésük?",
+      "definition": "Táplálkozási allergiák: a szervezet egy bizonyos élelmiszerre szergez immunválaszt. Gyakori allergének: mogyoró, hal, tojás, tej. Kezelés: az allergén-tartalmú ételek szigorú kerülése, gyógyszer (antihistamin), súlyos esetben epinefrin.",
+      "quote": "IgE mediált immunválasz",
+      "text": "Az allergia-tesztek (prick-teszt, RAST) segítik az allergén azonosítást. A szerzõdéskötésesítésben részletes étrend-dokumentáció és naplózás fontos. A gyermekek gyakran kinövik az allergiáikat az idő múlásával."
+    }
+  ]
+}

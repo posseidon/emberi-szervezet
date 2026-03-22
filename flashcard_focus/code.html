@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Flashcard Focus</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@700&amp;f[]=satoshi@400,500&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#5A7163",
+                        "background-light": "#F9F9F7",
+                        "background-dark": "#102217",
+                        "surface": "#FFFFFF",
+                        "text-main": "#2B302D",
+                        "muted": "#909893",
+                        "accent": "#D4A373",
+                        "border-light": "#E3E5E4"
+                    },
+                    fontFamily: {
+                        "display": ["'Cabinet Grotesk'", "sans-serif"],
+                        "body": ["'Satoshi'", "sans-serif"]
+                    },
+                    borderRadius: {"DEFAULT": "4px", "lg": "4px", "xl": "4px", "full": "4px"},
+                },
+            },
+        }
+    </script>
+<style>
+        .perspective-1000 {
+            perspective: 1000px;
+        }
+        .transform-style-3d {
+            transform-style: preserve-3d;
+        }
+        .backface-hidden {
+            backface-visibility: hidden;
+        }
+        .rotate-y-180 {
+            transform: rotateY(180deg);
+        }
+        
+        /* Spring-like transition for the flip */
+        .flip-transition {
+            transition: transform 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+
+        /* Checkbox hack for pure CSS interaction (Optional for demo, JS usually better but sticking to rules) */
+        #flip-toggle:checked ~ .card-container .card-inner {
+            transform: rotateY(180deg);
+        }
+    </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark text-text-main font-body min-h-screen flex flex-col antialiased selection:bg-primary/20 selection:text-primary">
+<!-- Header (Minimalist Back-to-Main) -->
+<header class="w-full px-8 py-6 flex justify-between items-center z-10">
+<a class="flex items-center gap-2 text-muted hover:text-text-main transition-colors duration-200 group" href="#">
+<span class="material-symbols-outlined text-[20px] group-hover:-translate-x-1 transition-transform">arrow_back</span>
+<span class="font-body font-medium text-[15px]">Exit Session</span>
+</a>
+<div class="flex items-center gap-4">
+<!-- Progress Track -->
+<div class="hidden sm:block w-32 h-[4px] bg-border-light rounded-full overflow-hidden">
+<div class="h-full bg-primary rounded-full w-[26%] transition-all duration-500"></div>
+</div>
+<span class="font-body font-medium text-muted text-[14px] tracking-wide">12 / 45</span>
+</div>
+</header>
+<!-- Main Content Area -->
+<main class="flex-grow flex flex-col items-center justify-center px-4 relative">
+<!-- Navigation Buttons (Keyboard implied, but visible for mouse users) -->
+<button aria-label="Previous card" class="absolute left-4 sm:left-12 top-1/2 -translate-y-1/2 text-muted hover:text-primary transition-colors p-4 rounded-full hover:bg-black/5">
+<span class="material-symbols-outlined text-3xl">chevron_left</span>
+</button>
+<button aria-label="Next card" class="absolute right-4 sm:right-12 top-1/2 -translate-y-1/2 text-muted hover:text-primary transition-colors p-4 rounded-full hover:bg-black/5">
+<span class="material-symbols-outlined text-3xl">chevron_right</span>
+</button>
+<!-- Flashcard Container -->
+<!-- Using a hidden checkbox to simulate the click-to-flip without JS -->
+<input class="hidden" id="flip-toggle" type="checkbox"/>
+<label class="cursor-pointer perspective-1000 w-full max-w-[600px] h-[400px] block group" for="flip-toggle">
+<div class="card-inner relative w-full h-full transform-style-3d flip-transition shadow-sm hover:shadow-md transition-shadow duration-300 rounded">
+<!-- Front of Card -->
+<div class="absolute w-full h-full backface-hidden bg-surface border border-border-light rounded flex flex-col items-center justify-center p-8">
+<span class="text-primary text-sm font-medium uppercase tracking-widest mb-4">Biology</span>
+<h2 class="font-display font-bold text-[32px] sm:text-[40px] text-text-main text-center leading-tight">
+                        Mitochondria
+                    </h2>
+</div>
+<!-- Back of Card -->
+<div class="absolute w-full h-full backface-hidden bg-surface border border-primary/20 rounded flex flex-col items-center justify-center p-12 rotate-y-180">
+<div class="max-w-[80%] text-center">
+<p class="font-body text-[18px] sm:text-[20px] leading-relaxed text-text-main">
+                            Organelles that act like a digestive system which takes in nutrients, breaks them down, and creates energy rich molecules for the cell. 
+                        </p>
+<p class="mt-4 font-body text-[15px] leading-relaxed text-muted italic">
+                            Mitochondria are found in most eukaryotic organisms.
+                        </p>
+<p class="mt-6 font-display font-bold text-primary text-[16px]">
+                            "The powerhouse of the cell."
+                        </p>
+</div>
+</div>
+</div>
+</label>
+<!-- Hint Text -->
+<div class="mt-12 flex items-center gap-3 text-muted">
+<span class="material-symbols-outlined text-[18px]">touch_app</span>
+<p class="font-body text-[13px] font-medium tracking-wide">Press Spacebar or Click to flip</p>
+</div>
+</main>
+</body></html>

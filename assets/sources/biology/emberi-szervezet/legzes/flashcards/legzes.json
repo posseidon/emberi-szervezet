@@ -1,0 +1,235 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Milyen főbb funkciót lát el a légzőrendszer?",
+      "definition": "A légzőrendszer elsősorban a külső gázcserét biztosítja: az oxigén felvételét és a szén-dioxid leadását. Emellett lehetővé teszi a hangképzést, hőleadást és részt vesz az immunitásban.",
+      "quote": "Levegő és gázcsere",
+      "text": "A lebontó anyagcsere során keletkező szén-dioxid felhalmozódása veszélyeztetné a szervezet homeosztázisát, mivel vízben oldódva szénsavvá alakul és a testfolyadékok kémhatását savas irányba tolná el. Ebben az értelemben a légzőrendszer kiválasztó feladatot is végez. A tüdő az anyagcsere-folyamatok során biztosít oxigént, míg a szükségtelen szén-dioxidot eltávolítja."
+    },
+    {
+      "id": 2,
+      "term": "Mi a légzési hányados (RQ)?",
+      "definition": "A légzési hányados a sejtlégzés során időegység alatt keletkező CO2-gáz és az elfogyasztott O2-gáz térfogatának hányadosa. RQ = CO2/O2",
+      "quote": "Anyagcsere típus-mutatója",
+      "text": "Szénhidrátok légzési hányadosa 1 (C6H12O6 + 6O2 = 6CO2 + 6H2O). A zsírok légzési hányadosa 0,7 körül van, mivel több oxigén használódik fel (oxidációs spirál során víz lép a reakcióba). A légzési hányados mérhető, értékéből következtetni lehet a sejtekben zajló anyagcsere-folyamatok típusára. Palmitinsav: C16H32O2 + 23O2 → 16CO2 + 16H2O, RQ = 0,7."
+    },
+    {
+      "id": 3,
+      "term": "Mi az orrüreg funkciója a légzésben?",
+      "definition": "Az orrüreg az áthaladó levegőt felmelegíti, párásítja, pormentesíti, és hangrezonátorként működik.",
+      "quote": "Légút előkészítés",
+      "text": "Az orrüreg nyálkahártyáját csillós hengerhám borítja, sok nyálkatermelő miriggyel. A csillók csapkodása a nyálkába beletapadt port a garat felé hajtja. Az orr üregrendszere igen bonyolult járatrendszer, részben a külső orrban, részben a koponya üregrendszerében található. Az orrüregben 3 pár csontos orrkagyló növeli a belső felületet és kialakítja a megfelelő légáramlatokat. A felső részén az idegi eredetű, kemoreceptorokban gazdag szaglóhám található."
+    },
+    {
+      "id": 4,
+      "term": "Milyen szerv a gége és milyen szerepe van?",
+      "definition": "A gége porcsontokból, kötőszövetes lemezekből, izmokból álló, nyálkahártyával bélelt üreges szerv. Legfontosabb szerepe a hangképzés.",
+      "quote": "Hanggenerálás szerv",
+      "text": "A gége porcsontjei: pajzsporc (legnagyobb, elöl helyezkedik el), gyűrűporc (pecsétgyűrűhöz hasonló), kannaporcok (háromoldalú, piramis alakú), gégefedőporc (rugalmas, levélszerű). A hangszalagok a kannaporcok és a pajzsporc között feszülnek ki. Normális légzés alatt a hangrés nyitott, háromszög alakú. A hangrés szűkülése és a kiáramló levegő által megrezetett hangszalagok rezgése hangot hoz létre."
+    },
+    {
+      "id": 5,
+      "term": "Mitől függ a hang magassága?",
+      "definition": "A hang magassága a hangszalagok vastagságától, hosszától, feszességétől és a hangrés alakjától függ. A szűkebb hangrés és a kifeszült, rövidebb hangszalagok magas hangot eredményeznek.",
+      "quote": "Szalagok rezgésfrekvenciája",
+      "text": "A hangmagasság érzetét a rezgésszám/frekvencia határozza meg. Amikor a felnőtt férfi pubertásba kerül, a pajzsporc lemezei hegyesszöget zárnak be, a hangszalagok hosszabbak és mélyebb hang házodnak. A nőknél és gyerekeknél a pajzsporc által bezárt szög tompább. A mély hangú férfiak pajzsporcának csúcsi része erősen előre ugró - ez az ádámcsutka."
+    },
+    {
+      "id": 6,
+      "term": "Hogyan keletkezik a hangszín?",
+      "definition": "Az egyes emberek hangszíne eltérő, mert a gégében keletkezett alaphangok egyénenként különböző felületekről és rezonátorüregekből visszaverődve különböző erősségű felhangokkal dúsulnak.",
+      "quote": "Egyedi hangjellegzet",
+      "text": "A felhangok (részhangok) egy zenei hanggal egy időben megszólaló, de külön nem hallható hangok sora. A hangzó test anyaga, alakja és mérete mellett a részhangok mennyisége és ereje határozza meg a hangszínt. Azonos magasságú hangok szólnak másképpen a különböző hangszereken és énekhangokon, mivel a rezonátorüregek eltérő. A garat, a nyelv, az ajkak, a fogak, a szájüreg és az orrüreg mind részt vesznek az egyes magán- és mássalhangzók képzésében."
+    },
+    {
+      "id": 7,
+      "term": "Mi a légcső szerkezete és feladata?",
+      "definition": "A légcső C alakú porcsontokból (20) felépülő, nyálkahártyával bélelt cső. Mögötte szorosan a nyelvőcső helyezkedik el.",
+      "quote": "Szilárd légút",
+      "text": "A légcső nyálkahártyáját csillós hengerhám borítja, sok nyálkatermelő kehelysejttel. A csillók csapkodása a nyálkarétegbe tapadt port a garat felé áramoltatja. A légcső C alakú porcai rugalmasságot biztosítanak, miközben a nyílott oldal lehetővé teszi az építő merevségét. A légcső két főhörgőre oszlik, melyeket porcgyűrűk merevítenek, de egyébként azonos felépítésűek a légcsővel."
+    },
+    {
+      "id": 8,
+      "term": "Hogyan tágul és zsugorodik a tüdő?",
+      "definition": "A tüdőnek nincs saját izomzata, passzívan követi a mellkas mozgásait. A mellkas térfogatváltozása a rekeszizom és a bordaközi izmok működésén alapul.",
+      "quote": "Passzív mozgás",
+      "text": "Nyugodt belégzéskor a külső bordaközi izmok felemelik a mellkast, a rekeszizom ellaposodik. A mellüreg térfogata megnő, a tüdő kitágul, a nyomása csökken, így a levegő kívülről a tüdőbe áramlik. Nyugodt kilégzéskor a mellkas visszatér alaphelyzetébe, a rekeszizom összehúzódása elernyedéshez vezet. A mellkas súlya rásüllyed a tüdőre, összenyomja azt, a nyomás növekszik, a levegő kiáramlik. Erőltetett kilégzéskor a belső bordaközi izmok és hasizmok segítenek."
+    },
+    {
+      "id": 9,
+      "term": "Mi a mellhártya szerepe?",
+      "definition": "A mellhártya savós hártya, amely zsákszerűen veszi körül a tüdőfeleket. Két lemezt tartalmaz: külső és belső, közöttük súrlódást csökkentő savós folyadék van.",
+      "quote": "Tüdő-mellkas összeillesztés",
+      "text": "A mellhártyának két lemeze van: a külső lemez a mellkas belső felszínére tapad, a belső lemez a tüdő külső felszínére tapad. A közöttük lévő nyomás mindig kisebb, mint a tüdőben a levegő nyomása, így a tüdő kifeszül a mellkas falára. A tüdő belül saját térfogatánál nagyobb teret tölt ki a mellkasban, a mellhártyák által kitágítva. Az így kialakult nyomáskülönbség biztosítja a tüdő merev rögzítettségét a mellkasfalra."
+    },
+    {
+      "id": 10,
+      "term": "Mi a vitálkapacitás?",
+      "definition": "A vitálkapacitás az egy légvétellel maximálisan beszívható, majd erőteljesen kifújható levegő térfogata. Normális értéke kb. 4,5 liter, sportolóknál és fúvós hangszeresek körében elérheti a 6-7 litert.",
+      "quote": "Maximum légcsere",
+      "text": "A vitálkapacitás=belégzési térfogat (0,5l) + belégzési tartalék (2,5l) + kilégzési tartalék (1,5l). A maradék levegő (kb. 1l) nem túható ki. A vita kapacitást spirométerrel mérik. A vitálkapacitás értékét befolyásolja a kor, a nem (nőknél kisebb), a fizikai edzettség. A fizikai terhelés hosszú távon a tüdő levegőbefogadó képességének növekedésével jár, ezáltal a vitálkapacitás növekszik."
+    },
+    {
+      "id": 11,
+      "term": "Mi a légzési perctérfogat?",
+      "definition": "A légzési perctérfogat a légvételenként kicserélt levegő térfogatát szorozva a percenkénti légvételek számával. Nyugodt légzéskor kb. 8 liter/perc.",
+      "quote": "Levegő-utánpótlás",
+      "text": "Nyugodt légzéskor a légzési térfogat 0,5 liter, és percenként átlagosan 16-szor veszünk levegőt, így a perctérfogat 8 l/perc. Fizikai vagy pszichés terhelés hatására a perctérfogat jelentősen fokozódhat, ami egyrészt a megnövekedett légzésszámnak, másrészt a megnövekedett légzési térfogat növekedésének köszönhető. Az edzett szervezet nagyobb mélységgel lélegzik, míg az edzetlen inkább a légzésszám fokozásával biztosítja az oxigénigényt."
+    },
+    {
+      "id": 12,
+      "term": "Mi a V(O2)max?",
+      "definition": "A V(O2)max a test által maximálisan felvehető és szállítható oxigén mennyisége. Megadja, hogy a test 1 kilogramja hány milliliter oxigént szállít és vesz fel percenként.",
+      "quote": "Oxigén-felvevő képesség",
+      "text": "A V(O2)max értéke kor-, nem- és edzettségfüggő. Az életkor előrehaladtával a légzőrendszer rugalmasságának elvesztése, a mellkasfal merevségének növekedése, a légzőizmok erejének csökkenése, a légzőfelület és a tüdőt ellátó kapillárisok csökkenése korlátozza a V(O2)max-ot. Fiatalabb korban az értékek kevésbé függnek a nemtől és edzettségi állapottól. A sportoló percenkénti légzésszáma kevesebb, mint egy nem sportolóé, miközben légzési perctérfogatuk közel azonos."
+    },
+    {
+      "id": 13,
+      "term": "Mely szervek és receptorok szabályozzák a légzést?",
+      "definition": "A légzés szabályozása automatikus reflexes működés, amelynek idegi központjai az agytörzs területén találhatók: nyúltvelő és a híd. Kémiai és mechanikai receptorok támogatják a szabályozást.",
+      "quote": "Légzés-irányítás",
+      "text": "Az agytörzs nyúltvelőjében megkülönböztetünk belégző- és kilégzőközpontot. A belégzőközpont a nyugodt légzés alapritmusát generálja automatikusan. A központi neuronok a nyúltvelőből az idegrostjaikat leküldik a gerincvelőbe a légzőizmok mozgató idegsejtjeihez. A légzés szabályozásában kémiai (vér és idegszövet CO2- és O2-tartalma) és mechanikai ingerek játszanak szerepet. A kemoreceptorok a szívhez közeli erek falában helyezkednek el, a mechanikai receptorok a tüdő falában találhatók."
+    },
+    {
+      "id": 14,
+      "term": "Mi a szerepe a szén-dioxid-koncentrációnak a légzés szabályozásában?",
+      "definition": "A vér szén-dioxid-koncentrációja a legfontosabb inger a belégzésben. A CO2-tartalom emelkedése az idegszövetben H+-koncentráció-növekedéshez vezet, amely serkenti a belégzőközpontot.",
+      "quote": "CO2-érzékelés",
+      "text": "A belégzésben a vér széndioxid-koncentrációja és ami ezzel arányos az idegszövet H+-koncentrációja a legfontosabb inger. A nyugodt kilégzésben a tüdő falában található feszülésérzékeny mechanikai receptorok játszanak szerepet. A tüdő kitágulásakor, belégzés végén, ezek a receptorok gátolják a belégzőközpont aktivitását, megszakítva a belégzőmozgásokat (Hering-Breuer-reflex). Így a légzés szabályozása kiszámítható ritmusban zajlik."
+    },
+    {
+      "id": 15,
+      "term": "Mi a Hering-Breuer-reflex?",
+      "definition": "A Hering-Breuer-reflex a tüdő mechanikai receptorain alapul. A tüdő kitágulásakor ezek a receptorok gátolják a belégzőközpont aktivitását, leállítják a belégzést.",
+      "quote": "Kitágu-gátló reflex",
+      "text": "A belégzés végén a tüdőben a feszültség-szenzitív mechanikai receptorok gátolják a belégzőközpont működését, megszakítva a belégzőmozgásokat és utat adva a passzív kilégzésnek. Ez a reflex biztosítja a nyugodt légzés megfelelő ritmusát, megakadályozza a tüdő túltágulását. A tüdő falában található feszülésérzékeny receptorok lépnek működésbe, amikor a légzőfelszín kitágul."
+    },
+    {
+      "id": 16,
+      "term": "Hogyan befolyásolják a magasabb agyi központok a légzést?",
+      "definition": "A nyúltvelői légzőközpont aktivitását módosíthatják: gerincvelői hatások, híd központjai, hipotalamusz és limbikus rendszer, nagyagykéreg.",
+      "quote": "Sok-szintű kontrol",
+      "text": "A hidat központjai összerendezik és ritmiká teszik a légzőmozgásokat, serkentik vagy gátolják a nyúltvelői központokat. A hipotalamusz és limbikus rendszer közvetítik a belső környezeti és érzelmi (emocionális) hatásokat (pl. sóhaj). A nagyagykéreg bizonyos határok között akaratlagos légzésszabályozást tesz lehetővé, vagy a beszéd és éneklés kivitelezésében játszik szerepet. Ez a sok-szintű szabályozás biztosítja az automatikus működés és az akaratlagos kontrol egyensúlyát."
+    },
+    {
+      "id": 17,
+      "term": "Mi az átlagos oxigénszükséglet pihenő felnőtt emberben?",
+      "definition": "A pihenő felnőtt ember oxigénszükséglete percenként 250 ml. Fokozott izommunka esetén ez elérheti a 20-szorosát is.",
+      "quote": "Súlyos oxigén-függőség",
+      "text": "Az ember az életveszély kockázata nélkül éhezhet 1-2 hétig, szomjazhat 1-2 napig, azonban 10 mp-en belül elveszti az eszméletét, ha a központi idegrendszer oxigénellátása megszűnik. 4-5 perc után helyrehozhatatlan károsodásokat szenved. Az oxigén szállítása a vérkeringési rendszer egyik kritikus funkciója. A CO2 folyamatos eltávolítása ugyanilyen fontos, felhalmozódása szén-dioxid-mérgezéshez vezet."
+    },
+    {
+      "id": 18,
+      "term": "Milyen betegségek érintik a légzőrendszert?",
+      "definition": "A légzőrendszet betegségei közé tartoznak: fertőzéses betegségek (nátha, torokgyulladás, asztma), daganatos betegségek (tüdőrák), krónikus betegségek (COPD).",
+      "quote": "Légúti betegségek",
+      "text": "A leggyakoribb enyhe betegség az orrnyálkahártya-gyulladás (szénanátha, közönséges nátha). A garatgyulladás (torokgyulladás) bakteriális vagy virális eredetű. A középfülgyulladás rendszerint a felső légutak gyulladásos folyamataival hozható kapcsolatba. A hörghurut a hörgők fokozott váladéktermelésével járó gyulladásos megbetegedése. Az asztma az alsó légutak krónikus gyulladásos betegsége, amit rohamokban jelentkező nehézlégzés kísér. A tuberkulózis és a tüdőgyulladás súlyosabb fertőzéseket jelenti."
+    },
+    {
+      "id": 19,
+      "term": "Mi az asztma és mi okozza?",
+      "definition": "Az asztma az alsó légutak krónikus gyulladásos betegsége, amit rohamokban jelentkező nehézlégzés kísér. A hörgőfal simaizmai összehúzódnak, a hörgők beszűkülnek, sűrű váladék zárja el az utat.",
+      "quote": "Hörgő-szűkület",
+      "text": "Asztmás roham alatt a hörgőfal simaizmai összehúzódnak, a hörgők keresztmetszete beszűkül, sűrű, tapadós váladék zárja el a levegő útját, köhögést, sípoló kilégzést vagy mellkasi szorító érzést, légszomjat eredményez. A tüneteket leggyakrabban allergia okozza, de kiválthatja légúti vírusfertőzés, levegőszennyezés, fizikai terhelés és pszichés tényezők egyaránt. A kezelés az alapok elkerülésén és gyógyszerezésen alapul."
+    },
+    {
+      "id": 20,
+      "term": "Mi az tuberkulózis és hogyan terjed?",
+      "definition": "A tuberkulózis okozója a Koch-féle baktérium. A kór cseppfertőzés útján terjed. Az ásatikus betegség elsődlegesen a tüdőt támadja meg.",
+      "quote": "Gümőkór",
+      "text": "A betegség okozható a baktériumok a vérárammal szétszóródása az eseteben a központi idegrendszert, nyirokrendszert, keringési rendszert, ivarszerveket, húgyutakat, csontokat, ízületeket és még a bőr felületét is megtámadhatja. A tbc-s beteg tüdejében rögök, gümők keletkeznek (latin: tuberculum=gümő, innen ered a betegség neve). Tünetei: mellkasi/hátfájás, vér felköhögése, nem szűnő köhögési rohamok, láz, testsúlycsökkenés, gyakori fáradtság. A BCG-oltás Magyarországon kötelező, kezelése antibiotikummal történik."
+    },
+    {
+      "id": 21,
+      "term": "Mi a tüdőgyulladás?",
+      "definition": "A tüdőgyulladás elsősorban a léghólyagokat és a környező szöveteket érinti. Sok fajtája van, amelyeket különböző mikroorganizmusok, vírusok, baktériumok, gombák okoznak.",
+      "quote": "Léghólyag gyulladása",
+      "text": "A tüdőgyulladást elsődlegesen a belégzéssel bejutott kórokozók váltják ki, amelyek az ép tüdő felületén megtapadnak. A másodlagos tüdőgyulladás az influenza egyik leggyakoribb szövődménye - az influenza miatt a légúti hám sérülései teszik könnyebbé a gyulladást okozó baktériumok behatolását. Ritkábban maró gáz, füst vagy por okozhat tüdőgyulladást. Leggyakoribb tünetei: köpettel járó köhögés, mellkasi fájdalom, láz, nehézlégzés. A diagnózist mellkasröntgen erősíti meg."
+    },
+    {
+      "id": 22,
+      "term": "Milyen károsodásokat okoz a dohányzás?",
+      "definition": "A dohányzás Magyarországon a második legveszélyesebb legális droghasználat. A dohányban 50 vegyületről ismert, hogy rákkeltő hatású. A nikotin élénkítő hatású, de nagyobb mennyiségben halálos méreg.",
+      "quote": "28 ezer halál évente",
+      "text": "A nikotin az idegsejtek nikotinikus acetilkolin-receptoraihoz kötődik, fokozza a szívműködést, emeli a vérnyomást. A nikotin függőség kialakulásáért felelős, mivel a központi idegrendszerben dopamin felszabadulását váltja ki. A dohányzás a tüdő-, gége-, szájüreg-, nyelvőcső- és húgyhólyagrák egyik fő rizikófaktora (tüdőrákos megbetegedések 80%-áért felelős). A szén-monoxid megakadályozza a vörösvértestek oxigénszállítását, a dohányfüst a légutak nyálkahártyáját fokozott nyálkatermelésre serkenti, krónikus hörghurutot okoz."
+    },
+    {
+      "id": 23,
+      "term": "Mi a COPD és hogyan alakul ki dohányzás által?",
+      "definition": "A COPD (krónikus obstruktív tüdőbetegség) dohányzás következtében alakul ki. A léghólyagocskák közötti válaszfalak felszívódnak, a légzőfelület jelentősen csökken.",
+      "quote": "Tüdő-tágulattal",
+      "text": "A dohányzás következtében a léghólyagocskák közötti válaszfalak felszívódnak, tüdőtágulatot (COPD) eredményezve. Ez a folyamat miatt a légzőfelület jelentősen csökken. Csökken a tüdőben a felületaktív váladék termelődése is, ami a léghólyagocskákat borító folyadékfilm felületi feszültségének növekedését és a légzőfelszínek összetapadását eredményezi. A krónikus obstruktív tüdőbetegség rendszerint fokozatosan romló légzési funkcióhoz vezethet."
+    },
+    {
+      "id": 24,
+      "term": "Hogyan hatnak a dohánytermékek a szöveti szintekre?",
+      "definition": "A dohányfüst a légutak nyálkahártyáját fokozott nyálkatermelésre serkenti, gátolja a légutak csillóinak működését, így a szennyeződések eltávolításának hatékonysága csökken.",
+      "quote": "Cillia-gátlás",
+      "text": "A dohányfüst komponensei gátolják a légutak csillóinak működését, ezért a szennyeződések eltávolításának hatékonysága jelentősen csökken. A csönök nyálkalapok fokozott termelése köhögésre ingerel, krónikus hörghurutot okoz. A szén-monoxid mivel jóval erősebben kötődik a hemoglobinhoz, mint az oxigén, megakadályozza a vörösvértestek oxigénszállítását. Csökken a tüdőben a felületaktív váladék termelődése, ami a légzőfelszínek összetapadásához vezet."
+    },
+    {
+      "id": 25,
+      "term": "Mi a tüdőrák és milyen faktor okozza?",
+      "definition": "A tüdőrák a hörgőkben vagy a tüdő szövetében kialakuló rosszindulatú daganat. Kialakulását eredményezhetik a dohányzáshoz köthető kátrányszármazékok, légszennyezés, azbeszt, vegyi- és radioaktív anyagok.",
+      "quote": "Rosszindulatú daganat",
+      "text": "A tüdőrákos megbetegedések 80%-áért a dohányzás felelős. A dohányban található kátrányszármazékok mutagén hatása a rákkeletkezéshez vezet. További rizikófaktorok közé tartozik a légszennyezés, az azbeszt, vegyi anyagok (pl. radón), valamint a radioaktív sugárzás. A korai felismerés kritikus fontosságú a kezelés sikeressége szempontjából."
+    },
+    {
+      "id": 26,
+      "term": "Mi az légúti elzáródás és mi az első lépés?",
+      "definition": "A légutakba került idegen test (pl. étel, folyadék) légúti elzáródást okozhat, ami az oxigén-utánpótlás megszűnése miatt életveszélyes állapothoz vezethet.",
+      "quote": "Légút-akadály",
+      "text": "Az elsősegélynyújtás első lépése a mentők kiérkezésűg minél hamarabb az elsősegélynyújtás megkezdése. Próbáljuk eltávolítani az idegen testet, köhögtessük a sérültet, ütögessük a lapockák közötti területet, vagy gyakoroljunk hirtelen nyomást a bordák alatti hasi részre. Ha a sérült eszméletlen, fektessük stabil oldalfekvésbe. Ez az eljárás javíthatja az oxigén-ellátást és lehetővé teszi a légút felszabadítását."
+    },
+    {
+      "id": 27,
+      "term": "Mi az gázmérgezés?",
+      "definition": "A gázmérgezés akkor jelentkezik, ha egészséget károsító vagy életveszélyt okozó gázok (szén-monoxid, szén-dioxid, nitrogén-oxidok, klórgáz) kerülnek a szervezetbe.",
+      "quote": "Toxikus gázok",
+      "text": "Ezek egy része tüdővizenyőt okoz, amely nehezíti az oxigén vérbe történő bejutását. Mások a hemoglobinhoz erősen kötődve megakadályozzák az oxigénszállítást. A szén-monoxid a hemoglobinhoz jóval erősebben kötődik, mint az oxigén, így megelőzi az oxigén szállítást. A segítségnyújtás első és legfontosabb lépése a mérgezés okának a megszüntetése és a sérült szabad levegőn történő elhelyezése az új oxigénellátás biztosítása érdekében."
+    },
+    {
+      "id": 28,
+      "term": "Mi a légmell (pneumotórax)?",
+      "definition": "Amikor a mellhártya két lemeze közé levegő kerül, a tüdőben található rugalmas rostoknak köszönhetően a tüdő kis gombóccá ugrik össze, s így képtelen követni a mellkas mozgását.",
+      "quote": "Tüdő-összeomlás",
+      "text": "A légmell súlyos egészségügyi állapot, amely keringési és légzési problémákat okozhat. A mellhártya két lemeze között a nyomás végig kisebb, mint a tüdőben a levegő nyomása. Amennyiben levegő kerül a mellhártyák közötti térbe, a nyomáskülönbség megváltozik, és a tüdő kis gombóccá összeugrik. A tüdő ekkor már nem képes követni a mellkas mozgásait. Ez az állapot azonnal orvosi beavatkozást igényel."
+    },
+    {
+      "id": 29,
+      "term": "Mi a keszonbetegség?",
+      "definition": "A keszonbetegség (dekompressziós betegség) olyan, akár halálos kimenetelű tünetegyüttes, ami akkor alakul ki, ha egy nagyobb nyomású térből hirtelen alacsonyabb nyomású térbe kerülünk.",
+      "quote": "Nyomás-csökkenés betegség",
+      "text": "A keszonbetegség különösen búvárokat és a magasnyomású környezetben dolgozókat (pl. mélyépítők) fenyegeti. Nagy nyomású környezetben a vérgázok oldékonysága megnő a vérplazmában. Hirtelen alacsonyabb nyomású térbe kerülés miatt a gázok oldékonyságának csökkenése miatt buborékok (elsősorban nitrogéngáz) keletkeznek a vérben és a szövetekben, melyek elzárhatnak kisebb ereket. A tünetek függnek attól, hogy milyen szerveket érinti az érelzáródás (rossz közérzet, fáradtság, ízületi fájdalom, izomgyengeség, bénulás, látászavarok, súlyosabb esetben halál)."
+    },
+    {
+      "id": 30,
+      "term": "Mi a parciális nyomás és miért fontos?",
+      "definition": "A parciális nyomásérték az a részleges nyomásmennyiség, ami a gázkeverék összes nyomásából az illető komponensre jut. Meghatározza a gázok diffúzióját.",
+      "quote": "Gáz-komponens nyomása",
+      "text": "A levegő össznyomása 101 kPa, ebből 21 kPa jut az oxigénre, kb. 0,04 kPa jut a szén-dioxidra. Az egyes légzési gázok diffúziójának irányát a koncentrációkülönbségek, az ezzel arányos parciális nyomáskülönbségek határozzák meg. A tüdőben a levegő összetétele különbözik a külső levegő összetételétől: kevesebb oxigént és több szén-dioxidot tartalmaz a gázcsere miatt."
+    },
+    {
+      "id": 31,
+      "term": "Mi az ideális gázok állapotegyenlete?",
+      "definition": "Az ideális gázok állapotegyenlete: p·V = n·R·T, ahol R az egyetemes gázállandó (8,31 J/mol·K), T a hőmérséklet Kelvinben, n az anyagmennyiség.",
+      "quote": "Gáz-állapot formula",
+      "text": "Eszerint adott hőmérsékleten, adott mennyiségű gáz nyomásának és térfogatának a szorzata állandó. Másképpen, ha a gáz térfogata nő, nyomása csökken (fordított viszony). Az ideális gázokban a gázmolekulák pontszerűek, kiterjedés nélküliek, egymással és az edény falával való ütközésük teljesen rugalmas, nem vonzzák és nem taszítják egymást."
+    },
+    {
+      "id": 32,
+      "term": "Mi a Donders-modell és mit mutat?",
+      "definition": "A Donders-modell a légcserét szemlélteti. Egy harang alakú üveghengert (mellkas) modellezi, amely alulról gumimembrán (rekeszizom), felülről kétfuratú gumidugó zár le.",
+      "quote": "Légcsere-szimulációs modell",
+      "text": "Az egyik furatban egy elzárható üvegcső (mellhártya-levegő tér), a másikban egy olyan üvegcső (légcső) található, amelyre rugalmas léggömb (tüdő) csatlakozik. A rekeszt modellező gumimembránt lehúzva a harang és tüdő közötti térben negatív nyomás jön létre, a léggömb kitágul és levegő áramlik a belsejébe (belégzés). Elengedve az gumilapot, az visszatérve eredeti helyzetébe, fokozza a nyomást, a léggömb összenyomódik és a levegő kiáramlik (kilégzés)."
+    },
+    {
+      "id": 33,
+      "term": "Hogyan működik az hemoglobin és a mioglobin szaturációja?",
+      "definition": "Az hemoglobin a tüdőben telítődik oxigénnel (közel 100%-os szaturáció), a szövetekben alacsonyabb parciális nyomáson pedig leadja azt. A szaturáció pH-függő.",
+      "quote": "Oxigén-szállítás",
+      "text": "Az oxigénszaturáció a hemoglobin oxigénnel való telítettségének százalékban kifejezett mértéke. Az hemoglobin fontos tulajdonsága, hogy oxigéntelítettsége pH-függő. Ahogy csökken a vér pH-ja, úgy csökken az oxigénkötődés erőssége, ezért alacsonyabb pH-n a hemoglobinmolekulák könnyebben leadják az oxigént. Ez biztosítja, hogy a működő szövetekben - ahol a szén-dioxid oldódva növeli a H+-koncentrációját - a hemoglobin könnyebben adja le az oxigént."
+    }
+  ]
+}

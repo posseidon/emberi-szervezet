@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Cellular Respiration - Sage Academy</title>
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;700;800&amp;family=Inter:wght@400;500&amp;family=Space+Grotesk:wght@500;700&amp;display=swap" rel="stylesheet"/>
+<!-- Material Symbols -->
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "primary-fixed": "#6bff8a",
+              "surface-variant": "#dce5d8",
+              "tertiary": "#a5393d",
+              "on-secondary-fixed-variant": "#125223",
+              "inverse-on-surface": "#ebf3e6",
+              "surface-container-highest": "#dce5d8",
+              "tertiary-fixed": "#ffdad8",
+              "on-primary-fixed": "#002108",
+              "secondary-fixed": "#b0f2b4",
+              "surface-bright": "#ffffff",
+              "surface-tint": "#5A7163",
+              "background": "#F9F9F7",
+              "outline": "#E3E5E4",
+              "primary-container": "#e7f3ec",
+              "inverse-primary": "#4ae171",
+              "error": "#ba1a1a",
+              "on-error": "#ffffff",
+              "on-background": "#2B302D",
+              "on-tertiary-fixed-variant": "#852128",
+              "on-primary": "#ffffff",
+              "secondary-fixed-dim": "#95d699",
+              "primary": "#5A7163",
+              "on-primary-container": "#004418",
+              "on-secondary": "#ffffff",
+              "error-container": "#ffdad6",
+              "on-error-container": "#93000a",
+              "surface-dim": "#d4ddd0",
+              "on-surface-variant": "#3d4a3c",
+              "on-tertiary-container": "#74131c",
+              "surface-container-lowest": "#ffffff",
+              "on-surface": "#0d1b13",
+              "on-secondary-fixed": "#002108",
+              "tertiary-fixed-dim": "#ffb3b1",
+              "surface": "#F9F9F7",
+              "primary-fixed-dim": "#4ae171",
+              "inverse-surface": "#2a322a",
+              "on-secondary-container": "#326f3d",
+              "on-primary-fixed-variant": "#00531f",
+              "on-tertiary": "#ffffff",
+              "secondary": "#2e6a39",
+              "outline-variant": "#bccbb8",
+              "surface-container-low": "#e7f3ec",
+              "surface-container": "#e8f0e3",
+              "secondary-container": "#adf0b1",
+              "tertiary-container": "#ff7c7d",
+              "on-tertiary-fixed": "#410007",
+              "surface-container-high": "#e2ebde"
+            },
+            fontFamily: {
+              "headline": ["Plus Jakarta Sans"],
+              "body": ["Inter"],
+              "label": ["Space Grotesk"]
+            },
+            borderRadius: {"DEFAULT": "0.125rem", "lg": "0.25rem", "xl": "0.5rem", "full": "0.75rem"},
+          },
+        },
+      }
+    </script>
+<style>
+      .material-symbols-outlined {
+        font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+      }
+      body {
+        font-family: 'Inter', sans-serif;
+        background-color: #F9F9F7;
+        color: #2B302D;
+      }
+      h1, h2, h3 {
+        font-family: 'Plus Jakarta Sans', sans-serif;
+      }
+    </style>
+</head>
+<body class="bg-background text-on-background">
+<!-- TopNavBar from JSON -->
+<header class="bg-white/80 dark:bg-zinc-900/80 backdrop-blur-md border-b border-[#E3E5E4] dark:border-zinc-800 shadow-sm dark:shadow-none docked full-width top-0 sticky z-50">
+<div class="flex justify-between items-center w-full px-6 py-4 max-w-7xl mx-auto">
+<div class="text-xl font-bold tracking-tighter text-[#2B302D] dark:text-[#F9F9F7]">Sage Academy</div>
+<nav class="hidden md:flex items-center gap-8 font-['Plus_Jakarta_Sans'] text-base tracking-tight">
+<a class="text-[#2B302D]/60 dark:text-[#F9F9F7]/60 hover:text-[#5A7163] transition-colors" href="#">Dashboard</a>
+<a class="text-[#5A7163] dark:text-[#7A9183] font-bold border-b-2 border-[#5A7163] pb-1" href="#">Subjects</a>
+<a class="text-[#2B302D]/60 dark:text-[#F9F9F7]/60 hover:text-[#5A7163] transition-colors" href="#">Progress</a>
+</nav>
+<div class="flex items-center gap-4">
+<button class="material-symbols-outlined text-[#5A7163] dark:text-[#7A9183] hover:scale-95 duration-200 ease-in-out" data-icon="account_circle">account_circle</button>
+</div>
+</div>
+</header>
+<main class="max-w-7xl mx-auto px-6 py-12">
+<!-- Hero Section -->
+<section class="mb-16 max-w-5xl">
+<h1 class="text-5xl md:text-6xl font-extrabold tracking-tighter mb-6 text-on-surface">Cellular Respiration</h1>
+<p class="text-lg text-on-surface-variant leading-relaxed font-body">
+                Explore the metabolic pathway that breaks down glucose and produces ATP. This overview covers the fundamental biochemical processes occurring within the mitochondria and cytoplasm of eukaryotic cells, essential for sustaining life across all biological kingdoms.
+            </p>
+</section>
+<!-- Study Resources (Bento Grid Style) -->
+<section class="mb-20">
+<div class="flex items-center justify-between mb-8">
+<h2 class="text-sm font-bold uppercase tracking-[0.05em] font-label text-primary">Study Resources</h2>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+<!-- Card 1: Audio -->
+<div class="bg-white border border-outline rounded-sm p-6 flex flex-col justify-between hover:border-primary transition-all duration-300 shadow-sm group">
+<div>
+<div class="w-10 h-10 bg-primary/5 flex items-center justify-center rounded-sm mb-4">
+<span class="material-symbols-outlined text-primary" data-icon="headphones">headphones</span>
+</div>
+<h3 class="text-lg font-bold mb-2">Audio Overview</h3>
+<p class="text-sm text-on-surface-variant font-body mb-6">Listen to a detailed breakdown of the energetic cycles.</p>
+</div>
+<button class="w-full py-3 border border-outline text-[11px] font-bold uppercase tracking-wider font-label hover:bg-primary hover:text-white transition-colors">Play Audio</button>
+</div>
+<!-- Card 2: Video -->
+<div class="bg-white border border-outline rounded-sm p-6 flex flex-col justify-between hover:border-primary transition-all duration-300 shadow-sm group">
+<div>
+<div class="w-10 h-10 bg-primary/5 flex items-center justify-center rounded-sm mb-4">
+<span class="material-symbols-outlined text-primary" data-icon="play_circle">play_circle</span>
+</div>
+<h3 class="text-lg font-bold mb-2">Video Overview</h3>
+<p class="text-sm text-on-surface-variant font-body mb-6">Visual 3D animations explaining complex molecular interactions.</p>
+</div>
+<button class="w-full py-3 border border-outline text-[11px] font-bold uppercase tracking-wider font-label hover:bg-primary hover:text-white transition-colors">Watch Video</button>
+</div>
+<!-- Card 3: Slide Deck -->
+<div class="bg-white border border-outline rounded-sm p-6 flex flex-col justify-between hover:border-primary transition-all duration-300 shadow-sm group">
+<div>
+<div class="w-10 h-10 bg-primary/5 flex items-center justify-center rounded-sm mb-4">
+<span class="material-symbols-outlined text-primary" data-icon="presentation_chart">show_chart</span>
+</div>
+<h3 class="text-lg font-bold mb-2">Slide Deck</h3>
+<p class="text-sm text-on-surface-variant font-body mb-6">Annotated slides highlighting chemical formulas and diagrams.</p>
+</div>
+<button class="w-full py-3 border border-outline text-[11px] font-bold uppercase tracking-wider font-label hover:bg-primary hover:text-white transition-colors">View Slides</button>
+</div>
+<!-- Card 4: Lab Reports -->
+<div class="bg-white border border-outline rounded-sm p-6 flex flex-col justify-between hover:border-primary transition-all duration-300 shadow-sm group">
+<div>
+<div class="w-10 h-10 bg-primary/5 flex items-center justify-center rounded-sm mb-4">
+<span class="material-symbols-outlined text-primary" data-icon="science">science</span>
+</div>
+<h3 class="text-lg font-bold mb-2">Lab Reports</h3>
+<p class="text-sm text-on-surface-variant font-body mb-6">Empirical data on yeast fermentation and CO2 production.</p>
+</div>
+<button class="w-full py-3 border border-outline text-[11px] font-bold uppercase tracking-wider font-label hover:bg-primary hover:text-white transition-colors">Open Report</button>
+</div>
+</div>
+</section>
+<!-- Learning Modules (List Layout) -->
+<section class="max-w-5xl">
+<div class="mb-8">
+<h2 class="text-sm font-bold uppercase tracking-[0.05em] font-label text-primary">Learning Modules</h2>
+</div>
+<div class="space-y-4">
+<!-- Module 1 -->
+<div class="bg-white border border-outline rounded-sm px-6 py-5 flex flex-col md:flex-row items-center gap-6 hover:border-primary/40 transition-colors">
+<div class="w-12 h-12 flex-shrink-0 bg-surface-container rounded-sm flex items-center justify-center">
+<span class="material-symbols-outlined text-primary" data-icon="auto_awesome">auto_awesome</span>
+</div>
+<div class="flex-grow">
+<h4 class="text-lg font-bold">Glycolysis</h4>
+<p class="text-sm text-on-surface-variant font-body">The initial stage of breaking down glucose into pyruvate in the cytoplasm.</p>
+</div>
+<div class="flex items-center gap-6">
+<div class="px-3 py-1 bg-primary/5 border border-primary/10 rounded-full">
+<span class="text-[10px] font-bold uppercase font-label text-primary">15 Qs</span>
+</div>
+<div class="flex items-center gap-2">
+<button class="p-2 text-on-surface-variant hover:text-primary transition-colors flex items-center gap-2" title="Flashcards">
+<span class="material-symbols-outlined" data-icon="style">style</span>
+<span class="text-[10px] font-bold uppercase font-label hidden sm:inline">Flashcards</span>
+</button>
+<button class="p-2 text-on-surface-variant hover:text-primary transition-colors flex items-center gap-2" title="Quiz">
+<span class="material-symbols-outlined" data-icon="quiz">quiz</span>
+<span class="text-[10px] font-bold uppercase font-label hidden sm:inline">Quiz</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Module 2 -->
+<div class="bg-white border border-outline rounded-sm px-6 py-5 flex flex-col md:flex-row items-center gap-6 hover:border-primary/40 transition-colors">
+<div class="w-12 h-12 flex-shrink-0 bg-surface-container rounded-sm flex items-center justify-center">
+<span class="material-symbols-outlined text-primary" data-icon="cyclone">cyclone</span>
+</div>
+<div class="flex-grow">
+<h4 class="text-lg font-bold">The Krebs Cycle</h4>
+<p class="text-sm text-on-surface-variant font-body">The citric acid cycle occurring in the mitochondrial matrix for electron carrier loading.</p>
+</div>
+<div class="flex items-center gap-6">
+<div class="px-3 py-1 bg-primary/5 border border-primary/10 rounded-full">
+<span class="text-[10px] font-bold uppercase font-label text-primary">12 Qs</span>
+</div>
+<div class="flex items-center gap-2">
+<button class="p-2 text-on-surface-variant hover:text-primary transition-colors flex items-center gap-2">
+<span class="material-symbols-outlined" data-icon="style">style</span>
+<span class="text-[10px] font-bold uppercase font-label hidden sm:inline">Flashcards</span>
+</button>
+<button class="p-2 text-on-surface-variant hover:text-primary transition-colors flex items-center gap-2">
+<span class="material-symbols-outlined" data-icon="quiz">quiz</span>
+<span class="text-[10px] font-bold uppercase font-label hidden sm:inline">Quiz</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Module 3 -->
+<div class="bg-white border border-outline rounded-sm px-6 py-5 flex flex-col md:flex-row items-center gap-6 hover:border-primary/40 transition-colors">
+<div class="w-12 h-12 flex-shrink-0 bg-surface-container rounded-sm flex items-center justify-center">
+<span class="material-symbols-outlined text-primary" data-icon="bolt">bolt</span>
+</div>
+<div class="flex-grow">
+<h4 class="text-lg font-bold">Electron Transport Chain</h4>
+<p class="text-sm text-on-surface-variant font-body">Oxidative phosphorylation and the movement of protons to synthesize large quantities of ATP.</p>
+</div>
+<div class="flex items-center gap-6">
+<div class="px-3 py-1 bg-primary/5 border border-primary/10 rounded-full">
+<span class="text-[10px] font-bold uppercase font-label text-primary">20 Qs</span>
+</div>
+<div class="flex items-center gap-2">
+<button class="p-2 text-on-surface-variant hover:text-primary transition-colors flex items-center gap-2">
+<span class="material-symbols-outlined" data-icon="style">style</span>
+<span class="text-[10px] font-bold uppercase font-label hidden sm:inline">Flashcards</span>
+</button>
+<button class="p-2 text-on-surface-variant hover:text-primary transition-colors flex items-center gap-2">
+<span class="material-symbols-outlined" data-icon="quiz">quiz</span>
+<span class="text-[10px] font-bold uppercase font-label hidden sm:inline">Quiz</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Module 4 -->
+<div class="bg-white border border-outline rounded-sm px-6 py-5 flex flex-col md:flex-row items-center gap-6 hover:border-primary/40 transition-colors">
+<div class="w-12 h-12 flex-shrink-0 bg-surface-container rounded-sm flex items-center justify-center">
+<span class="material-symbols-outlined text-primary" data-icon="bubble_chart">bubble_chart</span>
+</div>
+<div class="flex-grow">
+<h4 class="text-lg font-bold">Fermentation</h4>
+<p class="text-sm text-on-surface-variant font-body">Anaerobic respiration pathways: lactic acid and alcoholic fermentation processes.</p>
+</div>
+<div class="flex items-center gap-6">
+<div class="px-3 py-1 bg-primary/5 border border-primary/10 rounded-full">
+<span class="text-[10px] font-bold uppercase font-label text-primary">8 Qs</span>
+</div>
+<div class="flex items-center gap-2">
+<button class="p-2 text-on-surface-variant hover:text-primary transition-colors flex items-center gap-2">
+<span class="material-symbols-outlined" data-icon="style">style</span>
+<span class="text-[10px] font-bold uppercase font-label hidden sm:inline">Flashcards</span>
+</button>
+<button class="p-2 text-on-surface-variant hover:text-primary transition-colors flex items-center gap-2">
+<span class="material-symbols-outlined" data-icon="quiz">quiz</span>
+<span class="text-[10px] font-bold uppercase font-label hidden sm:inline">Quiz</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+<!-- Footer from JSON -->
+<footer class="bg-[#F9F9F7] dark:bg-zinc-950 border-t border-[#E3E5E4] dark:border-zinc-800 full-width py-12 flat no shadows">
+<div class="flex flex-col md:flex-row justify-between items-center w-full px-8 max-w-7xl mx-auto gap-4">
+<p class="font-['Space_Grotesk'] text-[10px] font-bold uppercase tracking-[0.05em] text-[#2B302D]/40 dark:text-[#F9F9F7]/40">© 2024 Sage Academy. All rights reserved.</p>
+<div class="flex gap-6">
+<a class="font-['Space_Grotesk'] text-[10px] font-bold uppercase tracking-[0.05em] text-[#2B302D]/40 dark:text-[#F9F9F7]/40 hover:text-[#5A7163] underline decoration-dotted transition-opacity opacity-80 hover:opacity-100" href="#">Privacy Policy</a>
+<a class="font-['Space_Grotesk'] text-[10px] font-bold uppercase tracking-[0.05em] text-[#2B302D]/40 dark:text-[#F9F9F7]/40 hover:text-[#5A7163] underline decoration-dotted transition-opacity opacity-80 hover:opacity-100" href="#">Terms of Service</a>
+<a class="font-['Space_Grotesk'] text-[10px] font-bold uppercase tracking-[0.05em] text-[#2B302D]/40 dark:text-[#F9F9F7]/40 hover:text-[#5A7163] underline decoration-dotted transition-opacity opacity-80 hover:opacity-100" href="#">Cookie Policy</a>
+</div>
+</div>
+</footer>
+</body></html>

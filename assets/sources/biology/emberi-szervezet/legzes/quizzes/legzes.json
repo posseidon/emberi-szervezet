@@ -1,0 +1,189 @@
+{
+  "subjectId": "biology",
+  "moduleId": "legzes",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "A parciális nyomás fogalmában melyik megállapítás IGAZ?",
+      "options": [
+        "Az összes gázok azonos parciális nyomással rendelkeznek",
+        "A parciális nyomás a gázkeverék összes nyomásából az illető komponensre jutó rész",
+        "A parciális nyomás független a gázkoncentrációtól",
+        "A légköri nyomásban a CO2 parciális nyomása nem mérhető"
+      ],
+      "answer": "A parciális nyomás a gázkeverék összes nyomásából az illető komponensre jutó rész"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "A léghólyagocskák közötti válaszfalban mely struktúra nem található meg?",
+      "options": [
+        "A tüdő hajszálerei",
+        "Az F-aktin és miozin filamentumok",
+        "A rugalmas rostot termelő kötőszöveti sejtek",
+        "A légzőfelületet képező szöveti elemek"
+      ],
+      "answer": "Az F-aktin és miozin filamentumok"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "A hemoglobin oxigénszaturációja mely tényezőtől függ elsősorban?",
+      "options": [
+        "Kizárólag a vér széndioxid-tartalmától",
+        "A közeg oxigénkoncentrációjától és parciális nyomásától",
+        "Az izomszövet tejsav-tartalmától",
+        "A vér pH-értéke nem befolyásolja"
+      ],
+      "answer": "A közeg oxigénkoncentrációjától és parciális nyomásától"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "A Hering-Breuer-reflex mely receptortípus stimulációja révén működik?",
+      "options": [
+        "Kemoreceptorok",
+        "A tüdőfalban található feszülésérzékeny mechanikai receptorok",
+        "Nyomásreceptorok",
+        "Hőérzékelő receptorok"
+      ],
+      "answer": "A tüdőfalban található feszülésérzékeny mechanikai receptorok"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "A Donders-modellben melyik struktúra modellezi a mellhártyákat?",
+      "options": [
+        "A gumidugó",
+        "A rugalmas léggömb",
+        "A harang és a léggömb közötti tér",
+        "Az üvegcső"
+      ],
+      "answer": "A harang és a léggömb közötti tér"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "A vitálkapacitás melyik tüdővolumen-kategóriát foglalja magában?",
+      "options": [
+        "Csak a légzési térfogat",
+        "A légzési térfogat és az inspiratórikus rezerv térfogat",
+        "Az inspiratórikus rezerzv, a légzési és az expiratórikus rezerv térfogat összege",
+        "Az összes lehetséges tüdővolumen"
+      ],
+      "answer": "Az inspiratórikus rezerzv, a légzési és az expiratórikus rezerv térfogat összege"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Az ASZTMA kórfejtésében mely folyamat játszik döntő szerepet?",
+      "options": [
+        "Az alveolaris falak felszívódása",
+        "Az epilépsziai rohamok",
+        "Az érzékeny légútfal összehúzódása és nyálkatermelés fokozódása",
+        "A szívizomzat elgyengülése"
+      ],
+      "answer": "Az érzékeny légútfal összehúzódása és nyálkatermelés fokozódása"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "A COPD-ben a légzőfelület csökkenésének oka mely szerkezeti elváltozás?",
+      "options": [
+        "A hörgők fibrózisa",
+        "A léghólyagocskák közötti válaszfalak felszívódása",
+        "A mellkas deformációja",
+        "A gerincoszlop görbülete"
+      ],
+      "answer": "A léghólyagocskák közötti válaszfalak felszívódása"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "A szén-monoxid (CO) mérgezésében a hemoglobin dysfunkció oka mely mechanizmus?",
+      "options": [
+        "A hemoglobin szerkezetének roncsolódása",
+        "A hemoglobin CO-vel való erős kötődése, mely megakadályozza az oxigénszállítást",
+        "Az érfalban lévő simaizmok ellazulása",
+        "A vörösvértestek membránának sérülése"
+      ],
+      "answer": "A hemoglobin CO-vel való erős kötődése, mely megakadályozza az oxigénszállítást"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Az agytörzsi légzésszabályozás mely központja generálja automatikusan a nyugodt légzés alapritmusát?",
+      "options": [
+        "A kilégzőközpont",
+        "A belégzőközpont",
+        "A híd légzésszabályozó magcsoportjai",
+        "Az aortaív reflexe"
+      ],
+      "answer": "A belégzőközpont"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "A léghólyagocskák falát borító laphámsejtek mellett találhatók _____ sejtek is, amelyek fagocitálják a léghólyagokig eljutott porszemcséket.",
+      "options": [],
+      "answer": "makrofágok (fagocitáló sejtek)"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az izzadásban az egyensúly biztosításához szükséges _____ a vérkeringés szabályozásában alapvető szerepet játszik.",
+      "options": [],
+      "answer": "vérnyomás"
+    },
+    {
+      "id": 13,
+      "type": "BLANK",
+      "question": "A légzésszabályozásban a vér _____ koncentrációja a belégzőközpont működésének legfontosabb ingerült, mivel az idegszövet sejtközötti állomány pH-értékét meghatározza.",
+      "options": [],
+      "answer": "szén-dioxid"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A légútakba bejutott idegen test légúti _____ okozhat, amely az oxigén-utánpótlás megszűnése miatt életveszélyes lehet.",
+      "options": [],
+      "answer": "elzáródást"
+    },
+    {
+      "id": 15,
+      "type": "BLANK",
+      "question": "A Donders-modellben a gumimembrán lehúzása a _____ modellezi, amely csökkenti a nyomást a harang és a léggömb közötti térben.",
+      "options": [],
+      "answer": "rekeszizom összehúzódását"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A belégzés első szakaszában az ezután a tüdő nyomása _____, amely az ideális gáz állapotegyenletének következménye.",
+      "options": [],
+      "answer": "csökken"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "A dohányzás hatására a légutak csillóinak működése _____, amelynek következménye a szennyeződések eltávolításának hatékonyságának csökkenése.",
+      "options": [],
+      "answer": "gátlódik"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az agytörzs mellett a légzésszabályozásban a _____ és a limbikus rendszer közvetíti a belső környezeti és emocionális hatásokat.",
+      "options": [],
+      "answer": "hipotalamusz"
+    },
+    {
+      "id": 19,
+      "type": "BLANK",
+      "question": "A felületaktív anyag (szurfaktáns) hiánya újszülöttekben a _____ szindrómáját okozza, amely súlyos légzési elégtelenséggel jár.",
+      "options": [],
+      "answer": "respirációs distressz (RDS) / neonatális légzési elégtelenség"
+    }
+  ]
+}

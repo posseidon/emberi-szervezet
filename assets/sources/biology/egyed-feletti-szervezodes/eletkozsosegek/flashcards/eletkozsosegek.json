@@ -1,0 +1,74 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Szimbiózis definíciója",
+      "definition": "Két különböző faj egyedeinek szoros, hosszútávú kapcsolata, amely az egyik vagy mindkét félre hasznos hatással van.",
+      "quote": "Kölcsönös vagy egyik feles haszon",
+      "text": "A szimbiózis alatt nem feltétlenül értünk pozitív kapcsolatot (mutualizmus). Lehet kommenzalizmus (egyik hasznol, másik közömbös) vagy parazitizmus (egyik hasznol, másik káros)."
+    },
+    {
+      "id": 2,
+      "term": "Mutualizmus",
+      "definition": "Szimbiózis-forma, ahol mindkét faj előnyt lát a kapcsolatból, javul az egyik vagy mindkettő túléléskészsége.",
+      "quote": "Kölcsönös haszon",
+      "text": "Példa: méhek és virágos növények (virágpor-terjedés és nektár), nitrogénkötő baktériumok és pillangósvirágúak, rágó állatok és jellegzetességek."
+    },
+    {
+      "id": 3,
+      "term": "Kommenzalizmus",
+      "definition": "Az egyik faj előnyt lát (kommenszális), míg a másik nem szenved, de nem is profitál a kapcsolatból.",
+      "quote": "Az egyik profitál",
+      "text": "Példa: madaraknak halnak hala a halászmadár nyomán, egyes hal az óriás halak mellett élő halak zajlékét tárolnak a szájukban."
+    },
+    {
+      "id": 4,
+      "term": "Antibiózis",
+      "definition": "Egy faj olyan anyagot vagy viselkedést fejleszt ki, amely egy másik faj túléléséhez vagy terjedéséhez káros.",
+      "quote": "Antagonisztikus hatás",
+      "text": "Például növények termelhetnek toxikus vegyületeket rovarok ellen, baktériumok antibiotikumot termelhetnek konkurens mikroorganizmusok ellen."
+    },
+    {
+      "id": 5,
+      "term": "Predáció",
+      "definition": "Az egyik faj (ragadozó) egy másik faj (zsákmány) egyedeit vagy részeit elfogyasztja, általában a zsákmány halálával jár.",
+      "quote": "Felfalás és halál",
+      "text": "Ragadozó: sólyom, sas, róka. Zsákmány: madár, nyúl. A predáció regulálja az ökoszisztémában a populációk méretét."
+    },
+    {
+      "id": 6,
+      "term": "Parazitizmus",
+      "definition": "Az egyik faj (parazita) egy másik (gazdaszervezet) testén vagy testében él, erőforrásokat vesz tőle, kárt okozva.",
+      "quote": "Élő szervezeten élő",
+      "text": "Külparazita: vérszívó, bolha. Belparazita: szalagféreg, giardia. A parazita általában nem öli meg a gazdát azonnal, hogy hosszabb ideig hasznot húzhasson."
+    },
+    {
+      "id": 7,
+      "term": "Versengés populációk között",
+      "definition": "Két vagy több populáció között erőforrásokért (táplálék, víz, hely) folyó rivalizálás, amely korlátozza mindkét populáció növekedését.",
+      "quote": "Erőforrásokért verseng",
+      "text": "Interspecifikus versengés: különböző fajok között. Intraspecifikus: azonos fajon belüli versengés. A versengés mértéke a niche átfedésétől függ."
+    },
+    {
+      "id": 8,
+      "term": "Asztalközösség (aszaltkömény)",
+      "definition": "Olyan szervezet, amely egy másik szervezet eltávolított maradványaiból táplálkozik, de közvetlenül nem ölte meg azt.",
+      "quote": "Halottétkező szervezet",
+      "text": "Boncon élő bögár, farkas a sólyom után maradt hullákon. Az asztalközösség csökkentett energiában él, alacsonyabb rang predáták és szaprófágok."
+    },
+    {
+      "id": 9,
+      "term": "Allelopátia",
+      "definition": "A növények által termelt kémiai anyagok, melyek gátolják más növények vagy állatok növekedését, gyökereztetésénél vagy szaporodásánál.",
+      "quote": "Kémiai növekedésgátlás",
+      "text": "A fekete fa (juglon termelés) gátolja más növények növekedését. A fenyő lehullott tűi savi talajban feloldódva gátolják más növények fejlődését."
+    },
+    {
+      "id": 10,
+      "term": "Ökológiai kölcsönhatások típusainak táblázata",
+      "definition": "Szimbiózis: +/+, +/0, +/-. Versengés: -/-. Predáció: +/-. Asztalközösség: +/0 (asztalközösség), -/0 (elhullott szervezet).",
+      "quote": "Hatásmátrix",
+      "text": "Ökológiai kölcsönhatások: Mutualizmus: +/+, Kommenzalizmus: +/0, Parazitizmus: +/-, Versengés: -/-, Predáció: +/-."
+    }
+  ]
+}

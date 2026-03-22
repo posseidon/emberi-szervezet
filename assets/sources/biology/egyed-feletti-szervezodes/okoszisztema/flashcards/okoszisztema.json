@@ -1,0 +1,144 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Ökoszisztéma definíciója",
+      "definition": "Az élőlények és az élettelen környezetük teljes kapcsolatrendszere, amely nyílt rendszer, energiaáramlás és anyagforgalom jellemzi.",
+      "quote": "Élő és élettelen rendszer",
+      "text": "Az ökoszisztéma nem szerveződési szint, hanem jelenségek értelmezésére használt modell. Lehet egy tó, esőerdő vagy az egész bioszféra."
+    },
+    {
+      "id": 2,
+      "term": "Ökoszisztéma összetevői",
+      "definition": "1. Élettelen anyagok (víz, CO2, N), 2. Termelők (autotrófok), 3. Fogyasztók (heterotrófok), 4. Lebontók (baktériumok, gombák).",
+      "quote": "Négy alapöszetevő",
+      "text": "A termelők a napenergia megkötésékre szolgálnak. A fogyasztók és lebontók az energia átadásar. Az élettelen anyagok a körfolyamatot zárják."
+    },
+    {
+      "id": 3,
+      "term": "Táplálkozási lánc",
+      "definition": "Egymással szoros táplálkozási kapcsolatban álló populációkból álló lineáris sorozat, ahol minden láncszemből egy következik.",
+      "quote": "Láncszeméből egyet követszik",
+      "text": "Típusú: növény → növényevő → ragadozó → csúcsragadozó. A szerves anyag és energia egyirányúan áramlik a láncban."
+    },
+    {
+      "id": 4,
+      "term": "Táplálékhálózat",
+      "definition": "Egymással összekapcsolt táplálékláncok rendszere, ahol egy szervezet több táplálkozási szintről fogyaszthat.",
+      "quote": "Összekapcsolt láncok",
+      "text": "Egy kagyló lehet elsődleges vagy másodlagos fogyasztó, attól függően hogy zöldmoszatot vagy zooplankton fogyaszt. Minél bonyolultabb, annál stabilabb."
+    },
+    {
+      "id": 5,
+      "term": "Termelők (producensek) szerepe",
+      "definition": "Az autotrófok (zöld növények) fotoszintézissel szervetlen anyagokból szerves vegyületeket állítanak elő, energiát építenek be.",
+      "quote": "Napenergia szerves anyaggá",
+      "text": "Fototrófok: napenergiát használnak. Kemotrófok: szervetlen anyagok oxidációjából nyernek energiát (nitrifikáló baktériumok). A termelők képezik az energiaár alapját."
+    },
+    {
+      "id": 6,
+      "term": "Fogyasztók (konzumensek) szintjei",
+      "definition": "Elsődleges: növényevők. Másodlagos: ragadozók az elsődleges fogyasztókat esznek. Harmadlagos: nagyobb ragadozók. Csúcsragadozó: nincs természetes ellensége.",
+      "quote": "Ragadozási szintek",
+      "text": "Az emberi állat általában másodlagos vagy harmadlagos fogyasztó végez, a hal pedig végz végzés másodlagos fogyasztó a tengeri ekoszisztémában."
+    },
+    {
+      "id": 7,
+      "term": "Lebontók (reducensek) szerepe",
+      "definition": "Elsősorban baktériumok és gombák, melyek az elhalt szervezetek komplex szerves anyagait lebontják szervetlen vegyületekké, visszajuttatva azokat az ökoszisztémába.",
+      "quote": "Halott szervezet lebontása",
+      "text": "Nélkülük az ökoszisztéma halott szervezetektől eltelne. A lebontás során felszabaduló energia hő formájában távozik."
+    },
+    {
+      "id": 8,
+      "term": "Peszticidek felhalmozódása",
+      "definition": "A peszticidek a táplálkozási lánc során egyre nagyobb konzentráción halomódnak fel: biomagnifikáció.",
+      "quote": "Mérgek feldúsulnak",
+      "text": "Egy ppm pesticide növényben 10 ppm a növényevőben, 100 ppm a ragadozóban, 1000 ppm a csúcsragadozóban. DDT már betiltott, de még mindig jelen van."
+    },
+    {
+      "id": 9,
+      "term": "Táplálékpiramis",
+      "definition": "Az egyes táplálkozási szintek egyedszáma vagy biomassza alapján rajzolt piramis, amely lépcsőzetesen csökken az alacsony szintről felfelé.",
+      "quote": "Egyre kevesebb fenn",
+      "text": "Az egyedszám piramis normál táplálkozási láncban: több ezer növény, több száz növényevő, több tucat ragadozó, egy csúcsragadozó."
+    },
+    {
+      "id": 10,
+      "term": "Biológiai produkció",
+      "definition": "Adott területen, adott idő alatt végbemenő szerves anyagtermelés és -átalakítás folyamata, mértékegysége: g/m²/év vagy kg/ha/év.",
+      "quote": "Szerves anyag-termelés mérése",
+      "text": "Elsődleges produkció: fotoszintézis (autotrófok). Másodlagos produkció: fogyasztók és lebontók átalakítása. A termelésből egy része elbomlik (energia), egy része felépül."
+    },
+    {
+      "id": 11,
+      "term": "Biomassza",
+      "definition": "Az adott területen, adott időpontban megtalálható élőlényekben előforduló szerves anyagok összes tömege, mérhető g/m² vagy kg/ha-ban.",
+      "quote": "Élő szervezetek össztömege",
+      "text": "Egy stabil társulás összes biomasszája közel állandó. A szukcesszió során a biomasszje nő. A trópusi esőerdők a legnagyobb biomasszát tartalmazzák."
+    },
+    {
+      "id": 12,
+      "term": "Ökológiai piramisok típusai",
+      "definition": "Egyedszám-piramis, biomassza-piramis, energia-piramis. Mind az alacsony szintről a magasabbra csökken, de energia-piramis sosem fordított.",
+      "quote": "Három piramis-típus",
+      "text": "Az energia-piramis sosem fordított, mivel az energia csak egyszer megy át a rendszeren. A biomassza-piramis invertált lehet, ha kis termelők sok fogyasztót támogatnak (pl. fitoplankton-zooplankton)."
+    },
+    {
+      "id": 13,
+      "term": "Szén körforgalma",
+      "definition": "A CO2 a növények által fotoszintézissel szerves anyaggá alakul, majd az összes szint elbontja hőt felszabadítva, vagy hosszú időre fosszilis energiahordozóvá válhat.",
+      "quote": "Karbon ciklus",
+      "text": "Lépések: fotoszintézis (CO2 szerves anyag), respiráció (szerves anyag CO2), humusz (lassú lebontás), fosszilis üzemanyagok (hosszú tárolás), vulkáni tevékenység (CO2 felszabadulás)."
+    },
+    {
+      "id": 14,
+      "term": "Oxigén körforgalma",
+      "definition": "A fotoszintézisben víz bomlása oxigént felszabadít, mely az élő szervezetek respirációjában felhasználódik, ismét vizet képezve.",
+      "quote": "Oxigén-termelés és felhasználás",
+      "text": "Fotoszintézis: 2H₂O → 4H⁺ + O₂ + 4e⁻. Respiráció: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O. Az egyensúly az autotróf és heterotróf tevékenység között."
+    },
+    {
+      "id": 15,
+      "term": "Nitrogén körforgalma: nitrogénkötés",
+      "definition": "A légköri N₂ nitrogénkötő baktériumok (Rhizobium) által ammóniává (NH₃) alakul, amelyet növények fehérjékké alakítanak.",
+      "quote": "N₂ → ammónia",
+      "text": "A nitrogénkötés szimbiózisban pillangósvirágú növények gyökerigümőjiben zajlik. A folyamat energiaigényes, és csak bizonyos baktériumok képesek rá."
+    },
+    {
+      "id": 16,
+      "term": "Nitrifikáció",
+      "definition": "Az ammónia oxidációja nitritté, majd nitráttá kemoautotróf nitrifikáló baktériumok (Nitrosomonas, Nitrobacter) által.",
+      "quote": "Ammónia nitrátra",
+      "text": "NH₄⁺ → NO₂⁻ → NO₃⁻. Ez a folyamat aerób, és a nitrát a növények számára legfontosabb nitrogén-forrás. Az egyensúly szükséges a talaj termékenységéhez."
+    },
+    {
+      "id": 17,
+      "term": "Ammónifikáció",
+      "definition": "Az elhalt szervezetek nitrogén-tartalmú szerves anyagainak (fehérjék, nukleinsavak) lebontása ammóniává heterotróf baktériumok és gombák által.",
+      "quote": "Fehérje → ammónia",
+      "text": "Az ammónifikáció a lebontók fő feladata. Az ammónia a talajban ammóniumionná alakul. Ez szükséges az ötletesen leírt nitrogénkörforgás első lépéséhez."
+    },
+    {
+      "id": 18,
+      "term": "Denitrifikáció",
+      "definition": "Az anaerób denitrifikáló baktériumok nitrátionokból elemi nitrogént képeznek, amely gázként visszakerül a légkörbe.",
+      "quote": "Nitrat nitrógénné",
+      "text": "NO₃⁻ → N₂. Ez anaerób folyamat, szülmények talajokban vagy oxigén-hiányos vízben. Ez a kaladapid hézag a nitrogénkörforgásban, nitrogén-veszteséget okoz."
+    },
+    {
+      "id": 19,
+      "term": "Biodiverzitás szintjei",
+      "definition": "Genetikai: az allélok változatossága egy fajon belül. Faji: a fajok száma és egyedszám-aránya. Ökológiai: populációk száma, funkcionális kapcsolatok összetetsége.",
+      "quote": "Három szintű sokféleség",
+      "text": "A genetikai diverzitás az alkalmazkodóképességet, a fajdiverzitás az ökoszisztéma funkcióit, az ökológiai diverzitás az összetettséget jelzi."
+    },
+    {
+      "id": 20,
+      "term": "Biodiverzitás csökkenésének következményei",
+      "definition": "A szűkebb diverzitású társulások sérülékenyebbek, egy populáció kihalása szerkezeti összeomláshoz vezethet, a ökoszisztéma rugalmassága csökken.",
+      "quote": "Kevés faj = sérülékeny",
+      "text": "A nagyobb diverzitás rugalmasabb. Monokultúrák rovarjárványokra érzékenyek. A trópusi esőerdők biodiverzitásának elvesztése globális problémát jelent."
+    }
+  ]
+}

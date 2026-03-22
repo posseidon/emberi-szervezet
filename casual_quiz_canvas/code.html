@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Casual Quiz Canvas</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#0fbd52",
+                        "background-light": "#f6f8f7",
+                        "background-dark": "#102217",
+                        "accent": "#D4A373",
+                        "muted": "#909893",
+                        "text-main": "#2B302D"
+                    },
+                    fontFamily: {
+                        "display": ["Manrope", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "4px",
+                        "sm": "4px",
+                        "md": "4px",
+                        "lg": "4px",
+                        "xl": "4px",
+                        "full": "4px"
+                    },
+                },
+            },
+        }
+    </script>
+<style>
+        body {
+            font-family: 'Manrope', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark text-text-main antialiased min-h-screen flex flex-col items-center justify-center relative overflow-hidden">
+<!-- Header / Nav -->
+<header class="absolute top-0 w-full max-w-[800px] flex items-center justify-between px-6 py-6 z-10">
+<button aria-label="Exit Quiz" class="flex items-center justify-center w-10 h-10 rounded bg-white border border-[#E3E5E4] hover:bg-gray-50 transition-colors text-text-main cursor-pointer">
+<span class="material-symbols-outlined" style="font-size: 20px;">close</span>
+</button>
+<div class="text-sm font-medium text-muted">
+            Question 3 of 10
+        </div>
+<div class="w-10 h-10"></div> <!-- Spacer for flex balance -->
+</header>
+<!-- Main Content Area -->
+<main class="w-full max-w-[600px] px-6 py-12 flex flex-col items-center w-full z-0 mt-16">
+<!-- Progress Bar -->
+<div class="w-full h-1 bg-[#E3E5E4] rounded mb-12 overflow-hidden">
+<div class="h-full bg-primary rounded transition-all duration-300" style="width: 30%;"></div>
+</div>
+<!-- Question -->
+<h1 class="text-[28px] md:text-[32px] font-bold leading-tight text-center mb-10 w-full text-text-main">
+            Which organelle is known as the powerhouse of the cell?
+        </h1><div class="w-full flex flex-col items-center mb-8">
+<button class="group flex items-center gap-2 text-muted hover:text-primary transition-colors cursor-pointer focus:outline-none" onclick="document.getElementById('hint-text').classList.toggle('hidden')">
+<span class="material-symbols-outlined text-[18px] opacity-70 group-hover:opacity-100">lightbulb</span>
+<span class="text-[14px] font-medium border-b border-dashed border-muted/30 group-hover:border-primary/30">Need a hint?</span>
+</button>
+<!-- This content would be toggled visible in a functional app -->
+<div class="mt-3 px-4 py-2 bg-primary/5 border-l-2 border-primary/20 rounded-r text-[13px] text-muted italic text-center max-w-[400px] hidden" id="hint-text">
+        Think about which part of the cell acts like a power generator.
+    </div>
+</div>
+<!-- Choices List -->
+<div class="w-full flex flex-col gap-4">
+<!-- Option A (Default State) -->
+<button class="group relative w-full h-[64px] flex items-center justify-between px-6 bg-white border border-[#E3E5E4] rounded hover:border-muted transition-colors text-left cursor-pointer focus:outline-none focus:ring-2 focus:ring-primary/50">
+<span class="text-[16px] font-medium text-text-main">Nucleus</span>
+<span class="hidden md:flex items-center justify-center w-6 h-6 rounded bg-background-light text-muted text-xs font-bold border border-[#E3E5E4] group-hover:bg-white transition-colors">A</span>
+</button>
+<!-- Option B (Correct State - Active for demonstration) -->
+<button class="group relative w-full h-[64px] flex items-center justify-between px-6 bg-primary/5 border border-primary rounded transition-colors text-left cursor-pointer focus:outline-none">
+<span class="text-[16px] font-bold text-primary">Mitochondria</span>
+<span class="hidden md:flex items-center justify-center w-6 h-6 rounded bg-primary text-white text-xs font-bold">B</span>
+</button>
+<!-- Option C (Default State) -->
+<button class="group relative w-full h-[64px] flex items-center justify-between px-6 bg-white border border-[#E3E5E4] rounded hover:border-muted transition-colors text-left cursor-pointer focus:outline-none focus:ring-2 focus:ring-primary/50">
+<span class="text-[16px] font-medium text-text-main">Ribosome</span>
+<span class="hidden md:flex items-center justify-center w-6 h-6 rounded bg-background-light text-muted text-xs font-bold border border-[#E3E5E4] group-hover:bg-white transition-colors">C</span>
+</button>
+<!-- Option D (Incorrect State - Example if it was selected) -->
+<!--
+            <button class="group relative w-full h-[64px] flex items-center justify-between px-6 bg-accent/5 border border-accent rounded transition-colors text-left cursor-pointer focus:outline-none">
+                <span class="text-[16px] font-bold text-accent">Endoplasmic Reticulum</span>
+                <span class="hidden md:flex items-center justify-center w-6 h-6 rounded bg-accent text-white text-xs font-bold">D</span>
+            </button>
+            -->
+<button class="group relative w-full h-[64px] flex items-center justify-between px-6 bg-white border border-[#E3E5E4] rounded hover:border-muted transition-colors text-left cursor-pointer focus:outline-none focus:ring-2 focus:ring-primary/50">
+<span class="text-[16px] font-medium text-text-main">Endoplasmic Reticulum</span>
+<span class="hidden md:flex items-center justify-center w-6 h-6 rounded bg-background-light text-muted text-xs font-bold border border-[#E3E5E4] group-hover:bg-white transition-colors">D</span>
+</button>
+</div>
+</main>
+<!-- Feedback Toast (Simulated Active State) -->
+<div class="absolute bottom-8 left-1/2 transform -translate-x-1/2 w-[calc(100%-3rem)] max-w-[500px] bg-white border-2 border-primary rounded p-4 flex items-start gap-4 shadow-lg z-20">
+<div class="flex-shrink-0 w-8 h-8 rounded-full bg-primary/20 flex items-center justify-center text-primary">
+<span class="material-symbols-outlined" style="font-size: 20px;">check</span>
+</div>
+<div class="flex flex-col">
+<p class="text-[16px] font-bold text-primary mb-1">Correct!</p>
+<p class="text-[14px] text-text-main">Mitochondria power the cell by generating ATP through cellular respiration.</p>
+</div>
+</div>
+</body></html>

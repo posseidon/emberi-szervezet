@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Subject Hub - Clean Learning</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<!-- Using Manrope as a fallback for Cabinet Grotesk/Satoshi per initial config, but ensuring clean typography -->
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#0fbd52",
+                        "primary-muted": "#e7f3ec",
+                        "background-light": "#f6f8f7",
+                        "background-dark": "#102217",
+                        "text-primary": "#2B302D",
+                        "border-light": "#E3E5E4",
+                        "surface": "#FFFFFF"
+                    },
+                    fontFamily: {
+                        "display": ["Manrope", "sans-serif"],
+                        "sans": ["Manrope", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.125rem",
+                        "sm": "0.25rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "0.75rem"
+                    },
+                },
+            },
+        }
+    </script>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display text-text-primary min-h-screen antialiased flex flex-col">
+<!-- Shared Navigation -->
+<div class="relative flex h-auto w-full flex-col bg-[#f8fcf9] group/design-root overflow-x-hidden">
+<div class="layout-container flex h-full grow flex-col">
+<div class="px-40 flex flex-1 justify-center py-5">
+<div class="layout-content-container flex flex-col max-w-[960px] flex-1">
+<header class="flex items-center justify-between whitespace-nowrap border-b border-solid border-b-[#e7f3ec] px-10 py-3">
+<div class="flex items-center gap-4 text-[#0d1b13]">
+<div class="size-4">
+<svg fill="none" viewbox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path d="M6 6H42L36 24L42 42H6L12 24L6 6Z" fill="currentColor"></path></svg>
+</div>
+<h2 class="text-[#0d1b13] text-lg font-bold leading-tight tracking-[-0.015em]">Clean Learning</h2>
+</div>
+<div class="flex flex-1 justify-end gap-8">
+<div class="flex items-center gap-9">
+<a class="text-[#0d1b13] text-sm font-medium leading-normal" href="#">Dashboard</a>
+<a class="text-[#0d1b13] text-sm font-medium leading-normal underline underline-offset-4 decoration-primary" href="#">Subjects</a>
+<a class="text-[#0d1b13] text-sm font-medium leading-normal" href="#">Progress</a>
+</div>
+<button class="flex max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded h-10 bg-[#e7f3ec] text-[#0d1b13] gap-2 text-sm font-bold leading-normal tracking-[0.015em] min-w-0 px-2.5">
+<div class="text-[#0d1b13]" data-icon="user" data-size="20px" data-weight="regular">
+<svg fill="currentColor" height="20px" viewbox="0 0 256 256" width="20px" xmlns="http://www.w3.org/2000/svg">
+<path d="M230.92,212c-15.23-26.33-38.7-45.21-66.09-54.16a72,72,0,1,0-73.66,0C63.78,166.78,40.31,185.66,25.08,212a8,8,0,1,0,13.85,8c18.84-32.56,52.14-52,89.07-52s70.23,19.44,89.07,52a8,8,0,1,0,13.85-8ZM72,96a56,56,0,1,1,56,56A56.06,56.06,0,0,1,72,96Z"></path>
+</svg>
+</div>
+</button>
+</div>
+</header>
+</div>
+</div>
+</div>
+</div>
+<!-- Global Progress Bar -->
+<div class="w-full h-1 bg-border-light relative z-10">
+<div class="h-full bg-primary" style="width: 45%;"></div>
+</div>
+<!-- Hero Section -->
+<section class="flex-none h-[280px] min-h-[200px] flex items-center justify-center px-6">
+<h1 class="text-4xl md:text-5xl lg:text-6xl font-extrabold text-center tracking-tight text-slate-900 dark:text-slate-100">Biology: The Mechanics of Life</h1>
+</section>
+<!-- Content Section -->
+<main class="flex-grow flex justify-center px-4 pb-20">
+<div class="w-full max-w-[960px] flex flex-col">
+<!-- Syllabus Header -->
+<div class="flex items-center justify-between pb-4 border-b border-border-light mb-4 px-4">
+<span class="text-sm font-bold tracking-widest uppercase text-slate-500">Course Syllabus</span>
+<span class="text-sm font-semibold text-primary">45% Completed</span>
+</div>
+<!-- Topic Rows -->
+<div class="flex flex-col space-y-1">
+<!-- Topic 1: Completed -->
+<div class="flex flex-col md:flex-row md:items-center justify-between py-6 px-6 border border-transparent hover:border-border-light hover:bg-white/50 transition-all duration-200 group gap-4 md:gap-6 rounded-sm">
+<div class="flex items-center gap-4 flex-grow">
+<span class="material-symbols-outlined text-primary" style="font-variation-settings: 'FILL' 1;">check_circle</span>
+<h3 class="text-xl font-bold text-slate-900 dark:text-slate-100 group-hover:text-primary transition-colors">1. Cellular Respiration</h3>
+</div>
+<div class="flex flex-wrap items-center gap-2 md:gap-3"><button class="flex items-center gap-1.5 bg-primary text-white hover:bg-primary/90 px-3 py-1.5 rounded-full text-[11px] font-bold tracking-wide transition-all shadow-sm">
+<span class="material-symbols-outlined text-[16px]">description</span>
+  Review
+</button>
+<button class="flex items-center gap-1.5 bg-primary/10 text-primary hover:bg-primary/20 px-3 py-1.5 rounded-full text-[11px] font-bold tracking-wide transition-colors"><span class="material-symbols-outlined text-[20px]">style</span></button>
+<button class="flex items-center gap-1.5 bg-primary/5 text-primary/70 hover:bg-primary/10 px-3 py-1.5 rounded-full text-[11px] font-bold tracking-wide transition-colors"><span class="material-symbols-outlined text-[20px]">task_alt</span></button></div>
+</div>
+<!-- Topic 2: Active -->
+<div class="flex flex-col md:flex-row md:items-center justify-between py-6 px-6 bg-white border border-border-light shadow-sm rounded-sm gap-4 md:gap-6">
+<div class="flex items-center gap-4 flex-grow">
+<div class="w-6 h-6 rounded-full border-2 border-primary flex items-center justify-center">
+<div class="w-2.5 h-2.5 rounded-full bg-primary animate-pulse"></div>
+</div>
+<h3 class="text-xl font-extrabold text-slate-900 dark:text-slate-100">2. Genetics &amp; Inheritance</h3>
+</div>
+<div class="flex flex-wrap items-center gap-2 md:gap-3"><button class="flex items-center gap-1.5 bg-primary text-white hover:bg-primary/90 px-3 py-1.5 rounded-full text-[11px] font-bold tracking-wide transition-all shadow-md">
+<span class="material-symbols-outlined text-[16px]">description</span>
+  Review
+</button>
+<button class="flex items-center gap-1.5 bg-primary/10 text-primary hover:bg-primary/20 px-3 py-1.5 rounded-full text-[11px] font-bold tracking-wide transition-colors"><span class="material-symbols-outlined text-[20px]">style</span></button>
+<button class="flex items-center gap-1.5 bg-slate-100 text-slate-600 hover:bg-slate-200 px-3 py-1.5 rounded-full text-[11px] font-bold tracking-wide transition-colors"><span class="material-symbols-outlined text-[20px]">task_alt</span></button></div>
+</div>
+<!-- Topic 3: Locked/Pending -->
+<div class="flex flex-col md:flex-row md:items-center justify-between py-6 px-6 border border-transparent hover:bg-slate-50 transition-colors duration-200 group gap-4 md:gap-6 opacity-60">
+<div class="flex items-center gap-4 flex-grow">
+<span class="material-symbols-outlined text-slate-400">lock</span>
+<h3 class="text-xl font-bold text-slate-500 dark:text-slate-400 group-hover:text-slate-900 transition-colors">3. Evolutionary Biology</h3>
+</div>
+<div class="flex flex-wrap items-center gap-2 md:gap-3 pointer-events-none"><button class="flex items-center gap-1.5 bg-slate-100 text-slate-400 px-3 py-1.5 rounded-full text-[11px] font-bold tracking-wide">
+<span class="material-symbols-outlined text-[16px]">description</span>
+  Review
+</button>
+<button class="flex items-center gap-1.5 bg-slate-100 text-slate-400 px-3 py-1.5 rounded-full text-[11px] font-bold tracking-wide"><span class="material-symbols-outlined text-[20px]">style</span></button>
+<button class="flex items-center gap-1.5 bg-slate-100 text-slate-400 px-3 py-1.5 rounded-full text-[11px] font-bold tracking-wide"><span class="material-symbols-outlined text-[20px]">task_alt</span></button></div>
+</div>
+<!-- Topic 4: Locked/Pending -->
+<div class="flex flex-col md:flex-row md:items-center justify-between py-6 px-6 border border-transparent hover:bg-slate-50 transition-colors duration-200 group gap-4 md:gap-6 opacity-60">
+<div class="flex items-center gap-4 flex-grow">
+<span class="material-symbols-outlined text-slate-400">lock</span>
+<h3 class="text-xl font-bold text-slate-500 dark:text-slate-400 group-hover:text-slate-900 transition-colors">4. Ecology and Dynamics</h3>
+</div>
+<div class="flex flex-wrap items-center gap-2 md:gap-3 pointer-events-none"><button class="flex items-center gap-1.5 bg-slate-100 text-slate-400 px-3 py-1.5 rounded-full text-[11px] font-bold tracking-wide">
+<span class="material-symbols-outlined text-[16px]">description</span>
+  Review
+</button>
+<button class="flex items-center gap-1.5 bg-slate-100 text-slate-400 px-3 py-1.5 rounded-full text-[11px] font-bold tracking-wide"><span class="material-symbols-outlined text-[20px]">style</span></button>
+<button class="flex items-center gap-1.5 bg-slate-100 text-slate-400 px-3 py-1.5 rounded-full text-[11px] font-bold tracking-wide"><span class="material-symbols-outlined text-[20px]">task_alt</span></button></div>
+</div>
+</div><div class="mt-12 p-8 border-2 border-dashed border-primary/20 rounded-xl bg-primary/5 flex flex-col items-center text-center">
+<h4 class="text-lg font-bold text-slate-900 mb-2">Mastered the material?</h4>
+<p class="text-slate-500 text-sm mb-6">Take a randomized quiz covering all topics in Biology: The Mechanics of Life.</p>
+<button class="flex items-center gap-2 bg-primary text-white hover:bg-primary/90 px-8 py-3 rounded-full text-sm font-bold tracking-wide transition-all shadow-lg hover:shadow-primary/20">
+<span class="material-symbols-outlined">shuffle</span>
+    Comprehensive Subject Quiz
+  </button>
+</div>
+</div>
+</main>
+</body></html>

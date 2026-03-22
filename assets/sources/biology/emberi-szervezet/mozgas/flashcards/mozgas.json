@@ -1,0 +1,179 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi a csontrendszer legfontosabb biológiai funkciója?",
+      "definition": "A csontrendszer belső szilárd váz, amely a test alakját és méretét határozza meg. Részt vesz az érzékszervek védelmében, a tüdő működésében, vérképzésben és kalciumraktárként szolgál.",
+      "quote": "Váz, védelem, vérképzés",
+      "text": "A csontváz több mint 600 izomhoz biztosít tapadási pontot. A csontok 90%-a tartalmazza a test kalciumát. A vörös csontvelő a vérképzés fő helye."
+    },
+    {
+      "id": 2,
+      "term": "Mi a csontszövet összetétele és annak funkciója?",
+      "definition": "A csontszövet 40% szerves (kollagén, sejtek) és 60% szervetlen (kalciumsók, víz) anyagból áll. A szerves anyag rugalmasságot, a szervetlen anyag szilárdságot biztosít.",
+      "quote": "Kettős összetétel kettős funkció",
+      "text": "Sósavas kezeléssel kioldjuk a szervetlen anyagot, a csont rugalmassá válik. Égetéssel eltávolítva a szerves anyagot, a csont rideg és törékennyé válik."
+    },
+    {
+      "id": 3,
+      "term": "Milyen anyagok szabályozzák a csontanyagcserét?",
+      "definition": "A parathormon a mellékpajzsmirigyből növeli a vérkálcium-szintet. A kalcitriol (D-vitamin) bélben növeli a felszívódást. A kalcitonin a pajzsmirigyet csökkenti a szintet. Az ösztrogének gátolják a csontfaló sejteket.",
+      "quote": "Négy hormon egyensúlya",
+      "text": "Fiatal korban az ösztrogének biztosítják a csontok megfelelő állapotát. Idősebb korban az ösztrogénhiány csontritkulást eredményez, különösen nőknél a menopauzát követően."
+    },
+    {
+      "id": 4,
+      "term": "Hogyan változik a csont összetétele az életkor előrehaladtával?",
+      "definition": "Idősebb korban a csontok foszfát-, kollagén- és víztartalma csökken, karbonáttartalma nő. A rugalmasságot biztosító összetevők csökkenésével a törékenység fokozódik.",
+      "quote": "Rugalmasság csökken, törékenység nő",
+      "text": "A csonttömegvesztés miatti csontritkulás még súlyosbítja a helyzetet. Ez a folyamat nemtől és hormonális statusztól függően eltérő ütemű."
+    },
+    {
+      "id": 5,
+      "term": "Mi a csöves csont szerkezete és részei?",
+      "definition": "A csöves csontok kívülről csonthártyával borítottak. Belül tömör csontállomány található, amely szivacsos csontállományt körülhatárol. A velőüregben sárga csontvelő (inaktív) található.",
+      "quote": "Tömör külső, szivacsos belső",
+      "text": "A csöves csontok végein vörös csontvelő található, amely vérképzésben vesz részt. A csonthártya belső rétegében csontképző sejtek helyezkednek el."
+    },
+    {
+      "id": 6,
+      "term": "Mi a lapos csont funkciója és szerkezete?",
+      "definition": "A lapos csontok kétdimenziós csontok, belsejüket szivacsos állomány és vörös csontvelő tölti ki. Ilyen az agykoponyacsont, lapockacsont, medencecsont, bordák.",
+      "quote": "Vérképzési és védelmi szerep",
+      "text": "A lapos csontok jelentős mennyiségű vöröcs csontvelőt tartalmaznak, így nagy szerepük van vérképzésben. Védelmet nyújtanak az alattuk fekvő szerveknek."
+    },
+    {
+      "id": 7,
+      "term": "Mely csontok alkot a gerinc és milyen funkciót lát el?",
+      "definition": "A gerinc 32-35 csigolyából áll: 7 nyaki, 12 háti, 5 ágyéki, 5 keresztcsonti, 3-6 farokcsonti. Oldalnézetben kétszeres S görbületű, amely rugalmas alátámasztást és két lábon járást tesz lehetővé.",
+      "quote": "32-35 szegmentum S-görbe",
+      "text": "A csigolyák mérete lefelé nő a növekedő terheléshez. A gerinccsatornában a gerincvelő foglal helyet. A szelvényezettség a dermatómákban nyilvánul meg."
+    },
+    {
+      "id": 8,
+      "term": "Mi a csigolya felépítése és részei?",
+      "definition": "A csigolya testéből (szivacsos állomány, vörös csontvelő), csigolyaívből, hátsó tövisnyúlványból, harántnyúlványokból, és ízületi nyúlványokból áll. A csigolyalyukak a gerinccsatornát képezik.",
+      "quote": "Öt funkcionális komponens",
+      "text": "A hátsó tövisnyúlvanyk hátizmok tapadási felülete. A harántnyúlványokhoz a bordák ízesülnek. Az ízületi nyúlványok csigolyák közötti mozgást teszik lehetővé."
+    },
+    {
+      "id": 9,
+      "term": "Milyen az agyi koponya szerkezete és csontjai?",
+      "definition": "Az agykoponya 7 csontból áll: homlokcsont, ékcsont, nyakszirtcsont, falcsontok (páros), halántékcsontok (páros). Varratos összeköttetésekkel kapcsolódnak, idősebb korban összecsontosodnak.",
+      "quote": "Hét csont körülzárva az agyat",
+      "text": "Magzatban a csontok még nem érnek össze, között kötőszövetes lemezek (kutacs) találhatók. Ez lehetővé teszi a magzat könnyebb áthaladását a szülőcsatornán és az agy térfogat-növekedését."
+    },
+    {
+      "id": 10,
+      "term": "Milyen a női és férfi medence közötti különbség?",
+      "definition": "Nőknél a medence szélesebb és alacsonyabb, a szeméremcsontok által bezárt szög tompább. Férfiaknál a medence szűk és magas, a szög hegyesebb. Ez a szülésben fontos szerepet játszik.",
+      "quote": "Nő: széles, férfi: szűk",
+      "text": "A medencecsont a keresztcsontból, csípőcsontból, szeméremcsontból és ülőcsontból nő össze. A medence alakja másodlagos nemi jelleg."
+    },
+    {
+      "id": 11,
+      "term": "Milyen típusú ízületek léteznek és működésük?",
+      "definition": "Feszes ízületek: minimális mozgást tesznek lehetővé (kereszt-medenceízület). Mozgékony ízületek: egytengelyű (térd, könyök), kéttengelyű (nyeregízület, tojásízület), soktengelyű (gömbízület).",
+      "quote": "Mozgás mértéke szerinti osztályozás",
+      "text": "Az ízületi felszín alakja és az elmozdulás iránya határozza meg az ízület típusát. A gömbízület (csípő, váll) a legnagyobb mozgás-szabadságot biztosít."
+    },
+    {
+      "id": 12,
+      "term": "Mi az ízület felépítése?",
+      "definition": "Az ízületi felszín üvegporccal borított. Az egyik csontvég domború (ízületi fej), a másik homorú (vápa). Az ízületi tok termeli az ízületi nedvet. Szalagok biztosítják a stabilitást.",
+      "quote": "Porc, nedv, tok, szalagok",
+      "text": "Az ízületi negyedek (meniszkuszok) az ízület stabilitását és működését javítják. Az ízületi tok és szalagok mellett a külső légnyomásnak is szerepe van az összetartásban."
+    },
+    {
+      "id": 13,
+      "term": "Hány izom van az emberi testben és melyik a működésük?",
+      "definition": "Az emberi testben több mint 600 elkülönült vázizom található, amely a testtömeg körülbelül 45-50%-át adja. Akaratunktól függően működnek, gyorsan összehúzódnak, nagy erőkifejtésre képesek, de fáradékonyak.",
+      "quote": "600+ izom, félig testtömeg",
+      "text": "Az izmokat inak kapcsolják a csontokhoz. Az elmozduló csonton az izom tapadási helye, a másik csonton az eredési helye. Az antagonista izmok ellentétesen működnek."
+    },
+    {
+      "id": 14,
+      "term": "Milyen a harántcsíkolt izomszövet felépítése?",
+      "definition": "A harántcsíkolt izomszövet szöveti egysége az izomrost (óriássejt, sok sejtmagot tartalmaz). Az izomrostokat membrán határolja. Sok izomrost köteggé szerveződik (perimysium köti össze). Az izmokat izompólya (epimysium) határol.",
+      "quote": "Hierarchikus szépítésmód",
+      "text": "Az izomroston belül izomfonalkötegek (miofibrillumok) helyezkednek el, amelyek izomfonalakból (miofilamentumokból) állnak. Az izomfonalkötegek között sok mitokondrium van."
+    },
+    {
+      "id": 15,
+      "term": "Mi az aktin és miozin szerkezete?",
+      "definition": "Az F-aktin két egymás köré tekeredő gyöngysorszerű fonalon két G-aktin monomerből áll. A miozin 24 molekulából felépült vastag fonal, golfütőkhöz hasonló. Két globuláris feji részből és fibrilláris részből áll.",
+      "quote": "Vékony: aktin, vastag: miozin",
+      "text": "A miozin fejében van az aktinkötő centrum és az ATP-bontó aktivitás. Az F-aktin a Z-lemez által tartódik össze. A szarkomer a Z-lemezek közötti szakasz."
+    },
+    {
+      "id": 16,
+      "term": "Mi a szarkomer szerkezete és funkciója?",
+      "definition": "A szarkomer az izomfonalköteg periodikusan ismétlődő egysége, két Z-lemez közötti szakasz. A vékony fonalak csak a világos sávokat építik fel, a vastag fonalak a sötét sávokban helyezkednek el.",
+      "quote": "Alapegység izom összehúzódás",
+      "text": "Az összehúzódás során a szarkomerek megrövidülnek, a Z-vonalak egymáshoz közelednek. A szarkomerek rövidülése összeadódik az egész izom nagymértékű rövidülésévé."
+    },
+    {
+      "id": 17,
+      "term": "Milyen az izom-összehúzódás csúszómechanizmusa?",
+      "definition": "Az idegrostok végződéseiből felszabaduló ingerületátvivő hatására Ca2+ szabadul fel. A miozin fejei az aktinhoz kötődnek, bólintó mozgást végeznek. Az ATP és Mg2+ kötéskor leválnak az aktinról.",
+      "quote": "Csúszás és kötődés ciklus",
+      "text": "Az ATP bontásakor felszabaduló energia aktívábítja a miozin fejeket. A folyamat ismétlődése a szarkomerek megrövidülésében nyilvánul meg."
+    },
+    {
+      "id": 18,
+      "term": "Miért szükséges Ca2+ és Mg2+ a музum működéséhez?",
+      "definition": "A Ca2+ a troponiánhoz kötődve szabaddá teszi a miozinkötőhelyet. A Mg2+ az ATP nem önmagában, hanem Mg-ATP-komplexben kötődik a miozinhoz. Hiánya izomgörcsöket okoz.",
+      "quote": "Ca és Mg ion esszenciális",
+      "text": "Ca2+ hiánya fokozza az ideg-izom ingerlékenységet, csökkenti az izomrostok ingerküszöbét. Mg2+ hiánya hasonló következményekkel jár, a miozinfej hozzákapcsolódva marad az aktinhoz (rigor)."
+    },
+    {
+      "id": 19,
+      "term": "Mi a kreatin-foszfát szerep az izom működésében?",
+      "definition": "A kreatin-foszfát az izom saját energiatárolóműlékulája. Gyorsan ATP-t termel, amely az izom-összehúzódáshoz szükséges. Lehetővé teszi az izom nagymértékű erőkifejtést.",
+      "quote": "Energiaraktár rövid terheléshez",
+      "text": "Az izomban kezdetben a tárolt ATP korlátozott ideig elegendő. A kreatin-foszfát gyorsan pótlja az ATP-t. Ezt követően az aerob és anaerob anyagcsere veszi át az energiaellátást."
+    },
+    {
+      "id": 20,
+      "term": "Mi az izomtónus és miért fontos?",
+      "definition": "Az izomtónus az izomnak a nyugalmi állapotban is meglevő egyensúlyi összehúzódása. Ez biztosítja a testtartást, az izom-szivatvány ellenálló képességét és az ízületek stabilitását.",
+      "quote": "Passzív összehúzódás fenntartás",
+      "text": "Az izomtónus reflexek által fenntartott. Az öregedéskor csökken az izomtónus, ami a testtartás romlásához vezethet. Az izomtónus hiánya (hipotónia) vagy túl magas szintje (hipertónia) patológia jele."
+    },
+    {
+      "id": 21,
+      "term": "Milyen fő izmok működése fontos a mozgásban?",
+      "definition": "A felső végtagban: bicepsz (hajlító), tricepsz (feszítő). Az alsó végtagban: négy fejű combizom (feszítő), hátulsó lábszárizom-vádli (hajlító). A törzsnél: nagy mellizom, hasizmok, bordaközi izmok, rekeszizom.",
+      "quote": "Kulcs izmok a mozgáshoz",
+      "text": "Az antagonista izmok ellentétesen működnek. A végtagokon a hajlító és feszítő izmok párzó egységeket képeznek. A törzs izmok a stabilizálást biztosítják."
+    },
+    {
+      "id": 22,
+      "term": "Mit jelent a rándulás, ficam és törés?",
+      "definition": "Rándulás: az ízületi szalagok szakadása vagy megnyúlása. Ficam: az ízületi végek egymáshoz viszonyított helyzetének megváltozása. Törés: a csont szerkezeti folytonossági megzavarása (nyílt vagy zárt).",
+      "quote": "Különféle ízületi és csont sérülések",
+      "text": "Nyílt törés: a csont áttöri a bőrt. Zárt törés: a bőr épsilon marad. Az elsősegélynyújtás fontos ebben az első percekben."
+    },
+    {
+      "id": 23,
+      "term": "Mi az izomláz és miért alakul ki?",
+      "definition": "Az izomláz a hirtelen vagy intenzív fizikai megterhelés után is kialakuló izomfájdalom. Az izom mikroskopikus sérüléseiből és gyulladásos válaszból ered. Az izom-lezárulat történik az edzésen kívüli izmok sérüléséből.",
+      "quote": "Túlterhelés által okozott fájdalom",
+      "text": "Az izomláz 24-48 óra után a legjelentősebb. Megelőzésében a bemelegítés és az edzés intenzitásának fokozatos növelése fontos. Az enyhítésben pihenés, hideg kezelés és könnyed mozgatás segít."
+    },
+    {
+      "id": 24,
+      "term": "Miért fontos a bemelegítés sporttevékenység előtt?",
+      "definition": "A bemelegítés fokozza az izom vérátáramlást, megnöveli az izom hőmérsékletét, javítja a mozgékonyságot, csökkenti az izomfájdalmat és a sérülés kockázatát.",
+      "quote": "Előkészítés sérülésmentes működéshez",
+      "text": "A fokozatos intenzitásnövekedés elkerüli az izomlázt. A bemelegítés alatt a szerv feutzületi folyadék termelődésének is lehetőséget ad."
+    },
+    {
+      "id": 25,
+      "term": "Milyen gerincsérülések és a következményeik?",
+      "definition": "A gerincvelő sérülése szöveti roncsolódást okoz, amely maradandó funkciózavarhoz vezethet. A sérülés szintje meghatározza, mely izomcsoportok károsodnak. A sérülés alatt lévő izmok paralize mehet.",
+      "quote": "Gerincvelő sérülés → funkció elvesztés",
+      "text": "A magas nyaki sérülés minden végtagot érinting. Az ágyéki sérülés csak az alsó végtagokat érinti. A fizikai terápia és rehabilitáció fontos a fennmaradó funkciók megőrzésében."
+    }
+  ]
+}

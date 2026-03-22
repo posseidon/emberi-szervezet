@@ -1,0 +1,144 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi az anyagcsere (metabolizmus)?",
+      "definition": "Az élő sejtekben zajló biokémiai folyamatok összessége. Az élőlények a környezetből anyagokat és energiát vesznek fel, feldolgozzák, és leadják.",
+      "quote": "Anyagcsere: az élet folytonos átalakulása",
+      "text": "Az anyagcsere felépítő és lebontó folyamatokból áll. A felvétel és leadás közötti átalakító folyamatok összessége az intermedier (köztes) anyagcsere."
+    },
+    {
+      "id": 2,
+      "term": "Mi a különbség izolált, zárt és nyílt rendszer között?",
+      "definition": "Izolált: sem anyag-, sem energiaforgalom. Zárt: csak energiaforgalom. Nyílt: anyag- és energiaforgalom is. Az élő rendszerek nyíltak.",
+      "quote": "Nyílt rendszer: kicserélés szüksége",
+      "text": "Az élő rendszerek nyílt anyagi rendszerek, amely anyag- és energiaforgalmat bonyolít a környezetével. Ez az információáramlással együtt az élet alapvető jellemzője."
+    },
+    {
+      "id": 3,
+      "term": "Mi a biológiai energia és ATP?",
+      "definition": "A biológiai energia a kémiai energia speciális fajtája, nagy energiájú kémiai kötésekhez kapcsolódik. Az ATP az energiatározó és -szállító vegyület.",
+      "quote": "ATP: az élet energiapénze",
+      "text": "ATP bomlásakor: ATP = ADP + Pi + energia. ATP termeléskor: ADP + Pi + energia = ATP. A sejt ATP-készlete állandó, függőleges és termelő folyamatokkal fenntartott."
+    },
+    {
+      "id": 4,
+      "term": "Mi a kémiai energia?",
+      "definition": "A kémiai energia a kémiai kötések hasadásához szükséges, illetve kialakulásukkor felszabaduló energiamennyiség.",
+      "quote": "Kötések: energia tárolói és forrásai",
+      "text": "Az élőlények a kémiai energia felhasználásával végeznek munkát: mozgás, anyagszállítás, szintézis. Ezt az energiát az ATP formájában tárolják és hasznosítják."
+    },
+    {
+      "id": 5,
+      "term": "Az élő rendszerek miért tartanak fenn egyensúlytalanságot?",
+      "definition": "Mivel az élő rendszerek elkülönülnek a környezettől, belső környezetük tényezői (pH, ionkoncentráció, hőmérséklet) jelentősen eltérnek a külső értékektől.",
+      "quote": "Egyensúlytalanság: az élet jellegzetessége",
+      "text": "Az élő rendszerek rendezettsége és energiatartalma jóval nagyobb, mint az élettelen környezeté. Ez az egyensúlytalanság az élő állapot egyik legalapvetőbb jellemvonása."
+    },
+    {
+      "id": 6,
+      "term": "Mit jelent az entrópia és milyen szerepe van?",
+      "definition": "Az entrópia mértékegysége a rendezetlenségnek. Az élettelen világban minden folyamat az entrópia növekedése felé halad, az élők ezt megfordítják.",
+      "quote": "Entrópia: rend és rendezetlenség",
+      "text": "Az élettelen rendszerek az energiaminimumra törekednek (entrópia növekszik). Az élő rendszerek ezt ellenkező irányban tartják, ezt fenntartásához energia szükséges."
+    },
+    {
+      "id": 7,
+      "term": "Felépítő folyamat (anabolizmus): definíció és funkció?",
+      "definition": "Az élőlények a felvett anyagokat beépítik saját testükbe, szerkezetük felépítésében használják fel. Ez energiaforrást igényel.",
+      "quote": "Felépítés: szintézis, növekedés",
+      "text": "A felépítő folyamatok során kisebb molekulák nagyobb molekulákká egyesülnek (kondenzáció). Például fehérjeszintézis, glikogen-szintézis. Energiaveszteséggel jár."
+    },
+    {
+      "id": 8,
+      "term": "Lebontó folyamat (katabolizmus): definíció és funkció?",
+      "definition": "Az élőlények a felvett anyagokat energianyerés céljából lebontják. Ez energiatermelő folyamat.",
+      "quote": "Lebontás: energia-felszabadulás",
+      "text": "A lebontó folyamatok nagyobb molekulákat kisebb egységekre hasítanak (hidrolízis). Például: szénhidrátok lebontása, fehérjék lebontása. Energia felszabadul."
+    },
+    {
+      "id": 9,
+      "term": "Mi az autotróf szervezet?",
+      "definition": "Az autotróf szervezet saját szerves anyagait szintetizálni képes, szén-dioxidból indulva. Fototrófok (növények) és kemotrófok (baktériumok) tartoznak ide.",
+      "quote": "Autotróf: önellátó élet",
+      "text": "Fototrófok: napenergiát használnak (fotoszintézis). Kemotrófok: kémiai energiát használnak (kemosztintézis). Mindkettő CO2-ből készít szerves anyagot."
+    },
+    {
+      "id": 10,
+      "term": "Mi a heterotróf szervezet?",
+      "definition": "A heterotróf szervezet nem képes saját szerves anyagait szintetizálni, kész szerves anyagokra szorul. Például: állatok, gombák.",
+      "quote": "Heterotróf: étvágy az élet",
+      "text": "Heterotróf szervezetek az autotróf szervezetek termékeit fogyasztják. Az energia- és anyagáramlás a föld ökoszisztémájában ezeken a kapcsolatokon alapszik."
+    },
+    {
+      "id": 11,
+      "term": "Mi a fotótróf szervezet?",
+      "definition": "A fotótróf szervezet fény-energiát használ az élet működtetésére. Például: zöld növények, fotoszintetikus baktériumok.",
+      "quote": "Fototrófok: napenergia-hasznosítók",
+      "text": "A fototrófok a fényenergiát kémiai energiává alakítják átfotoszintézis útján. Ezt az energiát saját szerves anyagaik szintéziséhez használják."
+    },
+    {
+      "id": 12,
+      "term": "Mi a kemotrófikus szervezet?",
+      "definition": "A kemotrófikus szervezet a kémiai energia felhasználásához van adaptálódva. Például: egyes baktériumok (nitrifikáló baktériumok).",
+      "quote": "Kemotrófok: vegyület-emésztők",
+      "text": "A kemotróf szervezetek a szerves vagy szervetlen vegyületek oxidációjából nyerik az energiát. Ilyen a vas-oxidáló, kén-oxidáló vagy nitrifikáló baktériumok."
+    },
+    {
+      "id": 13,
+      "term": "Hidrolízis folyamata és szerepe?",
+      "definition": "A hidrolízis során egy nagyobb molekula víz belépésével kisebb molekulákra bomlik. Fontosnak az emésztésben, makromolekulák monomerekre bomlásában.",
+      "quote": "Hidrolízis: vízzel szétszakadás",
+      "text": "Általános képlet: A-B + H2O = A-OH + B-H. Az emésztésben az enzimek hidrolítikus enzimek. Például: szénhidrátok glükózra, fehérjék aminosavakra bomlása."
+    },
+    {
+      "id": 14,
+      "term": "Kondenzáció folyamata és szerepe?",
+      "definition": "A kondenzáció során kisebb molekulák víz kilépésével nagyobb molekulákká egyesülnek. Monomerek makromolekulákká összekapcsolódásában jut szerepe.",
+      "quote": "Kondenzáció: víz nélküli egyesülés",
+      "text": "Általános képlet: A-OH + B-H = A-B + H2O. Fehérjeszintézisben: aminosavak peptidkötések által egyesülnek. Szénhidrátok összekapcsolódnak."
+    },
+    {
+      "id": 15,
+      "term": "Az átépítés energiavesztesége miért szükséges?",
+      "definition": "Az anyagátalakítás, felépítés, mozgás mind energiaveszteséggel jár. Ez az egyik oka annak, hogy nagyobb energiamenyiség szükséges a termeléshez.",
+      "quote": "Energia-veszteség: termodinamikai realitás",
+      "text": "Az átépítés során nyújtott energia egy része hővé alakul. Ez a termodinamika második törvényére vezethető vissza (entrópia-növekedés)."
+    },
+    {
+      "id": 16,
+      "term": "Intermedier anyagcsere: mi az és miért fontos?",
+      "definition": "Az intermedier (köztes) anyagcsere a felvételés leadás közötti átalakító folyamatok összessége. Fenntartja az élőlény egyediségét a változó környezetben.",
+      "quote": "Intermedier: azonosság fenntartása",
+      "text": "Az intermedier anyagcsere szabályozza, hogy mely anyagok kerülnek beépítésbe, melyek degradálódnak, és mely toxinok távolodnak el."
+    },
+    {
+      "id": 17,
+      "term": "Miért van szükség az élő rendszereknek energiára?",
+      "definition": "Az élő rendszerek az egyensúlytalanságot folyamatosan fenntartják. Ehhez energiára van szükség, mert az élet végső soron munkavégzés.",
+      "quote": "Energia: az élet folytonos munkája",
+      "text": "Az energia szükséges az ös-szerakás fenntartásához, az entrópia elleni küzdelemhez. Ezért az élő rendszerek szüntelen energiaáramlásra szorulnak."
+    },
+    {
+      "id": 18,
+      "term": "Az élő rendszer halálát biológiai perspektívából hogyan lehet értelmezni?",
+      "definition": "Az élet megszűnésével az egyensúlytalanság és rendezettsége véget ér, átadva helyét az élettelen világban fennálló egyensúlynak és rendezetlenségnek.",
+      "quote": "Halál: rendezetlenség visszatérése",
+      "text": "Halált az energia-bevétel szintjének beszüntetése okozza. Az organizmus visszarendeződik az elletelen egyensúlyba. Az entrópia növekedése felé halad."
+    },
+    {
+      "id": 19,
+      "term": "Az információáramlás szerepe az élő rendszerekben?",
+      "definition": "Az anyag- és energiaáramlás mellett az információáramlás elengedhetetlen az élő rendszerek működésében. A három folyamat összekapcsolódik.",
+      "quote": "Információ: szervezettség kódja",
+      "text": "Az energia és az információ anyagok formájában áramlik. Az információ az anyagok szerkezetében kódolódik (például DNS-ben). A három folyamat szét nem választható."
+    },
+    {
+      "id": 20,
+      "term": "Hogyan függenek össze az élő rendszer és a környezete?",
+      "definition": "Az élő rendszerek és a környezete között folytonos kölcsönhatás van. A sejtanyagcsere-folyamatai ebben a kölcsönhatásban mennek végbe.",
+      "quote": "Élet: folytonos kölcsönhatás",
+      "text": "Az élő rendszerek anyagot és energiát vesznek fel a környezetből, és adnak le. Ez a folyamat feladata az egyensúlytalanság fenntartása."
+    }
+  ]
+}

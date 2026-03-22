@@ -1,0 +1,201 @@
+{
+  "subjectId": "biology",
+  "moduleId": "homeostazis",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "A vezetéklés és a szabályozás közötti alapvető különbség melyik jellemzője a kontrollmechanizmusnak?",
+      "options": [
+        "Azonos mértékben függenek a központi idegrendszertől",
+        "A vezetéklés gyorsabb, mint a szabályozás",
+        "A szabályozás kétirányú visszacsatoláson alapul, míg a vezetéklés egyirányú",
+        "A vezetéklés csak tudatos irányításra képes"
+      ],
+      "answer": "A szabályozás kétirányú visszacsatoláson alapul, míg a vezetéklés egyirányú"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Amikor a test hőmérséklete 36°C-re csökken (van érték), és az alapértékelése 37°C (kell érték), az agyban képződött hibajel melyik kompenzációs folyamatot indít el?",
+      "options": [
+        "A szintesejt aktiválódása, amely párologtatást csökkent",
+        "A fűtőközpont aktivitásának fokozódása, amely növeli a testhőmérsékletet",
+        "A hipotalamusz gátlása, amely csökkenti az anyagcserét",
+        "A verejtékmirigyek megnyílása, amely fokozza a hőleadást"
+      ],
+      "answer": "A fűtőközpont aktivitásának fokozódása, amely növeli a testhőmérsékletet"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "A negatív visszacsatolás homeosztázist stabilizáló hatásmechanizmusa melyik alapvető tulajdonságára alapul?",
+      "options": [
+        "A rendszer memóriájára és tanulásképességére",
+        "Az ingerek egyesítésére több vezérlési szintben",
+        "A hormonális és idegi szabályozás párhuzamos működésére",
+        "A rendszer kimeneti hatásai gyengítik a belépő ingert, ezáltal csökkentik az eltérést"
+      ],
+      "answer": "A rendszer kimeneti hatásai gyengítik a belépő ingert, ezáltal csökkentik az eltérést"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Milyen fiziológiai körülmény között kapcsolódik ki normális körülmények között a negatív visszacsatolású kompenzációs mechanizmus?",
+      "options": [
+        "Stressz állapotában, amikor a hipotalamusz az agytörzsi szabályozást felülírja",
+        "Az éjszakai alvás során, amikor a szimpatikus rendszer lecsengő aktivitása",
+        "Normális anyagcsere alatt, amikor az enzimműködés optimális",
+        "Előrehajlási (anticipatory) folyamatban, amikor az agy várható terhelésre készül"
+      ],
+      "answer": "Stressz állapotában, amikor a hipotalamusz az agytörzsi szabályozást felülírja"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Az aldoszteron hormon nátriumhiány esetén kiváltott fokozódott elválasztása milyen szintű biológiai szabályozásnak az eredménye?",
+      "options": [
+        "Sejtszintű genetikai szabályozásnak",
+        "Sejtszintű enzimműködés szabályozásnak",
+        "Szervezetszintű endokrin szabályozásnak",
+        "Szervezetszintű idegi reflexnek"
+      ],
+      "answer": "Szervezetszintű endokrin szabályozásnak"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "A belső környezet homeosztázisa mely paraméter értékét NEM szabályozza direkt módon a vese működése révén?",
+      "options": [
+        "Az ozmotikus koncentrációt",
+        "Az ionösszetételt",
+        "A testfolyadékok térfogatát",
+        "A testfolyadékok tápanyagkoncentrációját"
+      ],
+      "answer": "A testfolyadékok tápanyagkoncentrációját"
+    },
+    {
+      "id": 7,
+      "type": "BLANK",
+      "question": "Az irányítási folyamat alapműveleteinek sorrendje: alapjelképzés, _____, összehasonlítás, döntés.",
+      "options": [],
+      "answer": "mérés"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ a folyamat, amikor a szabályozórendszer a hibajellel ellentétes előjelű hatással módosítja a rendszer működését, ezáltal stabilizálva a szervezetet.",
+      "options": [],
+      "answer": "negatív visszacsatolás"
+    },
+    {
+      "id": 9,
+      "type": "BLANK",
+      "question": "A belső környezet kialakul a _____ és a vér testfolyadékai révén, amely a sejtek számára optimális feltételeket biztosít.",
+      "options": [],
+      "answer": "szövet közti folyadék (vagy testfolyadékok)"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az _____, az epigenetikai szabályozás és a mikro-RNS-ek alkalmazása a sejtszintű szabályozás mechanizmusai közé tartoznak.",
+      "options": [],
+      "answer": "genetikai szabályozás (vagy génműködések szabályozása)"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "A _____ a szövetekből kilépő jellegzetes nyílásos strukturált hálózat, amely az alacsonyabb szint kölcsönhatásaiból magasabb szintű új tulajdonságok keluetnek ki.",
+      "options": [],
+      "answer": "emergencia (vagy megjelenés)"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ az a tudományterület, amely a viselkedési, agyi és immunfolyamatok közötti kölcsönhatásokat kutatja.",
+      "options": [],
+      "answer": "pszichoneuroimmunológia"
+    },
+    {
+      "id": 13,
+      "type": "BLANK",
+      "question": "A kiválasztás szűkebb értelemben csak a _____ működésével valósul meg, amely eltávolítja a felesleges vizet, ionokat és mérgező bomlástermékeket.",
+      "options": [],
+      "answer": "vesék"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az emberi szervezetben élő mikrobák összessége, genetikai állománya és kölcsönhatásai képezik a _____, amely nélkülözhetetlen az egészséges működés szempontjából.",
+      "options": [],
+      "answer": "mikrobiom"
+    },
+    {
+      "id": 15,
+      "type": "BLANK",
+      "question": "A mikrobiom összetételének kóros megváltozása kapcsolatban áll olyan betegségek kialakulásával, mint a bélproblémák, elhízás, és a _____.",
+      "options": [],
+      "answer": "cukorbetegség (vagy depresszió, szorongás)"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "A hierarchikus rendszerszemlélet alapján az emberi szervezet felépítésének helyes sorrendje az alábbiak közül melyik?",
+      "options": [
+        "Sejtek - szövetek - atomok - molekulák - szervrendszerek - szervek",
+        "Atomok - molekulák (fehérjék) - sejtalkotók - sejtek - szövetek - szervek - szervrendszerek",
+        "Szervrendszerek - szervek - szövetek - sejtek - molekulák - atomok",
+        "Molekulák - sejtek - szövetek - szervek - szervrendszerek - atomok"
+      ],
+      "answer": "Atomok - molekulák (fehérjék) - sejtalkotók - sejtek - szövetek - szervek - szervrendszerek"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Az epigenetikai szabályozás NEM változtatja meg a DNS nukleotid-sorrendjét, de hogyan módosítja a gének működését?",
+      "options": [
+        "Az mRNS szerkezetének módosításával",
+        "Az RNS-polimerázok inaktiválásával",
+        "A riboszómák számának csökkentésével",
+        "A DNS vagy a DNS-hez kapcsolódó hiszton fehérjék kémiai módosításával"
+      ],
+      "answer": "A DNS vagy a DNS-hez kapcsolódó hiszton fehérjék kémiai módosításával"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "A mikro-RNS-ek milyen mechanizmuson keresztül szabályozzák a fehérjeszintézist?",
+      "options": [
+        "Az mRNS molekula végéhez kötődve, általában gátolva a fehérjeszintézist",
+        "Az mRNS ledobásával az embrionális fejlődés során",
+        "A DNS transzkripciójának előmozdításával",
+        "A riboszómák között kötések létrehozásával"
+      ],
+      "answer": "Az mRNS molekula végéhez kötődve, általában gátolva a fehérjeszintézist"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik állítás helyesen jellemzi az emergens jelenségeket a biológiai rendszerekben?",
+      "options": [
+        "Az elemek tulajdonságainak egyszerű összeadása adja az emergencia",
+        "Az emergencia csak élettelen rendszerekben jelenik meg",
+        "Az új jellegzetességek az elemek kölcsönhatásaiból keletkeznek, nem vezethetők le az elemek individuális tulajdonságaiból",
+        "Az emergencia a szervezetszint szabályozásának másik elnevezése"
+      ],
+      "answer": "Az új jellegzetességek az elemek kölcsönhatásaiból keletkeznek, nem vezethetők le az elemek individuális tulajdonságaiból"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "A szövetszintű hormonok (parakrin szabályozás) milyen mechanizmuson működnek?",
+      "options": [
+        "Közvetlenül a környező szövetre hatnak, nem jut be a vérkeringésbe",
+        "Az egész szervezetre ható keringési úton keresztül",
+        "Csak az idegrendszeren keresztül működnek",
+        "Az embrionális fejlődés alatt, de a felnőtt szervezetben nem működnek"
+      ],
+      "answer": "Közvetlenül a környező szövetre hatnak, nem jut be a vérkeringésbe"
+    }
+  ]
+}
