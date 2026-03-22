@@ -1,0 +1,306 @@
+{
+  "subjectId": "biology",
+  "moduleId": "szervetlen-szerves-alkotoelemek",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely négy elem alkotja az elsődleges biogén elemeket, amelyek az élő szervezetek tömegének több mint 95-97%-át képezik?",
+      "options": [
+        "H, O, C, N",
+        "H, O, C, Na",
+        "H, O, N, P",
+        "C, N, S, P"
+      ],
+      "answer": "H, O, C, N"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Mi a legfontosabb oka annak, hogy a szén az életben olyan kitüntetett szerepet játszik?",
+      "options": [
+        "Atomjai szinte korlátlan számban képesek egymással összekapcsolódni, különféle stabil óriásmolekulákat létrehozva",
+        "A legabundánsabb elem a Föld légkörében",
+        "Elektrosztatikus erői az összes többi elemhez képest legerősebbek",
+        "Csak szénből épülnek fel az élő szervezetek"
+      ],
+      "answer": "Atomjai szinte korlátlan számban képesek egymással összekapcsolódni, különféle stabil óriásmolekulákat létrehozva"
+    },
+    {
+      "id": 3,
+      "type": "BLANK",
+      "question": "A víz molekulájának szerkezete poláris és _____, mivel az oxigénatomon elektronfelesleg alakul ki.",
+      "options": [],
+      "answer": "dipólusos"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Mely fizikai tulajdonságok magyarázhatók a vízben lévő hidrogénkötésekkel?",
+      "options": [
+        "Magas olvadás- és forráspont, nagy hőkapacitás, nagy párolgáshő, fagyáskor térfogata nő",
+        "Alacsony sűrűség, agresszív kémiai viselkedés, folyékony halmazállapot",
+        "Nagy vezetőképesség, magas fagyáspont, kis párolgáshő",
+        "Kristályos szerkezet, nagy keménység, nem nyúlékony"
+      ],
+      "answer": "Magas olvadás- és forráspont, nagy hőkapacitás, nagy párolgáshő, fagyáskor térfogata nő"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A víznek nagy _____ költségvetésére vonatkozóan klímameghatározó szerepe van, mivel nagyobb víztömegek lassabban melegszenek fel és hűlnek le.",
+      "options": [],
+      "answer": "hőkapacitása"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Mit jelent a pH érték 7-es értéke?",
+      "options": [
+        "Semleges oldatot jelent",
+        "Savas oldatot jelent",
+        "Lúgos oldatot jelent",
+        "Erősen savas oldatot jelent"
+      ],
+      "answer": "Semleges oldatot jelent"
+    },
+    {
+      "id": 7,
+      "type": "BLANK",
+      "question": "A lipidek olyan szerves vegyületek, amelyek _____ oldószerekben benzinben, benzolban vagy toluolban jól oldódnak.",
+      "options": [],
+      "answer": "apoláris"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "Mely molekulák összekapcsolódásából jönnek létre a neutrális zsírok (trigliceridek)?",
+      "options": [
+        "Glicerin és zsírsavak",
+        "Szénhidrát és fehérje",
+        "Foszforsav és szénhidrogén",
+        "Keményítő és cellulóz"
+      ],
+      "answer": "Glicerin és zsírsavak"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mi a foszfolipidek legfontosabb biológiai szerepe?",
+      "options": [
+        "A sejtekben határhártyákat és membránokat hoznak létre, vizes tereket választanak el",
+        "Energiaraktározást végeznek az élőlényekben",
+        "Strukturális támasztást biztosítanak a csontoknak",
+        "Hormonok előanyagaiként működnek"
+      ],
+      "answer": "A sejtekben határhártyákat és membránokat hoznak létre, vizes tereket választanak el"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az epesavak _____ vegyületek, amelyek az epében fordul elő, és a zsírok emésztésében játszanak szerepet.",
+      "options": [],
+      "answer": "szteroidok"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mely hormonok közé tartoznak a szteránvázas vegyületek?",
+      "options": [
+        "Koleszterin, progeszteron, ösztrogén, tesztoszteron",
+        "Inzulin, glukagon, adrenalindall",
+        "Melanin, keratinnal",
+        "Riboflavin, thiaminal"
+      ],
+      "answer": "Koleszterin, progeszteron, ösztrogén, tesztoszteron"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Mi a D3-vitamin biológiailag aktív formája?",
+      "options": [
+        "1,25-dihidroxi-kolekalciferol",
+        "7-dehidrokoleszterin",
+        "25-hidroxi-kolekalciferol",
+        "Kolekalciferol"
+      ],
+      "answer": "1,25-dihidroxi-kolekalciferol"
+    },
+    {
+      "id": 13,
+      "type": "BLANK",
+      "question": "Az A-vitamin (retinol) az emberben a _____ előanyagából keletkezik, majd a májban raktározódik.",
+      "options": [],
+      "answer": "karotinból"
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "Mely monoszacharid a legfontosabb a biológiai folyamatok szempontjából?",
+      "options": [
+        "Glükóz, mivel a sejtek elsődleges energiaforrása",
+        "Fruktóz, mivel a legédesebb ízű",
+        "Galaktóz, mivel a tejban fordul elő",
+        "Ribóz, mivel a DNS-ben játszik szerepet"
+      ],
+      "answer": "Glükóz, mivel a sejtek elsődleges energiaforrása"
+    },
+    {
+      "id": 15,
+      "type": "BLANK",
+      "question": "A _____ vizes oldatban lecsapódva alaktalan fehér keményítőoldatot jelent, amely jódindikátorral kékre változik.",
+      "options": [],
+      "answer": "Lugol-oldat"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Mely diszacharidok tartoznak az élelmiszerekben előforduló cukrok közé?",
+      "options": [
+        "Maltóz, laktóz, szacharóz",
+        "Glükóz, fruktóz, szacharóz",
+        "Galaktóz, glükóz, fruktóz",
+        "Ribóz, dezoxiribóz, glükóz"
+      ],
+      "answer": "Maltóz, laktóz, szacharóz"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "A keményítő több száz _____ molekulából épül fel, és a növényekben tartalék tápanyag.",
+      "options": [],
+      "answer": "alfa-glükóz"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Mi a cellulóz biológiai szerepe a növényi sejtekben?",
+      "options": [
+        "A növényi sejtfal szilárdító anyaga",
+        "Energiaraktározás",
+        "Genetikai információ tárolása",
+        "Fehérjeszintézis"
+      ],
+      "answer": "A növényi sejtfal szilárdító anyaga"
+    },
+    {
+      "id": 19,
+      "type": "BLANK",
+      "question": "A cellulózt a legtöbb élőlény nem képes bontani, ezt csupán a _____ enzim végzi baktériumok, gombák és néhány egysejtűben.",
+      "options": [],
+      "answer": "celluláz"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "Mit nevezünk kitinnek?",
+      "options": [
+        "N-tartalmú poliszacharid, amely az ízeltlábúak kutikulájának és gombák sejtfalának szilárdító vázanyaga",
+        "Szénhidrát, amely az állatok energiaraktárként működik",
+        "Fehérje, amely az ismok összehúzódásáért felelős",
+        "Lipid, amely a sejtmembránokat építi fel"
+      ],
+      "answer": "N-tartalmú poliszacharid, amely az ízeltlábúak kutikulájának és gombák sejtfalának szilárdító vázanyaga"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mely vegyületek közé tartoznak az amino savak?",
+      "options": [
+        "A fehérjék monomerjei",
+        "Szénhidrátok",
+        "Lipidek",
+        "Vitaminek"
+      ],
+      "answer": "A fehérjék monomerjei"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az aminosavak között _____ kötés jön létre, amely a fehérjék elsődleges szerkezetét határozza meg.",
+      "options": [],
+      "answer": "peptidkötés"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mely fehérjék biztosítják az izmok összehúzódásáért felelős funkciókat?",
+      "options": [
+        "Aktin és miozin",
+        "Hemoglobin és mioglobin",
+        "Kollagén és keratin",
+        "Amiláz és lipáz"
+      ],
+      "answer": "Aktin és miozin"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A _____ fehérjék szállítják az oxigént az élő szervezetekben, mint például a hemoglobin a vérben.",
+      "options": [],
+      "answer": "transzport"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Mit jelent a fehérjék denaturációja?",
+      "options": [
+        "A fehérjék térszerkezetének megváltozása, amely enzimaktivitás vagy más biológiai funkció elvesztéséhez vezet",
+        "A fehérjék monomereit összekötő kötések számának növekedése",
+        "A fehérjék energia felhasználásával történő szintézise",
+        "A fehérjék kristályosodása az oldatban"
+      ],
+      "answer": "A fehérjék térszerkezetének megváltozása, amely enzimaktivitás vagy más biológiai funkció elvesztéséhez vezet"
+    },
+    {
+      "id": 26,
+      "type": "BLANK",
+      "question": "A _____ fehérjék az étrendben szükségesek, mert a szervezet nem képes előállítani őket.",
+      "options": [],
+      "answer": "esszenciális aminosavak"
+    },
+    {
+      "id": 27,
+      "type": "MC",
+      "question": "Melyik elemet tartalmaz a hemoglobin, amely az oxigén szállításáért felelős?",
+      "options": [
+        "Fe2+-iont",
+        "Mg2+-iont",
+        "Ca2+-iont",
+        "Na+-iont"
+      ],
+      "answer": "Fe2+-iont"
+    },
+    {
+      "id": 28,
+      "type": "BLANK",
+      "question": "A klorofill egy _____ komplex, amelynek színe zöld és a fotoszintézisben játszik kulcsfontosságú szerepet.",
+      "options": [],
+      "answer": "Mg-porfirin"
+    },
+    {
+      "id": 29,
+      "type": "MC",
+      "question": "Mely funkciót látják el a biuret-próbával kimutatott fehérjék?",
+      "options": [
+        "A fehérjék kicsapódásán alapuló kémiai kimutatás",
+        "Az enzimaktivitás mérése",
+        "A DNS konzisztenciájának tesztelése",
+        "A szénhidráttartalom meghatározása"
+      ],
+      "answer": "A fehérjék kicsapódásán alapuló kémiai kimutatás"
+    },
+    {
+      "id": 30,
+      "type": "MC",
+      "question": "Hány szénatom alkotja az amilóz és az amilopektin szerkezetét?",
+      "options": [
+        "Hat szénatomos egységekből épülnek fel",
+        "Három szénatomos egységekből épülnek fel",
+        "Öt szénatomos egységekből épülnek fel",
+        "Egy szénatomos egységekből épülnek fel"
+      ],
+      "answer": "Hat szénatomos egységekből épülnek fel"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "subjectId": "biology",
+  "moduleId": "gombak-novenyek-allatok-elkulonulese",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Milyen előnye van a többsejtűség kialakulásának?",
+      "options": [
+        "Kizárólag nagyobb méret érhető el",
+        "A sejtek közötti munkamegosztás és specializáció",
+        "Gyorsabb szaporodás",
+        "Jobb hőtűrés"
+      ],
+      "answer": "A sejtek közötti munkamegosztás és specializáció"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ olyan adott feladat elvégzésére specializálódott, hasonló alakú és működésű sejtek összessége.",
+      "options": [],
+      "answer": "szövet"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Milyen testszerveződési szintek különböztethetők meg az élőlények között?",
+      "options": [
+        "Csak egysejtűek és többsejtűek",
+        "Egysejtűek, sejttársulás, telepes szerveződés és szövetes szerveződés",
+        "Kizárólag sejttársulás és szövetes szerveződés",
+        "Szövetes és álszövetes szerveződés"
+      ],
+      "answer": "Egysejtűek, sejttársulás, telepes szerveződés és szövetes szerveződés"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A mohák szaporodása _____ szaporódást (kétszakaszos fejlődést) eredményez.",
+      "options": [],
+      "answer": "nemzedékváltakozást"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Milyen jellemzői vannak a moháknak a szárazföldi életmódhoz való alkalmazkodás szempontjából?",
+      "options": [
+        "Teljes vízfüggetlenség",
+        "Gyökerek és zöld szövetek, azonban szaporodásuk vízhez kötött",
+        "Kizárólag vízi élőhelyen élnek",
+        "Nincsenek zöld szöveteik"
+      ],
+      "answer": "Gyökerek és zöld szövetek, azonban szaporodásuk vízhez kötött"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az _____ olyan haploid szaporítósejtek, amelyekből az előtelep fejlődik a mohák ivaros szakaszában.",
+      "options": [],
+      "answer": "spóra"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mi az ökológiai szerepe a moháknak a termőtalaj kialakításában?",
+      "options": [
+        "Negatív, mivel megakadályozzák más növények növekedését",
+        "Pozitív, mivel pionír élőlények, amelyek új helyeken megjelennek",
+        "Nincs ökológiai szerepük",
+        "Kizárólag a vízhiányt csökkentik"
+      ],
+      "answer": "Pozitív, mivel pionír élőlények, amelyek új helyeken megjelennek"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az állatok _____ és kemotróf anyagcseréjük alapján különböznek meg más élőlénycsoport táblázat.",
+      "options": [],
+      "answer": "heterotróf"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Milyen táplálékraktározó anyagok jellemzik az állatokat és gombákat?",
+      "options": [
+        "Keményítő",
+        "Zsír és glikogén",
+        "Olaj",
+        "Cellulóz"
+      ],
+      "answer": "Zsír és glikogén"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A gombák törzsfejlődése tekintetében _____ függetlenek a növényektől és állatokból.",
+      "options": [],
+      "answer": "függetlenek"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mi az ökológiai jelentősége a gombáknak?",
+      "options": [
+        "Kizárólag káros kórokozók",
+        "Szaprofitonok és paraziták, amelyek alapvető szerepet játszanak az anyagok körforgásában",
+        "Nem játszanak semmilyen szerepet az ökoszisztémában",
+        "Csak élelmiszer termelésben fontosak"
+      ],
+      "answer": "Szaprofitonok és paraziták, amelyek alapvető szerepet játszanak az anyagok körforgásában"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A gombafonalak összessége a _____ vagy micélium.",
+      "options": [],
+      "answer": "gombaszövedék"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Milyen részekből áll a fejlettebb gombák teste?",
+      "options": [
+        "Csak termőtestből",
+        "Csak tenyészttestből",
+        "Tenyésztest és termőtest",
+        "Nem osztódik részekre"
+      ],
+      "answer": "Tenyésztest és termőtest"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A gombák szöveteiben nincsenek _____, így fotoszintézisre nem képesek.",
+      "options": [],
+      "answer": "színtestek"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Milyen szaporodási módok jellemzik a gombákat?",
+      "options": [
+        "Kizárólag ivaros szaporodás",
+        "Vegetatív, ivartalan és ivaros szaporodás",
+        "Csak ivartalan szaporodás",
+        "Kizárólag mitózis"
+      ],
+      "answer": "Vegetatív, ivartalan és ivaros szaporodás"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az _____ olyan ellenálló tokba zárt nyugvó ivartalan szaporítósejtek, amelyek több évig életképesek.",
+      "options": [],
+      "answer": "spóra"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mit jelent a szaprofitonizmus gombáknál?",
+      "options": [
+        "Élőlények parazitálása",
+        "Az elpusztult élőlények szerves anyagainak lebontása",
+        "Fotoszintézis",
+        "Nitrogénkötés"
+      ],
+      "answer": "Az elpusztult élőlények szerves anyagainak lebontása"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ gombák trágyán és rothadó gyümölcsökön tenyésznek és hifáikkal behálózzák a táplálékot.",
+      "options": [],
+      "answer": "fejespenészek"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Milyen fontosabb szerepe van a moháknak a vízforgalomban?",
+      "options": [
+        "Felgyorsítják a vizet a talajban",
+        "Megkötik a lehulló nagy mennyiségű csapadékot és fokozatosan juttatják vissza",
+        "Nem játszanak semmilyen szerepet",
+        "Kizárólag sótalanítanak"
+      ],
+      "answer": "Megkötik a lehulló nagy mennyiségű csapadékot és fokozatosan juttatják vissza"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az álszövetes szerveződés esetén a sejtek még _____ megőrizték önállóságukat és kevéssé specializáltak.",
+      "options": [],
+      "answer": "nagymértékben"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Milyen differenciálódási szint jellemzi a mohák telepét?",
+      "options": [
+        "Valódi szövetek alkalmazottak",
+        "Csak egysejtűek",
+        "Teleptestes szerveződés kezdetleges szövetelemekkel",
+        "Teljes szöveti differenciálódás"
+      ],
+      "answer": "Teleptestes szerveződés kezdetleges szövetelemekkel"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A mohák leveleit (levelecskéit) nem borítja _____, amely sú a vízfelvételt segíti.",
+      "options": [],
+      "answer": "kutikula"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Milyen tulajdonságok miatt tekinthetők a mohák indikátor fajoknak?",
+      "options": [
+        "Csak oxigénből tanulnak",
+        "Bizonyos nehézfém-ionokat szelektíven megkötnek és testükben felszaporítanak",
+        "Radioaktív sugárzást mutatnak",
+        "Mérgességük mutatja az erózióját"
+      ],
+      "answer": "Bizonyos nehézfém-ionokat szelektíven megkötnek és testükben felszaporítanak"
+    }
+  ]
+}

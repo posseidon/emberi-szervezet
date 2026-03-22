@@ -1,0 +1,246 @@
+{
+  "subjectId": "biology",
+  "moduleId": "fizikai-kemiai-alapismeretek-2",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Milyen jellegzetességek jellemzik a vízet oldószerként?",
+      "options": [
+        "Dipólusos szerkezetű, poláris oldószer, magas az olvadás- és forráspontja, nagy hőkapacitása, nagy párolgáshő",
+        "Nem poláris szerkezet, alacsony párolgáshő, folyékony állapot korlátozott",
+        "Nem képes ionok oldódásának támogatására",
+        "Csak gázok oldódására alkalmas, folyékony anyagokra nem"
+      ],
+      "answer": "Dipólusos szerkezetű, poláris oldószer, magas az olvadás- és forráspontja, nagy hőkapacitása, nagy párolgáshő"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A vízmolekulák között _____ kötések találhatók, amelyek a víz magas olvadáspont- és forráspont-jának oka.",
+      "options": [],
+      "answer": "hidrogén"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mit jelent az oldódás fizikai folyamata?",
+      "options": [
+        "Amikor az oldószer és az oldott anyag részecskéi elkeverednek, de kémiai reakció nem történik",
+        "Kizárólag kémiai reakciók során létrejövő folyamat",
+        "Az oldószer molekuláinak felrobbantása az oldott anyag miatt",
+        "Az oldott anyag kristályszerkezetének fenntartása az oldószerben"
+      ],
+      "answer": "Amikor az oldószer és az oldott anyag részecskéi elkeverednek, de kémiai reakció nem történik"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az _____ a hidrátburoknak adszorpciósan kötött víz, amely nehezen eltávolítható a részecskék felületéről.",
+      "options": [],
+      "answer": "kötött víz"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Hogyan lehet az oldat összetételét biológiában leggyakrabban jellemezni?",
+      "options": [
+        "Az anyagmennyiség-koncentrációval, amely mol/dm³-ben mérhető",
+        "A tömegaránnyal, amely végighúzódik az oldatban",
+        "Az oldószer térfogat-arányt mutatva százalékban",
+        "A szín intenzitásával, amely megfigyelésből adódik"
+      ],
+      "answer": "Az anyagmennyiség-koncentrációval, amely mol/dm³-ben mérhető"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ az az erősség, amellyel az oldószer molekulái kötődnek az oldott anyag részecskéihez.",
+      "options": [],
+      "answer": "hidrátburok"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mi határozza meg az ozmózisnyomás nagyságát?",
+      "options": [
+        "Az oldat koncentrációjával egyenesen arányos",
+        "Csak az oldószer sűrűségétől függ",
+        "Az oldott anyag kémiai összetételétől teljesen független",
+        "Az edény méretétől és alakjától határozódik meg"
+      ],
+      "answer": "Az oldat koncentrációjával egyenesen arányos"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az _____ az ozmotikusan aktív részecskék számát fejezzük ki az ozmózisnyomás számítása során.",
+      "options": [],
+      "answer": "ozmolalitás"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mit jelent a hipertóniás oldat?",
+      "options": [
+        "Ozmózisnyomása nagyobb a vérplazmáénál (hiperozmotikus)",
+        "Ozmózisnyomása megegyezik a vérplazmáéval",
+        "Ozmózisnyomása kisebb a vérplazmáénál",
+        "Egyáltalán nincs ozmózisnyomása"
+      ],
+      "answer": "Ozmózisnyomása nagyobb a vérplazmáénál (hiperozmotikus)"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ az az orvosi eljárás, amelyben a toxikus anyagokban gazdag vért szemipermeábilis csövön keresztül dializálógépbe vezetik.",
+      "options": [],
+      "answer": "hemodialízis"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Hogyan befolyásolja az ozmózis a növények vízfelvételét a talajból?",
+      "options": [
+        "Az ozmózisnyomás különbsége lehetővé teszi a víz passzív transzportját a növényi sejtekbe",
+        "Nincs kapcsolat az ozmózis és a növényi vízbevétel között",
+        "Kizárólag az aktív transzport segítségével történik a vízbevétel",
+        "Az ozmózis gátolja a növényi vízbevételt"
+      ],
+      "answer": "Az ozmózisnyomás különbsége lehetővé teszi a víz passzív transzportját a növényi sejtekbe"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az _____ során a kapillárisok artériás szakaszán a vérnyomás meghaladja az onkotikus nyomást, így fehérjementes szűrlet lép ki az érpályából.",
+      "options": [],
+      "answer": "filtráció"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Milyen hatóanyagokat kell izotóniás oldatban beadni az orvosi gyakorlatban?",
+      "options": [
+        "Mindenféle gyógyszereket, infúziókat és injekciót az ozmotikus károsodás megelőzésére",
+        "Csak a szív- és érrendszerre ható gyógyszereket",
+        "Kizárólag a pajzsmirigyre ható anyagokat",
+        "Nem szükséges izotóniás oldatban adni az injekciót"
+      ],
+      "answer": "Mindenféle gyógyszereket, infúziókat és injekciót az ozmotikus károsodás megelőzésére"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ az az eljárás, amelyben hipertóniás közeg segítségével vízelvonás történik a duzzanat csökkentésére.",
+      "options": [],
+      "answer": "ödéma kezelése"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mi a keserűsó (MgSO4) hatása a székrekedés kezelésében?",
+      "options": [
+        "Megnöveli a béltartalom ozmotikus koncentrációját, csökkenti a vízfelszívódást, hígítja a béltartalmat",
+        "Közvetlenül feloldja a száraz ürülékeket",
+        "Megöli az emésztőrendszer baktériumait",
+        "Lecsökkenti a vastagbél működési kapacitását"
+      ],
+      "answer": "Megnöveli a béltartalom ozmotikus koncentrációját, csökkenti a vízfelszívódást, hígítja a béltartalmat"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az enzimek felületén azt a helyet, ahol a katalizátorhatás történik, _____ vagy kötőzsebnek nevezzük.",
+      "options": [],
+      "answer": "aktív centrumnak"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mit jelent az aktiválási energia a kémiai reakciókban?",
+      "options": [
+        "Az az energia, amely a kötések felbontásához szükséges a reaktánsok között",
+        "Az a teljes energia, amely a termékekben marad",
+        "Az az energia, amelyet az oldószer biztosít",
+        "Az az energia, amely az enzim-szubsztrát komplex bomlásából ered"
+      ],
+      "answer": "Az az energia, amely a kötések felbontásához szükséges a reaktánsok között"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az enzimek működésének hatása az, hogy a reakciókat oly mértékben _____, hogy azok a testünk hőmérsékletén is megfelelő sebességgel mennek végbe.",
+      "options": [],
+      "answer": "felgyorsítják"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Milyen jellegzetességei vannak az enzimek fajlagosságának?",
+      "options": [
+        "A különböző reakciókat más-más enzimek katalizálják a kötőzseb specifikus szerkezete miatt",
+        "Minden enzim azonos szerkezetű és mindent képes katalizálni",
+        "Az enzimek soha nem specifikusak az anyagokra",
+        "A fajlagosság csak az emlősök szervezetében létezik"
+      ],
+      "answer": "A különböző reakciókat más-más enzimek katalizálják a kötőzseb specifikus szerkezete miatt"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az enzim kötőzsebe szerkezetileg _____ annak az anyagnak a szerkezetével, amit az enzim átalakít.",
+      "options": [],
+      "answer": "komplementer"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mi az orvosi szempontból kritikus 41°C feletti láz során?",
+      "options": [
+        "Az enzimek térszerkezete olyan mértékben megváltozik, hogy nem képesek ellátni biológiai feladatukat",
+        "A vérnyomás akut megemelkedése",
+        "A sejtek teljes denaturálódása",
+        "A fehérjék végleg kicsapódnak az oldatból"
+      ],
+      "answer": "Az enzimek térszerkezete olyan mértékben megváltozik, hogy nem képesek ellátni biológiai feladatukat"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az enzimek _____ azt mutatja meg, hogy adott idő alatt, adott mennyiségű enzim mennyi szubsztrátot képes átalakítani.",
+      "options": [],
+      "answer": "aktivitása"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mit jelent az enzimgátlás versengő (kompetitív) típusa?",
+      "options": [
+        "Az inhibitor a szubsztráttal hasonló szerkezete révén elfoglalhatja az enzim aktív centrumát",
+        "Az inhibitor az enzim harmadlagos szerkezetét módosítja",
+        "Az inhibitor eltávolítja a koenzimeket az enzimből",
+        "Az inhibitor a sejthártyában находится és nem éri el az enzim aktív helyét"
+      ],
+      "answer": "Az inhibitor a szubsztráttal hasonló szerkezete révén elfoglalhatja az enzim aktív centrumát"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az _____ enzimek felépítésében gyakran vesznek részt, ezért a vitaminhiány gátolja a koenzimek felépülését.",
+      "options": [],
+      "answer": "vitaminjellegű csoportok"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Mely betegségek szorosan kapcsolódnak az enzimhiányra?",
+      "options": [
+        "Tejcukor-érzékenység (laktózintolerancia) és fenilketonuria",
+        "Kizárólag a szívbetegségek és az érrendszeri zavarok",
+        "Csak a fertőzéses betegségek",
+        "Kizárólag a születési rendellenességek"
+      ],
+      "answer": "Tejcukor-érzékenység (laktózintolerancia) és fenilketonuria"
+    }
+  ]
+}

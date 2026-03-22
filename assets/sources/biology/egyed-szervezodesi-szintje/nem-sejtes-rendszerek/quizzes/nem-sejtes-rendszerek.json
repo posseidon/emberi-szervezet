@@ -1,0 +1,246 @@
+{
+  "subjectId": "biology",
+  "moduleId": "virusok-prionok",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mekkora a vírusok tipikus mérettartománya?",
+      "options": [
+        "1-10 μm, csak fénymikroszkóppal láthatók",
+        "20-néhány száz nm, csak elektronmikroszkóppal láthatók",
+        "100-1000 nm, fénymikroszkóppal jól láthatók",
+        "szabad szemmel könnyen láthatók"
+      ],
+      "answer": "20-néhány száz nm, csak elektronmikroszkóppal láthatók"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A vírus belső részében található az _____, amely lehet DNS vagy RNS.",
+      "options": [],
+      "answer": "örökítőanyag"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mely vírusok tartoznak a burkos vírusok csoportjába?",
+      "options": [
+        "A dohánymozaikvírus és a bárányhimlő vírusa",
+        "Az AIDS vírusa (HIV) és az influenzavírus",
+        "A gyermekbénulás vírusa és az adenovírusok",
+        "A bakteriofágok és az egyes rákkeltő RNS-vírusok"
+      ],
+      "answer": "Az AIDS vírusa (HIV) és az influenzavírus"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A virionok a sejten kívüli fázis, amely _____, kristályos szerkezetű.",
+      "options": [],
+      "answer": "élettelen"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mi jellemzi a litikus életciklust a bakteriofágoknál?",
+      "options": [
+        "A vírus DNS-e beépül a gazdasejt DNS-ébe és sokáig észrevétlen marad",
+        "A bejutás után azonnal megkezdődik az új vírusok képzése, amely a sejt pusztulásához vezet",
+        "A vírus a sejten belül dormanciában várakozik",
+        "Az új vírusok csak speciális körülmények között képződnek"
+      ],
+      "answer": "A bejutás után azonnal megkezdődik az új vírusok képzése, amely a sejt pusztulásához vezet"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ életciklus során a vírus DNS-e beépül a gazdasejt DNS-ébe.",
+      "options": [],
+      "answer": "lizogén"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mértéknél nagyobb genetikai változáson esnek át a vírusok, amely az ember immunrendszerét felkészületlenül érheti?",
+      "options": [
+        "Az éves mutáció során",
+        "Akkor, amikor állatok közvetítésével nagyobb genetikai változáson mennek át",
+        "A fotoszintézis során",
+        "Az ivaros szaporodás esetén"
+      ],
+      "answer": "Akkor, amikor állatok közvetítésével nagyobb genetikai változáson mennek át"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az influenzavírus burkában különféle H és N jelű _____ találhatók, amelyek alapján a vírusok tovább csoportosíthatók.",
+      "options": [],
+      "answer": "molekulák"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mi az AIDS betegség vírusa?",
+      "options": [
+        "Egy helikális szerkezetű DNS-vírus",
+        "A SARS-CoV-2 koronavírus",
+        "A HIV, amely az immunrendszer sejtjeit támadja meg",
+        "Az influenzavírus A típusa"
+      ],
+      "answer": "A HIV, amely az immunrendszer sejtjeit támadja meg"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A HIV egy _____, azaz RNS az örökítőanyag, amely a sejtekben reverz transzkriptáz enzimmel DNS-sé másolódik.",
+      "options": [],
+      "answer": "retrovírus"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mely terjedési módok jellemzik a HIV vírust?",
+      "options": [
+        "Csak cseppfertőzéssel és levegő útján",
+        "Védekezés nélküli szexuális úton, fertőzött vérrel, anyáról gyermekre és intravénás kábítószer által",
+        "Csak élelmiszer útján",
+        "Kézfogás és rovarcsípés útján"
+      ],
+      "answer": "Védekezés nélküli szexuális úton, fertőzött vérrel, anyáról gyermekre és intravénás kábítószer által"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A HIV-fertőzés lefolyása 3 szakaszra osztható: kezdeti fertőzés, _____ szakasz és súlyos immunelégtelenség.",
+      "options": [],
+      "answer": "tünetmentes"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Milyen betegségek fordulnak elő az AIDS-ben opportunista fertőzésként?",
+      "options": [
+        "Csak hétköznapi nátha és megfázás",
+        "Tüdőgyulladás, hasmenés, gombásodás, TBC, hepatitis és egyes daganatos megbetegedések",
+        "Csak magasabb belső testhőmérséklet",
+        "Egyáltalán semmilyen szövődmény nem lép fel"
+      ],
+      "answer": "Tüdőgyulladás, hasmenés, gombásodás, TBC, hepatitis és egyes daganatos megbetegedések"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A Hepatitis A és E a _____ keresztül terjednek, például fertőzött élelmiszer vagy szennyezett víz útján.",
+      "options": [],
+      "answer": "tápcsatornán"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mely hepatitis formák terjednek vérrel és testnedvekkel?",
+      "options": [
+        "Csak a Hepatitis A",
+        "A Hepatitis A és B",
+        "A Hepatitis B, C, D, G és a többi vírus",
+        "Csak az E típus"
+      ],
+      "answer": "A Hepatitis B, C, D, G és a többi vírus"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A kanyaró olyan lázas, hurutos, kiütéses és igen _____ súlyos betegség, amely cseppfertőzéssel terjed.",
+      "options": [],
+      "answer": "fertőző"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mi a rubeola (rózsahimlő) especális veszélye?",
+      "options": [
+        "Járvánnyt okoz a munkahelyeken",
+        "Várandós nőknél a terhesség korai szakaszában súlyos magzati károsodást okozhat",
+        "Minden esetben halálos kimenetelű",
+        "Kizárólag az idős embereket érinti"
+      ],
+      "answer": "Várandós nőknél a terhesség korai szakaszában súlyos magzati károsodást okozhat"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A bárányhimlő cseppfertőzéssel terjedő, piros, viszkető, _____ pattanásokat és lázat okozó megbetegedés.",
+      "options": [],
+      "answer": "hólyagos"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mely immunizálási forma jelenti azt, hogy a szervezet immunrendszere részt vesz az immunválasz kialakításában?",
+      "options": [
+        "Passzív immunizálás",
+        "Aktív immunizálás",
+        "Természetes immunizálás",
+        "Mesterséges passzív immunizálás"
+      ],
+      "answer": "Aktív immunizálás"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az _____ egy enyhe gyengeséggel, fejfájással és hőemelkedéssel járó cseppfertőzéssel terjedő gyermekkori kiütéses betegség.",
+      "options": [],
+      "answer": "rubeola"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mi a prion biológiai jellemzője a vírusokkal szemben?",
+      "options": [
+        "Prionok DNS-t vagy RNS-t tartalmaznak",
+        "Prionok egyedül a fehérje konformációjának kóros változásából állnak",
+        "Prionok nagyobbak, mint a vírusok",
+        "Prionok csak állati szövetekben fordulnak elő"
+      ],
+      "answer": "Prionok egyedül a fehérje konformációjának kóros változásából állnak"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A szarvasmarhák szivacsos agyvelőgyulladása egy prion által okozott betegség, amely a normális _____ szerkezetének megváltozásából ered.",
+      "options": [],
+      "answer": "fehérje"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Milyen tünetek jellemzik a COVID-19 megbetegedést?",
+      "options": [
+        "Csak magas láz anélkül, hogy más tünet lenne",
+        "Láz, száraz köhögés, fáradékonyság, nehézlégzés, torokfájás, fejfájás, izom- vagy ízületi fájdalom",
+        "Kizárólag hasmenés és hányás",
+        "Csak szív- és keringési zavarok"
+      ],
+      "answer": "Láz, száraz köhögés, fáradékonyság, nehézlégzés, torokfájás, fejfájás, izom- vagy ízületi fájdalom"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A SARS-CoV-2 olyan lipid burokkal rendelkező, _____ szálú RNS vírus.",
+      "options": [],
+      "answer": "egyszálú"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Mit jelent a gazdaspecificitás a vírusok terjedésében?",
+      "options": [
+        "A vírus azonos alakú gazdasejtek között terjed",
+        "A vírus kizárólag a rá jellemző gazdaszervezetben képes szaporodni",
+        "A vírus sosem okoz betegséget",
+        "A vírus bármilyen élőlényt megfertőzhet"
+      ],
+      "answer": "A vírus kizárólag a rá jellemző gazdaszervezetben képes szaporodni"
+    }
+  ]
+}

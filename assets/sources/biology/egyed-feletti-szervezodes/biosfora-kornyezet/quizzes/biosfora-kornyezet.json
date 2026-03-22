@@ -1,0 +1,246 @@
+{
+  "subjectId": "biology",
+  "moduleId": "bioszfera-kornyezetvedelem-fenntarthatosag",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mit mond ki a Gaia-elmélet?",
+      "options": [
+        "A Föld összes élő és élettelen része egy szorosan összefüggő, szuperorganizmus-szerű egységet alkot",
+        "A Föld egy élettelen kőzet, amely nem alkot rendszert",
+        "Az élő és élettelen rész teljesen független egymástól",
+        "Csak az élő világnak van belső szabályozása"
+      ],
+      "answer": "A Föld összes élő és élettelen része egy szorosan összefüggő, szuperorganizmus-szerű egységet alkot"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A Gaia-elmélet modelljét _____ dolgozta ki 1972-ben.",
+      "options": [],
+      "answer": "James Lovelock"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mely globális probléma tartozik a klímaváltozáshoz?",
+      "options": [
+        "A tengerek szintjének emelkedése, jégsapkák olvadása, csapadékviszonyok megváltozása",
+        "Csak az ipari szennyezés",
+        "Kizárólag a hulladékkezelés problémája",
+        "Csak az ózonréteg elvékonyodása"
+      ],
+      "answer": "A tengerek szintjének emelkedése, jégsapkák olvadása, csapadékviszonyok megváltozása"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az összes globális probléma _____ áll a hátterében, mely gyökere tulajdonképpen az összes környezeti problémának.",
+      "options": [],
+      "answer": "túlnépesedés"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mit jelent az urbanizáció?",
+      "options": [
+        "A városok térbeli és népességbeli növekedése, valamint a városi életforma terjedése",
+        "A falvak fejlesztése és bővítése",
+        "Az ipari tevékenység csökkentése",
+        "A mezőgazdaság technológiájának fejlesztése"
+      ],
+      "answer": "A városok térbeli és népességbeli növekedése, valamint a városi életforma terjedése"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A városok _____ ökológiai hatása az egyik legjelentősebb, mivel a természetes zöldterület csökken.",
+      "options": [],
+      "answer": "légszennyezésének"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mit jelent az autópályák ökológiai hatása?",
+      "options": [
+        "Az élőhelyek feldarabolódnak és a populációk elszigetelődhetnek",
+        "Csak a zajszennyezést okoznak",
+        "Pozitív hatásúak az élővilágra",
+        "Nem gyakorolnak hatást a természetre"
+      ],
+      "answer": "Az élőhelyek feldarabolódnak és a populációk elszigetelődhetnek"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A természetvédelem a _____ értékeinek megőrzésére és helyreállítására irányuló tevékenységek összessége.",
+      "options": [],
+      "answer": "természeti"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Milyen a passzív természetvédelem?",
+      "options": [
+        "A védett értékek törvényes védelméről gondoskodik, de nem avatkozik bele a természetes folyamatokba",
+        "Aktívan módosítja a természeti helyzeteket",
+        "Teljesen elhanyagolja a védett területeket",
+        "Csak az ipari fejlődésre összpontosít"
+      ],
+      "answer": "A védett értékek törvényes védelméről gondoskodik, de nem avatkozik bele a természetes folyamatokba"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az aktív természetvédelem eszközei közé tartozik a _____, amely a cserjésedést akadályozza meg.",
+      "options": [],
+      "answer": "kaszálás"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Magyarországon hány nemzeti park található?",
+      "options": [
+        "10",
+        "5",
+        "15",
+        "20"
+      ],
+      "answer": "10"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az _____ az ország legjelentősebb természeti adottságainak védelme és bemutatása céljából hozható létre.",
+      "options": [],
+      "answer": "nemzeti park"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mit jelent az etikai érv a természetvédelem mellett?",
+      "options": [
+        "A természetnek belső értéke van az abból eredő gazdasági érték mellett",
+        "Csak az emberi haszon alapján kell dönteni",
+        "A természet nincs értéke",
+        "Csak az anyagi értékekre kell figyelni"
+      ],
+      "answer": "A természetnek belső értéke van az abból eredő gazdasági érték mellett"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A jóléti érv alapja az _____ romlása és az emberi egészség közötti összefüggés.",
+      "options": [],
+      "answer": "környezeti állapot"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mely légszennyező anyag a savas esők okozója?",
+      "options": [
+        "Kén-dioxid (SO2) és nitrogén-oxidok",
+        "Csak szén-monoxid",
+        "Csakis szén-dioxid",
+        "Csak ólom"
+      ],
+      "answer": "Kén-dioxid (SO2) és nitrogén-oxidok"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A savas esők kialakulásában az SO2 _____ formájában oldódik a csapadékban.",
+      "options": [],
+      "answer": "kénessavként"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mi az üvegházhatás lényege?",
+      "options": [
+        "A légkörben lévő gázok a Föld által kibocsátott infravörös sugárzást elnyelik és visszasugározzák",
+        "A napfény közvetlen melegítése a földfelszínt",
+        "Az ózonréteg védelme a sugárzástól",
+        "Az összes sugárzás átbocsátódása a légkörön"
+      ],
+      "answer": "A légkörben lévő gázok a Föld által kibocsátott infravörös sugárzást elnyelik és visszasugározzák"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az üvegházhatás okozói közül a _____ az elemi nitrogén három atomjából álló molekula.",
+      "options": [],
+      "answer": "dinitrogén-oxid"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mi az ózon biológiai szerepe?",
+      "options": [
+        "Az UV sugarak egy jelentős részét kiszűri az ionoszférában",
+        "Légszennyezőként működik a felszínen",
+        "Semmilyen szerepe nincsen az élővilágra",
+        "Csak az ipari folyamatok során keletkezik"
+      ],
+      "answer": "Az UV sugarak egy jelentős részét kiszűri az ionoszférában"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az ózonréteg elvékonyodásáért a légkörbe került _____, főleg freonok tehetők felelőssé.",
+      "options": [],
+      "answer": "halogén-tartalmú szénhidrogének"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mit jelent a fenntarthatóság?",
+      "options": [
+        "A természeti, technológiai és gazdasági folyamatok olyan egyensúlya, amely hosszú ideig fenntartható",
+        "Az összes erőforrás korlátlan felhasználása",
+        "Az ipari fejlődés korlátozása az összes áron",
+        "Az emberi tevékenység teljes megszüntetése"
+      ],
+      "answer": "A természeti, technológiai és gazdasági folyamatok olyan egyensúlya, amely hosszú ideig fenntartható"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az ökológiai _____ fogalma azt jelenti, hogy az adott terület mekkora erőforrás-fogyasztást tud eltartani.",
+      "options": [],
+      "answer": "lábnyom"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mit jelent az ökológiai gazdálkodás?",
+      "options": [
+        "Az olyan gazdálkodás, amely a természeti rendszerek védelmét és fenntarthatóságát prioritásként kezeli",
+        "A maximális terméshozam elérésére irányuló szisztematikus erőfeszítés",
+        "A kemikalitások korlátlan alkalmazása",
+        "Az összes természeti terület mezőgazdaságra való átalakulása"
+      ],
+      "answer": "Az olyan gazdálkodás, amely a természeti rendszerek védelmét és fenntarthatóságát prioritásként kezeli"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A szén-dioxid a légszennyezők közül az _____ százalékban járul hozzá az üvegházhatáshoz.",
+      "options": [],
+      "answer": "25"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Mely nagyobb szervezet fogadta el a Kiotói jegyzőkönyvet?",
+      "options": [
+        "Az ENSZ",
+        "Az Európai Unió",
+        "Az Világbank",
+        "A NATO"
+      ],
+      "answer": "Az ENSZ"
+    }
+  ]
+}

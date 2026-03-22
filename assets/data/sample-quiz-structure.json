@@ -1,0 +1,44 @@
+{
+  "subjectId": "biology",
+  "moduleId": "homeostazis",
+  "quiz": [
+    {
+      "id": 13,
+      "type": "BLANK",
+      "question": "A kiválasztás szűkebb értelemben csak a _____ működésével valósul meg, amely eltávolítja a felesleges vizet, ionokat és mérgező bomlástermékeket.",
+      "options": [],
+      "answer": "vesék"
+    },
+    {
+      "id": 15,
+      "type": "BLANK",
+      "question": "A mikrobiom összetételének kóros megváltozása kapcsolatban áll olyan betegségek kialakulásával, mint a bélproblémák, elhízás, és a _____.",
+      "options": [],
+      "answer": "cukorbetegség (vagy depresszió, szorongás)"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "A hierarchikus rendszerszemlélet alapján az emberi szervezet felépítésének helyes sorrendje az alábbiak közül melyik?",
+      "options": [
+        "Sejtek - szövetek - atomok - molekulák - szervrendszerek - szervek",
+        "Atomok - molekulák (fehérjék) - sejtalkotók - sejtek - szövetek - szervek - szervrendszerek",
+        "Szervrendszerek - szervek - szövetek - sejtek - molekulák - atomok",
+        "Molekulák - sejtek - szövetek - szervek - szervrendszerek - atomok"
+      ],
+      "answer": "Atomok - molekulák (fehérjék) - sejtalkotók - sejtek - szövetek - szervek - szervrendszerek"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Az epigenetikai szabályozás NEM változtatja meg a DNS nukleotid-sorrendjét, de hogyan módosítja a gének működését?",
+      "options": [
+        "Az mRNS szerkezetének módosításával",
+        "Az RNS-polimerázok inaktiválásával",
+        "A riboszómák számának csökkentésével",
+        "A DNS vagy a DNS-hez kapcsolódó hiszton fehérjék kémiai módosításával"
+      ],
+      "answer": "A DNS vagy a DNS-hez kapcsolódó hiszton fehérjék kémiai módosításával"
+    }
+  ]
+}

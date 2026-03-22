@@ -1,0 +1,265 @@
+{
+  "subjectId": "biology",
+  "moduleId": "eletkozossegek",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mit jelent a mutualizmus a populációk kölcsönhatásában?",
+      "options": [
+        "Az együtt élő populációk közötti kölcsönösen előnyös kapcsolat",
+        "Az egyik populáció előnyét jelenti a másik kára nélkül",
+        "Az egyik populáció ártalmára szolgál a másiknak",
+        "Közömbös kapcsolat a populációk között"
+      ],
+      "answer": "Az együtt élő populációk közötti kölcsönösen előnyös kapcsolat"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A pillangósvirágú növények gyökérgümőjében élő _____ baktériumok a légköri nitrogént ammóniává alakítják.",
+      "options": [],
+      "answer": "nitrogénkötő"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mi az alliancia lényege?",
+      "options": [
+        "Két populáció között kialakuló laza, alkalomszerű, nélkülözhető kapcsolat",
+        "Szoros és nélkülözhetetlen együttélés",
+        "Versengő kapcsolat az erőforrásokért",
+        "Ragadozó-préda kapcsolat"
+      ],
+      "answer": "Két populáció között kialakuló laza, alkalomszerű, nélkülözhető kapcsolat"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A zebra és a strucc közötti kapcsolatot _____ allianciaként ismerjük, mivel kölcsönösen kiegészítik érzékeléseiket.",
+      "options": [],
+      "answer": "riasztó"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mit jelent az antibiózis a populációk közötti kölcsönhatásban?",
+      "options": [
+        "Az egyik populáció anyagcseretermékei kedvezőtlen körülményeket teremtenek a másiknak",
+        "Mindkét populáció számára előnyös a kapcsolat",
+        "Az egyik populáció a másik sérülésével jár",
+        "Teljes versengés az erőforrásokért"
+      ],
+      "answer": "Az egyik populáció anyagcseretermékei kedvezőtlen körülményeket teremtenek a másiknak"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ olyan növényi kölcsönhatás, amelyben egy növény vegyületet juttat a talajba, amely gátolja a szomszédos növények növekedését.",
+      "options": [],
+      "answer": "allelopátia"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mi a predáció?",
+      "options": [
+        "Egy populáció egyedei részben vagy egészben elfogyasztják a másik populáció egyedeit",
+        "A növények által más növények elfogyasztása",
+        "Az egy fajon belüli egyedek közötti versengés",
+        "Az egyik populáció passzív jelenléte a másikban"
+      ],
+      "answer": "Egy populáció egyedei részben vagy egészben elfogyasztják a másik populáció egyedeit"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ olyan együttélés, mely az egyik populáció számára előnyös, de a másik számára közömbös.",
+      "options": [],
+      "answer": "kommenzalizmus"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mit jelent az endoparazitizmus?",
+      "options": [
+        "A parazita a gazdaszervezet belsejében él",
+        "A parazita a gazdaszervezet külső felszínén él",
+        "A parazita és a gazdaszervezet szimbiótikus viszonyban van",
+        "A parazita csak időlegesen él a gazdában"
+      ],
+      "answer": "A parazita a gazdaszervezet belsejében él"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az obligát paraziták a _____ szervezetet nem hagyják el és nélküle életképtelenek.",
+      "options": [],
+      "answer": "gazdaszervezetet"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mit jelent a versengés a populációk között?",
+      "options": [
+        "A hasonló környezeti igényű populációk a korlátozott erőforrások felhasználásáért versenyeznek",
+        "Az összes populáció együttműködik az erőforrások felhasználásában",
+        "A populációk között nincs semmi kapcsolat",
+        "Az egyik populáció teljesen dominál a másikkal szemben"
+      ],
+      "answer": "A hasonló környezeti igényű populációk a korlátozott erőforrások felhasználásáért versenyeznek"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az olyan laza együttélést, amely az egyik populáció számára előnyös, ahol a populáció puszta lételével biztosítja az életfeltételeket, _____ viszonynak nevezzük.",
+      "options": [],
+      "answer": "kommenzalista"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mi a szintezettség oka az életközösségekben?",
+      "options": [
+        "A növények közötti fényért folyó versengés",
+        "A talaj szerkezetének különbsége",
+        "A víz lefolyásának iránya",
+        "A szél erőssége az adott terülten"
+      ],
+      "answer": "A növények közötti fényért folyó versengés"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A társulás legalsó szintje a _____, amely a termőtalaj felszíni rétegétől a gyökerekig tart.",
+      "options": [],
+      "answer": "gyökérszint"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mely szint a társulás lágyszárú szintje?",
+      "options": [
+        "A gyepszint",
+        "A lombkoronaszint",
+        "Az avarszint",
+        "A cserjeszint"
+      ],
+      "answer": "A gyepszint"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A társulás _____ szerkezetét a növények közötti fényért folyó versengés alakítja ki.",
+      "options": [],
+      "answer": "függőleges"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mit jelent az aszpektus?",
+      "options": [
+        "A társulás évszakok váltakozásával kapcsolatos, periodikusan ismétlődő állapota",
+        "A társulás véglegesen rögzített szerkezete",
+        "A terület domborzatának alakja",
+        "A talaj kémhatása az adott időszakban"
+      ],
+      "answer": "A társulás évszakok váltakozásával kapcsolatos, periodikusan ismétlődő állapota"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ az adott élőhelyen található életközösség átalakulási folyamata egy másik közösséggé.",
+      "options": [],
+      "answer": "szukcesszió"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mely szukcesszió-típus földtörténeti léptékű és több ezer évet ölel fel?",
+      "options": [
+        "A szekuláris szukcesszió",
+        "A biotikus szukcesszió",
+        "Az elsődleges szukcesszió",
+        "A másodlagos szukcesszió"
+      ],
+      "answer": "A szekuláris szukcesszió"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az olyan növényfajok, amelyek az első betelepedő élőlények között vannak, _____ vagy pionír fajok.",
+      "options": [],
+      "answer": "nyitó"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mit jelent a zárótársulás?",
+      "options": [
+        "Az adott éghajlati viszonyok mellett kialakuló legbonyolultabb és legstabilabb társulás",
+        "Az első betelepedő élőlények csoportja",
+        "Az emberi beavatkozás eredménye",
+        "A szukcesszió kezdete"
+      ],
+      "answer": "Az adott éghajlati viszonyok mellett kialakuló legbonyolultabb és legstabilabb társulás"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A társulás _____ szerkezetét a víz és tápanyagok egyenlőtlen eloszlása valamint az értük folyó versengés alakítja ki.",
+      "options": [],
+      "answer": "vízszintes"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mit jelent az eutrofizáció?",
+      "options": [
+        "A tápanyagoknak, különösen nitrogén- és foszforvegyületeknek a vízben való feldúsulása",
+        "A víz savanyodása",
+        "A víz hőmérsékletének emelkedése",
+        "A víz sókoncentrációjának csökkenése"
+      ],
+      "answer": "A tápanyagoknak, különösen nitrogén- és foszforvegyületeknek a vízben való feldúsulása"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A diverzitás _____ a társulás stabilitásáról és produktivitásáról sokat elárul.",
+      "options": [],
+      "answer": "növekedése"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Mi a degradáció ökológiai értelemben?",
+      "options": [
+        "Különböző természetes rendszerek állapotának leromlása",
+        "A populációk normális fejlődése",
+        "Az ökológiai rendszerek önszabályozása",
+        "A biodiverzitás növekedése"
+      ],
+      "answer": "Különböző természetes rendszerek állapotának leromlása"
+    },
+    {
+      "id": 26,
+      "type": "BLANK",
+      "question": "A mikorrhiza gombák és virágos növények szimbiózisában a gomba _____ és tápanyag-felvételét segíti a növénynek.",
+      "options": [],
+      "answer": "víz"
+    },
+    {
+      "id": 27,
+      "type": "MC",
+      "question": "Mely populáció-kölcsönhatás típusa a között, amikor az egy közösségből kilépően megmaradt szerves anyagok feldúsulnak?",
+      "options": [
+        "A táplálkozási kommenzalizmus",
+        "Az endoparazitizmus",
+        "A versengés",
+        "A mutualizmus"
+      ],
+      "answer": "A táplálkozási kommenzalizmus"
+    }
+  ]
+}

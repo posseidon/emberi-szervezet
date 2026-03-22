@@ -1,0 +1,726 @@
+{
+  "subjectId": "biology",
+  "moduleId": "szovetek-szervezetek",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Milyen szövettípusok különböztethetők meg a növényekben?",
+      "options": [
+        "Csak bőrszövetek",
+        "Osztódószövetek és állandósult szövetek",
+        "Kizárólag szállítószövetek",
+        "Alapszövetek és kromatikus szövetek"
+      ],
+      "answer": "Osztódószövetek és állandósult szövetek"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ osztódó sejtekből állnak, amelyek osztódóképességüket a növényi élet egész tartamára megőrzik.",
+      "options": [],
+      "answer": "osztódószövetek"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Hol találhatók a csúcsi osztódószövetek?",
+      "options": [
+        "A szár közepén",
+        "A gyökércsúcsokon és a hajtáscsúcsokon",
+        "A levelek szélein",
+        "Szétszórva az egész növényben"
+      ],
+      "answer": "A gyökércsúcsokon és a hajtáscsúcsokon"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A _____ olyan oldalirányú osztódószövet, amely a növényi szerv vastagodásáért felelős.",
+      "options": [],
+      "answer": "kambium"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Milyen funkciókat teljesít a hajtás bőrszövete (epidermis)?",
+      "options": [
+        "Csak táplálékraktározás",
+        "Mechanikai védelem, kiszáradás elleni védelem, párologtatás és gázcsere",
+        "Fotoszintézis",
+        "Nitrogénkötés"
+      ],
+      "answer": "Mechanikai védelem, kiszáradás elleni védelem, párologtatás és gázcsere"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ olyan nyílások a bőrszövetben, amelyeken keresztül a párologtatás és a gázcsere megtörténik.",
+      "options": [],
+      "answer": "gázcserenyílások"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Milyen sejtekből állnak a gázcserenyílások?",
+      "options": [
+        "Egyetlen nagyobb sejtből",
+        "Számos apró fedősejtekből",
+        "Két zárósejt veszi körül",
+        "Az epidermis teljes felületéből"
+      ],
+      "answer": "Két zárósejt veszi körül"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ egy vízhatlan, kémiai védőréteg a bőrszöveti sejtek felszínén, amely védi a növényt a kiszáradástól.",
+      "options": [],
+      "answer": "kutikula"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mi a gyökérszőrök funkciója?",
+      "options": [
+        "A mechanikai támogatás",
+        "A víz és az oldott ionok felvételé felületnagyobbítása",
+        "A fotoszintézis",
+        "A virágképzés"
+      ],
+      "answer": "A víz és az oldott ionok felvételé felületnagyobbítása"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A gyökérszőrök a _____ kesztyűujjszerű kitűrődései.",
+      "options": [],
+      "answer": "gyökér bőrszövet sejtjeinek"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Milyen élettartammal rendelkeznek a gyökérszőrök?",
+      "options": [
+        "Egész vegetációs időszak",
+        "Csak néhány óra",
+        "Néhány nap, állandóan megújulnak",
+        "Egy év"
+      ],
+      "answer": "Néhány nap, állandóan megújulnak"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A többsejtű növényi szőrök működése szerint lehetnek _____ szőrök, csalánszőrök vagy repítőszőrök.",
+      "options": [],
+      "answer": "fedő"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Milyen szövettípusok tartoznak az állandósult szövetek csoportjába?",
+      "options": [
+        "Csak bőrszövetek",
+        "Bőrszövetek, szállítószövetek, alapszövetek",
+        "Kizárólag szállítószövetek",
+        "Nincsenek állandósult szövetek"
+      ],
+      "answer": "Bőrszövetek, szállítószövetek, alapszövetek"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ szövetek a tápanyagok tárolására és raktározására szolgálnak a növényben.",
+      "options": [],
+      "answer": "raktározó alapszövetek"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Milyen nyitvatermőknél megjelenő evolúciós újítások segítették a szárazföldi élethez való alkalmazkodást?",
+      "options": [
+        "Csak nagyobb levelek",
+        "Virág, mag és víztől független szaporodás",
+        "Kizárólag szövetbeli speciálizáció",
+        "Fotoszintézis megjelenése"
+      ],
+      "answer": "Virág, mag és víztől független szaporodás"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A harasztok voltak az első _____ szövetes és szövetű növények.",
+      "options": [],
+      "answer": "valódi"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Milyen evolúciós újítások jellemzik a zárvatermőket?",
+      "options": [
+        "Csak virágok",
+        "Takarólevelek, bibe, zárt magház, termés, szállítócsövek, gyökérszőrök",
+        "Kizárólag magok",
+        "Csak nagyobb gyökerek"
+      ],
+      "answer": "Takarólevelek, bibe, zárt magház, termés, szállítócsövek, gyökérszőrök"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ megtermékenyítés a zárvatermőkre jellemző, amikor az egyik petesejt magvetős maghoz egyesül.",
+      "options": [],
+      "answer": "kettős"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Milyen mérettartomány jellemzi a harasztok leveleinek formáját?",
+      "options": [
+        "Kizárólag nagyméretűek",
+        "Általában kicsik, pikkelyszerűek, de lehetnek nagyfelületűek is",
+        "Csak középső méretű",
+        "Túl nagyok az assimilációhoz"
+      ],
+      "answer": "Általában kicsik, pikkelyszerűek, de lehetnek nagyfelületűek is"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ szövetek fotoszintetizáló alapszövetek, amelyekben a klorofill található a levelekben.",
+      "options": [],
+      "answer": "táplálékkészítő"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Milyen szerkezetűek a kétszikűek levelerezete szembetűnően az egyszikűekhez képest?",
+      "options": [
+        "Párhuzamos erezet",
+        "Hálózatos vagy fő eres erezet",
+        "Nincsen erezet",
+        "Kör alakú erezet"
+      ],
+      "answer": "Hálózatos vagy fő eres erezet"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az egyszikű növények levelerezete _____ vagy mellékeres.",
+      "options": [],
+      "answer": "párhuzamos"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mi a különbség az embrió sziklevéleinek száma között a kétszikű és egyszikű növények között?",
+      "options": [
+        "Nincsen különbség",
+        "Kétszikű: két sziklevél, egyszikű: egy sziklevél",
+        "Kétszikű: egy sziklevél, egyszikű: több sziklevél",
+        "Mindkettőnek több sziklevele van"
+      ],
+      "answer": "Kétszikű: két sziklevél, egyszikű: egy sziklevél"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A nyitvatermők törzse a nevét arról kapta, hogy a magkezdemények _____ fejlődnek a termőleveleken.",
+      "options": [],
+      "answer": "szabadon"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Milyen jellegzetessége van a nyitvatermők virágmegporzásának?",
+      "options": [
+        "Rovarokkal történik",
+        "Víz közvetítésével",
+        "Elsődlegesen szélmegporzás",
+        "Kizárólag önmegtermékenyítés"
+      ],
+      "answer": "Elsődlegesen szélmegporzás"
+    },
+    {
+      "id": 26,
+      "type": "MC",
+      "question": "Milyen jellemzői vannak az álszövetes állatok testfelépítésének?",
+      "options": [
+        "Valódi szöveteik vannak, jól differenciálódott sejtek",
+        "Valódi szöveteik nincsenek, a sejtek még megőrizték önállóságukat",
+        "Teljes szöveti specializáció",
+        "Valódi szervrendszerek"
+      ],
+      "answer": "Valódi szöveteik nincsenek, a sejtek még megőrizték önállóságukat"
+    },
+    {
+      "id": 27,
+      "type": "BLANK",
+      "question": "A _____ a legősibb többsejtű állatok, amelyek testének felépítése az elmúlt mintegy 580 millió év alatt alig változott.",
+      "options": [],
+      "answer": "szivacsok"
+    },
+    {
+      "id": 28,
+      "type": "MC",
+      "question": "Milyen élethelyet kedvelnek jellemzően a szivacsok?",
+      "options": [
+        "Kizárólag mélytengeri vizeket",
+        "Nagyrészt tengereket, ritkán édesvízeket",
+        "Csak édesvizeket",
+        "Szárazföldi élőhelyeket"
+      ],
+      "answer": "Nagyrészt tengereket, ritkán édesvízeket"
+    },
+    {
+      "id": 29,
+      "type": "BLANK",
+      "question": "A szivacs testfala 3 rétegből épül fel: külső réteg, középső kocsonyás lemez és _____ belső réteg.",
+      "options": [],
+      "answer": "galléros ostoros sejtek"
+    },
+    {
+      "id": 30,
+      "type": "MC",
+      "question": "Mi a galléros ostoros sejtek funkciója a szivacsban?",
+      "options": [
+        "Támogatás",
+        "Vízáram keltése és táplálékfelvétel",
+        "Szaporodás",
+        "Kizárólag váz képzés"
+      ],
+      "answer": "Vízáram keltése és táplálékfelvétel"
+    },
+    {
+      "id": 31,
+      "type": "BLANK",
+      "question": "A _____ olyan vázsukatúra anyaga szilícium-dioxid a kovaszivacsokban.",
+      "options": [],
+      "answer": "kova"
+    },
+    {
+      "id": 32,
+      "type": "MC",
+      "question": "Milyen szaporodási módjuk jellemzi az édesvízi szivacsfajokat?",
+      "options": [
+        "Csak ivaros szaporodás",
+        "Ivartalan szaporodás és gyöngysarj képzés",
+        "Kizárólag mitózis",
+        "Csak bimbózás"
+      ],
+      "answer": "Ivartalan szaporodás és gyöngysarj képzés"
+    },
+    {
+      "id": 33,
+      "type": "BLANK",
+      "question": "A _____ olyan ún. hólyagszerű képződmények, amelyeket az édesvízi szivacsok képeznek kedvezőtlen körülmények között.",
+      "options": [],
+      "answer": "gyöngysarjak"
+    },
+    {
+      "id": 34,
+      "type": "MC",
+      "question": "Milyen szövettípus jelenik meg először az evolúcióban a laposférgeknél?",
+      "options": [
+        "Csak epitél szövetek",
+        "Valódi szövetek, amelyek adott feladatra specializálódtak",
+        "Nem valódi szövetek",
+        "Kizárólag izomszövetek"
+      ],
+      "answer": "Valódi szövetek, amelyek adott feladatra specializálódtak"
+    },
+    {
+      "id": 35,
+      "type": "BLANK",
+      "question": "A _____ az első olyan evolúciós fejlemény, amely megjelenik a laposférgeknél, és a legtöbb belső szervre is jellemző.",
+      "options": [],
+      "answer": "kétoldali szimmetria"
+    },
+    {
+      "id": 36,
+      "type": "MC",
+      "question": "Milyen testszerveződésbeli jellegzetessége van a füles planáriának?",
+      "options": [
+        "Gömbölyű test",
+        "Hát-hasi irányban lapított test",
+        "Hengeralakú test",
+        "Spirális test"
+      ],
+      "answer": "Hát-hasi irányban lapított test"
+    },
+    {
+      "id": 37,
+      "type": "BLANK",
+      "question": "A laposférgek bőrizomtömlője _____ összenő az izomszövettel és működési egységet képez.",
+      "options": [],
+      "answer": "hámszövet"
+    },
+    {
+      "id": 38,
+      "type": "MC",
+      "question": "Milyen tanácsúval állunk szemben a laposférgek emésztésénél?",
+      "options": [
+        "Teljes tápcsatorna",
+        "Csupán elő- és középbélből álló rendszer, végbél nélkül",
+        "Nincs emésztőcsatorna",
+        "Kizárólag sejten kívüli emésztés"
+      ],
+      "answer": "Csupán elő- és középbélből álló rendszer, végbél nélkül"
+    },
+    {
+      "id": 39,
+      "type": "BLANK",
+      "question": "A füles planáriában található _____ a feji végen található fényérzékelő szerv.",
+      "options": [],
+      "answer": "serlegszem"
+    },
+    {
+      "id": 40,
+      "type": "MC",
+      "question": "Milyen idegsystem jellemzi a laposférgeket?",
+      "options": [
+        "Nincsen idegrendszer",
+        "Szétszórt idegsejtek",
+        "Dúcidegrendszer az agydúcokkal",
+        "Teljes központi idegrendszer"
+      ],
+      "answer": "Dúcidegrendszer az agydúcokkal"
+    },
+    {
+      "id": 41,
+      "type": "BLANK",
+      "question": "A _____ olyan galandférgek-parazita, amely az ember középbelében élősködik és órákig élhet.",
+      "options": [],
+      "answer": "horgasfejű galandféreg"
+    },
+    {
+      "id": 42,
+      "type": "MC",
+      "question": "Milyen szöveti szinten kialakultak először az igazi szervek?",
+      "options": [
+        "Laposférgeknél",
+        "Szivacsban",
+        "Gyűrűsférgeknél",
+        "Egysejtűekben"
+      ],
+      "answer": "Gyűrűsférgeknél"
+    },
+    {
+      "id": 43,
+      "type": "BLANK",
+      "question": "A _____ szerveződés az első olyan evolúciós fejlemény a gyűrűsférgeknél, amely megjelenik.",
+      "options": [],
+      "answer": "szelvényezettség"
+    },
+    {
+      "id": 44,
+      "type": "MC",
+      "question": "Milyen keringési rendszere van a gyűrűsférgeknél (például a földigilisztának)?",
+      "options": [
+        "Nyílt keringési rendszer",
+        "Zárt keringési rendszer",
+        "Nincs keringési rendszer",
+        "Szétszórt vérvezetékek"
+      ],
+      "answer": "Zárt keringési rendszer"
+    },
+    {
+      "id": 45,
+      "type": "BLANK",
+      "question": "A _____ olyan szelvényekből összeépített gyűrűs férgek testének ismétlődő alapegysége.",
+      "options": [],
+      "answer": "szelvény"
+    },
+    {
+      "id": 46,
+      "type": "MC",
+      "question": "Milyen mozgásformát végez a gyűrűsféreg a szelvényeit segítségével?",
+      "options": [
+        "Amőboid mozgás",
+        "Csillós mozgás",
+        "Féregmozgás",
+        "Csavarális mozgás"
+      ],
+      "answer": "Féregmozgás"
+    },
+    {
+      "id": 47,
+      "type": "BLANK",
+      "question": "A gyűrűsférgek testét alakját a testüreget kitöltő folyadék nyomása határozza meg, amely a _____ váz szerepét tölti be.",
+      "options": [],
+      "answer": "hidrosztatikai"
+    },
+    {
+      "id": 48,
+      "type": "MC",
+      "question": "Mi a szerepe a földigilisztának az ökoszisztémában?",
+      "options": [
+        "Semmilyen szerepe nincs",
+        "Talajminőség javítása, humor képzés és levegőztetés",
+        "Kizárólag kórokozó",
+        "Csak élelmiszer termelésben fontos"
+      ],
+      "answer": "Talajminőség javítása, humor képzés és levegőztetés"
+    },
+    {
+      "id": 49,
+      "type": "BLANK",
+      "question": "A laposférgek gyakran _____ életmódot folytatnak, mint az egyes kopiára-élősködő fajoknál.",
+      "options": [],
+      "answer": "ragadozó"
+    },
+    {
+      "id": 50,
+      "type": "MC",
+      "question": "Milyen szöveti rétegek jellemzik a laposférgek testfalát?",
+      "options": [
+        "Csak egyetlen hámréteg",
+        "Csak izomszövet",
+        "Egyrétegű csillós hám és izomszövet",
+        "Egyetlen fehérje réteg"
+      ],
+      "answer": "Egyrétegű csillós hám és izomszövet"
+    },
+    {
+      "id": 51,
+      "type": "MC",
+      "question": "Mekkora az evolúciós jelentősége a többsejtűség kialakulásának az állatokra?",
+      "options": [
+        "Kizárólag méretbeli növekedés",
+        "Működési egységek szervekké szerveződése és szövetszintet elérő differenciálódás",
+        "Nem volt jelentőségeizmos",
+        "Kizárólag fenntartó mozgás"
+      ],
+      "answer": "Működési egységek szervekké szerveződése és szövetszintet elérő differenciálódás"
+    },
+    {
+      "id": 52,
+      "type": "BLANK",
+      "question": "Az állati szervezetekben _____ fő szövettípus különböztetünk meg.",
+      "options": [],
+      "answer": "öt"
+    },
+    {
+      "id": 53,
+      "type": "MC",
+      "question": "Milyen fő szövettípusok soroljuk az állati szervezetben?",
+      "options": [
+        "Csak hámszövetek",
+        "Hámszövet, kötőszövet, támasztószövet, izomszövet, idegszövet",
+        "Kizárólag idegszövet",
+        "Izomszövet és csontszövet"
+      ],
+      "answer": "Hámszövet, kötőszövet, támasztószövet, izomszövet, idegszövet"
+    },
+    {
+      "id": 54,
+      "type": "BLANK",
+      "question": "A hámszövet az _____ szövetek közé tartozik, mivel sejtközötti állomány nincs.",
+      "options": [],
+      "answer": "vérellátás nélküli"
+    },
+    {
+      "id": 55,
+      "type": "MC",
+      "question": "Milyen funkciót teljesít a hámszövet az állati szervezetben?",
+      "options": [
+        "Csak csontalkotás",
+        "Mechanikai, kémiai védelem, anyag felvétele-leadása, érzékelés",
+        "Kizárólag energiatárolás",
+        "Csak képernyőző szövet"
+      ],
+      "answer": "Mechanikai, kémiai védelem, anyag felvétele-leadása, érzékelés"
+    },
+    {
+      "id": 56,
+      "type": "BLANK",
+      "question": "Az _____ olyan kémiailag sokféle vegyületből felépülő külső felszíni védőréteg az egyrétegű hámszöveten.",
+      "options": [],
+      "answer": "kutikula"
+    },
+    {
+      "id": 57,
+      "type": "MC",
+      "question": "Milyen jellegzetesek a mikrobolyhok a bélhámban?",
+      "options": [
+        "Csökkentik a felületet",
+        "Ujjszerű citoplazma-kitűrődések, amelyek a felszívófelületet sokszorosára növelik",
+        "Képeznek szállítási csatornákat",
+        "Mozgó szöveti részletek"
+      ],
+      "answer": "Ujjszerű citoplazma-kitűrődések, amelyek a felszívófelületet sokszorosára növelik"
+    },
+    {
+      "id": 58,
+      "type": "BLANK",
+      "question": "A _____ mozgékony, apró sejtnyúlványok, amelyek az orrüreg, légcső és petevezetékben találhatók.",
+      "options": [],
+      "answer": "csillók"
+    },
+    {
+      "id": 59,
+      "type": "MC",
+      "question": "Milyen rétegekből áll a többrétegű elszarusodó laphám?",
+      "options": [
+        "Csak egy rétegből",
+        "Elműködő sejt sorból, szarusodási rétegekből és szarurétegből",
+        "Nincsenek különálló rétegek",
+        "Kizárólag pigmentrétegekből"
+      ],
+      "answer": "Elműködő sejt sorból, szarusodási rétegekből és szarurétegből"
+    },
+    {
+      "id": 60,
+      "type": "BLANK",
+      "question": "A _____ olyan többrétegű elszarusodó laphám, amely a szárazföldi gerincesek – hüllők, madarak, emlősök - bőrének felszínén fordul elő.",
+      "options": [],
+      "answer": "keratin fehérje"
+    },
+    {
+      "id": 61,
+      "type": "MC",
+      "question": "Milyen funkciót teljesítnek a pigmentsejtek (melanociták) az elszarusodó hámban?",
+      "options": [
+        "Csak támogatás",
+        "Barna melanin pigment termelése bőrszínhez",
+        "Hormontermelés",
+        "Csupán táplálékraktározás"
+      ],
+      "answer": "Barna melanin pigment termelése bőrszínhez"
+    },
+    {
+      "id": 62,
+      "type": "BLANK",
+      "question": "A _____ olyan különféle funkciójú és összetételű váladék termelésére specializálódott szövetféleség.",
+      "options": [],
+      "answer": "mirigyhám"
+    },
+    {
+      "id": 63,
+      "type": "MC",
+      "question": "Milyen elválasztási módok különböztethetők meg a mirigyhámsejtjeknél?",
+      "options": [
+        "Csak belső elválasztás",
+        "Belső (endokrin) és külső elválasztás",
+        "Kizárólag kiválasztás",
+        "Nem történik elválasztás"
+      ],
+      "answer": "Belső (endokrin) és külső elválasztás"
+    },
+    {
+      "id": 64,
+      "type": "BLANK",
+      "question": "A _____ olyan belső elválasztású mirigyekben termelt hatóanyag, amely közvetlenül a vérbe kerül.",
+      "options": [],
+      "answer": "hormon"
+    },
+    {
+      "id": 65,
+      "type": "MC",
+      "question": "Milyen fő részekből állnak a kötőszövetek?",
+      "options": [
+        "Csak sejtekből",
+        "Sejtekből és szignifikáns sejtközötti állományból",
+        "Csak rostokból",
+        "Kizárólag alapállományból"
+      ],
+      "answer": "Sejtekből és szignifikáns sejtközötti állományból"
+    },
+    {
+      "id": 66,
+      "type": "BLANK",
+      "question": "A _____ a legelterjedtebb kötőszöveti rostféleség, amely a test fehérjeállományának 20-30%-át adja.",
+      "options": [],
+      "answer": "kollagénrost"
+    },
+    {
+      "id": 67,
+      "type": "MC",
+      "question": "Milyen funkciók teljesít a lazarostos kötőszövet?",
+      "options": [
+        "Csak támogatás",
+        "Legtöbb szerv felépítésében részt vesz, kitölti a szervek közötti tereket",
+        "Kizárólag energia tárolása",
+        "Hormontermelés"
+      ],
+      "answer": "Legtöbb szerv felépítésében részt vesz, kitölti a szervek közötti tereket"
+    },
+    {
+      "id": 68,
+      "type": "BLANK",
+      "question": "A _____ olyan olyan tömött rostos kötőszövet, amely az izmokat a csontokhoz kapcsolja.",
+      "options": [],
+      "answer": "ínszövet"
+    },
+    {
+      "id": 69,
+      "type": "MC",
+      "question": "Milyen összetétel alkotja a csontszövetet?",
+      "options": [
+        "Csak szerves anyagok",
+        "Szerves és szervetlen anyagok",
+        "Kizárólag szervetlen sók",
+        "Csak fehérjék"
+      ],
+      "answer": "Szerves és szervetlen anyagok"
+    },
+    {
+      "id": 70,
+      "type": "BLANK",
+      "question": "A _____ olyan alapvető felépítési egysége a csontszövetnek, amely kb. 10 mm magas henger.",
+      "options": [],
+      "answer": "oszteon"
+    },
+    {
+      "id": 71,
+      "type": "MC",
+      "question": "Milyen szövettípusok sorolhatók a támasztószövetek közé?",
+      "options": [
+        "Csak csontszövet",
+        "Porcszövet és csontszövet",
+        "Csak nyúlványos kötőszövet",
+        "Kizárólag idegszövet"
+      ],
+      "answer": "Porcszövet és csontszövet"
+    },
+    {
+      "id": 72,
+      "type": "BLANK",
+      "question": "A _____ olyan alapvető izomfehérjék, amelyeknek köszönhetően az izomszövet összehúzódik.",
+      "options": [],
+      "answer": "aktin és miozin"
+    },
+    {
+      "id": 73,
+      "type": "MC",
+      "question": "Milyen izomszövet típusok különböztethetők meg az állatokban?",
+      "options": [
+        "Csak egyféle",
+        "Vázizom, simaizom, szívizom",
+        "Kizárólag vázizom",
+        "Csak szívizom"
+      ],
+      "answer": "Vázizom, simaizom, szívizom"
+    },
+    {
+      "id": 74,
+      "type": "BLANK",
+      "question": "Az _____ szövet az állati szervezet idegsejtek összessége, amely az idegsejtek közötti információ-továbbítást biztosítja.",
+      "options": [],
+      "answer": "idegszövet"
+    },
+    {
+      "id": 75,
+      "type": "MC",
+      "question": "Milyen eredete van az első többsejtű állatoknak az evolúció során?",
+      "options": [
+        "Közvetlenül az ősbaktériumokból",
+        "Az egysejtű szervezetekből fejlődtek ki",
+        "Több millió éve kialakultak",
+        "Nem tudjuk az eredetüket"
+      ],
+      "answer": "Az egysejtű szervezetekből fejlődtek ki"
+    }
+  ]
+}

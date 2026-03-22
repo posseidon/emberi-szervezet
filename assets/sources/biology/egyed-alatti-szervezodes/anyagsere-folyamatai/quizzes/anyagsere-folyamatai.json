@@ -1,0 +1,291 @@
+{
+  "subjectId": "biology",
+  "moduleId": "anyagcsere-folyamatai",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely anyagi rendszer típusra jellemző, hogy anyag- és energiaforgalmat is folytat a környezetével?",
+      "options": [
+        "Nyílt anyagi rendszer",
+        "Izolált rendszer",
+        "Zárt anyagi rendszer",
+        "Homogén rendszer"
+      ],
+      "answer": "Nyílt anyagi rendszer"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az élő szervezetekben a legjelentősebb az _____ energia, amely kémiai kötések hasadásához vagy kialakulásukkor felszabaduló energiamennyiség.",
+      "options": [],
+      "answer": "kémiai"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mely vegyület a legtöbb élő szervezetben az energiatárolást és -szállítást végzi?",
+      "options": [
+        "ATP",
+        "ADP",
+        "NADPH",
+        "GTP"
+      ],
+      "answer": "ATP"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az élő rendszerek az egyensúlytalanságot fenntartják azáltal, hogy energiát igényelnek, mivel minden életjelenség végső soron _____ végzés.",
+      "options": [],
+      "answer": "munka"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mit jelent az autotrófok C-forrása szempontjából való meghatározása?",
+      "options": [
+        "Az szervetlen anyagokból, CO2-ből és H2O-ből építik fel szerves vegyületeiket",
+        "Az szerves anyagokat fogyasztanak az élő környezetből",
+        "Az energia nélkül nem tudnak működni",
+        "Az kizárólag inorgánikussá fordítanak szerves anyagokat"
+      ],
+      "answer": "Az szervetlen anyagokból, CO2-ből és H2O-ből építik fel szerves vegyületeiket"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ olyan élőlények, amelyek testük felépítéséhez szükséges anyagokat az élettelen környezetből veszik fel szervetlen anyagok formájában.",
+      "options": [],
+      "answer": "autotrófok"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mely energiaforrást használnak a fototrófok?",
+      "options": [
+        "A Nap fényenergiáját",
+        "Szervetlen anyagok oxidációjából felszabaduló energiát",
+        "Szerves anyagok lebontásából felszabaduló energiát",
+        "Geotermikus energiát"
+      ],
+      "answer": "A Nap fényenergiáját"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ olyan élőlények, amelyek testük felépítéséhez szükséges anyagokat az élő környezetből veszik fel szerves anyagok formájában.",
+      "options": [],
+      "answer": "heterotrófok"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mit jelent az asszimiláció?",
+      "options": [
+        "A szervezet egyszerű felépítésű, kis méretű molekulákból bonyolult, nagy méretű szerves vegyületeket állít elő",
+        "A szervezet bonyolult vegyületeit egyszerű molekulákká bontja",
+        "A szervezet energiát felhasznál az ATP-ből",
+        "A szervezet adja le a salakanyagokat"
+      ],
+      "answer": "A szervezet egyszerű felépítésű, kis méretű molekulákból bonyolult, nagy méretű szerves vegyületeket állít elő"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ a szervezet bonyolult, nagy méretű szerves vegyületeit kis méretű, egyszerű molekulákká bontja.",
+      "options": [],
+      "answer": "disszimiláció"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik biológiai folyamat során az élőlények fényenergiát kémiai energiává alakítják át?",
+      "options": [
+        "Fotoszintézis",
+        "Sejtlégzés",
+        "Erjedés",
+        "Nitrifikáció"
+      ],
+      "answer": "Fotoszintézis"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A fotoszintézis során az élőlények _____ és vízből a Nap energiájának segítségével szerves anyagokat állítanak elő.",
+      "options": [],
+      "answer": "szén-dioxidból"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mely szakaszban játszódik le a fotoszintézisben a fényenergia megkötése és átalakítása?",
+      "options": [
+        "A fényszakaszban",
+        "A sötét szakaszban",
+        "Az előkészítő szakaszban",
+        "A végső szakaszban"
+      ],
+      "answer": "A fényszakaszban"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A fotoszintézis _____ szakaszában játszódik le a szén-dioxid megkötése és redukciója, a glükóz előállítása.",
+      "options": [],
+      "answer": "sötét"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mely vegyületek képződnek a fotoszintézis fényszakaszában?",
+      "options": [
+        "ATP, NADPH és oxigén",
+        "Glükóz, szén-dioxid és víz",
+        "Keményítő, lipidek és fehérjék",
+        "Laktóz, szacharóz és maltóz"
+      ],
+      "answer": "ATP, NADPH és oxigén"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ olyan összetett fehérjék, amelyekben a nem fehérje része Fe-porfirin komplex, és az elektronszállítórendszerben szerepet játszanak.",
+      "options": [],
+      "answer": "citokrómok"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mit jelent a fotolízis a fotoszintézisben?",
+      "options": [
+        "A víz fényelektron szétbomlása, amely oxigén, hidrogén és elektronok keletkezésével jár",
+        "A glükóz lebontása fény hatására",
+        "A klorofill szétesése fényben",
+        "Az ATP szintézise fény nélkül"
+      ],
+      "answer": "A víz fényelektron szétbomlása, amely oxigén, hidrogén és elektronok keletkezésével jár"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A Calvin-ciklus során a _____ egy öt szénatomos keton, amely megköti a szén-dioxidot.",
+      "options": [],
+      "answer": "ribulóz-1,5-difoszfát"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mely enzim katalizálja a szén-dioxid megkötését a Calvin-ciklusban?",
+      "options": [
+        "Rubisco",
+        "Amiláz",
+        "Lipáz",
+        "Dehidrogenáz"
+      ],
+      "answer": "Rubisco"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A glükoneogenezis elsősorban a _____ zajlik jelentősebb éhezéskor, ahol a heterotróf szervezetekben glükóz előállítása történik.",
+      "options": [],
+      "answer": "májban"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mit jelent a biológiai oxidáció?",
+      "options": [
+        "A glükóz lebomlása oxigén jelenlétében, amely szén-dioxid és víz keletkezésével jár",
+        "A szerves anyagok lebontása oxigén nélkül",
+        "A fehérjék hasítása savak hatására",
+        "A lipidek emésztése baktériumok által"
+      ],
+      "answer": "A glükóz lebomlása oxigén jelenlétében, amely szén-dioxid és víz keletkezésével jár"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A _____ a glükózlebomlás első szakasza, amely a sejtek citoplazmájában játszódik le, és 2 piroszőlősav, 2 ATP és 2 NADH molekulát termel.",
+      "options": [],
+      "answer": "glikolízis"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Hány ATP molekula szabadul fel a glikolízis során glükózmolekulánként?",
+      "options": [
+        "Nettó 2 ATP",
+        "4 ATP",
+        "32 ATP",
+        "1 ATP"
+      ],
+      "answer": "Nettó 2 ATP"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az _____ olyan szakasz a biológiai oxidációban, ahol az acetilcsoport C-atomjai szén-dioxiddá alakulnak.",
+      "options": [],
+      "answer": "citrátkör"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Mely folyamat során szabadul fel az energia legnagyobb mértéke a biológiai oxidációban?",
+      "options": [
+        "A terminális oxidáció során",
+        "A glikolízis során",
+        "A citrátkör során",
+        "A dekarbokszilációs folyamat során"
+      ],
+      "answer": "A terminális oxidáció során"
+    },
+    {
+      "id": 26,
+      "type": "BLANK",
+      "question": "A biológiai oxidáció során egy mol glükózból körülbelül _____ mol ATP képződik.",
+      "options": [],
+      "answer": "38"
+    },
+    {
+      "id": 27,
+      "type": "MC",
+      "question": "Mit jelent az erjedés?",
+      "options": [
+        "Szerves anyagok lebontása oxigén hiányában",
+        "A glükóz fényelektron szétbomlása",
+        "Az fehérjék szintézise riboszómákon",
+        "Az sejtek osztódása"
+      ],
+      "answer": "Szerves anyagok lebontása oxigén hiányában"
+    },
+    {
+      "id": 28,
+      "type": "BLANK",
+      "question": "Az alkoholos erjedés végterméke az ethanol és a _____ mellett a kiváló energia csak 2 ATP molekulát hoz létre glükózmolekulánként.",
+      "options": [],
+      "answer": "szén-dioxid"
+    },
+    {
+      "id": 29,
+      "type": "MC",
+      "question": "Mely szervekben zajlik a biológiai oxidáció legfontosabb szakasza, a terminális oxidáció?",
+      "options": [
+        "A mitokondriumban",
+        "A citoplazmában",
+        "A sejtmagjában",
+        "A Golgi-készülékben"
+      ],
+      "answer": "A mitokondriumban"
+    },
+    {
+      "id": 30,
+      "type": "BLANK",
+      "question": "A _____ folyamatok során az élőlények az egyszerű felépítésű molekulákból bonyolult szerves vegyületeket építenek fel.",
+      "options": [],
+      "answer": "felépítő"
+    }
+  ]
+}

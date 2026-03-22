@@ -1,0 +1,101 @@
+{
+  "subjectId": "biology",
+  "moduleId": "anyagszallitas",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Hány literre becsülhető az egy 70 kg-os emberi szervezet vértérfogata?",
+      "options": [
+        "3 liter",
+        "5 liter",
+        "7 liter",
+        "10 liter"
+      ],
+      "answer": "5 liter"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A vér folyékony kötőszövet, melyet vérplazma és _____ építenek fel.",
+      "options": [],
+      "answer": "alakos elemek"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "A hemoglobin mely elemből álló porfirinváz?",
+      "options": [
+        "4 pirrol gyűrű",
+        "3 pirrol gyűrű",
+        "5 pirrol gyűrű",
+        "6 pirrol gyűrű"
+      ],
+      "answer": "4 pirrol gyűrű"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A vörösvérsejtek szárazanyagának 95 %-át a _____ tölti ki.",
+      "options": [],
+      "answer": "hemoglobin"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mekkora a vörösvértest-szám férfiakban normálisan?",
+      "options": [
+        "2 millió/mm3",
+        "3,5 millió/mm3",
+        "5 millió/mm3",
+        "7 millió/mm3"
+      ],
+      "answer": "5 millió/mm3"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A hemoglobin oxigénnel való telítettségét az _____ görbe jellemzi.",
+      "options": [],
+      "answer": "szaturációs"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Az artériás vérben a hemoglobin szaturációja körülbelül hány százalék?",
+      "options": [
+        "75%",
+        "85%",
+        "97%",
+        "99%"
+      ],
+      "answer": "97%"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A szén-dioxid a vörösvértestekben enzim segítségével _____ alakul.",
+      "options": [],
+      "answer": "szénsavvá"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mely vitamin szükséges a vörösvértest-képzéshez?",
+      "options": [
+        "A-vitamin",
+        "B12-vitamin és folsav",
+        "D-vitamin",
+        "E-vitamin"
+      ],
+      "answer": "B12-vitamin és folsav"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A vörösvértestek átlagos élettartalma 120 _____ .",
+      "options": [],
+      "answer": "nap"
+    }
+  ]
+}

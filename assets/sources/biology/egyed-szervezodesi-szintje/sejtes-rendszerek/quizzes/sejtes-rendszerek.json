@@ -1,0 +1,512 @@
+{
+  "subjectId": "biology",
+  "moduleId": "sejtes-rendszerek",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mekkora a prokarióták tipikus mérettartománya?",
+      "options": [
+        "10-100 μm, szabad szemmel láthatók",
+        "1-10 μm, fénymikroszkóppal láthatók",
+        "20-néhány száz nm, csak elektronmikroszkóppal láthatók",
+        "0,1 μm, speciális berendezéssel nem láthatók"
+      ],
+      "answer": "1-10 μm, fénymikroszkóppal láthatók"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A prokarióták közös sajátsága, hogy sejtjeikben nincs _____ körülhatárolt sejtmag.",
+      "options": [],
+      "answer": "membránnal"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik csoport tartozik a prokariótákhoz?",
+      "options": [
+        "A valódi baktériumok és az eukarióták",
+        "A valódi baktériumok és az ősbaktériumok",
+        "Csak az eukarióta baktériumok",
+        "Az összes egysejtű organizmus"
+      ],
+      "answer": "A valódi baktériumok és az ősbaktériumok"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A legkorábbi ismert élőlények maradványai a _____, amelyek kb. 3,4 milliárd évesek.",
+      "options": [],
+      "answer": "sztromatolitok"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Milyen környezetben élnek jellemzően az ősbaktériumok?",
+      "options": [
+        "Hűvös, nedves fás erdőkben",
+        "Szélsőséges körülmények között: forró hőforrások, extrém sós környezet, mélytengeri területek",
+        "Kizárólag édesvizekben",
+        "Csak magas nyomás alatt az óceán felszínén"
+      ],
+      "answer": "Szélsőséges körülmények között: forró hőforrások, extrém sós környezet, mélytengeri területek"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ ősbaktériumok melegebb élőhelyeken, például hőforrásokban fordulnak elő.",
+      "options": [],
+      "answer": "termofilek"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Milyen sejtfal anyag jellemzi a baktériumokat?",
+      "options": [
+        "Cellulóz",
+        "Murein",
+        "Kitin",
+        "Keratin"
+      ],
+      "answer": "Murein"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A penicillin a baktériumok sejtfal _____ képzését gátolja.",
+      "options": [],
+      "answer": "képzését"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Milyen alakok jellemzik a baktériumokat?",
+      "options": [
+        "Csak gömbös alakok",
+        "Gömb (kokkuszok), pálcika (bacillusok), görbült pálca (spirillumok, vibrió)",
+        "Kizárólag pálcika alakok",
+        "Csak spirális morfológiájú sejtek"
+      ],
+      "answer": "Gömb (kokkuszok), pálcika (bacillusok), görbült pálca (spirillumok, vibrió)"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az _____ olyan hőnek, sugárzásnak és roncsoló kémiai anyagoknak ellenálló képződmény, amely kedvezőtlen körülmények között alakul ki.",
+      "options": [],
+      "answer": "spóra"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Milyen szaporodási mód jellemzi elsősorban a prokarióták szaporodását?",
+      "options": [
+        "Meiózis és bonyolult ivaros szaporodás",
+        "Hasadás vagy ivartalan szaporodás",
+        "Csak bimbózás",
+        "Kettős megtermékenyítés"
+      ],
+      "answer": "Hasadás vagy ivartalan szaporodás"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ során a sejt a környezetéből idegen DNS-t vesz fel és beépíti saját genetikai anyagába.",
+      "options": [],
+      "answer": "transzformáció"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Milyen genetikai anyag átviteli módra jellemző a plazmahíd kialakulása?",
+      "options": [
+        "A transzformációra",
+        "A transzdukcióra",
+        "A konjugációra",
+        "A szexuális szaporodásra"
+      ],
+      "answer": "A konjugációra"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ során a genetikai információ bakteriofágok segítségével jut át egyik baktériumsejtből a másikba.",
+      "options": [],
+      "answer": "transzdukció"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Milyen anyagcsere típusú baktériumokat nevezünk autotrófoknak?",
+      "options": [
+        "Azok, amelyek szerves anyagokra szorulnak a növekedéshez",
+        "Azok, amelyek testük felépítéséhez szükséges anyagokat az élettelen környezetből veszik fel",
+        "Azok, amelyek oxigén nélkül nem élhetnek",
+        "Azok, amelyek csak vízből táplálkoznak"
+      ],
+      "answer": "Azok, amelyek testük felépítéséhez szükséges anyagokat az élettelen környezetből veszik fel"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ autotróf baktériumok a nap fényenergiáját használják fel szervetlen anyagok szerves anyaggá alakításához.",
+      "options": [],
+      "answer": "fototrófok"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mit végeznek a nitrifikáló baktériumok?",
+      "options": [
+        "Az ammóniát oxidálják nitrit- és nitrát-ionná",
+        "Az oxigént szén-dioxiddá alakítják",
+        "A nitrogént közvetlenül felhasználják fehérjeszintézishez",
+        "Az összes szerves anyagot bontják le"
+      ],
+      "answer": "Az ammóniát oxidálják nitrit- és nitrát-ionná"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ az elpusztult élőlények szerves anyagait bontják le és alakítják vissza CO2-á és vízzé.",
+      "options": [],
+      "answer": "szaprofiták"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Amely csoportba tartoznak a pillangósvirágú növények gyökérgümőiben élő baktériumok?",
+      "options": [
+        "A paraziták közé",
+        "A szimbionták közé",
+        "Az autotrófok közé",
+        "Az egyéb szaprofiták közé"
+      ],
+      "answer": "A szimbionták közé"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A Clostridium botulinum által termelt _____ az egyik legerősebb ismert természetes toxin.",
+      "options": [],
+      "answer": "botulin neurotoxin"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Milyen betegséget okoz a Vibrio cholerae által termelt enterotoxin?",
+      "options": [
+        "Magas lázat és szív-betegségeket",
+        "Kolerit okozó súlyos hasmenést és hányást",
+        "Tüdőgyulladást",
+        "Agyhártyagyulladást"
+      ],
+      "answer": "Kolerit okozó súlyos hasmenést és hányást"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A Lyme-kór _____ által terjesztett bakteriális fertőzés.",
+      "options": [],
+      "answer": "kullancs"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Milyen megjelenési formák jellemzik a Lyme-kórt?",
+      "options": [
+        "Először hőemelkedés, majd száraz köhögés",
+        "Először bőrtünetekkel, később ízületi és izomfájdalmakkal, majd gyakran idegrendszeri elváltozásokkal",
+        "Kizárólag szív-betegségek",
+        "Csak táplálékfelvétel zavarral"
+      ],
+      "answer": "Először bőrtünetekkel, később ízületi és izomfájdalmakkal, majd gyakran idegrendszeri elváltozásokkal"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A tuberkulózist okozó baktérium az _____ szövetének pusztulásához vezet.",
+      "options": [],
+      "answer": "tüdő"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Milyen antibiotikumokkal szemben alakulhat ki rezisztencia a baktériumokban?",
+      "options": [
+        "Csak a béta-laktám antibiotikumokkal szemben",
+        "Az antibiotikum rezisztencia gének olyan fehérjéket kódolnak, amelyek közömbösítik az antibiotikumok hatását",
+        "Antibiotikumok ellen soha nem alakul ki rezisztencia",
+        "Csak olyan bakteriális baktériumoknál, amelyek nagy méretűek"
+      ],
+      "answer": "Az antibiotikum rezisztencia gének olyan fehérjéket kódolnak, amelyek közömbösítik az antibiotikumok hatását"
+    },
+    {
+      "id": 26,
+      "type": "BLANK",
+      "question": "Az endoszimbiózis elmélet szerint az _____ sejtmagot és mitokondrium fejlődtek ki a prokarióta szervezetekből.",
+      "options": [],
+      "answer": "eukarióta"
+    },
+    {
+      "id": 27,
+      "type": "MC",
+      "question": "Mekkora egy grammban az átlagos baktériumszám a talajban?",
+      "options": [
+        "Körülbelül 1000",
+        "Körülbelül 40 millió",
+        "Körülbelül 100",
+        "Körülbelül 5 billió"
+      ],
+      "answer": "Körülbelül 40 millió"
+    },
+    {
+      "id": 28,
+      "type": "BLANK",
+      "question": "A _____ baktériumok a tejcukrot tejsavvá bontják le és erjesztési folyamatra képesek.",
+      "options": [],
+      "answer": "tejsav"
+    },
+    {
+      "id": 29,
+      "type": "MC",
+      "question": "Mekkora a prokarióta sejtek szemben az eukarióta sejtek mérete?",
+      "options": [
+        "Az eukarióta sejtek 1,5-2 milliárd éve nagyobbak",
+        "Az eukarióta sejtek 10-100 x nagyobbak",
+        "Az eukarióta sejtek 1000 x nagyobbak",
+        "A méret azonos, csak a szerkezet különbözik"
+      ],
+      "answer": "Az eukarióta sejtek 10-100 x nagyobbak"
+    },
+    {
+      "id": 30,
+      "type": "BLANK",
+      "question": "Az eukarióta sejtek _____ milliárd évvel ezelőtt jöttek létre az endoszimbióta elméletet szerint.",
+      "options": [],
+      "answer": "1,5-2"
+    },
+    {
+      "id": 31,
+      "type": "MC",
+      "question": "Mely birodalmak tartoznak az eukarióta élőlények közé?",
+      "options": [
+        "Csak az állatok birodalma",
+        "Az állatok, növények és gombák országai",
+        "Az állatok, növények, gombák, valamint az Amőbák, Rhizaria és Excavata országai",
+        "Csak a növények és az algák"
+      ],
+      "answer": "Az állatok, növények, gombák, valamint az Amőbák, Rhizaria és Excavata országai"
+    },
+    {
+      "id": 32,
+      "type": "BLANK",
+      "question": "Az egysejtűek teste _____ sejtből áll, amely rendelkezik az összes életjelenséggel.",
+      "options": [],
+      "answer": "egyetlen"
+    },
+    {
+      "id": 33,
+      "type": "MC",
+      "question": "Hol fordulnak elő jellemzően az egysejtűek?",
+      "options": [
+        "Csak szárazföldi élőhelyeken",
+        "Kizárólag magas hőmérsékleten",
+        "Vízi környezetben és nedves körülmények között, planktoni szervezetek",
+        "Csak zárt, félmilliós terekben"
+      ],
+      "answer": "Vízi környezetben és nedves körülmények között, planktoni szervezetek"
+    },
+    {
+      "id": 34,
+      "type": "BLANK",
+      "question": "A zöld szemesostoros sejtplazmájában membránnal határolt _____ helyezkednek el, amelyekben zöld klorofillok és egyéb színanyagok vannak.",
+      "options": [],
+      "answer": "zöld színtestek"
+    },
+    {
+      "id": 35,
+      "type": "MC",
+      "question": "Milyen anyagcsere típus jellemzi a zöld szemesostorost?",
+      "options": [
+        "Kizárólag autotróf",
+        "Kizárólag heterotróf",
+        "Mixotróf: fényben fotoszintetizál, fényhiányban szerves anyagokkal táplálkozik",
+        "Csak kemoautotróf"
+      ],
+      "answer": "Mixotróf: fényben fotoszintetizál, fényhiányban szerves anyagokkal táplálkozik"
+    },
+    {
+      "id": 36,
+      "type": "BLANK",
+      "question": "Az amőba mozgásának jellemző formáját _____ mozgásnak nevezzük, amely állábak segítségével valósul meg.",
+      "options": [],
+      "answer": "amőboid"
+    },
+    {
+      "id": 37,
+      "type": "MC",
+      "question": "Mit jelent a fagocitózis az amőba táplálkozásában?",
+      "options": [
+        "Homogén anyag felvétele",
+        "A sejt felszínének bármely pontján megtörténő táplálékbekebelezés",
+        "Kizárólag a szájfelület mellett történő táplálékfelvétel",
+        "Fotoszintézis révén szervetlen anyagok felhasználása"
+      ],
+      "answer": "A sejt felszínének bármely pontján megtörténő táplálékbekebelezés"
+    },
+    {
+      "id": 38,
+      "type": "BLANK",
+      "question": "A _____ olyan sejthártyával körülvett hólyag, amelyet a fagoszóma és a lizoszóma egybeolvadása eredményez.",
+      "options": [],
+      "answer": "emésztő űröcske"
+    },
+    {
+      "id": 39,
+      "type": "MC",
+      "question": "Milyen funkciót teljesítenek a lüktető űröcskék az amőbában?",
+      "options": [
+        "Táplálékfelvételt",
+        "A kiválasztást és a víztartalom szabályozást",
+        "Oxigénfelvételt",
+        "A mozgás energiájának tárolását"
+      ],
+      "answer": "A kiválasztást és a víztartalom szabályozást"
+    },
+    {
+      "id": 40,
+      "type": "BLANK",
+      "question": "Az amőba szaporodása egy egyszerű _____, mitózis során történik.",
+      "options": [],
+      "answer": "kettéosztódás"
+    },
+    {
+      "id": 41,
+      "type": "MC",
+      "question": "Mi jellemzi a papucsállatka sejtalakját?",
+      "options": [
+        "Állandóan változó, amőboid forma",
+        "Jellegzetesen papucsformájú, alakállandó sejt",
+        "Gömbös alakú és merev szerkezet",
+        "Hosszú, nyúlánk alakú sejt"
+      ],
+      "answer": "Jellegzetesen papucsformájú, alakállandó sejt"
+    },
+    {
+      "id": 42,
+      "type": "BLANK",
+      "question": "A papucsállatka sejtet kívülről borító speciális képződményt _____ nevezzük, amely a sejtalakját meghatározza.",
+      "options": [],
+      "answer": "bőrke"
+    },
+    {
+      "id": 43,
+      "type": "MC",
+      "question": "Milyen szerkezetű a papucsállatka sejtmagja?",
+      "options": [
+        "Egyetlen nagy sejtmag",
+        "Több azonos méretű sejtmag",
+        "Kétféle sejtmag: nagyobb és kisebb",
+        "Nincsen sejtmagja, csak DNS gyűrűk"
+      ],
+      "answer": "Kétféle sejtmag: nagyobb és kisebb"
+    },
+    {
+      "id": 44,
+      "type": "BLANK",
+      "question": "A papucsállatka táplálékfelvétele a bőrke miatt csak a _____ nevezett meghatározott pontján történhet.",
+      "options": [],
+      "answer": "szájmezőben"
+    },
+    {
+      "id": 45,
+      "type": "MC",
+      "question": "Hogyan mozog a papucsállatka?",
+      "options": [
+        "Állábak segítségével amőboid mozgással",
+        "Csillók segítségével, amelyek evezőmozgást végeznek",
+        "Saját erőből, mivel egy háti plusz motoros szerv van",
+        "Mozgásra nem képes, valamilyen felülethez rögzítve marad"
+      ],
+      "answer": "Csillók segítségével, amelyek evezőmozgást végeznek"
+    },
+    {
+      "id": 46,
+      "type": "BLANK",
+      "question": "A papucsállatka csillóinak száma _____ mennyiségű, és testalakjának megfelelően működik.",
+      "options": [],
+      "answer": "több ezer"
+    },
+    {
+      "id": 47,
+      "type": "MC",
+      "question": "Milyen szaporodási módok jellemzik a papucsállatkat?",
+      "options": [
+        "Csak ivaros szaporodás",
+        "Ivaros és ivartalan szaporodás egyaránt",
+        "Kizárólag bimbózás",
+        "Csak regeneráció"
+      ],
+      "answer": "Ivaros és ivartalan szaporodás egyaránt"
+    },
+    {
+      "id": 48,
+      "type": "BLANK",
+      "question": "Az ivaros szaporodást a papucsállatka esetén _____ vagy konjugáció nevezzük.",
+      "options": [],
+      "answer": "egybekelés"
+    },
+    {
+      "id": 49,
+      "type": "MC",
+      "question": "Mit jelent a konjugáció folyamatában a 'vándormag'?",
+      "options": [
+        "A nagy magból keletkezett osztálódó sejt",
+        "Az egyik partnerről a másikra átvitt kis mag",
+        "A megtermékenyítés után új sejtmagot képző struktúra",
+        "A sejtprotozoa szexuális szövetalkotó"
+      ],
+      "answer": "Az egyik partnerről a másikra átvitt kis mag"
+    },
+    {
+      "id": 50,
+      "type": "BLANK",
+      "question": "A sarjadzó gombák (élesztők) sejtfala _____ anyagból épül fel.",
+      "options": [],
+      "answer": "kitin"
+    },
+    {
+      "id": 51,
+      "type": "MC",
+      "question": "Milyen anyagot állítanak elő az élesztők az alkoholos erjedés során?",
+      "options": [
+        "Szén-dioxidot és etanolt",
+        "Csak szén-dioxidot",
+        "Csak etanolt",
+        "Tejsavat és ecetsavat"
+      ],
+      "answer": "Szén-dioxidot és etanolt"
+    },
+    {
+      "id": 52,
+      "type": "BLANK",
+      "question": "Az élesztők _____ szintet produkálnak, amely fontos humán tápanyag.",
+      "options": [],
+      "answer": "B-vitamin"
+    },
+    {
+      "id": 53,
+      "type": "MC",
+      "question": "Hány százalékos alkoholt képesek előállítani a mikroorganizmusok az erjedésben?",
+      "options": [
+        "Körülbelül 5%",
+        "Körülbelül 15%",
+        "Körülbelül 50%",
+        "Körülbelül 80%"
+      ],
+      "answer": "Körülbelül 15%"
+    }
+  ]
+}

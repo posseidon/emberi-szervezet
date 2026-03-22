@@ -1,0 +1,181 @@
+{
+  "subjectId": "biology",
+  "moduleId": "bioszfera-evolucioja",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik elmélet szerint az Univerzum kb. 13,7 milliárd évvel ezelőtt keletkezett?",
+      "options": ["A teremtéselméleti", "Az ősrobbanás (Big Bang) elmélete", "A végtelen világegyetem elméleti", "A ciklikus fejlődés elméleti"],
+      "answer": "Az ősrobbanás (Big Bang) elmélete"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A fizikai evolúció az _____ fejlődéseiről és a kémiai elemek kialakulásáról szól.",
+      "options": [],
+      "answer": "anyag"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "A Naprendszer hozzávetőlegesen mennyi idő alatt formálódott?",
+      "options": ["4,3 milliárd évvel ezelőtt", "4,6 milliárd évvel ezelőtt", "13,7 milliárd évvel ezelőtt", "2 milliárd évvel ezelőtt"],
+      "answer": "4,6 milliárd évvel ezelőtt"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A Föld legelső, ун. _____ abból a gáz- és porfelhőből származik, amelyből maga a bolygó is kialakult.",
+      "options": [],
+      "answer": "őslégköre"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mely gázok kerültek a légkörbe a vulkanizmus révén az őslégkör kialakulása során?",
+      "options": ["Oxigén és nitrogén", "CO2, N2, H2, SO2, vízgőz, NH3, HCN, CH4, H2S", "Csak inert gázok", "Klór és fluor"],
+      "answer": "CO2, N2, H2, SO2, vízgőz, NH3, HCN, CH4, H2S"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az _____ kb. 3,8 milliárd éve megjelenhetett az élet a Földön az UV-sugárzás által nem elérhető 10-13 m magas vízoszlop alatt.",
+      "options": [],
+      "answer": "élet"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mit jelent a pánspermia-elmélet?",
+      "options": ["Az élet a Földön keletkezett", "Az élet nem a Földön keletkezett, hanem meteorit útján került rá", "Az élet csak az emberek által létrehozható", "Az élet sohasem keletkezett"],
+      "answer": "Az élet nem a Földön keletkezett, hanem meteorit útján került rá"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ szerint az oxigénmentes őslégkörben villámlás és UV-sugárzás hatására egyszerű szerves molekulák, mint az aminosavak, képződtek.",
+      "options": [],
+      "answer": "ősleves-elmélet"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Ki végezte az abiotikus szervesanyag-képződés kísérleti bizonyítását 1953-ban?",
+      "options": ["Cuvier", "Darwin", "Stanley Miller", "Lamarck"],
+      "answer": "Stanley Miller"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Miller kísérletében a _____ modellezte a korai Föld idején gyakori villámlásokat.",
+      "options": [],
+      "answer": "szikra"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mekkora százalékra nőtt meg a szén szerves vegyületekké alakulása Miller kísérletében?",
+      "options": ["1%", "10-15%", "50%", "100%"],
+      "answer": "10-15%"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az óriásmolekulák vizes közegben spontán nagyobb _____ állnak össze, amelyeket koacervátumoknak nevezzünk.",
+      "options": [],
+      "answer": "cseppekké"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Ki fejlesztette tovább az Oparin koacervátum-modelljét?",
+      "options": ["Miller", "Gánti Tibor", "Darwin", "Lamarck"],
+      "answer": "Gánti Tibor"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ három autokatalitikus alrendszerből áll: anyagcsere, információ tárás és membrán alrendszer.",
+      "options": [],
+      "answer": "chemoton"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mit jelent az RNS-világ hipotézise?",
+      "options": ["Az RNS sohasem működik enzimként", "Az RNS molekulák töltötték be mind az információtárolás, mind az enzimek szerepét az első élőlényekben", "Csak a DNS van", "Az RNS nincsen az élőlényekben"],
+      "answer": "Az RNS molekulák töltötték be mind az információtárolás, mind az enzimek szerepét az első élőlényekben"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A ribozimok olyan _____, amelyek enzimként működve más RNS-eket hasítanak.",
+      "options": [],
+      "answer": "RNS-ek"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mely fosszíliák azok a legrégibb ismert élőlények a Földön?",
+      "options": ["Kövületek", "Sztromatolitok (kb. 3,4 milliárd évesek)", "Lenyomatok", "Üledékek"],
+      "answer": "Sztromatolitok (kb. 3,4 milliárd évesek)"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A feltételezett _____ (Last Universal Common Ancestor) az utolsó egyetemes közös ős, amelytől minden ma ismert élőlény származtatható.",
+      "options": [],
+      "answer": "LUCA"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Az első sejtek mely típusúak lehettek a Föld kezdetén?",
+      "options": ["Aerob eutróf eukarióták", "Anaerob heterotróf prokarióta ősbaktériumok", "Autotróf fotoszintetikus sejtek", "Komplex többsejtű szervezetek"],
+      "answer": "Anaerob heterotróf prokarióta ősbaktériumok"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az oxigén-termelő fotoszintézis megjelenése _____ milliárd évvel ezelőttre tehető.",
+      "options": [],
+      "answer": "3,5"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mit jelent az O2-válság az élőtörténetben?",
+      "options": ["Az oxigén hiánya", "Az élőlények oxigénműködésének zavara", "Az anaeróbnak szervezetekmérges oxigén megjelenése", "Az oxigén túlsúlya"],
+      "answer": "Az anaeróbnak szervezetekmérges oxigén megjelenése"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az eukarióták kialakulása az _____ elmélet szerint magyarázható.",
+      "options": [],
+      "answer": "endoszimbióta"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Melyik sejtalkatrész arra utal, hogy az endoszimbióta elmélet valós?",
+      "options": ["Riboszóma", "Mitokondriumok, amelyek saját DNS-sel rendelkeznek", "Golgi-készülék", "Endoplazmatikus retikulum"],
+      "answer": "Mitokondriumok, amelyek saját DNS-sel rendelkeznek"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A _____ az univerzumban a leggyakoribb háromatomos molekulája, és alapja a földi élet kialakulásának.",
+      "options": [],
+      "answer": "víz"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Az asztrobiológia mely alapkérdésével foglalkozik?",
+      "options": ["Csak emberek történeti fejlődésével", "Hogy mi az élet és miket tekinthetünk élőlényeknek a világegyetemben", "Csak a növények biológiájával", "Az ipari fejlődéssel"],
+      "answer": "Hogy mi az élet és miket tekinthetünk élőlényeknek a világegyetemben"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "subjectId": "biology",
+  "moduleId": "a-biologia-tudomanya-2",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mit vizsgál a biológia tudománya az élő szervezetekben?",
+      "options": [
+        "Felépítését, működéseit, evolúciós fejlődését, osztályozását, kölcsönös viszonyait",
+        "Kizárólag a sejtszint alatt működő organellák szerkezetét",
+        "Csak az élet külső megjelenési formáit",
+        "Elsősorban az emberi szervezet betegségeit"
+      ],
+      "answer": "Felépítését, működéseit, evolúciós fejlődését, osztályozását, kölcsönös viszonyait"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A tudomány az emberi tudás _____ ismeretekre épülő rendszere, célja a bennünket körülvevő világ megismerése, megértése.",
+      "options": [],
+      "answer": "igazolt"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyek a természettudományok közé tartozó tudományágak?",
+      "options": [
+        "Biológia, kémia, fizika, földrajz",
+        "Irodalom, történelem, nyelvtan, filozófia",
+        "Matematika, statisztika, logika, halmazelmélet",
+        "Zene, festészet, szobrászat, építészet"
+      ],
+      "answer": "Biológia, kémia, fizika, földrajz"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A _____ tudományos ismereteken alapuló, az ismeretlen megismerésére törekvő elméleti vagy gyakorlati tevékenység.",
+      "options": [],
+      "answer": "kutatás"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mi a fő különbség a hétköznapi és a tudományos megismerés között?",
+      "options": [
+        "A tudományos megismerés tervszerű, pontos, logikus, ok-okozati összefüggéseket keres",
+        "A hétköznapi megismerés pontosabb és logikusabb",
+        "Nincs különbség, csak elnevezésben térnek el",
+        "A hétköznapi megismerés tudomány nélkül lehetetlen"
+      ],
+      "answer": "A tudományos megismerés tervszerű, pontos, logikus, ok-okozati összefüggéseket keres"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az _____ az ismeretté szerveződött információk és tapasztalatok eredménye.",
+      "options": [],
+      "answer": "tudás"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mi az elsődleges célja a biológiai kutatásoknak?",
+      "options": [
+        "Az élő természet felépítésének és működésének a megismerése, megértése",
+        "Kizárólag új gyógyszerek fejlesztése",
+        "Az élő szervezeteknek csak külső jellemzőinek leírása",
+        "Az elméleti tudás gyakorlati alkalmazása biotechnológiában"
+      ],
+      "answer": "Az élő természet felépítésének és működésének a megismerése, megértése"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ megfelel a tapasztalatnak és a megfigyelt tényeket jól magyarázza, de még hiányzik a bizonyítása.",
+      "options": [],
+      "answer": "hipotézis"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mely szakasz következik közvetlenül a kutatási terv összeállítása után?",
+      "options": [
+        "A kutatás lefolytatása",
+        "Az eredmények nyilvánossá tétele",
+        "A témavizsgálat újra kezdése",
+        "Az intézményi engedély beszerzése"
+      ],
+      "answer": "A kutatás lefolytatása"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A kutatási elővizsgálat célja a _____ és eszközök kipróbálása.",
+      "options": [],
+      "answer": "módszerek"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mi a függő változó szerepe a kísérletekben?",
+      "options": [
+        "Azon tényező, melyet a független változó módosít, melynek a változását mérjük",
+        "Az az erőforrás, amely rögzített értéken tartandó",
+        "Az a hipotézis, amely bizonyítandó vagy cáfolandó",
+        "Az a körülmény, melynek értékeit az x tengelyen ábrázoljuk"
+      ],
+      "answer": "Azon tényező, melyet a független változó módosít, melynek a változását mérjük"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ változókat állandó értéken tartjuk, hogy egyértelmű legyen az összefüggés a független és függő változó között.",
+      "options": [],
+      "answer": "rögzített"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mi az 5. szakasz a tudományos kutatás szakaszainak sorában?",
+      "options": [
+        "Az eredmények nyilvánossá tétele (cikk készítése, véleménycsere kutatók között)",
+        "A kísérlet megismételhetősége",
+        "Az eszközök szükségessége",
+        "A szövettani minták készítése"
+      ],
+      "answer": "Az eredmények nyilvánossá tétele (cikk készítése, véleménycsere kutatók között)"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A biológiai kutatásban a módszereket a kutatás _____ alapján választjuk ki.",
+      "options": [],
+      "answer": "tárgya"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mit jelent a leírás biológiai kutatási módszere?",
+      "options": [
+        "A megfigyeléseink tapasztalatait jegyzőkönyv formájában rögzítjük",
+        "Két összevetendő jelenséget hasonlítunk össze",
+        "A kísérleti körülményeket tervszerűen megváltoztatjuk",
+        "Modell segítségével szimulálunk egy jelenséget"
+      ],
+      "answer": "A megfigyeléseink tapasztalatait jegyzőkönyv formájában rögzítjük"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ biológiai kutatási módszer során hasonló vagy éppen eltérő jelenségeket vizsgálunk.",
+      "options": [],
+      "answer": "összehasonlítás"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyek a kísérletek megtervezésének fontosabb feltételei?",
+      "options": [
+        "A változók pontos mérhetősége, a megismételhetőség, kontrollvizsgálat",
+        "Az összes körülmény szimultán módosítása",
+        "A kutatási terv módosítása minden napnál",
+        "Az eredmények előzetes ismerete az kísérlet előtt"
+      ],
+      "answer": "A változók pontos mérhetősége, a megismételhetőség, kontrollvizsgálat"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ során a modell segítségével a vizsgált valóságos rendszer lényegi tulajdonságait ismerjük meg.",
+      "options": [],
+      "answer": "modellalkotás"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mit valósít meg a Donders-féle modell?",
+      "options": [
+        "Az emlősök légzőműködéseit bemutató modell",
+        "A növényi fotoszintézist szimulálják",
+        "Az emberi szív működésének egyszerűsített ábrázolása",
+        "A sejtmembránok szemipermeábilis működésének bemutatása"
+      ],
+      "answer": "Az emlősök légzőműködéseit bemutató modell"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ olyan biológiai kutatás, amelynek alapvető célja a biológiai rendszerek lényegi működésének megértése számítógépes modellek segítségével.",
+      "options": [],
+      "answer": "rendszerbiológia"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mi az elektronmikroszkóp előnye a fénymikroszkóphoz képest?",
+      "options": [
+        "Sokkal nagyobb nagyításra és jobb felbontóképességre képes, ami a finomszerkezet tanulmányozását teszi lehetővé",
+        "Könnyebb kezelhetősége és karbantartása",
+        "Nagyobb megbízhatóságú eredmények",
+        "Olcsóbb beszerzési és működési költsége"
+      ],
+      "answer": "Sokkal nagyobb nagyításra és jobb felbontóképességre képes, ami a finomszerkezet tanulmányozását teszi lehetővé"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az elektronmikroszkóp jóval _____ hullámhosszú, mágnesekkel fókuszált elektronsugarat használ képalkotásra a fénymikroszkópok látható fénye helyett.",
+      "options": [],
+      "answer": "kisebb"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mi a fénymikroszkóp elméleti felbontóképessége?",
+      "options": [
+        "0,2 mikrométer",
+        "0,5 nm",
+        "1 mikrométer",
+        "10 mikrométer"
+      ],
+      "answer": "0,2 mikrométer"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A _____ az a legkisebb távolság, amelynél az elhelyezkedő tárgypontok még különálló képpontokként képződnek le.",
+      "options": [],
+      "answer": "felbontóképesség"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Mely tudósok kerülnek megemlítésre a kutatási eredményeik elismeréséül?",
+      "options": [
+        "Semmelweis Ignác, Selye János, Kitaibel Pál, Szent-Györgyi Albert, Charles Darwin, Karl Linné",
+        "Kizárólag modern, 20-21. századi tudósok",
+        "Csak fizikusok és kémikusok",
+        "Csak botanikusok és zoológusok"
+      ],
+      "answer": "Semmelweis Ignác, Selye János, Kitaibel Pál, Szent-Györgyi Albert, Charles Darwin, Karl Linné"
+    }
+  ]
+}

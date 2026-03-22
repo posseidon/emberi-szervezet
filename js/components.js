@@ -139,59 +139,6 @@ const Components = {
                     </p>
                 </header>
 
-                <!-- Study Resources (Bento Grid) -->
-                <section class="mb-20">
-                    <div class="flex items-center justify-between mb-8">
-                        <h2 class="text-sm font-bold uppercase tracking-[0.05em] text-primary">Study Resources</h2>
-                    </div>
-                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-                        <!-- Audio Card -->
-                        <div class="bg-surface border border-border-color rounded-sm p-6 flex flex-col justify-between hover:border-primary transition-all duration-300 shadow-sm group">
-                            <div>
-                                <div class="w-10 h-10 bg-primary/5 flex items-center justify-center rounded-sm mb-4">
-                                    <span class="material-symbols-outlined text-primary">headphones</span>
-                                </div>
-                                <h3 class="text-lg font-bold mb-2">Audio Overview</h3>
-                                <p class="text-sm text-text-muted mb-6">Listen to a detailed breakdown of the energetic cycles.</p>
-                            </div>
-                            <button onclick="location.hash='#/resources/${subject.id}/${topic.id}'" class="w-full py-3 border border-border-color text-[11px] font-bold uppercase tracking-wider hover:bg-primary hover:text-white transition-colors">Play Audio</button>
-                        </div>
-                        <!-- Video Card -->
-                        <div class="bg-surface border border-border-color rounded-sm p-6 flex flex-col justify-between hover:border-primary transition-all duration-300 shadow-sm group">
-                            <div>
-                                <div class="w-10 h-10 bg-primary/5 flex items-center justify-center rounded-sm mb-4">
-                                    <span class="material-symbols-outlined text-primary">play_circle</span>
-                                </div>
-                                <h3 class="text-lg font-bold mb-2">Video Overview</h3>
-                                <p class="text-sm text-text-muted mb-6">Visual 3D animations explaining complex interactions.</p>
-                            </div>
-                            <button onclick="location.hash='#/resources/${subject.id}/${topic.id}'" class="w-full py-3 border border-border-color text-[11px] font-bold uppercase tracking-wider hover:bg-primary hover:text-white transition-colors">Watch Video</button>
-                        </div>
-                        <!-- Slide Deck -->
-                        <div class="bg-surface border border-border-color rounded-sm p-6 flex flex-col justify-between hover:border-primary transition-all duration-300 shadow-sm group">
-                            <div>
-                                <div class="w-10 h-10 bg-primary/5 flex items-center justify-center rounded-sm mb-4">
-                                    <span class="material-symbols-outlined text-primary">show_chart</span>
-                                </div>
-                                <h3 class="text-lg font-bold mb-2">Slide Deck</h3>
-                                <p class="text-sm text-text-muted mb-6">Annotated slides highlighting key chemical formulas.</p>
-                            </div>
-                            <button onclick="location.hash='#/resources/${subject.id}/${topic.id}'" class="w-full py-3 border border-border-color text-[11px] font-bold uppercase tracking-wider hover:bg-primary hover:text-white transition-colors">View Slides</button>
-                        </div>
-                        <!-- Quiz -->
-                        <div class="bg-surface border border-border-color rounded-sm p-6 flex flex-col justify-between hover:border-primary transition-all duration-300 shadow-sm group">
-                            <div>
-                                <div class="w-10 h-10 bg-primary/5 flex items-center justify-center rounded-sm mb-4">
-                                    <span class="material-symbols-outlined text-primary">science</span>
-                                </div>
-                                <h3 class="text-lg font-bold mb-2">Practice Lab</h3>
-                                <p class="text-sm text-text-muted mb-6">Empirical data and interactive simulation results.</p>
-                            </div>
-                            <button onclick="location.hash='#/quiz/${subject.id}/${topic.id}'" class="w-full py-3 border border-border-color text-[11px] font-bold uppercase tracking-wider hover:bg-primary hover:text-white transition-colors">Start Lab Quiz</button>
-                        </div>
-                    </div>
-                </section>
-
                 <!-- Learning Modules -->
                 <section class="max-w-5xl">
                     <div class="mb-8">

@@ -1,0 +1,291 @@
+{
+  "subjectId": "biology",
+  "moduleId": "sejtalkotok",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely szervezeti egység az élővilág legkisebb, önálló életre képes szerveződési egysége?",
+      "options": [
+        "A sejt",
+        "Az atom",
+        "A molekula",
+        "A szövet"
+      ],
+      "answer": "A sejt"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az élőlények alapvető szerveződési egysége a _____, amely sejthártyával határolódik el a környezetétől.",
+      "options": [],
+      "answer": "sejt"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mely sejtalkotó található meg a prokarióta sejtekben, de nem az eukarióta sejtekben?",
+      "options": [
+        "Plazmidok",
+        "Riboszómák",
+        "Sejthártya",
+        "Citoplazma"
+      ],
+      "answer": "Plazmidok"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az eukarióta sejtek belső szerveződésük alapján lehetnek _____, növényi vagy állati jellegeket mutató sejtek.",
+      "options": [],
+      "answer": "gomba"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mely jellegzetessége van a növényi sejteknek, amely az állati sejtekből hiányzik?",
+      "options": [
+        "Sejtfal és zöld színtestek",
+        "Lizoszómák és sejtközpont",
+        "Mitokondrium és riboszómák",
+        "Sejtváz és sejtmag"
+      ],
+      "answer": "Sejtfal és zöld színtestek"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ vakuólumok az állati sejtekben található lizoszómák szerepét látják el a növényi sejtekben.",
+      "options": [],
+      "answer": "lítikus"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mit jelent a biomembránok általános szerkezete, amely minden élőlényben megtalálható?",
+      "options": [
+        "Lipidek, fehérjék és szénhidrátok kombinációja",
+        "Csak fehérjékből és lipidekből áll",
+        "Kizárólag szénhidrátokból felépülő szerkezet",
+        "Csak koleszterin és foszfolipidekből áll"
+      ],
+      "answer": "Lipidek, fehérjék és szénhidrátok kombinációja"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ olyan kettős oldódású, amfipatikus vegyületek, amelyek a sejtmembránok alapvázát képezik.",
+      "options": [],
+      "answer": "foszfolipidek"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mely feladatot látják el a membránfehérjék?",
+      "options": [
+        "Enzimek, transzportfehérjék, jelölőfehérjék és receptorok funkcióját",
+        "Csak energiaraktározást végeznek",
+        "Kizárólag strukturális támasztást biztosítanak",
+        "Csak védőfunkciót látnak el"
+      ],
+      "answer": "Enzimek, transzportfehérjék, jelölőfehérjék és receptorok funkcióját"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ membrán-fehérjék lazábban kapcsolódnak a membrán felszínéhez, és általában különféle enzimek.",
+      "options": [],
+      "answer": "perifériás"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mit jelent a membrán mozaik-szerkezete?",
+      "options": [
+        "A lipid kettősrétegbe merült különféle fehérjék mozaikszemcsék módjára helyezkednek el",
+        "A membrán kizárólag fehérjékből épül fel",
+        "A membrán szabályos kristályos szerkezete",
+        "A membrán csak lipidekből áll"
+      ],
+      "answer": "A lipid kettősrétegbe merült különféle fehérjék mozaikszemcsék módjára helyezkednek el"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ olyan anyagmozgás a membránon, amely nem igényel energiát, és a koncentrációgradiensnek megfelelően zajlik.",
+      "options": [],
+      "answer": "passzív transzport"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mely transzportfolyamat során az anyag a membránban lévő szállítómolekula segítségével jut át, de energiát nem igényel?",
+      "options": [
+        "Facilitált diffúzió",
+        "Aktív transzport",
+        "Exocitózis",
+        "Endocitózis"
+      ],
+      "answer": "Facilitált diffúzió"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az _____ transzport az anyagtranszportot a kisebb koncentrációjú helyről a nagyobb felé végzi, ATP energia felhasználásával.",
+      "options": [],
+      "answer": "aktív"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mely ionpumpa az állati sejtek legfontosabbika, amely a sejt ozmotikus egyensúlyát fenntartja?",
+      "options": [
+        "Na+-K+ pumpa",
+        "H+ pumpa",
+        "Ca2+ pumpa",
+        "Cl- pumpa"
+      ],
+      "answer": "Na+-K+ pumpa"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az _____ olyan transzportfolyamat, ahol kétféle anyag szállítódik egyszerre a membránon keresztül.",
+      "options": [],
+      "answer": "kotranszport"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mit jelent az endocitózis?",
+      "options": [
+        "Olyan anyagok sejtbe való bejutása, amelyeket a membrán síkján nem képes áthatolni",
+        "Az anyagok kiválasztása a sejtből",
+        "Az enzimek szintézise a riboszómákon",
+        "A sejt osztódása"
+      ],
+      "answer": "Olyan anyagok sejtbe való bejutása, amelyeket a membrán síkján nem képes áthatolni"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ az endocitózis egyik formája, amely során szilárd halmazállapotú anyagok kerülnek a sejtbe.",
+      "options": [],
+      "answer": "fagocitózis"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mit jelent az exocitózis?",
+      "options": [
+        "Anyagok kijutása a sejtből membránhólyagok közvetítésével",
+        "Az anyagok bejutása a sejtbe",
+        "Az fehérjék szétbomlása a citoplazmában",
+        "Az sejt ozmotikus nyomásának emelése"
+      ],
+      "answer": "Anyagok kijutása a sejtből membránhólyagok közvetítésével"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az _____ olyan óriási felületű membránrendszer, amely különböző alakú képződményeket alkot a citoplazmában.",
+      "options": [],
+      "answer": "endoplazmatikus retikulum"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mely szerepet játszik a durva felszínű endoplazmatikus retikulum (RER)?",
+      "options": [
+        "Az exportfehérjék és membránfehérjék szintézise",
+        "Az energiaüzem a sejt számára",
+        "A szénhidrátok tárolása",
+        "A lipidek lebontása"
+      ],
+      "answer": "Az exportfehérjék és membránfehérjék szintézise"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A _____ olyan fehérjékből és RNA-ból felépülő strukturális egység, amelyek az mRNS-t felolvassák és fehérjéket szintetizálnak.",
+      "options": [],
+      "answer": "riboszóma"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mit jelent a szignálpeptid szerepe a fehérjeszintézisben?",
+      "options": [
+        "Az exportra kerülő fehérjék azonosítása és a RER-hez irányítása",
+        "Az DNS-hez kötés és az átírás szabályozása",
+        "Az ATP energiájának szállítása",
+        "Az listozómák képződésének irányítása"
+      ],
+      "answer": "Az exportra kerülő fehérjék azonosítása és a RER-hez irányítása"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A _____ készülék egymással párhuzamosan rendeződött lapos zsákokból áll, és a sejtből kikerülő fehérjéket feldolgozza.",
+      "options": [],
+      "answer": "Golgi"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Mely funkciót végzi el a Golgi-készülék a fehérjékkel?",
+      "options": [
+        "Szénhidrátok fehérjékhez történő kapcsolódása és transzportja",
+        "A fehérjék teljes lebontása",
+        "Az ATP szintézise",
+        "A DNS replikációja"
+      ],
+      "answer": "Szénhidrátok fehérjékhez történő kapcsolódása és transzportja"
+    },
+    {
+      "id": 26,
+      "type": "BLANK",
+      "question": "A _____ olyan savas közegű organellumok, amelyek hidrolázokat tartalmaznak és a sejt belsejébe kerülő anyagok emésztésében vesznek részt.",
+      "options": [],
+      "answer": "lizoszómák"
+    },
+    {
+      "id": 27,
+      "type": "MC",
+      "question": "Mit jelent az autofágia?",
+      "options": [
+        "Az elöregedett sejtalkotók saját maguknak módosított, membránba burkolódva és hidrolózissel lebontódnak",
+        "Az új sejtek képződése az osztódás során",
+        "Az fehérjék szintézise a riboszómákon",
+        "Az lipidek oxidációja"
+      ],
+      "answer": "Az elöregedett sejtalkotók saját maguknak módosított, membránba burkolódva és hidrolózissel lebontódnak"
+    },
+    {
+      "id": 28,
+      "type": "BLANK",
+      "question": "A _____ rendszer olyan fibrilláris fehérjefonalakból felépülő 3D hálózat, amely a sejtváz funkcióját látja el eukarióta sejtekben.",
+      "options": [],
+      "answer": "sejtváz"
+    },
+    {
+      "id": 29,
+      "type": "MC",
+      "question": "Mely szerkezetek építik fel a mikrotubuláris alrendszert?",
+      "options": [
+        "Tubulin fehérjéből felépült csőszerű mikrotubulusok",
+        "Aktin filamentum",
+        "Közbenső filamentumok",
+        "Nyak fehérje"
+      ],
+      "answer": "Tubulin fehérjéből felépült csőszerű mikrotubulusok"
+    },
+    {
+      "id": 30,
+      "type": "BLANK",
+      "question": "A _____ olyan sejtszervezeti struktura, amely 9x3 mikrotubulus-ból áll, és a sejtosztódásban játszik fontos szerepet.",
+      "options": [],
+      "answer": "centriólum"
+    }
+  ]
+}

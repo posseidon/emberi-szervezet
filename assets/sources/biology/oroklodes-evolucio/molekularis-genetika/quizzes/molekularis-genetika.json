@@ -1,0 +1,181 @@
+{
+  "subjectId": "biology",
+  "moduleId": "molekularis-genetika",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "A DNS megkettőződés során melyik jellegből következik a genetikai információ pontos másolása?",
+      "options": ["A bázisok közötti H-kötések erőssége", "A bázisok komplementaritása", "A DNS helixének átmérője", "A nukleotidok sorrendi sorszáma"],
+      "answer": "A bázisok komplementaritása"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A DNS replikációja szemikonzervatív jellegű, mert az új DNS-molekula egyik lánca a szülői DNS-ből származik, a másik pedig _____ szintetizálódik.",
+      "options": [],
+      "answer": "újonnan"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mit jelöl az RNS-polimeráz enzim replikációja során?",
+      "options": ["A DNS két szálának szétválasztását", "A primer RNS szintézisét", "Az Okazaki fragmentek keletkezését", "A foszfodiészter kötés kialakulását"],
+      "answer": "A primer RNS szintézisét"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Hány hiba történik átlagosan az emberi genom (3 milliárd bázispár) replikációjakor?",
+      "options": ["3000 hiba", "30 hiba", "6 hiba", "60 hiba"],
+      "answer": "6 hiba"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A DNS-ben egyetlen láncú hiba esetén a DNS-glikoziláz felismeri a hibás bázist, majd lehasítja azt a _____ molekuláról.",
+      "options": [],
+      "answer": "dezoxiribózról"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Mely enzim szintézisíti az RNS-t a transzkripcióhoz?",
+      "options": ["DNS-polimeráz I", "DNS-polimeráz III", "RNS-polimeráz", "Ligáz"],
+      "answer": "RNS-polimeráz"
+    },
+    {
+      "id": 7,
+      "type": "BLANK",
+      "question": "A transzkripcióban az A bázis az RNS-ben a _____ bázissal párosodik, a G pedig a C-vel.",
+      "options": [],
+      "answer": "U"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "Melyik RNS-fajta közvetíti az információt a DNS-ből a riboszómához?",
+      "options": ["tRNS", "rRNS", "mRNS", "miRNS"],
+      "answer": "mRNS"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Prokariótákban a DNS-ből készült mRNS milyen százaléka hordoz információt?",
+      "options": ["Csak az 1,5%-a", "A zöme átíródik", "Csupán 10%-a", "Mindössze 0,1%-a"],
+      "answer": "A zöme átíródik"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az emberi genómban körülbelül _____ gén létét feltételezik, amely a teljes genom 1-2%-a.",
+      "options": [],
+      "answer": "21 000"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mi az allél a genetikában?",
+      "options": ["Egy kromoszóma szegmentje", "A kromoszóma egy adott szakaszán elhelyezkedő gén variációja", "A sejtmag szerkezeti eleme", "Az ivarsejtek típusa"],
+      "answer": "A kromoszóma egy adott szakaszán elhelyezkedő gén variációja"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Hány tripletet (kodon) alkothatnak három-három nukleotid?",
+      "options": ["4 kodon", "16 kodon", "64 kodon", "256 kodon"],
+      "answer": "64 kodon"
+    },
+    {
+      "id": 13,
+      "type": "BLANK",
+      "question": "Az eukariótákban az mRNS érési folyamatban az intronok _____ hasadnak ki az elsődlegesen elkészült mRNS-ből.",
+      "options": [],
+      "answer": "splicing"
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "Milyen védősapka védi az mRNS 5' végét a nukleázok támadásától?",
+      "options": ["Poli-A farok", "Cap (m7G)", "Ribóz cukor", "Foszfátkötés"],
+      "answer": "Cap (m7G)"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Hány aminosavarany nukleotidnyi alapokon kódolódik?",
+      "options": ["Egy nukleotid egy aminosavat", "Két nukleotid egy aminosavat", "Három nukleotid egy aminosavat", "Négy nukleotid egy aminosavat"],
+      "answer": "Három nukleotid egy aminosavat"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A genetikai kód szabályrendszere a _____ hordozza és az mRNS információt fordítja le aminosavsorrendre.",
+      "options": [],
+      "answer": "kódszótár"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mit jelent a mutáció a genetikai információ szintjén?",
+      "options": ["Az allélok számának megváltozása", "A DNS szerkezetében beálló változás", "Az RNS szintézisének zavara", "A sejtosztódás felgyorsulása"],
+      "answer": "A DNS szerkezetében beálló változás"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A sarlósejtes vérszegénység egy _____ által okozott betegség, amely a fehérje amino-savsorrend megváltozásakor alakul ki.",
+      "options": [],
+      "answer": "mutáció"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Milyen típusú mutációt eredményez egy vagy több nukleotid beépülése vagy elvesztése?",
+      "options": ["Pont mutáció", "Kereteltolódás", "Duplikáció", "Inverziós mutáció"],
+      "answer": "Kereteltolódás"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "Mit jelent az őssejt a sejten belüli információáramlás szempontjából?",
+      "options": ["Egy teljesen differenciálódott sejt", "Egy indifferens, közvetlenül fejlődésre képes sejt", "Egy daganatsejt", "Egy halott sejt"],
+      "answer": "Egy indifferens, közvetlenül fejlődésre képes sejt"
+    },
+    {
+      "id": 21,
+      "type": "BLANK",
+      "question": "Az epigenetika az _____ és a gének kifejeződése közötti kapcsolatot tanulmányozza.",
+      "options": [],
+      "answer": "környezeti hatások"
+    },
+    {
+      "id": 22,
+      "type": "MC",
+      "question": "Mit jelent az, hogy a genetikai kód általános érvényű?",
+      "options": ["Csak az emberben működik", "Szinte az összes élőlénynél azonos módon működik", "Csak a prokariótákban érvényes", "Minden vidékre nézve más"],
+      "answer": "Szinte az összes élőlénynél azonos módon működik"
+    },
+    {
+      "id": 23,
+      "type": "BLANK",
+      "question": "Az egyszálú DNS-t kötő fehérjék szerepe, hogy megakadályozzák a kettős hélix formába való _____ végbemenetelét.",
+      "options": [],
+      "answer": "visszarendeződését"
+    },
+    {
+      "id": 24,
+      "type": "MC",
+      "question": "Mit nevezünk gén-környezet kölcsönhatásnak?",
+      "options": ["A gén megváltozása a környezet hatására", "Az, hogy a legtöbb tulajdonság gén-gén és gén-környezet kölcsönhatásaként nyilvánul meg", "A gén semmilyen hatás nélküli", "A környezet teljes mértékben meghatározza a tulajdonságokat"],
+      "answer": "Az, hogy a legtöbb tulajdonság gén-gén és gén-környezet kölcsönhatásaként nyilvánul meg"
+    },
+    {
+      "id": 25,
+      "type": "BLANK",
+      "question": "Az értelmes szál (minta szál) az az RNS átíródó szál, amelyről az RNS-polimeráz _____ irányban szintézisíti az új RNS-t.",
+      "options": [],
+      "answer": "5' és 3' közötti"
+    }
+  ]
+}

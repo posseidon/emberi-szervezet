@@ -1,0 +1,181 @@
+{
+  "subjectId": "biology",
+  "moduleId": "mendeli-genetika",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Gregor Mendel mely növénnyel végezte kísérleteit, amelyre jellemző volt a rövid tenyészidő?",
+      "options": ["Kukorica", "Kerti borsó", "Szalma", "Búza"],
+      "answer": "Kerti borsó"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ sejtek egyszeres kromoszómakészletűek és egy faj haploid sejtek kromoszómaszámát, genomját hordozzák.",
+      "options": [],
+      "answer": "Haploid"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mit jelent a diploid szervezet?",
+      "options": ["Egy gén két kópiájának jelenlétét", "Kétszeres genomot, azaz kettős kromoszómakészletet", "Egy szülőtől egy allél örököltetését", "Csak hím kromoszómák jelenlétét"],
+      "answer": "Kétszeres genomot, azaz kettős kromoszómakészletet"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A _____ az egyedben a gén két kópiája (allélja), amelyek egy homológ kromoszómapáron helyezkednek el.",
+      "options": [],
+      "answer": "allél"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mely allél hatása elnyomja a recesszív allélt heterozigótákban is?",
+      "options": ["A recesszív allél", "A domináns allél", "A kodominans allél", "A letális allél"],
+      "answer": "A domináns allél"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ a jelleg létrehozását biztosító genetikai szerkezet, a tulajdonság meghatározásának anyagi alapja.",
+      "options": [],
+      "answer": "genotípus"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mi a fenotípus?",
+      "options": ["A gén DNS-szerkezete", "A látható megjelenési forma", "Az ivarsejtek típusa", "A mutáció típusa"],
+      "answer": "A látható megjelenési forma"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ az emberi genom hozzávetőleg 3 milliárd DNS-bázispárból áll.",
+      "options": [],
+      "answer": "emberi genom"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Az emberi genomban a fehérjékódot ténylegesen hordozó exonok hányad része az összes szekvenciának?",
+      "options": ["10%-a", "50%-a", "Csupán az 1,5%-a", "90%-a"],
+      "answer": "Csupán az 1,5%-a"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Két ember DNS-szekvenciája átlagosan _____ eltérést mutat, vagyis az egyezés 99,9%-os.",
+      "options": [],
+      "answer": "0,1%-os"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mendel I. törvénye (uniformitás szabálya) mit mond?",
+      "options": ["Tiszta vonalú szülők utódai különbözőek", "Két eltérő, tiszta vonalú szülő első utódnemzedéke egyöntetűen uniform", "Az ivarsejtek mindig domináns alléleket hordoznak", "Az utódok mindig recesszív tulajdonságúak"],
+      "answer": "Két eltérő, tiszta vonalú szülő első utódnemzedéke egyöntetűen uniform"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ keresztezésben egy recesszív fenotípusú homozigóta egyeddel keresztezünk egy domináns fenotípusú egyedet genotípusának megállapításához.",
+      "options": [],
+      "answer": "tesztelő"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mit jelent a reciprocitás szabálya Mendel kísérletei alapján?",
+      "options": ["Az utódok típusa a genotípusztól függ", "Az F1 tulajdonságai függetlenek attól, hogy az apai vagy anyai vonalból erednek", "A domináns allél mindig az apai vonalból jön", "Az ivarsejtek nem osztódnak egyenletesen"],
+      "answer": "Az F1 tulajdonságai függetlenek attól, hogy az apai vagy anyai vonalból erednek"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A kodominancia esetén mindkét allél _____, nem nyomják el egymás hatását, ahogyan az AB vércsoportnál látható.",
+      "options": [],
+      "answer": "kifejeződik"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az intermedier (nem teljes dominancia) öröklési menetben az F1 egyedek melyik fenotípust mutatnak?",
+      "options": ["Az egyik szülő fenotípusát", "A másik szülő fenotípusát", "A szülők fenotípusa közötti köztes jelleget", "Az összes három fenotípus keverékét"],
+      "answer": "A szülők fenotípusa közötti köztes jelleget"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A gamétaképzés során az allélpárok tagjai szétválnak egymástól és külön _____ jutnak, amely így csak az allélpár egyik tagját hordozza.",
+      "options": [],
+      "answer": "ivarsejtbe"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Hány különböző gamétafajta képezhető egy 23 kromoszómapáros szervezetben?",
+      "options": ["23 fajta", "46 fajta", "Körülbelül 8 400 000 fajta", "Csak 2 fajta"],
+      "answer": "Körülbelül 8 400 000 fajta"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az X-hez kötött recesszív jellegek férfiakban _____ fenotípussá válnak, mivel csak egyetlen X-kromoszómájuk van.",
+      "options": [],
+      "answer": "domináns"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mit jelent a génkapcsoltság (linkage)?",
+      "options": ["Addig a két gén nem is csatornázódik külön allélváltozatok", "Az egy kromoszómán lévő gének együtt öröklődnek", "Egy gén több fehérjét kódol", "Az allélok mindig szétválnak egymástól"],
+      "answer": "Az egy kromoszómán lévő gének együtt öröklődnek"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ a meiózis során a homológ kromoszómák közötti génkicserélődésnek nevezett folyamat.",
+      "options": [],
+      "answer": "rekombináció"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mit jelent a fenom?",
+      "options": ["Egyetlen gén", "Egy kromoszóma", "A megfigyelhető tulajdonságok, a fenotípusok összessége", "Az ivarsejtek típusa"],
+      "answer": "A megfigyelhető tulajdonságok, a fenotípusok összessége"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A _____ genetikai modellszervezetkereskedelem rövid tenyészidejű és sok utódot hoz létre.",
+      "options": [],
+      "answer": "ecetmuslica"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Az Rh-negatív és Rh-pozitív vércsoportok öröklése mely típusú öröklésmenetnek felel meg?",
+      "options": ["Intermedier öröklesmenete", "Domináns-recesszív öröklesmenete", "Kodominancia", "X-hez kötött recesszív öröklesmenete"],
+      "answer": "Domináns-recesszív öröklesmenete"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az AB0 vércsoportot meghatározó gén alléljai az I^A és I^B, amelyek egy _____ fenotípust eredményeznek, mert egymás hatását nem nyomják el.",
+      "options": [],
+      "answer": "AB"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Az emberi nepességben mely vércsoport-típus a legritkább?",
+      "options": ["0", "A", "B", "AB"],
+      "answer": "AB"
+    }
+  ]
+}

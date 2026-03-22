@@ -1,0 +1,246 @@
+{
+  "subjectId": "biology",
+  "moduleId": "okoszisztema",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mi az ökoszisztéma definíciója?",
+      "options": [
+        "Az élőlények és élettelen környezetük teljes kapcsolatrendszere, amelyet energiaáramlás és anyagforgalom jellemez",
+        "Csak az élőlények csoportja egy adott területen",
+        "A talaj és a víz kombinációja",
+        "Az összes növényfaj egy biotópban"
+      ],
+      "answer": "Az élőlények és élettelen környezetük teljes kapcsolatrendszere, amelyet energiaáramlás és anyagforgalom jellemez"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az ökoszisztéma termelő szervezetei az _____ nak neveznek, amelyek autotróf szervezetek.",
+      "options": [],
+      "answer": "produceneseknek"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mi a tápláléklánc alapja?",
+      "options": [
+        "Az autotróf termelő szervezetek, főleg a növények",
+        "A fogyasztók",
+        "A ragadozók",
+        "A lebontók"
+      ],
+      "answer": "Az autotróf termelő szervezetek, főleg a növények"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A tápláléklánc második szintjét az _____ állatok, az elsődleges fogyasztók alkotják.",
+      "options": [],
+      "answer": "növényevő"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mit jelent a táplálékhálózat?",
+      "options": [
+        "Egymással összekapcsolt táplálékláncok rendszere, ahol egy szervezet egynél több táplálkozási szinten fogyaszthat",
+        "Egyetlen egyirányú táplálékfogyasztási vonal",
+        "Csak a növények közötti kapcsolatrendszer",
+        "A talajban való táplálékfelvétel"
+      ],
+      "answer": "Egymással összekapcsolt táplálékláncok rendszere, ahol egy szervezet egynél több táplálkozási szinten fogyaszthat"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A peszticidek a táplálékláncba bekerülve _____ és a hasznos élőlényeket is elpusztítják.",
+      "options": [],
+      "answer": "felhalmozódnak"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mit jelent a peszticid eső?",
+      "options": [
+        "A peszticideket a légáramlatok messze viszik, majd az esővel a talajra kerülnek",
+        "Az esőből származó rovarölő anyagok",
+        "Az esőben oldott természetes toxinok",
+        "A növény által termelt mérgek az esőben"
+      ],
+      "answer": "A peszticideket a légáramlatok messze viszik, majd az esővel a talajra kerülnek"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A táplálékpiramisban az egyes szintek biomasszája általában _____ mennyiségben csökken felfelé haladva.",
+      "options": [],
+      "answer": "10-szeresére"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mit jelent az elsődleges vagy primer produkció?",
+      "options": [
+        "Az autotróf szervezetek, főként a növények fotoszintézissel történő szerves anyag előállítása",
+        "A fogyasztók által átalakított szerves anyag",
+        "A lebontók aktivitása",
+        "A talajban keletkezett szerves anyag"
+      ],
+      "answer": "Az autotróf szervezetek, főként a növények fotoszintézissel történő szerves anyag előállítása"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ az adott területen, adott időpontban megtalálható élőlényekben előforduló szerves anyagok összes tömege.",
+      "options": [],
+      "answer": "biomassza"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Hol működik az energiaáramlás az ökoszisztémákban?",
+      "options": [
+        "A napenergia a termelő szervezeteken keresztül halad át a fogyasztókon és a lebontókon",
+        "Csak a talajban cirkulál az energia",
+        "Az energia nem keringőzik az ökoszisztémában",
+        "Az energia csak a vízben cirkulál"
+      ],
+      "answer": "A napenergia a termelő szervezeteken keresztül halad át a fogyasztókon és a lebontókon"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az autotróf szervezetek fotoszintézisének hatékonysága, az efficiencia átlagosan a rendelkezésükre álló sugárzó energiának csak _____ százalékát építi be a szervezetükbe.",
+      "options": [],
+      "answer": "0,5-1"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mit jelent a szén körforgalma?",
+      "options": [
+        "A szén-dioxid a növényekbe kerül, ahol szerves anyagokká alakul, majd a táplálékláncban halad tovább, végül vissza a légkörbe jut",
+        "Csak a talajban történő szénmozgás",
+        "Az olyan szénmozgás, amely soha nem tér vissza a légkörbe",
+        "A szén csak az óceánokban cirkulál"
+      ],
+      "answer": "A szén-dioxid a növényekbe kerül, ahol szerves anyagokká alakul, majd a táplálékláncban halad tovább, végül vissza a légkörbe jut"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az oxigén körforgalmában a növények a fotoszintézis során vizet bontanak fel _____ és oxigénre.",
+      "options": [],
+      "answer": "hidrogénre"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mely baktériumok képesek közvetlenül a légköri nitrogént felhasználni?",
+      "options": [
+        "A nitrogénkötő baktériumok",
+        "Az összes baktérium",
+        "A nitrifikáló baktériumok",
+        "A denitrifikáló baktériumok"
+      ],
+      "answer": "A nitrogénkötő baktériumok"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A nitrogénkötő baktériumok a légköri nitrogént _____ alakítják, amely az élőlények számára felhasználható.",
+      "options": [],
+      "answer": "ammóniává"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mit végeznek a nitrifikáló baktériumok?",
+      "options": [
+        "Az ammóniát nitritté, majd nitrátionokká oxidálják",
+        "A nitrátionokat összerágcsálják",
+        "A szén-dioxidot megkötik",
+        "Az oxigént felhasználják"
+      ],
+      "answer": "Az ammóniát nitritté, majd nitrátionokká oxidálják"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ baktériumok az oxigénmentes talajban a nitrátionokból elemi nitrogént képeznek, amely elszökik a légkörbe.",
+      "options": [],
+      "answer": "denitrifikáló"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mely energiaforma nem az ökoszisztémán kívülre jut?",
+      "options": [
+        "Hőenergia",
+        "Kémiai energia a szerves anyagokban",
+        "Napenergia",
+        "A kibocsátott fény"
+      ],
+      "answer": "Kémiai energia a szerves anyagokban"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az energia áramlása az ökoszisztémában _____ irányú folyamat, vissza nem fordítható.",
+      "options": [],
+      "answer": "egyirányú"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Milyen alapvető különbség van az anyagok és az energia körfolyamata között?",
+      "options": [
+        "Az anyagok körfolyamatban újra és újra felhasználódhatnak, de az energia csak egyszer halad át a rendszeren",
+        "Az energia körfolyamata, de az anyagok nem",
+        "Nincs különbség a kettő között",
+        "Az anyagok elhagynak az ökoszisztémát, de az energia nem"
+      ],
+      "answer": "Az anyagok körfolyamatban újra és újra felhasználódhatnak, de az energia csak egyszer halad át a rendszeren"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A biodiverzitás _____ szintjei közül az egyik az allél-összetétel változatossága.",
+      "options": [],
+      "answer": "genetikai diverzitás"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mit jelent a fajdiverzitás?",
+      "options": [
+        "A fajok száma és egyedszám-arányai egy adott terülten",
+        "Az egyedi mutációk száma",
+        "Az összes szervezet száma",
+        "A genetikai eltérések mértéke"
+      ],
+      "answer": "A fajok száma és egyedszám-arányai egy adott terülten"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az ökológiai diverzitás a _____, populációk aránya, térbeli mintázatai és funkcionális kapcsolatrendszerei.",
+      "options": [],
+      "answer": "populációk száma"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Mi a kapcsolat a biodiverzitás csökkenése és az ökoszisztémák sérülékenyebbé válása között?",
+      "options": [
+        "Kevesebb fajú rendszerekben egy populáció kiesése súlyosabb következményekkel jár",
+        "Nincs kapcsolat a kettő között",
+        "A diverzitás csökkenése az ökoszisztémát stabilabbá teszi",
+        "Több faj jelenti a nagyobb sérülékenységet"
+      ],
+      "answer": "Kevesebb fajú rendszerekben egy populáció kiesése súlyosabb következményekkel jár"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "subjectId": "biology",
+  "moduleId": "populacio-kolcsonhatasok",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mi a populáció genetikai meghatározása?",
+      "options": [
+        "Egy fajhoz tartozó egyedek, amelyek adott helyen és időben együtt élnek és szaporodási közösséget alkotnak",
+        "Egy terület összes élőlénye, függetlenül a fajtól",
+        "Azonos korú egyedek csoportja egy adott területen",
+        "Az összes növényfaj egy biotópban"
+      ],
+      "answer": "Egy fajhoz tartozó egyedek, amelyek adott helyen és időben együtt élnek és szaporodási közösséget alkotnak"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az egységnyi területen vagy térfogatban az egyedek számát a populáció _____ nek nevezzük.",
+      "options": [],
+      "answer": "sűrűségé"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Milyen eloszlást mutatnak főként a növények a természetben?",
+      "options": [
+        "Egyenletes eloszlást",
+        "Felhalmozódó eloszlást",
+        "Véletlenszerű eloszlást",
+        "Szigetszerű eloszlást"
+      ],
+      "answer": "Felhalmozódó eloszlást"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az adott környezetben mekkora egyedszámú populáció képes tartósan fennmaradni, ezt a _____ nek nevezzük.",
+      "options": [],
+      "answer": "környezet eltartóképességének"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mi jellemzi a korlátlan szaporodási modellt?",
+      "options": [
+        "Az egyedszám exponenciális görbét követve növekedik",
+        "Az egyedszám a környezet eltartóképessége körül állandósul",
+        "Az egyedszám csökkenő tendenciát mutat",
+        "Az egyedszám lineárisan nő"
+      ],
+      "answer": "Az egyedszám exponenciális görbét követve növekedik"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Az r-stratégiájú populációk mely tulajdonságai közül melyik nem jellemző?",
+      "options": [
+        "Rövid életűek és kis termetűek",
+        "Hosszú élet és magas szülői gondozás",
+        "Magas szaporodási ráta",
+        "Rövidesen válnak ivaréretté"
+      ],
+      "answer": "Hosszú élet és magas szülői gondozás"
+    },
+    {
+      "id": 7,
+      "type": "BLANK",
+      "question": "A populáció egyedszámának ugrásszerű emelkedése, mely után összeomlás követi, ezt _____ nak nevezzük.",
+      "options": [],
+      "answer": "gradációnak"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "Mi a bergmann-szabály lényege?",
+      "options": [
+        "Hidegebb területen a fajok mérete nagyobb a melegebb területiekénél",
+        "Melegebb területen az állatok nagyobbak",
+        "A testméretek nem függnek a hőmérséklettől",
+        "Az állatok mérete az életmódjuk függvénye"
+      ],
+      "answer": "Hidegebb területen a fajok mérete nagyobb a melegebb területiekénél"
+    },
+    {
+      "id": 9,
+      "type": "BLANK",
+      "question": "Az allen-szabály szerint a hidegebb területen élő állatok _____ (testfüggelékei) kisebbek.",
+      "options": [],
+      "answer": "testfüggelékei"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Mit jelent az ökológiai tűrőképesség?",
+      "options": [
+        "A populáció egyedeinek kísérleti körülmények között mért fiziológiai tűrőképessége",
+        "A természetben tényleges életlehetőségeket lehetővé tevő tűrőképesség más fajok hatása figyelembevételével",
+        "Az összes környezeti tényezővel szembeni maximális alkalmazkodó képesség",
+        "A környezeti változások elleni teljes alkalmatlanság"
+      ],
+      "answer": "A természetben tényleges életlehetőségeket lehetővé tevő tűrőképesség más fajok hatása figyelembevételével"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "Az olyan élőlényeket, amelyek jelenlétükkel a környezet valamely tulajdonságát jelzik, _____ nek nevezzük.",
+      "options": [],
+      "answer": "indikátor szervezeteknek"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Mi a niche-szegregáció?",
+      "options": [
+        "A hasonló igényű populációk felosztják egymás közt a hasonló élettereket",
+        "Az összes populáció ugyanazt a niche-t foglalhatja el",
+        "A populációk nem képesek megosztani az erőforrásokat",
+        "A környezeti tényezők teljesen azonosak minden biotópban"
+      ],
+      "answer": "A hasonló igényű populációk felosztják egymás közt a hasonló élettereket"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mit mond ki a Gauze-elv?",
+      "options": [
+        "Tartósan nem létezhet egy életközösségben két teljesen azonos ökológiai igényű populáció",
+        "Tetszőleges számú populáció élhet azonos niche-ben",
+        "Egy niche-ben csak egy egyed élhet",
+        "A versengés nem létezik a populációk között"
+      ],
+      "answer": "Tartósan nem létezhet egy életközösségben két teljesen azonos ökológiai igényű populáció"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A Liebig-féle minimum-elv szerint mindig az a tápanyag határozza meg a növény fejlődésének ütemét, amely _____ mennyiségben áll rendelkezésre.",
+      "options": [],
+      "answer": "legkisebb"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyek azok a környezeti tényezők, amelyek az ökológiai környezet részei?",
+      "options": [
+        "Csak az abiotikus tényezők",
+        "Csak a biotikus tényezők",
+        "Az abiotikus és biotikus tényezők egyaránt",
+        "Csak az éghajlati tényezők"
+      ],
+      "answer": "Az abiotikus és biotikus tényezők egyaránt"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A szűktűrésű fajokat másnéven _____ nak nevezzük.",
+      "options": [],
+      "answer": "specialistáknak"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mi a korfának az alapja?",
+      "options": [
+        "A populáció különböző korosztályainak megoszlása",
+        "A populáció teljes egyedszáma",
+        "Az év során szerzett tapasztalatok",
+        "A napi aktivitás változásai"
+      ],
+      "answer": "A populáció különböző korosztályainak megoszlása"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A kihaló populációban a _____ és idős egyedek száma jóval meghaladja a fiatalokét.",
+      "options": [],
+      "answer": "középkorú"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mit jelent a territórium?",
+      "options": [
+        "Az agresszió során megvédett terület, amely élelemforrást és szaporodási helyet jelent",
+        "Az összes populáció által megosztott élőhely",
+        "A természetes szezon szerinti mozgás",
+        "A növények által elfoglalt terület"
+      ],
+      "answer": "Az agresszió során megvédett terület, amely élelemforrást és szaporodási helyet jelent"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "Melyek a szociális csoportok közül az individualizáltak?",
+      "options": [
+        "A csoporton belül az egyedek egymást kölcsönösen felismerik",
+        "Az egyedek között személyes kapcsolat nem alakul ki",
+        "Az egyedek szabadon csatlakozhatnak és eltávozhatnak",
+        "A csoportnak nincs belső szerkezete"
+      ],
+      "answer": "A csoporton belül az egyedek egymást kölcsönösen felismerik"
+    },
+    {
+      "id": 21,
+      "type": "BLANK",
+      "question": "Az agresszió az egy populáción belül az egyedek közötti _____ optimális elosztását teszi lehetővé.",
+      "options": [],
+      "answer": "erőforrások"
+    },
+    {
+      "id": 22,
+      "type": "MC",
+      "question": "Mit jelent a behódolás az agresszív viselkedésben?",
+      "options": [
+        "Az alulmaradt egyed viselkedésmódja, amely leállítja az erőfölényben lévő egyed agresszióját",
+        "Az erősebb egyed támadása a gyengébbre",
+        "A terület meghódítása erővel",
+        "A csoportban való szélsőséges harc"
+      ],
+      "answer": "Az alulmaradt egyed viselkedésmódja, amely leállítja az erőfölényben lévő egyed agresszióját"
+    },
+    {
+      "id": 23,
+      "type": "BLANK",
+      "question": "Az állatok jelrendszer útján történő információcseréjét az állatok _____ nak nevezzük.",
+      "options": [],
+      "answer": "kommunikációjának"
+    },
+    {
+      "id": 24,
+      "type": "MC",
+      "question": "Mely állatok kommunikációs forma modalitása a feromononok termelése?",
+      "options": [
+        "Kémiai kommunikáció",
+        "Vizuális kommunikáció",
+        "Akusztikus kommunikáció",
+        "Taktilis kommunikáció"
+      ],
+      "answer": "Kémiai kommunikáció"
+    },
+    {
+      "id": 25,
+      "type": "BLANK",
+      "question": "Az ökológia szót Ernst Haeckel alkotta a görög _____ (ház, lakás) és logosz szavakból.",
+      "options": [],
+      "answer": "oikosz"
+    }
+  ]
+}

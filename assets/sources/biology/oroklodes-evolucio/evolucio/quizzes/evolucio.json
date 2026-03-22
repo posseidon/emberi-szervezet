@@ -1,0 +1,486 @@
+{
+  "subjectId": "biology",
+  "moduleId": "evolucio",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mi a biotechnológia alkalmazási célja az egészségüggyel kapcsolatban?",
+      "options": [
+        "Csak úgy tanulmányozni a DNS-t",
+        "Gyógyszerek, oltóanyagok előállítása és genetikai okokra visszavezethető betegségek kezelése",
+        "Kifejezetten mezőgazdaságban használni",
+        "Csak ipari enzimeket gyártani"
+      ],
+      "answer": "Gyógyszerek, oltóanyagok előállítása és genetikai okokra visszavezethető betegségek kezelése"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ az élőlények genetikai anyagának módosítása ivartalan szaporodáson keresztül, mesterséges tevékenységgel.",
+      "options": [],
+      "answer": "klónozás"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mely emlősállatot klónozták először sejtmag-átültetésel?",
+      "options": [
+        "Lovat",
+        "Macskát",
+        "Nőstény birkát (Dolly)",
+        "Szarvasmarhát"
+      ],
+      "answer": "Nőstény birkát (Dolly)"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A klónozás sejtmag-átültetési módszerében a magjától megfosztott petesejtbe _____ sejt sejtmagját ültetik be.",
+      "options": [],
+      "answer": "differenciálódott testi"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mely növényi szervek számítanak vegetatív szaporítószerveketnek?",
+      "options": [
+        "Virág és tok",
+        "Levelek és szár",
+        "Burgonya gumója és földieper indája",
+        "Vetőmag és légrész"
+      ],
+      "answer": "Burgonya gumója és földieper indája"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ azt jelenti, hogy egy növény egyetlen testi sejtjéből teljes új növény regenerálható.",
+      "options": [],
+      "answer": "totipotencia"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mit jelent az alternativo splicing a géntechnológiában?",
+      "options": [
+        "Az RNS hasítása szilánokra",
+        "Az exonok szétválasztása intronokból",
+        "Egy gén többféle fehérjét is kódolhat az exonok kiválasztási módjától függően",
+        "Az intronok közvetlen kihasítása"
+      ],
+      "answer": "Egy gén többféle fehérjét is kódolhat az exonok kiválasztási módjától függően"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ a gének bázissorrendjének megváltoztatása modernabb módszerekkel, mint a CRISPR-rendszer.",
+      "options": [],
+      "answer": "génszerkesztés"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mit jelent a PCR technika az orvostanban?",
+      "options": [
+        "Fehérjék kimutatása",
+        "DNS-szakaszok sokszorozása, amely forradalmasította a molekuláris diagnosztikát",
+        "Sejtek klónozása",
+        "Mutációk létrehozása"
+      ],
+      "answer": "DNS-szakaszok sokszorozása, amely forradalmasította a molekuláris diagnosztikát"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ technika segítségével 20-30 ciklus alatt a DNS-minta mennyisége milliárdszoros szorzóval nő.",
+      "options": [],
+      "answer": "PCR"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mit jelent a Sanger-féle szekvenálási eljárás?",
+      "options": [
+        "Genetikai ujjlenyomat készítése",
+        "DNS bázissorrendjének meghatározása didezoxi nukleotidok felhasználásával",
+        "Gén-terápia alkalmazása",
+        "Mutáció felismerése"
+      ],
+      "answer": "DNS bázissorrendjének meghatározása didezoxi nukleotidok felhasználásával"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A genetikai _____ a genom vizsgálatával kiszűrhetők egyes mutációk következtében kialakuló elváltozások az örökítőanyagban.",
+      "options": [],
+      "answer": "diagnosztika"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mit jelent a génterápia?",
+      "options": [
+        "A mutációk számbavétele",
+        "Eljárások összessége a sejtekbe juttatott nukleinsavakkal hibás géneket pótolni vagy megváltoztatni",
+        "Klónozás módszere",
+        "Csak fehérjeszintézis megállítása"
+      ],
+      "answer": "Eljárások összessége a sejtekbe juttatott nukleinsavakkal hibás géneket pótolni vagy megváltoztatni"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A személyre szabott _____ olyan kezelés, amely molekuláris szintű vizsgálatokat követően olyan gyógyszereket használ, amelyek a beteg egyéni szükségleteinek legjobban megfelelnek.",
+      "options": [],
+      "answer": "terápia"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mi a Humán Genom Projekt elsődleges feladata volt?",
+      "options": [
+        "Betegségek gyógyítása",
+        "Az emberi genom méretének és szekvenciájának meghatározása",
+        "Klónok létrehozása",
+        "Mutáció előidézése"
+      ],
+      "answer": "Az emberi genom méretének és szekvenciájának meghatározása"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A Humán Genom Projekt során megállapították, hogy az emberi genomban körülbelül _____ gén van.",
+      "options": [],
+      "answer": "21 000"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Az emberi genom méretében mely hasonlóság található az Ecoli baktériummal?",
+      "options": [
+        "Teljesen azonos",
+        "Az ecoli genom nagyobb",
+        "Az ember gén száma kétszerese az ecoli gén számának",
+        "Nincs kapcsolat"
+      ],
+      "answer": "Az ember gén száma kétszerese az ecoli gén számának"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az emberi legközelebbi rokona genetikai szinten a _____, genetikai hasonlóságunk 98%-os.",
+      "options": [],
+      "answer": "csimpánz"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mit jelent a rekombináns DNS technológia?",
+      "options": [
+        "Csak információ tárolása",
+        "Eljárások összessége, amellyel hibrid, különböző eredetű géneket tartalmazó DNS-molekulák állíthatók elő",
+        "Csak fehérje szintézis",
+        "Mutáció okozása"
+      ],
+      "answer": "Eljárások összessége, amellyel hibrid, különböző eredetű géneket tartalmazó DNS-molekulák állíthatók elő"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ módszer meghatároz egy DNS-molekulaszakasz bázissorrendjét és az evolúciós kutatásokban kulcsfontosságú.",
+      "options": [],
+      "answer": "DNS-szekvenálás"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mit jelent a genetikai ujjlenyomat vizsgálat igazságügyi orvostanban?",
+      "options": [
+        "Csak szúrópróba",
+        "A személyek azonosítása DNS-minták összehasonlításával a bűncselekmény helyszínén talált minták alapján",
+        "Genetikai betegség kimutatása",
+        "Mutáció keresése"
+      ],
+      "answer": "A személyek azonosítása DNS-minták összehasonlításával a bűncselekmény helyszínén talált minták alapján"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A gélelektroforézis a _____ és _____ méret szerinti elválasztására szolgál leggyakrabban.",
+      "options": [],
+      "answer": "nukleinsavak fehérjék"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mely betegségek közül mely az, amelyhez a PCR technika alkalmazása szükséges az örökletes mutáció vizsgálatához?",
+      "options": [
+        "Csak cisztás fibrózis",
+        "Hemofília, fenilketonúria, cisztás fibrózis",
+        "Csak influenza",
+        "Csak szívinfarktus"
+      ],
+      "answer": "Hemofília, fenilketonúria, cisztás fibrózis"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az igazságügyi orvostanban a gyanúsított személyt _____ alapján azonosítják a DNS-e és a helyszínről származó minta DNS-ének összehasonlítása révén.",
+      "options": [],
+      "answer": "genetikai ujjlenyomata"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "A biotechnológia mely alkalmazási területe célja az emberi tevékenység káros hatásának csökkentése a környezetre?",
+      "options": [
+        "Orvostudomány",
+        "Mezőgazdaság",
+        "Ipar",
+        "Környezetvédelem"
+      ],
+      "answer": "Környezetvédelem"
+    },
+    {
+      "id": 26,
+      "type": "MC",
+      "question": "Mit jelent a biológiában az evolúció (törzsfejlődés)?",
+      "options": [
+        "Az élő és nem élő dolgok fejlődése",
+        "Az élővilág többnyire fokozatos és szüntelen történeti fejlődése",
+        "Csak a növények fejlődése",
+        "Az emberek kulturális fejlődése"
+      ],
+      "answer": "Az élővilág többnyire fokozatos és szüntelen történeti fejlődése"
+    },
+    {
+      "id": 27,
+      "type": "BLANK",
+      "question": "A biológiai faj fogalma szerint mindazon egyedek egy fajba tartoznak, melyek egymással szaporodni képesek és _____ utódot hoznak létre.",
+      "options": [],
+      "answer": "termékeny"
+    },
+    {
+      "id": 28,
+      "type": "MC",
+      "question": "Charles Darwin evolúciós elmélete mely alapvető megfigyelésre épül?",
+      "options": [
+        "A világ teremtésre",
+        "Arra, hogy több egyed születik, mint amennyi után életben maradhat, és az alkalmas változatok fennmaradnak",
+        "Az emberi tervekre",
+        "Az isteni irányításra"
+      ],
+      "answer": "Arra, hogy több egyed születik, mint amennyi után életben maradhat, és az alkalmas változatok fennmaradnak"
+    },
+    {
+      "id": 29,
+      "type": "BLANK",
+      "question": "A _____ az az folyamat, amelynek során az alkalmas változatok fennmaradnak, a kevésbé alkalmasak elpusztulnak a létért való küzdelemben.",
+      "options": [],
+      "answer": "természetes szelekció"
+    },
+    {
+      "id": 30,
+      "type": "MC",
+      "question": "Mit jelent az alkalmazkodás (adaptáció) az evolúció során?",
+      "options": [
+        "A szülői tulajdonságok megtartása",
+        "Az élőlények alkalmazkodása az adott környezethez",
+        "Az öröklödő anyag felbomlása",
+        "A faj kihalása"
+      ],
+      "answer": "Az élőlények alkalmazkodása az adott környezethez"
+    },
+    {
+      "id": 31,
+      "type": "BLANK",
+      "question": "A Manchester nyírfaaraszoló lepke példa szerint a _____ színű mintázatú egyedek száma ugrásszerűen nőtt, mert az ipari füst beszennyezte a fák kérgét.",
+      "options": [],
+      "answer": "sötét"
+    },
+    {
+      "id": 32,
+      "type": "MC",
+      "question": "Mely tudós fogalmazta meg először, hogy az élőlények nem állandók?",
+      "options": [
+        "Charles Darwin",
+        "Georges de Cuvier",
+        "Jean-Baptiste de Lamarck",
+        "Karl Linné"
+      ],
+      "answer": "Jean-Baptiste de Lamarck"
+    },
+    {
+      "id": 33,
+      "type": "BLANK",
+      "question": "A _____ elmélete szerint az élőlények egy megváltozott környezetben új viselkedésformákat alakítanak ki, amelyek átöröklődnek az utódaikra.",
+      "options": [],
+      "answer": "lamarckizmus"
+    },
+    {
+      "id": 34,
+      "type": "MC",
+      "question": "Az evolúció jellemzői közül mely nem szerepel?",
+      "options": [
+        "Szaporodás",
+        "Öröklödés",
+        "Változatosság",
+        "Mesterséges szelekció"
+      ],
+      "answer": "Mesterséges szelekció"
+    },
+    {
+      "id": 35,
+      "type": "BLANK",
+      "question": "A _____ szelekció során az irányító, stabilizáló vagy szétválasztó típusok közül az egyik típus egyedi változatait favorizálja.",
+      "options": [],
+      "answer": "természetes"
+    },
+    {
+      "id": 36,
+      "type": "MC",
+      "question": "Mit jelent a homológia az evolúcióban?",
+      "options": [
+        "Az analóg szerkezeti hasonlóság",
+        "A közös eredetre visszavezethető szerkezeti hasonlóság",
+        "A funkcionális hasonlóság",
+        "A teljes azonosság"
+      ],
+      "answer": "A közös eredetre visszavezethető szerkezeti hasonlóság"
+    },
+    {
+      "id": 37,
+      "type": "BLANK",
+      "question": "Az _____ (analógia) az olyan szerkezeti hasonlóság, amely a funkcióbeli egyezésből eredő párhuzamos fejlődés során keletkezett, bár közös ősre nem vezethetők vissza.",
+      "options": [],
+      "answer": "analóg szervek"
+    },
+    {
+      "id": 38,
+      "type": "MC",
+      "question": "Mit jelent a divergens fejlődés az evolúcióban?",
+      "options": [
+        "Különböző irányba fejlődő fajok közös ősből",
+        "Azonos módon fejlődő fajok",
+        "A fajok kihalása",
+        "Az élőlények egyszerűsödése"
+      ],
+      "answer": "Különböző irányba fejlődő fajok közös ősből"
+    },
+    {
+      "id": 39,
+      "type": "BLANK",
+      "question": "A _____ fejlődés során különböző ősből eredő élőlények hasonló szerkezeti és működési megoldásokat fejlesztenek ki.",
+      "options": [],
+      "answer": "konvergens"
+    },
+    {
+      "id": 40,
+      "type": "MC",
+      "question": "Mit jelent az evolúció közvetett bizonyítéka?",
+      "options": [
+        "Csak fosszíliák és kövületek",
+        "DNS homológia, molekuláris törzsfa, genetikai kód, sejtes felépítés, homológ szervek, embriók hasonlósága",
+        "Csak megfigyelés",
+        "Egyenesítés"
+      ],
+      "answer": "DNS homológia, molekuláris törzsfa, genetikai kód, sejtes felépítés, homológ szervek, embriók hasonlósága"
+    },
+    {
+      "id": 41,
+      "type": "BLANK",
+      "question": "Az _____ fogalma olyan élőlényt jelent, amely ma él, de primitív ősi tulajdonságokat mutat, képviselve egy korai fejlődési fázist.",
+      "options": [],
+      "answer": "élő kövület"
+    },
+    {
+      "id": 42,
+      "type": "MC",
+      "question": "Mely fajképződési folyamatot jelenti a különböző élőhelyek közötti fizikai elkülönülés?",
+      "options": [
+        "Adaptív radiáció",
+        "Földrajzi izoláció",
+        "Genetikai sodródás",
+        "Beltenyészet"
+      ],
+      "answer": "Földrajzi izoláció"
+    },
+    {
+      "id": 43,
+      "type": "BLANK",
+      "question": "Az _____ az evolúciós leszármazást feltüntető diagram, amely kettéágazó ágakból álló fára emlékeztet.",
+      "options": [],
+      "answer": "kladogram"
+    },
+    {
+      "id": 44,
+      "type": "MC",
+      "question": "Mit jelent a Hardy-Weinberg egyensúly a populációgenetikában?",
+      "options": [
+        "Az allél gyakoriságok változnak generációnként",
+        "Az allél gyakoriságok állandóan maradnak ideális populációban, ha bizonyos feltételek teljesülnek",
+        "Az öröklödés megáll",
+        "Az evolúció sohasem történik"
+      ],
+      "answer": "Az allél gyakoriságok állandóan maradnak ideális populációban, ha bizonyos feltételek teljesülnek"
+    },
+    {
+      "id": 45,
+      "type": "BLANK",
+      "question": "Az ideális populáció feltételei közül egyik sem szerepel, hogy az populáció _____ és nincs természetes szelekció.",
+      "options": [],
+      "answer": "végtelen nagy"
+    },
+    {
+      "id": 46,
+      "type": "MC",
+      "question": "Mit jelent a genetikai sodródás az evolúcióban?",
+      "options": [
+        "Szándékos szelekció",
+        "Az allél gyakoriságok véletlenszerű változása kis populációkban",
+        "A mutáció megőrzése",
+        "Az adaptáció meghiúsulása"
+      ],
+      "answer": "Az allél gyakoriságok véletlenszerű változása kis populációkban"
+    },
+    {
+      "id": 47,
+      "type": "BLANK",
+      "question": "A _____ a populáció méretének kritikus szintje, amelynél kisebb populáció kipusztulhat.",
+      "options": [],
+      "answer": "kihalási küszöb"
+    },
+    {
+      "id": 48,
+      "type": "MC",
+      "question": "Mit jelent a beltenyészet az evolúcióban?",
+      "options": [
+        "Nem véletlenszerű párosodás",
+        "Az egy faj egyedeinek közötti párosodás véletlenszerűleg",
+        "Az egymás rokon egyedek párosodása",
+        "Az evolúció felgyorsulása"
+      ],
+      "answer": "Az egymás rokon egyedek párosodása"
+    },
+    {
+      "id": 49,
+      "type": "BLANK",
+      "question": "Az _____ az evolúció egy olyan típusa, amelyben különböző fajok egymásra hatnak és egymás fejlődését befolyásolják.",
+      "options": [],
+      "answer": "koevolúció"
+    },
+    {
+      "id": 50,
+      "type": "MC",
+      "question": "Mit jelent az adaptív vs. nem adaptív evolúció?",
+      "options": [
+        "Az adaptív evolúció a természetes szelekciót, a nem adaptív evolúció a sodródást jelenti",
+        "Mindkettő ugyanaz az evolúció",
+        "Az adaptív evolúció mutagenezist, a nem adaptív szelekcióval relacionált",
+        "Nem létezik különbség"
+      ],
+      "answer": "Az adaptív evolúció a természetes szelekciót, a nem adaptív evolúció a sodródást jelenti"
+    }
+  ]
+}
