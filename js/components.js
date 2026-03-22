@@ -298,11 +298,11 @@ const Components = {
                     </div>
                 </header>
 
-                <button id="prev-card" class="absolute left-4 sm:left-12 top-1/2 -translate-y-1/2 text-text-muted hover:text-primary transition-colors p-4 rounded-full hover:bg-black/5">
-                    <span class="material-symbols-outlined text-3xl">chevron_left</span>
+                <button id="prev-card" class="fixed left-2 sm:left-12 top-1/2 -translate-y-1/2 text-text-muted hover:text-primary transition-all p-3 sm:p-4 rounded-full bg-surface/90 sm:bg-transparent shadow-md sm:shadow-none border border-border-color sm:border-none z-50 active:scale-95">
+                    <span class="material-symbols-outlined text-3xl sm:text-4xl">chevron_left</span>
                 </button>
-                <button id="next-card" class="absolute right-4 sm:left-auto sm:right-12 top-1/2 -translate-y-1/2 text-text-muted hover:text-primary transition-colors p-4 rounded-full hover:bg-black/5">
-                    <span class="material-symbols-outlined text-3xl">chevron_right</span>
+                <button id="next-card" class="fixed right-2 sm:right-12 top-1/2 -translate-y-1/2 text-text-muted hover:text-primary transition-all p-3 sm:p-4 rounded-full bg-surface/90 sm:bg-transparent shadow-md sm:shadow-none border border-border-color sm:border-none z-50 active:scale-95">
+                    <span class="material-symbols-outlined text-3xl sm:text-4xl">chevron_right</span>
                 </button>
 
                 <div id="flashcard-container" class="perspective-1000 w-full max-w-[600px] h-[400px] block group cursor-pointer">
