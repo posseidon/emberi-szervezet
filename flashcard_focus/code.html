@@ -7,7 +7,6 @@
 <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
 <link href="https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@700&amp;f[]=satoshi@400,500&amp;display=swap" rel="stylesheet"/>
-<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
 <script id="tailwind-config">
         tailwind.config = {
             darkMode: "class",
@@ -74,17 +73,10 @@
 </header>
 <!-- Main Content Area -->
 <main class="flex-grow flex flex-col items-center justify-center px-4 relative">
-<!-- Navigation Buttons (Keyboard implied, but visible for mouse users) -->
-<button aria-label="Previous card" class="absolute left-4 sm:left-12 top-1/2 -translate-y-1/2 text-muted hover:text-primary transition-colors p-4 rounded-full hover:bg-black/5">
-<span class="material-symbols-outlined text-3xl">chevron_left</span>
-</button>
-<button aria-label="Next card" class="absolute right-4 sm:right-12 top-1/2 -translate-y-1/2 text-muted hover:text-primary transition-colors p-4 rounded-full hover:bg-black/5">
-<span class="material-symbols-outlined text-3xl">chevron_right</span>
-</button>
 <!-- Flashcard Container -->
 <!-- Using a hidden checkbox to simulate the click-to-flip without JS -->
 <input class="hidden" id="flip-toggle" type="checkbox"/>
-<label class="cursor-pointer perspective-1000 w-full max-w-[600px] h-[400px] block group" for="flip-toggle">
+<label class="cursor-pointer perspective-1000 w-full max-w-[600px] h-[350px] sm:h-[400px] block group z-10" for="flip-toggle">
 <div class="card-inner relative w-full h-full transform-style-3d flip-transition shadow-sm hover:shadow-md transition-shadow duration-300 rounded">
 <!-- Front of Card -->
 <div class="absolute w-full h-full backface-hidden bg-surface border border-border-light rounded flex flex-col items-center justify-center p-8">
@@ -109,8 +101,19 @@
 </div>
 </div>
 </label>
+
+<!-- Navigation Controls -->
+<div class="flex items-center justify-between w-full max-w-[600px] mt-8 sm:mt-0 sm:contents">
+<button aria-label="Previous card" class="sm:absolute sm:left-4 lg:left-12 sm:top-1/2 sm:-translate-y-1/2 text-muted hover:text-primary transition-colors p-4 rounded-full hover:bg-black/5 z-20 bg-surface/80 sm:bg-transparent shadow-sm sm:shadow-none border border-border-light sm:border-none">
+<span class="material-symbols-outlined text-3xl">chevron_left</span>
+</button>
+<button aria-label="Next card" class="sm:absolute sm:right-4 lg:right-12 sm:top-1/2 sm:-translate-y-1/2 text-muted hover:text-primary transition-colors p-4 rounded-full hover:bg-black/5 z-20 bg-surface/80 sm:bg-transparent shadow-sm sm:shadow-none border border-border-light sm:border-none">
+<span class="material-symbols-outlined text-3xl">chevron_right</span>
+</button>
+</div>
+
 <!-- Hint Text -->
-<div class="mt-12 flex items-center gap-3 text-muted">
+<div class="mt-8 sm:mt-12 flex items-center gap-3 text-muted">
 <span class="material-symbols-outlined text-[18px]">touch_app</span>
 <p class="font-body text-[13px] font-medium tracking-wide">Press Spacebar or Click to flip</p>
 </div>
