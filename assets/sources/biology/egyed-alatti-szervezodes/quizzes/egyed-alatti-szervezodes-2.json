@@ -1,0 +1,266 @@
+{
+  "subjectId": "biologia",
+  "moduleId": "egyed-alatti-szervezodes-2",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mi az oka annak, hogy a szén az élet alapeleme, és más elemek (pl. szilícium) nem töltik be ezt a szerepet?",
+      "options": [
+        "A szén a leggyakoribb elem a Föld légkörében, míg a szilícium csak a kéregben van jelen",
+        "A szénatomok szinte korlátlan számban képesek egymással összekapcsolódni stabil óriásmolekulákat alkotva, míg a Si-Si kötések a nagyobb atomméret miatt gyengébbek és a szilánok már néhány atomnál bomlékony molekulák",
+        "A szén vegyértékelektron-szerkezete eltér a szilíciumétól, ezért a szén tetraéder helyett síklapú molekulákat alkot",
+        "A szén elsősorban ionos kötéseket hoz létre, ami az élet számára kedvezőbb, mint a kovalens kötések"
+      ],
+      "answer": "A szénatomok szinte korlátlan számban képesek egymással összekapcsolódni stabil óriásmolekulákat alkotva, míg a Si-Si kötések a nagyobb atomméret miatt gyengébbek és a szilánok már néhány atomnál bomlékony molekulák"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A fehérjék ún. _____ szerkezetét az aminosavak összekapcsolódási sorrendje – szekvenciája – határozza meg, és ez döntően meghatározza a fehérje tulajdonságait.",
+      "options": [],
+      "answer": "elsődleges"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a lipidek biológiai szerepével kapcsolatban?",
+      "options": [
+        "A foszfolipidek elsődleges szerepe az energiaraktározás, ezért nagy mennyiségben fordulnak elő a zsírszövetekben",
+        "A neutrális zsírok kétszer annyi energiát tartalmaznak, mint az azonos tömegű szénhidrátok, mert vízmentesen tárolhatók és több hidrogén-szén kötést tartalmaznak; a foszfolipidek fő szerepe a biológiai membránok kialakítása",
+        "A szteroidok apolárisak, ezért vízben jól oldódnak és könnyen szállíthatók a véráramban",
+        "A karotinoidok kizárólag növényekben fordulnak elő és kizárólag energiaraktározó szerepük van"
+      ],
+      "answer": "A neutrális zsírok kétszer annyi energiát tartalmaznak, mint az azonos tömegű szénhidrátok, mert vízmentesen tárolhatók és több hidrogén-szén kötést tartalmaznak; a foszfolipidek fő szerepe a biológiai membránok kialakítása"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a Chargaff-szabályokra vonatkozóan a DNS-ben?",
+      "options": [
+        "A DNS-ben adenin mennyisége egyenlő a citozinéval, a guanin mennyisége egyenlő a timinével (A=C, G=T)",
+        "A DNS-ben a purinok (A+G) és a pirimidinek (T+C) aránya egyenlő, és adeninnel szemben mindig timin, guaninnal szemben mindig citozin van (A=T, G=C)",
+        "A DNS-ben az adenin és a guanin aránya meghaladja a pirimidinekét, mert a purinok stabilabb vegyületek",
+        "A Chargaff-szabályok szerint minden DNS-molekulában azonos arányban vannak jelen az A, T, G és C bázisok"
+      ],
+      "answer": "A DNS-ben a purinok (A+G) és a pirimidinek (T+C) aránya egyenlő, és adeninnel szemben mindig timin, guaninnal szemben mindig citozin van (A=T, G=C)"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A fotoszintézis sötét szakaszában a szén-dioxidot egy öt szénatomos keton, az ún. _____ köti meg; a reakciót a Rubisco enzim katalizálja.",
+      "options": [],
+      "answer": "ribulóz-1,5-difoszfát (RuDP)"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a citrátkörről (citromsavciklusról)?",
+      "options": [
+        "A citrátkör a sejtek citoplazmájában zajlik és közvetlen ATP-termelés nélkül csak szén-dioxidot állít elő",
+        "A citrátkör az acetilcsoport C-atomjait szén-dioxiddá alakítja, a felszabaduló hidrogének H-szállító koenzimekhez (NAD⁺, FAD) kapcsolódnak; az energianyereség minimális, acetilcsoportonként 1 GTP",
+        "A citrátkörben keletkezik az összes ATP, amit a biológiai oxidáció termél: összesen 34 ATP glükózonként",
+        "A citrátkör a mitokondriumban zajlik és közvetlen oxigénfelvétellel jár; az oxigén az acetilcsoport közvetlen oxidálószeré"
+      ],
+      "answer": "A citrátkör az acetilcsoport C-atomjait szén-dioxiddá alakítja, a felszabaduló hidrogének H-szállító koenzimekhez (NAD⁺, FAD) kapcsolódnak; az energianyereség minimális, acetilcsoportonként 1 GTP"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik állítás HELYES az autotrófok és heterotrófok megkülönböztetéséről?",
+      "options": [
+        "Az autotrófok az energiát fényből nyerik, a heterotrófok kémiai energiát használnak; mindkettő képes saját szervetlen anyagait szerves anyagokká alakítani",
+        "Az autotrófok a testük felépítéséhez szükséges anyagokat szervetlen formában veszik fel az élettelen környezetből (CO₂, H₂O, ásványi sók), míg a heterotrófok szerves anyagokból táplálkoznak",
+        "Az autotrófok kizárólag fotoszintetizáló szervezetek, a kemoszintetizálók a heterotrófok közé tartoznak",
+        "A heterotrófok szén-forrása a CO₂, amelyet aerob légzéssel hasznosítanak"
+      ],
+      "answer": "Az autotrófok a testük felépítéséhez szükséges anyagokat szervetlen formában veszik fel az élettelen környezetből (CO₂, H₂O, ásványi sók), míg a heterotrófok szerves anyagokból táplálkoznak"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A kloroplasztiszokban a fotoszintézis fényszakasza a tilakoidmembrán korongokból felépülő _____ membránjában zajlik.",
+      "options": [],
+      "answer": "gránumok"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a könnyített (facilitált) diffúzióra vonatkozóan?",
+      "options": [
+        "A könnyített diffúzió energiát igényel, és az anyagot a koncentrációgradienssel ellentétes irányba mozgatja szállítófehérjék segítségével",
+        "A könnyített diffúzió passzív transzport, az anyagot a koncentrációgradiens irányába mozgatja szállítófehérjék segítségével, gyorsabban, mint a puszta diffúzió",
+        "A könnyített diffúzió kizárólag ionok transzportjára alkalmas, nagyobb molekulák nem szállíthatók ily módon",
+        "A könnyített diffúzió csak az inzulinfüggő GLUT-4 transzporteren keresztül valósul meg, az agysejtek glükózfelvétele aktív transzporttal történik"
+      ],
+      "answer": "A könnyített diffúzió passzív transzport, az anyagot a koncentrációgradiens irányába mozgatja szállítófehérjék segítségével, gyorsabban, mint a puszta diffúzió"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a mitokondriális ATP-szintézis mechanizmusáról (Mitchell-féle kemiozmotikus elmélet)?",
+      "options": [
+        "Az ATP-szintézis közvetlenül a citrát-ciklus GTP-képzésén alapul; az elektrontranszportlánc csak az O₂-t redukálja vízzé",
+        "Az elektrontranszportlánc fehérjéi az elektronok áramlása közben felszabaduló energiával protonokat pumpálnak a mátrixból a külső kamrába; a proton-koncentrációkülönbség kiegyenlítődésekor az ATP-szintázon átáramló protonok energiájából ATP szintetizálódik",
+        "Az ATP-szintáz a mátrixban lebegő szabad enzim, amely a NADH-ból közvetlenül foszforilál ADP-t",
+        "Az elektrontranszportlánc protonokat pumpál a külső kamrából a mátrixba; a visszaáramláskor a belső membrán ATP-szintáza nem vesz részt"
+      ],
+      "answer": "Az elektrontranszportlánc fehérjéi az elektronok áramlása közben felszabaduló energiával protonokat pumpálnak a mátrixból a külső kamrába; a proton-koncentrációkülönbség kiegyenlítődésekor az ATP-szintázon átáramló protonok energiájából ATP szintetizálódik"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "A stresszfehérjék (dajkafehérjék) legfontosabb szerepe a hibás, nem megfelelő harmadlagos szerkezetű fehérjék _____, valamint a hosszabb polipeptidláncok megfelelő szerkezetének kialakítása.",
+      "options": [],
+      "answer": "helyretekerése"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Melyik állítás HELYES az RNS típusairól és funkcióikról?",
+      "options": [
+        "Az mRNS a fehérjeszintézis helyét jelöli a sejtmagon belül; a tRNS a DNS bázissorrendjét olvassa le; az rRNS az aminosavakat szállítja a riboszómákhoz",
+        "Az mRNS a DNS-ről átírt genetikai információt viszi a citoplazmába; a tRNS egy-egy aminosavat szállít a riboszómákhoz; az rRNS a riboszómák felépítésében vesz részt",
+        "Mindhárom RNS-típus a sejtmagban szintetizálódik és az citoplazmában raktározódik hosszú ideig",
+        "Az mRNS dupla szálú polinukleotid; a tRNS egyszálú, hurokszerkezet nélküli; az rRNS a DNS kiegészítő szálát alkotja"
+      ],
+      "answer": "Az mRNS a DNS-ről átírt genetikai információt viszi a citoplazmába; a tRNS egy-egy aminosavat szállít a riboszómákhoz; az rRNS a riboszómák felépítésében vesz részt"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a sejtmagvacskáról?",
+      "options": [
+        "A sejtmagvacska a sejtmag DNS-állományának legkondenzáltabb, legaktívabb részlete; itt zajlik a DNS replikációja",
+        "A sejtmagvacska szerepe a riboszómák szintézise és raktározása; itt szintetizálódnak az rRNS-molekulák és itt szerelődnek össze a riboszóma-alegységek",
+        "A sejtmagvacska az mRNS-molekulák kizárólagos raktározóhelye, ahonnan kontrollált ütemben kerülnek ki a citoplazmába",
+        "A sejtmagvacska kettős membránnal határolt, az mRNS és tRNS szintézisének kizárólagos helyszíne"
+      ],
+      "answer": "A sejtmagvacska szerepe a riboszómák szintézise és raktározása; itt szintetizálódnak az rRNS-molekulák és itt szerelődnek össze a riboszóma-alegységek"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A meiózis első főszakaszának profázisában a homológ kromoszómák párt alkotnak, és kromatidáik között _____ következhetnek be, amelyek intrakromoszómális rekombinációt eredményeznek.",
+      "options": [],
+      "answer": "átkereszteződések (crossing over)"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a prokarióta és eukarióta sejtek összehasonlításakor?",
+      "options": [
+        "A prokariótákban cirkuláris DNS és membránnal körülhatárolt sejtmag van, míg az eukariótákban lineáris DNS és nincs valódi sejtmag",
+        "A prokariótákban nincs membránnal körülhatárolt sejtmag és sejtszervecskék (pl. mitokondrium); a DNS cirkuláris és a citoplazmában helyezkedik el; az eukarióták sejtmaga megtalálható",
+        "A prokariótákban nincsenek riboszómák, míg az eukariótákban igen; ez magyarázza a két csoport eltérő fehérjeszintézisét",
+        "Az eukarióták kizárólag többsejtű szervezetek, míg a prokariótáknál mindig egysejtűség jellemző"
+      ],
+      "answer": "A prokariótákban nincs membránnal körülhatárolt sejtmag és sejtszervecskék (pl. mitokondrium); a DNS cirkuláris és a citoplazmában helyezkedik el; az eukarióták sejtmaga megtalálható"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a biológiai oxidáció energiamérlegéről?",
+      "options": [
+        "A glikolízisben 34, a citrátciklusban 2, a terminális oxidációban 2 ATP keletkezik glükózonként",
+        "Az összes ATP közel 95%-a a terminális oxidációban keletkezik (34 mol), ehhez adódik a glikolízisből 2 és a citrátciklusból 2 ATP, összesen kb. 38 (újabban 32) ATP glükózonként",
+        "A biológiai oxidáció hatásfoka 100%, azaz a glükóz teljes energiatartalma ATP-ben tárolódik",
+        "A biológiai oxidáció csak a glikolízisből és a terminális oxidációból áll; a citrátkör az erjedés folyamatába tartozik"
+      ],
+      "answer": "Az összes ATP közel 95%-a a terminális oxidációban keletkezik (34 mol), ehhez adódik a glikolízisből 2 és a citrátciklusból 2 ATP, összesen kb. 38 (újabban 32) ATP glükózonként"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "A Meselson–Stahl kísérlet eredménye alapján a DNS-replikáció _____ mechanizmussal zajlik, ami azt jelenti, hogy az utód DNS-molekula egyik szálát a szülői DNS adja, a másik szál újonnan szintetizálódik.",
+      "options": [],
+      "answer": "szemikonzervatív"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a foszfolipidek membránkialakító szerepéről?",
+      "options": [
+        "A foszfolipidek hidrofil részükkel egymás felé fordulnak a membránban, és hidrofób részükkel a vizes közeget érik el",
+        "A foszfolipidek amfipatikus vegyületek; vizes közegben kettős réteget alkotnak, ahol apoláris zsírsavláncaik egymás felé fordulnak belső apoláris közeget hozva létre, míg poláris foszfát-fejük a vizes fázis felé néz",
+        "A foszfolipidek kizárólag glikozidkötéssel kapcsolódnak egymáshoz a membránban, amelyek merev szerkezetet hoznak létre",
+        "A foszfolipidek a membránban kizárólag a koleszterinnel együtt fordulnak elő, önmagukban nem képesek kettős réteget alkotni"
+      ],
+      "answer": "A foszfolipidek amfipatikus vegyületek; vizes közegben kettős réteget alkotnak, ahol apoláris zsírsavláncaik egymás felé fordulnak belső apoláris közeget hozva létre, míg poláris foszfát-fejük a vizes fázis felé néz"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a Griffith-kísérletről és a genetikai transzformáció felfedezéséről?",
+      "options": [
+        "Griffith baktériumokat radioaktív kénnel jelölt, és megmutatta, hogy a radioaktivitás az egerek szöveteiben mutatható ki",
+        "Griffith hővel elölt kórokozó S-törzset és élő R-törzset kevert össze és fecskendezte egerekbe; az egerek egy része elpusztult, hulláikból élő tokos baktériumokat izolált, ami bizonyította, hogy az elölt S-törzs valamilyen információt hordozó anyagot adott át az R-törzsnek (transzformáció)",
+        "Griffith megállapította, hogy a transzformáció fehérjéken keresztül zajlik, mivel a fehérjebontó enzim megszüntette a transzformáló képességet",
+        "Griffith kísérlete közvetlen bizonyítéka volt annak, hogy a DNS a transzformáló anyag; maga meghatározta a DNS kémiai azonosságát"
+      ],
+      "answer": "Griffith hővel elölt kórokozó S-törzset és élő R-törzset kevert össze és fecskendezte egerekbe; az egerek egy része elpusztult, hulláikból élő tokos baktériumokat izolált, ami bizonyította, hogy az elölt S-törzs valamilyen információt hordozó anyagot adott át az R-törzsnek (transzformáció)"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A vakuólumok (sejtnedvvel telt üregek) növényi sejtekben kiemelten fontosak: szerepük van az ozmoreguláció és a _____ kialakításában, valamint anyagok raktározásában és bomlástermékek kiválasztásában.",
+      "options": [],
+      "answer": "turgorállapot"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik állítás HELYES az aminosavak kémiai jellemzőiről és a peptidkötés kialakulásáról?",
+      "options": [
+        "Az aminosavak kizárólag bázisos vegyületek, mivel aminocsoportot tartalmaznak; a peptidkötés a két aminosav aminocsoportjai között jön létre vízfelvétellel",
+        "Az aminosavak amino- és karboxilcsoportot egyaránt tartalmaznak (amfoter vegyületek); a peptidkötés az egyik aminosav aminocsoportja és a másik karboxilcsoportja között alakul ki vízkilépéssel (kondenzációval)",
+        "Az aminosavak vízben nem oldódnak, ezért a fehérjeszintézis a mitokondrium apoláris belsejében zajlik",
+        "Az aminosavak oldalláncai minden fehérjében azonosak, a fehérjék különbözőségét kizárólag a peptidkötések típusa határozza meg"
+      ],
+      "answer": "Az aminosavak amino- és karboxilcsoportot egyaránt tartalmaznak (amfoter vegyületek); a peptidkötés az egyik aminosav aminocsoportja és a másik karboxilcsoportja között alakul ki vízkilépéssel (kondenzációval)"
+    },
+    {
+      "id": 22,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a neutrális zsírok lebomlásáról a sejtekben?",
+      "options": [
+        "A zsírok glicerinre és zsírsavakra bomlanak hidrolízissel; a glicerin a glikolízisbe lép, a zsírsavak acetilcsoportokra esnek szét, amelyek a citrátkörben bomlanak le",
+        "A zsírok közvetlenül a citrátkörbe lépnek hidrolízis nélkül, ahol szén-dioxiddá oxidálódnak",
+        "A zsírok lebomlása kizárólag anaerob körülmények között zajlik fermentáció útján",
+        "A zsírsavak közvetlen energiaforrások, nem szükséges acetil-KoA-vá alakulniuk a lebontáshoz"
+      ],
+      "answer": "A zsírok glicerinre és zsírsavakra bomlanak hidrolízissel; a glicerin a glikolízisbe lép, a zsírsavak acetilcsoportokra esnek szét, amelyek a citrátkörben bomlanak le"
+    },
+    {
+      "id": 23,
+      "type": "BLANK",
+      "question": "A mitózis utószakaszában (anafázisban) a _____ a szétváló kromatidákat a sejt két pólusára mozgatja.",
+      "options": [],
+      "answer": "húzófonalak"
+    },
+    {
+      "id": 24,
+      "type": "MC",
+      "question": "Mi a szteroidhormonok és a peptidhormonok hatásmechanizmusának alapvető különbsége a sejtszintű receptorok szempontjából?",
+      "options": [
+        "A szteroidhormonok sejten kívüli receptorokhoz kötődnek és cAMP-on keresztül fejtik ki hatásukat; a peptidhormonok sejten belüli receptorokhoz kötődnek és génátírást aktiválnak",
+        "A szteroidhormonok lipofilak, átjutnak a sejthártyán és sejten belüli citoplazmatikus receptorokhoz kötődnek; a receptor-hormon komplex transzkripciós faktorként a DNS-hez kötődve génátírást aktivál; a peptidhormonok sejten kívüli receptorokhoz kötnek, másodlagos hírvivőkön keresztül hatnak",
+        "A szteroidhormonok és a peptidhormonok egyaránt cAMP-on keresztül fejtik ki hatásukat; a különbség csupán a hormon kémiai szerkezetében van",
+        "A peptidhormonok a sejtmag receptoraihoz kötődnek, míg a szteroidhormonok kizárólag a mitokondriumban fejtik ki hatásukat"
+      ],
+      "answer": "A szteroidhormonok lipofilak, átjutnak a sejthártyán és sejten belüli citoplazmatikus receptorokhoz kötődnek; a receptor-hormon komplex transzkripciós faktorként a DNS-hez kötődve génátírást aktivál; a peptidhormonok sejten kívüli receptorokhoz kötnek, másodlagos hírvivőkön keresztül hatnak"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a prionok jellemzőiről?",
+      "options": [
+        "A prionok RNS-tartalmú vírusok, amelyek a sejt RNS-polimeráz rendszerét használják szaporodáshoz",
+        "A prionok kizárólag fehérjéből álló fertőző képződmények; a normális sejtes fehérjék módosult másodlagos szerkezetű formái, amelyek oldhatatlan aggregátumokat képezve idegsejt-elhalást okoznak",
+        "A prionok a hibás aminosavsorrendű fehérjék, amelyek enzimekkel könnyen lebonthatók és nem fertőzők",
+        "A prionbetegségek ellen hatékony ellenanyag-választ vált ki az immunrendszer, ezért gyorsan lezajló betegségek"
+      ],
+      "answer": "A prionok kizárólag fehérjéből álló fertőző képződmények; a normális sejtes fehérjék módosult másodlagos szerkezetű formái, amelyek oldhatatlan aggregátumokat képezve idegsejt-elhalást okoznak"
+    }
+  ]
+}

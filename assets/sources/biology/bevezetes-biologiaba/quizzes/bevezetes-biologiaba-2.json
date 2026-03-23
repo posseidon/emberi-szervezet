@@ -1,0 +1,266 @@
+{
+  "subjectId": "biologia",
+  "moduleId": "bevezetes_a_biologiaba_B",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik szerveződési szint áll közvetlen hierarchikus kapcsolatban a szövetszint és a szervrendszer szint között?",
+      "options": [
+        "Populáció",
+        "Sejt",
+        "Szerv",
+        "Biom"
+      ],
+      "answer": "Szerv"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A természetes szelekció az a folyamat, amelynek során az öröklődő tulajdonságok közül az előnyös jellegek gyakorisága _____, az előnytelenek gyakorisága pedig csökken.",
+      "options": [],
+      "answer": "nő"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a dichotómikus határozókulcs működési elvéről?",
+      "options": [
+        "Minden lépésben három vagy több egymást kizáró jelleg közül kell választani",
+        "Az élőlények csoportosítása kizárólag molekuláris tulajdonságaik alapján történik",
+        "Minden lépésben mindig két egymást kizáró jelleg közül kell választani",
+        "A kulcs a fajokat csak törzsi szinten azonosítja"
+      ],
+      "answer": "Minden lépésben mindig két egymást kizáró jelleg közül kell választani"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Melyik tudós nevéhez fűződik a kettős nevezéktan rendszerének kidolgozása?",
+      "options": [
+        "Charles Darwin",
+        "Karl Linné",
+        "Semmelweis Ignác",
+        "Selye János"
+      ],
+      "answer": "Karl Linné"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A centrifugálás során a nagyobb tömegű, sűrűségű anyagok a centrifugacsövek _____ rétegződnek.",
+      "options": [],
+      "answer": "alján"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Mit mér az anyagmennyiség-koncentráció, és mi a mértékegysége a biológiában leggyakrabban használt formában?",
+      "options": [
+        "Az oldószer és az oldott anyag arányát; mértékegysége g/100 cm³",
+        "Az oldott anyag anyagmennyiségének és az oldat térfogatának hányadosát; mértékegysége mol/dm³",
+        "Az oldott anyag tömegét egységnyi oldószer tömegre vetítve; mértékegysége mg/kg",
+        "Az oldószer molekuláinak számát egységnyi térfogatban; mértékegysége db/dm³"
+      ],
+      "answer": "Az oldott anyag anyagmennyiségének és az oldat térfogatának hányadosát; mértékegysége mol/dm³"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Milyen ozmotikus folyamat játszódik le, ha növényi sejteket hipertóniás közegbe helyezünk?",
+      "options": [
+        "A sejt megduzzad és turgornyomása megnő, nekifeszül a sejtfalnak",
+        "A sejt vizet vesz fel, és a citoplazma sejtfalra kifejtett nyomása növekszik",
+        "A sejt vizet veszít, zsugorodik, és a sejthártya elválik a merev sejtfaltól (plazmolízis)",
+        "Az ozmózisnyomás kiegyenlítődik és a sejt nem változik"
+      ],
+      "answer": "A sejt vizet veszít, zsugorodik, és a sejthártya elválik a merev sejtfaltól (plazmolízis)"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A diffúzió sebessége a diffundáló molekula méretével és a közeg sűrűségével _____ arányos.",
+      "options": [],
+      "answer": "fordítottan"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a fiziológiás sóoldat ozmotikus tulajdonságairól?",
+      "options": [
+        "A fiziológiás sóoldat hipertóniás, 1,8%-os NaCl-oldat, amelynek ozmózisnyomása meghaladja a vérplazmáét",
+        "A fiziológiás sóoldat izotóniás, 0,9%-os NaCl-oldat, amelynek ozmózisnyomása megegyezik a vérplazmáéval",
+        "A fiziológiás sóoldat hipotóniás, 0,45%-os NaCl-oldat, amely víz bevitelére szolgál a sejtekbe",
+        "A fiziológiás sóoldat tiszta desztillált víz, amelynek nincsenek ionjai"
+      ],
+      "answer": "A fiziológiás sóoldat izotóniás, 0,9%-os NaCl-oldat, amelynek ozmózisnyomása megegyezik a vérplazmáéval"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Melyik folyamatban alapvető szerepe van az ozmózisnak a növényi életfolyamatokban?",
+      "options": [
+        "A fotoszintézisben és a fehérjeszintézisben",
+        "A gázcserenyílások nyitásában-záródásában, a talajból történő vízfelvételben és a szerves anyagok háncsban való áramlásában",
+        "Kizárólag a gyökerek vízfelvételében, a többi folyamat nem függ az ozmózistól",
+        "Az oxigén leadásában és a CO₂ felvételében a levelekben"
+      ],
+      "answer": "A gázcserenyílások nyitásában-záródásában, a talajból történő vízfelvételben és a szerves anyagok háncsban való áramlásában"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "A fehérjék azon tulajdonsága, amelynek során elvesztik jellegzetes térszerkezetüket – pl. hőmérséklet emelése hatására –, a _____.",
+      "options": [],
+      "answer": "denaturáció / denaturálódás"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Mi az enzimek biokatalizátori hatásának alapvető mechanizmusa?",
+      "options": [
+        "Az enzimek növelik a reakció aktiválási energiáját, hogy a reakció gyorsabban lejárjon",
+        "Az enzimek egy kisebb aktiválási energiával járó alternatív reakcióutat nyitnak meg a szubsztrát számára",
+        "Az enzimek maradandó kémiai változást szenvednek a reakció során, ami felgyorsítja a folyamatot",
+        "Az enzimek a hőmérséklet megemelésével csökkentik a reakció energiaküszöbét"
+      ],
+      "answer": "Az enzimek egy kisebb aktiválási energiával járó alternatív reakcióutat nyitnak meg a szubsztrát számára"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mit jelent az onkotikus (kolloidozmotikus) nyomás?",
+      "options": [
+        "Az a nyomás, amelyet az ozmózis révén a sejthártya két oldalán kiegyenlítő vízmozgás okoz",
+        "Az ozmotikus nyomás azon része, amelyet a nem diffundáló kolloidok (elsősorban vérfehérjék) hoznak létre",
+        "A hajszálerekben mért hidrosztatikai nyomás, amely a vérplazmát kifelé préseli",
+        "A turgornyomás növényi sejtekben, amelyet a sejtfalra ható citoplazma okoz"
+      ],
+      "answer": "Az ozmotikus nyomás azon része, amelyet a nem diffundáló kolloidok (elsősorban vérfehérjék) hoznak létre"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A kísérletben azokat a tényezőket, amelyek befolyásolhatnák a kísérlet eredményét és ezért állandó értéken tartjuk őket, _____ változóknak nevezzük.",
+      "options": [],
+      "answer": "rögzített"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik állítás jellemzi HELYESEN a röntgenvizsgálat képalkotási elvét?",
+      "options": [
+        "Az ultrahang visszaverődése alapján alkotja meg a kép sötétebb és világosabb területeit",
+        "A nagyobb sűrűségű szövetek (pl. csontok) jobban elnyelik a röntgensugarakat, ezért a filmre világos sávként képződnek le",
+        "A rádióhullámokkal gerjesztett hidrogénatomok elektromágneses jeleket bocsátanak ki, amelyből kép alkotható",
+        "Az elektromos jelek mérésén alapul, amelyeket az egyes szövetek termelnek"
+      ],
+      "answer": "A nagyobb sűrűségű szövetek (pl. csontok) jobban elnyelik a röntgensugarakat, ezért a filmre világos sávként képződnek le"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Melyik koenzim vesz részt a hidrogénatomok átvitelében, és melyik vitamin épül be a szerkezetébe?",
+      "options": [
+        "ATP; az A-vitamin épül be a szerkezetébe",
+        "NAD⁺; a B₃-vitamin (niacin) épül be a szerkezetébe",
+        "NAD⁺; a C-vitamin épül be a szerkezetébe",
+        "Prosztetikus csoport; a Zn²⁺ fémion épül be a szerkezetébe"
+      ],
+      "answer": "NAD⁺; a B₃-vitamin (niacin) épül be a szerkezetébe"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "A hemodialízis alkalmazása veseelégtelenségben szenvedő betegeknél azon az elven alapul, hogy a toxikus anyagok a _____ keresztül kijutnak a vérből a dializáló oldatba.",
+      "options": [],
+      "answer": "féligáteresztő hártyán"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a homeosztázisra vonatkozóan?",
+      "options": [
+        "A homeosztázis az élőlény külső megjelenésének állandósága, amelyet a gének határozzák meg",
+        "A homeosztázis a belső környezet szabályozott állandósága, amelyet a szabályozás tesz lehetővé",
+        "A homeosztázis kizárólag a testhőmérséklet állandóságát jelenti",
+        "A homeosztázis az egyedek populációban való egyenletes megoszlása"
+      ],
+      "answer": "A homeosztázis a belső környezet szabályozott állandósága, amelyet a szabályozás tesz lehetővé"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik szempont alapján különböztetjük meg a modern filogenetikai rendszereket a régebbi (fenetikai) rendszerektől?",
+      "options": [
+        "A fenetika molekuláris DNS-összehasonlítást alkalmaz, míg a filogenetika külső morfológiai jegyeket értékel",
+        "A filogenetika az élőlények törzsfejlődésének történeti folyamatán és molekuláris (DNS, fehérje) összehasonlításon alapul, szemben a külső tulajdonságokat összehasonlító fenetikával",
+        "A fenetika figyelembe veszi az élőlények leszármazási kapcsolatait, míg a filogenetika kizárólag morfológiai jellegeket vizsgál",
+        "A két módszer lényegében azonos eredményre vezet, csak különböző elnevezéseket alkalmaznak"
+      ],
+      "answer": "A filogenetika az élőlények törzsfejlődésének történeti folyamatán és molekuláris (DNS, fehérje) összehasonlításon alapul, szemben a külső tulajdonságokat összehasonlító fenetikával"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az adszorpció biológiai jelentőségének egyik példája az _____ működése, ahol az enzimek felületen kötődve katalizálják a biokémiai reakciókat.",
+      "options": [],
+      "answer": "enzimek / enzimműködés"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik állítás igaz a Fick I. törvénye szerint az anyagáram-sűrűségre (J)?",
+      "options": [
+        "J = D · Δc/Δx; az anyagáram-sűrűség fordítottan arányos a koncentrációgradiensssel",
+        "J = −D · Δc/Δx; az anyagáram-sűrűség egyenesen arányos a koncentrációgradiensssel, a negatív előjel a magasabb koncentráció felé való mozgást jelzi",
+        "J = −D · Δc/Δx; az anyagáram-sűrűség egyenesen arányos a koncentrációgradiensssel, a negatív előjel az alacsonyabb koncentráció felé való mozgást jelzi",
+        "J = D/Δc; az anyagáram-sűrűség fordítottan arányos az anyag diffúziós együtthatójával"
+      ],
+      "answer": "J = −D · Δc/Δx; az anyagáram-sűrűség egyenesen arányos a koncentrációgradiensssel, a negatív előjel az alacsonyabb koncentráció felé való mozgást jelzi"
+    },
+    {
+      "id": 22,
+      "type": "MC",
+      "question": "Milyen kémiai sajátság teszi a vizet különlegesen fontos oldószerré az élő rendszerekben?",
+      "options": [
+        "A víz apoláris szerkezetű, ezért apoláris vegyületeket old jól",
+        "A vízmolekulák dipólusos szerkezetűek, ezért poláris oldószer; magas olvadás- és forrásponttal, nagy hőkapacitással és párolgáshővel rendelkezik",
+        "A vízben nem keletkeznek H-kötések, ezért a molekulák könnyen mozoghatnak",
+        "A víz fagyásakor a halmaz térfogata csökken, ami a sejtek integritását védi"
+      ],
+      "answer": "A vízmolekulák dipólusos szerkezetűek, ezért poláris oldószer; magas olvadás- és forrásponttal, nagy hőkapacitással és párolgáshővel rendelkezik"
+    },
+    {
+      "id": 23,
+      "type": "BLANK",
+      "question": "A fotoszintetikus pigmentek oszlopkromatográfiás szétválasztásakor a _____ foltja helyezkedik el a legmagasabban, mivel ez a pigment a legkevésbé adszorbeálódik az álló fázisra.",
+      "options": [],
+      "answer": "karotin"
+    },
+    {
+      "id": 24,
+      "type": "MC",
+      "question": "Melyik SI alapmennyiség a következők közül?",
+      "options": [
+        "Terület, sűrűség, sebesség",
+        "Erő, nyomás, térfogat",
+        "Tömeg, hosszúság, termodinamikai hőmérséklet",
+        "Terület, anyagmennyiség, sebesség"
+      ],
+      "answer": "Tömeg, hosszúság, termodinamikai hőmérséklet"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Mi jellemzi a fenilketonuria kezelési stratégiáját?",
+      "options": [
+        "Laktázenzim bevitele pótlás formájában, hogy kompenzálja az enzimhiányt",
+        "A fenilalanin bevitelének kontrollálása fehérjeszegény diétával, például húsfélék, tejtermékek, tojás kerülésével",
+        "A fenilalanin-hidroxiláz génjének pótlása génterápiával",
+        "Magas fehérjetartalmú étrend alkalmazása a hiányzó aminosav pótlására"
+      ],
+      "answer": "A fenilalanin bevitelének kontrollálása fehérjeszegény diétával, például húsfélék, tejtermékek, tojás kerülésével"
+    }
+  ]
+}

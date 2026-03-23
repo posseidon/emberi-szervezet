@@ -149,6 +149,31 @@ const Components = {
                     </div>
                 </section>
 
+                <!-- Topic Quizzes -->
+                <section class="max-w-5xl mt-16">
+                    <div class="mb-8">
+                        <h2 class="text-sm font-bold uppercase tracking-[0.05em] text-primary">Topic Quizzes</h2>
+                    </div>
+                    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+                        ${[1, 2, 3].map(n => `
+                            <div onclick="location.hash='#/topic-quiz/${subject.id}/${topic.id}/${n}'"
+                                 class="bg-surface border border-border-color rounded-sm p-6 flex flex-col gap-4 hover:border-primary/40 transition-colors cursor-pointer group">
+                                <div class="w-10 h-10 flex-shrink-0 bg-background-light rounded-sm flex items-center justify-center group-hover:bg-primary/5 transition-colors">
+                                    <span class="material-symbols-outlined text-primary">quiz</span>
+                                </div>
+                                <div>
+                                    <h4 class="text-base font-bold text-text-main">Quiz ${n}</h4>
+                                    <p class="text-xs text-text-muted mt-1">${n}. gyakorló teszt ehhez a témához</p>
+                                </div>
+                                <div class="mt-auto pt-4 border-t border-border-color flex items-center justify-between">
+                                    <span class="text-[10px] font-bold uppercase text-primary tracking-widest">Indítás</span>
+                                    <span class="material-symbols-outlined text-text-muted text-[18px] group-hover:text-primary group-hover:translate-x-1 transition-all">arrow_forward</span>
+                                </div>
+                            </div>
+                        `).join('')}
+                    </div>
+                </section>
+
                 <div class="mt-20 flex flex-wrap gap-12 text-text-muted text-xs uppercase font-bold tracking-widest border-t border-border-color pt-12">
                     <div class="flex items-center gap-2">
                         <span class="material-symbols-outlined text-sm">schedule</span>

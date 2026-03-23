@@ -12,6 +12,7 @@ const App = {
             '#/subject/:sid/topic/:tid': (sid, tid) => this.showTopic(sid, tid),
             '#/flashcards/:sid/:tid/:mid': (sid, tid, mid) => this.showFlashcards(sid, tid, mid),
             '#/quiz/:sid/:tid/:mid': (sid, tid, mid) => this.showQuiz(sid, tid, mid),
+            '#/topic-quiz/:sid/:tid/:num': (sid, tid, num) => this.showTopicQuiz(sid, tid, num),
             '#/resources/:sid/:tid': (sid, tid) => this.showResources(sid, tid)
         });
 
@@ -60,6 +61,12 @@ const App = {
     async showQuiz(sid, tid, mid) {
         const data = await DataService.getQuiz(sid, tid, mid);
         this.container.innerHTML = Components.Quiz(data, sid, tid, mid);
+        if (data) this.initQuizLogic(data.quiz);
+    },
+
+    async showTopicQuiz(sid, tid, num) {
+        const data = await DataService.getTopicQuiz(sid, tid, num);
+        this.container.innerHTML = Components.Quiz(data, sid, tid, num);
         if (data) this.initQuizLogic(data.quiz);
     },
 

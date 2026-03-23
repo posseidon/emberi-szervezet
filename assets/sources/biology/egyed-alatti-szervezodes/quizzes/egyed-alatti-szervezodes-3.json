@@ -1,0 +1,266 @@
+{
+  "subjectId": "biologia",
+  "moduleId": "egyed-alatti-szervezodes-3",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a víz biológiai szerepéről?",
+      "options": [
+        "A víz apoláris vegyület, ezért csak apoláris anyagokat old; az ionos vegyületek nem oldódnak vízben",
+        "A víz poláris, dipólusos szerkezetű; kitűnő poláris oldószer, reakciópartner (hidrolízis, kondenzáció), reakcióközeg, szállítóközeg és szerkezetmeghatározó; különleges fizikai tulajdonságai (nagy hőkapacitás, párolgáshő, felületi feszültség) a földi élethez nélkülözhetetlenek",
+        "A víz hidrolízissel monomerekre bontja a poliszacharidokat, de kondenzációs reakciókban nem vesz részt",
+        "A víz fagyásakor sűrűsége nő, ezért a tavak alulról fagynak be"
+      ],
+      "answer": "A víz poláris, dipólusos szerkezetű; kitűnő poláris oldószer, reakciópartner (hidrolízis, kondenzáció), reakcióközeg, szállítóközeg és szerkezetmeghatározó; különleges fizikai tulajdonságai (nagy hőkapacitás, párolgáshő, felületi feszültség) a földi élethez nélkülözhetetlenek"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A Hershey–Chase kísérletben a radioaktív _____ jelölt vírusok esetében a centrifugálás után a cső alján mértek erős radioaktivitást, bizonyítva, hogy ez az anyag jutott be a baktériumsejtekbe.",
+      "options": [],
+      "answer": "foszforral (P)"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a szénhidrátok csoportosítására vonatkozóan?",
+      "options": [
+        "A monoszacharidok savas hidrolízissel tovább bonthatók; a poliszacharidok édes ízűek és vízben jól oldódnak",
+        "A monoszacharidok savas hidrolízissel tovább nem bonthatók; a diszacharidok két monoszacharidból épülnek fel kondenzációval; a poliszacharidok sok száz monoszacharidból felépülő, nem édes ízű óriásmolekulák",
+        "A szacharóz két béta-glükóz kondenzációjával jön létre és az egyetlen nem redukáló diszacharid, mert nincs szabad aldehidcsoportja",
+        "A keményítő béta-glükózból épül fel, a cellulóz alfa-glükózból; mindkettő emészthető az emberi szervezetben"
+      ],
+      "answer": "A monoszacharidok savas hidrolízissel tovább nem bonthatók; a diszacharidok két monoszacharidból épülnek fel kondenzációval; a poliszacharidok sok száz monoszacharidból felépülő, nem édes ízű óriásmolekulák"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a globuláris és fibrilláris fehérjék összehasonlításakor?",
+      "options": [
+        "A globuláris fehérjék végig azonos másodlagos szerkezettel rendelkeznek (alfa-hélix vagy béta-redő), hosszú szálas szerkezetűek és vízben nem oldódnak; a fibrilláris fehérjék gömb alakúak és vízben jól oldódnak",
+        "A fibrilláris fehérjék végig azonos másodlagos szerkezettel jellemezhetők, hosszú szálas szerkezetűek és vízben nem oldódnak (pl. keratin, kollagén); a globuláris fehérjék gömb alakúak és vízben kolloid állapotot hoznak létre",
+        "A globuláris fehérjéknél a harmadlagos szerkezet nem értelmezett; a fibrilláris fehérjék kizárólag a sejtvázon kívül fordulnak elő",
+        "Mindkét fehérjetípusnál azonos a szerkezeti szintek száma; a különbség csupán abban áll, hogy a globulárisak savas oldatokban stabilan működnek"
+      ],
+      "answer": "A fibrilláris fehérjék végig azonos másodlagos szerkezettel jellemezhetők, hosszú szálas szerkezetűek és vízben nem oldódnak (pl. keratin, kollagén); a globuláris fehérjék gömb alakúak és vízben kolloid állapotot hoznak létre"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A DNS-ben a G≡C bázispárok között _____ hidrogénkötés, az A=T bázispárok között 2 hidrogénkötés létesülhet.",
+      "options": [],
+      "answer": "3"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a tejsavas erjedésről?",
+      "options": [
+        "A tejsavas erjedés aerob folyamat, amely csak tejsavbaktériumokban zajlik; az emberben a vázizomzatban sohasem következik be",
+        "A tejsavas erjedés anaerob körülmények között zajlik: a glikolízisben keletkező NADH az O₂ hiányában felhalmozódik és a piroszőlősavat tejsavvá redukálja; ez visszaállítja az NAD⁺ szintet, fenntartva a glikolízist",
+        "A tejsavas erjedés végterméke etil-alkohol és szén-dioxid; tejsav csak a tejsavbaktériumokban, oxigén jelenlétében keletkezik",
+        "A tejsavas erjedés 38 ATP-t termel glükózonként, mivel a terminális oxidáció helyett direkt szubsztrát-szintű foszforiláció zajlik"
+      ],
+      "answer": "A tejsavas erjedés anaerob körülmények között zajlik: a glikolízisben keletkező NADH az O₂ hiányában felhalmozódik és a piroszőlősavat tejsavvá redukálja; ez visszaállítja az NAD⁺ szintet, fenntartva a glikolízist"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a sejtciklus interfázisának szakaszairól?",
+      "options": [
+        "Az S fázisban a sejtszervecskék szaporodnak; a G1 fázisban a DNS replikálódik; a G2 fázisban a sejt növekszik és feltölti energiaraktárait",
+        "A G1 szakaszban a sejt növekszik és feltölti energiaraktárait; az S fázisban a DNS replikálódik (46 egykromatidás → 46 kétkromatidás kromoszóma); a G2 fázisban a sejt felkészül az osztódásra, pl. húzófonalak fehérjéi szintetizálódnak",
+        "A G0 fázis az S és G2 fázisok közé ékelődő rövid nyugalmi periódus; a legtöbb szöveti sejt ebben a fázisban tartózkodik",
+        "Az interfázis során a sejtmagvacska és a maghártya fokozatosan eltűnik, a kromatinállomány erősen kondenzálódik és kromoszómák képződnek"
+      ],
+      "answer": "A G1 szakaszban a sejt növekszik és feltölti energiaraktárait; az S fázisban a DNS replikálódik (46 egykromatidás → 46 kétkromatidás kromoszóma); a G2 fázisban a sejt felkészül az osztódásra, pl. húzófonalak fehérjéi szintetizálódnak"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A klorofillok _____ -porfirin-komplexek, amelyekben a porfiringyűrű közepén egy Mg²⁺-ion található; az apoláris fitol oldallánc segítségével rögzülnek a gránumok membránjában.",
+      "options": [],
+      "answer": "Mg"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a Na⁺-K⁺-pumpa (ATP-áz) működéséről?",
+      "options": [
+        "A pumpa passzív transzporttal működik, és a sejt ionegyensúlyát tartja fenn az ionok koncentrációgradiens szerinti mozgásával",
+        "A pumpa 1 ATP hidrolízisével 3 Na⁺-t pumpál ki a sejtből és 2 K⁺-t visz be, ezáltal a sejthártya két oldalán ionkoncentráció-különbséget hoz létre; működése energiaigényes, mivel az ionmozgások a koncentrációgradienssel ellentétesek",
+        "A pumpa a citrátkörből közvetlenül nyeri energiáját és GTP-t használ fel az ionok szállítására",
+        "A pumpa K⁺-t pumpál ki és Na⁺-t visz be a sejtbe, csökkentve a belső Na⁺-koncentrációt"
+      ],
+      "answer": "A pumpa 1 ATP hidrolízisével 3 Na⁺-t pumpál ki a sejtből és 2 K⁺-t visz be, ezáltal a sejthártya két oldalán ionkoncentráció-különbséget hoz létre; működése energiaigényes, mivel az ionmozgások a koncentrációgradienssel ellentétesek"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Melyik állítás HELYES az epesavak emésztési szerepéről?",
+      "options": [
+        "Az epesavak zsírbontó enzimek (lipázok), amelyek a zsírokat közvetlenül glicerinre és zsírsavakra bontják",
+        "Az epesavak amfipatikus szteroidok; a bélmozgással felaprózódott zsírcseppek felszínén elhelyezkedve csökkentik azok felületi feszültségét (stabilizálják az emulziót), növelik a fajlagos felületet, és aktiválják a lipáz enzimeket",
+        "Az epesavak kizárólag a szteránváz apoláris részével kötődnek a zsírcseppekhez, poláris részük a zsírtömegbe nyúl be",
+        "Az epesavak savas vegyületek, ezért az epe pH-ja alacsony (savas); ez aktiválja a zsírbontó enzimeket a vékonybélben"
+      ],
+      "answer": "Az epesavak amfipatikus szteroidok; a bélmozgással felaprózódott zsírcseppek felszínén elhelyezkedve csökkentik azok felületi feszültségét (stabilizálják az emulziót), növelik a fajlagos felületet, és aktiválják a lipáz enzimeket"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "Az aminosavak lebomlásának első lépése az aminocsoport leválasztása dezaminálással; a lehasadt N-tartalmú rész _____ formájában a vizelettel ürül ki.",
+      "options": [],
+      "answer": "karbamid (urea)"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a kloroplasztiszok felépítéséről és a fotoszintézis helyszíneiről?",
+      "options": [
+        "A kloroplasztiszok egyszeres membránnal határoltak; a fényszakasz a sztrómában, a sötét szakasz a tilakoidmembránban zajlik",
+        "A kloroplasztiszokat kettős membrán határolja; a fényszakasz a tilakoidmembrán gránumaiban zajlik, a sötét szakasz a sztrómában; a sztrómában találhatók DNS, RNS, riboszómák és keményítőszemcsék is",
+        "A kloroplasztiszokban a tilakoidmembrán és a sejtmag membránja közvetlen kapcsolatban áll, ez teszi lehetővé a DNS-replikáció összehangolását",
+        "A kloroplasztiszokban a gránumok egymástól teljesen független, zárt rendszerek; közöttük anyagcsere-kapcsolat nincs"
+      ],
+      "answer": "A kloroplasztiszokat kettős membrán határolja; a fényszakasz a tilakoidmembrán gránumaiban zajlik, a sötét szakasz a sztrómában; a sztrómában találhatók DNS, RNS, riboszómák és keményítőszemcsék is"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik állítás HELYES az eukarióta sejtmag kromatinállományáról?",
+      "options": [
+        "A heterokromatin laza, kitekeredett szerkezetű DNS-t jelöl, ahol aktív átírás folyik; az eukromatin tömör, inaktív formája a DNS-nek",
+        "Az eukromatin laza, kitekeredett szerkezetű, átíródó DNS; a heterokromatin tömörebb, inaktív forma; osztódáskor a kromatinállomány erősen kondenzálódik és a látható kromoszóma kialakulását eredményezi",
+        "A kromatinállomány kizárólag DNS-ből áll; a hisztonfehérjék nem vesznek részt a szerkezet felépítésében",
+        "Az interfázisban a kromatinállomány maximálisan kondenzált, ezért az átírás lehetetlen; a dezondenzáció csak a G1 fázisban következik be"
+      ],
+      "answer": "Az eukromatin laza, kitekeredett szerkezetű, átíródó DNS; a heterokromatin tömörebb, inaktív forma; osztódáskor a kromatinállomány erősen kondenzálódik és a látható kromoszóma kialakulását eredményezi"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az ATP gamma-foszfátjának hidrolízisekor _____ KJ energia szabadul fel mólonként; ATP = ADP + Pi + energia.",
+      "options": [],
+      "answer": "30"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a glükoneogenezisről?",
+      "options": [
+        "A glükoneogenezis a glikolízis fordított folyamata, és kizárólag a mitokondriumban zajlik az izomsejtekben",
+        "A glükoneogenezis glükóz szintézise nem szénhidrát előanyagokból (pl. egyes aminosavak, tejsav); elsősorban a májban zajlik éhezéskor, fő szabályozói a glukagon és a kortizol hormon",
+        "A glükoneogenezis csak autotróf szervezetekben zajlik, ahol a CO₂-ból glükóz szintetizálódik, akárcsak a Calvin-ciklusban",
+        "A glükoneogenezis kizárólag fruktóz-1,6-difoszfátból indul ki, és a folyamat eredménye mindig glikogén, sohasem szabad glükóz"
+      ],
+      "answer": "A glükoneogenezis glükóz szintézise nem szénhidrát előanyagokból (pl. egyes aminosavak, tejsav); elsősorban a májban zajlik éhezéskor, fő szabályozói a glukagon és a kortizol hormon"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a kromoszómák telomerjeiről és a telomeráz enzimről?",
+      "options": [
+        "A telomerek aktív géneket tartalmazó szakaszok, amelyek minden osztódáskor meghosszabbodnak a telomeráz segítségével",
+        "A telomerek genetikai információt nem hordozó végdarabok, amelyek védenek a sérülésektől; testi sejtekben a telomeráz aktivitása alacsony, ezért minden osztódáskor rövidülnek; a telomerek fogyása sejtöregedést és halált okozhat; a daganatsejtek a telomeráz aktiválásával korlátlan osztódóképességre tesznek szert",
+        "A telomerek a centromer közelében helyezkednek el és a húzófonalak tapadási helyeként funkcionálnak",
+        "A telomeráz enzim kizárólag az embrionális sejtekben aktív, ezért a felnőtt szövetek sejtjei egyáltalán nem képesek osztódni"
+      ],
+      "answer": "A telomerek genetikai információt nem hordozó végdarabok, amelyek védenek a sérülésektől; testi sejtekben a telomeráz aktivitása alacsony, ezért minden osztódáskor rövidülnek; a telomerek fogyása sejtöregedést és halált okozhat; a daganatsejtek a telomeráz aktiválásával korlátlan osztódóképességre tesznek szert"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "A PCR-technika első lépésében a DNS-t _____ °C-ra kell hevíteni, hogy a két szál különváljon.",
+      "options": [],
+      "answer": "95"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a mitokondrium és a kloroplasztisz összehasonlításakor?",
+      "options": [
+        "Mindkét sejtszervecske egyszeres membránnal határolt; a mitokondrium ATP-t fogyaszt, a kloroplasztisz ATP-t termel",
+        "Mindkét sejtszervecske kettős membránnal határolt, saját DNS-t, RNS-t és riboszómákat tartalmaz, osztódóképes; a mitokondrium ATP-t termel a biológiai oxidációban, a kloroplasztisz ATP-t termel és fogyaszt a fotoszintézisben",
+        "A mitokondrium csak állati sejtekben, a kloroplasztisz csak növényi sejtekben fordul elő; prokariótákban egyik sem található",
+        "A kloroplasztisz az ATP-t kizárólag exportálja a citoplazmába; a mitokondrium ATP-t csak az S fázisban termel, a többi időszakban ATP-t fogyaszt"
+      ],
+      "answer": "Mindkét sejtszervecske kettős membránnal határolt, saját DNS-t, RNS-t és riboszómákat tartalmaz, osztódóképes; a mitokondrium ATP-t termel a biológiai oxidációban, a kloroplasztisz ATP-t termel és fogyaszt a fotoszintézisben"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a centrális dogmáról?",
+      "options": [
+        "A centrális dogma szerint az információáramlás: DNS → fehérje → RNS → tulajdonság; a fehérje a közbülső információhordozó",
+        "A centrális dogma szerint az információáramlás: DNS → (átírás) → RNS → (átfordítás) → fehérje → tulajdonság; a DNS bázissorrendje meghatározza az RNS-t, az RNS bázissorrendje az aminosavak sorrendjét",
+        "A centrális dogma szerint az RNS-ről mindig visszaírható a DNS-szekvencia (reverz transzkripció), ezért az örökítőanyag valójában az RNS",
+        "A centrális dogma szerint a fehérje meghatározza a DNS bázissorrendjét, ezért a szerzett tulajdonságok öröklődnek"
+      ],
+      "answer": "A centrális dogma szerint az információáramlás: DNS → (átírás) → RNS → (átfordítás) → fehérje → tulajdonság; a DNS bázissorrendje meghatározza az RNS-t, az RNS bázissorrendje az aminosavak sorrendjét"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A karotinoidok _____ kettőskötés-rendszerűek, amelynek köszönhetően elektronrendszerük könnyen gerjeszthető, és így fotokémiai reakciókban (pl. fotoszintézis, látás) vesznek részt.",
+      "options": [],
+      "answer": "konjugált"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik állítás HELYES az intracelluláris jelerősítésről a cAMP útvonalon?",
+      "options": [
+        "A jelerősítés azt jelenti, hogy az adrenalin és a cAMP egyszerre kötődik a fehérjéhez, megkétszerezve a hatást",
+        "Jelerősítés során néhány jelátvivő molekula jelentős változást válthat ki; az adrenalinmolekula receptorhoz kötődve G-fehérjéket aktivál, ezek az adenilát-ciklázt, amely sok cAMP-t termel, ezek protein kinázokat aktiválnak, amelyek sok enzimet foszforilálnak: egy jelátvivő molekula hatása sokszorozódik",
+        "A jelerősítés azt jelenti, hogy az adrenalin hatása automatikusan megszűnik, ha a sejtben kevés cAMP van jelen",
+        "A jelerősítés csak a kalciumion-útvonalakon valósul meg; a cAMP jelátviteli rendszerben nincs jelerősítés"
+      ],
+      "answer": "Jelerősítés során néhány jelátvivő molekula jelentős változást válthat ki; az adrenalinmolekula receptorhoz kötődve G-fehérjéket aktivál, ezek az adenilát-ciklázt, amely sok cAMP-t termel, ezek protein kinázokat aktiválnak, amelyek sok enzimet foszforilálnak: egy jelátvivő molekula hatása sokszorozódik"
+    },
+    {
+      "id": 22,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a mitokondriumban lejátszódó anyagcsere-folyamatok és a citoplazma kapcsolatáról?",
+      "options": [
+        "A piroszőlősav keletkezése a mitokondriumban zajlik és onnan kerül a citoplazmába; az O₂ a citoplazmából lép be a mitokondriumba",
+        "A glikolízis a citoplazmában zajlik, piroszőlősavat és NADH-t termelve; a PS a mitokondriumba jut, ahol acetil-KoA keletkezik, majd a citrátkörben CO₂ és H-szállítók képződnek; a terminális oxidáció az ATP-szintázon keresztül ATP-t termel; a mitokondrium ATP-t, NAD⁺-t, vizet és CO₂-t juttat a citoplazmába",
+        "A citoplazmából kizárólag glükóz kerül a mitokondriumba, ahol teljes oxidáció zajlik; a piroszőlősav nem lép be a mitokondriumba",
+        "A NADH-t a mitokondrium termeli a glikolízisben, majd a citoplazmába juttatja, ahol az ATP szintézisére használódik fel"
+      ],
+      "answer": "A glikolízis a citoplazmában zajlik, piroszőlősavat és NADH-t termelve; a PS a mitokondriumba jut, ahol acetil-KoA keletkezik, majd a citrátkörben CO₂ és H-szállítók képződnek; a terminális oxidáció az ATP-szintázon keresztül ATP-t termel; a mitokondrium ATP-t, NAD⁺-t, vizet és CO₂-t juttat a citoplazmába"
+    },
+    {
+      "id": 23,
+      "type": "BLANK",
+      "question": "A homológ kromoszómák egy-egy kromatidája között végbemenő génszakasz-kicserélődést _____ -nak (átkereszteződésnek) nevezzük, amelynek eredménye az intrakromoszómális rekombináció.",
+      "options": [],
+      "answer": "crossing overnek"
+    },
+    {
+      "id": 24,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a rekombinantDNS-technológiáról és a plazmidok szerepéről?",
+      "options": [
+        "A plazmidok baktériumokban természetes körülmények között is megtalálható, kis méretű, lineáris DNS-darabok; szerepük a transzgén beépítésének megakadályozása",
+        "A plazmidok kis méretű gyűrűs DNS-darabok baktériumokban; a rekombináns plazmidba a restrikciós endonukleáz és a ligáz enzim segítségével beépítik a transzgént; a hibrid plazmidot beviszik a befogadó baktériumba, amely a transzgén által kódolt fehérjét termeli",
+        "A plazmidok fehérjéből álló hordozóstruktúrák, amelyek a transzgént fizikailag a sejtmembránon átjuttatják a baktériumba",
+        "A restrikciós endonukleázok kizárólag a transzgén szintéziséhez szükséges enzimek; a plazmid összezárásáért a helikáz felelős"
+      ],
+      "answer": "A plazmidok kis méretű gyűrűs DNS-darabok baktériumokban; a rekombináns plazmidba a restrikciós endonukleáz és a ligáz enzim segítségével beépítik a transzgént; a hibrid plazmidot beviszik a befogadó baktériumba, amely a transzgén által kódolt fehérjét termeli"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a karotin és az A-vitamin kapcsolatáról, ill. az A-vitamin szerepéről?",
+      "options": [
+        "Az A-vitamin a karotin előanyaga; hiánya osteoporosist okoz, mivel a csontok kalciumfelvételéhez szükséges",
+        "A karotin az A-vitamin előanyaga; az A-vitamin (retinol) a retinát és retinal fényérzékeny pigment egyik összetevőjének előanyagaként nélkülözhetetlen a normális látáshoz; hiánya szürkületi vakságot okozhat",
+        "Az A-vitamin a bőrben UV-sugárzás hatására keletkező, vízben oldódó vitamin; hiánya vérzékenységhez vezet",
+        "A karotin és az A-vitamin azonos vegyület; a különböző neveket csak a növényi és az állati forrásból való eredet szerint alkalmazzák"
+      ],
+      "answer": "A karotin az A-vitamin előanyaga; az A-vitamin (retinol) a retinát és retinal fényérzékeny pigment egyik összetevőjének előanyagaként nélkülözhetetlen a normális látáshoz; hiánya szürkületi vakságot okozhat"
+    }
+  ]
+}

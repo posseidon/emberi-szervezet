@@ -1,0 +1,266 @@
+{
+  "subjectId": "biologia",
+  "moduleId": "egyed-alatti-szervezodes-1",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik állítás HELYES az elsődleges biogén elemekre vonatkozóan?",
+      "options": [
+        "Az elsődleges biogén elemek (H, O, C, N) az élőlények tömegének csupán kb. 50%-át alkotják",
+        "Az elsődleges biogén elemek (H, O, C, N) kis atomméretüknek és nagy elektronvonzó képességüknek köszönhetően erős kovalens kötéseket képesek kialakítani",
+        "Az elsődleges biogén elemek közé tartozik a foszfor és a kén is, ezek alkotják az élőlények tömegének 95-97%-át",
+        "Az elsődleges biogén elemek közé tartozó szén a leggyakoribb elem a földkéregben is"
+      ],
+      "answer": "Az elsődleges biogén elemek (H, O, C, N) kis atomméretüknek és nagy elektronvonzó képességüknek köszönhetően erős kovalens kötéseket képesek kialakítani"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A foszfolipidek kettős oldódású, ún. _____ vegyületek, mivel egyaránt rendelkeznek poláris és apoláris résszel.",
+      "options": [],
+      "answer": "amfipatikus"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a cellulóz és a keményítő összehasonlításakor?",
+      "options": [
+        "Mindkettő alfa-glükózból épül fel, de a cellulóz elágazó, a keményítő egyenes láncú",
+        "A cellulóz béta-glükózokból felépülő, egyenes szálas szerkezetű poliszacharid, míg a keményítő alfa-glükózokból épül fel",
+        "A cellulóz emészthető, a keményítő nem, mert csak a celluláz enzim képes lebontani",
+        "Mindkettő vázanyagként funkcióál és vízben nem oldódik"
+      ],
+      "answer": "A cellulóz béta-glükózokból felépülő, egyenes szálas szerkezetű poliszacharid, míg a keményítő alfa-glükózokból épül fel"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Mi a sarlósejtes vérszegénység molekuláris oka?",
+      "options": [
+        "A hemoglobin egyik polipeptidláncában egyetlen aminosav kicserélődik, ami a hemoglobin oldékonyságát megszünteti és a vörösvértestek alakját megváltoztatja",
+        "A hemoglobin negyedleges szerkezete bomlik fel, ezért a molekula nem képes oxigénkötésre",
+        "A vörösvértestek sejtmembránjának foszfolipid összetétele megváltozik, ezért a sejtek sarló alakot vesznek fel",
+        "A hemoglobin denaturálódik magas hőmérséklet hatására, ezért a vörösvértestek elszíntelenednek"
+      ],
+      "answer": "A hemoglobin egyik polipeptidláncában egyetlen aminosav kicserélődik, ami a hemoglobin oldékonyságát megszünteti és a vörösvértestek alakját megváltoztatja"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A DNS két polinukleotid szálát _____ kapcsolja össze, amelyek a két lánc egymással szemközti bázisai között alakulnak ki.",
+      "options": [],
+      "answer": "hidrogénkötések"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a nukleotidok biológiai szerepéről?",
+      "options": [
+        "A nukleotidok kizárólag nukleinsavak építőkövei, más funkcióban nem vesznek részt",
+        "A nukleotidok egyrészt nukleinsavak monomerjei, másrészt energiatároló vegyületek (pl. ATP), harmadrészt koenzimek alkotórészei (pl. NAD⁺, NADP⁺, KoA)",
+        "A nukleotidok kizárólag purinváz alapú vegyületek, a pirimidinvázú nukleotidok csak sejtmaggal nem rendelkező sejtekben fordulnak elő",
+        "A nukleotidok monomerjei a nukleinsavaknak, és hidrolízisükkor kizárólag foszforsav és pentóz keletkezik"
+      ],
+      "answer": "A nukleotidok egyrészt nukleinsavak monomerjei, másrészt energiatároló vegyületek (pl. ATP), harmadrészt koenzimek alkotórészei (pl. NAD⁺, NADP⁺, KoA)"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik folyamat alapján bizonyította Avery és munkatársai, hogy a DNS az örökítőanyag?",
+      "options": [
+        "Radioaktív kénnel jelölték a fágok fehérjéit, és megmutatták, hogy a radioaktivitás a baktériumsejtekben marad",
+        "Az S-törzs baktériumok kivonatát RNS-, fehérje- és DNS-bontó enzimekkel kezelték; csak a DNS-bontó enzim (DNáz) szüntette meg a transzformáló képességet",
+        "Hővel elölt baktériumokat élő patogén sejtekkel kevertek, amelyek hatására egerek elpusztultak",
+        "A baktériumokat nehéz (¹⁵N) tápoldatban tenyésztették, majd könnyű (¹⁴N) tápoldatba oltották át"
+      ],
+      "answer": "Az S-törzs baktériumok kivonatát RNS-, fehérje- és DNS-bontó enzimekkel kezelték; csak a DNS-bontó enzim (DNáz) szüntette meg a transzformáló képességet"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A glükóz biológiai oxidációjának hatásfoka _____ %, azaz a glükóz energiatartalmának ennyi százaléka épül be ATP-be, a többi hővé alakul.",
+      "options": [],
+      "answer": "40"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a glikolízisre vonatkozóan?",
+      "options": [
+        "A glikolízis a mitokondriumban zajlik, és közvetlen oxigénigénye van",
+        "A glikolízis a sejt citoplazmájában játszódik le, glükózból piroszőlősavat állít elő, nettó 2 ATP és 2 NADH+H⁺ keletkezik",
+        "A glikolízis végterméke az acetil-KoA, amelyet a mitokondrium dolgoz fel tovább",
+        "A glikolízis csak aerob körülmények között megy végbe, anaerob körülmények között leáll"
+      ],
+      "answer": "A glikolízis a sejt citoplazmájában játszódik le, glükózból piroszőlősavat állít elő, nettó 2 ATP és 2 NADH+H⁺ keletkezik"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a fotoszintézis fényszakaszáról?",
+      "options": [
+        "A fényszakaszban a szén-dioxid megkötése és redukálása, valamint a glükóz szintézise történik",
+        "A fényszakaszban a víz fotolizissel hidrogénre és oxigénre bomlik; a keletkező ATP és NADPH a sötét szakasz energiaforrása",
+        "A fényszakasz a kloroplasztisz sztrómájában zajlik, ahol az ATP-szintázok elhelyezkednek",
+        "A fényszakaszban az I. fotorendszer a víz bontásáért, a II. fotorendszer az ATP szintéziséért felelős"
+      ],
+      "answer": "A fényszakaszban a víz fotolizissel hidrogénre és oxigénre bomlik; a keletkező ATP és NADPH a sötét szakasz energiaforrása"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "A sejtek biomembránjainak alapszerkezete három fő komponensből áll: lipidekből, fehérjékből és _____-ból.",
+      "options": [],
+      "answer": "szénhidrátokból"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Miben különbözik az aktív transzport a passzív transzporttól a biomembránokon keresztül?",
+      "options": [
+        "Az aktív transzport a koncentrációgradiens irányába zajlik és nem igényel energiát, míg a passzív transzport ellentétesen történik és ATP-t igényel",
+        "Az aktív transzport energiát igényel, az anyagot a koncentrációgradienssel ellentétes irányba mozgatja és koncentrációkülönbséget hoz létre; a passzív transzport energiamentes és a gradiensnek megfelelő irányba hat",
+        "Az aktív transzport kizárólag ionok mozgatására alkalmas, míg a passzív transzport nagy molekulák esetén is működik",
+        "Az aktív transzporthoz nem szükségesek fehérjék, míg a passzív transzport csatornafehérjéket igényel"
+      ],
+      "answer": "Az aktív transzport energiát igényel, az anyagot a koncentrációgradienssel ellentétes irányba mozgatja és koncentrációkülönbséget hoz létre; a passzív transzport energiamentes és a gradiensnek megfelelő irányba hat"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a mitokondrium kettős membránrendszerével kapcsolatban?",
+      "options": [
+        "A terminális oxidáció enzimkészlete és az elektrontranszportlánc a külső membránban, az ATP-szintázok a belső membránban helyezkednek el",
+        "A belső membránban találhatók az ATP-szintázok, a terminális oxidáció enzimkészlete és az elektrontranszportlánc; a citrát-ciklus enzimjei a mátrixban vannak",
+        "A citrátkör enzimjei a külső kamrában, az ATP-szintázok a mátrixban találhatók",
+        "A belső membrán kizárólag transzportfehérjéket tartalmaz, a biológiai oxidáció az alapállományban zajlik"
+      ],
+      "answer": "A belső membránban találhatók az ATP-szintázok, a terminális oxidáció enzimkészlete és az elektrontranszportlánc; a citrát-ciklus enzimjei a mátrixban vannak"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az eukarióta sejtek sejtmagjában a kromatinállomány erősen tömörödött, osztódásra jellemző formáját _____ -nak nevezzük.",
+      "options": [],
+      "answer": "kromoszómának"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a meiózisra vonatkozóan?",
+      "options": [
+        "A meiózis során egyetlen diploid anyasejtből 2 haploid utódsejt keletkezik, amelyek azonos genetikai információt tartalmaznak",
+        "A meiózis során egyetlen diploid anyasejtből 4 haploid utódsejt keletkezik; az átkereszteződés (crossing over) révén genetikailag különböző utódsejtek jönnek létre",
+        "A meiózis során a homológ kromoszómák szétválnak, de a testvérkromatidák nem, ezért az utódsejtekben diploid a kromoszómaszám",
+        "A meiózis kizárólag a G2 fázisban kezdődik, és az S fázis hiánya különbözteti meg a mitózistól"
+      ],
+      "answer": "A meiózis során egyetlen diploid anyasejtből 4 haploid utódsejt keletkezik; az átkereszteződés (crossing over) révén genetikailag különböző utódsejtek jönnek létre"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Melyik állítás HELYES az alkoholos erjedéssel kapcsolatban?",
+      "options": [
+        "Az alkoholos erjedés aerob körülmények között zajlik, glükózonként 38 ATP keletkezik",
+        "Az alkoholos erjedés anaerob folyamat; a piroszőlősavból CO₂ kiválása közben etil-alkohol keletkezik NADH segítségével, és csak 2 ATP termelődik glükózonként",
+        "Az alkoholos erjedés csak az élőlények vázizomzatában jellemző, mikroorganizmusokban nem",
+        "Az alkoholos erjedés végterméke kizárólag tejsav, amelyet a savbaktériumok hasznosítanak"
+      ],
+      "answer": "Az alkoholos erjedés anaerob folyamat; a piroszőlősavból CO₂ kiválása közben etil-alkohol keletkezik NADH segítségével, és csak 2 ATP termelődik glükózonként"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "A DNS szemikonzervatív replikációja azt jelenti, hogy az utód DNS-molekulák egyik szála _____ DNS-ből származik, a másik komplementer lánc újonnan szintetizálódik.",
+      "options": [],
+      "answer": "a szülői"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Melyik állítás HELYES az adrenalin hatásmechanizmusáról a máj sejtjeiben?",
+      "options": [
+        "Az adrenalin bejut a sejtbe, sejten belüli receptorhoz kötődik és közvetlenül aktiválja a glikogénbontó enzimeket",
+        "Az adrenalin a sejthártyán lévő receptorokhoz kötődik; G-fehérje közvetítésével adenilát-cikláz aktiválódik, cAMP keletkezik, amely protein kinázokat aktivál, ami végül glikogén glükózzá bontásához vezet",
+        "Az adrenalin a sejtmag receptoraihoz kötődik és génátírást aktivál, melynek révén glikogénbontó fehérjék szintetizálódnak",
+        "Az adrenalin a sejt Ca²⁺-szintjét csökkenti, ami glikogénszintézist indít be a máj sejtjeiben"
+      ],
+      "answer": "Az adrenalin a sejthártyán lévő receptorokhoz kötődik; G-fehérje közvetítésével adenilát-cikláz aktiválódik, cAMP keletkezik, amely protein kinázokat aktivál, ami végül glikogén glükózzá bontásához vezet"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik sejtalkotó nincs jelen a prokarióta sejtekben?",
+      "options": [
+        "Riboszóma",
+        "DNS",
+        "Mitokondrium",
+        "Sejthártya"
+      ],
+      "answer": "Mitokondrium"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A sejtciklus S fázisában a DNS megkettőződik; ember esetén 46 egykromatidás kromoszómából _____ kétkromatidás kromoszóma lesz.",
+      "options": [],
+      "answer": "46"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a D₃-vitamin szintéziséről és funkciójáról?",
+      "options": [
+        "A D₃-vitamin vízben oldódó vitamin, amely a veséből direktben jut a bélbe és ott fokozza a kalciumfelszívódást",
+        "A D₃-vitamin a bőrben UV-sugárzás hatására koleszterinből szintetizálódik, majd a máj és a vese módosításai után aktív formája egy kalciumtranszport-fehérje képződését serkenti a vékonybél nyálkahártyájában, ezzel fokozva a kalciumfelszívódást",
+        "A D₃-vitamin a csontok közvetlen alkotóeleme, kálcium és foszfát ionokat szállít a csontokba az érrendszer segítségével",
+        "A D₃-vitamin hiánya vérzékenységet okoz, mivel a protrombint a máj csak D₃-vitamin jelenlétében szintetizálja"
+      ],
+      "answer": "A D₃-vitamin a bőrben UV-sugárzás hatására koleszterinből szintetizálódik, majd a máj és a vese módosításai után aktív formája egy kalciumtranszport-fehérje képződését serkenti a vékonybél nyálkahártyájában, ezzel fokozva a kalciumfelszívódást"
+    },
+    {
+      "id": 22,
+      "type": "MC",
+      "question": "Mit értünk a PCR-technika (polimeráz láncreakció) alatt, és mik az eljárás kötelező összetevői?",
+      "options": [
+        "A PCR fehérjék amplifikálására szolgáló eljárás; szükséges hozzá aminosav-minta, riboszómák és ATP",
+        "A PCR DNS-szakaszok sokszorosítására alkalmas eljárás; szükséges hozzá DNS-minta, két primer, hőrezisztens DNS-polimeráz, nukleotidok és pufferoldat",
+        "A PCR eljárás DNS-szálak összekapcsolásán alapul; szükséges hozzá ligáz enzim, restrukciós endonukleázok és plazmid",
+        "A PCR eljárás a DNS szekvenciájának meghatározására szolgál; szükséges hozzá elektroforézis-gél és fluoreszcens festék"
+      ],
+      "answer": "A PCR DNS-szakaszok sokszorosítására alkalmas eljárás; szükséges hozzá DNS-minta, két primer, hőrezisztens DNS-polimeráz, nukleotidok és pufferoldat"
+    },
+    {
+      "id": 23,
+      "type": "BLANK",
+      "question": "A kloroplasztiszokban a fotoszintézis sötét szakasza a _____ -ban zajlik, ahol a CO₂ megkötése, redukálása és a glükóz szintézise történik.",
+      "options": [],
+      "answer": "sztrómában"
+    },
+    {
+      "id": 24,
+      "type": "MC",
+      "question": "Mi a sejtciklus G1/S ellenőrzési pontjának (restrikciós pontnak) biológiai jelentősége?",
+      "options": [
+        "Az ellenőrzési pont megakadályozza, hogy a sejt az M fázisból az S fázisba lépjen DNS-károsodás esetén",
+        "Az ellenőrzési pont csak akkor engedi a sejtet az S fázisba lépni, ha a DNS nem károsodott és megfelelő növekedési faktorok vannak jelen; DNS-hiba esetén gátolja a belépést, lehetőséget adva a javításra, vagy apoptózist indít be",
+        "Az ellenőrzési pont kizárólag biztosítja, hogy minden kromoszóma hozzákapcsolódjon a magorsóhoz",
+        "Az ellenőrzési pont a G2 fázisban ellenőrzi a DNS-másolás pontosságát, és a p53 fehérje segítségével aktiválja a replikációt"
+      ],
+      "answer": "Az ellenőrzési pont csak akkor engedi a sejtet az S fázisba lépni, ha a DNS nem károsodott és megfelelő növekedési faktorok vannak jelen; DNS-hiba esetén gátolja a belépést, lehetőséget adva a javításra, vagy apoptózist indít be"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a negatív visszacsatolás és a homeosztázis kapcsolatáról?",
+      "options": [
+        "A negatív visszacsatolás növekedésre tovább növeli a rendszer aktivitását, ezért a sejtek állandóan növekvő belső egyensúlyban vannak",
+        "A negatív visszacsatolás az a folyamat, amikor a hibajellel ellentétes előjelű hatással módosítja a rendszer működését (csökkenésre növelés, növekedésre csökkentés), ami stabilizálja a rendszert és homeosztázist tart fenn",
+        "A negatív visszacsatolás az egyirányú vezérlés alapja, amely a kell értéket nem veszi figyelembe",
+        "A homeosztázis kizárólag pozitív visszacsatolással tartható fenn, a negatív visszacsatolás a rendszert destabilizálja"
+      ],
+      "answer": "A negatív visszacsatolás az a folyamat, amikor a hibajellel ellentétes előjelű hatással módosítja a rendszer működését (csökkenésre növelés, növekedésre csökkentés), ami stabilizálja a rendszert és homeosztázist tart fenn"
+    }
+  ]
+}

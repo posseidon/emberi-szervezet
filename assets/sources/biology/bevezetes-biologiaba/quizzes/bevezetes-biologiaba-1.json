@@ -1,0 +1,266 @@
+{
+  "subjectId": "biologia",
+  "moduleId": "bevezetes_a_biologiaba_A",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mi a hipotézis szerepe a tudományos kutatás folyamatában?",
+      "options": [
+        "Egy már bizonyított tudományos tétel összefoglalása",
+        "Igazolásra váró elképzelés, amely megfelel a tapasztalatnak, de még hiányzik a bizonyítása",
+        "A kísérlet eredményeinek nyilvánosságra hozatala",
+        "A rögzített változók meghatározása a kísérletben"
+      ],
+      "answer": "Igazolásra váró elképzelés, amely megfelel a tapasztalatnak, de még hiányzik a bizonyítása"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Melyik állítás jellemzi HELYESEN a tudományos megismerést a hétköznapi megismeréssel szemben?",
+      "options": [
+        "A tudományos megismerés nem tervszerű, de pontos és logikus",
+        "A hétköznapi megismerés célja és tárgya van, és ok-okozati összefüggéseket keres",
+        "A tudományos megismerés tervszerű, pontos, logikus, eredményei ellenőrizhetők",
+        "Mindkét megismerési forma azonos módszereket alkalmaz"
+      ],
+      "answer": "A tudományos megismerés tervszerű, pontos, logikus, eredményei ellenőrizhetők"
+    },
+    {
+      "id": 3,
+      "type": "BLANK",
+      "question": "A kísérletben az a tényező, amelynek hatását vizsgáljuk, és értékeit a grafikon x tengelyén tüntetjük fel, a _____ változó.",
+      "options": [],
+      "answer": "független"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Mit jelent az emergencia fogalma a biológiai szerveződési szintek kontextusában?",
+      "options": [
+        "A magasabb szerveződési szintek működései csupán az alacsonyabb szintűekből vezethetők le",
+        "A magasabb szerveződési szintek magukba foglalják az alacsonyabb szintűeket, de azokból nem vezethetők le",
+        "Az egyes szerveződési szintek egymástól teljesen függetlenül működnek",
+        "Az alacsonyabb szintű folyamatok mindig felülírják a magasabb szintűeket"
+      ],
+      "answer": "A magasabb szerveződési szintek magukba foglalják az alacsonyabb szintűeket, de azokból nem vezethetők le"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A sejt az élővilág legkisebb, önálló életre képes alaki és működési egysége, amely a _____ szintű szerveződéshez tartozik.",
+      "options": [],
+      "answer": "sejtszintű / egyed alatti"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Melyik az evolúció feltételeinek HELYES felsorolása?",
+      "options": [
+        "Szaporodás, anyagcsere és homeosztázis képessége",
+        "Szaporodás, öröklődés és változékonyság képessége, valamint a populációk változatossága",
+        "Növekedés, fejlődés és ingerlékenység képessége",
+        "Öröklődés, mozgás és elhatárolódás képessége"
+      ],
+      "answer": "Szaporodás, öröklődés és változékonyság képessége, valamint a populációk változatossága"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mi a fénymikroszkóp elméleti felbontóképessége és maximális nagyítása?",
+      "options": [
+        "0,5 nm felbontóképesség és 100 000-szeres nagyítás",
+        "0,2 mm felbontóképesség és 500-szoros nagyítás",
+        "0,2 mikrométer felbontóképesség és maximum 1500-szoros nagyítás",
+        "2 mikrométer felbontóképesség és maximum 10 000-szeres nagyítás"
+      ],
+      "answer": "0,2 mikrométer felbontóképesség és maximum 1500-szoros nagyítás"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A gélelektroforézis során a töltéssel rendelkező molekulák elektromos térben az ellentétes töltésű elektróda felé vándorolnak; a vándorlás sebessége függ a molekula töltésétől, tömegétől és _____-ától.",
+      "options": [],
+      "answer": "alakjától"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik állítás igaz a kromatográfiás elválasztásra vonatkozóan?",
+      "options": [
+        "Az erősebben adszorbeálódó komponensek nagyobb sebességgel vándorolnak az álló fázison",
+        "A mozgó fázis álló, az álló fázis mozog a szétválasztandó keveréken keresztül",
+        "Az erősebben adszorbeálódó alkotórészek kisebb sebességgel vándorolnak, mint a kevésbé adszorbeálódók",
+        "A kromatográfia kizárólag gázelegyek szétválasztására alkalmas"
+      ],
+      "answer": "Az erősebben adszorbeálódó alkotórészek kisebb sebességgel vándorolnak, mint a kevésbé adszorbeálódók"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Milyen alapon különböztetjük meg a nyílt, zárt és izolált anyagi rendszereket?",
+      "options": [
+        "Hierarchikus szervezettségük foka alapján",
+        "Aszerint, hogy van-e anyag- és energiaforgalom a rendszer és környezete között",
+        "A bennük lejátszódó biológiai folyamatok típusa alapján",
+        "Az anyag- és információáramlás iránya alapján"
+      ],
+      "answer": "Aszerint, hogy van-e anyag- és energiaforgalom a rendszer és környezete között"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "A rendszerezés alapegysége a _____, amelybe mindazon egyedek tartoznak, amelyek lényeges tulajdonságaikban nagymértékben hasonlóak és egymással szaporodva termékeny utódot hoznak létre.",
+      "options": [],
+      "answer": "faj"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Mi az ozmózisnyomás és milyen tényezőtől függ?",
+      "options": [
+        "Az a nyomás, amellyel az oldószer kilép a féligáteresztő hártyán; fordítottan arányos az oldat koncentrációjával",
+        "Az a nyomás, amelyet a tiszta oldószerrel féligáteresztő hártyán át kapcsolatban lévő oldatra kell kifejteni a dinamikus egyensúly beállásához; egyenesen arányos az oldat koncentrációjával",
+        "A sejthártyán belüli citoplazma sejtfalra kifejtett nyomása; a sejt vízfelvételétől függ",
+        "A hajszálerekben a vérnyomás és a kolloidozmotikus nyomás különbsége"
+      ],
+      "answer": "Az a nyomás, amelyet a tiszta oldószerrel féligáteresztő hártyán át kapcsolatban lévő oldatra kell kifejteni a dinamikus egyensúly beállásához; egyenesen arányos az oldat koncentrációjával"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mi történik a vörösvértestekkel, ha hipotóniás oldatba kerülnek?",
+      "options": [
+        "A sejtek vizet veszítenek és összezsugorodnak",
+        "Az ozmózisnyomás kiegyenlítődik, ezért semmiféle változás nem következik be",
+        "Nagy mennyiségű víz áramlik a sejtekbe, amelyek legömbölyödnek, majd kipukkadnak (hemolízis)",
+        "A sejtek plazmolízissel reagálnak, a sejthártya elválik a sejtfaltól"
+      ],
+      "answer": "Nagy mennyiségű víz áramlik a sejtekbe, amelyek legömbölyödnek, majd kipukkadnak (hemolízis)"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A diffúzió irányát a _____ határozza meg, azaz a koncentráció egységnyi távolságon belüli változása.",
+      "options": [],
+      "answer": "koncentrációgradiens"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik állítás HELYES az enzimek fajlagosságára (specificitására) vonatkozóan?",
+      "options": [
+        "Egy enzim bármilyen szubsztrátot képes átalakítani, ha az elegendő aktiválási energiával rendelkezik",
+        "Az enzim aktív centrumának szerkezete komplementer a szubsztrát szerkezetével (kulcs-zár modell)",
+        "Az enzimek specificitása kizárólag a közeg hőmérsékletétől függ",
+        "Az összetett enzimek fajlagosabbak, mint az egyszerű enzimek"
+      ],
+      "answer": "Az enzim aktív centrumának szerkezete komplementer a szubsztrát szerkezetével (kulcs-zár modell)"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Mi a tejcukor-érzékenység (laktózintolerancia) közvetlen biokémiai oka?",
+      "options": [
+        "A laktóz immunrendszeri felismerése és az azt követő gyulladásos reakció",
+        "A laktáz enzim hiánya vagy elégtelen működése, amelynek következtében a laktóz nem bomlik le a vékonybélben",
+        "A laktóz teljes felszívódása a vékonybélben, ami hasi panaszokat okoz",
+        "A fenilalanin-hidroxiláz enzim hiánya, amely megakadályozza a tejcukor lebontását"
+      ],
+      "answer": "A laktáz enzim hiánya vagy elégtelen működése, amelynek következtében a laktóz nem bomlik le a vékonybélben"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "A Na⁺-K⁺-pumpa 1 ATP hidrolízisével 3 Na⁺-t pumpál ki a sejtből és _____ K⁺-t visz be a sejtbe.",
+      "options": [],
+      "answer": "2"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Melyik jellemzi a kolloid szol állapotot, szemben a gél állapottal?",
+      "options": [
+        "A szolban a részecskék egymáshoz kapcsolódnak és szilárd halmazállapotú rendszert alkotnak",
+        "A szolban a kolloid részecskék hidrátburkukkal szabadon elmozdulhatnak, és a rendszer folyékony halmazállapotú",
+        "A gélben a részecskék szabadon mozognak, míg a szolban alakállandóak",
+        "A szol állapot kizárólag gáz közegben fordulhat elő"
+      ],
+      "answer": "A szolban a kolloid részecskék hidrátburkukkal szabadon elmozdulhatnak, és a rendszer folyékony halmazállapotú"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mi az MR (mágneses rezonancia) diagnosztikai eljárás fizikai alapja?",
+      "options": [
+        "Nagy energiájú röntgensugarak különböző szövetekben eltérő mértékű elnyelődése",
+        "Ultrahang visszaverődése a belső szervek eltérő felületeiről",
+        "Erős mágneses térben rádióhullámokkal gerjesztett atomok (pl. hidrogén) elektromágneses hullámokat bocsátanak ki alapállapotba visszakerülve",
+        "Elektromos jelek mérése a testfelszínen az egyes szervek működése közben"
+      ],
+      "answer": "Erős mágneses térben rádióhullámokkal gerjesztett atomok (pl. hidrogén) elektromágneses hullámokat bocsátanak ki alapállapotba visszakerülve"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A mérés azon minőségi kritériuma, amely szerint az eljárás valóban azt méri, aminek a mérésére kidolgozták, az _____.",
+      "options": [],
+      "answer": "érvényesség"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "A kompetitív (versengő) enzimgátlás mechanizmusa alapján melyik állítás helyes?",
+      "options": [
+        "Az inhibitor az enzim alloszterikus helyéhez kötődik és megváltoztatja az aktív centrum térszerkezetét",
+        "Az inhibitor szerkezetileg hasonló a szubsztráthoz, és bekötődik az aktív centrumba, így az enzim nem tudja megkötni a szubsztrátot",
+        "Az inhibitor kovalensen kötődik az enzimhez, és ez a kötés visszafordíthatatlan",
+        "Az inhibitor csak magas hőmérsékleten fejti ki gátló hatását"
+      ],
+      "answer": "Az inhibitor szerkezetileg hasonló a szubsztráthoz, és bekötődik az aktív centrumba, így az enzim nem tudja megkötni a szubsztrátot"
+    },
+    {
+      "id": 22,
+      "type": "MC",
+      "question": "Melyik folyamat során keletkezik szövetnedv a hajszálerek területén?",
+      "options": [
+        "Amikor a kolloidozmotikus nyomás meghaladja a hidrosztatikai vérnyomást a kapillárisok artériás szakaszán",
+        "Amikor a vérnyomás meghaladja a plazmafehérjék által kialakított kolloidozmotikus nyomást a kapillárisok artériás szakaszán (reverz ozmózis)",
+        "A vénás szakaszon, ahol a vérnyomás a kolloidozmotikus nyomás fölé emelkedik",
+        "Az ozmózis hatására vízmolekulák lépnek be a kapillárisokba a szövetekből"
+      ],
+      "answer": "Amikor a vérnyomás meghaladja a plazmafehérjék által kialakított kolloidozmotikus nyomást a kapillárisok artériás szakaszán (reverz ozmózis)"
+    },
+    {
+      "id": 23,
+      "type": "BLANK",
+      "question": "A fenilketonuria hátterében a _____ enzim hiánya áll, amely miatt a fenilalanin nem bomlik le és veszélyesen felszaporodik a vérben.",
+      "options": [],
+      "answer": "fenilalanin-hidroxiláz"
+    },
+    {
+      "id": 24,
+      "type": "MC",
+      "question": "Az elektronmikroszkóp milyen előnnyel rendelkezik a fénymikroszkóphoz képest?",
+      "options": [
+        "Élő preparátumok vizsgálatára alkalmasabb, és nagyobb az elérhető nagyítás",
+        "Látható fény helyett mágnesekkel fókuszált elektronsugarat használ, elérhető felbontóképessége 0,5 nm és 100 000-szeres nagyítás",
+        "Egyszerűbben kezelhető, és a fénymikroszkópénál kisebb a felbontóképessége",
+        "Kizárólag szervek vizsgálatára alkalmas, sejtszervecskék nem tanulmányozhatók vele"
+      ],
+      "answer": "Látható fény helyett mágnesekkel fókuszált elektronsugarat használ, elérhető felbontóképessége 0,5 nm és 100 000-szeres nagyítás"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Hogyan működik az ATP-szintáz enzim a mitokondriumban?",
+      "options": [
+        "ATP hidrolízisével ionokat pumpál a membrán két oldalán",
+        "A mitokondrium belső membránjában protonok átáramlásakor felszabaduló energiát ATP szintézisre fordítja (oxidatív foszforiláció)",
+        "NAD⁺ molekulák közvetítésével szállít hidrogéneket a szubsztrátoktól az elektronszállító láncba",
+        "A glikolízis során szubsztrát szintű foszforileációval termel ATP-t"
+      ],
+      "answer": "A mitokondrium belső membránjában protonok átáramlásakor felszabaduló energiát ATP szintézisre fordítja (oxidatív foszforiláció)"
+    }
+  ]
+}

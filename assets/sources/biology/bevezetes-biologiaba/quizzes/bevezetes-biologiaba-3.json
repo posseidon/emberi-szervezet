@@ -1,0 +1,266 @@
+{
+  "subjectId": "biologia",
+  "moduleId": "bevezetes_a_biologiaba_C",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik kategória jelöli az élőlények rendszertanában azt a csoportot, amelybe egy adott helyen és időben együtt élő, egy fajhoz tartozó, tényleges szaporodási közösséget alkotó egyedek tartoznak?",
+      "options": [
+        "Társulás",
+        "Populáció",
+        "Biom",
+        "Bioszféra"
+      ],
+      "answer": "Populáció"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A tudományos kutatás során a kísérletnek megismételhetőnek kell lennie és azonos eredményre kell vezetnie ahhoz, hogy az eredményt _____ eredménynek nevezhessük.",
+      "options": [],
+      "answer": "tudományos"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik állítás jellemzi HELYESEN az élő rendszerek anyagi rendszerként való besorolását?",
+      "options": [
+        "Az élő rendszerek izolált anyagi rendszerek, amelyek sem anyag-, sem energiaforgalomban nem állnak a környezetükkel",
+        "Az élő rendszerek zárt anyagi rendszerek, amelyekben energiaforgalom lehetséges, de anyagáramlás nincs",
+        "Az élő rendszerek nyílt anyagi rendszerek, amelyek a környezetükkel anyag- és energiaforgalmat folytatnak",
+        "Az élő rendszerek félig zárt rendszerek, amelyekben csak az anyagáramlás lehetséges"
+      ],
+      "answer": "Az élő rendszerek nyílt anyagi rendszerek, amelyek a környezetükkel anyag- és energiaforgalmat folytatnak"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Milyen összefüggés áll fenn a szemcsék mérete és a fajlagos felület között, és miért fontos ez az adszorpció szempontjából?",
+      "options": [
+        "Minél nagyobb szemcséjű egy anyag, annál nagyobb a fajlagos felülete, így jobb adszorbens",
+        "A fajlagos felület független a szemcsemérettől, kizárólag az anyag kémiai minőségétől függ",
+        "Minél apróbb szemcséjű egy anyag, annál nagyobb a fajlagos felülete, így jobb adszorbens",
+        "Csak a kolloidméretű részecskéknek van fajlagos felülete, más mérettartományokban ez a fogalom nem értelmezhető"
+      ],
+      "answer": "Minél apróbb szemcséjű egy anyag, annál nagyobb a fajlagos felülete, így jobb adszorbens"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "Az elektromágneses spektrumon belül minél rövidebb a sugárzás hullámhossza, annál _____ az energiája.",
+      "options": [],
+      "answer": "nagyobb"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a modellalkotás szerepéről a biológiai kutatásokban?",
+      "options": [
+        "A modell a valóság tökéletes másolata, amely minden részletet figyelembe vesz",
+        "A modell a valóság egyszerűsített leképezése; segítségével a vizsgált rendszer lényegi tulajdonságait ismerjük meg és következtetéseket fogalmazunk meg",
+        "A modellalkotás kizárólag anatómiai maketteket jelent",
+        "A modell eredményeit nem kell összevetni a valóságos jelenséggel"
+      ],
+      "answer": "A modell a valóság egyszerűsített leképezése; segítségével a vizsgált rendszer lényegi tulajdonságait ismerjük meg és következtetéseket fogalmazunk meg"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Hogyan befolyásolja a laktózintolerancia esetén a vastagbélbe kerülő laktóz a bél működését?",
+      "options": [
+        "A laktóz csökkenti a béltartalom ozmotikus koncentrációját, növelve a vízfelszívódást",
+        "A laktóz növeli a béltartalom ozmotikus koncentrációját, csökkentve a vízfelszívódást; bakteriális erjedés során savak és gázok keletkeznek, fokozva a bélperisztaltikát",
+        "A laktóz immunreakciót vált ki, amely gyulladást okoz a vastagbélben",
+        "A laktóz felszívódik a vastagbélből és a máj károsítja az általa szintézisált mérgező termék"
+      ],
+      "answer": "A laktóz növeli a béltartalom ozmotikus koncentrációját, csökkentve a vízfelszívódást; bakteriális erjedés során savak és gázok keletkeznek, fokozva a bélperisztaltikát"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az optikai rendszer nagyítása az objektív és az okulár nagyításának _____ egyenlő.",
+      "options": [],
+      "answer": "szorzatával"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mi az allosztérikus gátlás mechanizmusa az enzimgátlás során?",
+      "options": [
+        "Az inhibitor az aktív centrumba kötődik, és kiszorítja a szubsztrátot versengés útján",
+        "Az inhibitor az enzim alloszterikus helyéhez kötődik, megváltoztatja az enzim térszerkezetét és aktív centrumának alakját, így az enzim nem tudja megkötni a szubsztrátot",
+        "Az inhibitor kovalensen kötődik a szubsztráthoz, meggátolva annak kötőzsebhez való bekötődését",
+        "Az inhibitor a koenzim funkcióját veszi át és helytelen szubsztrátot juttat az aktív centrumba"
+      ],
+      "answer": "Az inhibitor az enzim alloszterikus helyéhez kötődik, megváltoztatja az enzim térszerkezetét és aktív centrumának alakját, így az enzim nem tudja megkötni a szubsztrátot"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a diffúziós idő és a távolság kapcsolatáról?",
+      "options": [
+        "A diffúziós idő a távolsággal egyenesen arányos, és centimétereken is gyors folyamat",
+        "A diffúziós idő a távolság négyzetével arányos; mikrométeres távolságon gyors, centiméterek esetén lassú folyamat",
+        "A diffúziós idő független a távolságtól, kizárólag az anyag diffúziós együtthatójától függ",
+        "A diffúziós idő a távolság négyzetgyökével arányos"
+      ],
+      "answer": "A diffúziós idő a távolság négyzetével arányos; mikrométeres távolságon gyors, centiméterek esetén lassú folyamat"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "A vizes oldatokban az ionok és poláris molekulák felületén kialakult _____ vízmolekulái adszorpciósan kötöttek, és különféle élettani folyamatokban nem hasznosíthatók.",
+      "options": [],
+      "answer": "hidrátburok"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Hogyan okoz ödémát (duzzanatot) a vér- és szövetnedv folyadékegyensúlyának zavara?",
+      "options": [
+        "Az ödéma a hajszálerekben megnövekedett kolloidozmotikus nyomás miatt alakul ki",
+        "Az ödéma a szövetekben felhalmozódó felesleges szövetnedv miatt keletkezik, amikor a folyadékegyensúly megbomlik",
+        "Az ödéma kizárólag veseelégtelenség következménye",
+        "Az ödéma az ionpumpák túlzott működése miatt alakul ki"
+      ],
+      "answer": "Az ödéma a szövetekben felhalmozódó felesleges szövetnedv miatt keletkezik, amikor a folyadékegyensúly megbomlik"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Milyen fizikai tulajdonsága alapján választja szét a gélelektroforézis a nukleinsavakat és fehérjéket, és mi a molekulamarker szerepe?",
+      "options": [
+        "Kizárólag a töltés alapján választja szét; a molekulamarker a töltéseket kalibrálja",
+        "Méret, alak és töltés alapján választja szét; a molekulamarker ismert tömegű/hosszúságú molekulákat tartalmaz az ismeretlen minták azonosítására",
+        "Kizárólag tömeg alapján választja szét; a molekulamarker az elektromos feszültség kalibrálására szolgál",
+        "Az alak és a diffúziós együttható alapján választja szét; a molekulamarker pH referenciát biztosít"
+      ],
+      "answer": "Méret, alak és töltés alapján választja szét; a molekulamarker ismert tömegű/hosszúságú molekulákat tartalmaz az ismeretlen minták azonosítására"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A mérés minőségi kritériumai közül a _____ azt jelenti, hogy a mérés eredménye független a mérést végző személyektől és a mérés körülményeitől.",
+      "options": [],
+      "answer": "tárgyszerűség"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mi az összefüggés a fehérjék harmadlagos szerkezetét befolyásoló hőmérséklet és az enzimek működése között?",
+      "options": [
+        "Magas hőmérséklet egyenes arányban növeli az enzimaktivitást, mivel a molekulák hőmozgása fokozódik",
+        "41 °C felett az enzimek térszerkezete annyira megváltozik, hogy nem képesek ellátni biológiai feladatukat, ami biokémiai folyamatok leállásához vezet",
+        "A hőmérséklet csökkentése maradandóan tönkreteszi az enzimeket, míg az emelés csak átmenetileg csökkenti aktivitásukat",
+        "Az enzimek hőmérsékletre nem érzékenyek, mert kovalens kötések stabilizálják szerkezetüket"
+      ],
+      "answer": "41 °C felett az enzimek térszerkezete annyira megváltozik, hogy nem képesek ellátni biológiai feladatukat, ami biokémiai folyamatok leállásához vezet"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Mi különbözteti meg a prosztetikus csoportot a koenzimtől az összetett enzimek kofaktorai között?",
+      "options": [
+        "A prosztetikus csoport lazán, reverzibilisen kötődik az enzimhez, míg a koenzim erősen kötődik",
+        "A prosztetikus csoport erősen kötődik a polipeptidlánchoz (eltávolítása a funkció megszűnésével jár), míg a koenzim lazán, reverzibilisen kötődik",
+        "A prosztetikus csoport mindig fehérje természetű, míg a koenzim nukleotidszármazék",
+        "A prosztetikus csoport és a koenzim között nincs funkcionális különbség, csupán elnevezésbeli"
+      ],
+      "answer": "A prosztetikus csoport erősen kötődik a polipeptidlánchoz (eltávolítása a funkció megszűnésével jár), míg a koenzim lazán, reverzibilisen kötődik"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "A fordított (reverz) ozmózis során, ha a kapillárisok artériás szakaszán a vérnyomás meghaladja a kolloidozmotikus nyomást, _____ préselődik ki az érpályából.",
+      "options": [],
+      "answer": "fehérjementes vérplazma / szövetnedv"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a pH-skáláról és a semleges, savas, illetve lúgos oldatokról?",
+      "options": [
+        "A semleges oldat pH-ja 0; a savas oldat pH-ja 7 felett van; a lúgos oldat pH-ja 7 alatt van",
+        "A semleges oldat pH-ja 7; a savas oldatban a H⁺-koncentráció nagyobb, mint az OH⁻-koncentráció; a lúgos oldat pH-ja 7 felett van",
+        "A semleges oldat pH-ja 14; a savas oldat pH-ja 7 és 14 között van",
+        "A semleges oldat pH-ja 7; a savas oldatban az OH⁻-koncentráció nagyobb, mint a H⁺-koncentráció"
+      ],
+      "answer": "A semleges oldat pH-ja 7; a savas oldatban a H⁺-koncentráció nagyobb, mint az OH⁻-koncentráció; a lúgos oldat pH-ja 7 felett van"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik állítás jellemzi HELYESEN a CT (computer tomográfia) diagnosztikai eljárást?",
+      "options": [
+        "Ultrahangot alkalmaz, és elsősorban lágyrészek vizsgálatára alkalmas",
+        "Rendkívül erős mágneses terű berendezés, amely hidrogénatomok gerjesztésén alapul",
+        "Több síkban röntgen-rétegfelvételeket készít, amelyekből akár háromdimenziós képek is létrehozhatók",
+        "Kamera segítségével biztosít betekintést a belső szervekbe a testnyílásokon keresztül"
+      ],
+      "answer": "Több síkban röntgen-rétegfelvételeket készít, amelyekből akár háromdimenziós képek is létrehozhatók"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az öröklődő változékonyság azt jelenti, hogy az öröklött tulajdonságok nem állandók, nemzedékről nemzedékre változhatnak – ez teremti meg az alapját az élővilág törzsfejlődésének, az _____-nak.",
+      "options": [],
+      "answer": "evolúciónak / evolúció"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Milyen szerepe van az ozmózisnak a vese nefronjainak működésében?",
+      "options": [
+        "Az ozmózis a szűrletet az elvezetőcsatornákból a vesevérpályába tolja be aktív transzport útján",
+        "A vese elvezetőcsatornái és gyűjtőcsövei olyan szöveti környezetben futnak, amelynek ozmotikus nyomása meghaladja a szűrletét, ezért naponta közel 180 liter víz szívódik vissza passzív transzporttal",
+        "Az ozmózis a nefronban kizárólag az ionok visszaszívásáért felelős, a víz aktívan transzportálódik",
+        "Az ozmózis a nefronban lényegtelen, a víz visszaszívódása ATP-igényes pumpák útján történik"
+      ],
+      "answer": "A vese elvezetőcsatornái és gyűjtőcsövei olyan szöveti környezetben futnak, amelynek ozmotikus nyomása meghaladja a szűrletét, ezért naponta közel 180 liter víz szívódik vissza passzív transzporttal"
+    },
+    {
+      "id": 22,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a makromolekuláris kolloidok és az asszociációs kolloidok megkülönböztetésére vonatkozóan?",
+      "options": [
+        "A makromolekuláris kolloidokban amfipatikus molekulák hoznak létre micellákat; az asszociációs kolloidokban nagy molekulájú szerves vegyületek alkotnak kolloid rendszert",
+        "Az asszociációs kolloidokban amfipatikus molekulák hoznak létre micellákat; a makromolekuláris kolloidokban nagy molekulájú szerves vegyületek (pl. fehérjék, nukleinsavak) alkotnak kolloid rendszert",
+        "Mindkét típus azonos elvű; a különbség kizárólag a halmazállapotban van",
+        "Az asszociációs kolloidok szilárd halmazállapotúak, a makromolekuláris kolloidok folyadék halmazállapotúak"
+      ],
+      "answer": "Az asszociációs kolloidokban amfipatikus molekulák hoznak létre micellákat; a makromolekuláris kolloidokban nagy molekulájú szerves vegyületek (pl. fehérjék, nukleinsavak) alkotnak kolloid rendszert"
+    },
+    {
+      "id": 23,
+      "type": "BLANK",
+      "question": "A miozin fehérje az izomösszehúzódás során _____ bontó enzimhatással rendelkezik, és az így felszabaduló energia szükséges a fehérjefonalak egymás melletti elcsúszásához.",
+      "options": [],
+      "answer": "ATP"
+    },
+    {
+      "id": 24,
+      "type": "MC",
+      "question": "Melyik tudós kutatásai kapcsolódnak a stresszreakcióra vonatkozó elmélethez?",
+      "options": [
+        "Semmelweis Ignác",
+        "Kitaibel Pál",
+        "Selye János",
+        "Szent-Györgyi Albert"
+      ],
+      "answer": "Selye János"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik állítás HELYES a dinamikus egyensúly általános fogalmáról és annak megnyilvánulásáról az ozmózisban?",
+      "options": [
+        "Dinamikus egyensúlyban az ellentétes irányú folyamatok sebessége különböző, de összegük nulla",
+        "Dinamikus egyensúlyban az ellentétes irányú folyamatok – pl. az ozmózisban a víz be- és kilépése – sebessége megegyezik, ezért makroszkopikusan nem látható változás",
+        "Az ozmózisban a dinamikus egyensúly csak izotóniás oldatokban lehetséges, más esetben a folyamat végtelenül folytatódik",
+        "Dinamikus egyensúlyban egyik irányú folyamat sem megy végbe, az anyagcsere teljesen leáll"
+      ],
+      "answer": "Dinamikus egyensúlyban az ellentétes irányú folyamatok – pl. az ozmózisban a víz be- és kilépése – sebessége megegyezik, ezért makroszkopikusan nem látható változás"
+    }
+  ]
+}
