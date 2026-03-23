@@ -226,13 +226,412 @@
     "next": "The Reformation",
     "topics": [
       {
-        "id": "renaissance",
-        "name": "The Renaissance",
-        "description": "Explore the cultural, artistic, political, and economic 'rebirth' following the Middle Ages.",
+        "id": "okor",
+        "name": "Ókor",
+        "description": "Ancient civilizations, including Mesopotamia, Egypt, Greece, and Rome.",
+        "difficulty": "Beginner",
+        "time": "",
+        "modules": [
+          {
+            "id": "okor-overview",
+            "name": "Ókor",
+            "description": "Overview of the Ancient Era (Ókor), including key concepts, terms, and chronological developments of the ancient period."
+          },
+          {
+            "id": "athen-demokracia",
+            "name": "Az athéni államszervezet és demokrácia",
+            "description": "The Athenian political system and democracy, including the Assembly, Council, and legal system."
+          },
+          {
+            "id": "görög-roma-epiteszet",
+            "name": "A görög és a római építészet",
+            "description": "Architectural styles and innovations of ancient Greece and Rome, including temples, theaters, and aqueducts."
+          },
+          {
+            "id": "zsido-monoteizmus",
+            "name": "A zsidó monoteizmus",
+            "description": "Jewish monotheism and the origins of Judaism, exploring the foundations and development of the first monotheistic religion."
+          },
+          {
+            "id": "keresztenyseg-kialakulasa",
+            "name": "A kereszténység kialakulása, elterjedése",
+            "description": "The formation and spread of Christianity, covering Jesus's teachings, early Christian communities, and the expansion of Christianity throughout the Roman Empire."
+          }
+        ]
+      },
+      {
+        "id": "kozepkor",
+        "name": "Középkor",
+        "description": "The Medieval Era, covering major developments in European and world history during the Middle Ages, including Islamic expansion, feudalism, church institutions, medieval architecture, and Hungarian medieval kingdoms.",
         "difficulty": "Intermediate",
-        "time": "5 Hours",
-        "modules": []
+        "time": "",
+        "modules": [
+          {
+            "id": "kozepkor-overview",
+            "name": "Középkor",
+            "description": "Overview of the Medieval Era (Középkor), including key concepts, terms, and chronological developments of the medieval period."
+          },
+          {
+            "id": "mohamed-arab-hozitas",
+            "name": "Mohamed tanításai, az arab hódítás és feltartóztatása",
+            "description": "Muhammad's teachings, the Arab conquests, and the halting of Islamic expansion in medieval Europe."
+          },
+          {
+            "id": "uradalom-jobbagyok",
+            "name": "Az uradalom, földbirtokosok és jobbágyok",
+            "description": "The feudal system (uradalom), landowners, and the peasantry (jobbágyok) in medieval society."
+          },
+          {
+            "id": "kozepkori-varosok",
+            "name": "A középkori városok, céhek és kereskedelem",
+            "description": "Medieval cities, guild systems (céhek), and trade networks in the medieval economy."
+          },
+          {
+            "id": "egyhazi-intezmenyek",
+            "name": "Az egyházi intézményrendszer és a szerzetesség",
+            "description": "Church institutions, monastic systems (szerzetesség), and the role of the Catholic Church in medieval society."
+          },
+          {
+            "id": "epiteszet",
+            "name": "Román, gótikus és reneszánsz építészet",
+            "description": "Romanesque, Gothic, and Renaissance architectural styles and their evolution during and after the medieval period."
+          },
+          {
+            "id": "honfoglalas-hadjarat",
+            "name": "A honfoglalás, kalandozások és támadó hadjáratok",
+            "description": "Hungarian conquest of the Carpathian Basin (honfoglalás) and early medieval raids and military campaigns."
+          },
+          {
+            "id": "geza-istvan",
+            "name": "Géza és I. (Szent) István: államszervezés, földbirtokrendszer és vármegyeszervezet",
+            "description": "Grand Prince Géza and King Saint Stephen I: state organization, feudal land system, and the county (vármegye) administration in early medieval Hungary."
+          },
+          {
+            "id": "aranybulla",
+            "name": "Az Aranybulla",
+            "description": "The Golden Bull (Aranybulla) of 1222, a foundational legal document of medieval Hungary establishing the rights and privileges of the nobility."
+          },
+          {
+            "id": "bela-iv",
+            "name": "IV. Béla uralkodása: tatárjárás és újjáépítés",
+            "description": "King Béla IV's reign: the Tartar invasion and the subsequent reconstruction and rebuilding of Hungary."
+          },
+          {
+            "id": "karoly-robert",
+            "name": "Anjou I. Károly: a királyi hatalom újbóli megszilárdítása",
+            "description": "King Charles I Robert of the Angevin dynasty: the re-consolidation and strengthening of royal power in Hungary."
+          },
+          {
+            "id": "zsigmond-matyas",
+            "name": "Luxemburgi Zsigmond, Hunyadi János és Hunyadi Mátyás törökellenes harcai",
+            "description": "King Sigismund of Luxembourg, John Hunyadi, and King Matthias Hunyadi and their military campaigns against Ottoman Turkish expansion."
+          },
+          {
+            "id": "matyas-kiralysag",
+            "name": "Hunyadi Mátyás királysága: központosított hatalom és birodalomépítő tervek",
+            "description": "King Matthias Hunyadi's reign: centralized royal power, imperial ambitions, and plans for expanding Hungary as a major European power."
+          }
+        ]
+      },
+      {
+        "id": "kora-ujkor",
+        "name": "Kora újkor",
+        "description": "The Early Modern Period, covering the transition from medieval to modern Europe, including the Age of Exploration, the Renaissance, the Reformation, Ottoman expansion, and early absolutism.",
+        "difficulty": "Intermediate",
+        "time": "",
+        "modules": [
+          {
+            "id": "kora-ujkor-overview",
+            "name": "Kora újkor",
+            "description": "Overview of the Early Modern Period, including key concepts, chronological developments, and major transitions in this era."
+          },
+          {
+            "id": "portugalia-spanyol-felfedezesek",
+            "name": "A portugál és spanyol felfedezések, a korai kapitalizmus",
+            "description": "Portuguese and Spanish discoveries and explorations during the Age of Exploration, and the development of early capitalism and mercantilism."
+          },
+          {
+            "id": "reformacio-protestantizmus",
+            "name": "A reformáció, a protestáns egyházak megszerveződése és elterjedése",
+            "description": "The Protestant Reformation, the organization and spread of Protestant churches, and their impact on European society and politics."
+          },
+          {
+            "id": "ellenreformacio-katolikus",
+            "name": "Az ellenreformáció, a katolikus megújulás",
+            "description": "The Counter-Reformation and Catholic renewal, the response of the Roman Catholic Church to Protestant challenges."
+          },
+          {
+            "id": "mohacsi-csata",
+            "name": "A mohácsi csata és a kettős királyválasztás",
+            "description": "The Battle of Mohács and its aftermath, the dual monarchy and Hungarian-Austrian dynastic union."
+          },
+          {
+            "id": "magyarorszag-harom-resze",
+            "name": "Az ország három részre szakadása: a várhaborúk (1541 - 1568)",
+            "description": "The division of Hungary into three parts and the wars of fortresses (várhaborúk) during Ottoman expansion and rule."
+          },
+          {
+            "id": "erdely-etnikai-vallasi",
+            "name": "Erdély sajátos etnikai és vallási helyzete",
+            "description": "Transylvania's unique ethnic and religious situation as a semi-autonomous principality under Ottoman suzerainty."
+          },
+          {
+            "id": "rakoczi-szabadsagharc",
+            "name": "A Rákóczi-szabadságharc és a szatmári béke",
+            "description": "The Rákóczi War of Independence and the Peace of Szatmár, a major Hungarian uprising against Habsburg rule in the early 18th century."
+          },
+          {
+            "id": "magyarorszag-ujranepesitese",
+            "name": "Magyarország újranépesülése és újranépesítése",
+            "description": "Hungary's resettlement and repopulation following the Ottoman occupation, demographic changes, and ethnic composition shifts."
+          },
+          {
+            "id": "felvilagosodas",
+            "name": "A felvilágosodás, az Emberi és polgári jogok nyilatkozata",
+            "description": "The Enlightenment movement and the Declaration of the Rights of Man and of the Citizen during the Age of Reason."
+          },
+          {
+            "id": "brit-amerikai-parlamentarizmus",
+            "name": "A brit alkotmányos monarchia és az amerikai köztársaság működése",
+            "description": "The British constitutional monarchy and the functioning of the American Republic, models of democratic government."
+          },
+          {
+            "id": "maria-tereza-jozsef",
+            "name": "Mária Terézia és II. József reformjai",
+            "description": "The reforms of Empress Maria Theresa and Emperor Joseph II, modernization and enlightened absolutism in the Habsburg Empire."
+          }
+        ]
+      },
+      {
+        "id": "ujkor",
+        "name": "Újkor",
+        "description": "The Modern Era (19th-early 20th century), covering industrialization, nationalism, liberalism, the rise of socialism, the two world wars, and the transformation of European and world societies.",
+        "difficulty": "Advanced",
+        "time": "",
+        "modules": [
+          {
+            "id": "ujkor-overview",
+            "name": "Újkor",
+            "description": "Overview of the Modern Era, including key concepts, chronological developments, and major transformations of the 19th and early 20th centuries."
+          },
+          {
+            "id": "uj-eszmek",
+            "name": "Új eszmék: liberalizmus, nacionalizmus, konzervativizmus",
+            "description": "New ideologies of the modern era: liberalism, nationalism, and conservatism, and their influence on political and social movements."
+          },
+          {
+            "id": "elso-ipari-forradalom",
+            "name": "Az első ipari forradalom: textilipar, közlekedés, gyáripar",
+            "description": "The First Industrial Revolution: textile industry, transportation advances, and factory systems that transformed economies and societies."
+          },
+          {
+            "id": "reformkor-kerdesek",
+            "name": "A reformkor fő kérdései: jobbágykérdés, magyar nyelv, polgári alkotmányosság",
+            "description": "The Reform Era (1825-1848): main issues including peasant/serf emancipation, Hungarian language, and constitutional reform in Hungary."
+          },
+          {
+            "id": "szechenyi-kossuth",
+            "name": "Széchenyi és Kossuth programja és vitája",
+            "description": "The programs and debate between István Széchenyi (gradualist reformer) and Lajos Kossuth (revolutionary nationalist) in 19th-century Hungary."
+          },
+          {
+            "id": "1848-forradalom",
+            "name": "Az 1848-as forradalom és az áprilisi törvények",
+            "description": "The Revolution of 1848 and the April Laws, transformative political and social reforms in the Hungarian context."
+          },
+          {
+            "id": "1848-szabadsagharc",
+            "name": "Az 1848-as szabadságharc legfontosabb eseményei",
+            "description": "Key events of the Hungarian War of Independence (1848-1849) and the struggle for national liberation."
+          },
+          {
+            "id": "masodik-ipari-forradalom",
+            "name": "A második ipari forradalom: kutatás és fejlesztés, közlekedés, vegyipar, gépipar, elektronika",
+            "description": "The Second Industrial Revolution: advances in research, transportation, chemical industry, mechanical engineering, and electronics."
+          },
+          {
+            "id": "dualizmus-kora",
+            "name": "A dualizmus kora: gazdasági kiegyezés és állami gazdaságpolitika",
+            "description": "The Austro-Hungarian Dual Monarchy: economic settlement and government economic policies of the post-1867 period."
+          },
+          {
+            "id": "szocializmus",
+            "name": "A szocializmus",
+            "description": "Socialist ideology and movements, from utopian socialism to Marxism and workers' movements of the 19th and early 20th centuries."
+          },
+          {
+            "id": "polgari-nemzetallam",
+            "name": "A polgári nemzetállam, hazai és nemzetközi példák mentén",
+            "description": "The bourgeois nation-state: examples from Hungary and internationally, the emergence of modern nation-states and nationalism."
+          },
+          {
+            "id": "kiegyezes",
+            "name": "A kiegyezés: okok, közös ügyek, a magyar államszervezet",
+            "description": "The Austro-Hungarian Compromise of 1867: its causes, common affairs (military, foreign policy, customs), and Hungarian state organization."
+          },
+          {
+            "id": "etnikai-viszonyok-dualizmus",
+            "name": "Etnikai viszonyok, zsidó emancipáció a dualizmus korában",
+            "description": "Ethnic relations and Jewish emancipation during the Dual Monarchy period, including minority issues and social changes."
+          }
+        ]
+      },
+      {
+        "id": "vilaghaboruk",
+        "name": "Világháborúk",
+        "description": "The World Wars Period and Cold War era, covering the First and Second World Wars, the interwar period, fascism and communism, the Holocaust, and the Cold War division of Europe.",
+        "difficulty": "Advanced",
+        "time": "",
+        "modules": [
+          {
+            "id": "vilaghaboruk-overview",
+            "name": "Világháborúk",
+            "description": "Overview of the World Wars period, covering major conflicts, ideologies, and transformations of the 20th century."
+          },
+          {
+            "id": "elso-vilaghaború",
+            "name": "Az első világháború: hadviselő felek és jellemzők, Magyarország részvétele",
+            "description": "The First World War: the belligerent powers, characteristics of the conflict, and Hungary's participation in the war."
+          },
+          {
+            "id": "magyarorszag-1918-1920",
+            "name": "Magyarország 1918 és 1920 között: forradalmi átalakulás kísérlete, tanácsköztársaság és az ellenforradalom",
+            "description": "Hungary 1918-1920: revolutionary transformation attempts, the Hungarian Soviet Republic (Tanácsköztársaság), and the counter-revolutionary period."
+          },
+          {
+            "id": "trianoni-beke",
+            "name": "A trianoni békediktátum",
+            "description": "The Treaty of Trianon: the peace dictate ending the Austro-Hungarian Empire and its impact on Hungary's territorial losses."
+          },
+          {
+            "id": "nemzetiszocialista-nemetorszag",
+            "name": "A nemzetiszocialista Németország",
+            "description": "Nazi Germany: the rise of fascism, Hitler's dictatorship, and the ideology of National Socialism."
+          },
+          {
+            "id": "kommunista-szovjetunio",
+            "name": "A kommunista Szovjetunió",
+            "description": "The Communist Soviet Union: Stalin's totalitarianism, industrialization, collectivization, and Soviet communist ideology."
+          },
+          {
+            "id": "magyarorszag-1920-as-evei",
+            "name": "Magyarország 1920-as évei és a politikai konszolidáció",
+            "description": "Hungary in the 1920s: political consolidation, the Horthy era, and recovery after the treaty of Trianon."
+          },
+          {
+            "id": "oktatas-kulturpolitika",
+            "name": "Oktatás és kultúrpolitika Magyarországon",
+            "description": "Education and cultural policy in Hungary during the interwar and wartime periods."
+          },
+          {
+            "id": "masodik-vilaghaború-kirobbanasa",
+            "name": "A második világháború: kirobbanása, hadviselő felek és jellemzők",
+            "description": "The Second World War: outbreak, belligerent powers, and characteristics of the global conflict."
+          },
+          {
+            "id": "magyarorszag-masodik-vilaghaború",
+            "name": "Magyarország belesodródása a második világháborúba és a területi revízió lépéseit",
+            "description": "Hungary's involvement in World War II: how the country was drawn into the conflict and the stages of territorial revision."
+          },
+          {
+            "id": "holokauszt",
+            "name": "A zsidóság jogfosztásának folyamata és a holokauszt",
+            "description": "The process of Jewish persecution and the Holocaust: discrimination, deportation, and genocide during World War II."
+          },
+          {
+            "id": "nemet-megszallas-nyilas",
+            "name": "Német megszállás és a nyilas diktatúra",
+            "description": "German occupation of Hungary and the Arrow Cross (nyilas) dictatorship during the final stages of World War II."
+          },
+          {
+            "id": "hideghaboru-overview",
+            "name": "Hidegháború",
+            "description": "Overview of the Cold War: the ideological and geopolitical conflict between the Soviet Union and the Western world."
+          },
+          {
+            "id": "hideghaboru-szembenallas",
+            "name": "A hidegháború: szovjet - amerikai szembenállás, a két Németország létrejötte",
+            "description": "The Cold War: Soviet-American confrontation, the division of Germany into East and West, and the bipolar world order."
+          },
+          {
+            "id": "szovjetunio-felbomlasa",
+            "name": "Szovjetunió felbomlása és a kommunista diktatúrák bukása Közép-Európában",
+            "description": "The collapse of the Soviet Union and the fall of communist dictatorships in Central and Eastern Europe in the late 1980s-early 1990s."
+          },
+          {
+            "id": "rakosi-diktatúra",
+            "name": "A Rákosi-diktatúra: a pártállam, terror, koncepciós perek, államosítás és a propaganda",
+            "description": "The Rákosi Dictatorship: the party-state, political terror, show trials, nationalization, and propaganda in Stalinist Hungary."
+          },
+          {
+            "id": "1956-forradalom",
+            "name": "Az 1956-os forradalom: okai és céljai, leverése és a megtorlás",
+            "description": "The Hungarian Revolution of 1956: its causes and objectives, Soviet suppression, and subsequent reprisals."
+          },
+          {
+            "id": "kadar-rendszer",
+            "name": "A Kádár-rendszer: pártállam, téeszesítés, tervgazdaság, a kádári alku",
+            "description": "The Kádár System: the party-state, agricultural collectivization (téeszesítés), planned economy, and the 'Kádár deal' compromise."
+          },
+          {
+            "id": "rendszervaltoztas",
+            "name": "A rendszerváltoztatás (1989 - 1991)",
+            "description": "The System Change (1989-1991): Hungary's transition from communism to democracy and market economy."
+          },
+          {
+            "id": "piacgazdasagra-atteres",
+            "name": "A piacgazdaságra való áttérés: gazdasági szerkezetváltás, privatizáció, a külföldi tőke és a külkereskedelem",
+            "description": "Transition to market economy: economic restructuring, privatization, foreign capital, and foreign trade in post-communist Hungary."
+          }
+        ]
+      },
+      {
+        "id": "jelenkor",
+        "name": "Jelenkor",
+        "description": "The Contemporary Era (Present Day), covering modern Hungary's integration into Europe, democratic institutions, demographic changes, international relations, and current social and political issues.",
+        "difficulty": "Advanced",
+        "time": "",
+        "modules": [
+          {
+            "id": "jelenkor-overview",
+            "name": "Jelenkor",
+            "description": "Overview of the Contemporary Era, covering key concepts, institutions, and major developments in Hungary and the world since 1989."
+          },
+          {
+            "id": "europai-unio",
+            "name": "Az Európai Unió: főbb szervek és működésük",
+            "description": "The European Union: main institutions and their functions, including the Commission, Parliament, and Council."
+          },
+          {
+            "id": "magyarorszag-alkotmanya",
+            "name": "Az Alkotmány, hatalmi ágak és intézményeik, az önkormányzatok és a választási rendszer",
+            "description": "The Hungarian Constitution, separation of powers, state institutions, local government, and the electoral system."
+          },
+          {
+            "id": "demografiai-valtozasok",
+            "name": "Demográfiai változások, a népmozgások irányai a világban és Magyarországon",
+            "description": "Demographic changes and migration patterns globally and in Hungary, including birth rates, aging populations, and international migration."
+          },
+          {
+            "id": "hataron-tuli-magyarok",
+            "name": "A határon túli magyarok helyzete napjainkban",
+            "description": "The situation of Hungarians living beyond Hungary's borders: their legal status, cultural preservation, and international relations."
+          },
+          {
+            "id": "nemzetisegek-magyarorszagon",
+            "name": "Nemzetiségek Magyarországon és a cigányság",
+            "description": "National minorities in Hungary and the Roma/Gypsy population: ethnic relations, rights, discrimination, and integration issues."
+          }
+        ]
       }
     ]
+  },
+  {
+    "id": "chemistry",
+    "name": "Chemistry",
+    "icon": "science",
+    "description": "Currently studying: Organic Chemistry. Focus on carbon-based compounds and reactions.",
+    "next": "Inorganic Chemistry",
+    "topics": []
   }
 ]
