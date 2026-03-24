@@ -1,0 +1,165 @@
+1.1. Atomok
+1.1.1. Az atommag
+1.1.2. Az elektronfelhő
+1.1.3. Az atom mérete
+1.2. Egyszerű ionok
+1.2.1. Ionképződés atomokból
+1.2.2. Ionok jellemző adatai
+1.3. A periódusos rendszer
+1.3.1. Felépítés
+1.3.2. Periodikusan változó tulajdonságok
+2. Kötések és molekulaszerkezet - Bevezető
+2.1. Ionkötés
+2.2. Fémes kötés
+2.3. Kovalens kötés
+2.3.1. Kialakulása
+2.3.2. Jellemző paraméterek
+2.3.3. Delokalizáció
+2.3.4. Szerkezeti képlet
+2.4 A kötéstípus megállapítása
+2.5 Molekulák, összetett ionok téralkata
+2.6 Molekulák polaritása
+3.1. Halmazok csoportosítása
+3.2 Halmazállapotok, változások
+3.2.1. Fázisok szerkezete
+3.2.2. Olvadáspontot, forráspontot befolyásoló tényezők
+3.3. Szilárd anyagok
+3.3.1. Kristályrácsok
+3.3.2. Másodrendű kémiai kötések
+3.3.3. Speciális szerkezetű szilárd anyagok
+3.4. Folyadékok
+3.4.1. Jellemző tulajdonságok
+3.4.2. Folyadékok elegyedése
+3.5. Gázok
+3.6. Oldatok
+3.6.1. Az oldódás folyamatai
+3.6.2. Oldatok telítettsége
+3.6.3. Kristályvizes vegyületek
+3.6.4. Mi miben oldódik jól?
+3.7. Inhomogén kémiai rendszerek
+3.7.1. Diszperz rendszerek
+3.7.2. Kolloidok
+3.7.3. Határfelületi kémia
+4.1. A reakcióegyenlet
+4.2. Reakciósebesség
+4.3. Termokémia
+4.3.1. Fizikai-kémiai változások energiaviszonyai
+4.3.2. Reakció-termokémia
+4.4. Kémiai egyensúly
+4.4.1. Egyensúly kialakulása
+4.4.2. Az egyensúly befolyásolása
+5. Savak és bázisok - Bevezető
+5.1. Sav-bázis elméletek
+5.1.1. Arrhenius-elmélet
+5.1.2. Brönsted-elmélet
+5.2. Vizes oldatok kémhatása
+5.2.1. Savas és lúgos kémhatás
+5.2.2. pH-skála
+5.2.3. Indikátorok
+5.3. Savak és bázisok tulajdonságai
+5.4. Reakciók savakkal és bázisokkal
+5.4.1. Savak, bázisok, oxidok reakciója vízzel
+5.4.2. Közömbösítés
+5.4.3. Sók hidrolízise
+5.4.4. Felszabadítás sóból
+6.1. Redukció és oxidáció
+6.2. Oxidációs szám
+6.2.1. Oxidációs szám szabályok alapján
+6.2.2. Oxidációs szám szerkezeti képlet alapján
+6.3. Redoxifolyamatok iránya
+6.4. Galvánelemek
+6.4.1. Elektródok
+6.4.2. Galvánelemben lejátszódó folyamatok
+6.5. Elektrolízis
+6.5.1. Olvadékelektrolízis
+6.5.2. Vizes oldat elektrolízise
+6.5.3. Faraday-törvények
+7.1. Hidrogén
+7.1.1. Tulajdonságok
+7.1.2. Előfordulás, előállítás
+7.1.3. Reakciók
+7.1.4. Felhasználása
+7.1.5. Hidrogénvegyületek
+7.2 Nemesgázok
+7.3. Halogénelemek
+7.3.1. Tulajdonságok
+7.3.2. Előfordulás, előállítás
+7.3.3. Reakciók
+7.3.4. Felhasználás
+7.4. Halogénvegyületek
+7.4.1. Hidrogén-halogenidek
+7.4.2. Egyéb halogénvegyületek
+7.4.3. Halogenidionok vizes oldatban
+8.1. Elemi oxigén és kén
+8.1.1. Tulajdonságok
+8.1.2. Előfordulás, előállítás
+8.1.3. Reakciók
+8.1.4. Felhasználás
+8.2. Oxigénvegyületek
+8.2.1. Oxigénvegyületek csoportosítása
+8.2.2. A víz
+8.2.3. Hidrogén-peroxid
+8.3. Kénvegyületek
+8.3.1. Kénhidrogén
+8.3.2. Kén-dioxid, kénessav
+8.3.3. Kén-trioxid, kénsav
+9.1. Elemi nitrogén és foszfor
+9.1.1. Tulajdonságok
+9.1.2. Előfordulás, előállítás
+9.1.3. Reakciók
+9.1.4. Felhasználás
+9.2. A nitrogén és a foszfor vegyületei
+9.2.1. Ammónia
+9.2.2. Oxidok
+9.2.3. Savak
+9.2.4. Sók
+9.2.5. Ionjaik vizes oldatban
+10.1. Elemi szén és szilícium
+10.1.1. Tulajdonságok
+10.1.2. Előfordulás a természetben
+10.1.3. Reakciók
+10.1.4. Felhasználás
+10.2. A szén és a szilícium vegyületei
+10.2.1. Szén-monoxid
+10.2.2. Szén-dioxid
+10.2.3. Szilícium-dioxid
+10.2.4. Szénsav, kovasav
+10.2.5. Szilikonok
+11.1. Alkálifémek
+11.1.1. Tulajdonságok
+11.1.2. Előfordulás, előállítás
+11.1.3. Reakciók
+11.4. Felhasználás
+11.2. Alkáliföldfémek
+11.2.1. Tulajdonságok
+11.2.2. Előfordulás a természetben
+11.2.3. Reakciók
+11.3. Az alkálifémek és alkáliföldfémek vegyületei
+11.3.1. Hidridek
+11.3.2. Halogénvegyületek
+11.3.3. Oxidok, hidroxidok
+11.3.4. Szulfátok, nátrium-tioszulfát
+11.3.5. Nitrátok, nitritek
+11.3.6. Foszfátok
+11.3.7. Szén- és szilíciumvegyületek
+11.3.8. Ionjaik vizes oldatban
+12.1. Alumínium, ón és ólom
+12.1.1. Az alumínium tulajdonságai
+12.1.2. Az alumínium előfordulása és előállítása
+12.1.3. Az alumínium reakciói
+12.1.4. Az alumínium felhasználása
+12.1.5. Az alumínium vegyületei és ionja
+12.1.6. Ón és ólom
+12.2. Vascsoport
+12.2.1. Az elemek tulajdonságai
+12.2.2. A vas előfordulása és előállítása
+12.2.3. Reakciók
+12.2.4. Vegyületek
+12.2.5. Ionjaik vizes oldatban
+12.3. Rézcsoport
+12.3.1. A rézcsoport elemei
+12.3.2. A rézcsoport elemeinek vegyületei
+12.3.3. Réz- és ezüstionok vizes oldatban
+12.4. A d-mező további fémei
+12.4.1. Cink, higany
+12.4.2. Mangán

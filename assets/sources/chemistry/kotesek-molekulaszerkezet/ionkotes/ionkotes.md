@@ -1,0 +1,7 @@
+## Ionkötés
+Ionkötés kialakulása. Az ionkötés a pozitív és negatív ionok közötti elektrosztatikus vonzás. A kis elektronegativitású elemek atomjai elektronleadással tudnak stabilizálódni, a nagyobb elektronegativitású elemek pedig elektronfelvétellel. Ha egymásnak adják át az elektronjaikat, a képződő ellentétes töltésű ionok között ionkötés alakul ki. Például a nátriumatom szívesen ad le egy elektront, a fluoratom pedig felveszi azt. Így két nemesgázszerkezetű ion keletkezik (Na+ és F–), amelyek vonzzák egymást:
+Na → Na+ + e–
+F + e– → F–
+Ha két atom elektronegativitásának különbsége kellően nagy (például az egyik egy fém, a másik nemfém), akkor közöttük ionkötés kialakulására számíthatunk.
+Ionrács. Az ellentétes töltésű ionok közötti vonzás rendszerint nem csak két részecskére terjed ki. Szilárd halmazállapotban az anyagban levő összes ion egy szabályos térbeli szerkezetbe (kristályrácsba) rendeződik, amelyben a pozitív és a negatív ionok felváltva helyezkednek el.
+Ionok aránya. A létrejövő ionvegyület a különböző töltésű ionokat olyan arányban tartalmazza, hogy a pozitív és a negatív töltések összege nulla legyen. Például kalciumionok (Ca2+) és bromidionok (Br–) által alkotott ionrácsban egy kalciumionra két bromidion jut, azaz a képlet CaBr2.

@@ -8,142 +8,142 @@
     "topics": [
       {
         "id": "bevezetes-biologiaba",
-        "name": "1. Bevezetés a biológiába",
+        "name": "Bevezetés a biológiába",
         "description": "Introduction to Biology - Foundational concepts of biology",
         "difficulty": "Beginner",
         "time": "3 Hours",
         "modules": [
           {
             "id": "biologia-tudomanya",
-            "name": "1.1. A biológia tudománya",
+            "name": "A biológia tudománya",
             "description": "Characteristics of living organisms and research methods"
           },
           {
             "id": "fizikai-kemiai-alapismeretek",
-            "name": "1.2. Fizikai, kémiai alapismeretek",
+            "name": "Fizikai, kémiai alapismeretek",
             "description": "Basic physical and chemical fundamentals"
           }
         ]
       },
       {
         "id": "egyed-alatti-szervezodes",
-        "name": "2. Egyed alatti szerveződési szint",
+        "name": "Egyed alatti szerveződési szint",
         "description": "Subcellular and cellular organization",
         "difficulty": "Intermediate",
         "time": "5 Hours",
         "modules": [
           {
             "id": "szervezetek-alkototelelemek",
-            "name": "2.1. Szervezetek és szerves alkotóelemek",
+            "name": "Szervezetek és szerves alkotóelemek",
             "description": "Elements, molecules, lipids, carbohydrates, proteins, nucleic acids, and laboratory activities"
           },
           {
             "id": "anyagsere-folyamatai",
-            "name": "2.2. Az anyagsere folyamatai",
+            "name": "Az anyagsere folyamatai",
             "description": "Cellular metabolism, nutrition and metabolic pathways"
           },
           {
             "id": "sejtalkatotok-eukariotak",
-            "name": "2.3. Sejtalkatotók az eukarióta sejtben",
+            "name": "Sejtalkatotók az eukarióta sejtben",
             "description": "Eukaryotic cell structure and organelles"
           }
         ]
       },
       {
         "id": "egyed-szervezodesi-szintje",
-        "name": "3. Az egyed szerveződési szintje",
+        "name": "Az egyed szerveződési szintje",
         "description": "Organism level organization - cellular to multicellular",
         "difficulty": "Intermediate",
         "time": "4 Hours",
         "modules": [
           {
             "id": "nem-sejtes-rendszerek",
-            "name": "3.1. Nem sejtes rendszerek",
+            "name": "Nem sejtes rendszerek",
             "description": "Non-cellular organisms - Viruses and Prions"
           },
           {
             "id": "sejtes-rendszerek",
-            "name": "3.2. Sejtes rendszerek",
+            "name": "Sejtes rendszerek",
             "description": "Prokaryotes and Eukaryotes"
           },
           {
             "id": "tobsejtut-eukariota",
-            "name": "3.3. Többsejtű eukarióták",
+            "name": "Többsejtű eukarióták",
             "description": "Multicellular eukaryotes and their characteristics"
           },
           {
             "id": "szovetek-szervezetek",
-            "name": "3.4. Szövetek, szervezetek, szerrendszerek, testájak",
+            "name": "Szövetek, szervezetek, szerrendszerek, testájak",
             "description": "Tissue and organism systems organization"
           }
         ]
       },
       {
         "id": "emberi-szervezet",
-        "name": "4. Az emberi szervezet",
+        "name": "Az emberi szervezet",
         "description": "Comprehensive study of human body systems and functions",
         "difficulty": "Advanced Intermediate",
         "time": "8 Hours",
         "modules": [
           {
             "id": "homeostazis",
-            "name": "4.1. Homeostázis",
+            "name": "Homeostázis",
             "description": "Homeostasis and systemic perspective in human body",
             "questions": 20,
             "icon": "balance"
           },
           {
             "id": "kultakaro",
-            "name": "4.2. Kültakaró",
+            "name": "Kültakaró",
             "description": "Skin structure and function, skin care and defense",
             "questions": 51,
             "icon": "layers"
           },
           {
             "id": "mozgas",
-            "name": "4.3. A mozgás",
+            "name": "A mozgás",
             "description": "Skeletal anatomy, muscle types, muscular system health",
             "questions": 20,
             "icon": "fitness_center"
           },
           {
             "id": "taplalkozas",
-            "name": "4.4. A táplálkozás",
+            "name": "A táplálkozás",
             "description": "Nutrition, digestion, metabolism and nutritional health",
             "questions": 48,
             "icon": "restaurant"
           },
           {
             "id": "legzes",
-            "name": "4.5. A légzés",
+            "name": "A légzés",
             "description": "Respiratory system, gas exchange and breathing health",
             "questions": 19,
             "icon": "air"
           },
           {
             "id": "anyagszallitas",
-            "name": "4.6. Az anyagszállítás",
+            "name": "Az anyagszállítás",
             "description": "Circulatory system, blood composition and cardiovascular health",
             "questions": 20,
             "icon": "favorite"
           },
           {
             "id": "kivalasztas",
-            "name": "4.7. A kiválasztás",
+            "name": "A kiválasztás",
             "description": "Urinary system, kidney function and waste elimination",
             "questions": 17,
             "icon": "water_drop"
           },
           {
             "id": "szabalyozas",
-            "name": "4.8. A szabályozás",
+            "name": "A szabályozás",
             "description": "Nervous and endocrine systems, hormonal regulation and immune function",
             "questions": 170,
             "icon": "settings_input_component"
           },
           {
             "id": "szaporodas-egyedfejlodes",
-            "name": "4.9. Szaporodás és egyedfejlődés",
+            "name": "Szaporodás és egyedfejlődés",
             "description": "Reproduction, sexual development and offspring development",
             "questions": 49,
             "icon": "family_history"
@@ -152,64 +152,64 @@
       },
       {
         "id": "egyed-feletti-szervezodes",
-        "name": "5. Egyed feletti szerveződési szintek",
+        "name": "Egyed feletti szerveződési szintek",
         "description": "Population and ecosystem organization levels",
         "difficulty": "Intermediate",
         "time": "4 Hours",
         "modules": [
           {
             "id": "populacio",
-            "name": "5.1. Populáció",
+            "name": "Populáció",
             "description": "Population characteristics, environmental relationships and population dynamics"
           },
           {
             "id": "eletkozsosegek",
-            "name": "5.2. Életközösségek",
+            "name": "Életközösségek",
             "description": "Ecological communities and species interactions"
           },
           {
             "id": "okoszisztema",
-            "name": "5.4. Ökoszisztéma",
+            "name": "Ökoszisztéma",
             "description": "Ecosystem structure, energy flow and biological relationships"
           },
           {
             "id": "biosfora-kornyezet",
-            "name": "5.3. Bioszféra 5.5. Környezet- és természetvédelem 5.6. Fenntarthatóság",
+            "name": "Bioszféra 5.5. Környezet- és természetvédelem 5.6. Fenntarthatóság",
             "description": "Global processes, environmental protection and sustainable development"
           }
         ]
       },
       {
         "id": "oroklodes-evolucio",
-        "name": "6. Öröklödés, változékonyság, evolúció",
+        "name": "Öröklödés, változékonyság, evolúció",
         "description": "Genetics, inheritance and evolutionary biology",
         "difficulty": "Advanced Intermediate",
         "time": "5 Hours",
         "modules": [
           {
             "id": "molekularis-genetika",
-            "name": "6.1. Molekuláris genetika",
+            "name": "Molekuláris genetika",
             "description": "DNA structure, replication, transcription and translation processes",
             "questions": 0,
             "icon": "biotech"
           },
           {
             "id": "mendeli-genetika",
-            "name": "6.2. Mendeli genetika",
+            "name": "Mendeli genetika",
             "description": "Mendelian inheritance patterns, genetic variation and population genetics",
             "questions": 0,
             "icon": "account_tree"
           },
           {
             "id": "evolucio",
-            "name": "6.3. Evolúció",
+            "name": "Evolúció",
             "description": "Evolution mechanisms, Darwin's theory, Hardy-Weinberg model and evolutionary change",
             "questions": 0,
             "icon": "trending_up"
           },
           {
             "id": "bioszfera-evolucio",
-            "name": "6.4. A bioszféra evolúciója",
+            "name": "A bioszféra evolúciója",
             "description": "Evolution mechanisms, Darwin's theory, Hardy-Weinberg model and evolutionary change",
             "questions": 0,
             "icon": "public"
@@ -630,8 +630,322 @@
     "id": "chemistry",
     "name": "Chemistry",
     "icon": "science",
-    "description": "Currently studying: Organic Chemistry. Focus on carbon-based compounds and reactions.",
-    "next": "Inorganic Chemistry",
-    "topics": []
+    "description": "General and Inorganic Chemistry curriculum covering atomic structure, chemical bonding, chemical reactions, and the properties of elements.",
+    "next": "Organic Chemistry",
+    "topics": [
+      {
+        "id": "az-atom-felepitese",
+        "name": "Az atom felépítése és a periódusos rendszer",
+        "description": "Atomic structure and the organization of the periodic table.",
+        "difficulty": "Beginner",
+        "time": "4 Hours",
+        "modules": [
+          {
+            "id": "atomok",
+            "name": "Atomok",
+            "description": "The atomic nucleus, electron cloud, and atomic size."
+          },
+          {
+            "id": "egyszeru-ionok",
+            "name": "Egyszerű ionok",
+            "description": "Ion formation from atoms and characteristic data of ions."
+          },
+          {
+            "id": "periodusos-rendszer",
+            "name": "A periódusos rendszer",
+            "description": "Structure and periodically changing properties of elements."
+          }
+        ]
+      },
+      {
+        "id": "kotesek-molekulaszerkezet",
+        "name": "Kötések és molekulaszerkezet",
+        "description": "Chemical bonds and the resulting geometry and polarity of molecules.",
+        "difficulty": "Intermediate",
+        "time": "5 Hours",
+        "modules": [
+          {
+            "id": "ionkotes",
+            "name": "Ionkötés",
+            "description": "Formation and properties of ionic bonds."
+          },
+          {
+            "id": "femes-kotes",
+            "name": "Fémes kötés",
+            "description": "Characteristics of metallic bonding."
+          },
+          {
+            "id": "kovalens-kotes",
+            "name": "Kovalens kötés",
+            "description": "Formation, parameters, delocalization, and structural formulas."
+          },
+          {
+            "id": "kotestipus-megallapitasa",
+            "name": "A kötéstípus megállapítása",
+            "description": "Determining the type of chemical bond."
+          },
+          {
+            "id": "molekulak-teralkata",
+            "name": "Molekulák és összetett ionok téralkata",
+            "description": "The spatial arrangement and geometry of molecules and complex ions."
+          },
+          {
+            "id": "molekulak-polaritasa",
+            "name": "Molekulák polaritása",
+            "description": "Factors determining the polarity of molecules."
+          }
+        ]
+      },
+      {
+        "id": "anyagi-halmazok",
+        "name": "Anyagi halmazok",
+        "description": "States of matter, solid/liquid/gas properties, and solutions.",
+        "difficulty": "Intermediate",
+        "time": "6 Hours",
+        "modules": [
+          {
+            "id": "halmazok-csoportositasa",
+            "name": "Halmazok csoportosítása",
+            "description": "Classification of material systems."
+          },
+          {
+            "id": "halmazallapotok-valtozasok",
+            "name": "Halmazállapotok és változások",
+            "description": "Phase structures and factors affecting melting/boiling points."
+          },
+          {
+            "id": "szilard-anyagok",
+            "name": "Szilárd anyagok",
+            "description": "Crystal lattices, secondary chemical bonds, and special solid structures."
+          },
+          {
+            "id": "folyekony-halmaz",
+            "name": "Folyadékok és gázok",
+            "description": "Characteristics of liquids, mixing, and properties of gases."
+          },
+          {
+            "id": "oldatok",
+            "name": "Oldatok",
+            "description": "Dissolution processes, saturation, and solubility rules."
+          },
+          {
+            "id": "inhomogen-rendszerek",
+            "name": "Inhomogén kémiai rendszerek",
+            "description": "Disperse systems, colloids, and surface chemistry."
+          }
+        ]
+      },
+      {
+        "id": "reakciok-es-egyensuly",
+        "name": "Kémiai reakciók és egyensúly",
+        "description": "Reaction rates, thermodynamics, and chemical equilibrium.",
+        "difficulty": "Intermediate",
+        "time": "5 Hours",
+        "modules": [
+          {
+            "id": "reakcioegyenlet",
+            "name": "A reakcióegyenlet",
+            "description": "Writing and balancing chemical equations."
+          },
+          {
+            "id": "reakciosebesseg",
+            "name": "Reakciósebesség",
+            "description": "Factors influencing the speed of chemical reactions."
+          },
+          {
+            "id": "termokemia",
+            "name": "Termokémia",
+            "description": "Energy changes in physical and chemical processes."
+          },
+          {
+            "id": "kemiai-egyensuly",
+            "name": "Kémiai egyensúly",
+            "description": "Formation and shifting of chemical equilibrium."
+          }
+        ]
+      },
+      {
+        "id": "savak-es-bazisok",
+        "name": "Savak és bázisok",
+        "description": "Proton transfer reactions, pH scale, and acid-base behaviors.",
+        "difficulty": "Intermediate",
+        "time": "5 Hours",
+        "modules": [
+          {
+            "id": "sav-bazis-elmeletek",
+            "name": "Sav-bázis elméletek",
+            "description": "Arrhenius and Brönsted theories of acids and bases."
+          },
+          {
+            "id": "vizes-oldatok-kemiahatasa",
+            "name": "Vizes oldatok kémhatása",
+            "description": "Acidity, alkalinity, the pH scale, and indicators."
+          },
+          {
+            "id": "sav-bazis-reakciok",
+            "name": "Reakciók savakkal és bázisokkal",
+            "description": "Neutralization, salt hydrolysis, and acid-base properties."
+          }
+        ]
+      },
+      {
+        "id": "redoxi-elektrokemia",
+        "name": "Redoxifolyamatok és elektrokémia",
+        "description": "Electron transfer, oxidation numbers, and electrochemical systems.",
+        "difficulty": "Advanced",
+        "time": "6 Hours",
+        "modules": [
+          {
+            "id": "oxidacio-redukcio",
+            "name": "Redukció, oxidáció és oxidációs szám",
+            "description": "Rules for oxidation numbers and identifies redox processes."
+          },
+          {
+            "id": "redoxi-iranya",
+            "name": "Redoxifolyamatok iránya",
+            "description": "Determining the direction of electron transfer."
+          },
+          {
+            "id": "galvanelemek-elektrolizis",
+            "name": "Galvánelemek és elektrolízis",
+            "description": "Electrodes, cell processes, and Faraday's laws."
+          }
+        ]
+      },
+      {
+        "id": "hidrogen-halogenek",
+        "name": "Hidrogén és a halogénelemek",
+        "description": "Properties and compounds of Hydrogen and Group 17 elements.",
+        "difficulty": "Intermediate",
+        "time": "4 Hours",
+        "modules": [
+          {
+            "id": "hidrogen",
+            "name": "Hidrogén",
+            "description": "Properties, preparation, reactions, and compounds of Hydrogen."
+          },
+          {
+            "id": "nemesgazok",
+            "name": "Nemesgázok",
+            "description": "Characteristics and occurrence of noble gases."
+          },
+          {
+            "id": "halogenelemek-vegyuletek",
+            "name": "Halogének és vegyületeik",
+            "description": "Properties, preparation, hydrogen halides, and halide ions."
+          }
+        ]
+      },
+      {
+        "id": "oxigen-ken",
+        "name": "Oxigén és kén",
+        "description": "The chemistry of the oxygen group elements and their vital compounds.",
+        "difficulty": "Intermediate",
+        "time": "4 Hours",
+        "modules": [
+          {
+            "id": "oxigen-ken-elemek",
+            "name": "Elemi oxigén és kén",
+            "description": "Properties, preparation, and reactions of elemental O and S."
+          },
+          {
+            "id": "oxigenvegyuletek",
+            "name": "Oxigénvegyületek",
+            "description": "Classification of oxides, properties of water, and hydrogen peroxide."
+          },
+          {
+            "id": "kenvegyuletek",
+            "name": "Kénvegyületek",
+            "description": "Hydrogen sulfide, sulfur dioxide, and sulfuric acid."
+          }
+        ]
+      },
+      {
+        "id": "nitrogen-foszfor",
+        "name": "Nitrogén és foszfor",
+        "description": "Chemistry of Group 15 elements and their compounds.",
+        "difficulty": "Intermediate",
+        "time": "4 Hours",
+        "modules": [
+          {
+            "id": "nitrogen-foszfor-elem",
+            "name": "Elemi nitrogén és foszfor",
+            "description": "Properties, preparation, and reactions of elemental N and P."
+          },
+          {
+            "id": "nitrogen-foszfor-vegyuletek",
+            "name": "A nitrogén és a foszfor vegyületei",
+            "description": "Ammonia, nitric acid, oxides, and salts."
+          }
+        ]
+      },
+      {
+        "id": "szen-szilicium",
+        "name": "Szén és szilícium",
+        "description": "Chemistry of Group 14 elements and their compounds.",
+        "difficulty": "Intermediate",
+        "time": "4 Hours",
+        "modules": [
+          {
+            "id": "szen-szilicium-elem",
+            "name": "Elemi szén és szilícium",
+            "description": "Properties, occurrences, and reactions of elemental C and Si."
+          },
+          {
+            "id": "szen-szilicium-vegyuletek",
+            "name": "A szén és a szilícium vegyületei",
+            "description": "Carbon oxides, silica, acids, and silicones."
+          }
+        ]
+      },
+      {
+        "id": "alkalifemek",
+        "name": "Alkálifémek és alkáliföldfémek",
+        "description": "Properties and salts of s-block metals.",
+        "difficulty": "Intermediate",
+        "time": "4 Hours",
+        "modules": [
+          {
+            "id": "s-mezo-femei",
+            "name": "Az elemek tulajdonságai",
+            "description": "Properties, preparation, and reactions of Groups 1 and 2."
+          },
+          {
+            "id": "alkali-vegyuletek",
+            "name": "Alkálifém- és alkáliföldfém-vegyületek",
+            "description": "Hydrides, halides, oxides, sulfates, and nitrates."
+          }
+        ]
+      },
+      {
+        "id": "p-d-mezo-femei",
+        "name": "A p- és d-mező fémjei",
+        "description": "Main group and transition metals.",
+        "difficulty": "Advanced Intermediate",
+        "time": "6 Hours",
+        "modules": [
+          {
+            "id": "al-sn-pb",
+            "name": "Alumínium, ón és ólom",
+            "description": "Properties, preparation, reactions, and compounds."
+          },
+          {
+            "id": "vascsoport",
+            "name": "Vascsoport",
+            "description": "Chemistry of Iron, including occurrence and compounds."
+          },
+          {
+            "id": "rezcsoport",
+            "name": "Rézcsoport",
+            "description": "Copper, Silver, and Gold chemistry."
+          },
+          {
+            "id": "tovabbi-femek",
+            "name": "A d-mező további fémei",
+            "description": "Chemistry of Zinc, Mercury, and Manganese."
+          }
+        ]
+      }
+    ]
   }
 ]
