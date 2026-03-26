@@ -1,0 +1,109 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi az egyszerű ion és hogyan képződik?",
+      "definition": "Az egyszerű ion egy olyan részecske, amely egy atomból képződik az elektronleadás vagy elektronfelvétel útján, így töltésse válik.",
+      "quote": "Töltött atom az ion",
+      "text": "Az egyszerű ionok az atomokkal szemben elektromosan töltöttek, mivel az elektronok száma eltér a protonok számától. Pozitív iont kationnak, negatív iont anionnak nevezünk. Az ionok sokkal stabilabbak lehetnek, mint az eredeti atom, mivel nemesgázszerkezetet érnének el."
+    },
+    {
+      "id": 2,
+      "term": "Mi a nemesgázszerkezet és miért stabil?",
+      "definition": "A nemesgázszerkezet egy olyan elektronszerkezet, amelyben az összes alhéj, amely elektronokat tartalmaz, teljesen fel van töltve, ami kiemelkedően stabil állapotot jelent.",
+      "quote": "Teljes alhéjak = nagyon stabil",
+      "text": "A nemesgázok (He, Ne, Ar, Kr, Xe, Rn) rendelkeznek ezzel a szerkezettel. Ez az elektronszerkezet jellemzi az első nyolc elemet: 1s² (He) vagy 1s² 2s² 2p⁶ (Ne). A többi elem erre az elektronszerkezetre törekszik, hogy nagyobb stabilitást érjen el."
+    },
+    {
+      "id": 3,
+      "term": "Miért és hogyan képeznek katiókat az alkálifémek?",
+      "definition": "Az alkálifémek (I. főcsoport) egy elektront leadva képeznek egyszeresen pozitív katiókat (Na⁺, K⁺, stb.), mert ezzel nemesgázszerkezetet érhetnek el.",
+      "quote": "Egy elektron leadása: katión",
+      "text": "Az alkálifémek vegyértékhéjában csak egy elektron van. Ez az elektron eltávolítása után az előző héj lezárt (nemesgázszerkezet) lesz. Például a nátrium: Na → Na⁺ + e⁻. A Na⁺ elektronszerkezete azonos a neonéval (1s² 2s² 2p⁶)."
+    },
+    {
+      "id": 4,
+      "term": "Miért és hogyan képeznek aniókat a halogének?",
+      "definition": "A halogének (VII. főcsoport) egy elektront felvéve képeznek egyszeresen negatív aniókat (F⁻, Cl⁻, stb.), mert ezzel nemesgázszerkezetet érhetnek el.",
+      "quote": "Egy elektron felvétele: anión",
+      "text": "A halogének vegyértékhéjában 7 elektron van, így csak egy elektronra van szükség a nemesgázszerkezet eléréséhez. Például a bróm: Br + e⁻ → Br⁻. A Br⁻ elektronszerkezete azonos a kripton (Kr) elektronszerkezetével."
+    },
+    {
+      "id": 5,
+      "term": "Mi a képlete a nátrium ionképződésének?",
+      "definition": "A nátrium elektronleadás útján katiónt képez: Na → Na⁺ + e⁻, vagy részletesebben: Na(g) → Na⁺(g) + e⁻.",
+      "quote": "Nátrium veszít elektront",
+      "text": "A nátrium elektronszerkezete: 1s² 2s² 2p⁶ 3s¹. Az egyetlen vegyértékelektron (3s¹) elhágy, így a Na⁺ ionnak az elektronszerkezete: 1s² 2s² 2p⁶, amely azonos a neonéval, egy sokkal stabilabb állapot."
+    },
+    {
+      "id": 6,
+      "term": "Mi a képlete a brómion képződésének?",
+      "definition": "A brómion elektronbevétel útján képződik: Br + e⁻ → Br⁻, vagy gáz állapotban: Br(g) + e⁻ → Br⁻(g).",
+      "quote": "Bróm felvesz elektront",
+      "text": "A brómnak a vegyértékhéjában 7 elektron van ([Ar] 3d¹⁰ 4s² 4p⁵). Egy elektron felvételével a Br⁻ ionná válhat, amely elektronszerkezete: [Ar] 3d¹⁰ 4s² 4p⁶, azonos a kripton elektronszerkezetével."
+    },
+    {
+      "id": 7,
+      "term": "Mit jelent az ionsugár és mely ionok nagyobbak?",
+      "definition": "Az ionsugár az ion mérete, amely az ionmagban és az elektronburokra közötti távolságot jelenti. A pozitív ionok mindig kisebbek, a negatív ionok pedig nagyobbak, mint az eredeti atom.",
+      "quote": "Katión kicsi, anión nagy",
+      "text": "A pozitív ionok szűkültek, mert elektronokat vesztett az atom, így az atommag erősebben vonzza az megmaradt elektronokat. A negatív ionok azonban tágultak, mert az extra elektronok között nagyobb az elektrontaszítás. Például Na (186 pm) > Na⁺ (102 pm) és Cl (99 pm) < Cl⁻ (181 pm)."
+    },
+    {
+      "id": 8,
+      "term": "Hogyan viszonyulnak egymáshoz az azonos elemből képződő különböző ionok méretei?",
+      "definition": "Ha egy atom több féle iont is képez (például Fe²⁺ és Fe³⁺), közülük az lesz a kisebb méretű, amelynek kevesebb az elektronja, azaz magasabb az oxidációs száma.",
+      "quote": "Több proton = kisebb ion",
+      "text": "A vas (Fe) mind Fe²⁺, mind Fe³⁺ iont képezhet. Az Fe³⁺ ion (amely egy elektronnal kevesebb) kisebb, mint az Fe²⁺. Ennek oka, hogy az Fe³⁺-ben az atommag erősebben vonzza a megmaradt elektronokat az Fe²⁺-hez képest."
+    },
+    {
+      "id": 9,
+      "term": "Mi az első ionizációs energia (Ei1)?",
+      "definition": "Az első ionizációs energia az az energiaváltozás, amely 1 mól gáz halmazállapotú atom legkönnyebben leszakítható (legkülső) elektronjának eltávolításához szükséges: A(g) → A⁺(g) + e⁻.",
+      "quote": "Energia elektron eltávolításához",
+      "text": "Az első ionizációs energia nagyobb, ha az elektront nehéz leszakítani, például a nemesgázok nagy ionizációs energiájúak (He: 2373 kJ/mol), míg az alkálifémek kicsik (Na: 496 kJ/mol). Az érték az adott atom elektronszerkezetétől és az elektron távolságától függ az atommagtól."
+    },
+    {
+      "id": 10,
+      "term": "Mi a második ionizációs energia (Ei2)?",
+      "definition": "A második ionizációs energia az az energiaváltozás, amely az első ionizáció után kapott pozitív ionból egy további elektron eltávolításához szükséges.",
+      "quote": "Másik elektron eltávolításához",
+      "text": "A második ionizációs energia mindig nagyobb, mint az első, mert az atomból már egy elektront eltávolítottunk. A nagy ugrás az ionizációs energiában akkor fordul elő, amikor egy lezárt (nemesgázszerkezetű) alhéjat kell felbontani. Például a nátriumnak az Ei2 értéke (4562 kJ/mol) sokkal nagyobb, mint Ei1 (496 kJ/mol)."
+    },
+    {
+      "id": 11,
+      "term": "Mitől függ az ionizációs energia nagysága és hogyan változik?",
+      "definition": "Az ionizációs energia nagyobb, ha az elektront nehéz leszakítani, ami az elektronszerkezet kedvezőtlenségétől függ. A nemesgázok nagy ionizációs energiájúak, mivel az elektron eltávolítása nemesgázszerkezetet bontana fel.",
+      "quote": "Stabil szerkezet = nagy energia",
+      "text": "Ha az ionképződés után az ion elektronszerkezete kedvezőtlenebb (például egy nemesgázszerkezet bontásával jár), az ionizációs energia nagyobb. Ha az ionképződés kedvezőbb szerkezetet hoz (például nemesgázszerkezet alakulna ki), az ionizációs energia kisebb."
+    },
+    {
+      "id": 12,
+      "term": "Mi az elektronaffinitás (Ea) és hogyan definiáljuk?",
+      "definition": "Az elektronaffinitás az az energiaváltozás, amely az egyszeresen negatív töltésű ion képződéskor történik: A(g) + e⁻ → A⁻(g), 1 mól gáz halmazállapotú atomra vonatkoztatva.",
+      "quote": "Energia elektron felvételének",
+      "text": "Az elektronaffinitás pozitív értékeket jelent, ha energia szabadul fel az elektron felvételénél (exoterm folyamat). Az elektronaffinitás értékei kevésbé rendszeres trendeket mutatnak, mint az ionizációs energia. A halogének magas elektronaffinitásúak, mivel az elektron felvételével nemesgázszerkezetet érnek el."
+    },
+    {
+      "id": 13,
+      "term": "Hogyan keletkezik a Na⁺ ion és mi az elektronszerkezete?",
+      "definition": "A nátrium atom egy elektront leadva Na⁺ ionná alakul: Na → Na⁺ + e⁻. Az Na⁺ ion elektronszerkezete: 1s² 2s² 2p⁶, amely azonos a neon elektronszerkezetével.",
+      "quote": "Nátrium: [Ne] szerkezet",
+      "text": "A nátrium eredeti elektronszerkezete: 1s² 2s² 2p⁶ 3s¹. Az egyetlen vegyértékelektron (3s¹) eltávolítása után a Na⁺ nemesgázszerkezetet kap. Ez az ionszerkezet nagyon stabil és a Na ionok ebben az állapotban fordulnak elő sóaban és oldatban."
+    },
+    {
+      "id": 14,
+      "term": "Hogyan keletkezik a Cl⁻ ion és mi az elektronszerkezete?",
+      "definition": "A klór atom egy elektront felvéve Cl⁻ ionná alakul: Cl + e⁻ → Cl⁻. Az Cl⁻ ion elektronszerkezete: 1s² 2s² 2p⁶ 3s² 3p⁶, amely azonos az argon elektronszerkezetével.",
+      "quote": "Klór: [Ar] szerkezet",
+      "text": "A klór eredeti elektronszerkezete: 1s² 2s² 2p⁶ 3s² 3p⁵. Egy elektron felvételével a Cl⁻ nemesgázszerkezetet (3s² 3p⁶) kap. A klór mindig anionként fordul elő, mivel az elektron felvétele stabilabbá teszi az atomot."
+    },
+    {
+      "id": 15,
+      "term": "Milyen elhárítási feltételek valósulnak meg az ionképzéskor?",
+      "definition": "Az ionképzéskor az atom vagy egy elektront lead (katión képződés) vagy felvesz (anión képződés), hogy az eredmény nemesgázszerkezet legyen, amely maximális stabilitást biztosít.",
+      "quote": "Nemesgázszerkezet: végcél",
+      "text": "Az I. főcsoportbeli elemek (alkálifémek, hidrogén) egy elektront leadnak, az II. főcsoportbeli (alkáliföldfémek) kettőt, az III. főcsoport elemei egy-kettőt adnak le, míg az V-VII. főcsoport elemei elektronokat vesznek fel (3-7-1 elektronok). Nem minden elem képez egyszerű iont - például a szénatomok inkább kovalens kötéseket képeznek."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi az oldat?",
+      "definition": "Az oldat egy cseppfolyós oldószerből és legalább egy másik anyagból (oldott anyag) áll, amely szilárd, folyadék vagy gázhalmazállapotú lehet. A rendszer homogén és egyfázisú.",
+      "quote": "Oldószer + oldott anyag: homogén",
+      "text": "Az oldatban az oldott anyag részecskéi tökéletesen elkeverednek az oldószer részecskéivel, így makroszkópikusan homogén, egynemű rendszert kapunk. Az oldatok klasszikus példái a vízben oldott sók, a légköri gázok vízben oldva, vagy az alkohol és víz keveréke. Az oldat összetétele változtatható az oldott anyag mennyiségének módosításával."
+    },
+    {
+      "id": 2,
+      "term": "Mi a hidratáció?",
+      "definition": "A hidratáció az a folyamat, amikor egy ionos vegyület vízben való oldódása során az ionokat vízmolekulák veszik körül, hidrátburok alakul ki.",
+      "quote": "Ionok: vízfelhő, hidratáció",
+      "text": "Az ionok elektrosztatikus vonzást gyakorolnak a víz poláris molekuláira. A pozitív ionokat a víz oxigén végei vonzzák, a negatív ionokat a hidrogén végei. Az ion körül egy vagy több vízmolekulás réteg alakul ki, amit hidratburknak nevezünk. A hidratált ionokat a vegyjelük után '(aq)' rövidítéssel jelölik, például Na+(aq) vagy Cl⁻(aq)."
+    },
+    {
+      "id": 3,
+      "term": "Mi a szolvatáció?",
+      "definition": "A szolvatáció a hidratáció általánosabb esete, amikor nem vízben, hanem más oldószerben (oldószer) oldódik egy anyag, és az oldószer molekulái veszik körül az oldódott részecskét.",
+      "quote": "Általános oldatképzés: szolvatáció",
+      "text": "Ha a hidratáció csak vízre vonatkozik, a szolvatáció más oldószerek esetén is előfordulhat. Például ammoniaoldatban az ionok ammóniamolekulákkal vesznek körül (szolvatáció NH3-mal), amelyet szolvátburknak nevezünk. Az oldószer molekulái az ionok vagy molekulák körül orientálódnak úgy, hogy az oldódás támogatódik."
+    },
+    {
+      "id": 4,
+      "term": "Mi az akvakomplex?",
+      "definition": "Az akvakomplex egy központi fémionból és a hozzá szorosan kapcsolódó, általában hat vízmolekulából álló összetett ion.",
+      "quote": "Fémion + 6 H2O: akvakomplex",
+      "text": "Az akvakomplexek a fémionok hidratációjának speciális esete, ahol az ionhoz szorosan kötött vízmolekulák koordinációs kötéseket képeznek. Például a réz(II)-ion a vízben [Cu(H2O)6]2+ komplexot képez. Az akvakomplexek karakterisztikusan színesek (például a réz-komplexum kék), ami a fémionok azonosítására használható. A koordinációs szám (az ion körül levő ligandumok száma) általában 4 vagy 6."
+    },
+    {
+      "id": 5,
+      "term": "Mi az oldhatóság?",
+      "definition": "Az oldhatóság megadja, hogy egy adott oldószer (tipikusan 100 g víz) az adott anyagból maximálisan hány grammot képes feloldani az adott hőmérsékleten.",
+      "quote": "Max gramm/100g oldószer: oldhatóság",
+      "text": "Az oldhatóság a hőmérsékletfüggő mennyiség, és azt mutatja, hogy az adott körülmények között mennyi anyag oldódhat fel. Például a NaCl oldhatósága 20°C-on 36,3 g / 100 g víz. Az oldhatóság értéke meghatározza, hogy telítetlen, telített vagy túltelített oldatunk van-e. Az oldhatóság nem csak a közönséges anyagoknál, hanem az anyag típusa és az oldószer fajtája alapján is nagy változatosságot mutat."
+    },
+    {
+      "id": 6,
+      "term": "Mi a telítetlen oldat?",
+      "definition": "A telítetlen oldat az, amelyben az oldott anyag mennyisége kisebb az adott hőmérsékleten oldható maximum mennyiségnél.",
+      "quote": "Kevesebb, mint telített: telítetlen",
+      "text": "A telítetlen oldatban még képes feloldódni további oldott anyag. Ha például 20°C-on 20 g NaCl van 100 g vízben (miközben a maximális oldhatóság 36,3 g), a megoldás telítetlen. Telített oldathoz még lehet hozzáadni az anyagot, és az feloldódik. A telítetlen oldatban az oldott és oldószer részecskéi egyensúlyban vannak, de az egyensúly nincs még elérve."
+    },
+    {
+      "id": 7,
+      "term": "Mi a telített oldat?",
+      "definition": "A telített oldat az, amelyben az oldott anyag mennyisége pontosan megegyezik az adott hőmérsékleten oldható maximum mennyiséggel.",
+      "quote": "Pontosan max: telített oldat",
+      "text": "A telített oldat egy dinamikus egyensúlyban levő rendszer, ahol az oldódás és kristályosítás sebessége azonos. Ha például 20°C-on 36,3 g NaCl van 100 g vízben, az oldat telített. A telített oldat stabil, ha nem zavarjuk meg, de a legkisebb behatás (például apró porszem vagy rázás) kristályosítást okozhat. Ez az ideális oldatkoncentráció, ha maximális oldott anyagot szeretnénk, de folyékony fázist akarunk megtartani."
+    },
+    {
+      "id": 8,
+      "term": "Hogyan függ az oldhatóság a hőmérséklettől?",
+      "definition": "A szilárd anyagok oldhatósága általában a hőmérséklettel nő, míg a gázok oldhatósága csökken.",
+      "quote": "Szilárd: nő, gáz: csökken",
+      "text": "A legtöbb ionos és molekuláris szilárd anyag oldhatósága magasabb hőmérsékleten nagyobb. Ezt az endoterm szolvátációs folyamatnak köszönhető. Például a NaCl oldhatósága 20°C-on 36,3 g/100g víz, de 60°C-on már 39,0 g/100g víz. Ezzel szemben a gázok oldhatósága csökken a hőmérséklet növelésével, mert az oldódás egy exoterm folyamat. Ezért a forró vízből előbb buborékok szabadulnak fel, mint a hidegből."
+    },
+    {
+      "id": 9,
+      "term": "Mi az átkristályosítás?",
+      "definition": "Az átkristályosítás a szilárd anyagok megtisztítási módszere, amely a hőmérsékletfüggő oldhatóság kihasználásán alapul.",
+      "quote": "Melegítés, hűtés: tiszta kristályok",
+      "text": "Az átkristályosítás során egy forró, telített oldatot készítünk az anyagból (ahol a szennyezők is oldódnak). Az oldatot óvatosan lehűtjük, amikor az oldhatóság csökken, a főanyag kristályosítódik ki (mert magasabb oldhatósága van a szennyezőknek), míg a szennyezők az oldatban maradnak. A kiváló kristályok szűréssel elválaszthatók az oldatról. Ezt a folyamatot a kémiában gyakran használják a vegyületek tisztítására."
+    },
+    {
+      "id": 10,
+      "term": "Mi a túltelített oldat?",
+      "definition": "A túltelített oldat egy instabil rendszer, amely az adott hőmérsékleten érvényes oldhatóságnál több oldott anyagot tartalmaz.",
+      "quote": "Túl sok: instabil, kristályosodhat",
+      "text": "A túltelített oldatok akkor keletkeznek, ha a telített oldatot очень óvatosan hűtjük le. Az anyag nem kristályosodik ki, hiába csökkent az oldhatóság, mert a kristályosítás nehezen indul meg. A túltelített oldat nagyon instabil: egy apró fizikai behatás (rázás, porszem) miatt hirtelen elkezdődik a kristályosodás, amely addig folytatódik, amíg az oldott anyag mennyisége az oldhatóságnak megfelelően csökken. Ez az eljárás a Glauber-só készítésében vagy szódabikarbóna kristályosításában használatos."
+    },
+    {
+      "id": 11,
+      "term": "Hogyan jelöljük a kristályvízes vegyületeket?",
+      "definition": "A kristályvízes vegyületeket a képlet után '·' (pont) és a vízmolekulák száma jelöli, például CuSO₄·5H₂O.",
+      "quote": "Képlet · szám H2O: kristályvíz",
+      "text": "A CuSO₄·5H₂O azt jelenti, hogy egy mól réz-szulfátban 5 mól víz épül be a kristályrácsba. Ezek a vízmolekulák nem kémiai kötéssel, hanem gyenge intermolekuláris kötésekkel kapcsolódnak. A kristályvíz hatása lehet a vegyület tulajdonságaira - például a réz-szulfát penta-hidrátra kék szín, míg az anhidrid (víz nélküli) forma fehér. A kristályvizet melegítéssel el lehet távolítani, az anyag kiszárad."
+    },
+    {
+      "id": 12,
+      "term": "Mi az a kristályvíz?",
+      "definition": "A kristályvíz az olyan vízmolekulák, amelyek az ion- vagy molekulárácsba integrálódnak, és az anyag kristályformájának részét képezik.",
+      "quote": "Víz a rácsban: kristályvíz",
+      "text": "A kristályvíz a rácsban levő vízmolekulák közvetlenül az ionokhoz vagy molekulákhoz kapcsolódik gyenge (másodrendű) kötésekkel. Ezek a vízmolekulák nem szabad vízként viselkednek, és csak melegítéssel vagy vákuumban lehet azokat el­távolítani. A kristályvízet tartalmazó vegyületek (hidráta) és vízmentes (anhidrid) formái teljesen eltérő tulajdonságokkal rendelkezhetnek, amely az anyagazonosítás során jól hasznosítható."
+    },
+    {
+      "id": 13,
+      "term": "Mit jelent a polaritás az oldódásban?",
+      "definition": "A polaritás az oldódás kulcsfontosságú tényezője: az 'hasonló hasonlót old' alapelv szerint a hasonló polaritású anyagok jól oldódnak egymásban.",
+      "quote": "Hasonló polaritás: jó oldódás",
+      "text": "A poláris anyagok (pl. ionvegyületek, poláris molekulák) az oldószer poláris részével hat kölcsönhatásokat, így jól oldódnak poláris oldószerben (például vízben). Az apoláris anyagok ezzel szemben kevésbé poláris oldószerekben oldódnak jól. Ez a rendszer magyarázatot ad az oldódási folyamatokra: az ionok hidratációja a víz polaritása miatt lehetséges, az apoláris szénhidrogének pedig jobb oldódnak benzinben, mint vízben."
+    },
+    {
+      "id": 14,
+      "term": "Melyek az univerzális oldószerek?",
+      "definition": "Az univerzális oldószerek olyan oldószerek, amelyek poláris és apoláris anyagokat egyaránt oldanak, mert az oldószermolekula poláris és apoláris részt is tartalmaz.",
+      "quote": "Poláris és apoláris: univerzális",
+      "text": "Az etil-alkohol és az aceton az univerzális oldószerek klasszikus példái. Az alkohol molekulájában a -OH csoport poláris, az alkil lánc apoláris. Ez lehetővé teszi, hogy a különféle polaritású anyagok szolvatálódjanak az alkoholban. Az univerzális oldószerek használhatók mind az ionos, mind az apoláris vegyületek oldásához, amely sokoldalú hasznossá teszi őket a laboratóriumban."
+    },
+    {
+      "id": 15,
+      "term": "Miért nem oldódik az olaj vízben?",
+      "definition": "Az olaj nem oldódik vízben, mert lényegesen eltér polaritásában: az olaj apoláris, a víz poláris, így az 'hasonló hasonlót old' alapelv szerint nem egyeznek.",
+      "quote": "Apoláris + poláris: nem oldódik",
+      "text": "A víz molekulái hidrogenb-kötésekkel kötik egymást, de az olaj molekulái (szénhidrogének) csak diszperziós kölcsönhatásokat mutatnak. Az olajmolekulák nem tudnak olyan erős kölcsönhatásokat kialakítani a víz molekuláival, mint amilyenek a víz molekulái között vannak egymás között. Ezért az olaj és víz elválnak, és kétfázisú rendszert képeznek. Ez a klasszikus példa az 'hasonló hasonlót old' alapelvre."
+    },
+    {
+      "id": 16,
+      "term": "Mit jelent az oldódás folyamata?",
+      "definition": "Az oldódás a folyamat, amelynek során az oldott anyag részecskéi szétszóródnak az oldószer térfogatában és szolvatáció vagy hidratáció által körbevett részecskékké válnak.",
+      "quote": "Részecskék szétszóródnak: oldódás",
+      "text": "Az oldódás egy fizikai folyamat, amely során az oldott anyag azonos szerkezetben marad (például az ionok ion maradnak), de környezetük megváltozik (az oldószer molekuláival vesznek körül). Az oldódás energiaváltozással jár: lehet endoterm (hőt felhasznál, az oldat lehűl) vagy exoterm (hőt felszabadul, az oldat felmelegszik). Az oldódási folyamatok gyakran többek között kémiai szolvátáció vagy hidratáció által kísérik."
+    },
+    {
+      "id": 17,
+      "term": "Mit jelent a kémiai oldódás?",
+      "definition": "A kémiai oldódás az a folyamat, amikor az oldódás során az oldott anyag kémiai reakcióba lép az oldószerrel.",
+      "quote": "Kémiai reakció az oldódáskor",
+      "text": "Például a szén-dioxid vízben oldódása során szénsav képződik (CO₂ + H₂O → H₂CO₃). A nátrium vagy kálium víz oldódásakor heves exoterm kémiai reakció zajlik (2Na + 2H₂O → 2NaOH + H₂↑). A kémiai oldódás az anyag szerkezeti változása (nem csak szolvatáció) vagy kémiai termékkeletkezés. Ez ellentétben áll a fizikai oldódással, ahol az anyag szerkezete gyakorlatilag nem változik, csak szolvatálódik."
+    },
+    {
+      "id": 18,
+      "term": "Hogyan befolyásolja az oldószer típusa az oldódást?",
+      "definition": "Az oldószer típusa alapvetően meghatározza, hogy mely anyagok oldódhatnak. A poláris oldószerek az ionos és poláris anyagokat, az apoláris oldószerek az apoláris anyagokat oldják jól.",
+      "quote": "Oldószer választása: polaritás alapján",
+      "text": "A víz az egyik legjobb poláris oldószer, amely sok ionos és poláris vegyületet old jól. Az ilyen apoláris oldószerek (például benzin, etil-éter) az apoláris szénhidrogéneket és egyéb apoláris anyagokat oldják jól. Az oldószer megválasztása ezért kritikus fontosságú, ha egy adott anyagot szeretnénk feloldani. Az univerzális oldószerek (etanol, aceton) mind poláris, mind apoláris anyagokat oldanak."
+    },
+    {
+      "id": 19,
+      "term": "Milyen anyagok oldódnak vízben jól?",
+      "definition": "A vízben jól oldódnak az ionos vegyületek, a poláris molekulák és a hidrogénkötésekre képes anyagok. Rosszabbul oldódnak az apoláris vegyületek.",
+      "quote": "Ionok, poláris molekulák: víz oldja",
+      "text": "A sók (NaCl, KNO₃) jól oldódnak vízben, a cukrok és alkoholok is (hidrogénkötések). A szénhidrogének, az olajok és az illatolja anyagok vízben rosszabbul oldódnak, mert nem tudnak megfelelő kölcsönhatásokat kialakítani a víz molekuláival. Azonban bizonyos kivételek vannak: az ammónia és a hidrogén-halogenidek kémiai oldódást mutatnak, létrehozva az oldatban új vegyületeket (például HCl vízben HCl oldatot ad, amely tulajdonképpen H3O+ és Cl⁻)."
+    },
+    {
+      "id": 20,
+      "term": "Hogyan befolyásolja az oldószer hőmérséklete az oldódási sebességet?",
+      "definition": "A magasabb hőmérséklet általában növeli az oldódási sebességet, mert a részecskék mozgási energiája nagyobb, és több ütközés történik az oldódott anyag és az oldószer között.",
+      "quote": "Meleg: gyorsabb oldódás",
+      "text": "A meleg vízben a sók gyorsabban oldódnak, mint a hidegben. Ez azért van, mert a magasabb hőmérséklet a részecskék termikus mozgásának intenzitásét növeli, amely meggyorsítja a szolvátáció/hidratáció folyamatát. A szugarú kockák így szobahőmérsékleten lassabban oldódnak, mint meleg kávéban. A hőmérsékletnek azonban van egy felső határa az oldatképzés szempontjából - a túl magas hőmérsékleten az anyag már nem oldódik, hanem lebomlik (például erősen kalcináló cukrot karimel kerül, nem oldat)."
+    }
+  ]
+}

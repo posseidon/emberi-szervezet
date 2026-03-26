@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "kotesek-molekulaszerkezet",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely jellemző tulajdonságok mutatják, hogy egy anyag ionkötésű?",
+      "options": ["Szilárd, magas olvadáspont, vezetik az elektromosságot olvadt állapotban", "Alacsony olvadáspont, gáz vagy folyadék", "Vezeti az elektromosságot szilárd állapotban", "Képlékeny és fényes"],
+      "answer": "Szilárd, magas olvadáspont, vezetik az elektromosságot olvadt állapotban"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az olyan molekulák, amelyekben a pozitív és negatív töltések súlypontja nem esik egybe, _____ molekuláknak nevezzük.",
+      "options": [],
+      "answer": "poláris"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mit jelent az, hogy a kötés '50% ionos és 50% kovalens'?",
+      "options": ["Az atom felváltva ionos és kovalens kötéseket alkot", "Az EN-diff az ionos és kovalens határán van, vegyes karakterű", "Az egyik kötés ionos, a másik kovalens", "Nincs jelentős kötés karaktere"],
+      "answer": "Az EN-diff az ionos és kovalens határán van, vegyes karakterű"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az olyan molekulák, amelyek kötéspoláritás-vektorai kioltják egymást, _____ molekulák.",
+      "options": [],
+      "answer": "apoláris"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Melyik ezt a helyzetet írja le az 'ökölszabály' a kötés típusáról?",
+      "options": ["Fém + fém = fémes, fém + nemfém = ionos, nemfém + nemfém = kovalens", "Az EN-diff alapján határozzuk meg pontosan a kötés típusát", "Csak az elektronegativitás értékek alapján határozzuk meg", "Mindig az ionkötés az erősebb"],
+      "answer": "Fém + fém = fémes, fém + nemfém = ionos, nemfém + nemfém = kovalens"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A fluor (F) az egyik legmagasabb elektronegativitási értékű elem, amely körülbelül _____ .",
+      "options": [],
+      "answer": "3,98"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Miért nem lehet szigorúan meghatározni a határt az ionos és a kovalens kötések között?",
+      "options": ["Mert az elektronegativitás-különbség folyamatos, nem diszkrét", "Mert az atomok mérete változik", "Mert az elektron megosztása mindig történik", "Mert az összes kötés ugyanolyan"],
+      "answer": "Mert az elektronegativitás-különbség folyamatos, nem diszkrét"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az olyan vegyületek, mint az NaCl és CaCl2, _____ vegyületek, mert nagy EN-diff-jük van.",
+      "options": [],
+      "answer": "ionos"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mit jelent az, hogy a grafit 'fémes és kovalens karaktert is mutat'?",
+      "options": ["Mert szénatomokból áll", "Mert a szén-szén kötések kovalensek, de a π-elektronok delokalizálódnak", "Mert fémes rács van", "Mert az összes kötés ionos"],
+      "answer": "Mert a szén-szén kötések kovalensek, de a π-elektronok delokalizálódnak"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az olyan molekulák, mint a CH3Cl, _____ molekulák, mert a szerkezet nem szimmetrikus.",
+      "options": [],
+      "answer": "poláris"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mely szerkezeti típus alakul ki 2 ligandummal és 1 nemkötő párral?",
+      "options": ["Lineáris", "V-alak vagy hajlított", "Síkháromszög", "Tetraéderes"],
+      "answer": "V-alak vagy hajlított"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az oxóniumion (H3O+) _____ kötés által képződik, amikor a víz egy hidrogénionot fogad fel.",
+      "options": [],
+      "answer": "datív"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Milyen körülmények között nem alakul ki ionkötés, hanem kovalens kötés?",
+      "options": ["Mindkét atom alacsony elektronegativitású", "Mindkét atom magas elektronegativitású (mindkettő nemfém)", "Az egyik atom elektronpositivitása nagyobb", "Az atomok azonos méretűek"],
+      "answer": "Mindkét atom magas elektronegativitású (mindkettő nemfém)"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az olyan kötésben, ahol az EN-diff = 0 (azonos atomok), a kötés _____ .",
+      "options": [],
+      "answer": "apoláris"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Miért van az 'elektronpár-taszítási elmélet' alapja az elektronpárok taszításában?",
+      "options": ["Mert az elektronpárok azonos töltésűek", "Mert a negatív töltések taszítják egymást", "Mert az elektronok szabad mozgást szeretnek", "Mert az elektronok magukhoz vonzzák az atommagokat"],
+      "answer": "Mert a negatív töltések taszítják egymást"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A szulfátionban (SO4²–) _____ π-kötés és _____ nemkötő elektronpár delokalizálódik.",
+      "options": [],
+      "answer": "két, két"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mely kötés a legerősebb az alábbiak közül?",
+      "options": ["C–C egyszeres kötés (154 pm, 368 kJ/mol)", "C=C kettős kötés (134 pm, 682 kJ/mol)", "C≡C hármas kötés (120 pm, 962 kJ/mol)", "C–H kötés (109 pm, 413 kJ/mol)"],
+      "answer": "C≡C hármas kötés (120 pm, 962 kJ/mol)"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az olyan molekulák, mint a víz, amelyekben N–H, O–H vagy F–H kötések vannak, _____ molekulák.",
+      "options": [],
+      "answer": "polar protic"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Miért nagyobb az EN-diff szükséges az ionkötéshez, mint a kovalens kötéshez?",
+      "options": ["Mert az elektronok nem szeretnek megosztódni", "Mert az elektron teljes átadása magas EN-diff-t igényel", "Mert az ionok erősebb kötéseket képeznek", "Mert az atomok nagyobbak"],
+      "answer": "Mert az elektron teljes átadása magas EN-diff-t igényel"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az olyan kötésben, ahol a nagyobb elektronegativitású atom az elektront magához vonzza, _____ töltés alakul ki az elektronnegatívabb atom körül.",
+      "options": [],
+      "answer": "negatív"
+    }
+  ]
+}

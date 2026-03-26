@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "nitrogen-foszfor",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mennyi a nitrogén aránya a levegőben?",
+      "options": ["78%", "52%", "21%", "1%"],
+      "answer": "78%"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A nitrogén molekula közötti kötés _____ háromszoros kovalens kötés.",
+      "options": [],
+      "answer": "erős"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik a nitrogén és oxigén közötti magas hőmérsékleti reakció terméke?",
+      "options": ["NO", "NO₂", "N₂O", "N₂O₅"],
+      "answer": "NO"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az ammónia szintézishez szükséges hőmérséklet körülbelül _____ °C.",
+      "options": [],
+      "answer": "400"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mi a fehérfoszfor szerkezete?",
+      "options": ["P₄ tetraéder", "P∞ lánc", "P₂ dimer", "P₈ kubikus"],
+      "answer": "P₄ tetraéder"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A fehérfoszfor olvadáspontja _____ °C.",
+      "options": [],
+      "answer": "44"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Miért gyullad meg önmagától a fehérfoszfor szobahőmérsékleten?",
+      "options": ["Gyulladási hőmérséklete 34°C alatt van", "Exoterm oxidáció", "Nagy reaktivitás", "Összesen az összes válasz helyes"],
+      "answer": "Összesen az összes válasz helyes"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az ammónia vizes oldata lúgos, mivel az alábbi egyensúlyi reakción keresztül _____ ionokat termel.",
+      "options": [],
+      "answer": "hidroxidion"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mely fém és salétromsav kombinációja termel nitrogén-monoxidot laboratóriumban?",
+      "options": ["Réz és közepes töménységű salétromsav", "Cink és híg salétromsav", "Ezüst és tömény salétromsav", "Vas és híg salétromsav"],
+      "answer": "Réz és közepes töménységű salétromsav"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az NO levegő oxigénjével _____ -vé oxidálódik, amely vörösbarna gáz.",
+      "options": [],
+      "answer": "NO₂"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Milyen szín az N₂O (dinitrogén-oxid) gáz?",
+      "options": ["Vörösbarna", "Sárga", "Színtelen", "Zöld"],
+      "answer": "Színtelen"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az N₂O-t _____ gáznak vagy kéjgáznak is nevezik, mivel bódító hatása van.",
+      "options": [],
+      "answer": "nevetőgáz"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mit végez el a P₂O₅ (difoszfor-pentaoxid) laboratóriumban?",
+      "options": ["Szárítószerként működik", "Katalizátorként működik", "Oxidáló szerként működik", "Reduktálószerként működik"],
+      "answer": "Szárítószerként működik"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A salétromossav (HNO₂) csak _____ oldatban létzik, ezért instabil.",
+      "options": [],
+      "answer": "vizes"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik az igaz a salétromsavról?",
+      "options": ["Erős sav, gyakorlatilag 100%-ban disszociál", "Gyenge sav", "Amfoter", "Nem elektrolit"],
+      "answer": "Erős sav, gyakorlatilag 100%-ban disszociál"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A salétromsav _____ sav, amely képes tömény formájában pozitív standardpotenciálú fémeket is feloldani.",
+      "options": [],
+      "answer": "oxidáló"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Az iparban a salétromsav mely folyamat szerint készül?",
+      "options": ["Ostwald eljárás", "Haber-Bosch eljárás", "Contact eljárás", "Solvay eljárás"],
+      "answer": "Ostwald eljárás"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A foszforsav _____ értékű sav, mivel három protonnal rendelkezik.",
+      "options": [],
+      "answer": "háromértékű"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mit nevezünk szalmiáksónak?",
+      "options": ["Ammónium-kloridot", "Ammónium-nitrátot", "Foszfor-kloridet", "Nitrogén-kloridet"],
+      "answer": "Ammónium-kloridot"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az ammónia szerkezete _____ piramisos, középpontban az N atommal.",
+      "options": [],
+      "answer": "trigonális"
+    }
+  ]
+}

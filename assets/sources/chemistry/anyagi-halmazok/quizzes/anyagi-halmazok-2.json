@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "anyagi-halmazok",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mi az a vegyület?",
+      "options": ["Tiszta, homogén anyag, amely csak egy elemből áll", "Legalább kétféle elem atomjaiból álló anyag, amely kémiai kötésekkel kapcsolódnak pontosan meghatározott arányban", "Több különböző komponensből álló anyag, amelynek az aránya tetszőleges", "Egy elem szabadon levő atomok halmaza"],
+      "answer": "Legalább kétféle elem atomjaiból álló anyag, amely kémiai kötésekkel kapcsolódnak pontosan meghatározott arányban"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ olyan kötés, amelyben az atomtörzsek vegyértékelektronjaik elektronközegét közösen használják.",
+      "options": [],
+      "answer": "Fémes kötés"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik állítás igaz az olvadáspontról?",
+      "options": ["Az anyag hőmérséklete az olvadáspontban csökken", "Az olvadáspont független a nyomástól", "Az olvadáspont az anyag szerkezete és a részecskék közötti kölcsönhatások erősségétől függ", "Az olvadáspont az anyag tömegétől függ"],
+      "answer": "Az olvadáspont az anyag szerkezete és a részecskék közötti kölcsönhatások erősségétől függ"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A _____ a folyadék felszínén az az erő, amely a részecskéket a folyadék belseje felé húzza.",
+      "options": [],
+      "answer": "Felületi feszültség"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Miért nagyobb a víz forraspontja, mint a hasonló molekulatömegű H2S-é?",
+      "options": ["A víz polárisabb", "A vízben hidrogénkötések vannak, az H2S-ben nem", "Az oxigén elektronegativabb az ként szulfidnál", "A vízben több elektron van"],
+      "answer": "A vízben hidrogénkötések vannak, az H2S-ben nem"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A diszperziós kölcsönhatás az _____ molekulák között alakul ki.",
+      "options": [],
+      "answer": "Apoláris"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik rácsú anyag vezeti az elektromos áramot olvadékban, de nem szilárd halmazállapotban?",
+      "options": ["Fémrács", "Ionrács", "Atomrács", "Molekularács"],
+      "answer": "Ionrács"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ olyan szerkezetű anyag, amelynek nincs szabályos kristályrácsán, hanem szabálytalan szerkezete van.",
+      "options": [],
+      "answer": "Amorf"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Az 50 ml etil-alkohol és 50 ml víz összeöntésének térfogata miért nem 100 ml?",
+      "options": ["Az egyik folyadék elpárolog", "A víz és alkohol között hidrogénkötések képződnek, amely tömörebben pakol", "A sűrűségek különbsége miatt", "Chemikai reakció történik, amely gázt termel"],
+      "answer": "A víz és alkohol között hidrogénkötések képződnek, amely tömörebben pakol"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az _____ törvény azt mutatja, hogy állandó hőmérséklet mellett az ideális gáz nyomása és térfogata fordítottan arányos.",
+      "options": [],
+      "answer": "Boyle"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mit jelent a diffúzió a folyadékban?",
+      "options": ["A folyadék elpárolog", "A részecskék egyenletes eloszlása az egész folyadékban az idő múltán", "A folyadék sűrűsödik", "A folyadék kristályosodik"],
+      "answer": "A részecskék egyenletes eloszlása az egész folyadékban az idő múltán"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ megadja, hogy az oldószer 100 grammja az adott anyagból maximálisan hány grammot képes feloldani az adott hőmérsékleten.",
+      "options": [],
+      "answer": "Oldhatóság"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik anyag kristályváz képez?",
+      "options": ["Konyhasó", "Réz-szulfát-penta-hidrát", "Magnézium-szulfát-hepta-hidrát", "Mind a három"],
+      "answer": "Mind a három"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az _____ olyan összetett ion, amely központi fémionból és általában hat vízmolekulából áll.",
+      "options": [],
+      "answer": "Akvakomplex"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az 'hasonló hasonlót old' alapelv szerint mely folyadékpár elegyedik teljesen?",
+      "options": ["Poláris és apoláris folyadékok", "Azonos polaritású folyadékok", "Bármilyen folyadékpár", "Csak ionos vegyületeket tartalmazó folyadékok"],
+      "answer": "Azonos polaritású folyadékok"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ egy diszperz rendszer, amelyben gáz apró buborékjai szétszóródnak folyadékban vagy szilárdban.",
+      "options": [],
+      "answer": "Hab"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "A kolloidok mérettartománya melyik?",
+      "options": ["< 1 nm", "1-1000 nm", "> 1000 nm", "100-10000 nm"],
+      "answer": "1-1000 nm"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az _____ a kolloid részecskék által szórt fény, amely megkülönbözteti a koloidokat az igazi oldatoktól.",
+      "options": [],
+      "answer": "Tyndall-effektus"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Milyen típusú kolloida szappanoldat?",
+      "options": ["Makromolekuláris kolloid", "Asszociációs kolloid (micella)", "Mikrofázis kolloid", "Nem kolloid, igazi oldat"],
+      "answer": "Asszociációs kolloid (micella)"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ az anyag 1 grammjára jutó felület, amely a szilárd anyag porozitásának mérőszáma.",
+      "options": [],
+      "answer": "Fajlagos felület"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "az-atom-felepitese",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mi jellemzi a nemesgázszerkezetet?",
+      "options": ["Csak s elektronok vannak", "Minden olyan alhéj teljesen fel van töltve, amelyen vannak elektronok", "Egy betöltetlen d alhéj van", "Párosítatlan elektronok vannak az s alhéjon"],
+      "answer": "Minden olyan alhéj teljesen fel van töltve, amelyen vannak elektronok"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az atomokból _____ vagy elektronleadással képződő részecskék az egyszerű ionok.",
+      "options": [],
+      "answer": "elektronfelvétellel"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mit jelöl az anion?",
+      "options": ["Pozitív töltésű ion", "Negatív töltésű ion", "Semleges atom", "Fél-elpárolt elektronok"],
+      "answer": "Negatív töltésű ion"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az alkálifémek _____ elektront leadva képeznek egyszeresen pozitív töltésű iont.",
+      "options": [],
+      "answer": "egy"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Hogyan keletkezik a Na⁺ ion?",
+      "options": ["Na + e⁻ → Na⁺", "Na → Na⁺ + e⁻", "Na → Na⁺ + 2e⁻", "Na²⁻ → Na⁺ + 3e⁻"],
+      "answer": "Na → Na⁺ + e⁻"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Mi az elektronszerkezete a Na⁺ ionnak?",
+      "options": ["1s² 2s² 2p⁶ 3s¹", "1s² 2s² 2p⁶", "1s² 2s¹ 2p⁶", "1s² 2s² 2p⁵ 3s¹"],
+      "answer": "1s² 2s² 2p⁶"
+    },
+    {
+      "id": 7,
+      "type": "BLANK",
+      "question": "A halogének _____ elektront felveendve képeznek anionokat.",
+      "options": [],
+      "answer": "egy"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "Melyik halogenid ion elektronszerkezete azonos az argon (Ar) elektronszerkezetével?",
+      "options": ["F⁻", "Cl⁻", "Br⁻", "I⁻"],
+      "answer": "Cl⁻"
+    },
+    {
+      "id": 9,
+      "type": "BLANK",
+      "question": "A _____ ionok mindig kisebbek, mint az az atom, amelyből képződtek.",
+      "options": [],
+      "answer": "pozitív"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Melyik igaz az anionokra?",
+      "options": ["Mindig kisebbek az eredeti atomnál", "Mindig nagyobbak az eredeti atomnál", "Azonos méretűek az eredeti atommal", "A mérete függ a töltéstől"],
+      "answer": "Mindig nagyobbak az eredeti atomnál"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Fe²⁺ és Fe³⁺ ionok közül melyik a kisebb?",
+      "options": ["Fe²⁺", "Fe³⁺", "Azonos méretűek", "Nem lehet megállapítani"],
+      "answer": "Fe³⁺"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az első ionizációs energiát (Ei1) _____ gáz halmazállapotú atom elektronjára vonatkoztatva adják meg.",
+      "options": [],
+      "answer": "1 mól"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mi az első ionizációs energia képlete az általános \"A\" atomra?",
+      "options": ["A → A²⁺ + 2e⁻", "A(g) → A⁺(g) + e⁻", "A⁻ → A + e⁻", "A → A⁻ + e⁻"],
+      "answer": "A(g) → A⁺(g) + e⁻"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A másodlagos ionizációs energia az _____ után kapott pozitív ionból egy további elektron eltávolításához szükséges.",
+      "options": [],
+      "answer": "első ionizáció"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mit jelöl az elektronaffinitás (Ea)?",
+      "options": ["Az első ionizációs energia", "Az elektronleadás során felszabaduló energia", "Az egyszeresen negatív töltésű ionok képződésének energiaváltozása", "Az elektron tömege"],
+      "answer": "Az egyszeresen negatív töltésű ionok képződésének energiaváltozása"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az elektronaffinitás képletét az alábbi egyenletnek megfelelően _____ gáz halmazállapotú atomra adják meg.",
+      "options": [],
+      "answer": "1 mól"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik nemesgáz ionizációs energiája a legnagyobb?",
+      "options": ["Hélium", "Neon", "Argon", "Kripton"],
+      "answer": "Hélium"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Ha az ionképződés után az ion elektronszerkezete _____, az ionizációs energia nagyobb lesz.",
+      "options": [],
+      "answer": "kedvezőtlenebb"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik ionnak a legalacsonyabb az első ionizációs energiája az alkálifémek között?",
+      "options": ["Lítium (Li)", "Nátrium (Na)", "Kálium (K)", "Rubídium (Rb)"],
+      "answer": "Rubídium (Rb)"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az Ei2 >> Ei1 ugrás általában akkor fordul elő, amikor egy _____ alhéjat kell felbontani.",
+      "options": [],
+      "answer": "lezárt nemesgázszerkezetű"
+    }
+  ]
+}

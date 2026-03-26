@@ -1,0 +1,144 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Nitrogén (N2) - alapvető tulajdonságok",
+      "definition": "Színtelen, szagtalan, nem éghető gáz. Kétatomos, apoláris molekulákból (N2) áll, az atomok között erős háromszoros kovalens kötés van. Forráspontja -196°C.",
+      "quote": "Inert, három erős kötés",
+      "text": "A nitrogén N2 molekulákat alkot, ahol az atomok között erős N≡N háromszoros kovalens kötés van. Ez az erős kötés miatt a nitrogén kevéssé reaktív. Szobahőmérsékleten színtelen gáz, cseppfolyósítva pedig szinten marad, kevés hő hozzáadásával fordítható folyadékká. Cseppfolyós és szilárd halmazállapotban molekularácsos szerkezetet alkot, ahol a molekulák közötti kötések erősen diszperziós kötések."
+    },
+    {
+      "id": 2,
+      "term": "Nitrogén előfordulása",
+      "definition": "A levegő körülbelül 78%-át teszi ki. Vegyületek formájában ásványokban (nitrátok) és élő szervezetekben (szerves nitrogénvegyületek) található.",
+      "quote": "Levegő 78%-a, szerves anyagok",
+      "text": "Az elemi nitrogén a Föld légkörének fő összetevője. Ezenkívül nitrátok formájában fordul elő különböző ásványokban. Élő szervezetekben nitrogén található a fehérjékben, nukleinsavakban és más szerves nitrogénvegyületekben. Ez a nagy mennyiség fontos a természetes körforgalomban."
+    },
+    {
+      "id": 3,
+      "term": "Nitrogén ipari előállítása",
+      "definition": "A levegő cseppfolyósításával és frakcionált desztillációjával történik az iparban.",
+      "quote": "Cseppfolyósítás, desztilláció",
+      "text": "Az iparban szükséges nitrogéngázt a levegő cseppfolyósításával készítik elő. A levegőt lehűtik és cseppfolyósítják, majd frakcionált desztillációval választják szét a nitrogént az oxigéntől és más komponensektől. Ez az eljárás nagy mennyiségben termel tiszta nitrogént az ipari felhasználáshoz."
+    },
+    {
+      "id": 4,
+      "term": "Nitrogén oxidációja oxigénnel",
+      "definition": "N₂ + O₂ = 2 NO. Csak nagyon magas hőmérsékleten (3000°C) megy végbe. A természetben villámláskor játszódik le.",
+      "quote": "Szupermagas hő, monoxid képződik",
+      "text": "A nitrogén és oxigén között az erős N≡N kötés miatt csak extrém magas hőmérsékleten (3000°C) lezajlik a reakció. Ilyen hőmérsékletre szobahőmérsékleten nem képes felmelegedni a keverék, így a reakció gyakorlatilag nem indul el. Azonban a természetben a villámcsapásoknál előforduló nagyon magas hőmérséklet lehetővé teszi a nitrogén-monoxid képződését. Ez a folyamat szerepet játszik a nitrogén körforgalmában."
+    },
+    {
+      "id": 5,
+      "term": "Ammónia szintézise - Haber-Bosch eljárás",
+      "definition": "N₂ + 3 H₂ ⇌ 2 NH₃. Néhány száz °C-on, nagy nyomáson, vaskatalizátor jelenlétében játszódik le. Egyensúlyos folyamat.",
+      "quote": "Magas nyomás, katalizátor, egyensúly",
+      "text": "A nitrogén hidrogénnel reagálva ammóniát termel az ipari Haber-Bosch eljárásban. A folyamat körülbelül 400°C-on, 15-25 MPa nyomáson zajlik vaskatalizátor jelenlétében. Ez egy exoterm, egyensúlyi folyamat, ahol az alacsonyabb hőmérséklet kedvez az ammónia képződésének, de a nagyobb nyomás felfelé irányítja az egyensúlyt. Az alkalmazott hőmérséklet a praktikus sebesség és a termodinamikai kedvezőség közötti kompromisszum."
+    },
+    {
+      "id": 6,
+      "term": "Fehérfoszfor (sárgafoszfor)",
+      "definition": "Sárgásfehér, öngyulladó, mérgező szilárd anyag. Négyatomos, tetraéderes P₄ molekulákból áll. Olvadáspontja 44°C, apoláris oldószerekben oldódik, vízben nem.",
+      "quote": "Tetraéderes, szobahőn meggyullad",
+      "text": "A fehérfoszfor P₄ molekulákból épül fel, ahol minden foszforatom három másikkal egyszeres kovalens kötést alakít ki egy tetraéder geometriájú szerkezetben. Ez az allotróp forma öngyulladó tulajdonságú, vagyis levegőn spontán módon meggyullad szobahőmérsékleten, mivel gyulladási hőmérséklete 34°C alatt van. Vízben nem oldódik, de apoláris oldószerekben (például szén-diszulfidban) jól oldódik. Igen mérgező anyag."
+    },
+    {
+      "id": 7,
+      "term": "Vörösfoszfor szerkezete és tulajdonságai",
+      "definition": "Barnásvörös, láncpolimer szerkezetű óriásmolekula. Lineárisan kapcsolódó P₄ tetraéderekből áll (P∞). Magasabb olvadáspont (590°C), rosszabb oldhatóság, kevésbé reaktív, mint a fehérfoszfor.",
+      "quote": "Lánc szerkezet, stabil, magas olvadás",
+      "text": "A vörösfoszfor hosszú láncpolimer szerkezetű, amely lineárisan kapcsolódó P₄ tetraéderekből áll. Ez az összetett szerkezet (szimbolikusan P∞) magyarázza meg tulajdonságainak a fehérfoszfortól eltérő voltát. Olvadáspontja 590°C, sokkal magasabb a fehérfoszfor 44°C-ához képest. Gyulladási hőmérséklete is magasabb, így szobahőmérsékleten nem gyullad meg. Oldhatósága sokkal rosszabb, így nagyon stabil szilárd anyag. Kevésbé reaktív a fehérfoszfornál."
+    },
+    {
+      "id": 8,
+      "term": "Fehérfoszfor öngyulladása",
+      "definition": "A fehérfoszfor levegőn spontán meggyullad, mert gyulladási hőmérséklete 34°C alatt van (szobahőmérsékleten). A folyamatban difoszfor-pentaoxid keletkezik.",
+      "quote": "Tüz szobahőmérsékleten, exoterm",
+      "text": "A fehérfoszfor öngyulladása egy exoterm oxidációs folyamat. A levegő oxigénjével reagálva a foszfor P₂O₅-ot termel, amely nagy mennyiségű hőt felszabadít. Ezt a hőt olyan sok, hogy szobahőmérsékleten elegendő a meggyulladáshoz. A laboratóriumi kísérletben ezt úgy mutatják be, hogy fehérfoszfort szén-diszulfidban oldanak, szűrőpapírra juttatják, majd az oldószert elpárologtatják. A maradék foszfor majd önmagától meggyullad és a papírt is meggyújtja."
+    },
+    {
+      "id": 9,
+      "term": "Foszfor égése",
+      "definition": "4 P + 5 O₂ = 2 P₂O₅. Fehérfoszfor és vörösfoszfor is éghető, az égéskor difoszfor-pentaoxid keletkezik.",
+      "quote": "Fehér füst, difoszfor-pentaoxid",
+      "text": "A foszfor égésének egyenlete mind a fehér, mind a vörösfoszforra érvényes. Az égéskor dioxid-pentaoxid (P₂O₅) keletkezik, amely fehér szilárd vagy füst formájában jelenik meg. Ez egy exoterm oxidációs folyamat. A fehérfoszfor szobahőmérsékleten spontán ég, míg a vörösfoszfornál magasabb hőmérséklet szükséges a gyulladáshoz."
+    },
+    {
+      "id": 10,
+      "term": "Nitrogén alkalmazása inert védelemben",
+      "definition": "Az iparban inert (nem reakcióképes) védőgázként használják levegővel reagáló anyagok tárásához és kezeléséhez.",
+      "quote": "Védőgáz, oxigén nélkül",
+      "text": "A nitrogén inert volta miatt felhasználható arra, hogy óvja az oxidáció érzékeny anyagokat. Az ipari tárolóedények levegőjét nitrogénre cserélik, hogy megakadályozzák az oxidációs folyamatokat. Ez védi a tárolóban lévő anyagot az oxidatív romlástól."
+    },
+    {
+      "id": 11,
+      "term": "Cseppfolyós nitrogén alkalmazásai",
+      "definition": "Ipari hűtőközeg, például MRI készülékekben az erős mágneseket hűti. Bőrgyógyászatban egyes elváltozások fagyasztásához használják.",
+      "quote": "Hűtőközeg, -196°C-os",
+      "text": "A cseppfolyós nitrogén nagyon alacsony hőmérséklete (-196°C) miatt kiváló hűtőközeg az ipari alkalmazásokhoz. Az MRI készülékek szupravezető mágneseit ezzel hűtik a normál szupravezető működési hőmérsékletre. A bőrgyógyászatban cryo-eltávolítást végeznek vele, ahol az abnormális bőr elváltozások (-196°C-ban) befagynak és leválnak."
+    },
+    {
+      "id": 12,
+      "term": "Vörösfoszfor gyújtótermékekben",
+      "definition": "A vörösfoszfor gyufákban és pirotechnikai keverékekben használható. Kevésbé reaktív és biztonságosabb, mint a fehérfoszfor.",
+      "quote": "Gyufák, pirotechnika, biztonságos",
+      "text": "A vörösfoszfor kevésbé reaktív és öngyulladó tulajdonsága miatt biztonságosabb a fehérfoszfornál. Gyufákban van jelen, ahol a megdörzsölés során a megfelelő hőmérsékletre és feltételekre ég. Pirotechnikai keverékekben is alkalmazzák, ahol kontrolláltabb égést biztosít."
+    },
+    {
+      "id": 13,
+      "term": "Fehérfoszfor katonai alkalmazása",
+      "definition": "Fehérfoszfor gyújtóbombákban és füstgranátokban használható anyag. Extrém veszélyes és öngyulladó.",
+      "quote": "Gyújtóbomba, füstgenerátor",
+      "text": "A fehérfoszfor öngyulladó tulajdonsága és intenzív égése miatt katonai alkalmazásban füst- és fényhatást generál. Gyújtóbombákban használható a nagy hőmennyiség és fehér füst termelésé miatt. Extrém veszélyes anyag kezelése."
+    },
+    {
+      "id": 14,
+      "term": "Nitrogén- és foszforvegyületek mezőgazdasági alkalmazása",
+      "definition": "Az iparban nagy mennyiségben használnak nitrogén- és foszforvegyületeket műtrágyaként a növénytermesztésben.",
+      "quote": "Tápanyag növények, terméshozam",
+      "text": "A nitrogén és foszfor az élet alapvető elemei. A növények növekedéséhez szükséges tápanyagok ezek az elemek. Az iparban szintézis útján előállított műtrágya formájában (például ammóniasó, foszfátok) nagy mennyiségben alkalmazzák őket a mezőgazdaságban, hogy növeljék a terméshozamot és biztosítsák az optimális tápanyag ellátást."
+    },
+    {
+      "id": 15,
+      "term": "Foszfor előfordulása a természetben",
+      "definition": "A foszfor vegyületeiben fordul elő foszfátásványok formájában. Az élő szervezetekben a csontok és fogak szervetlen foszfátokból állnak.",
+      "quote": "Csontok, foszfátásvány",
+      "text": "A foszfor elemi formája aritka a természetben, de vegyületeiben közönséges. Foszfátásványok formájában fordul elő nagy mennyiségben az érckészletekben. Az élő szervezetekben foszfor a csontok és fogak szilárd szerkezetének fő komponense, szervetlen foszfátok formájában jelenik meg."
+    },
+    {
+      "id": 16,
+      "term": "Foszfor szerep a biológiai rendszerekben",
+      "definition": "A foszfát-észter kötés megtalálható a DNS-ben, RNS-ben és sok enzimben, kritikus a biológiai funkcióhoz.",
+      "quote": "DNS, RNS, enzimek",
+      "text": "A foszfor nem csak a szilárd csontszerkezetben fontos, hanem a biológiai molekulák szerkezetének alapvető komponense is. A DNS és RNS cukorfoszfát vázát foszfát-észter kötések tartják össze. Az enzimek és sok jelzőmolekula is tartalmaz foszfátcsoportokat, amelyek kritikus szerepet játszanak az életfolyamatokban."
+    },
+    {
+      "id": 17,
+      "term": "Nitrogén - halmazállapotok és kötések",
+      "definition": "Szobahőmérsékleten gáz, cseppfolyós (-196°C) és szilárd formájában molekularácsos szerkezettel. Molekulák közötti gyenge diszperziós kötések.",
+      "quote": "Gáz, folyadék, szilárd - gyenge",
+      "text": "A nitrogén N₂ molekulák között erős kovalens kötések vannak, de a molekulák közötti kölcsönhatások gyengék (diszperziós kötések). Ez magyarázza az alacsony olvadás- és forráspontot. Az extrém hideg szükséges a cseppfolyósításhoz (-196°C), ahol a molekulák között még a gyenge van Waals-erők is szignifikáns kölcsönhatást eredményeznek."
+    },
+    {
+      "id": 18,
+      "term": "Foszfor allotropikus módosulatok",
+      "definition": "Két jelentős allotróp módosulata a fehér és vörösfoszfor. Szerkezetben, tulajdonságokban és reaktivitásban jelentősen különböznek.",
+      "quote": "Fehér és vörös forma",
+      "text": "Az allotropizmus ugyanazon elem különböző szerkezeti formáját jelenti. A fehérfoszfor tetraéderes P₄ molekulákból, a vörösfoszfor pedig láncpolimer P∞ szerkezetből áll. Ez a szerkezeti különbség teljesen eltérő tulajdonságokhoz vezet: a fehérfoszfor öngyulladó és reaktív, míg a vörösfoszfor stabil és kevésbé reaktív."
+    },
+    {
+      "id": 19,
+      "term": "Nitrogén kevéssé reaktív volta",
+      "definition": "A nitrogén kevéssé reaktív (inert) az erős N≡N háromszoros kovalens kötés miatt, amely nagy aktivációs energiát igényel a felbontáshoz.",
+      "quote": "Erős háromszoros kötés",
+      "text": "A nitrogén molekuláját felépítő N≡N háromszoros kötés az egyik legerősebb kovalens kötés. Ennek felbontásához nagy energiára van szükség, ezért a nitrogén szobahőmérsékleten inert marad. Csak szélsőséges körülmények (nagyon magas hőmérséklet, nagy nyomás, katalizátor) között lép kémiai reakcióba. Ez az inertség teszi alkalmassá védőgázként való felhasználásra."
+    },
+    {
+      "id": 20,
+      "term": "P4 molekula geometriája",
+      "definition": "A fehérfoszfor P₄ molekula tetraéderes szerkezetű. Minden foszforatom három másikkal alakít ki egyszeres kovalens kötést a tetraéder csúcsain.",
+      "quote": "Tetraéder, három P-P kötés",
+      "text": "A P₄ molekula egy tetraéder geometriai alakzat formájában termékel, ahol a foszforatom a négy csúcson helyezkedik el. Minden P atom három szomszédos P atommal egyszeres kovalens P-P kötést képez. Ez a geometria a tetraéderes szögeket határozza meg, körülbelül 60 fokot a P-P-P szögekben. Ez az elrendezés feszültséget okoz, amely részben magyarázza a fehérfoszfor reaktivitását."
+    }
+  ]
+}

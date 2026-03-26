@@ -1,0 +1,144 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Milyen kötések tartják össze a folyadék részecskéit?",
+      "definition": "A folyadék részecskéit ugyanazok a kötések tartják össze, mint a szilárd halmazállapotban, de az energia nagyobb, így a részecskék mozoghatnak.",
+      "quote": "Ugyanaz a kötés, több energia",
+      "text": "A folyadékban az intermolekuláris kötések még mindig léteznek, de a részecskéknek elegendő mozgási energiájuk van ahhoz, hogy pozícióikat megváltoztassák. A szilárd halmazállapotban a részecskék helyhez kötöttek, a folyadékban viszont elgördülnek egymáson, de még mindig kölcsönhatnak. Ez az átmeneti állapot eredményez olyan jellegzetes folyadék-tulajdonságokat, mint az összenyomhatatlanság és a változó alakjúság."
+    },
+    {
+      "id": 2,
+      "term": "Mit jelent az összenyomhatatlanság a folyadékoknál?",
+      "definition": "A folyadékok összenyomhatatlanok, mert a részecskéik szorosan illeszkednek egymáshoz, gyakorlatilag nincs közöttük üres hely, nem lehet további nyomással csökkenteni a térfogatot.",
+      "quote": "Szoros illeszkedés: nem összenyomható",
+      "text": "A folyadék molekulái gyakorlatilag közvetlen kapcsolatban vannak egymással. Az alkalmazott nyomás csak az intermolekuláris kötéseket erősíti meg, de térfogat-csökkentéshez nem vezethet. Ez ellentétben áll a gázokkal, amelyek könnyen összenyomhatók, mert nagy távolságok vannak a részecskék között. A folyadékok tehát inkompresszibilis közegnek tekintendők."
+    },
+    {
+      "id": 3,
+      "term": "Mit jelent a diffúzió a folyadékban?",
+      "definition": "A diffúzió a folyadékba juttatott anyag tökéletes eloszlása az egész folyadékban az idő múltán, a folyadékrészecskék hőmozgása és ütközése miatt.",
+      "quote": "Tökéletes eloszlás az ütközésektől",
+      "text": "Például ha ételfestéket cseppentünk a víz felszínére, kezdetben csak a felszín közelében van, de az idő múltán egyenletesen eloszlik az egész folyadékban. A folyadék molekuláinak hőmozgása és az anyag részecskéivel való ütközésük okozza ezt az egyenletes szétterjedést. A diffúzió sebessége a hőmérséklettől függ: magasabb hőmérsékleten gyorsabb."
+    },
+    {
+      "id": 4,
+      "term": "Mit jelent a viszkozitás?",
+      "definition": "A viszkozitás a folyadék belső súrlódása, amely azt méri, hogy mennyire könnyen vagy nehezen gördülnek el egymáson a folyadék részecskéi.",
+      "quote": "Belső súrlódás: könnyű vagy nehéz folyás",
+      "text": "A nagy viszkozitású folyadék (például méz) sűrű és nehezen folyik, a kis viszkozitású folyadék (például víz) könnyen folyik. A viszkozitás az intermolekuláris kölcsönhatások erősségétől függ. A viszkozitás hőmérsékletfüggő: magasabb hőmérsékleten általában csökken (a részecskéknek több mozgási energiájuk van). Egyes folyadékoknál (például olajnál) a hőmérséklet csökkentésével drastikusan nő a viszkozitás."
+    },
+    {
+      "id": 5,
+      "term": "Mit jelent a felületi feszültség?",
+      "definition": "A felületi feszültség az a jelenség, hogy a folyadék felszínén levő részecskékre csak a folyadék belseje felé ható erő hat, mivel fölöttük nincsenek szomszédai.",
+      "quote": "Felszín visszahúzódik: feszültség",
+      "text": "A folyadék belsejében levő molekulák az összes irányból vonzzák egymást, így az erők kioltják egymást. A felszínen levő molekulák viszont csak lefelé vannak vonzva (mivel fölöttük nincs folyadék), így a felszín behúzódik. Ez az oka, hogy a vízcseppek gömbölyűek (minimális felületi terület), és egy óvatosan ráhelyezett érme nem süllyed el, bár sűrűsége nagyobb a vízénél. A felületi feszültség a folyadéktípustól és hőmérséklettől függ."
+    },
+    {
+      "id": 6,
+      "term": "Miért van felületi feszültség a vízben?",
+      "definition": "A víz nagy felületi feszültsége a hidrogénkötések erős vonzása miatt alakul ki, amely főleg a felszínhez közeli molekulákat érinti.",
+      "quote": "Hidrogénkötések a felszínen",
+      "text": "A víz molekulái a felszínen hidrogénkötésekkel kapcsolódnak a lent levő molekulákhoz, így az erő lefelé mutató. A felszín behúzódik, hogy minimalizálja a felületi területet. Ez az oka a víz szokatlan magas felületi feszültségének, amely nagyobb, mint számos más folyadéké. A felületi feszültség megmagyarázza a vízcseppek gömbös alakját és a vízesések nagyobb sűrűsége ellenére való lebegését a víz felszínén."
+    },
+    {
+      "id": 7,
+      "term": "Mely folyadékok elegyednek egymással teljesen?",
+      "definition": "Azok a folyadékok elegyednek teljesen, amelyek hasonló polaritásúak és azonos típusú intermolekuláris kötéseket (vagy kompatibilis kötéseket) képesek kialakítani.",
+      "quote": "Hasonló polaritás: teljes elegyedés",
+      "text": "Az etil-alkohol és a víz teljesen elegyednek, mert mindkettő poláris és hidrogénkötésekre képes. Az aketon és az alkohol is teljesen elegyednek. Az elegyedés feltétele, hogy a két folyadék részecskéi kölcsönhatásokat tudjanak kialakítani egymással. Az 'hasonló hasonlót old' alapelv szerint a hasonló polaritású anyagok általában jól elegyednek."
+    },
+    {
+      "id": 8,
+      "term": "Miért nem elegyedik a víz és a benzin?",
+      "definition": "A víz és a benzin nem elegyedik, mert lényegesen különböző polaritásúak: a víz poláris (hidrogénkötésekre képes), a benzin apoláris.",
+      "quote": "Poláris és apoláris nem elegyednek",
+      "text": "Az elegyedés feltételei, hogy a molekulák hasonló kölcsönhatásokat tudjanak kialakítani. A víz hidrogénkötésekkel működik, a benzin pedig csak diszperziós kölcsönhatásokkal. Mivel a víz molekulái erősebben vonzzák egymást, mint a benzin molekuláit, és fordítva, nem keverednek. Ez az oka, hogy az olaj és víz elválnak, ha összeöntjük őket - két fázisú rendszert képeznek."
+    },
+    {
+      "id": 9,
+      "term": "Mit jelent a térfogati kontrakció?",
+      "definition": "A térfogati kontrakció az a jelenség, amikor két folyadék összeöntésével a kapott elegy térfogata kisebb az eredeti folyadékok térfogatának összegénél.",
+      "quote": "Térfogat csökken az elegyedéskor",
+      "text": "Klasszikus példa az etil-alkohol és víz: 50 ml + 50 ml összeöntéskor nem 100 ml, hanem mintegy 97 ml-nél kevesebb lesz az összes térfogat. Ennek az az oka, hogy az etil-alkohol és a víz molekulai hidrogénkötéseket képeznek egymással, amely nem csak az eredeti kötéseket megtartja, hanem új kötéseket is hoz létre, így a szerkezet tömörebbé válik. A térfogati kontrakció a két folyadék között kialakult vonzó kölcsönhatások mértékét mutatja."
+    },
+    {
+      "id": 10,
+      "term": "Mit jelent a térfogati dilatáció?",
+      "definition": "A térfogati dilatáció az ellenkező esete a térfogati kontrakciónak: az összeöntött folyadékok térfogata nagyobb az eredeti térfogatok összegénél.",
+      "quote": "Térfogat nő az elegyedéskor",
+      "text": "A térfogati dilatáció előfordul olyan folyadékpárokkal, amelyek az elegyedéskor taszító kölcsönhatásokat is mutatnak, vagy ahol az eredeti szerkezet nem tömörödik. Például bizonyos szénhidrogén-keverékek térfogati dilátációt mutatnak. Ez a jelenség azt jelenti, hogy az összeöntött folyadékok között a kölcsönhatások nem elég erősek ahhoz, hogy tömörebbé tegyék a szerkezetet."
+    },
+    {
+      "id": 11,
+      "term": "Mit jelent az ideális gáz?",
+      "definition": "Az ideális gáz olyan gázmodell, amelyre feltételezzük, hogy a részecskék között nincsenek vonzó kölcsönhatások, csak rugalmas ütközések.",
+      "quote": "Nincs vonzás, rugalmas ütközés",
+      "text": "Az ideális gázok koncepciója egy egyszerűsítés, amely a valódi gázok viselkedésében megfelelően működik magas hőmérséklet és alacsony nyomás esetén. Az ideális gáz egyenletek (pV = nRT stb.) leíró a valódi gázok viselkedését jó közelítéssel. Az alacsony hőmérsékleten vagy magas nyomáson a valódi gázok eltérhetnek az ideális viselkedéstől, mivel a vonzó kölcsönhatások vagy a részecskék térfogata nem elhanyagolható."
+    },
+    {
+      "id": 12,
+      "term": "Mit jelent az állapotjelző?",
+      "definition": "Az állapotjelzők a gázok állapotát leíró fizikai mennyiségek: nyomás (p), térfogat (V), hőmérséklet (T) és anyagmennyiség (n).",
+      "quote": "p, V, T, n: a gáz jellemzői",
+      "text": "Az állapotjelzőket gáztörvények kapcsolják össze, amelyek meghatározzák ezek közötti függvényeket. A legfontosabb az egyesített gáztörvény: pV = nRT. Az állapotjelzők bármelyikének megváltozása a gáz állapotában változást okoz. Az állapotjelzőket közvetlenül vagy közvetetten lehet mérni, és segítségükkel a gáz viselkedésre vonatkozó előrejelzések lehetségesek."
+    },
+    {
+      "id": 13,
+      "term": "Mi az az egyesített gáztörvény?",
+      "definition": "Az egyesített gáztörvény az ideális gázokra vonatkozó alapvető egyenletet: p·V = n·R·T, ahol R az egyetemes gázállandó (8,314 J/(mol·K)).",
+      "quote": "pV = nRT: ideális gáz törvénye",
+      "text": "Ez az egyenlet kapcsolatot teremt a nyomás, térfogat, anyagmennyiség és abszolút hőmérséklet között. Az egyesített gáztörvény különféle formák alatt használható attól függően, hogy mely paraméterek állandók. Az R konstans értéke a mértékegységektől függ: SI-ben 8,314 J/(mol·K)."
+    },
+    {
+      "id": 14,
+      "term": "Mi a Boyle-törvény?",
+      "definition": "Boyle-törvénye szerint állandó hőmérséklet és anyagmennyiség mellett az ideális gáz nyomása és térfogata fordítottan arányos: p₁V₁ = p₂V₂.",
+      "quote": "Állandó T: nyomás és térfogat fordított",
+      "text": "Boyle-törvénye a p·V = nRT egyenlet speciális esete, ahol n és T állandó. Ha egy zárt edényben levő gázt összepréselünk (térfogat csökken), a nyomása nő. Fordítva, ha a gáz terjeszkedik (térfogat növekszik), a nyomása csökken. Ez az intuitív módon érthető: minél kisebb helyre szorítunk gázt, annál több ütközés történik a falakkal, így nagyobb a nyomás."
+    },
+    {
+      "id": 15,
+      "term": "Mi a Charles-törvény?",
+      "definition": "Charles-törvénye szerint állandó nyomás és anyagmennyiség mellett az ideális gáz térfogata egyenesen arányos az abszolút hőmérséklettel: V₁/T₁ = V₂/T₂.",
+      "quote": "Állandó p: térfogat és T egyenes",
+      "text": "Charles-törvénye azt mutatja, hogy ha a gázt melegítjük állandó nyomáson, kiterjeszkedik. A hőmérsékletnek Kelvinben kell lennie, mert a 0 K az abszolút nullapont, ahol a gáz elméleti térfogata nulla lenne. Ez az egyenlet gyakorlatban könnyen tesztelhető: ha a sűrítékből gázt tartunk egy nyitott edénybe és melegítjük, a térfogata nagyobb lesz (de mivel a nyomás külső nyomás, az edény térfogata nem változik, helyette a gáz terjeszkedhet)."
+    },
+    {
+      "id": 16,
+      "term": "Mi az Avogadro-törvénye?",
+      "definition": "Avogadro-törvénye szerint állandó nyomás és hőmérséklet mellett az ideális gáz térfogata az anyagmennyiséggel egyenesen arányos: V ∝ n.",
+      "quote": "Ugyanaz a V, T: közömbös gáz típus",
+      "text": "Ez az egyenlet azt jelenti, hogy 1 mól bármilyen ideális gáznak ugyanolyan térfogata van az adott nyomáson és hőmérsékleten. Normai légköri nyomáson és 0°C-on ez az érték 22,4 L/mol (ezt Avogadro-térfogatnak hívják). Erre az alapelvére építik az sok kémiai számítást, ahol nem a gáz konkrét típusa, hanem a móljainak száma az lényeges."
+    },
+    {
+      "id": 17,
+      "term": "Mit jelent a kinetikus gázelmélet?",
+      "definition": "A kinetikus gázelmélet a gázok makroszkópikus tulajdonságait magyarázza meg a molekulák mikroszkópikus mozgásának alapján.",
+      "quote": "Molekula mozgás: makro tulajdonságok",
+      "text": "A kinetikus gázelmélet szerint a gázok nyomása a részecskék az edény falán okozott ütközésekből adódik. A hőmérséklet a részecskék átlagos mozgási energiájának mértéke. A diffúzió a részecskék szabadon mozgása miatt történik. Ez az elmélet magyarázatot ad az ideális gáz törvényekre és megmagyarázza a gázok viselkedésének empirikus megfigyeléseit."
+    },
+    {
+      "id": 18,
+      "term": "Hogyan függ a gázok nyomása a hőmérséklettől?",
+      "definition": "Az ideális gázok nyomása állandó térfogaton és anyagmennyiségen az abszolút hőmérséklettel egyenesen arányos: p ∝ T.",
+      "quote": "Zárva: nyomás nő, hő nő",
+      "text": "Ez a Gay-Lussac-törvény (az egyesített gáztörvény speciális esete). Egy zárt edényben levő gáz nyomása a hőmérséklettel lineáris kapcsolatban van. A gáz melegítésével az atomi vagy molekuláris mozgás intenzívebb lesz, több ütközés történik az edény falával, így a nyomás nő. Ez a gyakorlatban nyilvánvaló: ha egy zárt autógumi nyomása hűvös reggelen alacsonyabb, mint meleg délután."
+    },
+    {
+      "id": 19,
+      "term": "Mit jelent a gázok diffúziója?",
+      "definition": "A gázok diffúziója a gázrészecskék spontán szétterjedése az egész rendelkezésre álló térbe, a részecskék szabad mozgása miatt.",
+      "quote": "Gázok szétterjednek magától",
+      "text": "A gázok diffúziója sokkal gyorsabb, mint a folyadékoké, mert a gázrészecskék között nincsenek lényeges kölcsönhatások, szabadon mozognak. Ha egy doboz potenciális illatanyag nyílik meg, az illat gyorsan eloszlik az egész szobában. A diffúzió sebessége a hőmérséklettől és az azt okozó gáz típusától (könnyebb gázok gyorsabban diffúndálnak) függ. A diffúzió a kinetikus gázelméletből természetesen adódik az atomok/molekulák véletlenszerű mozgásából."
+    },
+    {
+      "id": 20,
+      "term": "Mi a normál állapot (NTP) a gázoknál?",
+      "definition": "A normál állapot a gázoknál 0°C hőmérséklet és 1 atm nyomás, ahol egy mól ideális gáz térfogata 22,4 L.",
+      "quote": "0°C, 1 atm: 22,4 L/mol",
+      "text": "A normál állapotot (NTP) referenciaként használják a gáztérfogatok összehasonlítására. Sok kémiai számításnál feltételezzük, hogy a gázok normál körülmények között vannak, ha másként nem jelezzük. Az Avogadro-számot (6,022 × 10²³) és az Avogadro-térfogatot (22,4 L/mol) közvetlenül alkalmazzák az NTP-ben. Megjegyzés: az IUPAC mostanában a SATP-t (25°C és 100 kPa) használja referenciaként, ahol az Avogadro-térfogata 24,8 L/mol."
+    }
+  ]
+}

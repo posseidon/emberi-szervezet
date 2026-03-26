@@ -1,0 +1,60 @@
+MAGYAR KÉMIATAN TANANYAGOK - SZÉN-SZILÍCIUM
+=============================================
+
+Generálás dátuma: 2026-03-26
+
+GENERÁLT FÁJLOK:
+================
+
+1. FLASHCARD GYŰJTEMÉNYEK (JSON)
+--------------------------------
+/sessions/beautiful-lucid-hawking/mnt/chemistry/szen-szilicium/szen-szilicium-elem/flashcards/szen-szilicium-elem.json
+   - 26 flashcard az elemi szén és szilícium tárgyáról
+   - Szerkezetek, allotrópia, tulajdonságok, előfordulás, reactions
+   - Szilícium félvezetői és elektronikai alkalmazásai
+
+/sessions/beautiful-lucid-hawking/mnt/chemistry/szen-szilicium/szen-szilicium-vegyuletek/flashcards/szen-szilicium-vegyuletek.json
+   - 34 flashcard a szén és szilícium vegyületeiről
+   - CO, CO2, SiO2, H2CO3, H2SiO3, szilikonok
+   - Ipari alkalmazások, reakciók, előállítás
+
+2. KVÍZ GYŰJTEMÉNYEK (JSON)
+---------------------------
+/sessions/beautiful-lucid-hawking/mnt/chemistry/szen-szilicium/quizzes/szen-szilicium-1.json
+   - 20 kérdés (12 MC, 8 BLANK)
+   - Allotrópia, szerkezetek, alapvető vegyületek, üvegházhatás
+
+/sessions/beautiful-lucid-hawking/mnt/chemistry/szen-szilicium/quizzes/szen-szilicium-2.json
+   - 20 kérdés (12 MC, 8 BLANK)
+   - Kötések, félvezetők, feldolgozási módok, lúgos feltárás
+
+/sessions/beautiful-lucid-hawking/mnt/chemistry/szen-szilicium/quizzes/szen-szilicium-3.json
+   - 20 kérdés (12 MC, 8 BLANK)
+   - Ipari alkalmazások, biológiai előfordulás, szilikonok
+
+TANANYAG TÉMAKÖRÖK:
+==================
+
+ELEMI SZÉN ÉS SZILÍCIUM:
+- Allotrópia (grafit, gyémánt, fullerén)
+- Szerkezeti különbségek és tulajdonságok
+- Félfém szilícium és félvezetői
+- Földgeológiai előfordulás
+- Karbonátok és szilikátok
+- Ipari felhasználások (energiaipar, elektronika)
+
+SZÉN VEGYÜLETEI:
+- Szén-monoxid (CO): szerkezet, mérgezés, ipari gyártás
+- Szén-dioxid (CO2): légkör, üvegházhatás, laborfelhasználás
+- Szénsav (H2CO3): gyenge sav, puffer-rendszer
+
+SZILÍCIUM VEGYÜLETEI:
+- Szilícium-dioxid (SiO2): üveg, szilikagél, lúgos feltárás
+- Kovasav (H2SiO3): instabilitás, polikondenzáció
+- Szilikonok: polimerek, kenőanyagok, orvosi alkalmazások
+
+SZINTEK:
+- Középiskolai szint (9-12. osztály)
+- Magas hőmérsékletű végzősök számára (érettségi szint)
+
+ÖSSZES TARTALOM MAGYAR NYELVŰ.

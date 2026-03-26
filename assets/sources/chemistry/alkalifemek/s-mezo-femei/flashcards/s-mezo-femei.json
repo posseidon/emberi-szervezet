@@ -1,0 +1,179 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Alkálifémek elemei",
+      "definition": "Az I. csoport (1.) főcsoportjának elemei: lítium (Li), nátrium (Na), kálium (K), rubídium (Rb), cézium (Cs) és francium (Fr). Mindegyik +1-es oxidációs számú ionokká alakul.",
+      "quote": "Li, Na, K, Rb, Cs, Fr",
+      "text": "Az alkálifémek az I. csoport fő csoportja tagjai. Ezek az elemek nagyon reaktívak és mindig vegyületekben találhatók a természetben. Jellemzőjük az egyértékűségük (vagyis +1-es töltésű ionokká válnak). A francium radioaktív, legstabilabb izotópja 22 perc felezési idővel rendelkezik."
+    },
+    {
+      "id": 2,
+      "term": "Alkálifémek fizikai jellemzői",
+      "definition": "Ezüstszürke, fémesen csillogó, puha szilárd anyagok, alacsony olvadásponttal és kis sűrűséggel. Az oszlopon lefelé haladva az olvadáspont csökken.",
+      "quote": "Ezüstszürke, puha fémek",
+      "text": "Az alkálifémek ezüstszürke, fémesen csillogó megjelenésűek. Nagyon puha fémek, késsel könnyen darabolhatók. Az olvadáspontjuk rendkívül alacsony: a nátrium 98 °C-on, a kálium 63 °C-on olvad. A lítium, nátrium és kálium sűrűsége 1 g/cm³-nél kisebb, így vízfelszínen lebegnek."
+    },
+    {
+      "id": 3,
+      "term": "Lítium olvadáspontja",
+      "definition": "180 °C, az alkálifémek közül a legmagasabb olvadáspont.",
+      "quote": "180 °C a lítium olvadáspontja",
+      "text": "A lítium olvadáspontja 180 °C, ami az alkálifémek közül a legmagasabb. Ez azért van, mert a lítium átmérője a legkisebb, így az ionmagja felszínéhez közel helyezkedik el az elektronok, erősebb vonzást fejt ki."
+    },
+    {
+      "id": 4,
+      "term": "Ionizációs energia az alkálifémekben",
+      "definition": "Az első ionizációs energia kicsi és az oszlopon lefelé csökken. Ez azt jelenti, hogy az alkálifémek könnyen feladják vegyértékelektronjukat.",
+      "quote": "Alacsony ionizációs energia",
+      "text": "Az alkálifémek első ionizációs energiája rendkívül alacsony (Li: 520 kJ/mol, Na: 496 kJ/mol, K: 418 kJ/mol). Az oszlopon lefelé haladva az ionizációs energia csökken, ami azt jelenti, hogy az elektronokat könnyebben feladják. Ezért olyan erős redukálószerek."
+    },
+    {
+      "id": 5,
+      "term": "Alkálifémek tárolása",
+      "definition": "A nátriumot és káliumot petróleum alatt kell tárolni, mivel intenzíven reagálnak levegő oxigénjével és nedvességtartalmával.",
+      "quote": "Petróleum alatt tárolnak",
+      "text": "Az alkálifémek, különösen a nátrium és kálium, nagyon reaktívak. Ha levegőn vannak, oxidnak és a nedvességtartalom hatására meggyulladhatnak. Ezért ezeket az elemeket petróleum alatt tárolják, amely kizárja az oxigén és víz elérését."
+    },
+    {
+      "id": 6,
+      "term": "Lángfestés szín-elem kapcsolata",
+      "definition": "Az alkálifémek jellemző lángszínei: Li bíborvörös, Na sárga, K fakóibolya, Rb fakóvörös, Cs halványkék. Minden elemre egyedi.",
+      "quote": "Na: sárga, K: fakóibolya",
+      "text": "A lángfestés során az alkálifém ionjai a gázlánggal gerjesztett állapotba kerülnek, majd meghatározott hullámhosszú fényt sugároznak. A nátrium jellegzetes sárga szín miatt könnyen azonosítható. Ez a módszer analitikai célokra is alkalmas az alkálifémek felismeréséhez."
+    },
+    {
+      "id": 7,
+      "term": "Alkálifémek előfordulása a természetben",
+      "definition": "Csak vegyületekként fordulnak elő. Leggyakoribb: nátrium-klorid (tengervízben, sótelepeken) és kálium-klorid.",
+      "quote": "Csak vegyületekben",
+      "text": "Az alkálifémek soha nem fordulnak elő elemi állapotban a természetben, mert túl reaktívak. A nátrium-klorid és kálium-klorid nagy mennyiségben található meg a tengervízben és szárazföldi sótelepeken. Az élő szervezetben ezek az ionok kritikus szerepet játszanak az ozmózisos egyensúly és az idegrendszer működésében."
+    },
+    {
+      "id": 8,
+      "term": "Nátrium gyártása",
+      "definition": "A nátriumot kősó (NaCl) olvadékának elektrolízisével állítják elő: olvadékelektrolízis.",
+      "quote": "NaCl olvadékelektrolízise",
+      "text": "A nátrium ipari előállítása a nátrium-klorid (kősó) olvadékának elektrolízisén alapul. Ez egy nagy energiaigényes folyamat, amely magas hőmérsékleten (kb. 800 °C) történik. Az elektródákon nátrium fém és klórgáz képződik."
+    },
+    {
+      "id": 9,
+      "term": "Alkálifémek és oxigén reakciója",
+      "definition": "Az alkálifémek oxigénnel hevesen reagálnak, oxidok (főként peroxidok) képződnek. Pl.: Na peroxiddá (Na2O2) ég el.",
+      "quote": "Peroxidok képződnek",
+      "text": "Az alkálifémek a levegő oxigénjével szobahőmérsékleten is reagálnak. A felszínükön oxidréteg képződik, amely azonban nem egybefüggő, így nem védi meg a fém belsejét. Meggyújtva eléghetők: a nátrium peroxiddá (Na2O2) ég el, amely mély sárga színű."
+    },
+    {
+      "id": 10,
+      "term": "Alkálifémek és víz reakciója",
+      "definition": "Vízzel rendkívül hevesen reagálnak: nátrium/kálium hidroxid és hidrogén keletkezik. Pl.: 2 Na + 2 H2O = 2 NaOH + H2↑",
+      "quote": "Hevesen reagál vízzel",
+      "text": "Az alkálifémek vízzel rendkívül exoterm reakcióba lépnek. A fejlődő hő elegendő a fém megolvadásához. Mivel a fém kis sűrűségű, úszik a víz felszínén. A kálium még meggyullad, és a fejlődő hidrogént is meggyújtja, ezért robbanás következik be. Ez az egyik legspektakulárisabb kémiai reakció."
+    },
+    {
+      "id": 11,
+      "term": "Hidrogénfejlesztés alkálifémekkel",
+      "definition": "Az alkálifémek savoldatokból is hidrogént fejlesztenek, redukálják az oldatban levő H+ ionokat vagy a vizet.",
+      "quote": "Hidrogén fejleszti",
+      "text": "Az alkálifémek nem csak a vízzel, hanem sósavoldattal is hevesen reagálnak: 2 Na + 2 HCl = 2 NaCl + H2↑. A lúgoldat esetén a reakció egyenlete megegyezik a vízzel való oldódás egyenletével. Ez azt bizonyítja, hogy az alkálifémek erős redukálószerek."
+    },
+    {
+      "id": 12,
+      "term": "Alkálifémek és halogének",
+      "definition": "Halogénekkel (Cl2, Br2, I2) közvetlenül reagálnak, fém-halogenidek képződnek: 2 Na + Cl2 = 2 NaCl",
+      "quote": "Halogenideket képez",
+      "text": "Az alkálifémek a halogéneket azonnal hevesen megtámadják. Nátrium klórgázban elégethető és fehér nátrium-kloridot (konyhasót) ad. Ez az egyik legfontosabb vegyület, nátrium-klorid az ételipar és az ipar számos ágában használatos."
+    },
+    {
+      "id": 13,
+      "term": "Redukálószer képesség",
+      "definition": "Az alkálifémek erős redukálószerek, alacsony ionizációs energia és standardpotenciál miatt könnyen oxidálódnak.",
+      "quote": "Erős redukálószerek",
+      "text": "Az alkálifémek kémiai reakciókban erős redukálószerként viselkednek. Alacsony elektronegativitásuk és standardpotenciáljuk (E° körülbelül -3 V és -2,7 V között) azt jelenti, hogy könnyen feladják elektronjaikat. Gyakorlatilag bármely anyaggal képesek reagálni."
+    },
+    {
+      "id": 14,
+      "term": "Lítium felhasználása",
+      "definition": "Az elemi lítium akkumulátorok (elsősorban lítium-ion akkumulátorok) készítésének alapanyaga.",
+      "quote": "Akkumulátorok készítésére",
+      "text": "A lítium, mint a legkönnyebb fém, kiváló akkumulátor-alapanyag. A modern elektronika, különösen a mobiltelefon, laptop és elektromos járművek akkumulátorai lítiumot tartalmaznak. Magas energiasűrűsége és alacsony súlya miatt ideális alkalmazás."
+    },
+    {
+      "id": 15,
+      "term": "Alkálifémek és élő szervezet",
+      "definition": "A nátrium- és káliumionok kritikus szerepet játszanak folyadékháztartás, vérnyomás fenntartása, idegrendszer és izomműködésben.",
+      "quote": "Biológiai role fontos",
+      "text": "Az élő szervezetben a nátrium és kálium ionok esszenciálisak az ozmózisos egyensúlyhoz, a vérnyomás szabályozásához és az idegrendszer működéséhez. Az elektrolit-egyensúly fenntartása az ezek közötti megfelelő arányozáson múlik. Hiányuk vagy túlsúlya súlyos egészségügyi problémákat okozhat."
+    },
+    {
+      "id": 16,
+      "term": "Elektronegativitás alkálifémekben",
+      "definition": "Az elektronegativitás az oszlopon lefelé csökken (Li: 1,0; Na: 0,9; K: 0,8; Rb: 0,8; Cs: 0,7), jelezve az elektront leadó jelleget.",
+      "quote": "Csökken lefelé",
+      "text": "Az alkálifémek elektronegativitása az I. csoport legelektronegativebb elemei közül még így is elég alacsony. A lítium a legmagasabb (1,0), amely még így is igen alacsony érték. Az elektronegativitás csökkenése lefelé az oszlopon azt mutatja, hogy az alsóbb elemek még könnyebben adnak el elektronokat."
+    },
+    {
+      "id": 17,
+      "term": "Nátrium standard elektródpotenciálja",
+      "definition": "E° = -2,71 V, amely azt jelenti, hogy nagyon erős redukálószer (nagy negatív érték).",
+      "quote": "E° = -2,71 V",
+      "text": "A nátrium standard elektródpotenciálja -2,71 V, amely az egyik legnegatívabb érték az elemek közül. Ezt az értéket az Na+ + e- ⇌ Na célpontú félreakcióhoz mérik. Minél negatívabb az érték, annál erősebb a redukálószer képesség."
+    },
+    {
+      "id": 18,
+      "term": "Lítium sűrűsége",
+      "definition": "0,54 g/cm³, az összes elem közül a legkisebb sűrűsége, még a vízénél is kisebb.",
+      "quote": "Legkönnyebb szilárd fém",
+      "text": "A lítium sűrűsége 0,54 g/cm³, amely azt jelenti, hogy könnyebb a víznél. Ez az összes szilárdan létező fém közül a legkisebb. A lítium legalább 10-szer könnyebb a vasunál, ami rendkívül értékessé teszi az aerokozmikus iparban és az akkumulátorok gyártásában."
+    },
+    {
+      "id": 19,
+      "term": "Francium radioaktivitása",
+      "definition": "A francium nagyon ritka, radioaktív elem, legstabilabb izotópja (Fr-223) felezési ideje mindössze 22 perc.",
+      "quote": "Felezési ideje 22 perc",
+      "text": "A francium az a legkevésbé tanulmányozott elemek egyike, mivel radioaktív és rendkívül ritka. A legstabilabb izotópja, a francium-223 csupán 22 perc felezési idővel rendelkezik. Ez azért fontos, mert nehezen lehet a tulajdonságait vizsgálni, így sokan feltételezik, hogy hasonlít a többi alkálifémhez."
+    },
+    {
+      "id": 20,
+      "term": "Kálium spontán meggyulladása",
+      "definition": "A kálium a levegő nedvességtartalmával is hevesen reagálva spontán meggyulladhat, ezért petróleum alatt kell tárolni.",
+      "quote": "Levegőn spontán gyullad",
+      "text": "A kálium még reaktívabb, mint a nátrium. Szabad levegőn hagyva a levegő nedvességtartalmával reagál, és a felszabaduló hő elegendő ahhoz, hogy a fém magához gyulladjon. Ezért különösen fontos a petróleum alatti tárolása. Ez az egyik legjobban mutatja a kálium szélsőséges reaktivitását."
+    },
+    {
+      "id": 21,
+      "term": "Rubídium és cézium összevetése",
+      "definition": "A rubídium és cézium az alkálifémek közül a legalsóbb elemek, még reaktívabbak, mint a kálium, és még alacsonyabb olvadáspontjuk van.",
+      "quote": "Még reaktívabbak",
+      "text": "A rubídium (Rb) és cézium (Cs) az alkálifémek közül az utolsók az I. csoport fő csoportjában. Olvadáspontjuk még alacsonyabb (Rb: 39 °C, Cs: 28 °C), és ionizációs energiájuk még kisebb. Ezek az elemek még hevesebben reagálnak, mint a kálium, és még nagyobb gondot igényelnek a tárolásban."
+    },
+    {
+      "id": 22,
+      "term": "Oxidációs szám alkálifémekben",
+      "definition": "Az alkálifémek mindig +1-es oxidációs számú vegyületeket képeznek, mivel egy vegyértékelektronjuk van.",
+      "quote": "+1 oxidációs szám",
+      "text": "Az I. csoport elemeiként az alkálifémeknek egy vegyértékelektronja van a külső héjukon. Kémiai reakciókban ezt az elektronot feladják, és +1-es oxidációs számú ionokká alakulnak. Ez a jellegzetes +1-es töltésű ionképzés az oka a nemesgázszerkezetnek és a kémiai stabilitásnak."
+    },
+    {
+      "id": 23,
+      "term": "Nemesgázszerkezet elérése",
+      "definition": "Az alkálifémek vegyületekben nemesgázszerkezetet érnek el (pl.: Na+ szerkezetét az Ne atomé, K+ szerkezetét az Ar atomé).",
+      "quote": "Nemesgázszerkezet",
+      "text": "Az alkálifém ionok (Na+, K+ stb.) nemesgázszerkezetet vesznek fel az egész vegyértékelektron feladásával. A Na+ az Ne szerkezetét, a K+ az Ar szerkezetét kapja. Ez az egyik fő oka annak, hogy az alkálifém-vegyületek jól szervezedtek és nagy ionizációs energiájúak az összes elektronja tekintetében."
+    },
+    {
+      "id": 24,
+      "term": "Felületi oxidréteg képződése",
+      "definition": "Az alkálifémek a levegő oxigénjével szobahőmérsékleten is oxidálódnak, felszínükön oxidréteg képződik, amely azonban nem egybefüggő.",
+      "quote": "Nem egybefüggő oxidréteg",
+      "text": "Az alkálifémek valóban gyorsan oxidálódnak a levegőben. A képződő oxidréteg azonban nem képez hermétikus szigetelést, mint például az alumínium esetén. Ez azt jelenti, hogy az oxigén továbbra is behatolhat és a fém belsejét is oxidálja, szükségessé téve a petróleum alatti tárolást."
+    },
+    {
+      "id": 25,
+      "term": "Lángfestés gyakorlati alkalmazása",
+      "definition": "Analitikai módszer az alkálifémek azonosítására. Otthon a konyhasó gáztűzhely lángjára szórásával kipróbálható.",
+      "quote": "Sárga lángnál azonosít",
+      "text": "A lángfestés klasszikus analitikai módszer az alkálifémek felismerésére. Ha konyhasót (NaCl) szórunk gáztűzhelyre, a nátrium jellegzetes sárga szín lesz látható. Ez az egyik legoldottabb kísérlet, amely bemutatja az alkálifémek egyedi elektronszerkezetét és fotonemissziós tulajdonságait."
+    }
+  ]
+}

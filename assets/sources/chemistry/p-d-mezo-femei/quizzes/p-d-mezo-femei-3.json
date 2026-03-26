@@ -1,0 +1,196 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "p-d-mezo-femei",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az alumínium első ionizációs energiája és standardpotenciálja milyen karaktert mutat?",
+      "options": [
+        "Magas ionizációs energia, pozitív potenciál",
+        "Alacsony ionizációs energia, negatív potenciál",
+        "Magas ionizációs energia, negatív potenciál",
+        "Alacsony ionizációs energia, pozitív potenciál"
+      ],
+      "answer": "Alacsony ionizációs energia, negatív potenciál"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az alumínium lúgoldatban oldódik, mivel _____ komplexet képez.",
+      "options": [],
+      "answer": "tetrahidroxo-aluminát"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Az ón és az ólom közül melyik mérgező anyag?",
+      "options": [
+        "Az ón",
+        "Az ólom",
+        "Mindkettő egyformán mérgező",
+        "Egyik sem mérgező"
+      ],
+      "answer": "Az ólom"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A nagyolvasztó során a nyersvasban magas _____ tartalom miatt az öntöttvas rideg marad.",
+      "options": [],
+      "answer": "szén"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Az öntöttvas mely tulajdonsága teszi alkalmasabbá a vastárgyak készítésénél, mint a nyersvas?",
+      "options": [
+        "Nagyobb keménysége",
+        "Jobb rugalmassága",
+        "Jobb önthetősége",
+        "Nagyobb elektromosvezetősége"
+      ],
+      "answer": "Jobb önthetősége"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az ezüst-halogenidek közül az _____ fehér, az AgBr sárgásfehér, az AgI sárga csapadék.",
+      "options": [],
+      "answer": "AgCl"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "A bronz mely elemekből álló ötvözet?",
+      "options": [
+        "Réz és cink",
+        "Réz és ón",
+        "Vas és ón",
+        "Réz és nikkel"
+      ],
+      "answer": "Réz és ón"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A vas passzívvá válása a _____ oxidáló savakban fordul elő.",
+      "options": [],
+      "answer": "tömény"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "A nikkel és kobalt melyek az oxidációs állapota vegyületeikben?",
+      "options": [
+        "+2 és +3",
+        "Csak +2",
+        "+1 és +2",
+        "Csak +3"
+      ],
+      "answer": "Csak +2"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A vas(II)-ionok halványzöld szín, míg a vas(III)-ionok _____ szín.",
+      "options": [],
+      "answer": "sárgás-barna"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Az arany mely nemesfém-tulajdonsággal rendelkezik?",
+      "options": [
+        "Levegővel reagál",
+        "Szulfidionokkal azonnal bomlást szenved",
+        "Nem képez semmilyen oxidációs terméket levegőn",
+        "Szobahőmérsékleten folyadék"
+      ],
+      "answer": "Nem képez semmilyen oxidációs terméket levegőn"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A réz-tetrammin-komplex [Cu(NH₃)₄]²⁺ _____ szín.",
+      "options": [],
+      "answer": "sötétkék"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A cink melyek a megjelölések?",
+      "options": [
+        "Zn, Z=30",
+        "Zn, Z=65",
+        "Cu, Z=29",
+        "Zn, A=65"
+      ],
+      "answer": "Zn, Z=30"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A cink-szulfid (ZnS) és az arany-szulfid (Au₂S₃) közül az _____ fekete szín.",
+      "options": [],
+      "answer": "FeS"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "A higany mely tulajdonsága miatt használták hőmérőkben?",
+      "options": [
+        "Nagy sűrűsége és lúgos pH-ja",
+        "Szobahőmérsékleten folyékony és széles hőmérsékleti tartomány",
+        "Elektromosvezetősége",
+        "Nem szagtalan"
+      ],
+      "answer": "Szobahőmérsékleten folyékony és széles hőmérsékleti tartomány"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A kálium-permanganát tömény sósavval reagáltatva _____ gáz keletkezik.",
+      "options": [],
+      "answer": "klór"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "A vörösiszap melyik folyamat mellékterméke?",
+      "options": [
+        "Az izzítás folyamatában",
+        "Az elektrolízis során",
+        "A lúgos feltárásban",
+        "A kicsapás során"
+      ],
+      "answer": "A lúgos feltárásban"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az alumínium-vegyületei közül az _____ a legfontosabb és olvadékelektrolízis útján alumíniumot nyernek ki belőle.",
+      "options": [],
+      "answer": "alumínium-oxid"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Az ezüst mely tulajdonsága miatt népszerű az ékszeriparban?",
+      "options": [
+        "Rendkívüli keménysége",
+        "Magas olvadáspontja",
+        "Jellegzetes szép ezüstfehér szín és könnyen megmunkálhatósága",
+        "Nagy elektromosvezetősége"
+      ],
+      "answer": "Jellegzetes szép ezüstfehér szín és könnyen megmunkálhatósága"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az ón és az ólom felületét _____ oxidok védemik a korróziótól.",
+      "options": [],
+      "answer": "tömör"
+    }
+  ]
+}

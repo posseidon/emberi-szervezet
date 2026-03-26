@@ -1,0 +1,179 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi az atom alapvető meghatározása?",
+      "definition": "Az atom atommagból és elektronfelhőből álló elektromosan semleges részecske, amely protonokból, neutronokból és elektronokból áll.",
+      "quote": "Magból és elektronokból áll",
+      "text": "Az atom a kémia alapegysége. Elektromosan semleges, mivel a pozitív protonok száma megegyezik a negatív elektronok számával. Így az atom nem rendelkezik elektromos töltéssel alapállapotban."
+    },
+    {
+      "id": 2,
+      "term": "Mi az atommag és mit tartalmaz?",
+      "definition": "Az atommag a protonokból és neutronokból álló, az atom központi része, amelyet nukleonoknak is neveznek (a nucleus latin szóból).",
+      "quote": "Protonok és neutronok zártkörűn",
+      "text": "Az atommag az atom tömegének szinte minden részét tartalmazza, össztömege az atomtömeg 99,9%-a. A protonok pozitív, a neutronok semleges töltésűek. Az atommagban foglalt protonok száma meghatározza az elemfelséget."
+    },
+    {
+      "id": 3,
+      "term": "Mi a rendszám (Z) és mit jelent?",
+      "definition": "A rendszám az atom atommagjában levő protonok száma, amely egyértelműen azonosítja az kémiai elemet.",
+      "quote": "Protonszám = rendszám",
+      "text": "A rendszám minden elemre jellegzetes és semmilyen külső körülmény nem változtatja meg. Például a fluornak rendszáma 9, azaz minden fluoratom magjában pontosan 9 proton van. Ha a protonszám megváltozik, az atom egy másik elemre transzformálódik."
+    },
+    {
+      "id": 4,
+      "term": "Mi a tömegszám (A) és hogyan számítható?",
+      "definition": "A tömegszám az atom protonjai és neutronjai számának összege: A = Z + N, ahol N a neutronok száma.",
+      "quote": "Protonok + neutronok = tömegszám",
+      "text": "A tömegszám az atomsúlyhoz közel áll, de nem azonos, mivel nem veszi figyelembe az elektron tömegét és a magdefektust. Egy atom vegyelének a bal felső sarkába írják. Például a 19F jelölés azt mutatja, hogy a tömegszám 19."
+    },
+    {
+      "id": 5,
+      "term": "Hogyan írjuk le az atom vegyelét a rendszám és tömegszám segítségével?",
+      "definition": "Az atom vegjele az elem szimbóluma mellett a rendszámot a bal alsó, a tömegszámot a bal felső sarokba írjuk, például: 19₉F vagy ₉¹⁹F.",
+      "quote": "Jobb felírás: felül tömeg, alul redszám",
+      "text": "Ez a jelölés egyértelműen azonosítja az adott elem izotópját. Ebből meg lehet határozni a protonok, neutronok és az elektronok számát is. Az elektronok száma alapállapotban megegyezik a protonok számával (rendszámmal)."
+    },
+    {
+      "id": 6,
+      "term": "Mi az izotóp és mitől különböznek az elemek izotópjai egymástól?",
+      "definition": "Egy elem izotópjai azonos rendszámú (azonos protonszámú), de különböző tömegszámú atomok, amelyek ugyanazon kémiai elem különböző neutronszámú variánsai.",
+      "quote": "Azonos proton, különböző neutron",
+      "text": "Az izotópok kémiai tulajdonságai szinte azonosak, mert az elektronszerkezetük megegyezik. Azonban fizikai tulajdonságaik eltérnek, főleg az atommag stabilitása. Például a fluornak csak egy stabil izotópja van (19F), míg a klórnak kettő: a klór-35 és klór-37."
+    },
+    {
+      "id": 7,
+      "term": "Milyen előfordulási arány jellenzeti a klórizotópokat?",
+      "definition": "A klórnak két stabil izotópja: klór-35 (75,78%) és klór-37 (24,22%) aránnyal fordul elő a természetben.",
+      "quote": "Klór-35 százaléka nagyobb",
+      "text": "Ez az izotóparánya az átlagos atommassza számításához felhasználható. A természetben előforduló klór ezen két izotóp keveréke. Mindkét forma stabil, nem bomlanak radioaktívan."
+    },
+    {
+      "id": 8,
+      "term": "Mi a radioaktív izotóp és mi jellemzi?",
+      "definition": "A radioaktív izotópok olyan atomi változatok, amelyeknek atommagja nem stabil, idővel elbomlik és sugárzást bocsátanak ki.",
+      "quote": "Nem stabil, sugárzást kibocsát",
+      "text": "Az instabil atommagok spontán módon átalakulnak más elemekké, miközben alfa, béta vagy gamma sugárzást vagy neutronokat bocsátanak ki. A radioaktív bomlás sebessége az elemtől függően lehet rövid vagy nagyon hosszú. Például a szén-14 félcsacslebenye körülbelül 5730 év."
+    },
+    {
+      "id": 9,
+      "term": "Mire használjuk a szén-14 radioaktív izotópját?",
+      "definition": "A radiokarbon kormeghatározás során a szén-14 izotóp radioaktív bomlásának sebessége alapján határozzák meg régészeti leletek korát.",
+      "quote": "Ásatási korodatálás szénnel",
+      "text": "Az élő szervezetekben a szén-14 aránya állandó, haláluk után azonban a radioaktív szén-14 bomlásának köszönvetően az aránya csökken. Ez lehetővé teszi a legutolsó több tízezer éven belüli leletek korának meghatározását. Ezt a módszert például csontok, fa és szövet kormeghatározásához használják."
+    },
+    {
+      "id": 10,
+      "term": "Mi az elektronfelhő és mit tartalmaz?",
+      "definition": "Az elektronfelhő az atom körül lévő régió, ahol az elektronok találhatók, mely elektronhéjakra, alhéjakra és atompályákra tagolódik.",
+      "quote": "Elektronok felh0je az mag körül",
+      "text": "Az elektronfelhő szerkezete háromszintű: első szinten az elektronhéjak, második szinten az alhéjak, harmadik szinten az atompályák. Az elektronok ezeken az atompályákon elhelyezkedve alkotják az atomot körülvevő elektronikus szerkezetet."
+    },
+    {
+      "id": 11,
+      "term": "Hogyan jelöljük az elektronhéjakat és mely héjak léteznek?",
+      "definition": "Az elektronhéjakat számokkal (1., 2., 3., 4. héj) vagy betűkkel (K, L, M, N héj) szokás jelölni, ahol a kisebb sorszámu héjak közelebb vannak az atommaghoz és alacsonyabb az energiájuk.",
+      "quote": "1, 2, 3, 4 vagy K, L, M, N",
+      "text": "Az első (K) héj a legközelebb az atommaghoz és a legkisebb energiájú. Az elektronok preferenciája az alacsonyabb energiájú héjak feltöltése. Egy héjra maximum 2n² elektron fér, ahol n a héjszám. Ezért az 1. héjon max. 2, a 2. héjon max. 8, a 3. héjon max. 18 elektron lehet."
+    },
+    {
+      "id": 12,
+      "term": "Mi az alhéj és mely alhéjak léteznek az egyes elektronhéjakon?",
+      "definition": "Az alhéjak az elektronhéjakon belüli további felosztások, amelyeket s, p, d, f betűkkel jelölünk az elektronszerkezetüknek megfelelően.",
+      "quote": "Héjakon belül: s, p, d, f",
+      "text": "Az első héjon csak 1s alhéj van, a második héjon 2s és 2p, a harmadik héjon 3s, 3p, 3d, a negyedik héjon 4s, 4p, 4d, 4f alhéjak. Az alhéjak betöltődésének sorrendje az energiaminimum elve alapján történik."
+    },
+    {
+      "id": 13,
+      "term": "Mi az atompálya a kvantummechanikai modellben?",
+      "definition": "Az atompálya egy matematikai függvény, amely az elektron energiáját, viselkedését és előfordulási valószínűségét írja le az atomban.",
+      "quote": "Valószínűségi függvény elektronhelyére",
+      "text": "Az atompályák nem klasszikus értelemben vett pályák, mint a bolygók a nap körül. Az atompálya abból a térrészből áll, ahol az elektron 90%-os valószínűséggel megtalálható. Az elektron kettős természete (részecskeként és hullámként viselkedik) miatt nem lehet pontos pályát megadni."
+    },
+    {
+      "id": 14,
+      "term": "Mi az elektron spin és milyen értékei lehetségesek?",
+      "definition": "A spin az elektronnak egy belső tulajdonsága, amely a töltéshez hasonlóan két értéket vehet fel: felfelé (↑) vagy lefelé (↓) mutató nyílként ábrázoljuk.",
+      "quote": "Felfelé vagy lefelé mutó nyíl",
+      "text": "A spin nem a valós fizikai forgásnak felel meg, hanem egy kvantumos jellemző. Egy atompályán maximum két elektron lehet, és ezeknek az ellentétes spinűeknek kell lenniük (↑↓). Ez a Pauli-féle kizárási elv egyik megfogalmazása."
+    },
+    {
+      "id": 15,
+      "term": "Hány atompálya és elektron van az s, p, d és f alhéjakon?",
+      "definition": "Az s alhéjain 1 atompálya és max. 2 elektron; a p alhéjaikon 3 atompálya és max. 6 elektron; a d alhéjaikon 5 atompálya és max. 10 elektron; az f alhéjaikon 7 atompálya és max. 14 elektron található.",
+      "quote": "s-2, p-6, d-10, f-14",
+      "text": "Ez az atompályák száma (azonos alhéjon belüli, azonos energia) és az elektronkapacitás alapvető jellemzője. Az elektronszerkezet felírásakor ezeket az értékeket alapul kell venni. Például az 1s² azt jelenti, hogy az 1s alhéjon 2 elektron van (teljesen betöltött)."
+    },
+    {
+      "id": 16,
+      "term": "Mi az energiaminimum elve és hogyan alkalmazzuk?",
+      "definition": "Az energiaminimum elve szerint az elektronok alapállapotban a lehetséges legalacsonyabb energiaszinteken helyezkednek el, azaz előbb töltik fel az alacsonyabb energiájú alhéjakat.",
+      "quote": "Alacsony energia előbb betöltődik",
+      "text": "Az alhéjak betöltődésének sorrendje: 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s, 5f, 6d, 7p. Ez az Au-féle felépítési elv. A periódusos rendszer szerkezete ennek a sorrendnek a grafikus ábrázolása."
+    },
+    {
+      "id": 17,
+      "term": "Mi a Hund-szabály és mikor alkalmazzuk?",
+      "definition": "A Hund-szabály azt írja elő, hogy egy alhéj atompályáit az elektronok maximálisan párosítatlanul töltik fel előtt, mint hogy párosított elektronokat helyeznének el.",
+      "quote": "Párosítatlan előbb elektronok",
+      "text": "Például a 2p alhéj három atompályájára az elektronok így kerülnek be: ↑ ↑ ↑, majd csak ezután kezdenek párosodni ↑↓ ↑ ↑. Ez a szabály az elektronok közötti taszítóerőre visszavezethető - a párosítatlan elektronok alacsonyabb energiájú állapotban vannak."
+    },
+    {
+      "id": 18,
+      "term": "Mi a Pauli-féle kizárási elv?",
+      "definition": "A Pauli-elv szerint ha egy atompályán két elektron van, azoknak ellentétes spinűeknek kell lenniük (↑↓), vagyis nem lehet két azonos spinű elektron ugyanazon az atompályán.",
+      "quote": "Ellentétes spin ugyanez pályán",
+      "text": "Ez az elv alapvetően korlátozza az elektronok elhelyezkedését az atomban. Biztosítja, hogy minden atompályán maximum 2 elektron maradhat, és ezek a spinje között teljesen ellentétes kell, hogy legyen."
+    },
+    {
+      "id": 19,
+      "term": "Mi a vegyértékelektron és mi az atomtörzs?",
+      "definition": "A vegyértékelektronok a külső, le nem zárt elektronhéjon levő elektronok, amelyek a kémiai kötések kialakításában vesznek részt. Az atomtörzs a többi elektron és az atommag együttes elnevezése.",
+      "quote": "Külső héj elektron = vegyérték",
+      "text": "A kémiai tulajdonságok nagyrészt a vegyértékelektronok számától és elhelyezkedésétől függenek. Az atomtörzs az atomot jellemző állandó magja. Például a nátriumnak (Na) 1 vegyértékelektrona van a 3s orbitálban, az atomtörzse pedig a [Ne] elektronszerkezet."
+    },
+    {
+      "id": 20,
+      "term": "Mi az atomsugár és hogyan definiáljuk?",
+      "definition": "Az atomsugár az atommag és a legkülső vegyértékelektron közötti távolság, általában a kovalens kötésben lévő atomok atommagközötti távolságának felét használják az atomméret jellemzésére (kovalens sugár).",
+      "quote": "Magközötti távolság fele",
+      "text": "Az atomsugár nem határozható meg pontosan, mivel az elektron helye csak valószínűséggel adható meg. A kovalens sugár az empirikus módszer, ahol a kötés hosszát felezik meg. Az atomsugár a periódusos rendszerben rendszeres trendet mutat."
+    },
+    {
+      "id": 21,
+      "term": "Miért nem adható meg az atom pontos mérete?",
+      "definition": "Az atom mérete azért nem adható meg pontosan, mivel az elektron helye csak valószínűséggel határozható meg, és az elektronnak kettős természete van (részecske és hullám is egyben).",
+      "quote": "Elektron valószínűségi helyén van",
+      "text": "A klasszikus fizika szerint egy bolygó pályáját pontosan ismerjük, azonban az elektron kvantummechanikai jellegéből adódóan ezt nem tudjuk tenni. Helyette a valószínűségi sűrűséget írjuk le, amelyből az atompálya alakja (90%-os valószínűségi határ) meghatározható."
+    },
+    {
+      "id": 22,
+      "term": "Hogyan írjuk fel egy atom elektronszerkezetét?",
+      "definition": "Az elektronszerkezet felírása során az energiaminimum elve, a Hund-szabály és a Pauli-elv alapján felsoroljuk az alhéjakat kitöltés sorrendjében a bennük levő elektronok számával, például: 1s² 2s² 2p⁶ 3s² 3p¹.",
+      "quote": "Energia növekvő sorrendben írjuk",
+      "text": "A szén (Z=6) elektronszerkezete: 1s² 2s² 2p². Az energiaminimum elvet követve először a 1s, majd a 2s, majd a 2p alhéjakat töltik fel. A Hund-szabály miatt a 2p alhéj 2 párosítatlan elektronnal rendelkezik: 2p²."
+    },
+    {
+      "id": 23,
+      "term": "Mi az s mező a periódusos rendszerben?",
+      "definition": "Az s mező azoknak az elemeknek felel meg, amelyeknek a legkülső alhéja s típusú (1s, 2s, 3s, stb.), és az I. és II. főcsoportot valamint a hidrogént és héliumot tartalmazza.",
+      "quote": "Legkülső alhéj s típusú",
+      "text": "Az s mezőban 2 oszlop található (2 elektron fér egy s alhéjon). A periódusos rendszer bal szélén helyezkedik el. Az összes csoport elemsora s mezővel kezdődik."
+    },
+    {
+      "id": 24,
+      "term": "Mi a p mező a periódusos rendszerben?",
+      "definition": "A p mező azoknak az elemeknek felel meg, amelyeknek a legkülső alhéja p típusú (2p, 3p, 4p, stb.), és az III-VIII. főcsoportokat tartalmazza.",
+      "quote": "Legkülső alhéj p típusú",
+      "text": "A p mezőben 6 oszlop található (6 elektron fér egy p alhéjon), amelyek az egyik nemesgázzal végződnek. A periódusos rendszer jobb szélén helyezkedik el. A p mező 6 különböző oszlopa különböző elektronszámokat jelöl."
+    },
+    {
+      "id": 25,
+      "term": "Mi a d mező a periódusos rendszerben?",
+      "definition": "A d mező azoknak az elemeknek felel meg, amelyeknek a legkülső alhéja d típusú (3d, 4d, 5d, stb.), és a mellékcsoportokat tartalmazza.",
+      "quote": "Legkülső alhéj d típusú",
+      "text": "A d mezőben 10 oszlop található (10 elektron fér egy d alhéjon). Az átmenetifémek és az övék tartoznak ide. Az átmenetifémek jellegzetessége, hogy több azonos energiájú alhéjjal rendelkeznek, ezért változatos oxidációs állapotok mutatnak."
+    }
+  ]
+}

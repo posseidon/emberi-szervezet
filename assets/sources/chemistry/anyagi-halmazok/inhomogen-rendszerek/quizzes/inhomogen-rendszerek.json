@@ -1,0 +1,196 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "inhomogen-rendszerek",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "A diszperz rendszer alapvető jellemzője az, hogy:",
+      "options": [
+        "Homogén, mivel az összes összetevő tökéletesen elkeveredik.",
+        "Heterogén, mivel több, különböző összetételű fázisból áll, amelyek nem feltétlen egybefüggőek.",
+        "Csak szilárd és folyadék halmazállapotból állhat.",
+        "Az összes összetevőjének azonos a halmazállapota."
+      ],
+      "answer": "Heterogén, mivel több, különböző összetételű fázisból áll, amelyek nem feltétlen egybefüggőek."
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A diszperz rendszerben a nagyobb mennyiségű összetevőt _____ -nak, a másik komponenst pedig a diszpergált anyagnak nevezzük.",
+      "options": [],
+      "answer": "közeg"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Az alábbiak közül melyik tekintett diszperz rendszernek?",
+      "options": [
+        "Vízben oldódott etanol homogén oldatát.",
+        "Cukor és víz keverékét, ahol a cukor egy része még feloldatlan marad.",
+        "Tiszta vízet.",
+        "Gázelegyet, amely több gázból áll."
+      ],
+      "answer": "Cukor és víz keverékét, ahol a cukor egy része még feloldatlan marad."
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az olyan diszperz rendszert, amelyben gázt diszpergálnak egy folyadékban, és a gázbuborékok közt szilárd halmozódik meg, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "hab"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Az emulzió jellemzése: egy _____ -ben diszpergált _____ ",
+      "options": [
+        "gázban / szilárd anyag",
+        "folyadékban / folyadék",
+        "szilárdban / gáz",
+        "gázban / folyadék"
+      ],
+      "answer": "folyadékban / folyadék"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Ha szilárd anyagot diszpergálunk egy folyadékban (például vizet), a keletkező rendszert _____ -nak nevezzük.",
+      "options": [],
+      "answer": "szuszpenzió"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "A kolloid rendszer meghatározása: a diszpergált fázis mérettartománya _____ között helyezkedik el?",
+      "options": [
+        "0,1 és 10 nm között",
+        "1 és 1000 nm között",
+        "10 és 10000 nm között",
+        "1 és 100 μm között"
+      ],
+      "answer": "1 és 1000 nm között"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A kolloid részecskék már elég kicsik ahhoz, hogy ne _____ lenek, de elég nagyok ahhoz, hogy szórják a fényt.",
+      "options": [],
+      "answer": "ülepedjenek"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "A makromolekuláris kolloidok esetén az oldott anyag részecskéi:",
+      "options": [
+        "Kicsiny molekulák, amelyek a kolloid mérettartományon kívül esnek.",
+        "Óriásmolekulák, amelyek már eleve a kolloid mérettartományba esnek.",
+        "Ionok, amelyeket hidratáció vesz körül.",
+        "Néhány száz atomból álló molekulák."
+      ],
+      "answer": "Óriásmolekulák, amelyek már eleve a kolloid mérettartományba esnek."
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az olyan molekulákat vagy ionokat, amelyeknek egy poláris \"fejük\" és egy apoláris \"lábuk\" van, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "amfipatikus"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "A szappan vízben való oldódásakor micellákat képez. Milyen szerkezetűek ezek a micellák?",
+      "options": [
+        "A szappanmolekulák a vízben szabadon lebegnek.",
+        "Gömb alakú szerkezetek, ahol az apoláris lábak a gömb belsejében, a poláris fejek pedig a víz felé fordulnak.",
+        "Lineáris láncok, amelyek a víz felszínén helyezkednek el.",
+        "A micellákban csak a vízmolekulák gyűlnek össze."
+      ],
+      "answer": "Gömb alakú szerkezetek, ahol az apoláris lábak a gömb belsejében, a poláris fejek pedig a víz felé fordulnak."
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az olyan asszociációs kolloid, amelyet a szappan vízben való oldódásakor képez, azzal, hogy a molekulái gömb alakú felépítményt hoznak létre, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "micella"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A mikrofázis típusú kolloidok közül melyik nem hozhető létre kémiailag?",
+      "options": [
+        "Ha egy vízzel nem elegyedő folyadékot nagyon apró cseppekben vízben eloszlatunk.",
+        "Ha egy kémiai reakcióban egy homogén oldatból szilárd anyag válik ki.",
+        "Ha hidrogénkötéseket alakítunk ki az oldatban.",
+        "Mind a három lehetséges, csak a (c) nem a mikrofázis típusba tartozik."
+      ],
+      "answer": "Ha hidrogénkötéseket alakítunk ki az oldatban."
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az olyan folyékony (vagy gázhalmazállapotú) közegű kolloid rendszert, amely nem folyik, ezért szilárd térhálós szerkezettel rendelkezik, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "gél"
+    },
+    {
+      "id": 15,
+      "type": "BLANK",
+      "question": "Az olyan kolloid rendszert, amely folyékony vagy gázhalmazállapotú közegből áll és könnyen folyik, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "szol"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "A gélek szerkezete a szolokkal összehasonlítva milyen eltérést mutat?",
+      "options": [
+        "A géleknek nincs szilárd térhálózatuk, ezért könnyen folynak.",
+        "A géleknek van szilárd térhálós szerkezetük, amelyhez a folyadék (oldószer) molekulái erősen kötődnek, így nem folynak.",
+        "A géleknek több folyadéka van, mint a szoloknak.",
+        "A gélek és szolok szerkezete azonos, csak az előbbiek sötétebbek."
+      ],
+      "answer": "A géleknek van szilárd térhálós szerkezetük, amelyhez a folyadék (oldószer) molekulái erősen kötődnek, így nem folynak."
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "A felületen való megkötődést _____ -nak, a megkötött anyag leszakadását pedig deszorpciónak nevezzük.",
+      "options": [],
+      "answer": "adszorpció"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "A gyomorrontások kezelésében használt széntabletták nagy felületi feszültsége miért hasznos?",
+      "options": [
+        "Mert megemeli a gyomor pH-ját.",
+        "Mert a nagy felületen megkötödnek a mérgező anyagok, így könnyebben eltávolíthatók a szervezetből.",
+        "Mert a szén teljes mértékben semlegesíti a toxinokat.",
+        "Mert a szén agy szöveteibe jut és ott tárolódik."
+      ],
+      "answer": "Mert a nagy felületen megkötödnek a mérgező anyagok, így könnyebben eltávolíthatók a szervezetből."
+    },
+    {
+      "id": 19,
+      "type": "BLANK",
+      "question": "Az olyan szilárd anyag felülete és tömege közötti hányadost, amely azt jelenti, hogy 1 g anyagnak mekkora a felülete, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "fajlagos felület"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "A szerkezete alapján egy aeroszol és egy füst közül melyik szilárd aeroszol?",
+      "options": [
+        "Az aeroszol mindig folyadék-gáz diszperz rendszer.",
+        "A füst szilárd aeroszol, amely szilárd részecskéket tartalmaz a gázban.",
+        "Az aeroszol és a füst azonos, csak különböző neveken szokás rájuk hivatkozni.",
+        "Egyik sem tekinthető szilárd aeroszolnak."
+      ],
+      "answer": "A füst szilárd aeroszol, amely szilárd részecskéket tartalmaz a gázban."
+    }
+  ]
+}

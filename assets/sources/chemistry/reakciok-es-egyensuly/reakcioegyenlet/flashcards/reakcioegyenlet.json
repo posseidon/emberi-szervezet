@@ -1,0 +1,109 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Reakcióegyenlet definíciója",
+      "definition": "A kémiai reakciók során bekövetkezett anyagi változást leíró egyenlet, amely a kiindulási anyagokat (reaktánsok) a bal oldalon, a termékeket a jobb oldalon mutatja.",
+      "quote": "Atomok, ionok kötésének felszakadása és új kötések képződése",
+      "text": "A reakcióegyenlet a részecskék szintjén kifejezi, hogy mely molekulák, ionok vagy atomok ütközése során történt a kémiai változás, melyek szakadtak fel és milyen új kötések keletkeztek. Például: 2 H2 + O2 = 2 H2O azt jelenti, hogy két hidrogénmolekula és egy oxigénmolekula kötései szakadnak fel, és két vízmolekula keletkezik."
+    },
+    {
+      "id": 2,
+      "term": "Sztöchiometriai együtthatók",
+      "definition": "A reakcióegyenletben az anyagok képlete előtt álló számok, amely az adott anyag móljainak számát jelölik a kémiai folyamatban.",
+      "quote": "Mennyiségi arányok az egyenletből",
+      "text": "A sztöchiometriai együtthatók megadják az anyagok mólarányait. Az O2 és H2 reakciójában: 2 H2 + O2 = 2 H2O azt jelenti, hogy 2 mól hidrogén 1 mól oxigénnel reagál (2:1 mólarány). Ha az együttható 1, azt nem szoktuk kiírni. Az együtthatók az anyagmennyiségek arányát fejezik ki, nem pedig a tömegeket."
+    },
+    {
+      "id": 3,
+      "term": "Elemek megmaradásának elve",
+      "definition": "Alapelv, amely szerint a kémiai reakciókban az egyes elemek atomjainak száma az egyenlet két oldalán azonos marad.",
+      "quote": "Protonszám nem változik",
+      "text": "Ez az elv az alapja az egyenletrendezésnek. Mivel kémiai reakcióban az atomok protonszáma (rendszáma) nem változik, minden elemből az egyenlet bal és jobb oldalán egyenlő számú atom kell, hogy szerepeljen. Ez biztosítja, hogy az anyag megmarad, csak átrendeződik."
+    },
+    {
+      "id": 4,
+      "term": "Egyenletrendezés lépései",
+      "definition": "Módszeres eljárás az elemek megmaradása elve alapján a sztöchiometriai együtthatók megállapítására.",
+      "quote": "Lépésről lépésre előrehaladva",
+      "text": "Az egyenletrendezés menete: (1) Minden anyag együtthatóját 0-nak vesszük. (2) A legtöbb atomot tartalmazó vegyületből 1-et vesszünk. (3) Keresi az elemet, amely másik oldalon csak egy anyagban szerepel, ennek együtthatóját ehhez igazítja. (4) Folytatja más elemek atomjaival, amikor kevés helyen szerepelnek. (5) Végül összeszámolja a több helyen előforduló atomokat. (6) Ha szükséges, az összes együtthatót szorozzuk/osztjuk ugyanazzal a számmal."
+    },
+    {
+      "id": 5,
+      "term": "Nem egész együtthatók az egyenletben",
+      "definition": "Olyan reakcióegyenletek, ahol az együtthatók nem egész számok, hanem törtszámok, de mennyiségi arányt helyesen fejezik ki.",
+      "quote": "Fél molekula csak matematikailag értelmes",
+      "text": "A nem egész együtthatókkal rendezett egyenlet is elfogadható, mivel a mennyiségi arányt ugyanúgy kifejezi. Például: H2 + ½ O2 = H2O helyes, mivel a mólarány 2:1 = 1:0,5. Azonban részecskék szintjén nincs értelme, hiszen valódi molekula nem lehet félig. Az ilyen egyenletek tudományos számításokra használhatók."
+    },
+    {
+      "id": 6,
+      "term": "Összetett reakciók és elemi lépések",
+      "definition": "Összetett kémiai folyamatok több egymásután következő lépésből állnak, az összegzett egyenlet csak kezdet és végét mutatja.",
+      "quote": "Részfolyamatok összegzése az eredményhez",
+      "text": "Például az ammónia oxidációja: 4 NH3 + 5 O2 = 4 NO + 6 H2O. Ez az egyenlet azt mutatja, hogy kiinduláson 9 részecske (4 ammónia + 5 oxigén), végén is 10 anyag szerepel. Azonban a valóságban nem kell egyszerre összeütközniük ezeknek a részecskéknek - a folyamat több elemi lépésből áll."
+    },
+    {
+      "id": 7,
+      "term": "Hidrogén és oxigén egyesülése",
+      "definition": "Alapvető kémiai reakció, amely vizet (H2O) képez, sztöchiometriai arányban 2:1 mólarány.",
+      "quote": "2 H2 + O2 = 2 H2O",
+      "text": "A hidrogén és oxigén gáz keveréke villanós izzítására azonnal reagál. Ezért a hidrogén felhasználásakor óvatosságra van szükség (robbanásveszély). A reaction: 2 mol (4 g) hidrogén 1 mol (32 g) oxigénnel reagál, és 2 mol (36 g) víz keletkezik. Könnyű megjegyezni: a hidrogén fele annyi mól, mint az oxigén."
+    },
+    {
+      "id": 8,
+      "term": "Ammónia szintézise - komplex egyenlet",
+      "definition": "Az azot és hidrogén folyamatos reakciója ammónia (NH3) képzésére, tipikus bonyolult reakcióegyenlet.",
+      "quote": "4 NH3 + 5 O2 = 4 NO + 6 H2O",
+      "text": "Ez az ammónia oxidációjának egyenlete. 4 mol ammónia 5 mol oxigénnel reagálva 4 mol nitrogén-monoxidot és 6 mol vizet ad. Az egyenlet baloldalán 9 részecske (molekula) szerepel, jobboldalt is 10 anyag. Az egyenletek nem feltétlenül mutatják az elemi lépéseket, csak az összesített eredményt."
+    },
+    {
+      "id": 9,
+      "term": "Halmazállapot jelölések az egyenletben",
+      "definition": "Az anyagok képlete után zárójelben feltüntetett rövidítések, melyek a halmazállapotot jelölik.",
+      "quote": "sz, f, g, aq rövidítések",
+      "text": "Az egyenletekben alkalmazott jelölések: (sz) = szilárd, (f) = folyadék, (g) = gáz, (aq) = oldatban (aqueous). Például: NaCl(sz) - szilárd nátrium-klorid, NaCl(aq) - nátrium-klorid oldatban. A halmazállapotok jelzése fontos, mert az ugyanazon vegyület különböző halmazállapotai eltérő tulajdonságokkal rendelkezhetnek."
+    },
+    {
+      "id": 10,
+      "term": "Ionok jelölése az egyenletben",
+      "definition": "Az oldatban lévő ionok egyenletekben ionsíkú formában szerepelnek, felső indexben a töltésük.",
+      "quote": "Na+, Cl-, Ca2+, OH-",
+      "text": "Az ionok jelölésekor a szimbólum után felső indexbe írjuk a töltést. Például: Na+ nátrium ion, Cl- klórid ion, Ca2+ kalciumion (2+ töltés), OH- hidroxid ion. Az ionegyenletek mutatják, hogy mely fajok válnak el és mely vándorolnak az oldatban elektrolíziskor vagy reakció során."
+    },
+    {
+      "id": 11,
+      "term": "Sztöchiometriai számítások alapelve",
+      "definition": "Az egyenlet sztöchiometriai együtthatói alapján kiszámítható az egyik anyag ismeretében más anyagok mennyisége.",
+      "quote": "Egyes anyag aránya másik anyaghoz",
+      "text": "Ha ismerjük az egyik anyag mennyiségét (anyagmennyiség, tömeg vagy térfogat), az egyenlet együtthatói segítségével kiszámítható más anyagok mennyisége. Például: 2 H2 + O2 = 2 H2O egyenletből, ha van 4 mol H2, akkor 4 mol H2O keletkezik (a sztoichioméria alapján). Ez alapelve az összes sztöchiometriai feladatnak."
+    },
+    {
+      "id": 12,
+      "term": "Redox-egyenletek",
+      "definition": "Olyan kémiai egyenletek, amelyekben elektrontranszfer (oxidációs számelemek változása) történik.",
+      "quote": "Redukció és oxidáció egy időben",
+      "text": "A redox-egyenletekben az egyes elemek oxidációs száma megváltozik. Az oxidáció az elektronvesztés, a redukció az elektronnyerés folyamata. Ezek a folyamatok mindig egy időben történnek - nem lehet oxidáció redukció nélkül és fordítva. Redox-egyenletek meghatározásánál meg kell keresni, mely elemek oxidációs száma változott."
+    },
+    {
+      "id": 13,
+      "term": "Egyenletek egyensúlyi nyíltal írása",
+      "definition": "A megfordítható (reverzibilis) kémiai folyamatokat egyensúlyi nyíllal (⇌) jelöljük az egyenletben.",
+      "quote": "Kétirányú nyíl a megfordíthatóságot jelöli",
+      "text": "Az egyensúlyi nyíl (⇌) azt mutatja, hogy a folyamat mindkét irányban végbemehet: termékek képződhetnek, de ezek vissza is alakulhatnak a kiindulási anyagokra. Például: H2 + I2 ⇌ 2 HI. Ez eltér a szokásos egyenlőségjeltől (=), amely egyirányú folyamatra utal."
+    },
+    {
+      "id": 14,
+      "term": "Savas-bázis egyenletek",
+      "definition": "Olyan kémiai egyenletek, amelyekben H+ ionok és OH- ionok, vagy Brønsted savanegált anyagok szerepelnek.",
+      "quote": "Proton transzfer vagy elektronpár",
+      "text": "Savas-bázis reakciók mutatnak protonok (H+) átadódását. Például: HCl + NaOH = NaCl + H2O. Az egyenletben a HCl (sav) protonját az NaOH (bázis) fogadja el. Más értelemben Brønsted szerint a sav protondonor, az alap protonacceptor."
+    },
+    {
+      "id": 15,
+      "term": "Csapadékképződés egyenletei",
+      "definition": "Olyan egyenletek, amelyekben oldatban oldatlan csapadék keletkezik, mit gyakran ↓ szimbólummal jelölik.",
+      "quote": "Feloldatlan termék képződése",
+      "text": "Például: Na2CO3(aq) + CaCl2(aq) = CaCO3↓ + 2 NaCl(aq). A CaCO3 csapadék képződik az oldatban, mert nem oldódik vízben. Az egyenletek ezt ↓ vagy ↑ szimbólummal jelölik, ha gáz képződik is. A csapadékképződés jellegzetes az anyagok azonosítására használt valutációs reakciók között."
+    }
+  ]
+}

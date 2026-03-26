@@ -1,0 +1,181 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "savak-es-bazisok",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik elmélet általánosabb: az Arrhenius vagy a Brönsted?",
+      "options": ["Arrhenius általánosabb", "Brönsted általánosabb", "Egyformán általánosak", "Nem összehasonlíthatók"],
+      "answer": "Brönsted általánosabb"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Melyik igaz az Arrhenius-bázisokra?",
+      "options": ["H+ iont adnak le", "OH– iont adnak fel", "Brönsted-bázisoké", "H+ iont vesznek fel"],
+      "answer": "OH– iont adnak fel"
+    },
+    {
+      "id": 3,
+      "type": "BLANK",
+      "question": "Ha egy sav erős, akkor a savállandó (Ks) értéke _____, mint ha gyenge lenne.",
+      "options": [],
+      "answer": "nagyobb"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Mi történik az oxóniumion-koncentrációval, ha hidroxidion-koncentrációt növelünk?",
+      "options": ["Szintén nő", "Nem változik", "Csökken", "Nullává válik"],
+      "answer": "Csökken"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Melyik nem igaz a protonátmenetről?",
+      "options": ["Az egyik részecskéről a másikra mozdul az H+", "Datív kovalens kötés alakul ki", "A proton saját elektronokkal rendelkezik", "Az egyik részecske elektron-párja biztosítja a kötés elektronjait"],
+      "answer": "A proton saját elektronokkal rendelkezik"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A víz a HCl-rel szemben _____ viselkedik, mert proton vesz fel tőle.",
+      "options": [],
+      "answer": "bázisként"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik só hidrolízise során lesz az oldat savas?",
+      "options": ["NaCl (erős sav + erős bázis)", "KCH3COO (gyenge sav + erős bázis)", "NH4Cl (erős sav + gyenge bázis)", "Na2SO4 (erős sav + erős bázis)"],
+      "answer": "NH4Cl (erős sav + gyenge bázis)"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A kalcium-hidroxid [Ca(OH)2] _____ értékű bázis, mert két OH– iont adhat le.",
+      "options": [],
+      "answer": "kétértékű"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mit jelez az indikátor végpontja a titrálásban?",
+      "options": ["Az oldatok azonos térfogata lett", "A közömbösítés végpontja", "Az indikátor szín-változása", "Az oldatok azonos koncentrációja"],
+      "answer": "Az indikátor szín-változása"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Ha a pH értéke 3-ról 4-re nő, az oxóniumion-koncentráció _____ szeres csökkenést jelent.",
+      "options": [],
+      "answer": "10-szeres"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik feltétel szükséges ahhoz, hogy egy só hidrolízisét feltételezzük?",
+      "options": ["A só ionjai erős savból származnak", "A só ionjai gyenge savból vagy bázisból származnak", "A só ionjai mindkettőből erős savakból vagy bázisokból származnak", "Nincs speciális feltétel"],
+      "answer": "A só ionjai gyenge savból vagy bázisból származnak"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Melyik folyamat során válik szén-dioxiddá a szénsav?",
+      "options": ["Semlegességkor", "Savas közegben", "Lúgos közegben", "Csak magas hőmérsékleten"],
+      "answer": "Savas közegben"
+    },
+    {
+      "id": 13,
+      "type": "BLANK",
+      "question": "A nátrium-hidroxid (NaOH) egy _____ erős bázis, mert ionvegyületként szétesik ionokra.",
+      "options": [],
+      "answer": "erősen"
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "Mi a nátrium-acetát (CH3COONa) és kénsav (H2SO4) közömbösítésének terméke?",
+      "options": ["CH3COOH + Na2SO4", "CH3COONa + H2SO4", "Ecetsav és szódabikarbóna", "Nátrium-szulfát és ecetsav"],
+      "answer": "Nátrium-szulfát és ecetsav"
+    },
+    {
+      "id": 15,
+      "type": "BLANK",
+      "question": "A proton a hidrogén-atomból származik, amely egyetlen _____ tartalmaz az atommagjában és nincs elektronja.",
+      "options": [],
+      "answer": "proton"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Melyik nem igaz a szénsavra?",
+      "options": ["Gyenge sav", "Bomlékony vegyület", "Erős sav", "Vízben oldódó gáz"],
+      "answer": "Erős sav"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik állítás igaz az erős savakra és bázisoékra?",
+      "options": ["Vizes oldatban részlegesen disszociálnak", "Egyensúlyra vezetnek az oldatban", "Praktikusan teljes mértékben disszociálnak", "Az egyensúlyi állandó nagyobb, mint 1"],
+      "answer": "Praktikusan teljes mértékben disszociálnak"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az _____ más-más szín lehet savas és lúgos közegben, ezért természetes indikátorként működik.",
+      "options": [],
+      "answer": "vöröskáposzta-lé"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Milyen értékűség jellemzi a foszforsavat (H3PO4)?",
+      "options": ["Egyértékű", "Kétértékű", "Háromértékű", "Négyértékű"],
+      "answer": "Háromértékű"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "Mit jelent az, hogy a báziserősséget a bázisállandó (Kb) mutatja meg?",
+      "options": ["A nagyobb Kb értékű bázis erősebb", "A nagyobb Kb értékű bázis gyengébb", "A Kb az oldhatóságot jelenti", "A Kb ugyanaz, mint a savállandó (Ks)"],
+      "answer": "A nagyobb Kb értékű bázis erősebb"
+    },
+    {
+      "id": 21,
+      "type": "BLANK",
+      "question": "A kalcium-oxid (CaO) és a szén-dioxid (CO2) közömbösítésekor _____ és víz keletkezik.",
+      "options": [],
+      "answer": "kalcium-karbonát"
+    },
+    {
+      "id": 22,
+      "type": "MC",
+      "question": "Melyik nem igaz az egyensúlyra vezető gyenge savakról?",
+      "options": ["Az oldatban még szabad savmolekulák vannak", "A disszociáció csak részlegesen játszódik le", "Az összes savmolekula leadja a protonját", "Az oldatban egyensúlyban vannak a molekulák és ionok"],
+      "answer": "Az összes savmolekula leadja a protonját"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mi a kloridion (Cl–) az Arrhenius-elmélet szerint?",
+      "options": ["Arrhenius-sav", "Arrhenius-bázis", "Sem sav, sem bázis az Arrhenius szerint", "Amfoter anyag"],
+      "answer": "Sem sav, sem bázis az Arrhenius szerint"
+    },
+    {
+      "id": 24,
+      "type": "MC",
+      "question": "Mit jelent az autoprotolízis?",
+      "options": ["Sav bomlik fel", "Bázis bomlik fel", "Azonos típusú molekulák adnak át hidrogéniont egymásnak", "Víz elpárolog"],
+      "answer": "Azonos típusú molekulák adnak át hidrogéniont egymásnak"
+    },
+    {
+      "id": 25,
+      "type": "BLANK",
+      "question": "Az ecetsav (CH3COOH) _____ értékű sav, annak ellenére, hogy a molekulájában négy hidrogén van.",
+      "options": [],
+      "answer": "egyértékű"
+    }
+  ]
+}

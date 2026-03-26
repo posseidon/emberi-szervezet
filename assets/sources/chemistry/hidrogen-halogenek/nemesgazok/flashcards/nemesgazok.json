@@ -1,0 +1,144 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Nemesgázok alapvető jellemzői",
+      "definition": "A nemesgázok (hélium, neon, argon, kripton, xenon, radon) színtelen, szagtalan, kevéssé reaktív gázok. Nem éghetők, az égést sem táplálják, és vegyértékhéjuk telített.",
+      "quote": "Inert gázok - szabad atomokból állnak",
+      "text": "A nemesgázok vagy inert gázok a periódusos rendszer 18. csoportjának elemei, amelyek nyolc valencelektronnal rendelkeznek (hélium kivételével, amelynek kettő). Ez a stabil elektronkonfiguráció teszi őket rendkívül reaktívakká. Szabad atomok formájában fordulnak elő, nem alkotnak molekulákat vagy ionokat. Az elektromos működés megzavarása nélkül, illetve nagy nyomáson és hőmérsékleten képesek vegyes néha vegyületeket képezni az erős oxidálószerekkel (fluor, perchlorus-sav)."
+    },
+    {
+      "id": 2,
+      "term": "Hélium - legkönnyebb nemesgáz",
+      "definition": "A hélium az univerzumban a második leggyakoribb elem. Olvadáspontja nincsen (0 K-en sem fagy meg), forráspontja –269 °C. A Nap és a csillagok hidrogén-fúziójából keletkezik.",
+      "quote": "Legkönnyebb - szuperfolyékony állapot",
+      "text": "A hélium-4 az egyik legelőnyösebb nemesgáz a Földön. Olvadáspontja a legalacsonyabb az összes elem között, az abszolút nulla körüli hőmérsékleten sem fagy meg normál nyomáson. Ezt a tulajdonságot az erős kvantummechanikai nullaponti energia magyarázza. A hélium szuperfolyékony állapotba kerül 2,17 K alatt, olyan furcsa tulajdonságokkal, mint a nulla viszkozitás. Ez teszi ideálissá a kriogén alkalmazásokhoz, például MRI készülékek hűtésére és alacsony hőmérsékleti kutatásokra."
+    },
+    {
+      "id": 3,
+      "term": "Neon - fényreklámok",
+      "definition": "A neon erős elektromos térben ionizálódik és piros-narancssárga fényt bocsájt. Az átlagos \"neoncsövek\" azonban higanygőzt tartalmaznak, nem neont.",
+      "quote": "Piros-narancs fény erős térben",
+      "text": "A neon a második nemesgáz, amely magas nyomáson ionizálódik az alkalmazott elektromos mezőben. Az ionizálódott neon-plazma vöröses-narancssárga fényt bocsájt, amely szépnek és látványosnak mutatkozik. Ezt a tulajdonságot a fényreklám-csövek kereskedelme használja, azonban a legtöbb \"neon\" reklám valójában higanygőzt (UV-fényt bocsátó, amely fluoreszáló porral visszaalakítódik) tartalmaz, csak neon-ról nevezik el a hagyomány miatt. A valódi neon-csövek drágábbak, de a jellemző pirosnak keresett szín miatt prémium alkalmazásokhoz használják őket."
+    },
+    {
+      "id": 4,
+      "term": "Argon - védőgáz",
+      "definition": "Az argon a levegő 0,93%-át teszi ki, a harmadik leggyakoribb nemesgáz a Föld légkörében. Védőgázként használják a hegesztésben és a légérzékeny anyagok tárolásában.",
+      "quote": "Leggyakoribb nemesgáz - inertes",
+      "text": "Az argon ívhegesztésben és más magas hőmérsékleti folyamatokban kritikus, mivel az inertes légkörét biztosít az égető nélkül a fém-oxid képződés. A gyakorlati hegesztésben az argon-szén-dioxid vagy argon-nitrogén keverékeket alkalmazzák az eltérő anyagok hegesztésére. Laboratóriumban és az iparipar számos ágában az argon-atmoszféra alatt tárolták a légérzékeny vegyületeket (például az alkáli-fém-hidridokat, az aktív vegyületeket). Az argon a költséghatékony választás a nemesgázok közül, mivel közvetlenül a levegőből kristályosított."
+    },
+    {
+      "id": 5,
+      "term": "Kripton és xenon - fényforrások",
+      "definition": "A kripton és xenon fényforrásokként használnak, például xenon-fényszóró járművekben, melyek intenzív fehér fényt bocsátanak.",
+      "quote": "Xenon-fényszóró - intenzív fehér",
+      "text": "A kripton és xenon a nemesgázok közül a nagyobb atomok, és ionizálódottan intenzívebb fényt bocsátanak, mint a kisebb nemesgázok. A xenon-ívlámpák nagyon fényes, fehér fényt adnak, amely megközelíti a napfény spektrumát. Ezt a tulajdonságot a filmvetítésben, a szkennerek fényforrásaiként és a legkorszerűbb járműfényszórókban alkalmazzák. A xenon-lámpák azonban drágábbak az argonhoz vagy a kripton-lámpákhoz képest, ezért kisebb mérvékben terjedtek el a tömegpiacon."
+    },
+    {
+      "id": 6,
+      "term": "Radon - radioaktív nemesgáz",
+      "definition": "A radon az egyetlen radioaktív nemesgáz, nincs stabil izotópja. Nyomnyi mennyiségben fordul elő, folyamatosan képződik a radioaktív kőzetek bomlásából. Egészségügyi kockázat lehet a felszín alatt.",
+      "quote": "Radioaktív - radioaktív kőzetek bomlása",
+      "text": "A radon a nemesgázok családjának legvastagabb tagja, és az összes izotópja radioaktív. A legstabilabb izotóp a radon-222, amely alfa-bomlást végez 3,8 nap alatt. A radon folyamatosan keletkezik az urán és a tórium bomlásából a talajban és a kőzetekben. Ez felszálló gáz, amely a házakba bekerül a pincefalon és alapozáson keresztül. Az egészségügyi hatások közé tartozik a radon-indukált tüdőrák, amely a radon dekay-termékeinek alfa-emisszióját követően keletkezik a tüdő szövetében. A radon-szint az otthonokban mérésre és védelemre kerülhet, ha meghaladja az egészségügyi küszöbértékeket."
+    },
+    {
+      "id": 7,
+      "term": "Nemesgázok szerkezete",
+      "definition": "A nemesgázok szabad atomokból állnak (nem molekuláris). Cseppfolyós és szilárd halmazállapotban atomjaik közötti diszperziós kölcsönhatások tartják össze őket. Molekularácsban kristályosodnak.",
+      "quote": "Szabad atomok - diszperziós kölcsönhatások",
+      "text": "A nemesgázok az egyedülálló gázok, amelyek szabad atomokként fordulnak elő, nem molekuláris formában (az összes többi gáz diat- vagy poliato-molekulákból áll). Amikor a nemesgázok lehűlnek a cseppfolyós vagy szilárd állapotba, az atomok közötti kölcsönhatások kizárólag a gyenge disperszív (London-féle) erőktől függnek. Ez magyarázza az alacsony olvadás- és forráspontot. A nemesgázok molekularácsos struktúrára kristályosodnak, mivel az atomok nem kötődnek kovalens vagy ionos kötésekkel egymáshoz, hanem csak van der Waals-erőkkel történik a kohézió."
+    },
+    {
+      "id": 8,
+      "term": "Nemesgázok fizikai tulajdonságai",
+      "definition": "A nemesgázok alacsony olvadás- és forráspontúak. Az oszlopban lefelé haladva az olvadáspont és forráspont nő. Hélium és neon a levegőnél könnyebbek, a nemesgázok nem oldódnak vízben.",
+      "quote": "Alacsony T, nő lefelé az oszlopban",
+      "text": "A nemesgázok összes tagja gáz szobahőmérsékleten, és nagyon alacsony olvadás- és forráspontokkal rendelkezik a szilícium-módszer szerintekről a gyenge intermolekuláris erőknek köszönhetően. A hélium és a neon könnyebbek, mint a levegő, így felfelé szálnak az atmoszférában, míg az argon, kripton, xenon és radon nehézebb, így az alsóbb rétegekben összpontosulnak (a radon a talajból). A nemesgázok gyakorlatilag nem oldódnak vízben, mivel poláris kölcsönhatások nélküli nempolár molekulákkal és az ionossá válva negatív hidráció nélkül maradnak. Ez az oka annak, hogy a nemesgázok alkalmasak olyan alkalmazásokra, ahol a víz vagy a nedvesség interferálhat."
+    },
+    {
+      "id": 9,
+      "term": "Nemesgázok előfordulása a Földön",
+      "definition": "Az összes nemesgáz meglehetősen ritka a Föld felszínén. Az első öt nemesgáz 0,0005–0,009% közötti mennyiségben fordul elő a levegőben (legritkább: He, leggyakoribb: Ar). A radon csak nyomnyi mennyiségben van jelen.",
+      "quote": "Ritka - argon a leggakoribb",
+      "text": "A nemesgázok a Föld légkörében nagyon ritkák, az argon kivételével, amely az atmoszféra körülbelül 0,93%-át teszi ki. A hélium az egyik legritkább elem a Föld felszínén, mivel a könnyű hidrogén és hélium molekulák képesek az atmoszférából az űrbe szökni az elég gravitációs erő nélkül. Az argon a légköri nitrogén és oxigén spallációs termékeként folyamatosan képződik. A kripton és xenon még ritkábban fordulnak elő az atmoszférában. A radon nyomnyi mennyiségben van jelen, és csak a radioaktív kőzetek bomlásából keletkezik. Az összes nemesgáz ipari mennyiségben cseppfolyós levegő frakcionációjából nyerik ki, amely gazdaságosabbá teszi az ipari termelésüket."
+    },
+    {
+      "id": 10,
+      "term": "Nemesgázok előállítása - cseppfolyós levegő",
+      "definition": "A nemesgázokat levegő cseppfolyósításával és frakcionált desztillációjával állítják elő. A lehűtött folyékony levegőt forralni kezdik, a gőzöket szétválasztják az eltérő forráspont alapján.",
+      "quote": "Frakcionált desztilláció - eltérő Tf",
+      "text": "A nemesgázok ipari termelésének legalapvetőbb módszere a Linde-eljárás, amely a levegőt körülbelül 80 K hőmérsékletre lehűti és cseppfolyósítja. A cseppfolyós levegő ezt követően frakcionált desztillációnak vetik alá, ahol az eltérő forráspontok alapján az összetevőket szétválasztják. A nitrogén (t.p. 77 K) és az oxigén (t.p. 90 K) vezetik az első szétválasztást, majd az argon (t.p. 87 K) és a neon (t.p. 27 K), kripton (t.p. 120 K), xenon (t.p. 165 K) külön-külön elkülönítődnek az oszlopból. A frakcionálás folyamata folyamatos, és a tisztaság nagyban függ az oszlop hatékonyságára. A hélium azonban a legalacsonyabb forráspontú, ezért szuperfolyadékként van jelen a cseppfolyós nitrogén és oxigén elkülönítése után, és különleges feldolgozásra van szüksége az elkülönítéshez."
+    },
+    {
+      "id": 11,
+      "term": "Nemesgázok reakciókészsége",
+      "definition": "A nemesgázok vegyértékhéja telített, ezért elsőrendű kémiai kötések kialakítására nem hajlamosak. Csak nagyon erős oxidálószerekkel (fluor, perchlorus-sav) képeznek vegyületeket.",
+      "quote": "Telített elektronhéj - inertes",
+      "text": "A nemesgázok kémiai inertizmusának alapja az elektronikus szerkezetük. Az összes nemesgáz teljes p-pályás blokkal rendelkezik, amely a maximális stabilitást biztosít. A vegyértékelméleti és molekuláris pálya-elméleti megfontolásokból is az azonos elektronkonfiguráció az összes vegyületből az összetartozó fém-oxid vagy halogenid-vegyületeket adja az elektronok maximális differenciálódásához. Az 1990-es és 2000-es évek során azonban kimutatták, hogy a nagyobb nemesgázok (xenon, kripton) képesek erős oxidálószerekkel (fluor, perchlorus-sav) vegyületeket képezni, például XeF2, XeF4, XeF6 és XeO4, amelyekben a xenon pozitív oxidációs állapotot vesz fel. A hélium és a neon szinte semmilyen körülmények között nem képeznek vegyületeket."
+    },
+    {
+      "id": 12,
+      "term": "Hélium alkalmazása - MRI készülékek",
+      "definition": "A héliumot a supravezető elektromágnesek hűtésére használják az MRI (mágnesesrezonancia-képalkotás) készülékekben, mivel szuperfolyékony helium 4 K-en maradhat.",
+      "quote": "Szuperfolyékony hűtőanyag - MRI",
+      "text": "A hélium-4 szuperfolyékony állapota 2,17 K alatt kritikus a modern MRI technológiához. Az MRI készülékek erős mágneses mezőt igényelnek, amelyeket supravezető tekercsek biztosítanak, amelyek csak nagyon alacsony hőmérsékleten működnek. A szuperfolyékony hélium rendkívül hatékonyan szállít hőt a tekercs körül, valamint nulla viszkozitása miatt nem igényel hagyományos hűtőfolyadék-keringetést. Az MRI készülékek hélium felhasználása jelentős globális hélium-kereslet forrása. Az alternatív hűtési módszerek (például gázhűtés) fejlődnek, de a szuperfolyékony hélium továbbra is a leghatékonyabb megoldás a magnet-supravezető alkalmazásokhoz."
+    },
+    {
+      "id": 13,
+      "term": "Hélium alkalmazása - meteorológiai ballonok",
+      "definition": "A héliumot meteorológiai ballonok és léggömbök töltésére használják az alacsony sűrűsége és az inertizmus miatt, amely megakadályozza a szennyezést.",
+      "quote": "Könnyű gáz - ballonok és léggömbök",
+      "text": "A hélium az ideális gáz a meteorológiai ballon-radarok és az öffizierballonok kitöltésére, mivel az összes gáz között a legkönnyebb (a hidrogén csak a reaktivitása miatt nem alkalmazható nagyobb mértékben, mivel robbanóképes az oxigénnel). A hélium-kitöltött ballon-radarok (radiosondes) meteorológiai adatokat (hőmérséklet, nyomás, páratartalom) gyűjtenek az atmoszférán felfelé történő emelkedésük során. A hélium inertizmusát elég értékeli az olyan alkalmazások, ahol a gáz-szennyeződés problémás, például a tudomány-kutatási ballonok és az úgynevezett \"weather balloons\". A hélium véges készletei azonban költségét felhajtották, és az újrahasznosítás a jövőben fontosabbá válhat."
+    },
+    {
+      "id": 14,
+      "term": "Argon alkalmazása - fémkezelésben",
+      "definition": "Az argont védőgázként alkalmazzák a hegesztésben (MIG, TIG ívhegesztés) és a légérzékeny anyagok tárolásában, mivel nem reagál az anyagokkal.",
+      "quote": "Inertes védőgáz - hegesztésben",
+      "text": "Az argon a leggyakrabban alkalmazott nemesgáz az ipari hegesztésben. A TIG (Tungsten Inert Gas) hegesztésben az argon az elektróda körül egy inertes légkörét biztosít, megakadályozva az oxidációt. A MIG (Metal Inert Gas) hegesztésben az argon-szén-dioxid keverék használatos az acél-hegesztéshez, ahol az argon az inertes gáz, és a CO2 az ív stabilitásához járul hozzá. Az argon-környezet alatt olyan légérzékeny vegyületeket tárolnak laboratóriumban, mint az alkáli-fém-hidridok, a foszfilén, és más aktív szerves reagensek. Az argon költséghatékonyságát a levegő cseppfolyósításából való közvetlen nyerése és az előzőleg felsorolt alkalmazások miatt egyedülálló."
+    },
+    {
+      "id": 15,
+      "term": "Neon alkalmazása - fényvisszatartó reklámcső",
+      "definition": "A neon-cső a közvetlenül ionizálódó neon-plazma által előállított piros-narancssárga fény keresett volta miatt használatos a díszítő fényreklámban.",
+      "quote": "Piros-narancssárga fény - neoncsövek",
+      "text": "A klasszikus neon-fényreklámcső egy vákuumcsőből áll, amely neon-gáz tartalma. A csőre magas feszültséget (kilovolt nagyságrendű) alkalmaznak, amely a neon-gáz ionizálódását okozza, és piros-narancssárga fény bocsátása jól során. A neon-csövek esztétikus megjelenése és jellegzetes színe miatt a szórakoztatóipari, szállodai és reklám-szektorban nélkülözhetetlenek. Az LED-technológia előrehaladása ellenére a klasszikus neon-csövek nosztalgia és egyedi esztétikai érték miatt továbbra is keresett. Az eredeti neon-csövek drágabbak az egyéb gáz-típusokhoz (például higanygőz vagy argon) képest, de az igazi neon vörös szín és az autentikus retro-végzet keresettségét megjustifikálja az árát."
+    },
+    {
+      "id": 16,
+      "term": "Xenon alkalmazása - fényforrás",
+      "definition": "A xenon intenzív fehér fényt bocsát ionizálódottan, alkalmazást talál filmvetítésben, szkennerekben és legkorszerűbb járműfényszórókban.",
+      "quote": "Fehér, intenzív fény - xenon-ívlámpa",
+      "text": "A xenon-ívlámpák a jelenlegi technológia legfényesebb és leghatékonyabb fehér-fény-forrásai közül vannak. A xenon-plazma fehér fényt bocsájt, amely hasonlít a napfény spektrumához. A filmvetítésben (cinema-projectors) a xenon-ívlámpa hagyományosan az elsődleges fényforrás volt, bár az LED-projekciós technológia kezd kiterjeszteni. A szkennerekben és az orvosi képalkotó berendezésekben xenon-lámpák biztosítanak konzisztens fehér megvilágítást. A modern, drága biléxenon-fényszórók (HID-fényszóró) a járművekben jól mutatnak és magasabb rálátásást biztosítanak az alapértelmezett halogén-fényszóróhoz képest, azonban a magasabb ár és a beállítás igénye miatt kisebb részén terjedtek el a tömegpiacon."
+    },
+    {
+      "id": 17,
+      "term": "Nemesgázok ionizációja erős elektromos térben",
+      "definition": "A nemesgázok erős elektromos térben ionizálódnak (nagyobb negatív potenciál mellett) és fényt bocsátanak ki. Ez az alapja a neon- és xenon-fényforrásoknak.",
+      "quote": "Elektromos szikra - ionizációs kiút",
+      "text": "Az erős elektromos tér a nemesgáz atomokat ionizálni képes, amely folyamatban az atomokat elektronjaikat felsőbb energiaszintekre keltik, vagy akár szabad elektronokra és ionokra disszociálódnak. Az ionizálódott nemesgáz egy plazma, amely vezetőképes és fényt bocsájt, az ionizálódott atomok könnyen visszakapcsolt elektronjaival társított foton-emisszió által. Az eltérő nemesgázok eltérő foton-energiákat sugárznak, amelyek az ionizálódott atomok karakterisztikus spektrumvonalainak felelnek meg. Ez az alapja a neon-reklámcsöveknek, a gáz-lézervonalaknak (argon-ion lézeren), és az ionizált nemesgáz-fényforrásoknak általánosságban."
+    },
+    {
+      "id": 18,
+      "term": "Nemesgázok nem oldódnak vízben",
+      "definition": "A nemesgázok gyakorlatilag nem oldódnak vízben, mivel az apoláris molekulákból és az ionossá válva hidrálódás nélkül marad.",
+      "quote": "Vízben nem oldódnak - apolar",
+      "text": "A nemesgázok szabad atomokként nem rendelkeznek dipólus-momentummal vagy polárissággal. A víznek erős hidrofilos képességei vannak a poláris molekulák felé, azonban az apolar nemesgázokkal való kölcsönhatás szabad energiájának csökkentésében nem kedvez. Eredményül az összes nemesgáz vízben nagyon alacsony oldhatóságú (például a hélium körülbelül 8,7 mg/L, az argon körülbelül 33 mg/L szobahőmérsékleten és 1 atm nyomáson). Ez az oka annak, hogy a nemesgázok ideálisak olyan alkalmazásokra, ahol a víz-szennyezés vagy a víz-eltávolítás problematikus. Az olyan alkalmazások, mint a száraz-szobai, az inert-légkörű tárolótér, és a laboratóriumi inertes-gáz-elvezetés nemesgáz-alapú."
+    },
+    {
+      "id": 19,
+      "term": "Hélium-neon olvadáspont különbsége",
+      "definition": "A hélium nincs szilárd halmazállapota normál nyomáson még 0 K-en sem, míg a neon –249 °C-nál (24 K) fagy meg. Ez a nemesgázok között egyedülálló eltérés.",
+      "quote": "He: nincs, Ne: –249 °C",
+      "text": "A hélium az egyetlen elem a periódusos rendszerben, amelynek nincsen szilárd halmazállapota normál (1 atm) nyomáson még az abszolút nulla hőmérsékleten sem. Ez az erős kvantum-effektus miatt van, amely a hélium rendkívüli könnyűségéből és a gyenge intermolekuláris erőkből szól. A hélium azonban gyakorlatilag szilárdodhat körülbelül 26 atm nyomás alatt körülbelül 1 K hőmérsékleten (szilárd hélium-fázis diagram), de ez az ipari termékeknél nem szokásos. Ez az oka annak, hogy a \"szuperfolyékony\" hélium-fázis a legalacsonyabb hőmérsékleteken egy kvantum-folyadék, amely még szobahőmérsékleten is folyékony jellegzetességgel rendelkezik."
+    },
+    {
+      "id": 20,
+      "term": "Nemesgázok molekuláris-rács kristályosodása",
+      "definition": "A cseppfolyós és szilárd nemesgázok molekularácsban kristályosodnak, ahol az atomok diszperziós kölcsönhatások által összetartóznak, nem kovalens vagy ionos kötésekkel.",
+      "quote": "Molekularács - van der Waals erők",
+      "text": "A nemesgázok szilárdulása során molekularácsot képeznek, amelyet klasszikus nemesgáz-rácsos szerkezetben (FCC vagy HCP) helyezkednek el az atomok. Az intermolekuláris erőket kizárólag a disperzív (London) erők biztosítják. Ez az oka az alacsony kohéziós energiáknak és az alacsony olvadáspontoknak. Az FCC (face-centered cubic) kristályszerkezet a legtöbb nemesgáz számára energetikailag kedvezőbb, bár bizonyos körülmények között más szerkezetek (például HCP hexagonal close packing) is előfordulhatnak. A molekularácsú szerkezet szabad elektronok nélküli izolált atomok okozta, ami az elektromos és termikus vezetőképességet nem teszi lehetővé a szilárd nemesgázok számára a szokásos körülmények között."
+    }
+  ]
+}

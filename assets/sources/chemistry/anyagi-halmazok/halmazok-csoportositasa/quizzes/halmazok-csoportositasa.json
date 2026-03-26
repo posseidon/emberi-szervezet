@@ -1,0 +1,163 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "halmazok-csoportositasa",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "A hidrogén és az oxigén molekuláris oxigénje azonos halmazállapotú rendszert alkot. Ez a rendszer milyen szempontból HOMOGÉN?",
+      "options": [
+        "Azonos rendszámú atomokból áll, ezért egy fázist alkot.",
+        "Egyetlen fázisú, mivel a komponensek teljes mértékben elkeverednek molekuláris szinten.",
+        "Különböző összetételű komponensek vannak, mégis egyfázisú.",
+        "A komponensek aránya pontosan meghatározott, nem változtatható."
+      ],
+      "answer": "Egyetlen fázisú, mivel a komponensek teljes mértékben elkeverednek molekuláris szinten."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Egy keverékben az összetevők aránya 2:3:5. Ez a keverék legvalószínűbb csoportosítása a kémiai összetétel szerint:",
+      "options": [
+        "Egykomponensű vegyület, mivel arányos az összeállítása.",
+        "Keverék, mivel az arány megváltoztatható lenne.",
+        "Elem, mivel több komponensből áll, de szabályos az aránya.",
+        "Fázist alkotó rendszer, mivel homogén az összetétele."
+      ],
+      "answer": "Keverék, mivel az arány megváltoztatható lenne."
+    },
+    {
+      "id": 3,
+      "type": "BLANK",
+      "question": "Az olyan rendszert, amely két vagy több, fizikailag jól elkülöníthető részből áll, _____ rendszernek nevezzük.",
+      "options": [],
+      "answer": "heterogén"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Olaj és víz elegyét vizsgálva – a keverékben a két folyadék nem keveredik el. Az alábbi állítások közül melyik HELYTELEN?",
+      "options": [
+        "A rendszer heterogén, mivel több fázisból áll.",
+        "A rendszer kétfázisú, mivel az olaj és a víz két különálló fázist alkot.",
+        "Az olaj és a víz között vannak intermolekuláris kölcsönhatások.",
+        "A két folyadék közötti felület fizikailag jól elkülöníthető."
+      ],
+      "answer": "Az olaj és a víz között vannak intermolekuláris kölcsönhatások."
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A vegyületek kémiai összetételét a(z) _____ fejezi ki, amely az elemek atomszámát jelöli.",
+      "options": [],
+      "answer": "képlet"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Egy keverékben vannak fe3+ ionok, vízből és nátrium-kloridból összeálló hidratált komplexek, valamint oldatlan partikulák. Ez a rendszer:",
+      "options": [
+        "Homogén, mivel minden összetevő ionos formában van.",
+        "Heterogén, mivel az oldatlan részecskék külön fázist alkotnak az oldottanyag és oldószer fázisától.",
+        "Egyfázisú keverék, mivel a víz jól keveri az összes komponenst.",
+        "Egykomponensű, mivel a Fe3+ és Cl- ionok ugyanabban a fázisban vannak."
+      ],
+      "answer": "Heterogén, mivel az oldatlan részecskék külön fázist alkotnak az oldottanyag és oldószer fázisától."
+    },
+    {
+      "id": 7,
+      "type": "BLANK",
+      "question": "Az olyan anyagot, amely azonos rendszámú atomok halmazát alkotja, _____ nevezünk.",
+      "options": [],
+      "answer": "elem"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "A szén azon módosulata, amely grafitként létezik, illetve azon, amely gyémántként. E két módosulat kémiai szempontból azonos, mégis másként csoportosíthatók. Miért?",
+      "options": [
+        "Mert a grafitban van elektron-delokalizáció, a gyémántban nincs.",
+        "Mert a grafitban más halmazállapotú a szén, mint a gyémántban.",
+        "Mert fizikai tulajdonságaik olyan mértékben eltérnek, hogy a szerkezetük még azonos elemből kiindulva is nagyon különböző.",
+        "Mert a grafit cseppfolyós szénből, a gyémánt pedig gázhalmazállapotú szénből keletkezik."
+      ],
+      "answer": "Mert fizikai tulajdonságaik olyan mértékben eltérnek, hogy a szerkezetük még azonos elemből kiindulva is nagyon különböző."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Az etanol és a víz tökéletesen elkeverednek egymással, homogén megoldatot képezve. Ennek az oka, hogy:",
+      "options": [
+        "Mindkét anyag ionos vegyület, ezért könnyen keverednek.",
+        "Mindkét anyag poláris molekulákból áll, és hidrogénkötéseket tudnak kialakítani egymással.",
+        "Az etanol elemei megegyeznek a víz elemeivel (szén, hidrogén, oxigén).",
+        "A víz univerzális oldószer, amely bármely folyadékkal elkeveredik."
+      ],
+      "answer": "Mindkét anyag poláris molekulákból áll, és hidrogénkötéseket tudnak kialakítani egymással."
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az olyan rendszert, amely egyetlen fázisból áll és a komponensek teljes mértékben elkeverednek, _____ rendszernek hívjuk.",
+      "options": [],
+      "answer": "homogén"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Ha egy kémiai vegyület képlete CuSO4, ez azt jelenti, hogy:",
+      "options": [
+        "A réz, kén és oxigén atomokat 1:1:4 arányban tartalmazza.",
+        "A réz(II)-ion és a szulfátion 1:1 arányban kapcsolódik.",
+        "A vegyületben csak azok az elemek fordulnak elő, amelyek a képletben szerepelnek.",
+        "A vegyület azonos komponenst tartalmaz, amelyet csak egyfajta módon lehet felépíteni."
+      ],
+      "answer": "A réz(II)-ion és a szulfátion 1:1 arányban kapcsolódik."
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ olyan anyag, amely legalább kétféle elemből áll, mely elemek kémiai kötésekkel kapcsolódnak egymáshoz.",
+      "options": [],
+      "answer": "vegyület"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Egy részecskehalmaz több, fizikailag különböző összetételű részből áll, amelyekben az atomok eltérően kapcsolódnak. Ez a rendszer csoportosítása:",
+      "options": [
+        "Homogén rendszer, mivel az összes atom ugyanaz.",
+        "Heterogén rendszer, mivel több fázisú és fizikailag megkülönböztethető részekből áll.",
+        "Egyfázisú keverék, mivel az atomok között kémiai kötések vannak.",
+        "Egykomponensű rendszer, mivel az összes rész azonos molekulasúlyú."
+      ],
+      "answer": "Heterogén rendszer, mivel több fázisú és fizikailag megkülönböztethető részekből áll."
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az olyan halmaz, amely azonos halmazállapotú és összetételű részecskékből áll, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "fázis"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Három folyadékból álló rendszert vizsgálunk: A) H2O B) C2H5OH C) C6H14. Ha az A-t és B-t elkeverjük, homogén lesz. Ha A-t és C-t, heterogén marad. Miért?",
+      "options": [
+        "Mert az etanol kisebb molekulatömegű, mint a heptán.",
+        "Mert az etanol hidrogénkötésekre képes, a heptán pedig apoláris, nem jól elegyedik a vízzel.",
+        "Mert a víz ionos vegyület, az etanol pedig kovalens.",
+        "Mert az etanol és a víz azonos vegyületből származnak."
+      ],
+      "answer": "Mert az etanol hidrogénkötésekre képes, a heptán pedig apoláris, nem jól elegyedik a vízzel."
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az olyan anyagok csoportja, amelyekben az összetevők aránya megváltoztatható, és több különböző komponensből állnak, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "keverék"
+    }
+  ]
+}

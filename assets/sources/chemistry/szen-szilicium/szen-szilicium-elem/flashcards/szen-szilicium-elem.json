@@ -1,0 +1,186 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi az allotrópia?",
+      "definition": "Ugyanaz az elem különböző kristályos vagy molekuláris formái, amelyek eltérő fizikai és kémiai tulajdonságokkal rendelkeznek.",
+      "quote": "Egy elem több módosulata",
+      "text": "Az allotrópia a szén esetében jellemző: a grafit, gyémánt és fullerének mind szénból állnak, de szerkezetük és tulajdonságaik teljesen eltérőek. Ez azt mutatja, hogy az atomok térbeli elrendezése meghatározza a szilárd anyag tulajdonságait."
+    },
+    {
+      "id": 2,
+      "term": "Milyen szerkezete van a grafitnak?",
+      "definition": "A grafit rétegrácsos szerkezetű, párhuzamos síkokból áll, ahol a szénatomok hatszögeket alkotnak, minden atom három kovalens kötést alakít ki.",
+      "quote": "Hatszögletű rétegekből álló szerkezet",
+      "text": "A grafit szerkezete speciális: az atomok közötti negyedik vegyértékelektron a síkok között delokalizálódik, ami átmenetet képez az atomrács és a fémrács között. Ez az elektronmozgás teszi vezetővé az elektromosság és a hő szempontjából."
+    },
+    {
+      "id": 3,
+      "term": "Miért vezeti az elektromosságot a grafit?",
+      "definition": "A grafit vezeti az elektromosságot a delokalizált elektronok miatt, amelyek szabadon mozoghatnak a rétegek között.",
+      "quote": "Delokalizált elektronok a síkok között",
+      "text": "Ez az elektronmozgás hasonlít a fémekben végbemenő folyamathoz, de a grafit szerkezete eltér a fém rácsétól. A vezetőképesség a rétegek közötti elektronmozgáshoz kötődik."
+    },
+    {
+      "id": 4,
+      "term": "Milyen szerkezete van a gyémántnak?",
+      "definition": "A gyémánt atomrácsos szerkezetű, ahol minden szénatomot négy szomszédos szénatomhoz kapcsolódó kovalens kötések vesz körül tetraéderes elrendezésben.",
+      "quote": "Tetraéderes atomrácsos szerkezet",
+      "text": "A gyémánt szigorú tetraéderes szerkezete rendkívüli szilárdságot biztosít. Mivel az összes vegyértékelektron részt vesz a kötésképzésben, nincsenek szabad elektronok, ezért nem vezeti az elektromosságot."
+    },
+    {
+      "id": 5,
+      "term": "Miért nem vezeti az elektromosságot a gyémánt?",
+      "definition": "A gyémántban az összes szénatomnak négy erős kovalens kötése van, így nincsenek szabad vagy mobilizálható elektronok az elektromos áram szállításához.",
+      "quote": "Összes elektron kötésben vesz részt",
+      "text": "Az elektromosság vezetéséhez szabad elektronokra van szükség. A gyémánt szerkezetében minden elektron kötéshez kötött, így szigetelőként viselkedik."
+    },
+    {
+      "id": 6,
+      "term": "Mit nevezünk fulleréneknek?",
+      "definition": "Fullerének olyan szénmolekulák, amelyek gömb vagy labda alakú szerkezetűek, például a C60, amely a leggyakoribb fullerén.",
+      "quote": "Gömbformájú szénmolekulák",
+      "text": "A fulleréneket felfedeztékaratlan számú szénatomból összeállított molekuláris szerkezetek. A C60 (bukminszterfullerén) fekete színű kristályos anyag, molekularácsos szerkezetű. Nagyon ritka a természetben, szén égése során keletkező koromban fordulnak elő."
+    },
+    {
+      "id": 7,
+      "term": "Milyen szín és tulajdonságai vannak a szilíciumnak?",
+      "definition": "A szilícium kékesszürke, fémesen csillogó szilárd anyag, atomrácsos szerkezetű, félfém (szemifémes) tulajdonságokkal.",
+      "quote": "Kékesszürke, félfém tulajdonságú elem",
+      "text": "A szilícium nem tiszta fém és nem is nemfém, hanem félfém. Olvadáspontja és forráspontja magas, de a legjellemzőbb tulajdonsága a félvezetőképessége. Ez azt jelenti, hogy elektromos vezetőképessége adalékanyagokkal szabályozható."
+    },
+    {
+      "id": 8,
+      "term": "Mit jelent a félvezető tulajdonság?",
+      "definition": "A félvezető anyagok elektromos vezetőképessége az elektromosan vezető és szigetelő anyagok közé esik, és adalékanyagok hozzáadásával módosítható.",
+      "quote": "Szabályozható elektromos vezetőképesség",
+      "text": "A szilícium és a germánium félfémek jellegzetes tulajdonsága. A vezetőképesség változtatható adalékozással (dopingolással), ami az elektronikában alapvető fontosságú."
+    },
+    {
+      "id": 9,
+      "term": "Hol található a szén a természetben?",
+      "definition": "A szén főként grafitként, gyémántként és szénhidrogénekként (kőolaj, földgáz) fordul elő, valamint az élő szervezeteket alkotó szerves vegyületekben.",
+      "quote": "Szénhidrogénekben és szerves vegyületekben",
+      "text": "A szén rendelkezésre állása a bioszférában és a bányákon keresztül korlátlan gyakorlatilag. A fosszilis szénforrások (szén, kőolaj, földgáz) jelentős mennyiségben előfordulnak."
+    },
+    {
+      "id": 10,
+      "term": "Hol található a szilícium a természetben?",
+      "definition": "A szilícium a földkéregben a második leggyakoribb elem az oxigén után, főként szilikátásványok és szilícium-dioxid (homok) formájában.",
+      "quote": "Második leggyakoribb elem a föld kérgében",
+      "text": "A szilícium szilícium-dioxid formájában nagymértékben előfordul a homokban és kvarckristályokban. Szilikátásványokban oxigénnel és fémekkel kombinálódva található meg."
+    },
+    {
+      "id": 11,
+      "term": "Írja fel a szén égésének egyenletét oxigénfeleslegben!",
+      "definition": "C + O₂ = CO₂ (szén-dioxid keletkezik oxigénfeleslegben)",
+      "quote": "Szén plusz oxigén egyenlő szén-dioxid",
+      "text": "Ez az exoterm reakció: szén teljes égése tiszta oxigénben vagy levegőben szén-dioxidot eredményez. Oxigénhiányban szén-monoxid (CO) keletkezik helyette."
+    },
+    {
+      "id": 12,
+      "term": "Írja fel a szén oxigénhiányos égésének egyenletét!",
+      "definition": "2 C + O₂ = 2 CO (szén-monoxid keletkezik oxigénhiányban)",
+      "quote": "Kevés oxigén, szén-monoxid keletkezik",
+      "text": "Oxigénhiányos körülmények között (rosszul szellőző tüzelőhelyek) szén-monoxid képződik. Ez egy mérgező gáz, amely a hemoglobinhoz erősebben kötődik, mint az oxigén."
+    },
+    {
+      "id": 13,
+      "term": "Írja fel a szén vízgőzzel való reakcióját!",
+      "definition": "C + H₂O = CO + H₂ (szén-monoxid és hidrogéngáz keletkezik magas hőmérsékleten)",
+      "quote": "Szén és vízgőz szintézisgáz termelése",
+      "text": "Ez a reakció magas hőmérsékleten végbemegy. A keletkező gázkeverék (szintézisgáz) ipari felhasználásra alkalmas."
+    },
+    {
+      "id": 14,
+      "term": "Milyen szerepet játszik a szén a fém-oxidok redukálásában?",
+      "definition": "A szén erős redukálószer, amely magas hőmérsékleten megköti az oxigént a fém-oxidokból, így felszabadítva az elemi fémet.",
+      "quote": "Szén redukálószerként működik",
+      "text": "Például a vasgyártás során szén redukálja a vas(III)-oxidot elemi vassá. Fe₂O₃ + 3 C = 2 Fe + 3 CO"
+    },
+    {
+      "id": 15,
+      "term": "Mit mutat a C + CO₂ = 2 CO egyenlet?",
+      "definition": "Magas hőmérsékleten a szén szén-dioxidot szén-monoxiddá redukálja, megmutatva a szén redukálóképességét.",
+      "quote": "Szén redukálja a szén-dioxidot",
+      "text": "Ez az egyenlet fontos az ipari folyamatokban, például a vasgyártásban, ahol szén-monoxid a tényleges redukálószer."
+    },
+    {
+      "id": 16,
+      "term": "Írja fel a szilícium nátrium-hidroxiddal való reakcióját!",
+      "definition": "Si + 2 NaOH + H₂O = Na₂SiO₃ + 2 H₂ (nátrium-szilikát és hidrogéngáz keletkezik)",
+      "quote": "Szilícium lúgos közegben reagál",
+      "text": "Ez a reakció azt mutatja, hogy a szilícium erősen lúgos közegben oldódik. A nátrium-szilikát egy vízben oldható összetett szilíciumvegyület."
+    },
+    {
+      "id": 17,
+      "term": "Mi a koksz és hogyan állítják elő?",
+      "definition": "A koksz túlnyomórészt szénből álló, jó minőségű fűtőanyag, amelyet természetes szeneknek magas hőmérsékleten való hevítésével állítanak elő.",
+      "quote": "Szénből nyert magas minőségű fűtőanyag",
+      "text": "A koksz elsősorban az acél- és vasgyártásban használatos. Jó redukálószer és fűtőanyag egyben, a vasgyártásban kulcsfontosságú."
+    },
+    {
+      "id": 18,
+      "term": "Mi a grafit felhasználása az atomenergetikában?",
+      "definition": "A grafit neutronfékező rudakban (lassító rudakban) használatos az atomerőművekben a láncreakció szabályozásához.",
+      "quote": "Neutronfékező rudak az atomerőművekben",
+      "text": "A grafit jó neutron-abszorbálóként és lassítóként viselkedik, ezért az atomreaktorokban ez szabályozza a nukleáris láncreakció sebességét."
+    },
+    {
+      "id": 19,
+      "term": "Milyen ipari felhasználása van a gyémántnak?",
+      "definition": "A gyémántot kiemelkedő keménysége miatt fúrófejekben és vágókorongokban használják (ipari gyémánt), valamint értékes ékszer- és díszkőként.",
+      "quote": "Keménysége miatt fúró- és vágóeszközökhöz",
+      "text": "Az ipari gyémántok (alacsonyabb minőségű, szintetikus szénből előállított kristályok) abrazív anyagként működnek. A természetes gyémánt értékes drágakő."
+    },
+    {
+      "id": 20,
+      "term": "Milyen felhasználása van a szilíciumnak a fémötvözetekben?",
+      "definition": "A szilíciumot fémekkel ötvözik, például alumíniummal, az ötvözetekből autóalkatrészek és egyéb mechanikai alkatrészek készülnek.",
+      "quote": "Ötvözetekben mérnöki anyagok készítéséhez",
+      "text": "Az alumínium-szilícium ötvözetek jó mechanikai tulajdonságokkal rendelkeznek és könnyűek, ezért az autóiparban széles körben használatosak."
+    },
+    {
+      "id": 21,
+      "term": "Mi a szilícium szerepe az elektronikában?",
+      "definition": "A nagy tisztaságú szilícium az elektronikai chipek alapanyaga, amely adalékanyagokkal (dopingolással) adalékolódik a félvezetők előállításához.",
+      "quote": "Chipek alapanyaga adalékozható szilícium",
+      "text": "Az adalékozás (boron vagy foszfor hozzáadása) megváltoztatja a szilícium elektromos vezetőképességét, lehetővé téve a tranzisztorok és diódák működését."
+    },
+    {
+      "id": 22,
+      "term": "Milyen szilícium alapú alkalmazások vannak az energetikában?",
+      "definition": "A szilícium napelemekben és egyenirányítókban használatos, amely AC-t egyenárammá alakít, valamint LCD kijelzőkben is megtalálható.",
+      "quote": "Napelemek és egyenirányítók szilíciumból",
+      "text": "A szilícium félvezetői a napenergia kiaknázásának kulcsfontosságúak. Az egyenirányítók az elektromosság átalakítói."
+    },
+    {
+      "id": 23,
+      "term": "Mi a különbség a grafit és a gyémánt között szerkezetben?",
+      "definition": "A grafit rétegrácsos (2D szerkezet a síkokban), míg a gyémánt 3D tetraéderes atomrács, ami magyarázza keménységbeli különbségüket.",
+      "quote": "Rétegek vs. tetraéderes 3D szerkezet",
+      "text": "A grafit síkjain belül erős kötések vannak, de a síkok között gyenge Van der Waals erők. A gyémántban minden irányban egyenlően erős 3D háló van."
+    },
+    {
+      "id": 24,
+      "term": "Miért oldható vagy nem oldható a szén módosulatai?",
+      "definition": "Az atomrácsos szén (grafit, gyémánt) nem oldódik semmiféle oldószerben (sem vízben, sem apoláris oldószerekben) nagy kötéstartalmuk miatt.",
+      "quote": "Atomrács nem oldódik semmiben",
+      "text": "A molekuláris szerkezetű anyagok oldódhatnak, de az atomrácsos szerkezetű szilárda anyagok nem, mivel a teljes szerkezetnek szét kellene esnie az oldódáshoz."
+    },
+    {
+      "id": 25,
+      "term": "Milyen hőmérsékleten olvad meg a grafit és a gyémánt?",
+      "definition": "Mind a grafit, mind a gyémánt nagyon magas olvadásponttal rendelkezik az erős kovalens kötések miatt (grafit ~3500°C, gyémánt ~3700°C).",
+      "quote": "Nagyon magas olvadáspontok, 3000°C felett",
+      "text": "Az olvadáspont olyan magas, mert az atomrácsos szerkezetben az összes atom erősen össze van kötve kovalens kötésekkel, amelyeket meg kell bontani az olvadáshoz."
+    },
+    {
+      "id": 26,
+      "term": "Mi az oka a fullerének rendkívüli tulajdonságainak?",
+      "definition": "A fullerének gömbmolekuláris szerkezete speciális konjugált kötésrendszert hoznak létre, amit szoliderek tulajdonságainak nevezünk.",
+      "quote": "Gömb alakú, speciális kötésrendszer",
+      "text": "A C60 szimmetrikus szerkezete és stabilizálódott elektronstruktúrája különleges optikai és elektrokémiai tulajdonságokat biztosít."
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "hidrogen-halogenek",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az ipari klórgyártásban az anódon mi keletkezik?",
+      "options": ["Hidrogén", "Oxigén", "Klórgáz", "Vízgőz"],
+      "answer": "Klórgáz"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A hidrogén molekuláját _____ típusú másodrendű kölcsönhatások tartják össze szilárdan.",
+      "options": [],
+      "answer": "diszperziós"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik nemesgáz használható fényreklámban piros-narancssárga szín előállítására?",
+      "options": ["Hélium", "Neon", "Argon", "Kripton"],
+      "answer": "Neon"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A durranógáz-próbát azért végezzük, hogy megállapítsuk, melyik gáztól _____ a hidrogén.",
+      "options": [],
+      "answer": "mentes"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mely halogénnél a legnagyobb a polaritása az H–X kötésnek?",
+      "options": ["HCl", "HBr", "HF", "HI"],
+      "answer": "HF"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A halogénelemek vízben képezett disproportionálódás során _____ és hipohalogénsav keletkezik.",
+      "options": [],
+      "answer": "hidrogén-halogenid"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik halogenid oldódik legjobban jódidionok jelenlétében?",
+      "options": ["Fluor", "Klór", "Bróm", "Jód"],
+      "answer": "Jód"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A szuperfolyékony hélium _____ K alatt jelenik meg.",
+      "options": [],
+      "answer": "2,17"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Az MRI-készülékek hűtésében melyik nemesgáz a legjellemzőbb?",
+      "options": ["Argon", "Neon", "Hélium", "Kripton"],
+      "answer": "Hélium"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A bróm-víz a szerves vegyületben lévő _____ és _____ kötések kimutatásában használatos.",
+      "options": [],
+      "answer": "kettős, hármas"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mi a deutérium másik neve?",
+      "options": ["Prótium", "Tritícium", "Nehézhidrogén", "Szuperfolyékony hidrogén"],
+      "answer": "Nehézhidrogén"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ a hidrogén laboratóriumi előállítása során a tipikus katód anyaga.",
+      "options": [],
+      "answer": "cink"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik halogén a legkevésbé mérgező az egészség szempontjából?",
+      "options": ["Fluor", "Klór", "Bróm", "Jód"],
+      "answer": "Jód"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ az összes gáz közül a legkisebb diffúziós sebességet mutatja.",
+      "options": [],
+      "answer": "radon"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mely hidrogén-halogenidek stabilak és nem bomlanak vissza az elemeikre?",
+      "options": ["HF és HCl", "HBr és HI", "HF és HI", "Egyik sem"],
+      "answer": "HF és HCl"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az argon az atmoszféra körülbelül _____ %-át teszi ki.",
+      "options": [],
+      "answer": "0,93"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik halogén-oxósav a legerősebb?",
+      "options": ["Hipoklórossav", "Klórossav", "Klórsav", "Perklórsav"],
+      "answer": "Perklórsav"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A nemesgázok vegyértékhéja _____, ezért elsőrendű kémiai kötésekre nem hajlamosak.",
+      "options": [],
+      "answer": "telített"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik halogén a legreaktívabb mind az elemek közül?",
+      "options": ["Klór", "Bróm", "Jód", "Fluor"],
+      "answer": "Fluor"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A neon-cső _____ feszültséggel működik, amely ionizálja a neon-gázt.",
+      "options": [],
+      "answer": "magas"
+    }
+  ]
+}

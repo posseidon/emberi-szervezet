@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "redoxi-elektrokemia",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az oxidáció során az atom oxidációs száma hogyan változik?",
+      "options": ["Nő", "Csökken", "Nem változik", "Először nő, majd csökken"],
+      "answer": "Nő"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az elektront leadó részecske a redoxireakcióban _____ szerként működik.",
+      "options": [],
+      "answer": "redukáló"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik elemnek az oxidációs száma vegyületeiben mindig –1?",
+      "options": ["Oxigén", "Fluor", "Klór", "Hidrogén"],
+      "answer": "Fluor"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A Mg + Cl2 → MgCl2 reakcióban a klór _____ és redukálódik.",
+      "options": [],
+      "answer": "oxidálószer"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Az alkálifémek (I. főcsoport) vegyületeiben melyik az oxidációs szám?",
+      "options": ["+1", "+2", "–1", "0"],
+      "answer": "+1"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az oxidációs számok egy semleges vegyületben az összegük _____ lesz.",
+      "options": [],
+      "answer": "nulla"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "A Zn + Cu2+ → Zn2+ + Cu reakcióban melyik a redukálószer?",
+      "options": ["Cu2+", "Zn", "Cu", "Zn2+"],
+      "answer": "Zn"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A standardpotenciálok szerint: ε°(Zn2+/Zn) = –0,76 V és ε°(Cu2+/Cu) = +0,34 V, így a _____ az erősebb redukálószer.",
+      "options": [],
+      "answer": "cink"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Amikor cinklemezt réz-szulfát oldatba merítünk, akkor a cinklemez ...",
+      "options": ["Változatlan marad", "Megvastagodik", "Elvékonyodik", "Megoldódik teljesen"],
+      "answer": "Elvékonyodik"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Ha rézlemezt cink-szulfát oldatba merítünk, akkor _____ történik.",
+      "options": [],
+      "answer": "nincs reakció"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Az oxigén vegyületeiben melyik az oxidációs száma normálisan?",
+      "options": ["+2", "–1", "–2", "+1"],
+      "answer": "–2"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A peroxidok (pl. H2O2) oxigénjének az oxidációs száma _____ .",
+      "options": [],
+      "answer": "–1"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A galvánelemben az anód jellemzői közül melyik igaz?",
+      "options": ["Pozitív pólus, redukció történik", "Negatív pólus, oxidáció történik", "Pozitív pólus, oxidáció történik", "Negatív pólus, redukció történik"],
+      "answer": "Negatív pólus, oxidáció történik"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A galvánelemben a cinkelektród az _____ , ahol a Zn atomok oxidálódnak.",
+      "options": [],
+      "answer": "anód"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "A Daniell-element az elektromotoros ereje (EME) a képletből számítva mekkora?",
+      "options": ["–0,42 V", "0,42 V", "1,10 V", "0,76 V"],
+      "answer": "1,10 V"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A galvánelemben a sóhíd funkciója az oldatok közötti _____ vezetést biztosítja.",
+      "options": [],
+      "answer": "ionos"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Az elektrolízisben az anód mely elektródpotenciálú?",
+      "options": ["Negatív polaritású", "Pozitív polaritású", "Neutráls", "A polariságtól függetlenül működik"],
+      "answer": "Pozitív polaritású"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az olvadékelektrolízisben a nátrium-klorid katódfolyamata: 2 Na+ + 2 e– → _____",
+      "options": [],
+      "answer": "2 Na"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Faraday II. törvénye szerint mennyi a Faraday-állandó értéke?",
+      "options": ["96 500 J/mol", "96 500 C/mol", "96 500 V/mol", "96 500 A/mol"],
+      "answer": "96 500 C/mol"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az indifferens elektródok nem reagálnak az elektrolit összetevőivel, tipikus példa a _____ és a platina.",
+      "options": [],
+      "answer": "grafit"
+    }
+  ]
+}

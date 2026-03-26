@@ -1,0 +1,228 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Galvánelemek",
+      "definition": "Elektrokémiai áramforrások, amelyekben kémiai redoxireakció hatására elektromos áram termelődik.",
+      "quote": "kémia termel elektromos áramot",
+      "text": "A galvánelemek a kémiai energia elektromos energiává alakítják. Az elem működése során egy redoxireakció lejátszódik, amely elektronokat szabadít fel. Ezek az elektronok végigfolynak a külső áramkörön, így elektromos áram keletkezik. Klasszikus példa a Daniell-elem és az elem ceruza."
+    },
+    {
+      "id": 2,
+      "term": "Elektród",
+      "definition": "Olyan felület, ahol egy fémesen vezető fázis (elektróda) és egy ionosan vezető fázis (elektrolit) érintkezik egymással.",
+      "quote": "fém és ionos oldat találkozása",
+      "text": "Az elektród a galvánelemben az a pont, ahol a tényleges redoxireakció lejátszódik. Az elektródon az anyag oxidációja vagy redukciója történik. Az elektród lehet fém, fémötvözet, szén vagy más vezető anyag. Az elektródon lezajló kémiai folyamatot elektródfolyamatnak nevezzük."
+    },
+    {
+      "id": 3,
+      "term": "Félelektród",
+      "definition": "Olyan elektród, amely egy fémlemezből és a saját ionjait tartalmazó oldatból áll.",
+      "quote": "fém és saját ionjai oldatban",
+      "text": "A félelektród a legegyszerűbb elektród típus. Például a rézelektród egy rézlemezből és CuSO4 oldatból áll. A rézelektródon a Cu ⇄ Cu2+ + 2e– folyamat játszódhat le. Hogy mely irányban (oxidáció vagy redukció) történik, az a galvánelemben a másik elektródtól függ."
+    },
+    {
+      "id": 4,
+      "term": "Gázelektród",
+      "definition": "Olyan elektród, ahol az elem oldott gázként és egy eltérő oxidációs számú oldott vegyület formájában is jelen van.",
+      "quote": "gáz és eltérő oxidációs állapot",
+      "text": "A gázelektród a hidrogénelektród tipikus példája. Egy savas oldatba vezetett hidrogéngázból és egy platinadrótból áll. A H2 ⇄ 2H+ + 2e– egyenleten keresztül működik. A platina katalizátorként működik, az elektronok leadásában és felvételében. A gázelektródok összetett redoxireakciók modellezésére alkalmasak."
+    },
+    {
+      "id": 5,
+      "term": "Redoxielektród",
+      "definition": "Olyan elektród, ahol ugyanannak az elemnek két különböző oxidációs állapotú formája van jelen oldatban.",
+      "quote": "kettős oxidációs állapot oldatban",
+      "text": "Például a vas(II)/vas(III) elektród vízben oldott Fe2+ és Fe3+ ionokat tartalmaz. Az elektródon a Fe2+ ⇄ Fe3+ + e– folyamat játszódhat le. Az elektródpotenciál az arányuktól függ, amit az egyensúly határoz meg. Ez az elektródtípus összetett redoxirendszerek modellezésére alkalmas."
+    },
+    {
+      "id": 6,
+      "term": "Elektródpotenciál",
+      "definition": "Az oxidált és redukált forma közötti egyensúlyra jellemző feszültség, amely a galvánelem teljesítménye szempontjából fontos.",
+      "quote": "feszültség az elektródon",
+      "text": "Az elektródpotenciál (ε) azt mutatja meg, hogy mekkora feszültség éred fel az elektródon az oxidáció és redukció között. Ez a potenciál függ az elektrolit koncentrációjától, a hőmérséklettől, és gázelektród esetén a gáz nyomásától is. Az elektródpotenciálok különbsége határozza meg a galvánelemek feszültségét."
+    },
+    {
+      "id": 7,
+      "term": "Standard elektród",
+      "definition": "Olyan elektród, amelyen az oldott komponensek koncentrációja 1 mol/dm³, a hőmérséklet 25°C, gázelektród esetén a gáz nyomása 101 kPa.",
+      "quote": "1 mol/L, 25°C, 101 kPa",
+      "text": "A standard elektród a kalibrációs pont az elektrokémiában. A standard körülmények lehetővé teszik az összehasonlítást és a táblázatok készítését. A standardpotenciálok minden elektródra vonatkoznak ezekben az ideális körülményekben. Ezek az értékek függetlenek, segítségükkel megjósolható a valós rendszerek működése."
+    },
+    {
+      "id": 8,
+      "term": "Standardpotenciál (E° vagy εo)",
+      "definition": "A standard elektród elektródpotenciálja, amely az adott redoxirendszerre jellemző állandó érték.",
+      "quote": "karakterisztikus feszültség érték",
+      "text": "A standardpotenciál egy rendszerre jellemző, tabellázott érték. Segítségével gyorsan megjósolható, hogy mely redoxireakciók mennek végbe spontán. Szokás szerint az értékeket például a hidrogénelektródhoz (E° = 0 V) viszonyítva adják meg. Ezek az értékek alapozzák meg a galvánelemek kialakítottságát."
+    },
+    {
+      "id": 9,
+      "term": "Anód",
+      "definition": "A galvánelem azon elektródja, ahol oxidáció (elektronleadás) történik, és amely a galvánelemnek a negatív pólusát képezi.",
+      "quote": "oxidáció, negatív pólus",
+      "text": "Az anód az az elektród, amely elektronokat bocsát ki. Az itt történő oxidáció során az anyag elektronokat veszít el, például Zn → Zn2+ + 2e–. Az anód a galvánelem negatív pólusa, mert elektronok lépnek ki innen. Az anód az erősebb redukálószer, amely szívesebben adja le az elektronokat."
+    },
+    {
+      "id": 10,
+      "term": "Katód",
+      "definition": "A galvánelemnek az a elektródja, ahol redukció (elektronfelvétel) történik, és amely a galvánelemnek a pozitív pólusát képezi.",
+      "quote": "redukció, pozitív pólus",
+      "text": "A katód az az elektród, amely elektronokat fogad fel. Az itt történő redukció során az anyag elektronokat vesz fel, például Cu2+ + 2e– → Cu. A katód a galvánelemnek a pozitív pólusa, mert elektronok érkeznek ide. A katódon az erősebb oxidálószer van, amely szívesebben vesz fel elektronokat."
+    },
+    {
+      "id": 11,
+      "term": "Daniell-elem",
+      "definition": "A réz(II)–réz és cink(II)–cink elektródokból álló klasszikus galvánelemek, melynél εo(Zn2+/Zn) = –0,76 V és εo(Cu2+/Cu) = +0,34 V.",
+      "quote": "cink-réz elektrokémiai áramforrás",
+      "text": "A Daniell-elem az egyik leglásóbb galvánelemek. Működési elve jól követhető: a cinkelektród oldódik (anód), a rézelektródon réz válik ki (katód). A két elektródot sóhíd köti össze, amely a két oldatot szétválasztja, de ionos vezetést biztosít. Az EME: 0,34 – (–0,76) = 1,10 V."
+    },
+    {
+      "id": 12,
+      "term": "Anódfolyamat a Daniell-elemben",
+      "definition": "A cinkelektródon lejátszódó oxidáció: Zn(sz) → Zn2+(aq) + 2e–",
+      "quote": "cinklemez oldódik elektronok keletkeznek",
+      "text": "Ez az elektródfolyamat a Daniell-elem működésének kulcsa. A cinkelektródon a Zn atomok elektronokat leadnak, Zn2+ ionok keletkeznek az oldatban. Az elektronok a vezetéken keresztül a rézelektródra vándorolnak. A cinklemez tömege idővel csökken, az oldatban a Zn2+ koncentrációja nő."
+    },
+    {
+      "id": 13,
+      "term": "Katódfolyamat a Daniell-elemben",
+      "definition": "A rézelektródon lejátszódó redukció: Cu2+(aq) + 2e– → Cu(sz)",
+      "quote": "réz-ionok kiválnak réz fém formájában",
+      "text": "Ebben az elektródfolyamatban a Cu2+ ionok az anódtól érkező elektronokat vesznek fel. Elemi réz válik ki a rézelektródon, a fémlemez tömege nő, az oldat Cu2+ koncentrációja csökken. Ez az a folyamat, amely az elektromos áramot fenntartja a galvánelem által."
+    },
+    {
+      "id": 14,
+      "term": "Sóhíd (diafragma)",
+      "definition": "A galvánelem két részre osztott része, amelyet ionosan vezető, de anyagilag áteresztő elemet választ el az oldatokat, anélkül hogy összekeveredne.",
+      "quote": "ionok áthaladnak, oldatok elkülönülnek",
+      "text": "A sóhíd biztosítja az ionos vezetést a galvánelemben, miközben megelőzi az oldatok direkt keveredését. Kálium-nitráton vagy más elektrolitsoron átáramló oldatot tartalmazhat. A diafragma egy féligáteresztő fal, amely szintén alkalmas. A sóhíd nélkül az áramkör nem záródna le teljes mértékben."
+    },
+    {
+      "id": 15,
+      "term": "Elektromotoros erő (EME)",
+      "definition": "A galvánelemnek a két elektródja közül mérhető maximális feszültsége, amely az elektródpotenciálok különbségéből számítható: EME = εkatód – εanód",
+      "quote": "feszültség anód és katód között",
+      "text": "Az EME az a teljes feszültség, amelyet a galvánelemunk szolgáltat az áramkör terhelésének előtt. A Daniell-elemben: EME = 0,34 – (–0,76) = 1,10 V. Az EME csökken az elem nyomásának során (áram szállítása közben), mert az elektródpotenciálok megváltoznak az anyagok közül."
+    },
+    {
+      "id": 16,
+      "term": "Celladiagram",
+      "definition": "A galvánelemek szerkezetének tömör ábrázolása: –Anód | Elektrolit || Elektrolit | Katód+",
+      "quote": "szimbolikus felírása az elemnek",
+      "text": "A celladiagram segítségével gyorsan és egyértelműen lehet egy galvánelem összetételét leírni. A függőleges vonalak fázishatárokat jelölnek, a kettős vonal a sóhidat/diafrágmát. Például a Daniell-elemé: – Zn | Zn2+ || Cu2+ | Cu +. Ez a jelölésrendszer világosan mutatja az elem szerkezetét."
+    },
+    {
+      "id": 17,
+      "term": "Galvánelemek lemerülése",
+      "definition": "Az elem idővel lemerül, mert az elektródokon átalakuló anyagok elfogynak és az elektródpotenciálok kiegyenlítődnek.",
+      "quote": "anyagok elfogynak, potenciál kiegyenlítődik",
+      "text": "Az elektródokon folyamatos redoxireakció miatt az anyagok fogynak. A Daniell-elemben például a Zn-ból egyre kevesebb van, a Cu2+-ből is csökken az oldat mennyisége. Az elektródpotenciálok közelednek egymáshoz, az EME csökken. Végül az elem már nem képes érdemi áramot szolgáltatni."
+    },
+    {
+      "id": 18,
+      "term": "Elektrolízis",
+      "definition": "Elektromos áram hatására lejátszódó kémiai folyamat, amelyet külső áramforrás hajtott meg.",
+      "quote": "áram hajtja a kémiai folyamatot",
+      "text": "Az elektrolízis az elektrokémiának az ellenkező folyamata a galvánélemhez képest: itt az elektromos áram kémiai munkát végez. A folyamat nem spontán, szükséges hozzá külső energia. Az elektrolízisben redoxireakciók játszódnak le, de az erőforrás az elektromos áram, nem a kémiai energia."
+    },
+    {
+      "id": 19,
+      "term": "Elektrolizáló cella",
+      "definition": "Az az készülék, amelyben az elektrolízis lejátszódik, amely egy külső áramforráshoz csatlakoztatott, elektródokat és elektrolit-oldatot tartalmazó edény.",
+      "quote": "elektrolízis helyszíne szervezet",
+      "text": "Az elektrolizáló cella egy edény, amely elektródokat (platin, grafit, vagy más anyagból) és az elektrolizálandó anyagot (olvadék vagy oldat) tartalmaz. Az elektródokat egy külső áramforráshoz kapcsolják, amely a kívánt feszültséget és áramot biztosítja. A cella szerkezete a galvánélemnél egyszerűbb, mivel nincs szükség sóhídra."
+    },
+    {
+      "id": 20,
+      "term": "Indifferens elektród",
+      "definition": "Olyan elektród, amelynek anyaga nem alakul át az elektrolízis folyamán, csak az áramot vezeti az elektrolitba.",
+      "quote": "elektród anyaga nem reagál",
+      "text": "Az indifferens elektródok például a grafit és a platina. Ezek az anyagok elég reakcióképes ahhoz, hogy vezetők legyenek, de nem reagálnak az elektrolit összetevőivel az elektrolízis során. Így az elektródon lejátszódó folyamatok csak az elektrolit összetételétől függenek, az elektród anyagától nem."
+    },
+    {
+      "id": 21,
+      "term": "Elektrolízis anódja",
+      "definition": "Az elektrolízisben az anód a pozitív elektród, ahol oxidáció (elektronleadás) történik.",
+      "quote": "pozitív pólus, oxidáció",
+      "text": "Az elektrolízisben az elektródok polaritása ellentétes a galvánélemhez képest. Az anód az elektrolízisben a pozitív elektród, és itt oxidáció játszódik le. Az anionok az anódra vándorolnak, majd oxidálódnak. Ez a fordított logika gyakran zavaró, de fontos megjegyezni: elektrolízisben az anód pozitív, galvánélemben negatív."
+    },
+    {
+      "id": 22,
+      "term": "Elektrolízis katódja",
+      "definition": "Az elektrolízisben a katód a negatív elektród, ahol redukció (elektronfelvétel) történik.",
+      "quote": "negatív pólus, redukció",
+      "text": "Az elektrolízisben a katód a negatív elektród, és itt redukció játszódik le. A kationok a katódra vándorolnak, majd redukálódnak, számára elektront kapnak. A katón ugyanaz a folyamat zajlik, mint a galvánelem katódjában, de az elektródok polaritása az átmeghatározott lánc miatt más."
+    },
+    {
+      "id": 23,
+      "term": "Olvadékelektrolízis",
+      "definition": "Az elektrolízis speciális esete, amelyben az elektrolizálási anyag olvadék (nem vizes oldat), jellegzetes példa a nátrium-klorid olvadékának elektrolízise.",
+      "quote": "megolvasztott sókat elektrolizálunk",
+      "text": "Az olvadékelektrolízisben az ionvegyület megolvadt formájában van. Az anódon az anionok (pl. Cl–) oxidálódnak, elemi halogenek keletkeznek (Cl2). A katódon a kationok (pl. Na+) redukálódnak, elemi fémek válnak ki (Na). Az olvadékelektrolízis indifferens elektródokkal végzik, a folyamatok tiszták, szennyeződés nincs."
+    },
+    {
+      "id": 24,
+      "term": "Bruttó egyenlet az elektrolízisben",
+      "definition": "Az anód- és katódfolyamatok összege által adott teljes redoxireakció, amelyen az elektronok kihúzódnak.",
+      "quote": "anód + katód = bruttó",
+      "text": "Az olvadékelektrolízisban például NaCl elektrolízise: + 2Cl– → Cl2 + 2e– (anódfolyamat), – 2Na+ + 2e– → 2Na (katódfolyamat). A bruttó egyenlet: 2NaCl → Cl2 + 2Na. Az elektronok kimaradnak, az eredmény az elemi anyagok képzésének mutatja az elméleti alapot."
+    },
+    {
+      "id": 25,
+      "term": "Vizes oldat elektrolízise",
+      "definition": "Az elektrolízis összetettebb esete, amelyben az oldott anyag mellett a víznek a redukciója és oxidációja is szóba jöhet.",
+      "quote": "oldott anyag és vízbontás lehetséges",
+      "text": "Vizes oldatok elektrolízise során nem csak az oldott sóból keletkezik a termék, hanem a víz is részt vehet. Az anódon például O2 keletkezhet, ha az oldott anion nem oxidálható könnyebben, mint a víz. A katódon H2 fejlődhet, ha az oldott kation nem redukálható könnyebben, mint a vízből való H+."
+    },
+    {
+      "id": 26,
+      "term": "Lehetséges anódfolyamatok",
+      "definition": "Az anódon Cl–, Br–, I– jelenlétében elemi halogén (Cl2, Br2, I2) keletkezik, egyébként vízbontás (O2 fejlődés) történik.",
+      "quote": "halogén vagy oxigén az anódon",
+      "text": "Az anódfolyamat az elektrolit összetételén múlik. Ha halidion (Cl–, Br–, I–) van jelen, azok oxidálódnak elemi halogenná. Ha más anion van, vagy csak vízből álló a közeg, akkor a víz oxidálódik oxigén fejlődésével. Az oxidálhatóság a halidionok felé kedvez, mivel könnyebben oxidálódnak, mint a víz."
+    },
+    {
+      "id": 27,
+      "term": "Lehetséges katódfolyamatok",
+      "definition": "Az indifferens katódon fém van az oldatban (ha nem alkálifém/alkáliföldfém/Al), akkor az fém válik ki; egyébként hidrogénfejlődés történik.",
+      "quote": "fém kiválás vagy H2 fejlődés",
+      "text": "A katódon történő folyamat az oldatban lévő kationok redukálhatóságán múlik. Ha Cu2+, Ag+ vagy más közepes potenciálú fém ionja van, azok redukálódnak fém formájában. Az alkálifémek és alkáliföldfémek ionjai nem redukálódnak vízből, hanem hidrogén fejlődik helyettük, mivel túl negatív a standardpotenciáljuk."
+    },
+    {
+      "id": 28,
+      "term": "Higanykatód",
+      "definition": "Speciális katód, amely az indifferens elektródoktól eltérően alkalmas alkálifémek leválasztásához, mivel a keletkező fém higannyal folyékony ötvözetet (amalgámot) képez.",
+      "quote": "higany amalgám-képzésre alkalmas",
+      "text": "A higanykatód lehetővé teszi az alkálifémek vizes oldatból való leválasztását anélkül, hogy a hidrogén fejlődne. A keletkező fém (pl. Na) a higannyal folyékony ötvözetet (amalgám) képez, amely megakadályozza az olyan reakciók lezajlódását, amelyek veszélyesek lennének. A higanykatód iparilag fontos a klór-alkáli eljárásban."
+    },
+    {
+      "id": 29,
+      "term": "Faraday I. törvénye",
+      "definition": "Az elektródon átalakuló vagy keletkező anyag tömege egyenesen arányos az áramerősséggel és az elektrolízis időtartamával: m = k·I·t",
+      "quote": "tömeg = áramerősség × idő",
+      "text": "Faraday I. törvénye matematikailag azt fejezi ki, hogy az elektrolízis mértéke az áramerősségtől és az időtartamtól függ. k az elektrokémiai egyenérték az adott anyagra vonatkozóan. Az egyenletet a gyakorlatban az n (anyagmennyiség) és az elektron szám (z) segítségével szokás átírni."
+    },
+    {
+      "id": 30,
+      "term": "Faraday II. törvénye",
+      "definition": "1 mol z töltésű ion semlegesítéséhez (leválasztásához) z × 96 500 C töltés szükséges. 96 500 C = 1 F (Faraday-állandó) = 1 mol elektron töltése.",
+      "quote": "1 mól elektron = 96 500 coulomb",
+      "text": "Faraday II. törvénye azt mondja ki, hogy az elektrokémiai folyamatok egy mól elektron jelenlétéhez szükséges töltés (Faraday-állandó) standardizált. Ez lehetővé teszi az elektrokémiai számítások egyszerűsítését. Ha z = 2 (pl. Cu2+), akkor 2 × 96 500 = 193 000 C szükséges 1 mol Cu leválasztásához."
+    },
+    {
+      "id": 31,
+      "term": "Faraday-állandó",
+      "definition": "1 mól elektron töltése: F = 96 500 C (coulomb). Ez az az alapérték, amely összekapcsolja az elektrokémiát a töltéssel.",
+      "quote": "F = 96 500 C/mol e–",
+      "text": "A Faraday-állandó az elektrokémia fundamentális konstansa. Segítségével lehet kiszámítani, hogy mennyi áram szükséges egy adott mennyiségű anyag elektrolízishez. Tehát ha tudunk az áramerősséget és az időt, kiszámíthatjuk az átalakuló anyag tömegét vagy fordítva."
+    },
+    {
+      "id": 32,
+      "term": "Elektrokémiai egyenérték",
+      "definition": "Az elektród anyagára jellemző állandó (k), amely megmutatja, hogy mennyi anyag válik ki 1 coulomb töltésre vonatkozóan.",
+      "quote": "anyagmennyiség töltésenként",
+      "text": "Az elektrokémiai egyenérték az egyenletek gyakorlati számításaihoz szükséges. Kiszámítható az anyag moláris tömegéből és az elektrolízisben résztvevő elektron számából: k = M / (z × F), ahol M a moláris tömeg, z az elektron szám, F a Faraday-állandó. Táblázatokból is kikereshető."
+    }
+  ]
+}

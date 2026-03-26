@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "reakciok-es-egyensuly",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mit jelent az \"elemek megmaradásának elve\" a kémiai egyenletrendezésben?",
+      "options": ["Az elemek új kapcsolódásokat képezhetnek", "Az anyag nem keletkezik és nem szűnik meg", "Az atomok protonszáma megváltozik", "A reaktánsok és termékek számának azonosnak kell lennie"],
+      "answer": "Az anyag nem keletkezik és nem szűnik meg"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ sebességi egyenlet megmutatja, hogyan függ a kémiai reaktánsok koncentrációjától és hőmérsékletétől.",
+      "options": [],
+      "answer": "empirikus"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik a helyes sebességi egyenlet a 2 NO + O2 = 2 NO2 folyamatra, ha a kísérletes adatok alapján azt kapjuk?",
+      "options": ["v = k·[NO]·[O2]", "v = k·[NO]²·[O2]", "v = k·[O2]", "v = k·[NO]·[O2]²"],
+      "answer": "v = k·[NO]²·[O2]"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Mit fejez ki az aktiválási energia az energiadiagramon?",
+      "options": ["Az anyagok közötti távolságot", "A reaktánsok és termékek közötti energiakülönbséget", "A minimális energia, amit az ütközéseknek meg kell haladniuk", "A termodinamikai stabilitást"],
+      "answer": "A minimális energia, amit az ütközéseknek meg kell haladniuk"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A _____ olyan anyagok, amelyek az élő szervezetekben az aktiválási energiát drasztikusan csökkentik.",
+      "options": [],
+      "answer": "enzimek"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Mi történik az egyensúlyban, ha a rendszerhez több reaktánst adunk?",
+      "options": ["Az egyensúly a termékek irányába tolódik", "Az egyensúly a reaktánsok irányába tolódik", "Az egyensúly nem tolódik", "Az egyensúly megbillen, majd visszaáll az eredeti pozícióra"],
+      "answer": "Az egyensúly a termékek irányába tolódik"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Az N2(g) + 3 H2(g) ⇌ 2 NH3(g) egyenletben hogyan hat a nyomás az egyensúlyra?",
+      "options": ["Nincs hatása, mivel a hőmérséklet nem változik", "A nyomás növelése az NH3 képződés felé tolódik (kevesebb mól gáz)", "A nyomásnak fordított hatása van az egyensúlyra", "Az egyensúly megbillen, majd visszaáll"],
+      "answer": "A nyomás növelése az NH3 képződés felé tolódik (kevesebb mól gáz)"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az _____ olyan folyamat, amelyet az energiafelszabadulás jellemez, így a rendszer hőt ad a környezetnek.",
+      "options": [],
+      "answer": "exoterm"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Milyen a viszonya a rácsenergiának és a hidratációs energiának, ha az oldódás exoterm?",
+      "options": ["|Erács| > |Ehidr|", "|Erács| < |Ehidr|", "|Erács| = |Ehidr|", "Nincs viszonya"],
+      "answer": "|Erács| < |Ehidr|"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Mitől függ a képződéshő (ΔkH)?",
+      "options": ["Csak az anyag összetételétől", "Az anyag halmazállapotától", "Csak a hőmérséklettől", "Az elemek mennyiségétől"],
+      "answer": "Az anyag halmazállapotától"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "A _____ elmélete azt írja le, hogy az optimális ütközéseknek megfelelő irányban és elegendő energiával kell történniük a hatás érdekében.",
+      "options": [],
+      "answer": "ütközéselmélet"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Az enzimek milyen hatással vannak az egyensúly helyzetére?",
+      "options": ["Az egyensúlyt az endoterm irányba tolódják", "Az egyensúlyt az exoterm irányba tolódják", "Az egyensúly helyzetét nem változtatják, csak a sebesség nő", "Megfordítják az egyensúly irányát"],
+      "answer": "Az egyensúly helyzetét nem változtatják, csak a sebesség nő"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik a Hess-tétel alkalmazása az alábbi egyenletekre? (1) A = B, ΔH1; (2) B = C, ΔH2",
+      "options": ["A = C, ΔH = ΔH1 - ΔH2", "A = C, ΔH = ΔH1 + ΔH2", "A = C, ΔH = ΔH1 · ΔH2", "A = C, ΔH = ΔH1 / ΔH2"],
+      "answer": "A = C, ΔH = ΔH1 + ΔH2"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ olyan energia, amely az 1 mól gázhalmazállapotú ion átalakításánál szabadul fel, amikor az hidratálódik az oldatban.",
+      "options": [],
+      "answer": "hidratációs energia"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Milyen hatása van a hőmérséklet növelésének egy exoterm kémiai egyensúlyra?",
+      "options": ["Az egyensúly a terméképződés felé tolódik", "Az egyensúly a reaktánsképződés felé tolódik", "Az egyensúly nem változik", "Az egyensúly megbillen, majd azonnal visszaáll"],
+      "answer": "Az egyensúly a reaktánsképződés felé tolódik"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Az egyenletrendezés során melyik elemet választjuk ki először?",
+      "options": ["A legtöbbet előforduló elemet", "A legtöbb atomot tartalmazó vegyületet 1-ként vesszük", "Az oxigént", "A hidrogént"],
+      "answer": "A legtöbb atomot tartalmazó vegyületet 1-ként vesszük"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "A _____ az az idő, amely alatt az eredeti reaktáns mennyisége a felére csökken az első rendű reaktánsban.",
+      "options": [],
+      "answer": "felezési idő"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Mit jelent a (aq) jelölés a termokémiai egyenletekben?",
+      "options": ["Argon gáz", "Oldatban lévő anyagok", "Aktiválási energia", "Abszolút hőmérséklet"],
+      "answer": "Oldatban lévő anyagok"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Az H2O(f) és H2O(g) milyen képződéshő-különbséggel rendelkezik?",
+      "options": ["Azonos képződéshővel", "H2O(f) nagyobb negatív értékkel, mert stabilisabb", "H2O(g) nagyobb negatív értékkel", "Nincs összefüggésük"],
+      "answer": "H2O(f) nagyobb negatív értékkel, mert stabilisabb"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az _____ egyensúly megvalósul, amikor a két ellentétes irányú folyamat sebessége azonossá válik.",
+      "options": [],
+      "answer": "dinamikus"
+    }
+  ]
+}

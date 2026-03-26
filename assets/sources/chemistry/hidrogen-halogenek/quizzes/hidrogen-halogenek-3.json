@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "hidrogen-halogenek",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik elem az univerzumban a leggyakoribb?",
+      "options": ["Hélium", "Szén", "Hidrogén", "Oxigén"],
+      "answer": "Hidrogén"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A tritícium radioaktív izotóp felezési ideje körülbelül _____ év.",
+      "options": [],
+      "answer": "12"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik halogenid képez fehér csapadékot ezüst-nitrát oldattal?",
+      "options": ["AgCl", "AgBr", "AgI", "AgF"],
+      "answer": "AgCl"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A halogénelemek legalacsonyabb olvadáspontja a _____, a legmagasabb a _____.",
+      "options": [],
+      "answer": "fluoné, jódé"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mi a hidrogén olvadáspontja Kelvinben?",
+      "options": ["4 K", "14 K", "20 K", "24 K"],
+      "answer": "14 K"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A hidrogén egység szám a _____, ami azt jelzi, hogy egy-egy vegyértékelektront képes leadni.",
+      "options": [],
+      "answer": "egy"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik halogén a legreaktívabb a fluorral?",
+      "options": ["Oxigén", "Szén", "Fém", "Nemesgáz"],
+      "answer": "Fém"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A laborban klórgáz keletkezik, ha kálium-permanganátra _____ sósavat csepegtetünk.",
+      "options": [],
+      "answer": "tömény"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik hidrogén-halogenid-formula tartalmazza a legpolarabb H–X kötést?",
+      "options": ["HCl", "HBr", "HI", "HF"],
+      "answer": "HF"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az argonban a _____ a leggakoribb alkalmazás, a védőgázként való használat.",
+      "options": [],
+      "answer": "hegesztésben"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik halogén forrápontja a legmagasabb?",
+      "options": ["Fluor", "Klór", "Bróm", "Jód"],
+      "answer": "Jód"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A nemesgázok atomjait szilárdan csupán a _____ tartják össze.",
+      "options": [],
+      "answer": "diszperziós erők"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A nemesgázok közül melyik az oszlop legfentebb?",
+      "options": ["Hélium", "Neon", "Argon", "Kripton"],
+      "answer": "Hélium"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A jód vizes oldatában a szín _____, azonban szén-tetrakloridban _____.",
+      "options": [],
+      "answer": "barna, lila"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik nemesgáz használható meteorológiai ballonok töltésére?",
+      "options": ["Neon", "Argon", "Hélium", "Kripton"],
+      "answer": "Hélium"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A sósav vizes oldata az _____,amely ipari és laboratóriumi alapanyag.",
+      "options": [],
+      "answer": "hidrogén-klorid"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik halogenid-oldódás segítségével detektálható a telítettség szerves vegyületekben?",
+      "options": ["Fluor-oldódás", "Klór-oldódás", "Bróm-oldódás", "Jód-oldódás"],
+      "answer": "Bróm-oldódás"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A halogénelemek oxidáló ereje az _____irányban csökken.",
+      "options": [],
+      "answer": "F > Cl > Br > I"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mi a fúziós energia hajtóanyaga az ITER projektben?",
+      "options": ["Hélium-3 és hélium-4", "Protium és deutérium", "Deutérium és tritícium", "Tritícium és hélium-3"],
+      "answer": "Deutérium és tritícium"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A halogénelemek vízben történő disproportionálódása a _____ alapja.",
+      "options": [],
+      "answer": "desinfekció"
+    }
+  ]
+}

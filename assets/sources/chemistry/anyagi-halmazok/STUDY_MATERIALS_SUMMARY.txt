@@ -1,0 +1,146 @@
+HUNGARIAN CHEMISTRY STUDY MATERIALS - ANYAGI-HALMAZOK (States of Matter)
+Generated: 2026-03-26
+
+================================================================================
+FLASHCARD SETS (6 modules, 126 total flashcards)
+================================================================================
+
+1. HALMAZOK CSOPORTOSÍTÁSA (Classification of Substances)
+   File: /sessions/beautiful-lucid-hawking/mnt/chemistry/anyagi-halmazok/halmazok-csoportositasa/flashcards/halmazok-csoportositasa.json
+   Flashcards: 22
+   Coverage: Elements, compounds, mixtures, phases, homogeneous/heterogeneous systems
+
+2. HALMAZÁLLAPOTOK VÁLTOZÁSOK (State Changes)
+   File: /sessions/beautiful-lucid-hawking/mnt/chemistry/anyagi-halmazok/halmazallapotok-valtozasok/flashcards/halmazallapotok-valtozasok.json
+   Flashcards: 22
+   Coverage: Melting, fusion, evaporation, boiling, sublimation, condensation, freezing, latent heat
+
+3. SZILÁRD ANYAGOK (Solid Materials)
+   File: /sessions/beautiful-lucid-hawking/mnt/chemistry/anyagi-halmazok/szilard-anyagok/flashcards/szilard-anyagok.json
+   Flashcards: 22
+   Coverage: Crystal structures, types of lattices (metallic, ionic, atomic, molecular), secondary bonding
+
+4. FOLYÉKONY HALMAZ (Liquids)
+   File: /sessions/beautiful-lucid-hawking/mnt/chemistry/anyagi-halmazok/folyekony-halmaz/flashcards/folyekony-halmaz.json
+   Flashcards: 20
+   Coverage: Liquid properties, viscosity, surface tension, miscibility, gas laws, kinetic theory
+
+5. OLDATOK (Solutions)
+   File: /sessions/beautiful-lucid-hawking/mnt/chemistry/anyagi-halmazok/oldatok/flashcards/oldatok.json
+   Flashcards: 20
+   Coverage: Hydration, solvation, aqua complexes, solubility, saturation, crystalline water, polar/nonpolar dissolution
+
+6. INHOMOGÉN RENDSZEREK (Heterogeneous Systems)
+   File: /sessions/beautiful-lucid-hawking/mnt/chemistry/anyagi-halmazok/inhomogen-rendszerek/flashcards/inhomogen-rendszerek.json
+   Flashcards: 20
+   Coverage: Dispersions, colloids, emulsions, aerosols, suspensions, sols, gels, surface adsorption
+
+================================================================================
+QUIZ SETS (3 comprehensive quizzes, 60 total questions)
+================================================================================
+
+1. ANYAGI-HALMAZOK QUIZ #1
+   File: /sessions/beautiful-lucid-hawking/mnt/chemistry/anyagi-halmazok/quizzes/anyagi-halmazok-1.json
+   Questions: 20
+   Type: Mixed MC (Multiple Choice) and BLANK (fill-in-the-blank)
+   Ratio: 60% MC, 40% BLANK
+   Coverage: All 6 modules with diverse question types
+
+2. ANYAGI-HALMAZOK QUIZ #2
+   File: /sessions/beautiful-lucid-hawking/mnt/chemistry/anyagi-halmazok/quizzes/anyagi-halmazok-2.json
+   Questions: 20
+   Type: Mixed MC and BLANK
+   Ratio: 60% MC, 40% BLANK
+   Coverage: All 6 modules, different questions from Quiz #1
+
+3. ANYAGI-HALMAZOK QUIZ #3
+   File: /sessions/beautiful-lucid-hawking/mnt/chemistry/anyagi-halmazok/quizzes/anyagi-halmazok-3.json
+   Questions: 20
+   Type: Mixed MC and BLANK
+   Ratio: 60% MC, 40% BLANK
+   Coverage: All 6 modules, unique questions not in Quizzes #1 and #2
+
+================================================================================
+MATERIAL STATISTICS
+================================================================================
+
+Total Flashcards: 126 (distributed across 6 modules)
+Total Quiz Questions: 60 (20 per quiz × 3 quizzes)
+All materials in HUNGARIAN language
+Difficulty Level: High school final exam level
+Format: JSON (compatible with flashcard apps and quiz platforms)
+
+Key Features:
+- Comprehensive coverage of all source material sections
+- Dense chemistry terminology and formulas included
+- Multiple-choice questions with exactly 4 options
+- Fill-in-the-blank questions with specific single-term answers
+- No question repetition across the 3 quizzes
+- Application-focused questions emphasizing reasoning and analysis
+
+================================================================================
+DIRECTORY STRUCTURE
+================================================================================
+
+/sessions/beautiful-lucid-hawking/mnt/chemistry/anyagi-halmazok/
+├── halmazok-csoportositasa/
+│   └── flashcards/
+│       └── halmazok-csoportositasa.json (22 flashcards)
+├── halmazallapotok-valtozasok/
+│   └── flashcards/
+│       └── halmazallapotok-valtozasok.json (22 flashcards)
+├── szilard-anyagok/
+│   └── flashcards/
+│       └── szilard-anyagok.json (22 flashcards)
+├── folyekony-halmaz/
+│   └── flashcards/
+│       └── folyekony-halmaz.json (20 flashcards)
+├── oldatok/
+│   └── flashcards/
+│       └── oldatok.json (20 flashcards)
+├── inhomogen-rendszerek/
+│   └── flashcards/
+│       └── inhomogen-rendszerek.json (20 flashcards)
+└── quizzes/
+    ├── anyagi-halmazok-1.json (20 questions)
+    ├── anyagi-halmazok-2.json (20 questions)
+    └── anyagi-halmazok-3.json (20 questions)
+
+================================================================================
+FLASHCARD FORMAT SPECIFICATIONS
+================================================================================
+
+Each flashcard contains:
+- id: Unique identifier (integer)
+- term: Question or concept in Hungarian
+- definition: Precise 1-3 sentence definition in Hungarian
+- quote: 5-word maximum memorable tagline in Hungarian
+- text: Detailed explanation with context, examples, and mnemonics in Hungarian
+
+All text is comprehensive and technically accurate, preserving:
+- Numerical values and units from source material
+- Chemical formulas and notation
+- Technical terminology and definitions
+- Rules, exceptions, and special cases
+
+================================================================================
+QUIZ FORMAT SPECIFICATIONS
+================================================================================
+
+Multiple Choice (MC) Questions:
+- Exactly 4 options per question
+- Answer is full text matching one option exactly
+- Focus on application and analysis
+- High school final exam difficulty level
+
+Blank (BLANK) Questions:
+- Single sentence with exactly one _____ (5 underscores)
+- Answer is the specific missing term
+- Requires understanding of key concepts
+- No multi-word answers unless necessary
+
+All questions are original and not repeated across the three quizzes.
+
+================================================================================
+END OF SUMMARY
+================================================================================

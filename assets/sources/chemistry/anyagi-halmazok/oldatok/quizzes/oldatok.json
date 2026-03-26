@@ -1,0 +1,201 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "oldatok",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az ionvegyületek vízben való oldódásakor milyen folyamat történik az ionokkal?",
+      "options": [
+        "Az ionrács felépítése megmarad, csak az ionok elmozdulnak.",
+        "Az ionrács felbomlik, az ionokat körülveszik a vízmolekulák hidrátburkot képezve.",
+        "Az ionok kémiailag egyesülnek a vízmolekulákkal és új vegyületeket képeznek.",
+        "Az ionok elpárolganak a vízből."
+      ],
+      "answer": "Az ionrács felbomlik, az ionokat körülveszik a vízmolekulák hidrátburkot képezve."
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az ionvegyületek oldódásakor képződő, vízmolekulákból álló réteg, amely körülveszi az iont, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "hidrátburok"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "A [Cu(H2O)6]2+ akvakomplex képletében mit jelent a zárójelben levő szám?",
+      "options": [
+        "A kálium ionok számát a komplex körül.",
+        "A központi réz(II)-ionhoz szorosan kapcsolódó vízmolekulák számát.",
+        "Az oldatban levő réz ionok teljes számát.",
+        "A vízmolekulák disszociációja során képződő hidrónium ionok számát."
+      ],
+      "answer": "A központi réz(II)-ionhoz szorosan kapcsolódó vízmolekulák számát."
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Ha az oldószer nem víz, a hidratáció helyett a _____ folyamatot, és a hidrátburok helyett a szolvátburkot nevezzük.",
+      "options": [],
+      "answer": "szolvatáció"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "A szén-dioxidot vízben oldva szénsav keletkezik (CO2 + H2O → H2CO3). Ez a folyamat:",
+      "options": [
+        "Tisztán fizikai oldódás, mivel az összetevők változatlanok maradnak.",
+        "Tisztán kémiai reakció az oldószerrel, mivel új vegyület képződik.",
+        "Fizikai oldódás és kémiai reakció az oldószerrel párhuzamosan.",
+        "Szublimáció, mivel a CO2 gázból folyadékká alakul."
+      ],
+      "answer": "Fizikai oldódás és kémiai reakció az oldószerrel párhuzamosan."
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az a számérték, amely megadja, hogy adott oldószer 100 g-ja az adott anyagból maximálisan hány grammot képes feloldani egy adott hőmérsékleten, az _____ -nak nevezzük.",
+      "options": [],
+      "answer": "oldhatóság"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "A nátrium-acetát (CH3COONa) oldhatósága 20 °C-on 46,4 g / 100 g víz. Ez azt jelenti, hogy:",
+      "options": [
+        "100 g víz 46,4 g nátrium-acetátot képes feloldani 20 °C-on.",
+        "1 kg víz 464 g nátrium-acetátot oldhat fel.",
+        "100 g nátrium-acetátot pontosan 46,4 g vízre van szüksége a feloldásához.",
+        "46,4% a nátrium-acetát töménysége 20 °C-on."
+      ],
+      "answer": "100 g víz 46,4 g nátrium-acetátot képes feloldani 20 °C-on."
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az olyan oldat, amelyből pontosan annyi oldott anyag van feloldva, hogy az nem tudna több anyagot befogadni az adott hőmérsékleten, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "telített oldat"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "A nátrium-acetát oldhatósága 60 °C-on 139 g / 100 g víz, míg 20 °C-on 46,4 g / 100 g víz. Mit lehet mondani az oldhatóság hőmérsékletfüggésérőL?",
+      "options": [
+        "Az oldhatóság a hőmérséklettel csökken.",
+        "Az oldhatóság független a hőmérséklettől.",
+        "Az oldhatóság a hőmérséklet növekedésével nő, ahogy a nátrium-acetátnál is látható.",
+        "Az oldhatóság csak 50 °C felett növekszik."
+      ],
+      "answer": "Az oldhatóság a hőmérséklet növekedésével nő, ahogy a nátrium-acetátnál is látható."
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az a folyamat, amelynek során egy szilárd anyagot forrón telített oldatban oldunk, majd lehűtéskor kikristályosodott tiszta formában visszakapunk, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "átkristályosítás"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "A túltelített oldatban mi történik, ha egy porszem vagy egy apró zavaró behatás éri az oldatot?",
+      "options": [
+        "Az oldat felforr.",
+        "Az oldat még jobban telítődik.",
+        "A kristálykiválás beindulhat, mivel az oldat instabil rendszer.",
+        "Az oldott anyag gyorsabb diffúziót mutat."
+      ],
+      "answer": "A kristálykiválás beindulhat, mivel az oldat instabil rendszer."
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az olyan oldat, amely az adott hőmérsékleten az oldhatóságnál több oldott anyagot tartalmaz, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "túltelített oldat"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A CuSO4 · 5 H2O kristályvizes vegyület képletét kiolvasva mit jelent a \"·5 H2O\"?",
+      "options": [
+        "5 különálló vízmolekula, amely az oldatban van feloldva.",
+        "1 mól réz-szulfátra 5 mól víz jut a kristályrácsban.",
+        "5 vízmolekula közvetlenül a réz-szulfát molekuláját körülvevő komplex.",
+        "Az oldat 5%-a víz."
+      ],
+      "answer": "1 mól réz-szulfátra 5 mól víz jut a kristályrácsban."
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az a szabály, amely szerint az olyan anyagok oldódnak jól az oldószerben, amely hasonló polaritású az oldandó anyaggal, _____ -nak hívjuk.",
+      "options": [],
+      "answer": "hasonló hasonlót old"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az etil-alkohol és az aceton azonos tulajdonságot mutatnak az oldásában: mindkettő poláris és apoláris anyagokat egyaránt oldanak. Miért?",
+      "options": [
+        "Mert mindkettő nagyon magas hőmérsékleten használható.",
+        "Mert az oldószermolekulák poláris és apoláris részt is tartalmaznak, így több fajta anyagot tudnak szolvatálni.",
+        "Mert mindkettő univerzális oldószer.",
+        "Mert mindkettő vízzel nem keveredik."
+      ],
+      "answer": "Mert az oldószermolekulák poláris és apoláris részt is tartalmaznak, így több fajta anyagot tudnak szolvatálni."
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az olyan oldószereket, amely poláris és apoláris anyagokat egyaránt oldanak, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "univerzális oldószerek"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "A gázok oldhatósága a hőmérséklet növekedésével miként változik?",
+      "options": [
+        "Az oldhatóság növekszik, mint a szilárd anyagok esetén.",
+        "Az oldhatóság csökken, és a forrásponton 0-ra.",
+        "Az oldhatóság nem függ a hőmérséklettől.",
+        "Az oldhatóság exponenciálisan növekszik."
+      ],
+      "answer": "Az oldhatóság csökken, és a forrásponton 0-ra."
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Az oldatok homogén vagy heterogén rendszerek?",
+      "options": [
+        "Heterogén, mivel több fázisból állnak.",
+        "Homogén, mivel az oldószer és az oldott anyag tökéletesen elkeverednek, egyfázisú rendszert képezve.",
+        "Sem homogén, sem heterogén, ezek nem kategorizálhatók.",
+        "Az oldatok fajtájától függ, hogy homogén vagy heterogén-e."
+      ],
+      "answer": "Homogén, mivel az oldószer és az oldott anyag tökéletesen elkeverednek, egyfázisú rendszert képezve."
+    },
+    {
+      "id": 19,
+      "type": "BLANK",
+      "question": "Az az eljárás, amely során a vízmolekulák körülvesznek egy iont, alkoholban vagy más oldószerben szolváció helyett az aq rövidítés helyett más rövidítéseket használunk, mint _____ esetén.",
+      "options": [],
+      "answer": "szolvátburok"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "Milyen különbség van a telített és a túltelített oldat között stabilitás szempontjából?",
+      "options": [
+        "A telített oldat stabil az adott hőmérsékleten, a túltelített pedig instabil.",
+        "Mindkettő egyforma stabilitású.",
+        "A túltelített oldat stabilabb, mint a telített.",
+        "A stabilitás nem értelmezhető az oldatok esetében."
+      ],
+      "answer": "A telített oldat stabil az adott hőmérsékleten, a túltelített pedig instabil."
+    }
+  ]
+}

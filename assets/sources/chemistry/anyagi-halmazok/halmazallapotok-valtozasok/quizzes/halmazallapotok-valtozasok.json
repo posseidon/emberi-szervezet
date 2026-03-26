@@ -1,0 +1,187 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "halmazallapotok-valtozasok",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az olvadáspont és a forráspont értéke milyen tényezőktől függ elsősorban?",
+      "options": [
+        "Az anyag molekuláris szerkezetétől és a molekulatömegtől.",
+        "A részecskék közötti kölcsönhatások erősségétől és a részecskék tömegétől.",
+        "Az anyag színétől és az oldhatóságától.",
+        "Kizárólag az atomok számától a molekulán belül."
+      ],
+      "answer": "A részecskék közötti kölcsönhatások erősségétől és a részecskék tömegétől."
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A szilárd anyagot melegítve a részecskék energiája növekszik, és az _____ hőmérsékletnél legyőzik a vonzó kölcsönhatásokat, így az anyag folyékonnyá válik.",
+      "options": [],
+      "answer": "olvadáspont"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Egy folyadék felszínén párolgás történik. Ez milyen módon tér el a forrálásuktól?",
+      "options": [
+        "A párolgás csak az anyag felszínén történik, a forrás pedig a folyadék egészében.",
+        "A párolgás csak a forrásponton fordul elő, a forrás pedig bármely hőmérsékleten.",
+        "A párolgás az anyag belsejében történik, a forrás csak a felszínen.",
+        "A párolgás és forrás azonos folyamat, csak más hőmérsékleten."
+      ],
+      "answer": "A párolgás csak az anyag felszínén történik, a forrás pedig a folyadék egészében."
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az a folyamat, amelyben egy szilárd anyag közvetlenül gázhalmazállapotúvá alakul anélkül, hogy folyadékfázison keresztül menne át, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "szublimáció"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Szén-dioxid szublimációjának tanulmányozásakor azt figyeltük meg, hogy 78 K alatt szilárd, 78 K felett gáz halmazállapot. Melyik állítás HAMIS?",
+      "options": [
+        "A szublimációs pont 78 K.",
+        "A szén-dioxidnak van olvadáspontja, amely alacsonyabb, mint 78 K.",
+        "A folyamat során a molekulák közötti kölcsönhatások egyidejűleg teljes mértékben eltűnnek.",
+        "A szublimáció során az anyag közvetlenül az energia felszívódása után lesz gáz."
+      ],
+      "answer": "A szén-dioxidnak van olvadáspontja, amely alacsonyabb, mint 78 K."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "A gázhalmazállapotú anyag folyadékká válása a(z):",
+      "options": [
+        "párolgás",
+        "fagyás",
+        "kondenzáció",
+        "szublimáció"
+      ],
+      "answer": "kondenzáció"
+    },
+    {
+      "id": 7,
+      "type": "BLANK",
+      "question": "A folyadék szilárd halmazállapotúvá alakulásának folyamata a(z) _____ -nak nevezzük.",
+      "options": [],
+      "answer": "fagyás"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "Miért van az, hogy a jód szilárd halmazállapotban szublimál, míg a víz szublimációja csak nagyon alacsony nyomáson történik meg?",
+      "options": [
+        "Mert a jód könnyebb, mint a víz.",
+        "Mert a jód molekulái közötti másodrendű kölcsönhatások sokkal gyengébbek, mint a víz molekulái közötti hidrogénkötések.",
+        "Mert a jódmolekulák nagyobbak, mint a vízmolekulák.",
+        "Mert a jódnak magasabb az olvadáspontja, mint a víznek."
+      ],
+      "answer": "Mert a jód molekulái közötti másodrendű kölcsönhatások sokkal gyengébbek, mint a víz molekulái közötti hidrogénkötések."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "A részecskék közötti kölcsönhatások erősségét mérlegre teszünk: A) diszperziós kölcsönhatás, B) dipólus-dipólus kölcsönhatás, C) hidrogénkötés. Az erősség sorrendje:",
+      "options": [
+        "A > B > C",
+        "C > B > A",
+        "B > A > C",
+        "A > C > B"
+      ],
+      "answer": "C > B > A"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A szilárd anyagban a részecskéik helyükről nem tudnak elmozdulni, így az anyag _____ -je nem változik.",
+      "options": [],
+      "answer": "alakja"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Egy anyag olvadáspontja 150 °C, forráspontja 250 °C. Mit lehet mondani ennek az anyagnak a cseppfolyós állapotáról?",
+      "options": [
+        "A cseppfolyós állapot nem létezik ezen a hőmérséklettartományon.",
+        "A cseppfolyós állapot stabil 150-250 °C között, és csak ebben a tartományban marad folyadék.",
+        "A cseppfolyós állapot csak 250 °C felett létezik.",
+        "A cseppfolyós állapot 100 °C alatt már nem létezik."
+      ],
+      "answer": "A cseppfolyós állapot stabil 150-250 °C között, és csak ebben a tartományban marad folyadék."
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Egy folyadékot melegítve, a részecskék energiája növekszik, és egyre több részecske lép át a gázfázisba. Ez a folyamat bármely hőmérsékleten történhet, de az _____ hőmérsékleten a folyadék egésze átalakul gázzá.",
+      "options": [],
+      "answer": "forráspont"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Két folyadékot hasonlítunk össze: az egyiknek a molekulái között csak diszperziós kölcsönhatások vannak, a másiknak pedig hidrogénkötések. Melyik következtetés HELYES?",
+      "options": [
+        "Mindkét folyadéknak azonos lesz az olvadáspontja és forráspontja.",
+        "A hidrogénkötéses folyadéknak magasabb lesz a forráspontja, mint a diszperziós kölcsönhatásosnak.",
+        "A diszperziós kölcsönhatásos folyadék kevésbé párolog.",
+        "A hidrogénkötéses folyadék forráslása alacsonyabb hőmérsékleten kezdődik."
+      ],
+      "answer": "A hidrogénkötéses folyadéknak magasabb lesz a forráspontja, mint a diszperziós kölcsönhatásosnak."
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A gázhalmazállapotban a részecskék között gyakorlatilag _____ kölcsönhatások vannak, így az anyag egyenletesen kitöltik a rendelkezésre álló teret.",
+      "options": [],
+      "answer": "nincsenek"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az olvadáspont és a forráspont értéke melyik tulajdonságtól FÜGGETLEN?",
+      "options": [
+        "A részecskék közötti kölcsönhatások erősségétől.",
+        "A részecskék tömegétől.",
+        "A felszínből elpárologó részecskék mennyiségétől.",
+        "A molekulák polaritásától."
+      ],
+      "answer": "A felszínből elpárologó részecskék mennyiségétől."
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "A cseppfolyós halmazállapotban levő anyag az edény alakjához igazodik, de térfogata nem változik. Ez azt bizonyítja, hogy:",
+      "options": [
+        "A részecskék között nincsenek kölcsönhatások.",
+        "A részecskék közötti kölcsönhatások még eléggé erősek ahhoz, hogy összetartsák az anyagot, de az kellően mozgékony ahhoz, hogy az edény alakját követhesse.",
+        "A részecskék teljesen szabadon mozognak.",
+        "Az anyag molekularácsban kristályosodik."
+      ],
+      "answer": "A részecskék közötti kölcsönhatások még eléggé erősek ahhoz, hogy összetartsák az anyagot, de az kellően mozgékony ahhoz, hogy az edény alakját követhesse."
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "Az a hőmérséklet, amelyen a szilárd anyag folyadékká alakul, az _____ -nak nevezzük.",
+      "options": [],
+      "answer": "olvadáspont"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Vízet melegítünk. Megfigyeljük, hogy 0 °C-nál az olvadáspont, 100 °C-nál a forráspont. Mi történik a 50 °C-os víz molekulájával, összehasonlítva a 0 °C-os és 100 °C-os vízmolekulákkal?",
+      "options": [
+        "A 50 °C-os víz molekulái között nincsenek kölcsönhatások.",
+        "A 50 °C-os víz molekulái között ugyanolyan erős kölcsönhatások vannak, mint 0 °C-on.",
+        "A 50 °C-os víz molekulái között közepes erősségű kölcsönhatások vannak, amelyek lehetővé teszik a folyadék állapotot.",
+        "A 50 °C-os víz molekulái között 2,5-szer erősebb kölcsönhatások vannak."
+      ],
+      "answer": "A 50 °C-os víz molekulái között közepes erősségű kölcsönhatások vannak, amelyek lehetővé teszik a folyadék állapotot."
+    }
+  ]
+}

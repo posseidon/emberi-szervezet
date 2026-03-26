@@ -1,0 +1,179 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mit az 'elektronpár-taszítási elmélet' (VSEPR)?",
+      "definition": "Az elektronpár-taszítási elmélet azt mondja, hogy az elektronpárok (kötő és nemkötő) körül a molekulában taszítják egymást, így a lehető legtávolabb helyezkednek el.",
+      "quote": "Elektronok taszítanak egymást",
+      "text": "Az VSEPR (Valence Shell Electron Pair Repulsion) elmélet egy egyszerű módszer a molekulák teralakjának előrejelzésére. Az elektronpárokat 'lufiknak' képzeljük el, amelyek töltéssel rendelkeznek és taszítják egymást. Az elektronpárok úgy helyezkednek el, hogy a taszítás minimális legyen."
+    },
+    {
+      "id": 2,
+      "term": "Mi a 'központi atom' és 'ligandumok'?",
+      "definition": "A központi atom az a kiszemelt atom a molekulában, amelyhez más atomok kapcsolódnak (ligandumok). A ligandumok a központi atomhoz kapcsolódó atomok vagy atomcsoportok.",
+      "quote": "Központi + körülvevö atomok",
+      "text": "Az NH3 molekulában a N az központi atom, a 3 H a ligandumok. A H2O molekulában az O az központi atom, a 2 H a ligandumok. Az elektronpár-taszítási elmélet a központi atom körül az elektronpárok elrendezésén alapul."
+    },
+    {
+      "id": 3,
+      "term": "Mit a 'elektronpár' az VSEPR elméletben?",
+      "definition": "Az elektronpár egy kötő pár (a kötésben) vagy nemkötő pár (az atom körül). Mindkettőt 'lufizként' kezeljük a taszítás számításában.",
+      "quote": "Kötö vagy nemkötö párok",
+      "text": "Az VSEPR elméletben a kötő és nemkötő elektronpárokat azonos módon kezeljük: mind taszítanak egymást. Ez a lényeg, hogy az elektronpárok száma határozza meg a téralkatot, függetlenül attól, hogy kötőek vagy nemkötőek-e."
+    },
+    {
+      "id": 4,
+      "term": "Melyik a leggyakoribb teralkat 2 ligandummal és 0 nemkötő párral?",
+      "definition": "Lineáris teralkat (180° kötésszög), amikor a központi atom körül 2 ligandumot és 0 nemkötő párt találunk.",
+      "quote": "2 ligandumot = lineáris",
+      "text": "Ha egy atom körül 2 elektronpár van (mindkettő kötő), a taszítás minimalizálásához a ligandumok 180°-os szögben helyezkednek el (egyenes vonal). Például a BeCl2 lineáris. Az elektronpárok a lehető legtávolabb (180°) helyezkednek el."
+    },
+    {
+      "id": 5,
+      "term": "Melyik a leggyakoribb teralkat 3 ligandummal és 0 nemkötő párral?",
+      "definition": "Síkháromszög (trigonális) teralkat (120° kötésszögek), amikor a központi atom körül 3 ligandumot és 0 nemkötő párt találunk.",
+      "quote": "3 ligandumot = síkháromszög",
+      "text": "Ha egy atom körül 3 elektronpár van (mindkettő kötő), a taszítás minimalizálásához az elektronpárok egy síkban, 120°-os szögben helyezkednek el. Például a BF3 síkháromszög. Ez a forma biztosítja, hogy az elektronpárok a lehető legtávolabb legyenek egymástól."
+    },
+    {
+      "id": 6,
+      "term": "Melyik a leggyakoribb teralkat 4 ligandummal és 0 nemkötő párral?",
+      "definition": "Tetraéderes teralkat (109,5° kötésszögek), amikor a központi atom körül 4 ligandumot és 0 nemkötő párt találunk.",
+      "quote": "4 ligandumot = tetraéderes",
+      "text": "Ha egy atom körül 4 elektronpár van (mindkettő kötő), a taszítás minimalizálásához az elektronpárok tetraéderes elrendezésben helyezkednek el (109,5°-os szögek). Például a metán (CH4) tetraéderes. Ez a forma a négyzetes piramis csúcsain helyez el elektronpárokat."
+    },
+    {
+      "id": 7,
+      "term": "Milyen teralkat alakul ki, ha 2 ligandumot és 1 nemkötő párt találunk?",
+      "definition": "V-alak vagy hajlított teralkat (körülbelül 90-120° kötésszög), amikor a központi atom körül 2 ligandumot és 1 nemkötő párt találunk.",
+      "quote": "2 ligandumot + 1 nem = V-alak",
+      "text": "Az elektronpárok még mindig tetraéderes elrendezésre törekednek (3 pár = tetraéderes forma), de az egyik pár nemkötő. Az VSEPR elmélet szerint a tetraéderes forma alapján 3 elektronpárt helyez el, majd az egyik helyet egy ligandumhelyett egy nemkötő pár foglal el. Az eredmény egy V-alak. Például H2O V-alakú."
+    },
+    {
+      "id": 8,
+      "term": "Milyen teralkat alakul ki, ha 3 ligandumot és 1 nemkötő párt találunk?",
+      "definition": "Trigonális piramis teralkat (körülbelül 107° kötésszögek), amikor a központi atom körül 3 ligandumot és 1 nemkötő párt találunk.",
+      "quote": "3 ligandumot + 1 nem = piramis",
+      "text": "Az elektronpárok még mindig tetraéderes elrendezésre törekednek (4 pár = tetraéderes forma), de az egyik pár nemkötő. A tetraéderes forma 4 helyet hoz létre, az egyik helyet a nemkötő pár foglal el, a maradék 3 helyet a ligandumok. Az eredmény egy piramis forma. Például NH3 trigonális piramis."
+    },
+    {
+      "id": 9,
+      "term": "Mi az az VSEPR elmélet 5 és 6 ligandummal?",
+      "definition": "5 ligandumot oktavéderes, 6 ligandumot trigonális bipiramidális szerkezet közül választ az elmélet (közép típusú).",
+      "quote": "5-6 ligandumot összetett",
+      "text": "5 elektronpár trigonális bipiramidális elrendezést vesz fel (3 egyenlítői + 2 poláris). 6 elektronpár oktaéderes elrendezést vesz fel. Ezek az összetettebb szerkezetek a magasabb periódusú elemek karakterisztikus teralkatja."
+    },
+    {
+      "id": 10,
+      "term": "Milyen szerkezeti típusok szerepelnek az alapszintű VSEPR elméletben?",
+      "definition": "Lineáris, síkháromszög, tetraéderes, V-alak, trigonális piramis az alapszintű kategóriák.",
+      "quote": "5 fő teralkat típus",
+      "text": "Az alapszintű VSEPR tanítás ezeket a 5 szerkezeti típust ismerteti: lineáris (2 ligandumot), síkháromszög (3 ligandumot), tetraéderes (4 ligandumot), V-alak (2 ligandumot + 1 nem pár), trigonális piramis (3 ligandumot + 1 nem pár)."
+    },
+    {
+      "id": 11,
+      "term": "Miért gyakorol a nemkötő pár nagyobb taszítást, mint a kötő pár?",
+      "definition": "A nemkötő párok nagyobb taszítást gyakorolnak, mert az elektronok csak egy atomra lokalizálódnak, így nagyobb a lokális elektronusúrúség.",
+      "quote": "Nem pár erősebb taszítás",
+      "text": "A nemkötő elektronpárok az egyik atom elektronhéjában sűrűbb, mint a kötő párok, amelyek két atom között oszlanak meg. Ezért a nemkötő párok erőteljesebb taszítást gyakorolnak az összes többi elektronpárra, beleértve más nemkötő párokat és kötő párokat."
+    },
+    {
+      "id": 12,
+      "term": "Milyen kötésszögek jellemzik az egyes teralkat típusokat?",
+      "definition": "Lineáris: 180°; síkháromszög: 120°; tetraéderes: 109,5°; V-alak: ~90-120°; trigonális piramis: ~107°.",
+      "quote": "Forma: szög társított",
+      "text": "Az egyes szerkezeti típusok karakterisztikus kötésszögekkel rendelkeznek. Az ideális szögek az elektronpárok taszításához vezetnek, de a valóságban az atomok mérete és a kötések polaritása módosíthatja ezeket az értékeket."
+    },
+    {
+      "id": 13,
+      "term": "Hogyan befolyásolja az atomméret a kötésszögeket?",
+      "definition": "Nagyobb központi atom esetén a ligandumok nagyobb távolságra kerülnek, így a kötésszögek csökkennének (azonban az elektronpárok szöge nagyobb lehet).",
+      "quote": "Nagyobb atom = eltérö szögek",
+      "text": "Egy nagyobb atom körül a ligandumok kívülre helyezkednek, így a hőmérsékleti szögek kevésbé szigorúak lehetnek. Az elektronpárok szöge (amely geometriáját határozza meg) lehet különböző a ligandumok szögétől."
+    },
+    {
+      "id": 14,
+      "term": "Hogyan befolyásolja a nemkötő párok száma a kötésszögeket?",
+      "definition": "A nemkötő párok száma növekedésével a ligandumok közötti kötésszögek csökkennek, mert a nemkötő párok erősebb taszítást gyakorolnak.",
+      "quote": "Több nem pár = kisebb szögek",
+      "text": "Az NH3-ban (3 ligandumot + 1 nem pár) a H–N–H szögek körülbelül 107° (ideális 109,5° helyett), mert a nemkötő pár erősebb taszítást gyakorol az N–H kötésekre. Az H2O-ban (2 ligandumot + 2 nem pár) az H–O–H szög körülbelül 104,5° (ideális 109,5° helyett)."
+    },
+    {
+      "id": 15,
+      "term": "Mit az 'H–O–H kötésszög' a vízben?",
+      "definition": "Az H–O–H kötésszög a vízben körülbelül 104,5°, amely kevesebb az ideális tetraéderes 109,5°-nál.",
+      "quote": "H2O szög: 104,5°",
+      "text": "A víz egy V-alakú molekula, 2 ligandumtal (2 H) és 2 nemkötő párral az oxigénen. Az ideális tetraéderes szög 109,5° lenne, de a 2 nemkötő pár erős taszítása miatt a H–O–H szög csökkent 104,5°-ra. Ez a csökkent szög a víz számos speciális tulajdonságához (pl. anomális sűrűség) vezethet."
+    },
+    {
+      "id": 16,
+      "term": "Mit az 'H–N–H kötésszög' az ammóniában?",
+      "definition": "Az H–N–H kötésszög az ammóniában körülbelül 107°, amely kevesebb az ideális tetraéderes 109,5°-nál.",
+      "quote": "NH3 szög: 107°",
+      "text": "Az ammónia egy trigonális piramis molekula, 3 ligandumtal (3 H) és 1 nemkötő párral a nitrógénen. Az ideális tetraéderes szög 109,5° lenne, de az 1 nemkötő pár erős taszítása miatt a H–N–H szögek csökkent 107°-ra."
+    },
+    {
+      "id": 17,
+      "term": "Mit az 'H–C–H kötésszög' a metánban?",
+      "definition": "Az H–C–H kötésszög a metánban körülbelül 109,5°, az ideális tetraéderes szög.",
+      "quote": "CH4 szög: 109,5°",
+      "text": "A metán egy szabályos tetraéderes molekula, 4 ligandumtal (4 H) és 0 nemkötő párral a szénén. Mivel nincs nemkötő pár, az elektronok szöge és a ligandumok szöge azonos, így az ideális tetraéderes szög (109,5°) megfigyelhető."
+    },
+    {
+      "id": 18,
+      "term": "Milyen szerkezet alakul ki, ha a központi atom körül eltérő ligandumok helyezkednek el?",
+      "definition": "Ha eltérő ligandumok vannak, a szimmetrikus szerkezet torzult lesz, de az alapforma megmarad (pl. CH3Cl torzult tetraéderes).",
+      "quote": "Eltérö atomok = torzult forma",
+      "text": "A metánban (CH4) 4 azonos H ligandumot, tetraéderes szerkezet. A klórmetánban (CH3Cl) 3 H és 1 Cl ligandumot vannak, így a szerkezet még mindig tetraéderes, de torzult (a C–Cl kötés különbözik a C–H kötésektől). Az elektronpárok száma (4) ugyanaz, de az elrendezés módosul."
+    },
+    {
+      "id": 19,
+      "term": "Mit az 'sp² hibridizáció' és milyen teralkat alakul ki?",
+      "definition": "Az sp² hibridizáció egy szénátom esetén 3 hibridizált orbitálból álló szögtámogatást eredményez, amely síkháromszög teralkatot hoz létre.",
+      "quote": "sp²: 3 hibrid orbitál",
+      "text": "Az sp² hibridizáció az etén (C=C) Carbon-atomjaiban fordul elő. A 3 hibridizált orbitál tetraéderes helyett síkháromszög elrendezésben helyezkednek el (120°-os szögek), mivel az negyedik orbitál p-orbitál marad a π-kötéshez. Az eredmény egy síkháromszög szerkezet körül a szénatomnak."
+    },
+    {
+      "id": 20,
+      "term": "Mit az 'sp3 hibridizáció' és milyen teralkat alakul ki?",
+      "definition": "Az sp3 hibridizáció egy szénátom esetén 4 hibridizált orbitálból álló tetraéderes elrendezést hoz létre.",
+      "quote": "sp3: 4 hibrid orbitál",
+      "text": "Az sp3 hibridizáció a metánban és az etánban (C–C) szereplő szénatomok esetén fordul elő. A 4 hibridizált orbitál tetraéderes elrendezésben helyezkednek el (109,5°-os szögek), amely az összes szén-hidrogén és szén-szén kötések tetraéderes teralkatát biztosítja."
+    },
+    {
+      "id": 21,
+      "term": "Hogyan alkalmazható az VSEPR elmélet egyéb molekulákra (nem csak sztöchiometria)?",
+      "definition": "Az VSEPR elmélet alkalmazható szinte bármely molekula teralkatának előrejelzésére, amennyiben ismert a központi atom körül az elektronpárok száma.",
+      "quote": "VSEPR általános módszer",
+      "text": "Az elmélet alkalmazása: 1. Azonosítsd a központi atomot. 2. Számítsd meg a kötő elektronpárokat (ligandumok száma) és a nemkötő párokat. 3. Használd az VSEPR szabályokat a teralkat meghatározásához. Ez az egyszerű módszer szinte minden molekulára működik."
+    },
+    {
+      "id": 22,
+      "term": "Mely molekulák mutatnak lineáris terálakat?",
+      "definition": "Az olyan molekulák, ahol a központi atom körül 2 ligandumot és 0 nemkötő pár van, lineáris terálakat mutatnak.",
+      "quote": "2 ligandumot csak = lineáris",
+      "text": "Például: BeCl2, CO2 (ahol a C az központi atom, 2 O ligandummal). A lineáris teralkat megfigyelésétől azt jelenti, hogy az elektronpárok (ligandumok) 180°-os szögben helyezkednek el egymástól."
+    },
+    {
+      "id": 23,
+      "term": "Mely molekulák mutatnak trigonális piramis terálakat?",
+      "definition": "Az olyan molekulák, ahol a központi atom körül 3 ligandumot és 1 nemkötő pár van, trigonális piramis terálakat mutatnak.",
+      "quote": "3 ligandumot + 1 nem = piramis",
+      "text": "Például: NH3, PH3 (ahol az N vagy P az központi atom). A piramis terálakat a 3 H ligandumok körül helyezkednek el (amely biztosítja a 107° kötésszögeket), és az 1 nemkötő pár a piramis csúcsánál helyezkedik el (azonban ez nem látható egy olyan vonal-szerű ábrán, amely csak az atomokat mutatja)."
+    },
+    {
+      "id": 24,
+      "term": "Mely molekulák mutatnak tetraéderes terálakat?",
+      "definition": "Az olyan molekulák, ahol a központi atom körül 4 ligandumot és 0 nemkötő pár van, tetraéderes terálakat mutatnak.",
+      "quote": "4 ligandumot csak = tetraéderes",
+      "text": "Például: CH4 (metán), CCl4 (széntetraklorid), NH4+ (ammónium-ion, ahol az N az központi atom, 4 H-val). A tetraéderes teralkat szimmetrikus, 109,5°-os kötésszögekkel rendelkezik."
+    },
+    {
+      "id": 25,
+      "term": "Mit az 'elektronpárok szöge' vs. 'ligandumok szöge'?",
+      "definition": "Az elektronpárok szöge a központi atom körüli elektronpárok (kötő + nemkötő) szöge. A ligandumok szöge csak a ligandumok (atomok) közötti szög.",
+      "quote": "Elektronpárok vs. atomok szöge",
+      "text": "Az ammóniában (NH3) az elektronpárok szöge tetraéderes (109,5°), de a ligandumok szöge (H–N–H) körülbelül 107°, mert az egyik 'ligandum' helyét a nemkötő pár foglal el. Az VSEPR elmélet az elektronpárok szögén alapul, de a megfigyelhető kötésszögek a ligandumok szögei."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Reakciósebesség definíciója",
+      "definition": "Az mutatja meg, hogy egy kiválasztott komponens (termék vagy kiindulási anyag) koncentrációja időegység alatt mennyit változik.",
+      "quote": "Koncentrációváltozás időegység alatt",
+      "text": "A reakciósebesség számszerűen fejezhető ki: v = Δc/Δt, ahol Δc a koncentrációváltozás, Δt az idő. Mértékegysége: mol/(L·s) vagy mol/(L·perc). Lassú és gyors reakciók közötti nagy különbség van: például egy robbanás pillanatszerűen zajlik, míg vasszög teljesen átrozsdásodása évtizedekig tarthat."
+    },
+    {
+      "id": 2,
+      "term": "Hőmérséklet hatása a reakciósebességre",
+      "definition": "Magasabb hőmérsékleten minden kémiai reakció gyorsabb, mert a részecskék nagyobb energiával és sebességgel mozognak.",
+      "quote": "Több energia, több ütközés",
+      "text": "Magasabb hőmérsékleten a részecskék kinetikus energiája nagyobb, ezért gyorsabban mozognak és egységnyi idő alatt többször ütköznek egymással. A termikus energia segíti a kötések felbontását. Ez az egyik legfontosabb tényező a reakciósebesség szabályozásában. Gyakorlati alkalmastás: főzéskor magasabb hőmérsékletre állítjuk, hogy gyorsabban megpuhuljon az étel."
+    },
+    {
+      "id": 3,
+      "term": "Koncentráció hatása a reakciósebességre",
+      "definition": "Ha ugyanakkora térfogatban több molekula van (nagyobb koncentráció), gyakoribbak az ütközések, nő a reakciósebesség.",
+      "quote": "Több molekula, több ütközés",
+      "text": "A nagyobb koncentráció azt jelenti, hogy a vizsgált térfogatban több reaktáns molekula található, így több ütközésre kerül sor. Ez exponenciálisan is hathat: ha megduplázzuk az egyik reaktáns koncentrációját, lehet, hogy a reakciósebesség több mint kétszeresére nő (attól függ, mi az sorrend). A sebességi egyenlet írja le pontosan ezt a függést."
+    },
+    {
+      "id": 4,
+      "term": "Sebességi egyenlet",
+      "definition": "Empirikus (kísérleti) egyenlet, amely megadja a reakciósebesség függését a reaktánsok koncentrációjától.",
+      "quote": "v = k · [A]^m · [B]^n",
+      "text": "A sebességi egyenlet formája: v = k · [reaktáns1]^n · [reaktáns2]^m... ahol k a sebességi állandó, [x] a koncentráció, n és m pedig az ún. parciális rendek. Például: NO és O2 gázfázisú reakciójának egyenlete: v = k · [NO]^2 · [O2]. Ez azt jelenti, hogy a sebesség az NO koncentrációjának négyzetével és az O2 koncentrációjával arányos. Ez csak kísérleti úton határozható meg."
+    },
+    {
+      "id": 5,
+      "term": "Sebességi állandó (k)",
+      "definition": "A sebességi egyenletben szereplő konstans érték, amely az adott reaktánsokra, hőmérsékletre és egyéb körülményekre jellemző.",
+      "quote": "Anyag, hőmérséklet és körülmények függvénye",
+      "text": "A sebességi állandó (k) értéke csak az adott rendszerre jellemző. Hőmérsékletfüggő: Arrhenius-egyenlet szerint k = A · e^(-Ea/RT), ahol A a preexponenciális faktor, Ea az aktiválási energia, R a gázállandó, T a hőmérséklet. Más reaktánsok, katalizátor jelenlét vagy más körülmények más k értéket adnak."
+    },
+    {
+      "id": 6,
+      "term": "Aktiválási energia (Ea)",
+      "definition": "Az a minimális energia, amely szükséges ahhoz, hogy a kötések felbomljanak és a reaktáns részecskék reakcióra képessé váljanak.",
+      "quote": "Minimális energia a reaktánsoknak",
+      "text": "Az aktiválási energia az energiadiagramon az a \"hegy\", amit a reaktánsok átmuszálnak ahhoz, hogy termékek keletkezzenek. Minél kisebb az aktiválási energia, annál gyorsabb a reakció (nagyobb az esélye az energiadús ütközéseknek). Az aktiválási energia független az egyensúlyitól - az egyensúly a reaktánsok és termékek abszolút energiájától függ."
+    },
+    {
+      "id": 7,
+      "term": "Katalizátor definíciója",
+      "definition": "Olyan anyag, amely az aktiválási energiát lecsökkenti, így gyorsabbá teszi a reakciót, de maga nem változik meg.",
+      "quote": "Gyorsítja, de nem fogyatkozik",
+      "text": "A katalizátor csökkenti az aktiválási energiát, ezért több molekula rendelkezik az átutazáshoz szükséges energiával. A katalizátor résztvesz a folyamatban, de a végén eredeti formájában visszamarad. Nem fogyatkozik el, így kis mennyiségben is elég. Biológiai katalizátorok az enzimek. Ipari alkalmazások: Haber-Bosch folyamatnál vas katalizátor, három-útkatalizátor az autó kipufogójában."
+    },
+    {
+      "id": 8,
+      "term": "Homogén rendszer",
+      "definition": "Egyfázisú rendszer (például gázfázis vagy oldatban), ahol a reaktánsok és termékek ugyanabban az állapotban találhatók.",
+      "quote": "Egy fázis, gyorsabb reakció",
+      "text": "Homogén rendszerben (például gázgáz, vagy oldatban lévő ionok között) általában gyorsabban mennek a reakciók, mint heterogén (több fázisú) rendszerekben. Ez azért van, így az összes részecske könnyen ütközheti egymást. Heterogén rendszer (például szilárd és gáz között) lassabb, mivel az ütközésnek a fázishatáron kell végbemennie."
+    },
+    {
+      "id": 9,
+      "term": "Heterogén rendszer",
+      "definition": "Több fázisú rendszer, ahol a reaktánsok különböző halmazállapotban vannak (például szilárd és gáz között).",
+      "quote": "Több fázis, lassabb reakció",
+      "text": "Heterogén reakcióknál az ütközés csak a fázishatáron történhet, így az elérhetetlen felületnek nincs hatása. Például egy szén részecske levegőben ég - a szén szilárd, az oxigén gáz. Az ütközésre csak ahol a szén és gáz találkozik. A felület növelésével (például apró szénpor) jelentősen felgyorsítható a reakció."
+    },
+    {
+      "id": 10,
+      "term": "Hatásos ütközések",
+      "definition": "Olyan molekulaütközések, amelyek valóban reakcióhoz vezetnek, nem minden ütközés hatásos.",
+      "quote": "Irány és energia is számít",
+      "text": "Nem minden ütközés eredményes. Az ütközésnek megfelelő irányból és elegendő energiával kell történnie. Az Arrhenius-faktor (A) ezt fejezi ki - az összes ütközések közül mekkora része van megfelelő orientációval és energiával. Ez a reaktánsokra jellemző, és a hőmérsékletváltoztatás csak az energiás ütközések arányát növeli, az orientáció követelménye nem változik."
+    },
+    {
+      "id": 11,
+      "term": "Arrhenius-egyenlet",
+      "definition": "Az egyenlet, amely a sebességi állandót összeköti a hőmérséklettel és aktiválási energiával.",
+      "quote": "k = A · e^(-Ea/RT)",
+      "text": "Az Arrhenius-egyenlet: k = A · e^(-Ea/RT), ahol k a sebességi állandó, A a preexponenciális faktor (az összes ütközések közül milyen arány az optimális), Ea az aktiválási energia (J/mol), R a gázállandó (8,314 J/(mol·K)), T a hőmérséklet (K). Az egyenlet mutatja: kis Ea esetén nagyobb k (gyorsabb); nagy T esetén nagyobb k (gyorsabb). Logaritmikus alakban: ln(k) = ln(A) - Ea/RT."
+    },
+    {
+      "id": 12,
+      "term": "Enzimek, mint biológiai katalizátorok",
+      "definition": "Fehérje molekulák, amelyek az élő szervezetekbe bizonyos kémiai folyamatok aktiválási energiáját radikálisan csökkentik.",
+      "quote": "Specifikus, hatékony, biológiai katalizátorok",
+      "text": "Az enzimek a biológia katalizátorai, amelyek az élő rendszerekben zajló kémiai reakciókat gyorsítják. Specifikus aktív helyük van, ahol a szubsztrát (reaktáns) kötődik. Az enzim-szubsztrát komplexet képez, amely alacsonyabb aktiválási energiával vezethet a termékhez. Az enzimek nagyon specifikus (csak bizonyos szubsztráttal dolgoznak) és hatékonyak (sokat gyorsítanak)."
+    },
+    {
+      "id": 13,
+      "term": "Koncentráció-idő görbe",
+      "definition": "Grafikon, amely megmutatja, hogy a reaktánsok és termékek koncentrációja hogyan változik az idő függvényében.",
+      "quote": "Csökkenő reaktáns, növekvő termék",
+      "text": "A koncentráció-idő görbén általában a reaktánsok koncentrációja exponenciálisan csökken az idő függvényében, míg a termékek koncentrációja nő. Az görbe kezdetben meredekebb (gyorsabb), majd halványabb (lassabb) lesz, ahogy a reaktánsok fogynak. Az elmélyült analízisből kiszámítható a felezési idő és a reakió rendje."
+    },
+    {
+      "id": 14,
+      "term": "Nulla rendű, első rendű, másod rendű reaktor",
+      "definition": "A sebességi egyenletben az összes reaktáns kitevőinek összege, amely meghatározza, hogyan függ a sebesség a koncentrációtól.",
+      "quote": "Nulla: konstans, Első: lineáris, Másod: négyzetes",
+      "text": "Nulla rendű (n=0): v = k (sebesség konstans, nem függ c-től). Első rendű (n=1): v = k·[A] (sebesség arányos az [A]-val). Másodrendű (n=2): v = k·[A]² vagy v = k·[A]·[B] (sebesség az [A] négyzetével vagy két anyag szorzatával arányos). Az összes kitevő összege a réakció teljes rendje. Ez meghatározza, hogy az időegység alatt mennyi anyag szűnik meg, és milyen függvényt követ."
+    },
+    {
+      "id": 15,
+      "term": "Lángreakció (chain reaction)",
+      "definition": "Olyan folyamat, amely több elemi lépésből áll, ahol az egyik lépés termékei a következő lépés reaktánsai, és így exponenciális gyorsulást okoznak.",
+      "quote": "Lánc szerűen terjedő terjedő ütközések",
+      "text": "Lángreakciók során egy kezdeti lépés szabad gyököt (radikal) hoz létre, amely aztán sokszorozódik az egymást követő lépésekben. Klasszikus példa a hidrogén-oxigén robbanása vagy a klórgáznak a hidrogénnel való reakciója. A láncreakciók exponenciális sebességnövekedéshez vezetnek, és gyakran robbanásveszélyesek."
+    },
+    {
+      "id": 16,
+      "term": "Felezési idő (half-life)",
+      "definition": "Az az idő, amely alatt az eredeti reaktáns mennyisége a felére csökken.",
+      "quote": "Fél anyagmennyiség, fél idő",
+      "text": "Az első rendű réakcióknál a felezési idő konstans: t1/2 = ln(2)/k = 0,693/k. Ez azt jelenti, hogy függetlenül az kezdeti koncentrációtól, ugyanannyi idő kell, hogy az anyag fele elbomoljon. A radioaktív bomlás klasszikus első rendű folyamat. Másodrendű vagy magasabb rendű réakcióknál a felezési idő függ az kezdeti koncentrációtól."
+    }
+  ]
+}

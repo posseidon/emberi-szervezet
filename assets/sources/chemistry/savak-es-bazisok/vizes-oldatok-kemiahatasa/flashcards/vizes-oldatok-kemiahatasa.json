@@ -1,0 +1,214 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Víz autoprotolízise",
+      "definition": "A vízmolekulák képesek autoprotolízisre, azaz egymásnak adhatnak át hidrogéniont, így oxóniumionok (H3O+) és hidroxidionok (OH–) keletkeznek.",
+      "quote": "H2O + H2O ⇌ H3O+ + OH–",
+      "text": "Az autoprotolízis a teljesen tiszta, desztillált vízben is végbemegy. Az egyik vízmolekula savként viselkedik (H+ iont ad le), a másik bázisként (H+ iont vesz fel). Az egyensúly erősen a vízmolekulák felé tolódik."
+    },
+    {
+      "id": 2,
+      "term": "Vízionszorzat (Kv)",
+      "definition": "A vízionszorzat az oxónium- és hidroxidionok koncentrációjának szorzata tiszta vízben, amely szobahőmérsékleten 10^-14 mol²/dm^6.",
+      "quote": "Kv = 10^-14",
+      "text": "A vízionszorzat: Kv = [H3O+] × [OH–] = 10^-14 mol²/dm^6. Ez az érték szobahőmérsékleten (25°C) érvényes, de a hőmérséklet változásával a vízionszorzat is megváltozik. Ez az állandó alapvető a pH-kálkulációkban."
+    },
+    {
+      "id": 3,
+      "term": "Semleges kémhatás tiszta vízben",
+      "definition": "A tiszta, desztillált vízben az oxónium- és hidroxidionok koncentrációja egyenlő, mindkettő 10^-7 mol/dm³, ezt semleges kémhatásnak nevezzük.",
+      "quote": "[H3O+] = [OH–] = 10^-7",
+      "text": "A semleges kémhatás azt jelenti, hogy az oldatban nincs sem savfelesleg, sem bázisfelesleg. Ez a pH = 7 értéknek felel meg. Azonban felhívjuk a figyelmet, hogy tiszta vízben még így is kis mennyiségben vannak oxónium- és hidroxidionok."
+    },
+    {
+      "id": 4,
+      "term": "Savas oldatok kémhatása",
+      "definition": "A savas kémhatású oldatban az oxóniumionok (H3O+) vannak feleslegben, azaz a koncentrációjuk nagyobb, mint 10^-7 mol/dm³.",
+      "quote": "[H3O+] > 10^-7",
+      "text": "A savas oldatok olyan anyagokat tartalmaznak, amelyek megnövelik az oxóniumionok koncentrációját. Ilyen például a hidrogénklorid-oldat vagy az ecetsavoldat. A savas oldatok pH-ja 7-nél kisebb."
+    },
+    {
+      "id": 5,
+      "term": "Lúgos oldatok kémhatása",
+      "definition": "A lúgos kémhatású oldatban a hidroxidionok (OH–) vannak feleslegben, azaz a koncentrációjuk nagyobb, mint 10^-7 mol/dm³.",
+      "quote": "[OH–] > 10^-7",
+      "text": "A lúgos (bázisos) oldatok olyan anyagokat tartalmaznak, amelyek megnövelik a hidroxidionok koncentrációját. Ilyen például a nátrium-hidroxid-oldat vagy az ammónia-oldat. A lúgos oldatok pH-ja 7-nél nagyobb."
+    },
+    {
+      "id": 6,
+      "term": "HCl vízben való oldása",
+      "definition": "A hidrogénklorid-gáz vízben oldódva gyakorlatilag 100%-ban disszociál H3O+ és Cl– ionokká.",
+      "quote": "HCl + H2O → Cl– + H3O+",
+      "text": "A HCl az erős savak közé tartozik, így szinte teljes mértékben reagál a vízzel. Ez megnöveli az oldatban az oxóniumionok koncentrációját. Mivel a Kv állandó, a hidroxidionok koncentrációja arányosan lecsökken."
+    },
+    {
+      "id": 7,
+      "term": "NaOH oldása vízben",
+      "definition": "A nátrium-hidroxid egy erős bázis, amely ionvegyületként az oldódás során szétesik nátrium- és hidroxidionokra.",
+      "quote": "NaOH → Na+ + OH–",
+      "text": "Az NaOH teljesen disszociál: NaOH(sz) → Na+(aq) + OH–(aq). Ez megnöveli az oldatban a hidroxidionok koncentrációját, így a kémhatás lúgos lesz. Az oxóniumionok koncentrációja a vízionszorzat miatt csökken."
+    },
+    {
+      "id": 8,
+      "term": "Hidrogénion vagy oxóniumion",
+      "definition": "A vizes oldatok kémhatásával kapcsolatban a hidrogénion (H+) és az oxóniumion (H3O+) gyakorlatilag ugyanazt jelenti, egymás szinonimájaként használatosak.",
+      "quote": "[H+] = [H3O+]",
+      "text": "Az oxóniumion a pontosabb kifejezés, mivel a hidrogénionok a vízben mindig egy vízmolekulához kapcsoltan vannak jelen: H2O + H+ → H3O+. A gyakorlatban azonban mindkét jelölést használjuk egymás helyett."
+    },
+    {
+      "id": 9,
+      "term": "pH-skála definíciója",
+      "definition": "A kémhatást számszerűen a hidrogénionok (oxóniumionok) koncentrációjának negatív logaritmusával lehet jellemezni, ez az oldat pH-ja.",
+      "quote": "pH = -lg[H+]",
+      "text": "A pH-skála 0-tól 14-ig terjed. A kisebb pH-érték (7 alatt) erősebben savas oldatot jelent, a nagyobb pH-érték (7 felett) erősebben lúgos oldatot. A pH = 7 a semleges oldatokra jellemző."
+    },
+    {
+      "id": 10,
+      "term": "Savas oldatok pH-értéke",
+      "definition": "A savas oldatok pH-ja 7-nél kisebb, mert az oxóniumionok koncentrációja nagyobb, mint 10^-7 mol/dm³.",
+      "quote": "pH < 7",
+      "text": "Minél savasabb az oldat, annál kisebb a pH-értéke. Például a mátrixsavoldatok pH-ja lehet 1-2 közötti, míg a gyengébb savak oldatainak pH-ja 3-6 között lehet. A pH-skála logaritmikus, így egy pH-egységnyi csökkenés 10-szeres oxóniumion-koncentráció-növekedésnek felel meg."
+    },
+    {
+      "id": 11,
+      "term": "Lúgos oldatok pH-értéke",
+      "definition": "A lúgos oldatok pH-ja 7-nél nagyobb, mert a hidroxidionok koncentrációja nagyobb, mint 10^-7 mol/dm³.",
+      "quote": "pH > 7",
+      "text": "Minél lúgosabb az oldat, annál nagyobb a pH-értéke. Az erős bázisoké oldata pH-ja 12-14 közötti lehet, míg a gyengébb bázisoké 8-11 között lehet. A pH-skála logaritmikus, így egy pH-egységnyi emelkedés 10-szeres hidroxidion-koncentráció-növekedésnek felel meg."
+    },
+    {
+      "id": 12,
+      "term": "Indikátorok: sav-bázis indikátorok",
+      "definition": "Az indikátorok olyan szerves festékanyagok, amelyek a kémhatás függvényében megváltoztatják a színüket.",
+      "quote": "Szín = kémhatás",
+      "text": "Az indikátoroknak különböző színük van savas és lúgos közegben. Ezek az anyagok lehetnek természetes (például a vöröskáposzta-lé) vagy szintetikus. A laboratóriumban indikátorokat oldatban vagy pH-papírként használnak."
+    },
+    {
+      "id": 13,
+      "term": "Vöröskáposzta-lé indikátorként",
+      "definition": "A vöröskáposzta-lé a kémhatás függvényében más-más színű, ezért természetes indikátorként működik.",
+      "quote": "Természetes indikátor",
+      "text": "A vöröskáposzta-lé savas közegben vörös, semleges közegben lila, lúgos közegben zöld vagy sárga lehet. Ez az antocianin nevű pigment jelenléte miatt van. Az olyan indikátorok, mint a vöröskáposzta-lé, jól mutatják a kémhatás-különbségeket."
+    },
+    {
+      "id": 14,
+      "term": "Univerzálindikátor",
+      "definition": "Az univerzálindikátor többféle indikátort tartalmazó keverék, amelyik nemcsak a kémhatást, hanem a körülbelüli pH-értéket is jelzi.",
+      "quote": "Többszínű indikátor",
+      "text": "Az univerzálindikátor az oldatban vagy pH-papír formájában használható a laboratóriumban. Különböző szín-pH kapcsolatok vannak megállapítva, így az indikátor szín alapján közvetlenül leolvasható a körülbelüli pH-érték."
+    },
+    {
+      "id": 15,
+      "term": "pH-papír",
+      "definition": "A pH-papír indikátorral megfestett papír, amely az oldatokba mártva a kémhatás függvényében színt változtat.",
+      "quote": "Indikátor papír",
+      "text": "A pH-papír praktikus eszköz a laboratóriumban és a hétköznapokban is. Különböző fajták vannak, egyesek csak a savas-lúgos megkülönböztetésre alkalmasak, mások pontosabban jelzik a pH-értéket. Az univerzálindikátor-papír az egyik legelterjedtebb."
+    },
+    {
+      "id": 16,
+      "term": "pH mérés műszeresen",
+      "definition": "A pH pontosabb mérése pH-mérő készülékek (pH-méterek) segítségével lehetséges, amelyek elektrokémiailag mérik az oldatban az ionok koncentrációját.",
+      "quote": "pH-mérő használata",
+      "text": "A pH-méterek elektronikus készülékek, amelyek egy elektróda segítségével mérik az oldatban az oxóniumionok aktivitását. Sokkal pontosabban határozzák meg a pH-értéket, mint az indikátorok, általában 0,01 pH-egység pontossággal."
+    },
+    {
+      "id": 17,
+      "term": "Egyértékű savak",
+      "definition": "Az egyértékű savak olyan savak, amelyek egy proton leadására képesek.",
+      "quote": "Egy H+ leadható",
+      "text": "Az egyértékű savak közé tartozik a hidrogén-klorid (HCl), a hidrogén-bromid (HBr) és a salétromsav (HNO3). Ezek a savak csak egy hidrogéniont adhatnak le, utána sav maradékionokká alakulnak."
+    },
+    {
+      "id": 18,
+      "term": "Kétértékű savak",
+      "definition": "A kétértékű savak olyan savak, amelyek két proton leadására képesek.",
+      "quote": "Két H+ leadható",
+      "text": "A kétértékű savak közé tartozik a kénsav (H2SO4) és a szénsav (H2CO3). Az első proton leadása általában könnyebb, mint a másodiké, ezért első lépésben kétértékű anionoké (például SO4^2–, CO3^2–) keletkeznek."
+    },
+    {
+      "id": 19,
+      "term": "Háromértékű savak",
+      "definition": "A háromértékű savak olyan savak, amelyek három proton leadására képesek.",
+      "quote": "Három H+ leadható",
+      "text": "A foszforsav (H3PO4) egy háromértékű sav, amely három hidrogéniont adhat le. Az egymást követő protonok leadása fokozatosan nehezebb, ezért a foszforsav viselkedése összetettebb, mint az egyértékű savakéa."
+    },
+    {
+      "id": 20,
+      "term": "Egyértékű bázisokok",
+      "definition": "Az egyértékű bázisokok olyan bázisokok, amelyek egy proton felvételére képesek.",
+      "quote": "Egy H+ felvehető",
+      "text": "Az egyértékű bázisokok közé tartozik a nátrium-hidroxid (NaOH), a kálium-hidroxid (KOH) és az ammónia (NH3). Ezek a bázisokok csak egy hidrogéniont képesek felvenni vagy leadni."
+    },
+    {
+      "id": 21,
+      "term": "Kétértékű bázisokok",
+      "definition": "A kétértékű bázisokok olyan bázisokok, amelyek két proton felvételére képesek.",
+      "quote": "Két H+ felvehető",
+      "text": "A kálcium-hidroxid [Ca(OH)2] egy kétértékű bázis. Ez azt jelenti, hogy két Ca(OH) csoport van a molekulában, amely két OH– iont adhat le az oldódás során."
+    },
+    {
+      "id": 22,
+      "term": "Háromértékű bázisokok",
+      "definition": "A háromértékű bázisokok olyan bázisokok, amelyek három proton felvételére képesek.",
+      "quote": "Három H+ felvehető",
+      "text": "Az alumínium-hidroxid [Al(OH)3] egy háromértékű bázis. Ez azt jelenti, hogy három Al(OH) csoport van a molekulában, amely három OH– iont adhat le az oldódás során."
+    },
+    {
+      "id": 23,
+      "term": "Ecetsav: egyértékű sav",
+      "definition": "Az ecetsav (CH3COOH) egyértékű sav, annak ellenére, hogy a molekulájában négy hidrogén van, csak az egyik savas.",
+      "quote": "Csak egy savas H",
+      "text": "Az ecetsavban a szénatomhoz kapcsolódó hidrogének (a metil-csoportban: CH3) nem savasak, ezért csak a karboxil-csoport (COOH) hidrogénje leadható. Ez azért van, mert a szerves vegyületeknél általában csak az COOH, OH, SH stb. csoportok hidrogénje teljesen savas."
+    },
+    {
+      "id": 24,
+      "term": "Savas oldatok és hidroxidionok",
+      "definition": "Savas oldatban az oxóniumionok feleslegben vannak, ezért a hidroxidionok koncentrációja a vízionszorzat miatt csökken az eredeti értékről.",
+      "quote": "Hidegebb OH– (kevés)",
+      "text": "A vízionszorzat (Kv = [H3O+] × [OH–] = 10^-14) azt jelenti, hogy ha az oxóniumionok koncentrációja nő, a hidroxidionok koncentrációja arányosan csökken. Például ha [H3O+] = 10^-2, akkor [OH–] = 10^-12 mol/dm³."
+    },
+    {
+      "id": 25,
+      "term": "Lúgos oldatok és oxóniumionok",
+      "definition": "Lúgos oldatban a hidroxidionok feleslegben vannak, ezért az oxóniumionok koncentrációja a vízionszorzat miatt csökken az eredeti értékről.",
+      "quote": "Alacsonyabb H3O+ (kevés)",
+      "text": "A vízionszorzat működése miatt, ha a hidroxidionok koncentrációja nő, az oxóniumionok koncentrációja csökken. Például ha [OH–] = 10^-2, akkor [H3O+] = 10^-12 mol/dm³. Ez a reciprok kapcsolat jellemzi az összes vizes oldatot."
+    },
+    {
+      "id": 26,
+      "term": "Hőmérséklet hatása a vízionszorzatra",
+      "definition": "A vízionszorzat a hőmérsékletétől függ, magasabb hőmérsékleten nagyobb értéket vesz fel.",
+      "quote": "Hömérséklet → Kv",
+      "text": "Szobahőmérsékleten (25°C) a Kv = 10^-14 mol²/dm^6, de más hőmérsékleteken eltérő értékek lehetségesek. Például magas hőmérsékleten több vízmolekula disszociál, így a vízionszorzat értéke nő. Ez azt jelenti, hogy a pH-skála meghatározása is függ a hőmérséklettől."
+    },
+    {
+      "id": 27,
+      "term": "Logaritmikus pH-skála",
+      "definition": "A pH-skála logaritmikus, azaz egy pH-egységnyi változás a hidrogénion-koncentráció 10-szeres változásának felel meg.",
+      "quote": "Logaritmikus skála",
+      "text": "Például, ha a pH-érték 3-ról 4-re nő, az oxóniumion-koncentráció a 10^-3-ról 10^-4-re csökken. Ez az exponenciális viszony teszi a pH-skálát praktikus eszközzé az oldatok kémhatásának jellemzésére."
+    },
+    {
+      "id": 28,
+      "term": "pH és pOH kapcsolata",
+      "definition": "A pH és a pOH kapcsolata: pH + pOH = 14 (szobahőmérsékleten).",
+      "quote": "pH + pOH = 14",
+      "text": "A pOH a hidroxidionok koncentrációjának negatív logaritmusa, hasonlóan a pH-hoz. Ha ismerjük az egyik értéket, kiszámíthatjuk a másikat. Például ha pH = 3, akkor pOH = 11, amely azt jelenti, hogy a hidroxidionok koncentrációja 10^-11 mol/dm³."
+    },
+    {
+      "id": 29,
+      "term": "Indikátorok és kémhatás-tartomány",
+      "definition": "Az indikátorok általában egy szűkebb pH-tartományban működnek, ahol a szín jól megfigyelhető.",
+      "quote": "Limitált pH-tartomány",
+      "text": "Az indikátorok specifikus pH-tartományokra vannak hitelesítve. Az egyik indikátor jó lehet savas közegben, míg a másik a lúgos tartományban működik jobban. Az univerzálindikátor azért praktikus, mert egy szélesebb pH-tartományt fedez le."
+    },
+    {
+      "id": 30,
+      "term": "Erős savak és erős bázisokok: disszociáció",
+      "definition": "Az erős savak és bázisokok vizes oldatban gyakorlatilag teljes mértékben disszociálnak, így az oldatban szinte csak ionok vannak jelen.",
+      "quote": "Majdnem 100%",
+      "text": "Az erős savak (HCl, H2SO4, HNO3) és az erős bázisokok (NaOH, KOH) disszociációja szinte teljes. Ez azt jelenti, hogy az oldatban szinte nincs szabad savmolekula vagy bázisos molekula, csak ionok. Ez különbözik a gyenge savak és bázisokok viselkedésétől, ahol egyensúlyok jönnek létre."
+    }
+  ]
+}

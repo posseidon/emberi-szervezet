@@ -1,0 +1,201 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "szilard-anyagok",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "A fémes kötésben a vegyértékelektronok viselkedése különleges. Mi a lényege ennek?",
+      "options": [
+        "Az elektronok az atomtörzsökhöz kötöttek maradnak, de erősebben, mint a kovalens kötésben.",
+        "Az elektronok delokalizálódnak az egész rácsban, képezve egy közös elektronfelhőt.",
+        "Az elektronok egyáltalán nincsenek jelen a fémes kötésben.",
+        "Az elektronok csak az atomtörzsök között helyezkednek el, de nem mozognak."
+      ],
+      "answer": "Az elektronok delokalizálódnak az egész rácsban, képezve egy közös elektronfelhőt."
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az a háromdimenziós alakzat, amely térben megsokszorozva felépíti az egész kristályrács szerkezetét, az _____ -nak nevezzük.",
+      "options": [],
+      "answer": "elemi cella"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Az ionrácsban levő Na+ és Cl- ionok szobahőmérsékleten nem vezetik az elektromos áramot. Mi az oka?",
+      "options": [
+        "Az ionok nincsenek is az ionrácsban.",
+        "A szilárd fázisban az ionok helyükről nem tudnak elmozdulni, így a töltéseket nem tudják szállítani.",
+        "Az ionok közötti kötések elektrosztatikus, nem megengedik az elektronok mozgását.",
+        "Az ionrács szerkezete nem megenged ionáramlást."
+      ],
+      "answer": "A szilárd fázisban az ionok helyükről nem tudnak elmozdulni, így a töltéseket nem tudják szállítani."
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az olyan rács, amelyben azonos halmazállapotú, de kémiailag különböző anyagok nem keverednek, több _____ -ból áll.",
+      "options": [],
+      "answer": "fázis"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "A gyémánt és a szilícium szerkezeti szempontjából hasonló: mindkettő atomrácsban kristályosodik. Mit lehet mondani az olvadáspontjukról?",
+      "options": [
+        "Azonos az olvadáspontjuk, mivel azonos az atomrácsuk szerkezete.",
+        "Mindkettőnek kiemelkedően magas az olvadáspontja az erős térhálós szerkezet miatt.",
+        "A szilícium olvadáspontja magasabb, mert a szilícium atomok nagyobbak.",
+        "A gyémánt olvadáspontja nem értelmezhető az atomrácsos szerkezetben."
+      ],
+      "answer": "Mindkettőnek kiemelkedően magas az olvadáspontja az erős térhálós szerkezet miatt."
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az olyan másodrendű kötés, amely apoláris molekulák között alakul ki az átmenetileg polarizálódó elektronfelhő miatt, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "diszperziós kölcsönhatás"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Az ammónia (NH3) és a víz (H2O) között az alábbiak közül milyen másodrendű kötés alakul ki?",
+      "options": [
+        "Diszperziós kölcsönhatás, mert az N-H és O-H kötések nem elég polárisak.",
+        "Dipólus-dipólus kölcsönhatás, mivel mindkét molekula poláris, de az ammóniában nincsenek O, N vagy F atomok a hidrogén kötéshez.",
+        "Hidrogénkötés, mivel az ammóniában levő N atom és a vízmolekulákban levő O atom között létrejöhet.",
+        "Ionkötés, mivel az ammónia és víz molekulái teljesen polarizáltak."
+      ],
+      "answer": "Hidrogénkötés, mivel az ammóniában levő N atom és a vízmolekulákban levő O atom között létrejöhet."
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az ionrács rácspontjain _____ helyezkednek el, amelyeket ionkötés, azaz ellentétes töltésű ionok közötti elektrosztatikus vonzás tartja össze.",
+      "options": [],
+      "answer": "ionok"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Az üveg és a kristálycukor szerkezete alapvetően különbözik. Mit lehet mondani erről?",
+      "options": [
+        "Az üveg kristályrácsban, a kristálycukor pedig amorf szerkezetben van.",
+        "Az üveg amorf szerkezetű, a kristálycukor pedig szabályos kristályrácsban rendezett.",
+        "Mindkettő azonos szerkezetű, de az üveg átlátszó, a cukor pedig nem.",
+        "Az üveg molekularácsban, a cukor pedig ionrácsban kristályosodik."
+      ],
+      "answer": "Az üveg amorf szerkezetű, a kristálycukor pedig szabályos kristályrácsban rendezett."
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az olyan atomi szerkezetű kovalens kötésekben összekapcsolódó anyag, amely térhálós szerkezetet képez, atomrács helyett _____ -nak nevezzük, ha a kötés nem átfogó.",
+      "options": [],
+      "answer": "molekularács"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "A fémrácson belül egy szállított elektron mekkora távolságot tud megtenni egy ideális fémben?",
+      "options": [
+        "Csak az egyik atomról a szomszédosra.",
+        "Gyakorlatilag az egész rácsban, mivel az elektronok delokalalizáltak.",
+        "Az elektron soha nem mozog a fémrácsban.",
+        "Csak a rácspontokon helyezkedhet el."
+      ],
+      "answer": "Gyakorlatilag az egész rácsban, mivel az elektronok delokalalizáltak."
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ olyan speciális másodrendű kötés, amely az elektronhiányos hidrogén és egy másik molekulában levő O, N vagy F atom nemkötő elektronpárja között alakul ki.",
+      "options": [],
+      "answer": "hidrogénkötés"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A grafit vezetője az elektromos áramnak, pedig nem fémes szerkezete van. Ez miért lehetséges?",
+      "options": [
+        "A grafit molekularácsban kristályosodik, ezért az elektronok könnyen mozognak.",
+        "A grafitban az atomok síkokba rendeződnek, és a síkok között delokalizált elektronok vannak, hasonlóan a fémes kötéshez.",
+        "A grafit ionrácsos szerkezetű.",
+        "A grafit összes eleme vezetőképes, így az elektronok szabadon mozognak."
+      ],
+      "answer": "A grafitban az atomok síkokba rendeződnek, és a síkok között delokalizált elektronok vannak, hasonlóan a fémes kötéshez."
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A fémek vezetik az elektromos áramot, mert bennük a _____ szabadon mozoghatnak a rácsban.",
+      "options": [],
+      "answer": "vegyértékelektronok"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az alábbi anyagok közül melyiknek lesz a legmagasabb olvadáspontja azonos molekulatömeg esetén?",
+      "options": [
+        "Az apolaris molekulákra.",
+        "A diszperziós kölcsönhatásokra.",
+        "A hidrogénkötésű vegyületekre.",
+        "A dipólus-dipólus kölcsönhatásokra."
+      ],
+      "answer": "A hidrogénkötésű vegyületekre."
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az olyan anyag, amely szabálytalan rácsszerkezetű, általában nyúlósabb és kevésbé törékeny, mint a kristályos forma, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "amorf"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "A poláris és apoláris molekulák között melyik másodrendű kötés alakul ki?",
+      "options": [
+        "Hidrogénkötés, mivel az egyik molekula elektronhiányos.",
+        "Ionkötés, mivel az egyik molekula teljesen polarizált.",
+        "Dipólus-dipólus kölcsönhatás, mivel az egyik molekula poláris.",
+        "Diszperziós kölcsönhatás, mivel az apoláris molekulára nincs más lehetőség."
+      ],
+      "answer": "Diszperziós kölcsönhatás, mivel az apoláris molekulára nincs más lehetőség."
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az ionrácsban az ellentétes töltésű ionok közötti vonzás _____ -nak nevezzük.",
+      "options": [],
+      "answer": "ionkötés"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Amely szerkezet adja a legmagasabb olvadáspontot az ugyanolyan módon összeálló anyagok között?",
+      "options": [
+        "Molekularács, mivel a másodrendű kötések a legerősebb kölcsönhatások.",
+        "Ionrács, mivel az ionkötések elég erősek.",
+        "Atomrács, mivel az erős térhálós kovalens szerkezet miatt.",
+        "Fémrács, mivel a fémes kötés mindig a legerősebb."
+      ],
+      "answer": "Atomrács, mivel az erős térhálós kovalens szerkezet miatt."
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "Az alábbi anyagok közül melyiknek lesz a legalacsonyabb olvadáspontja?",
+      "options": [
+        "Az NaCl ionrácsos szerkezete miatt.",
+        "A C atomrácsos szerkezete miatt (gyémánt).",
+        "Az I2 molekularácsos szerkezete miatt.",
+        "A Cu fémrácsos szerkezete miatt."
+      ],
+      "answer": "Az I2 molekularácsos szerkezete miatt."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Oxigénvegyületek csoportosítása",
+      "definition": "Az oxigénvegyületek négy főcsoportba sorolhatók: nemfém-oxidok (SO2, CO2), fém-oxidok (CaO, Fe2O3), oxosavak és azok sói, fém-hidroxidok (NaOH), valamint peroxidok (H2O2).",
+      "quote": "Öt fő oxigénvegyület-csoport",
+      "text": "A nemfém-oxidok gyakran savasak vízben. A fém-oxidok vízben oldódva bázisokat (hidroxidokat) képeznek. Az oxosavak O-H kötéseket tartalmaznak (pl. kénsav, szénsav). A fém-hidroxidok fém-katiónt és OH- ionokat tartalmaznak. A peroxidok O-O kötéseket tartalmaznak."
+    },
+    {
+      "id": 2,
+      "term": "Víz (H2O) - fizikai és kémiai tulajdonságok",
+      "definition": "A víz színtelen, szagtalan, az élő szervezeteknek létfontosságú folyadék. Molekulái erős hidrogénkötésekkel kapcsolódnak, ezért kiugróan magas az olvadás- és forráspontja.",
+      "quote": "Élet nélkülözhetetlen folyadék",
+      "text": "A víz olvadáspontja 0 °C, a forráspontja 100 °C (nagy molekulasúlyhoz képest). A hidrogénkötések a magas olvadás- és forráspontnak az oka. Ionvegyületek és poláris anyagok jó oldószere az elektrosztatikus és hidrogénkötés-képző képessége miatt."
+    },
+    {
+      "id": 3,
+      "term": "Víz amfoter természete",
+      "definition": "A víz sav-bázis reakciókban protonleadásra és protonfelvételre is képes. Ezt amfotériásnak nevezzük. A vízmolekulák autoprotolízisben H3O+ és OH- ionokat képeznek.",
+      "quote": "Sav és bázis szimultán",
+      "text": "Sav-alapként működhet: H2O + H+ → H3O+ (proton felvétel) vagy H2O → H+ + OH- (proton leadás). Az autoprotolízis: H2O + H2O ⇌ H3O+ + OH-. Ez különösen fontos híg oldatokban, ahol az ionok közvetlenül a vízből származnak."
+    },
+    {
+      "id": 4,
+      "term": "Víz elektrolízise",
+      "definition": "A víz elektrolízissel hidrogénre és oxigénre bontható. Az eljárást vízbontásnak is nevezik. A folyamatban elektromos energia kémiai energiavá alakul.",
+      "quote": "Elektrolízissel szétbomlik",
+      "text": "Az összegzett egyenlet: 2 H2O → 2 H2 + O2 (elektrolízis). Az elektródon: katód (negatív): 2 H+ + 2 e- → H2, anód (pozitív): 2 H2O → O2 + 4 H+ + 4 e-. Ez endoterm folyamat, amely energiabevételt igényel."
+    },
+    {
+      "id": 5,
+      "term": "Természetes vizek összetétele",
+      "definition": "A természetes vizek oldott sókat és gázokat (például szén-dioxidot) tartalmaznak. Ezek az oldott anyagok biológiailag szükségesek, de néha problémát okoznak az ipari felhasználásban.",
+      "quote": "Oldott ionok és gázok",
+      "text": "Az esővíz gyengén savas a feloldódott CO2 miatt. A forrásvizek több ásványt tartalmaznak, mint az esővíz. Az óceáni víz sós, több mint 30 g/l sót tartalmaz. A vizek keménysége a Ca2+ és Mg2+ tartalomtól függ."
+    },
+    {
+      "id": 6,
+      "term": "Vízkeménység - állandó és változó",
+      "definition": "A vízkeménységet állandó és változó keménységre lehet osztályozni. A változó keménységet forralással el lehet távolítani, az állandó keménységet nem. Ez a Ca2+ és Mg2+ ionok mennyiségétől függ.",
+      "quote": "Két keménység-típus",
+      "text": "A változó keménységet Ca(HCO3)2 és Mg(HCO3)2 okozzák. Forraláskor a hidrogénkarbonát-ionok CO2-vé alakulnak és kiválnak: Ca(HCO3)2 → CaCO3↓ + H2O + CO2↑. Az állandó keménységet CaCl2, MgCl2, CaSO4, MgSO4 okozzák. Forralással ezek nem eltávolíthatók."
+    },
+    {
+      "id": 7,
+      "term": "Vízkövesedés - okozata és problema",
+      "definition": "A kemény víz forraláskor (melegítéskor) oldhatatlan szulfát vagy karbonát csapadékot (vízkő) képez. Ez a csövek keresztmetszetét beszűkíti és veszélyes nyomásnövekedést okozhat.",
+      "quote": "Csatlakozók megtömődnek",
+      "text": "Az oxisav-sók: Ca2+ és Mg2+ ionok kalcium- vagy magnézium-karbonáttá alakulnak. Ez fehér csapadék az edények falán és a csatlakozókon. Az elektromoshelyiségekben ezt a 'korok' felhalmozása jelenti, amely megnöveli az elektromosenergia-felhasználást."
+    },
+    {
+      "id": 8,
+      "term": "Mosószer hatékonysága - kemény víz hatása",
+      "definition": "A kemény víz (Ca2+ és Mg2+ ionok) csökkenti a mosószerek hatékonyságát. A mosószer-ionok felhasználódnak a kemény víz-ionok csapadékosításához, nem pedig a szennyeződések eltávolításához.",
+      "quote": "Kemény víz gyengíti mosást",
+      "text": "A mosószerek (például szulfátok) Ca2+ és Mg2+ ionokkal insolubilis csapadékokat képeznek. Ez a mosószer-mennyiség egy részét felhasználja a víz keménységének csapadékosításához. Ezért a kemény vízben több mosószer szükséges ugyanaz az eredményhez."
+    },
+    {
+      "id": 9,
+      "term": "Vízlágyítás - desztilláció",
+      "definition": "A desztillációban a vizet felforraljuk, a gőzöket elvezessük egy másik helyre és lehűtjük. Az így kapott desztillált víz gyakorlatilag mentes az oldott sóktól.",
+      "quote": "Párolgás és kondenzáció",
+      "text": "A desztillációban az ionok nagy része nem párolog el (marad az üstben), csak vízgőz vezethető el. Az ebből kondenzált víz desztillált vagy tisztított víznek nevezik. Ez az eljárás energiaintenzív, így drága, de nagyon tiszta vizet ad."
+    },
+    {
+      "id": 10,
+      "term": "Vízlágyítás - ioncsere",
+      "definition": "Az ioncsere-módszer során a vizet ioncserélő oszlopon vezetik át. Az oszlop kationjainak H+ ionokra, az anionjainak OH- ionokra cserélődnek az oldott kationok és anionok.",
+      "quote": "Ioncserélő oszlop",
+      "text": "Az ioncserélő gyanta Ca2+ és Mg2+ ionokat H+ ionokra cseréli az oszlopon. Hasonlóan az anion-cseréló SO42-, Cl- és HCO3- ionokat OH- ionokra. Az így kapott víz praktikusan deionizált víznek nevezik. Ez a módszer a leggyakoribb az ipari vízlágyításban."
+    },
+    {
+      "id": 11,
+      "term": "Vízlágyítás - vegyszeres módszer",
+      "definition": "Vegyszeres módszerben reagensek hozzáadásával a Ca2+ és Mg2+ ionok csapadék formájában eltávolítódnak. Gyakran használt reagensek a nátrium-karbonát (Na2CO3) és nátrium-foszfát (Na3PO4).",
+      "quote": "Csapadékosítás reagensekkel",
+      "text": "Nátrium-karbonát hozzáadásával: Ca2+ + CO32- → CaCO3↓ és Mg2+ + 2 OH- → Mg(OH)2↓. Ez a módszer főleg mosáskor használatos, mivel a mosószerek már tartalmazzák a vízlágyító szereket. Ez olcsó, de az oldható sók maradnak a vízben."
+    },
+    {
+      "id": 12,
+      "term": "Desztillált víz alkalmazása",
+      "definition": "A kémiai laboratóriumban csapvíz helyett desztillált vizet használunk. Ez nem csak a vízkeménység miatt, hanem az olyan szennyezések miatt is, amelyek a kísérleteket zavarhatják (például kloridionok).",
+      "quote": "Laboratóriumban desztillált víz",
+      "text": "A csapvízben lévő kloridionok például AgNO3-dal fehér csapadékot (AgCl) adnak, amely zavarhatja az analitikai méréseket. A karbonátionok CO2-vá bomlanak és szennyezik az oldatokat. A desztillált víz ezeket az ion-szennyeződéseket nem tartalmazza."
+    },
+    {
+      "id": 13,
+      "term": "Desztillált és ioncserélt víz - emberi fogyasztásra",
+      "definition": "A desztillált és ioncserélt víz bár nagy tisztaságú, az oldott fémionok hiánya miatt emberi fogyasztásra nem alkalmas. Az ionok az egészséghez szükségesek.",
+      "quote": "Hiányzó ásványok",
+      "text": "Az emberi szervezet szüksége van Ca2+, Mg2+, K+ és egyéb ionokra. A teljesen demineralizált víz elnyel ásványokat a testből (hipertonikus oldat), amely a sejtkárosodást okozhat. Az ivóvíz-szabványok minimális fém-ion-tartalmat írnak elő."
+    },
+    {
+      "id": 14,
+      "term": "Hidrogén-peroxid (H2O2) - tulajdonságok",
+      "definition": "A hidrogén-peroxid színtelen, szagtalan, maró hatású, vízzel elegyedő folyadék. Bomlékony, bomlása során oxigén és víz képződik. Katalitikusan lebomlik mangán-dioxid hatására.",
+      "quote": "Maró, bomlékony vegyület",
+      "text": "A H2O2 olvadáspontja -0,4 °C, a forráspontja 150 °C. Az oxigén-oxigén egyenkötés (+1 és -1 oxidációs számmal) instabil. A bomlás reaction: 2 H2O2 → 2 H2O + O2. Ez az eljárás MnO2 katalizátor jelenlétében gyors."
+    },
+    {
+      "id": 15,
+      "term": "Hidrogén-peroxid bomlása - katalízis",
+      "definition": "Mangán-dioxid (MnO2, barnakőpor) katalizálja a hidrogén-peroxid bomlását. A bomlás gyorsít fel és felpezseg a gázfejlődés miatt.",
+      "quote": "Barnakőpor katalizátor",
+      "text": "A MnO2 katalizátor nem fogyatkozik el a folyamatban. Ha hidrogén-peroxid oldatba mangán-dioxidot szórunk, az oldatból lendületes gázfejlődés történik. Az O2 gáz a borítékot felfúватja. Ez a klasszikus laboratóriumi oxigén-előállítási módszer."
+    },
+    {
+      "id": 16,
+      "term": "Hidrogén-peroxid felhasználása - ipari",
+      "definition": "A hidrogén-peroxid ipari felhasználásai közé tartozik a rakéták hajtóanyaga (vízmentes H2O2), valamint híg vizes oldata (kb. 3%-os) hajszőkítésre és fertőtlenítésre.",
+      "quote": "Rakéta-hajtóanyag",
+      "text": "A tiszta H2O2 (amely kb. 35%-os oldatot jelent) rakéta-hajtóanyag, mivel az exoterm bomlása nagy energiát ad. A híg 3%-os oldatát a fodrászok a hajszőkítésre és a gyógyászatban a sebkezelésre és fertőtlenítésre használják."
+    },
+    {
+      "id": 17,
+      "term": "Hidrogén-peroxid oxidálószer-funkció",
+      "definition": "A H2O2 redoxireakciókban oxidálószerként működhet. Az oxigén az -1-es oxidációs számból -2-es oxidációs számba redukálódik, miközben más anyagok oxidálódnak.",
+      "quote": "Oxidálószer képessége",
+      "text": "Például a hidrogén-peroxid oldatok szőke vagy szürke hajra ható hatása a melanin oxidálásán alapul. A magas redox-potenciál lehetővé teszi számos anyag oxidálását. A bomlékonyság miatt az oldatok idővel veszítenek hatékonyságukat."
+    },
+    {
+      "id": 18,
+      "term": "Hidrogén-peroxid reduktív tulajdonságok",
+      "definition": "A H2O2 bizonyos körülmények között redukálószerként is működhet. Az oxigén -1-es oxidációs számból 0-hoz vagy magasabbhoz oxidálódhat.",
+      "quote": "Redukálószer hatása",
+      "text": "Például az erősen oxidáló permanganát-ionok redukálása során a H2O2 reduktív hatást mutat: H2O2 + 2 KMnO4 + H2SO4 → O2 + MnSO4 + K2SO4 + 2 H2O. A permanganát vöröslilából szürkévé válik az elszíntelenedés során."
+    },
+    {
+      "id": 19,
+      "term": "Nemfém-oxidok - általános tulajdonságok",
+      "definition": "A nemfém-oxidok (pl. SO2, CO2, NO2, P2O5) gyakran savasak, ha vízben oldódnak. Ezek az oxosavakat képzik vagy közvetlenül feloldódnak savként.",
+      "quote": "Savas oxigénvegyületek",
+      "text": "Például SO2 + H2O → H2SO3 (kénessav), CO2 + H2O → H2CO3 (szénsav). Az oxofil elemek (például szén, kén, foszfor) nemfém-oxidai savas vegyületek. A magas oxidációs szám (például S a SO2-ben +4, a P2O5-ben +5) az aciditást támogatja."
+    },
+    {
+      "id": 20,
+      "term": "Fém-oxidok - általános tulajdonságok",
+      "definition": "A fém-oxidok (pl. CaO, Fe2O3, Na2O) vízben oldódva bázisokat (hidroxidokat) képeznek. Ezek alapvető vegyületek.",
+      "quote": "Bázikus oxigénvegyületek",
+      "text": "Például CaO + H2O → Ca(OH)2 (kalcium-hidroxid), Na2O + H2O → 2 NaOH (nátrium-hidroxid). Az alkáli- és alkaliföld-fém-oxidok erősen bázikus. Az átmeneti fémek oxidai amfoter (mindkét jelleg mutathatnak)."
+    },
+    {
+      "id": 21,
+      "term": "Peroxidok - szerkezet és tulajdonságok",
+      "definition": "A peroxidok oxigén-oxigén egyenkötéseket (O-O) tartalmazó vegyületek. Pl. H2O2, Na2O2. Az oxigén -1-es oxidációs számmal rendelkezik.",
+      "quote": "O-O kötés, -1 oxidációs szám",
+      "text": "A peroxidok instabilak és felbomolnak, általában oxigént termelve. A hidrogén-peroxid klasszikus peroxid. A nátrium-peroxid (Na2O2) vízzel hevesen reagál: 2 Na2O2 + 2 H2O → 4 NaOH + O2↑."
+    },
+    {
+      "id": 22,
+      "term": "Oxosavak - definíció és típusai",
+      "definition": "Az oxosavak oxigéntartalmú savak, amelyek O-H kötéseket tartalmaznak. Pl. H2SO4 (kénsav), H2CO3 (szénsav), HNO3 (salétromsav), H3PO4 (foszforsav).",
+      "quote": "Oxigéntartalmú savak",
+      "text": "Az oxosavak szerkezete: H-O-nonmetal. Az erősségük az oxigén-atomok számától és az oxidációs számtól függ. Pl. HNO3 (nitrogén +5) erős sav, HNO2 (nitrogén +3) gyenge sav. A többértékű oxosavak fokozatosan disszociálnak."
+    },
+    {
+      "id": 23,
+      "term": "Oxosavak erőssége - közövetlenítő kapcsolata",
+      "definition": "Az oxosavak erőssége az oxigén-atomok számától és az oxigénhez kötött nonmetal oxidációs számától függ. Több oxigén-atom = erősebb sav. Magasabb oxidációs szám = erősebb sav.",
+      "quote": "Oxigén-szám és erősség",
+      "text": "Pl. H2SO3 (kénessav, S +4) gyengébb, mint H2SO4 (kénsav, S +6). HNO2 (szalpétromsav, N +3) gyengébb, mint HNO3 (salétromsav, N +5). Ez az oxigén-atomok polarizációs hatásán alapul."
+    },
+    {
+      "id": 24,
+      "term": "Karsztvíz - kemény víz példája",
+      "definition": "A karsztvíz a mészkőhegységi forrásokból származó természetes víz. Magas a kalcium- és magnéziumion-tartalma, ezért kemény víz. A mészkő (CaCO3) oldódik a csapadékban oldódott CO2 hatására.",
+      "quote": "Mészkőhegységi forrás",
+      "text": "A karsztvíz kemény azért, mert a mészkőhegységekben a csapadékvíz (amely CO2-t tartalmaz) a CaCO3-at oldja: CaCO3 + H2O + CO2 → Ca(HCO3)2. Az így oldódott kalcium-hidrogénkarbonát a víz keménységét okozza."
+    },
+    {
+      "id": 25,
+      "term": "Esővíz - lágy víz példája",
+      "definition": "Az esővíz a tiszta csapadék, amely kevés oldott iont tartalmaz. Ezért lágy víz. Azonban gyengén savas a feloldódott CO2 miatt.",
+      "quote": "Tiszta, lágy csapadék",
+      "text": "Az esővíz közvetlenül az atmoszférából származik, így kevés oldott sót tartalmaz. Az esővíz pH-ja kb. 5,6 a CO2 + H2O → H2CO3 reaktív miatt, amely gyenge savas oldatot képez. A közelmúltban az esővíz gyakran savas eső lett a légkör szennyeződése miatt."
+    }
+  ]
+}

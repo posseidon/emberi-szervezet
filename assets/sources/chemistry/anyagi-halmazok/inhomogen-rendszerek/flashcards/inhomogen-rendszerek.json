@@ -1,0 +1,144 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mit jelent a diszperz rendszer?",
+      "definition": "A diszperz rendszer heterogén, többfázisú rendszer, amelyben az egyik összetevő (diszpergált anyag) apró részecskékre bontva szétszóródik egy másik közegben (diszpergáló közeg).",
+      "quote": "Heterogén: nagy és apró részecskék",
+      "text": "A diszperz rendszer klasszikus példái: füst (szilárd részecskék levegőben), homok a vízben (szuszpenzió), vagy tejszín (zsír a vízben, emulzió). A diszperz rendszer összetevői nem keverik teljesen az oldószerrel, így többfázisú marad. A diszpergált anyag részecskéinek mérete meghatározza a rendszer típusát: nagy részecskék (>1000 nm) lehorgonyzódnak, kolloid részecskék (1-1000 nm) nem ülepednek, molekuláris méretű részecskék (<1 nm) igazi oldatot képeznek."
+    },
+    {
+      "id": 2,
+      "term": "Mik a diszperz rendszer összetevői?",
+      "definition": "A diszperz rendszer zwei összetevőből áll: a nagyobb mennyiségű közegből és a kisebb mennyiségű diszpergált anyagból (szétszórt fázis).",
+      "quote": "Közeg + diszpergált anyag",
+      "text": "A közeg az anyag halmazállapota által meghatározva lehet gáz, folyadék vagy szilárd. A diszpergált anyag szintén lehet gáz, folyadék vagy szilárd. A kettő kombinációja meghatározza a diszperz rendszer típusát. Például a füstben a közeg gáz (levegő) és a diszpergált anyag szilárd (kiszemet szénrészecskék), ezért az szilád aeroszol. A tejben a közeg folyadék (víz) és a diszpergált anyag is folyadék (zsír), így emulzió."
+    },
+    {
+      "id": 3,
+      "term": "Hogyan csoportosítjuk a diszperz rendszereket?",
+      "definition": "A diszperz rendszereket a közeg és a diszpergált anyag halmazállapota szerint 9 lehetséges kombinációba csoportosítjuk (gáz, folyadék, szilárd - mindegyik lehet közeg vagy diszpergált anyag).",
+      "quote": "3×3 mátrix: gáz, folyadék, szilárd",
+      "text": "Az egyetlen lehetőség, ahol nincs diszperz rendszer, az amikor gázt diszpergálnak gázban, mert a gázok egymással tökéletesen elkeverednek (homogén gázelegy). A többi 9 kombináció diszperz rendszert alkot, különböző tulajdonságokkal. Az osztályozás segít megérteni, hogy milyen típusú rendszerrel van dolgunk, és milyen módszerek segíthetnek a szétválasztásban."
+    },
+    {
+      "id": 4,
+      "term": "Mi az aeroszol?",
+      "definition": "Az aeroszol egy diszperz rendszer, amelyben apró folyadékcseppek vagy szilárd részecskék szétszóródnak a levegőben (vagy más gázban).",
+      "quote": "Gázban szétszórt folyadék/szilárd",
+      "text": "Az aeroszol a légkörben gyakori, közönséges forma. A köd egy folyadékcseppekből álló aeroszol (víz levegőben), a füst pedig szilárd részecskékből álló aeroszol (szénrészecskék levegőben). Az aeroszolok részecskéi elég apróak ahhoz, hogy lebegjenek a levegőben, így hosszabb ideig szuszpenzióban maradnak. Az aeroszolok közvetlenül közegészségügyi kockázatot jelenthetnek, mivel a légzéssel bekerülhetnek az emberek tüdejébe."
+    },
+    {
+      "id": 5,
+      "term": "Mi az emulzió?",
+      "definition": "Az emulzió egy diszperz rendszer, amelyben egy folyadék apró cseppjei szétszóródnak egy másik folyadékban.",
+      "quote": "Folyadék a folyadékban: emulzió",
+      "text": "Az emulzió klasszikus példái: tejszín (zsír a vízben), vagy a majonéz (tojásfehérjével stabilizált olaj-víz emulzió). Az emulziók általában instabilak, mert a két folyadék nem keveredik természetesen (különböző polaritás), és az apró cseppek az idő múltán összeolvadnak nagyobb cseppekké. A stabilizáláshoz emulgeáló szerek szükségesek, amelyek (például a szappan, vagy a tojásfehérje) a cseppek körül képeznek egy védelmi réteget."
+    },
+    {
+      "id": 6,
+      "term": "Mi a szuszpenzió?",
+      "definition": "A szuszpenzió egy diszperz rendszer, amelyben szilárd részecskék szétszóródnak a folyadékban.",
+      "quote": "Szilárd részecskék: folyadékban",
+      "text": "A szuszpenzió klasszikus példája a homok a vízben, vagy a port a vízben. A szuszpenzió nem homogén, és a részecskék az idő múltán letelepednek az edény aljára. A szuszpenzióban az apró szilárd részecskék a folyadékban függnek, és az összetétel nem állandó: ha az edényt nem rázogatjuk, a részecskék letelepednek. A szuszpenzió a diszperz rendszerek között egy közönséges forma, amely gyakran biológiai rendszerekben és az iparban fordul elő."
+    },
+    {
+      "id": 7,
+      "term": "Mi az hab?",
+      "definition": "A hab egy diszperz rendszer, amelyben gáz apró buborékjait szétszórt a folyadékban vagy a szilárd anyagban.",
+      "quote": "Gáz a folyadék/szilárd-ban: hab",
+      "text": "A hab klasszikus példája a szappanhabpezs, a habosított pezs, vagy a szivacsok. A folyadék körül gáz buborék van, amelyet egy folyadék filmréteg vesz körül. A szilárd hab például a szivacs, a fára vagy a párnázat. A habak a gáz és folyadék/szilárd nagy felület miatt kiemelkedően nagy fajlagos felülettel rendelkeznek, amely számos ipari és laboratóriumi alkalmazásban hasznosított."
+    },
+    {
+      "id": 8,
+      "term": "Mit jelent a kolloid?",
+      "definition": "A kolloid egy diszperz rendszer, amelyben a diszpergált fázis mérete 1 és 1000 nm közé esik, így az anyag nem ülepedik, de szórja a fényt.",
+      "quote": "1-1000 nm: kolloid méret",
+      "text": "A kolloidok a szokásos oldatokkal és az olyan finomabban diszperz rendszerekkel különböznek, hogy az oldatban a részecskék <1 nm, míg a kolloidok a Tyndall-effektus miatt látható szórást mutatnak. A kolloidok lehetnek szolok (folyékony közeg) vagy gél állapotban. Klasszikus kolloid rendszerek: tejfelszín, vér, valamint akár az aranykolloid vagy szilícium-dioxid kolooid oldatok a laboratóriumban."
+    },
+    {
+      "id": 9,
+      "term": "Mit jelent a Tyndall-effektus?",
+      "definition": "A Tyndall-effektus a fény szórása a kolloid részecskék által, amely az igazi oldatokra nem jellemző, ezért segít megkülönböztetni a koloidokat az oldatoktól.",
+      "quote": "Fénysáv látható: kolloid van",
+      "text": "A kolloid oldatba egy fénysugarat irányítva (például egy lézer) a fénysáv jól látható lesz, mivel a részecskék szóróják azt. Az igazi oldatban (például egy cukoroldat) a fénysáv nem látható, mivel a molekulák túl kicsik a fény szóródásához. Ez a Tyndall-effektus gyakorlati módszer a rendszer típusának azonosítására. Az effektus neve John Tyndall fizikushoz fűződik, aki először írta le."
+    },
+    {
+      "id": 10,
+      "term": "Mik a makromolekuláris kolloidok?",
+      "definition": "A makromolekuláris kolloidok olyan koloidok, amelyekben az oldott anyag már eleve óriásmolekulák (makromolekulák) formájában van, így a kolloid mérettartományba esik.",
+      "quote": "Óriásmolekulák: makromolekuláris kolloid",
+      "text": "Klasszikus példa a tojásfehérje-oldat. A fehérjemolekulák már olyan nagyok (általában 10 nm vagy nagyobb), hogy a kolloid mérettartományban vannak. Ezekben az oldatokban nincs szolvatáció a szokásos értelemben, csak a makromolekulák szétszóródnak az oldószerben. A fehérje szóri a fényt (Tyndall-effektus), de az oldószer sűrűségétől függően ülepedhet is idővel (például a fehérje denaturációja során)."
+    },
+    {
+      "id": 11,
+      "term": "Mik az asszociációs kolloidok?",
+      "definition": "Az asszociációs kolloidok olyan koloidok, amelyekben az amfipatikus molekulák (poláris és apoláris részből álló) micellákat képeznek a megoldásban.",
+      "quote": "Micellák: asszociációs kolloid",
+      "text": "Az amfipatikus molekulák (például szappanmolekulák, detergensek) a vízben önszerveződően micellákat képeznek, ha a koncentráció elég magas. A micella olyan gömb alakú struktúra, ahol az apoláris végek a belső felé fordulnak (vízzel nem elegyedő), az poláris fejek pedig a felszínen helyezkednek el (vízzel elegyedő). A micellák kolloid mérettartományban vannak, és számos ipari alkalmazásban (detergensek, emulgeálók) használatosak."
+    },
+    {
+      "id": 12,
+      "term": "Hogyan képződnek a micellák?",
+      "definition": "A micellák akkor képződnek, amikor az amfipatikus molekulák az oldat felszínén összetorlódnak, majd a belső térben további molekulák csapódnak hozzá, gömb alakú szerkezetet képezve.",
+      "quote": "Amfipatikus: poláris out, apoláris in",
+      "text": "Először az amfipatikus molekulák a víz felszínén helyezkednek el, a poláris fejjel a vízfelé, az apoláris végekkel kifelé. Ahogy növekszik a molekulák száma, az oldat felszíne megtelt, és a további molekulák az oldatban alakítanak ki gömb alakú szerkezeteket (micellák), ahol az apoláris végek a középpontban vannak, az poláris fejek pedig a szélén. Ez az önszerveződés a termodinamika egyik klasszikus példája, ahol az entrópia és az entalpia egyensúlya egy stabilis rendszert hoz létre."
+    },
+    {
+      "id": 13,
+      "term": "Mit jelent a mikrofázis típusú kolloid?",
+      "definition": "A mikrofázis típusú kolloidok olyan rendszerek, ahol egy heterogén fázis (folyadék vagy szilárd) apró részecskékben van szétszóródva, amely kolloid méretű lehet.",
+      "quote": "Heterogén fázis: kolloid méretben",
+      "text": "A mikrofázis kolloidok jön létre például egy vízzel nem elegyedő folyadék nagyon apró cseppek formájában vízben szétszóródva. Emellett a csapadékkiválás kezdeti fázisában (amikor a szilárd részecskék nőnek) is létrejöhet mikrofázis kolloid. Az ilyen koloidok gyakran instabilak, és az idő múltán nagyobb részecskékké összevonódnak (az ún. Ostwald-éréskésés során az apró részecskék feloldódnak, a nagyok nőnek)."
+    },
+    {
+      "id": 14,
+      "term": "Mi az a szol állapot?",
+      "definition": "A szol egy kolloid rendszer, amelyben a kolloid részecskék egy folyékony vagy gázhalmazállapotú közegben vannak szétszóródva.",
+      "quote": "Kolloid a folyadék/gáz-ban",
+      "text": "A szol egy folyadék vagy gáz közegű kolloid. Például egy aranykolloidal oldat, vagy az ezüst-nanorészecskék vízben szol állapotban vannak. A szolok általában fluidak, akárcsak az igazi oldatok, de nagyobb részecskékkel. A szol állapot megváltozhat például pH-változás vagy sókoncentráció növekedése miatt, amely destabilizálhatja a koloidot, és csapadékképzéshez vagy gelasodáshoz vezethet."
+    },
+    {
+      "id": 15,
+      "term": "Mi az a gél állapot?",
+      "definition": "A gél egy kolloid rendszer, ameliben a kolloid részecskék egy szilárd térhálós szerkezetet képeznek, amely sok folyadékot tartalmaz.",
+      "quote": "Hálózat a folyadékkal: gél",
+      "text": "A gél nem folyik, bár nagy folyadéktartalommal rendelkezik (80-90% is lehet folyadék). A gélben a szilárd koopnens (például szilícium-dioxid vagy szénnel jelölt fehérje) egy folyadékkal kitöltött háromdimenziós hálózatot alkot. Klasszikus példák: agar-agar gél, zselé, vagy gél körömhöz. A gél állapot reverz szollá alakítható hevítéssel (termoreverzibilis gél) vagy más fizikai behatásokkal."
+    },
+    {
+      "id": 16,
+      "term": "Mit jelent az adszorpció?",
+      "definition": "Az adszorpció az a folyamat, amikor egy anyag részecskéi a felületre (például egy szilárd anyagra) kötödnek, megkötődnek.",
+      "quote": "Felület: anyag megkötődik",
+      "text": "Az adszorpció ellentétben az abszorpcióval (ahol az anyag a szilárd belsejébe hatol): az adszorpcióban az anyag a felületre tapad. Az adszorpció lehet fizikai (másodrendű kötésekkel) vagy kémiai (valódi kémiai kötésekkel). A szénaktivált szén nagy felülete (1 g ~ 1000 m²) nagyon hatékonyan képes mérgező anyagokat megtartani, amely gyakorlati alkalmazásban (mérgezések kezelése, légszűrés) használatos."
+    },
+    {
+      "id": 17,
+      "term": "Mit jelent a deszorpció?",
+      "definition": "A deszorpció az ellenkező folyamata az adszorpciónak, amikor az adszorbeált anyag elhagyja a felületet, felszabadul.",
+      "quote": "Felszín: anyag leszakad",
+      "text": "A deszorpció melegítéssel, nyomáscsökkenésével vagy vákuumban érhető el. Például a szénaktivált szénről a mérgezőanyagok melegítéssel és szellőztetéssel el lehet távolítani (regenerálás), így az szénanyag újra felhasználható. A deszorpció az adszorbens regenerálásának kulcsa, amely az ipari alkalmazásban gazdaságossá teszi az eszközöket."
+    },
+    {
+      "id": 18,
+      "term": "Mit jelent a fajlagos felület?",
+      "definition": "A fajlagos felület az anyag 1 g tömegére jutó felület (m²/g), amely megmutatja, hogy a szilárd anyag milyen mértékben porózus, szivacsos szerkezetű.",
+      "quote": "Felület/tömeg: nagy vagy kicsi",
+      "text": "A nagy fajlagos felületű anyagok (például szénaktivált szén: >1000 m²/g) nagyon hatékonyan tudnak anyagokat megtartani az adszorpcióban. Az ilyen anyagok porózusak, sok apró pórussal rendelkeznek, amely nagyon nagyra növeli a rendelkezésre álló felületet. Ez az oka, hogy a szénaktivált szén olyan hatékony a mérgek kötésében: nagy felülete lehetővé teszi, hogy sok anyagmolekula megtapadjon az felületen."
+    },
+    {
+      "id": 19,
+      "term": "Hogyan viszonyulnak a kolloidok az igazi oldatokhoz?",
+      "definition": "A kolloidok a szokásos oldatok és az durva szuszpenziók közötti közvetítő fázis: nagyobb részecskékkel rendelkeznek mint az oldatok, de kisebbek mint a szuszpenziók.",
+      "quote": "Oldatnak nagyobb, szuszpenziónak kisebb",
+      "text": "Az igazi oldatok molekuláris méretű részecskékből állnak (<1 nm), amelyek nem szóródnak a fényt (Tyndall-effektus nincs), és nem ülepednek. A szuszpenziók nagyobb részecskékből állnak (>1000 nm), amelyek jól láthatóak és gyorsan ülepednek. A kolloidok között vannak (1-1000 nm), amely szóródják a fényt és nem ülepednek gyorsan. Ez az osztályozás egy kontinuum, ahol az osztályok éles határ nélkül mennek át egymásba."
+    },
+    {
+      "id": 20,
+      "term": "Hogyan lehet egy rendszer típusát azonosítani?",
+      "definition": "A rendszer típusának azonosítása a Tyndall-effektus megfigyelésével, az ülepedési viselkedéssel és a mikroszkopikus vizsgálattal történhet.",
+      "quote": "Tyndall, ülepedés, mikroszkóp",
+      "text": "Ha egy oldat fénysáv mellett tiszta marad (nincs Tyndall-effektus), igazi oldatról van szó. Ha fénysáv látható de az anyag nem ülepedik hosszabb ideig, kolloid az rendszer. Ha gyorsan ülepedik, szuszpenzióról van szó. A mikroszkópikus vizsgálat a részecskék méretét is megmutatja. A végeredmény segít megtudni, hogy milyen típusú rendszerrel dolgozunk, és milyen szétválasztási módszer lehet a leghatékonyabb."
+    }
+  ]
+}

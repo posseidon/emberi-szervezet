@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "alkalifemek",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az alkálifémek közül mely elem radioaktív és legstabilabb izotópja 22 perc felezési idővel rendelkezik?",
+      "options": ["cézium", "rubídium", "francium", "kálium"],
+      "answer": "francium"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az alkálifémek nagy reaktivitása az alacsony _____ energiával magyarázható.",
+      "options": [],
+      "answer": "ionizációs"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "A kálium vízbe dobva milyen történik?",
+      "options": ["lassan oldódik", "meggyullad és a hidrogén is megtörténik", "sárgásan világít", "nem történik reakció"],
+      "answer": "meggyullad és a hidrogén is megtörténik"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az I. csoport alkálifémei a levegő _____ -ével már szobahőmérsékleten reagálnak.",
+      "options": [],
+      "answer": "oxigénjével"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Melyik állítás HELYTELEN az alkálifémek és alkáliföldfémek összehasonlítása esetén?",
+      "options": ["az alkálifémek reaktívabbak", "az alkáliföldfémek olvadáspontja magasabb", "az alkálifémek alacsonyabb ionizációs energiájúak", "az alkáliföldfémek elektronegativitása alacsonyabb"],
+      "answer": "az alkáliföldfémek elektronegativitása alacsonyabb"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ hidroxid jellegzetes vízben gyengén oldódik és meszes vizet képez.",
+      "options": [],
+      "answer": "kalcium"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "A magnézium-hidroxid milyen oldékonyságú a vízben?",
+      "options": ["jól oldódik", "közepesen oldódik", "nagyon gyengén oldódik", "gyakorlatilag oldhatatlan"],
+      "answer": "nagyon gyengén oldódik"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az alkáliföldfémek oxidációs szám a vegyületekben mindig _____ .",
+      "options": [],
+      "answer": "+2"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mely vegyület a nátrium-tioszulfát és mire használták?",
+      "options": ["gipsz, építésre", "fixírsó, fényképezésre", "keserűsó, gyógyászatra", "salétrom, tűzijátékra"],
+      "answer": "fixírsó, fényképezésre"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A kálium-nitrát a fekete lőpor összetevője a szénpor és a _____ mellett.",
+      "options": [],
+      "answer": "kénpor"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "A nátrium-karbonátot mely közismert névvel is hívják?",
+      "options": ["glaubersó", "szóda", "keserűsó", "fixírsó"],
+      "answer": "szóda"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A kalcium-karbonát hőbontásával _____ és szén-dioxid képződik.",
+      "options": [],
+      "answer": "kalcium-oxid"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A magnézium felszínén képződő oxidréteg milyen tulajdonságú?",
+      "options": ["pocos és nem egybefüggő", "egybefüggő és védő", "átlátszó és jól vezetők", "fekete és vastag"],
+      "answer": "egybefüggő és védő"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az _____ -hidroxidot közismert lúgkőnek, marónátrionnak hívják.",
+      "options": [],
+      "answer": "nátrium"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik vegyület jellegzetesen fehér csapadékot képez a báriumionokkal?",
+      "options": ["báriumzonát", "bárium-fluorid", "bárium-szulfát", "bárium-karbonát"],
+      "answer": "bárium-szulfát"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A nátrium-hipoklorit vízzel képzett oldatában a _____ a fertőtlenítő hatású.",
+      "options": [],
+      "answer": "hipoklorit"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Az alkáliföldfémek közül mely elem áll a szervezet csontok és fogak felépítésében fontos szerepet?",
+      "options": ["magnézium", "kalcium", "stroncium", "bárium"],
+      "answer": "kalcium"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az égetett gipsz _____ mól vízzel kristályosodik, vízzel összekeverve az eredeti forma visszaképződik.",
+      "options": [],
+      "answer": "1/2"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "A nátrium-nitrit mely iparágban használatos?",
+      "options": ["papírgyártás", "élelmiszeripar", "cementgyártás", "textilipar"],
+      "answer": "élelmiszeripar"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A nátrium-foszfátot _____ mellett zsíroldó hatása miatt mosószerekben alkalmazzák.",
+      "options": [],
+      "answer": "vízlágyító"
+    }
+  ]
+}

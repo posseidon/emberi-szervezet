@@ -1,0 +1,158 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mit értünk kémiai elem alatt?",
+      "definition": "A kémiai elem azonos rendszámú (protonszámú) atomok halmaza. Állhat szabad atomokból, vagy atomjai kovalens vagy fémes kötéssel kapcsolódhatnak össze.",
+      "quote": "Azonos rendszám, különböző formák",
+      "text": "Az elemek a halmazok egyik alapvető csoportosítása. Például az oxigén gáz halmazállapotban O2 molekulákat alkot, a vas pedig fémes kötésű szilárd szerkezetben van. Az elemek nem bonthatók egyszerűbb kémiai utakkal további összetevőkre."
+    },
+    {
+      "id": 2,
+      "term": "Mi az a vegyület?",
+      "definition": "A vegyületet legalább kétféle elem alkotja, amelyeknek az atomjai kémiai kötésekkel kapcsolódnak egymáshoz, pontosan meghatározott arányban.",
+      "quote": "Két vagy több elem, fix arány",
+      "text": "A vegyület komponenseit a képlet fejezi ki. Például H2SO4 azt jelenti, hogy hidrogén-, kén- és oxigénatomok számaránya 2:1:4. A vegyületek fizikai és kémiai tulajdonságai teljesen eltérhetnek az őket alkotó elemek tulajdonságaitól. Az összetevő elemek a kémiai kötések feloldásával választhatók szét."
+    },
+    {
+      "id": 3,
+      "term": "Definiáld a keverékek fogalmát.",
+      "definition": "A keverékek több különböző komponensből állnak, amelyek lehetnek elemek és vegyületek egyaránt. Az összetevők aránya megváltoztatható.",
+      "quote": "Több komponens, változó összetétel",
+      "text": "A keverékek nem kémiai kötésekkel egyesülnek, így összetételük bármilyen arányban lehet. A keverék összetevőit fizikai módszerekkel (például szűréssel, desztillációval) lehet szétválasztani. Például a levegő N2, O2 és más gázok keveréke, vagy a sóoldatban a só és a víz tetszőleges arányban lehet."
+    },
+    {
+      "id": 4,
+      "term": "Mi a fázis a kémiában?",
+      "definition": "A fázis a részecskehalmaz egységes összetételű és fizikai állapotú része. A különböző halmazállapotú anyagok más-más fázist alkotnak.",
+      "quote": "Egynemű, azonos állapotú rész",
+      "text": "A szilárd, folyadék és gázhalmazállapotok különböző fázisokat képviselnek. Azonban több, kémiailag különböző anyag is alkothat egy fázist, ha tökéletesen elkeverednek, például a konyhasóoldat (víz és NaCl) vagy az etil-alkohol vizes oldata. Az olaj és víz keveréke viszont kétfázisú, mert nem keverednek."
+    },
+    {
+      "id": 5,
+      "term": "Hogyan csoportosítjuk az anyagokat komponensek száma szerint?",
+      "definition": "Komponensek száma szerint: egykomponensű anyagok (elemek, vegyületek) és keverékek (többkomponensű).",
+      "quote": "Komponensek száma: egy vagy több",
+      "text": "Az egykomponensű anyagok vagy tiszta elemek (pl. vas), vagy tiszta vegyületek (pl. víz, cukor). A keverékek több, függetlenül létező komponensből állnak. Ez a csoportosítás fontos az anyag azonosítása és tulajdonságai megértése szempontjából."
+    },
+    {
+      "id": 6,
+      "term": "Mit értünk homogén rendszer alatt?",
+      "definition": "A homogén rendszer egyfázisú, azaz egynemű összetételű és fizikai állapotú.",
+      "quote": "Egyfázisú, teljes egészen azonos",
+      "text": "A homogén rendszerek egyenletes összetételűek és egy fázist képviselnek. Például az etil-alkohol-víz oldat, a levegő vagy egy tiszta szacharin-oldat homogén. Makroszkopikusan nem lehet különbséget tenni az anyag részei között. Mikroskópikus szinten azonban különböző molekulák lehetnek jelen, de tökéletesen elkeveredve."
+    },
+    {
+      "id": 7,
+      "term": "Mit értünk heterogén rendszer alatt?",
+      "definition": "A heterogén rendszer kettő vagy több fázisból áll, amely határfelülettel elválasztott egymástól.",
+      "quote": "Többfázisú, jól elkülöníthető részek",
+      "text": "A heterogén rendszerekben különböző összetételű vagy halmazállapotú részek figyelhetők meg. Például olaj és víz keveréke, homokos föld, vércsapatok vagy tejföl heterogén rendszer. A rendszer összetevői megfigyelhetők, és általában fizikai módszerrel szétválaszthatók."
+    },
+    {
+      "id": 8,
+      "term": "Milyen alapvetően különböző oka lehet annak, hogy egy anyag heterogén rendszert alkot?",
+      "definition": "Heterogén rendszer alakul ki, ha különböző halmazállapotú anyagok vannak jelen, vagy ha azonos halmazállapotú anyagok nem keverednek el egymásban.",
+      "quote": "Eltérő állapot vagy nem keveredés",
+      "text": "Például víz és szilárd só elegy heterogén (szilárd-folyadék). De heterogén az olaj és víz is, bár mindkettő folyadék, mert eltérő polaritása miatt nem keverednek. Az azonos halmazállapotú anyagok nem elegyedésének oka az eltérő polaritás."
+    },
+    {
+      "id": 9,
+      "term": "Mikor képez két folyadék egy fázist?",
+      "definition": "Két folyadék akkor képez egy fázist, ha teljes mértékben elkeveredik, azaz homogén rendszert alkot.",
+      "quote": "Teljesen elkeverednek, homogén lesz",
+      "text": "Ez akkor történik meg, ha a folyadékok hasonló polaritásúak. Például az etil-alkohol és a víz teljesen elegyedik, mert mindkettő poláris. Azonban a víz és a benzin nem keveredik, mivel polaritásuk jelentősen eltér. Az elegyedés vagy annak hiánya a molekulák közötti kölcsönhatásoktól függ."
+    },
+    {
+      "id": 10,
+      "term": "Milyen tulajdonságai vannak a vegyületeknek az őket alkotó elemek viszonylatában?",
+      "definition": "A vegyületek fizikai és kémiai tulajdonságai teljesen eltérhetnek az őket alkotó elemek tulajdonságaitól, mert az elemek új szerkezetet és kötéseket képeznek.",
+      "quote": "Teljesen új tulajdonságok, nem összeadódnak",
+      "text": "Klasszikus példa: a nátrium (Na) és a klór (Cl2) gáz halálosan veszélyes anyagok, viszont ezekből képződő NaCl (konyhasó) élelmiszer. A vegyület tulajdonságait az alapvetően az új szerkezetben az atomok közötti kötések határozzák meg, nem az eredeti elemek."
+    },
+    {
+      "id": 11,
+      "term": "Hogyan lehet szétválasztani egy vegyület összetevőit?",
+      "definition": "A vegyület összetevőit csak kémiai módszerek alkalmazásával lehet szétválasztani, amely során a kémiai kötések felbomlanak.",
+      "quote": "Kémiai reakció szükséges, nem fizikai",
+      "text": "Például a víz elektrolízisével hidrogénre és oxigénre bontható. A konyhasó savas vagy bázikus közegben hidrogén-kloridra és nátrium-hidroxidra alakítható. Ez ellentétben áll a keverékek szétválasztásával, amely fizikai módszerekkel lehetséges."
+    },
+    {
+      "id": 12,
+      "term": "Miben különbözik a keverék a vegyülettől összetétel szempontjából?",
+      "definition": "A vegyület összetétele mindig azonos és fix arány, míg a keverék összetétele tetszőleges és változtatható.",
+      "quote": "Vegyület: fix, keverék: változó",
+      "text": "A H2O képlet azt jelenti, hogy minden vízmolekula pontosan 2 hidrogént és 1 oxigént tartalmaz. Azonban egy vízben oldott só oldatból saját tetszőlegesen lehet több vagy kevesebb sót feloldani, az összetétel módosítható. Ez alapvető különbség a kétféle anyag között."
+    },
+    {
+      "id": 13,
+      "term": "Milyen módon lehet azonosítani egy anyagot vegyület vagy keverék?",
+      "definition": "Az anyag azonosításához meg kell vizsgálni fizikai tulajdonságait és azt, hogy állandó összetételű-e vagy változó.",
+      "quote": "Összetétel, tulajdonságok, szétválasztás",
+      "text": "Ha egy anyagnak állandó olvadáspontja, forraspontja és egyéb fizikai paraméterei vannak, és ezek nem változnak, vegyület lehet. A keverékeknek típikusan tartománya van ezeknek a paramétereknek. A szétválasztási módszer (fizikai vagy kémiai) szintén jó hintét ad."
+    },
+    {
+      "id": 14,
+      "term": "Mit nevezünk tiszta anyagnak?",
+      "definition": "A tiszta anyag homogén rendszer, amely csak egy komponensből áll (elem vagy vegyület), azonos összetétellel és állandó fizikai tulajdonságokkal.",
+      "quote": "Egy komponens, azonos összetétel",
+      "text": "A tiszta víz, a desztillált víz vagy a tiszta nátrium klorид tiszta anyagnak tekintendő. Ezeknek meghatározott olvadáspontja, forraspontja és sűrűsége van. A tiszta anyagok a vegyületekre és az elemekre lehet felosztani."
+    },
+    {
+      "id": 15,
+      "term": "Mi a különbség az elem és vegyület között szintaxisa alapján?",
+      "definition": "Az elem egy kémiai jel vagy több azonos jelből áll (pl. O2, H2), míg a vegyület különböző kémiai jelekből áll (pl. H2O, NaCl).",
+      "quote": "Elem: egy jel, vegyület: több jel",
+      "text": "A képletből rögtön lehet következtetni, hogy elemről vagy vegyületről van szó. Ha csak egy kémiai szimbólum vagy azonos szimbólumok ismétlése szerepel, elem. Ha eltérő szimbólumok vannak, vegyület. Azonban az elem is lehet többatomos molekula formájában (pl. O2, N2)."
+    },
+    {
+      "id": 16,
+      "term": "Milyen halmazállapotok lehetségesek a különböző fázisok esetén?",
+      "definition": "Szilárd, folyadék (cseppfolyós) és gázhalmazállapotok három alapvető fázis, amelyek más-más szerkezeti és fizikai tulajdonságokkal rendelkeznek.",
+      "quote": "Szilárd, folyadék, gáz - három fázis",
+      "text": "A szilárd fázisban az anyag merev szerkezetű, a folyadék fázisban folyékony, a gáz fázisban pedig kitölt minden rendelkezésre álló teret. Egy fázis egy anyagnak azonos halmazállapotú része, amely homogén összetételű. A határok közöttük a halmazállapot-változások során átmeneti lehet."
+    },
+    {
+      "id": 17,
+      "term": "Lehet-e egy anyagnak több fázisa azonos halmazállapotban?",
+      "definition": "Igen, lehetséges. Azonos halmazállapotú anyagok más-más fázist képviselhetnek, ha nem keverednek el egymással.",
+      "quote": "Azonos állapot, más összetétel",
+      "text": "A legjobb példa az olaj és a víz: mindkettő folyadék, de nem keverednek, ezért két különböző fázis. Másik példa: különböző szénhidrogének olvadt állapotban. Az eltérő összetétel és polaritás miatt ezek nem képeznek egy homogén rendszert."
+    },
+    {
+      "id": 18,
+      "term": "Mit jelent az, hogy egy rendszer homogén?",
+      "definition": "Az egyfázisú rendszer homogén, amely azt jelenti, hogy egyenletes összetételű, anizotróp (ugyanolyan tulajdonságok minden irányban).",
+      "quote": "Egyfázis egyenletes összetételű",
+      "text": "A homogén rendszer makroszkópikus szinten nem mutat belső határfelületeket vagy különbségeket. Például egy cukorszirup vízben tökéletesen egyenletes összetételű, függetlenül attól, melyik részéből veszünk mintát. A homogén rendszerek jellegzetes tulajdonsága, hogy az anyag összes része azonos összetételű és fizikai jellemzőkkel bír."
+    },
+    {
+      "id": 19,
+      "term": "Mit jelent az, hogy egy rendszer heterogén?",
+      "definition": "A heterogén rendszer több fázisból áll, amelyek egymástól határozottan elválnak határfelülettel.",
+      "quote": "Többfázis, látható határok között",
+      "text": "A heterogén rendszerek jól megfigyelhetőek makroszkópikus szinten. Az olaj és a víz, a homok és a kő, vagy a vércsapatok a vérben heterogén rendszerre példák. Az egyes fázisok eltérő összetételű, és gyakran eltérő fizikai állapotú is. A heterogén rendszerek összetevői általában fizikai módszerrel szétválaszthatók."
+    },
+    {
+      "id": 20,
+      "term": "Hogyan lehet egy heterogén rendszert homogénné tenni?",
+      "definition": "Ha a rendszer összetevői képesek elegyedni, megfelelő körülmények között (például melegítés, kevés oldószer) homogén oldatot lehet képezni.",
+      "quote": "Oldás vagy keveredés elősegítése",
+      "text": "Például ha sóoldatot elkészítünk, a szilárd só és a víz elkeveredik, homogén oldat képződik. Viszont az olaj és a víz nem keveredik még megfelelő körülmények között sem, ezért heterogén marad. Az elegyedés lehetőségét az anyagok polaritása határozza meg."
+    },
+    {
+      "id": 21,
+      "term": "Mire használjuk a 'tiszta anyag' kifejezést?",
+      "definition": "A tiszta anyag olyan homogén anyag, amely egy kémiailag azonos komponensből (elem vagy vegyület) áll, meghatározott összetétellel.",
+      "quote": "Egy komponens, azonos mindig",
+      "text": "A desztillált víz tiszta anyag, a közönséges víz azonban nem, mert ionokat és egyéb anyagokat tartalmaz. Az eljárásos tisztítás révén lehet tiszta anyagot előállítani. Az anyag tisztasága fontos a kémiai kísérletekben, mivel az összetevők befolyásolhatják a vizsgálat eredményeit."
+    },
+    {
+      "id": 22,
+      "term": "Milyen alapelv alapján csoportosítjuk az anyagokat?",
+      "definition": "Az anyagokat komponensek száma és fázisok száma szerint lehet csoportosítani.",
+      "quote": "Komponensek és fázisok alapján",
+      "text": "Ez a rendszer lehetővé teszi az anyagok logikus és szisztematikus klasszifikációját. A komponensek száma meghatározza, hogy elemről, vegyületről vagy keverékről van-e szó. A fázisok száma azt jelzi, hogy homogén vagy heterogén a rendszer. Ez a megközelítés segít az anyagok azonosításában és tulajdonságainak megértésében."
+    }
+  ]
+}

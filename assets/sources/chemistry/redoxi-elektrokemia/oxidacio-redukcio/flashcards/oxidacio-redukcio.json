@@ -1,0 +1,186 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Redoxireakció",
+      "definition": "Elektronátmenettel járó kémiai reakció, amelyben az egyik részecske elektronokat vesz fel, a másik pedig lead.",
+      "quote": "elektronátmenettel járó folyamat",
+      "text": "A redoxireakciók két részfolyamatra oszthatók: oxidációra (elektronleadás) és redukcióra (elektronfelvétel). Ez egyidejűleg és egyenlő mennyiségű elektronnal történik. Az elektront leadó részecske a redukálószer, amely oxidálódik. Az elektront felvevő részecske az oxidálószer, amely redukálódik."
+    },
+    {
+      "id": 2,
+      "term": "Oxidáció",
+      "definition": "Az a folyamat, amikor egy atom, ion vagy molekula elektronokat ad le, vagyis oxidációs száma növekszik.",
+      "quote": "elektronleadás és oxidációs szám növekedés",
+      "text": "Az oxidáció során a részecske elektronokat veszít el. Ezt másként oxidációs szám növekedésének is nevezzük. Az oxidációt végrehajtó anyag a redukálószer. Például: Mg → Mg2+ + 2e–. A magnézium atom 2 elektronatot leadott, ezért oxidálódott."
+    },
+    {
+      "id": 3,
+      "term": "Redukció",
+      "definition": "Az a folyamat, amikor egy atom, ion vagy molekula elektronokat vesz fel, vagyis oxidációs száma csökken.",
+      "quote": "elektronfelvétel és oxidációs szám csökkentés",
+      "text": "A redukció során a részecske elektronokat nyer el. Ezt másként oxidációs szám csökkentésének is nevezzük. A redukciót végrehajtó anyag az oxidálószer. Például: Cl2 + 2e– → 2Cl–. A klórmolekula 2 elektronatot vett fel, ezért redukálódott."
+    },
+    {
+      "id": 4,
+      "term": "Redukálószer",
+      "definition": "Az a részecske, amely a redoxireakcióban elektronokat ad le és ezáltal oxidálódik.",
+      "quote": "elektronokat lead és oxidálódik",
+      "text": "A redukálószer az az anyag, amely elektronokat adományoz más részecskéknek. A redukálószer oxidálódik a folyamatban. Megjelölése a sav-bázis kémiában hasonló: az erősebb redukálószer kiszorítja a gyengébbet. A magnézium és a klór reakciójában a Mg a redukálószer."
+    },
+    {
+      "id": 5,
+      "term": "Oxidálószer",
+      "definition": "Az a részecske, amely a redoxireakcióban elektronokat vesz fel és ezáltal redukálódik.",
+      "quote": "elektronokat vesz fel és redukálódik",
+      "text": "Az oxidálószer az az anyag, amely elektronokat fogad fel más részecskéktől. Az oxidálószer redukálódik a folyamatban. Megjelölése ugyanaz a logika, mint a redukálószernél: az erősebb oxidálószer kiszorítja a gyengébbet. A magnézium és a klór reakciójában a Cl2 az oxidálószer."
+    },
+    {
+      "id": 6,
+      "term": "Oxidációs szám (oxidációs állapot)",
+      "definition": "Az az érték, amely megmutatja, mennyivel tér el az elektronok száma egy adott atom közvetlen környezetében az atom vegyértékelektronjainak számától.",
+      "quote": "elektronok száma vegyértékhez képest",
+      "text": "Az oxidációs szám azt mutatja meg, hogy egy adott atom mennyire elektronhiányos vagy elektronfelesleges az adott vegyületben. Elektronleadáskor (oxidáció) az oxidációs szám nő, elektronfelvételkor (redukció) csökken. Az oxidációs szám lehet pozitív, negatív vagy nulla is."
+    },
+    {
+      "id": 7,
+      "term": "Oxidációs szám szabályok – elemekben",
+      "definition": "Az elemi formában levő elemek oxidációs száma mindig nulla.",
+      "quote": "elemi elem oxidációs száma = 0",
+      "text": "Bármely elem, amely még nem alakult át vegyületben vagy ionban, nulla oxidációs számmal rendelkezik. Például: Cl2 molekulában a klór oxidációs száma 0, Na szabad formában 0, O2 molekulában az oxigén 0. Ez az alapszabály, amelyből induljunk ki az oxidációs számok meghatározása során."
+    },
+    {
+      "id": 8,
+      "term": "Oxidációs szám szabályok – egyszerű ionok",
+      "definition": "Az egyszerű ionok oxidációs száma megegyezik az ion töltésével.",
+      "quote": "ion töltése = oxidációs szám",
+      "text": "Amennyiben csak egyetlen atomból áll az ion, akkor annak oxidációs száma azonos az ion teljes töltésével. Például: Mg2+ ionban a magnézium oxidációs száma +2, Cl– ionban a klór oxidációs száma –1, Al3+ ionban az alumínium oxidációs száma +3."
+    },
+    {
+      "id": 9,
+      "term": "Oxidációs szám szabályok – vegyületek",
+      "definition": "Egy vegyületben az összes atom oxidációs számainak összege nulla.",
+      "quote": "összes oxidációs szám összege = 0",
+      "text": "Egy semleges vegyületben az összes benne szereplő elem oxidációs számainak algebrai összege nulla. Például CrCl3-ban a három klór (–1 × 3 = –3) és a króm oxidációs száma (+3) összege nullára adódik. Ez a szabály segít meghatározni az ismeretlen oxidációs számú elemek értékét."
+    },
+    {
+      "id": 10,
+      "term": "Oxidációs szám szabályok – összetett ionok",
+      "definition": "Egy összetett ion esetén az összes atom oxidációs számainak összege megegyezik az ion töltésével.",
+      "quote": "oxidációs szám összeg = ion töltés",
+      "text": "Ha az ion több atomból áll, akkor az összes atom oxidációs számainak összege az ion töltésével egyenlő. Például AlF63– ionban a hat fluor (–1 × 6 = –6) és az alumínium oxidációs száma (+3) összege –3-ra adódik. Ez kiterjesztése a vegyületekre vonatkozó szabálynak."
+    },
+    {
+      "id": 11,
+      "term": "Fluor oxidációs száma",
+      "definition": "A fluor a legnegatívabb elem, oxidációs száma vegyületeiben mindig –1.",
+      "quote": "fluor oxidációs száma = –1",
+      "text": "A fluor elemszinten a legerősebb oxidálószer, ezért vegyületeiben mindig az elektronokat veszi fel. Oxidációs száma így minden vegyületben –1. Nincs kivétel erre az elemre vonatkozóan, még a peroxidok vagy fluoridok esetén sem."
+    },
+    {
+      "id": 12,
+      "term": "Alkálifémek oxidációs száma",
+      "definition": "Az I. főcsoport elemei (alkálifémek: Li, Na, K, Rb, Cs) vegyületeiben +1 az oxidációs számuk.",
+      "quote": "alkálifémek oxidációs száma = +1",
+      "text": "Az alkálifémek mindegyike vegyületeiben csak +1 oxidációs számmal fordul elő. Ez azért van, mert a legkülső elektronhéjukon egy elektront tartalmaznak, amelyet szívesen leadnak. Például: NaCl-ban a Na oxidációs száma +1, KF-ban a K oxidációs száma +1."
+    },
+    {
+      "id": 13,
+      "term": "Alkáliföldfémek oxidációs száma",
+      "definition": "A II. főcsoport elemei (alkáliföldfémek: Be, Mg, Ca, Sr, Ba) vegyületeiben +2 az oxidációs számuk.",
+      "quote": "alkáliföldfémek oxidációs száma = +2",
+      "text": "Az alkáliföldfémek vegyületeiben mindig +2 az oxidációs szám, mivel két elektront adnak le. Például: MgCl2-ban a Mg oxidációs száma +2, CaF2-ben a Ca oxidációs száma +2. Ez az alkálifémekhez hasonlóan szinte 100% megbízható szabály."
+    },
+    {
+      "id": 14,
+      "term": "Oxigén oxidációs száma",
+      "definition": "Az oxigén vegyületeiben –2 az oxidációs száma, kivéve a peroxidokban, ahol –1.",
+      "quote": "oxigén = –2, peroxidban –1",
+      "text": "Az oxigén a legtöbb vegyületben –2 oxidációs számmal fordul elő, mivel két elektronatot vesz fel. Kivétel a peroxidok (O-O kötést tartalmazó vegyületek, pl. H2O2), ahol az oxigén –1 oxidációs számú, mert a peroxid-ionban a két oxigénatom között egyszeres kötés van."
+    },
+    {
+      "id": 15,
+      "term": "Hidrogén oxidációs száma normál vegyületekben",
+      "definition": "A hidrogén normál vegyületeiben +1 az oxidációs száma.",
+      "quote": "hidrogén általában = +1",
+      "text": "A legtöbb vegyületben a hidrogén +1 oxidációs számmal fordul elő, mivel egy elektronatot ad le és pozitív ionként viselkedik. Például: H2O-ban, H2SO4-ban, HCl-ban a H oxidációs száma +1. Ez az elektropozitív elemek esetén általános."
+    },
+    {
+      "id": 16,
+      "term": "Hidrogén oxidációs száma fém-hidridekben",
+      "definition": "A fém-hidridekben (ionvegyületekben) a hidrogén –1 az oxidációs száma.",
+      "quote": "fém-hidridben H = –1",
+      "text": "Ha a hidrogén fémmel alkot vegyületet (ionvegyületben), akkor az elektronokat vesz fel, és –1 az oxidációs száma. Például: NaH (nátrium-hidrid) esetén az H oxidációs száma –1, mert a fém elektronját veszi fel. Ez a szabály azért érvényes, mert az ilyen vegyületekben a hidrogén elektropozitívabb elemet megelőzi."
+    },
+    {
+      "id": 17,
+      "term": "Oxidációs szám szerkezeti képletből",
+      "definition": "Néhány ritka esetben (pl. HCN) a standard szabályok nem segítenek, ilyenkor a szerkezeti képlet alapján meghatározzuk az oxidációs számokat.",
+      "quote": "szerkezeti képlet használata speciális esetben",
+      "text": "Ha a szabályok nem ad egyedi megoldást, rajzoljuk meg a molekula szerkezeti képletét elektronpárokkal. Az egyes kötéseket az elektronegativitás alapján a nagyobb értékű elemhez rendeljük. Így egyszerű ionokat alakítunk ki, és azok töltéséből adódik az oxidációs szám. Például HCN-ben ez szükséges lehet."
+    },
+    {
+      "id": 18,
+      "term": "Mg és Cl2 redoxireakciója",
+      "definition": "A magnézium és a klórgáz között lejátszódó redoxireakció: Mg + Cl2 → MgCl2",
+      "quote": "Mg: oxidáció, Cl2: redukció",
+      "text": "Ebben az alapvető redoxireakcióban a Mg atomok elektronokat adnak át a Cl2 molekuláknak. Oxidációs folyamat: Mg → Mg2+ + 2e–. Redukciós folyamat: Cl2 + 2e– → 2Cl–. A magnézium redukálószer (oxidálódik), a klór az oxidálószer (redukálódik)."
+    },
+    {
+      "id": 19,
+      "term": "Redukálószer és oxidálószer függetlensége",
+      "definition": "Ugyanaz az anyag lehet egyes reakciókban oxidálószer, más folyamatokban pedig redukálószer, ez a réakciópartner típusától függ.",
+      "quote": "szerepe függ a partneranyagtól",
+      "text": "Az anyag feladata (oxidálószer vagy redukálószer szerepe) nem csak az anyag tulajdonságaitól, hanem a másik reagálóanyagtól is függ. Például az ózon erős oxidálószer, de megfelelő körülmények között maga is redukálódhat. A vasat oxidálószerként vagy redukálószerként is alkalmazhatjuk."
+    },
+    {
+      "id": 20,
+      "term": "Erősebb redukálószer",
+      "definition": "Erősebb redukálószer az, amely szívesebben adja le elektronjait, vagyis könnyebben oxidálódik.",
+      "quote": "szívesebben adja le az elektronokat",
+      "text": "Azt mondjuk, hogy az A anyag erősebb redukálószer, mint a B, ha az A könnyebben tud elektronokat leadni. Ez azt jelenti, hogy az A még el tudja távolítani az elektronokat a B-ből. Megállapítható réakcióit tekintve: ha A kiszorítja B-ből az elektronokat, akkor A az erősebb."
+    },
+    {
+      "id": 21,
+      "term": "Redoxireakció spontánsága",
+      "definition": "Egy redoxireakció akkor játszódik le spontán módon, ha az erősebb redukálószer az erősebb oxidálószerrel kapcsolódik.",
+      "quote": "erős reduktor + erős oxidátor",
+      "text": "Ahhoz, hogy egy redoxireakció spontán végbemenjen, szükséges, hogy az elektronokat leadó anyag (erősebb redukálószer) és az elektronokat fogadó anyag (erősebb oxidálószer) között egyensúly alakuljon ki. Ha a fordított összetételűek vannak, a reakció nem megy végbe."
+    },
+    {
+      "id": 22,
+      "term": "Cink és réz kísérlet I.",
+      "definition": "Ha cinklemezt réz-szulfát oldatba merítünk, a cink oldódik és réz válik ki: Zn + Cu2+ → Zn2+ + Cu",
+      "quote": "cink oldódik, réz kiválik",
+      "text": "Ez a klasszikus redoxireakció-példa. A cinklemez felületén a cinkatomok oxidálódnak, a réz-ionok pedig redukálódnak. A cink jobb redukálószer (szívesebben leadja elektronjait), a réz-ion pedig jobb oxidálószer. Ez a kísérlet jól mutatja a redoxireakciók irányultságát."
+    },
+    {
+      "id": 23,
+      "term": "Cink és réz kísérlet II.",
+      "definition": "Ha rézlemezt cink-szulfát oldatba merítünk, nincs reakció: Zn2+ + Cu ↛",
+      "quote": "nincs reakció fordított esetben",
+      "text": "Ennek az az oka, hogy a réz gyengébb redukálószer, mint a cink. A réz nem tudja kiszorítani az elektronokat a cink-ionokból. Ez a kísérlet bizonyítja, hogy az erősebb redukálószer képes kiszorítani a gyengébbet. Megmutatja, hogy a redoxireakciók iránya jól meghatározott."
+    },
+    {
+      "id": 24,
+      "term": "Elektronátmenet követése",
+      "definition": "A redoxireakciókban az elektronátmenet nyomon követéséhez az oxidációs számok változásait vizsgáljuk.",
+      "quote": "oxidációs szám változásának nyomonkövetése",
+      "text": "Az elektronátmenet követésének leghatékonyabb módszere az oxidációs számok meghatározása a reakció kezdetén és végén. Az oxidációs szám növekedése az oxidációt, csökkentése a redukciót jelzi. A leadott elektronok száma egyenlő a felvett elektronok számával."
+    },
+    {
+      "id": 25,
+      "term": "Ionos vegyületek redoxireakciói",
+      "definition": "Az ionos vegyületekben az oxidációs számok meghatározása az ion töltéseiből közvetlenül adódik.",
+      "quote": "ion töltése közvetlen jelzés",
+      "text": "Ionvegyületekben az oxidációs számok könnyen meghatározhatók, mivel az egyszerű ionok oxidációs száma egyenlő az ion töltésével. Ez az oka annak, hogy az olyan klasszikus redoxireakciók, mint Mg + Cl2, könnyen követhetők és jó oktatási példák."
+    },
+    {
+      "id": 26,
+      "term": "Kovalens vegyületek és redoxireakciók",
+      "definition": "A kovalens vegyületekben az oxidációs számok meghatározása összetettebb, szerkezeti képletből kell kiindulni.",
+      "quote": "kovalens = szerkezet alapján",
+      "text": "A kovalens vegyületek redoxireakcióinál az oxidációs számokat az elektronegativitás alapján kell megállapítani. Az elektrónnegativitásabb elem kapja az elektront, így negatívabb oxidációs száma lesz. Ez összetettebb, de az eredmény így is könnyen követhető."
+    }
+  ]
+}

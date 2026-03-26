@@ -1,0 +1,158 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mit jelent a kristályrács?",
+      "definition": "A kristályrács a szilárd anyag részecskéinek szabályos háromdimenziós, térhálós szerkezete, amelyet térben megsokszorozva felépíthetünk az egész anyagot.",
+      "quote": "Szabályos térhálós szerkezet",
+      "text": "A kristályrács alapvető egysége az elemi cella, amely háromdimenziós alakzat. Az elemi cellát térben ismételve (mint a téglalap alakú csempéket) felépül az egész kristályszerkezet. A kristályrácsok szimmetriája és periodicitása adja az anyag karakterisztikus tulajdonságait."
+    },
+    {
+      "id": 2,
+      "term": "Mit nevezünk elemi cellának?",
+      "definition": "Az elemi cella egy olyan háromdimenziós alakzat, amelyet térben megsokszorozva felépíthetünk az egész kristályrácsot.",
+      "quote": "Térbeli ismétlődő alapegység",
+      "text": "Az elemi cella tartalmazza a kristályrácsban előforduló összes fajta atom vagy ion típust, megfelelő arányban. Az elemi cellák összeillesztésével (teljes térkitöltéssel) az egész makroszkópikus kristály felépül. Az elemi cellák szimmetriája meghatározza a kristály makroszkópikus tulajdonságait."
+    },
+    {
+      "id": 3,
+      "term": "Mi az a fémrács?",
+      "definition": "A fémrácsban a rácspontokon atomtörzsek helyezkednek el, amelyek fémes kötéssel kapcsolódnak össze: az elektronok delokalizálódnak, közös elektronfelhőt képeznek.",
+      "quote": "Atomok, fémes kötés, közös elektronok",
+      "text": "A fémes kötés az elektronok delokalizációja miatt keletkezik. Az atomok vegyértékelektronjai nem egyetlen atomhoz tartoznak, hanem az egész rácson szabadon mozognak. Ez az elektronmozgás adja a fémek jellegzetes tulajdonságait: elektromosvezetés, hővezetés, fémes csillogás. A fémes kötés erőssége széles határok között változhat, ezért vannak különböző olvadáspontú fémek."
+    },
+    {
+      "id": 4,
+      "term": "Mik az ionrácsok jellegzetességei?",
+      "definition": "Az ionrácsban a pozitív és negatív ionok váltakozva helyezkednek el, ionkötésekkel kapcsolódnak össze. Szilárd állapotban nem vezetik az áramot, de olvadékban vezetik.",
+      "quote": "Ionok váltakozva, ionkötés, nem vezet",
+      "text": "Az ionrácsos anyagok (például NaCl) szilárd halmazállapotban nem vezetik az elektromos áramot, mert az ionok rögzített helyeken vannak, nem mozoghatnak. Megolvasztva az ionok szabadon mozognak, és akkor vezetik az áramot. Olvadékban a töltött részecskék mozgásával lehetséges az elektromosvezetés."
+    },
+    {
+      "id": 5,
+      "term": "Mit értünk atomrács alatt?",
+      "definition": "Az atomrács olyan szerkezet, ahol a kovalens kötésekkel összekapcsolódó atomok nem molekulákat, hanem térhálós szerkezetet képeznek, amelyekben minden atom részt vesz.",
+      "quote": "Kovalens hálózat, minden atom összekapcsolódik",
+      "text": "Az atomrácsban az atomok közötti kovalens kötések folyamatosan összefüggő háromdimenziós szerkezetet hoznak létre. Klasszikus példák: gyémánt (szénből), szilícium. Az atomrácsok kiemelkedően magas olvadáspontúak és kemények, mert az erős kovalens kötéseket kell felbomlasztani az olvadáshoz."
+    },
+    {
+      "id": 6,
+      "term": "Mit jelent a molekularács?",
+      "definition": "A molekularácsban a rácspontokon molekulák (vagy nemesgázok szabad atomjai) helyezkednek el, másodrendű kémai kötésekkel összekötve.",
+      "quote": "Molekulák, gyenge másodrendű kötések",
+      "text": "A molekularácsos anyagok (például jég, szárazjég, molekuláris kristályok) alacsony olvadás- és forráspontúak, mert a másodrendű kötések sokkal gyengébbek az elsőrendű kötéseknél. Az ilyen anyagok közül sok közönséges körülmények között gás halmazállapotú. Példák: CO2, I2, nemesgázok szilárd formái."
+    },
+    {
+      "id": 7,
+      "term": "Mit értünk másodrendű kötésekről?",
+      "definition": "A másodrendű kötések a molekulák (vagy szabad atomok) között ható gyenge vonzó kölcsönhatások, amelyek erőssége a molekulák polaritásától és méretétől függ.",
+      "quote": "Gyenge vonzás molekulák között",
+      "text": "A másodrendű kötések három típusa: diszperziós, dipólus-dipólus és hidrogénkötés. Ezek sokkal gyengébbek a kovalens, ionos vagy fémes kötéseknél. A másodrendű kötések csak szilárd és folyadék fázisban jelentősek; gázban már nem léteznek. Az anyagok olvadáspontja és forraspontja elsősorban ezektől a kötésektől függ."
+    },
+    {
+      "id": 8,
+      "term": "Mit jelent a diszperziós kölcsönhatás?",
+      "definition": "A diszperziós kölcsönhatás az apoláris molekulák között vagy atomok között kialakul, a molekulák átmeneti polarizációja miatt.",
+      "quote": "Apoláris molekulák, leggyengébb másodrendű",
+      "text": "A diszperziós kölcsönhatás azért jön létre, mert az elektronok eloszlása a molekulában vagy atomban átmenetileg inhomogénné válik, töltéseloszlás keletkezik. Ez az egyik molekulát polarizálja a szomszédban, és ezt követően vonzás alakul ki köztük. Ez a leggyengébb másodrendű kötés, mivel az átmeneti polarizáció gyengén hat."
+    },
+    {
+      "id": 9,
+      "term": "Mit jelent a dipólus-dipólus kölcsönhatás?",
+      "definition": "A dipólus-dipólus kölcsönhatás a poláris molekulák között jön létre, amikor az ellentétes polaritású részek (pozitív és negatív vég) rendeződnek egymás felé.",
+      "quote": "Poláris molekulák, állandó dipólus",
+      "text": "A poláris molekulák már alapvetően dipólussá (pozitív és negatív végű) vannak. A kristályrácsban a molekulák úgy rendeződnek, hogy az ellentétes töltésű részek vonzanak. A dipólus-dipólus kölcsönhatás erősebb a diszperziós kölcsönhatásnál, de gyengébb a hidrogénkötésnél. Az azonos molekulatömeggel rendelkező anyagok között a dipólus-dipólus kölcsönhatású vegyületek magasabb forraspontúak."
+    },
+    {
+      "id": 10,
+      "term": "Mit jelent a hidrogénkötés?",
+      "definition": "A hidrogénkötés az egyik legfontosabb másodrendű kötés: az elektronhiányos hidrogén (amely O, N vagy F atomhoz kapcsolódik) és másik molekula O, N vagy F atomjának nemkötő elektronpárja között alakul ki.",
+      "quote": "H-O/N/F...O/N/F: legerősebb másodrendű",
+      "text": "A hidrogénkötés feltétele, hogy a hidrogén közvetlenül O, N vagy F atomhoz kapcsolódjon az egyik molekulában, és másik molekulában legyen egy O, N vagy F atom nemkötő elektronpárjával. Például a vízben a H-O...H-O hidrogénkötések a szokatlan nagy forraspontot okozzák. A hidrogénkötés erősebb a dipólus-dipólus kölcsönhatásnál, de még mindig sokkal gyengébb az elsőrendű kötéseknél."
+    },
+    {
+      "id": 11,
+      "term": "Miért van hidrogénkötés a vízben?",
+      "definition": "A vízben hidrogénkötés van, mert a hidrogén közvetlenül az elektronegativ oxigénhez kapcsolódik, és ugyanebben a molekulában vagy másik vízmolekulában oxigén nemkötő elektronpárjai vannak.",
+      "quote": "H2O: elektronegativ O, hidrogénkötés",
+      "text": "A víz H-O (hidrogén-oxigén) kötésében az oxigén nagy elektronegativitása miatt az elektronpár a fele felé tolódik, így elektronhiányos hidrogén keletkezik. Ez vonzza az oxigén nemkötő elektronpárjait más vízmolekulákban. Ez a hidrogénkötés az oka a víz anomális magas forraspontjának, felületi feszültségének és számos egyéb tulajdonságának."
+    },
+    {
+      "id": 12,
+      "term": "Milyen anyagok között nem alakul ki hidrogénkötés?",
+      "definition": "Hidrogénkötés nem alakul ki, ha a hidrogén nem O, N vagy F atomhoz kapcsolódik. Például H2, HBr, CH4 molekulák között nincs hidrogénkötés.",
+      "quote": "H-O/N/F kell: más H nem képez",
+      "text": "Bár bizonyos hidrogén-halogenid molekulákban vannak O, N vagy F atomok, ha azok nem közvetlenül a hidrogénhez kapcsolódnak, hidrogénkötés nem alakul ki. A hidrogénkötés feltételei szigorúak: a hidrogén elektronegativ atomhoz (O, N, F) kell, hogy kötött legyen, és másik molekulában legyen O, N vagy F nemkötő elektronpárja."
+    },
+    {
+      "id": 13,
+      "term": "Mi az amorf anyag?",
+      "definition": "Az amorf anyag olyan szilárd, amelynek nincs szabályos kristályszerkezete, hanem szabálytalan (amorif) rácsszerkezete van.",
+      "quote": "Nincs rend, szabálytalan szerkezet",
+      "text": "Az amorf anyagok olyan körülmények között keletkeznek, amikor nincs idő a szabályos kristályszerkezet kialakulására (például olvadt anyag hirtelen lehűtéskor) vagy szennyezések jelenlétében. Az amorf anyagok fizikai tulajdonságaiban eltérnek a kristályos anyagoktól: nyúlósabbak, kevésbé törékenyek. Az üveg egy klasszikus amorf anyag."
+    },
+    {
+      "id": 14,
+      "term": "Mit jelent a rétegrács?",
+      "definition": "A rétegrács olyan szerkezet, ahol az atomok síkokba rendeződnek, amelyeken belül kovalens kötésekkel kapcsolódnak, de a síkok között delokalizált elektronok vannak (fémes szerkezethez hasonló).",
+      "quote": "Sík szénatomok, közöttük elektron",
+      "text": "A grafit egy rétegrácsú anyag. A szénatomok síkokba rendeződnek, a síkokon belül erős sp2 kovalens kötésekkel kapcsolódnak, de a síkok között delokalizált pi-elektronok vannak. Ez az elektron-délokalizáció az oka, hogy a grafit elektromosan vezeti az áramot, pedig szénből áll, amely általában rossz vezető. A rétegek között a kötések gyengék (van der Waals), ezért a grafit könnyen pattogható."
+    },
+    {
+      "id": 15,
+      "term": "Milyen rácsok között vannak a legmagasabb olvadáspontú anyagok?",
+      "definition": "Az atomrácsú anyagok (például gyémánt, szilícium) a legmagasabb olvadáspontúak, mert az erős kovalens kötéseket kell felbomlasztani az olvadáshoz.",
+      "quote": "Atomrács: erős kötés, magas olvadáspont",
+      "text": "Az atomrácsos anyagok olvadáspontja kiemelkedően magas (például gyémánt: 3823 K). Ez azért van, mert az egész szerkezet egy nagy molekulának tekinthető, amelyet erős kovalens kötések tartanak össze. Az olvadáshoz a kovalens kötések egy részét fel kell bomlasztani, ami rendkívül energiaigényes. Az ionrácsos anyagok is magas olvadáspontúak, de általában nem olyan extrém magas."
+    },
+    {
+      "id": 16,
+      "term": "Hogyan magyarázható a fémek elektromosvezetése?",
+      "definition": "A fémek elektromos vezetőképessége az elektronok delokalizációja miatt lehetséges, amely a fémes kötésben adódik.",
+      "quote": "Szabadon mozgó elektronok vezetnek",
+      "text": "A fémekbe az atomok vegyértékelektronjai nem kötöttek egyetlen atomhoz sem, hanem 'elektronfelhőt' képeznek az egész rácson. Ez az elektronmozgás lehetővé teszi az elektromos áram vezetését. Az elektromos tér hatására az elektronok egy irányba mozognak, így áram keletkezik. Az ionvegyületek szilárd állapotban nem vezetnek, mert az ionok helyhez kötöttek, csak az olvadékban vezetnek."
+    },
+    {
+      "id": 17,
+      "term": "Miért nem vezetik az ionvegyületek az áramot szilárd halmazállapotban?",
+      "definition": "Az ionvegyületek szilárd állapotban nem vezetik az áramot, mert az ionok a kristályrácsban rögzített helyeken vannak, nem mozdulhatnak el.",
+      "quote": "Ionok fixek, nem mozoghatnak",
+      "text": "Az elektromos áram vezetéséhez mozgó töltéshordozók szükségesek. Szilárd ionvegyületben az ionok helyhez kötöttek, nem tudnak mozogni. Megolvasztva vagy oldatban az ionok szabadon mozoghatnak, és akkor vezetik az áramot. Ez az egyik lehetőség az ionok és molekulák közötti különbségtételre."
+    },
+    {
+      "id": 18,
+      "term": "Hogyan függ az olvadáspont a rácstípustól?",
+      "definition": "Az olvadáspont az atomok/ionok közötti kötés típusától függ: atomrács > ionrács > fémrács > molekularács (általános sorrend).",
+      "quote": "Kötés erőssége: rácstípus & olvadáspont",
+      "text": "Az atomrácsú anyagok (például SiO2: 1710°C) általában a legmagasabb olvadáspontúak. Az ionrácsú anyagok (NaCl: 801°C) szintén magasak. A fémek olvadáspontja nagy eltéréseket mutat (higany: -39°C, volfrám: 3650°C), de általában szintén magas. A molekularácsos anyagok (például O2: -218°C) a legalacsonyabb olvadáspontúak. Az olvadáspont az anyagrészecskéket összefogó erőktől, azaz a kötések erősségétől függ."
+    },
+    {
+      "id": 19,
+      "term": "Milyen szerepe van a másodrendű kötéseknek az anyagok tulajdonságaiban?",
+      "definition": "A másodrendű kötések meghatározzák a molekularácsos anyagok olvadás- és forráspontját, valamint számos más fizikai tulajdonságát.",
+      "quote": "Másodrendű kötések: olvadáspont, forráspont",
+      "text": "Bár a másodrendű kötések sokkal gyengébbek az elsőrendű kötéseknél, ezek az egyetlen kölcsönhatások a molekularácsos anyagok részecskéi között. Ezért az ezekben az anyagoknak az olvadás- és forraspontja kizárólag a másodrendű kötések erősségétől függ. Például a hidrogénkötésnek köszönhetően a víz sokkal magasabb forraspontú, mint a hasonló molekulatömegű H2S (vízszulfid)."
+    },
+    {
+      "id": 20,
+      "term": "Melyik hidrogén-halogenid-ből hiányzik a hidrogénkötés?",
+      "definition": "A hidrogén-halogenidek (HF, HCl, HBr, HI) közül az HF-ben van hidrogénkötés (F elektronegativ), de HCl, HBr, HI-ben csak dipólus-dipólus kölcsönhatás.",
+      "quote": "HF: hidrogénkötés, HCl/HBr/HI: dipólus-dipólus",
+      "text": "Bár az összes hidrogén-halogenidben van kovalens H-halogen kötés, csak HF-ben alakul ki hidrogénkötés másik HF molekulával, mert az F atom kellően elektronegativ. A HCl, HBr, HI molekulák között csak dipólus-dipólus kölcsönhatás van. Ez az oka, hogy HF forraspontja (+19,5°C) lényegesen magasabb, mint HCl (-85°C), bár az ionos karaktere és polaritása kisebb."
+    },
+    {
+      "id": 21,
+      "term": "Hogyan befolyásolja a molekulaméretedetés a másodrendű kötések erősségét?",
+      "definition": "Nagyobb molekulák nagyobb felszínnel rendelkeznek, amely nagyobb diszperziós kölcsönhatást eredményez.",
+      "quote": "Nagyobb molekula: erősebb diszperzió",
+      "text": "A diszperziós kölcsönhatás erőssége a molekulafelszíntől függ. Nagyobb molekulák több elektronnal rendelkeznek, nagyobb felszínnel, és így az átmeneti polarizáció erősebb lehet. Ezért például a hosszabb szénhidrogének (például bután, pentán) magasabb forráspontúak, mint a rövidebb (metán, etán), függetlenül az azonos típusú másodrendű kötésektől."
+    },
+    {
+      "id": 22,
+      "term": "Mit jelent az üveggé alakulás?",
+      "definition": "Az üveggé alakulás az a folyamat, amikor egy folyadék hirtelen lehűtéskor merevvé válik anélkül, hogy kristályosodna, így amorf szerkezetű szilárd (üveg) képződik.",
+      "quote": "Folyadékból amorf szilárddá: üveg",
+      "text": "Az üveggé alakulás előfordul olyan anyagokkal, amelyeknek a kristályosodása nehezen indul meg, illetve szennyezések jelenlétében is meggátolható a kristályosodás. Az üveg szó nem mindig szilika-alapú üveget jelent; bármilyen amorf szilárd lehet üveg. Az üveggé alakulás jól mutatja, hogy az anyag szerkezete jelentősen befolyásolja a fizikai tulajdonságokat: az amorf és kristályos víz (jég) teljesen más tulajdonságokkal rendelkezik."
+    }
+  ]
+}

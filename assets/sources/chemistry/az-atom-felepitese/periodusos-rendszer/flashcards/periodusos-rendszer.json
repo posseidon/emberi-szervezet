@@ -1,0 +1,179 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi a periódusos rendszer alapjául szolgáló elv?",
+      "definition": "A periódusos rendszer az elemek növekvő rendszám (protonszám) szerint rendezett táblázata, amely a hasonló elektronszerkezetű és kémiai tulajdonságú elemeket egymás alá helyezi.",
+      "quote": "Rendszám növekvő, hasonló alatt",
+      "text": "Mengyelejev (1834-1907) az atomtömeg alapján szervezte az elemeket, azonban a mai periódusos rendszer a rendszám alapján rendezett. Az egymás alatt levő elemeknek hasonló a vegyértékelektron-szerkezetük, ezért hasonló kémiai tulajdonságokat mutatnak."
+    },
+    {
+      "id": 2,
+      "term": "Hogyan rendszerezte Mengyelejev az elemeket?",
+      "definition": "Mengyelejev az elemeket növekvő atomtömeg szerint rendezte sorba, és a hasonló tulajdonságokkal rendelkező elemeket egymás alá helyezte (például az alkálifémeket).",
+      "quote": "Atomtömeg: első szisztém",
+      "text": "Ez az eredeti megközelítés néhány helyen eltér az atomtömeg szerinti sorrendtől, mert az elektronszerkezet és a kémiai tulajdonságok az atomtömegénél fontosabbak voltak. Mengyelejev tehát a hasonlóság alapján módosított az szigorú sorrenden."
+    },
+    {
+      "id": 3,
+      "term": "Mitől lesz azonos az egyes csoportokba tartozó elemek kémiai tulajdonsága?",
+      "definition": "Az egymás alatt levő elemek elektronszerkezete hasonló, különösen a vegyértékelektronok száma azonos, ezért kémiai tulajdonságaik is hasonlóak.",
+      "quote": "Elektron szerkezet: química hasonló",
+      "text": "Az alkálifémek mind egy vegyértékelektronnal rendelkeznek a legkülső s orbitálon (ns¹). A halogének mind egy elektronnal kevesebben vannak a lezárt alhéjnál (np⁵). Ez az elektronszerkezet-hasonlóság magyarázza meg a kémiai viselkedésben tapasztalható analógiákat."
+    },
+    {
+      "id": 4,
+      "term": "Mi az s-mező a periódusos rendszerben?",
+      "definition": "Az s-mező azoknak az elemeknek felel meg, amelyeknek a legkülső alhéja s típusú (1s, 2s, 3s, stb.), és az I. és II. főcsoportot, valamint a hidrogént és héliumot tartalmazza.",
+      "quote": "Legkülső: s alhéj",
+      "text": "Az s-mezőben 2 oszlop található (mivel egy s alhéjon max. 2 elektron fér). A periódusos rendszer bal szélén helyezkedik el. Minden periódus s-mezővel kezdődik az 1s alhéj kivételével, amely már az első periódusban kit van töltve."
+    },
+    {
+      "id": 5,
+      "term": "Mi a p-mező a periódusos rendszerben?",
+      "definition": "A p-mező azoknak az elemeknek felel meg, amelyeknek a legkülső alhéja p típusú (2p, 3p, 4p, stb.), és az III-VIII. főcsoportokat tartalmazza.",
+      "quote": "Legkülső: p alhéj",
+      "text": "A p-mezőben 6 oszlop található (mivel egy p alhéjon max. 6 elektron fér). A periódusos rendszer jobb szélén helyezkedik el. Az I-VIII. főcsoport összes eleme a p-mezőben végződik, a nemesgázok pedig a p-mező utolsó oszlopában helyezkednek el."
+    },
+    {
+      "id": 6,
+      "term": "Mi az s és p mezőbeli elemek közös megnevezése?",
+      "definition": "Az s és p mező oszlopait főcsoportoknak nevezzük, mivel jelentősebb kémiai köztömutatnak és jól definiált elektron konfigurációval rendelkeznek.",
+      "quote": "s és p: főcsoport",
+      "text": "A főcsoportok közül sok nevet kapott: alkálifémek (I), alkáliföldfémek (II), földfémek (III), széncsoport (IV), nitrogéncsoport (V), oxigéncsoport (VI), halogének (VII), nemesgázok (VIII). Ezek az elnevezések a kémiai viselkedésből fakadnak."
+    },
+    {
+      "id": 7,
+      "term": "Mi az I. főcsoport és melyek az alkálifémek?",
+      "definition": "Az I. főcsoport azok az elemek, amelyek egy vegyértékelektronnal rendelkeznek az s orbitálon (ns¹). Az alkálifémek a hidrogén kivételével az I. főcsoport elemei (Li, Na, K, Rb, Cs, Fr).",
+      "quote": "Egy s elektron: alkálifém",
+      "text": "Az alkálifémek erősen reaktívak, mivel könnyen leadják az egyetlen vegyértékelektronjukat, hogy nemesgázszerkezetet érjenek el. Lágy fémek, alacsony olvadáspontúak és nagy elektronreaktivitásúak. A hidrogén bár az I. főcsoportban van, nem alkálifém."
+    },
+    {
+      "id": 8,
+      "term": "Mi az II. főcsoport és melyek az alkáliföldfémek?",
+      "definition": "Az II. főcsoport azok az elemek, amelyek két vegyértékelektronnal rendelkeznek az s orbitálon (ns²). Az alkáliföldfémek az II. főcsoport elemei (Be, Mg, Ca, Sr, Ba, Ra).",
+      "quote": "Két s elektron: alkáliföldfém",
+      "text": "Az alkáliföldfémek rélatíve reaktívak, mivel könnyen leadják a két vegyértékelektronjukat, hogy nemesgázszerkezetet érjenek el. Sárgított fémek, középemagas olvadáspontúak. A magnézium és kalcium biológiai szempontból fontosak."
+    },
+    {
+      "id": 9,
+      "term": "Mi a VII. főcsoport és melyek a halogének?",
+      "definition": "A VII. főcsoport azok az elemek, amelyek hét vegyértékelektronnal rendelkeznek (ns² np⁵). A halogének a VII. főcsoport elemei (F, Cl, Br, I, At).",
+      "quote": "Hét p elektron: halogén",
+      "text": "A halogének erősen reaktívak, mivel csak egy elektronra van szükségük az nemesgázszerkezet eléréséhez. Nem fémek, gyakran molekuláris formában fordulnak elő (F₂, Cl₂, stb.). A fluor a legvetőbb, az összes elem közül a legreaktívabb."
+    },
+    {
+      "id": 10,
+      "term": "Mi a VIII. főcsoport és melyek a nemesgázok?",
+      "definition": "A VIII. főcsoport azok az elemek, amelyeknek teljes nemesgázszerkezetük van (ns² np⁶ vagy csak 1s² a hélium esetében). A nemesgázok a VIII. főcsoport elemei (He, Ne, Ar, Kr, Xe, Rn).",
+      "quote": "Teljes alhéj: nemesgáz",
+      "text": "A nemesgázok nagyon stabil, nem reaktív elemek. Semmi ionokat nem képeznek, kovalens kötéseket sem szívesen. A hélium kivétel, mert az 1s alhéjában csak 2 elektron van (teljes az adott héjon), de nem tekinthető valódi nemesgáznak az elektronszerkezete miatt."
+    },
+    {
+      "id": 11,
+      "term": "Mi a d-mező és mely elemek tartoznak rá?",
+      "definition": "A d-mező azoknak az elemeknek felel meg, amelyeknek a legkülső alhéja d típusú (3d, 4d, 5d, stb.), és az átmenetifémek, valamint az egyéb d-mezőbeli elemek helyezkednek el.",
+      "quote": "Legkülső: d alhéj",
+      "text": "A d-mezőben 10 oszlop található (mivel egy d alhéjon max. 10 elektron fér). Az átmenetifémek nagy része itt helyezkedik el (Fe, Cu, Zn, stb.). Ezek az elemek változatos oxidációs állapotokat mutatnak és sokféle szín komplex ion képeznek."
+    },
+    {
+      "id": 12,
+      "term": "Mi az f-mező és mely elemek tartoznak rá?",
+      "definition": "Az f-mező azoknak az elemeknek felel meg, amelyeknek a legkülső alhéja f típusú (4f, 5f, stb.), és az lantanidák valamint az aktinidák helyezkednek el.",
+      "quote": "Legkülső: f alhéj",
+      "text": "Az f-mezőben 14 oszlop található (mivel egy f alhéjon max. 14 elektron fér). Az f-mező elemei általában alul helyezkednek el a periódusos rendszeren. Az aktinidák közül sok radioaktív, és az örmunicipiális felhasználások miatt fontosak."
+    },
+    {
+      "id": 13,
+      "term": "Mik a mellékcsoportok és hol helyezkednek el?",
+      "definition": "A mellékcsoportok a d és f mezőbeli elemek oszlopai, amelyeknek a legkülső alhéja d vagy f típusú. A d mezőbeli mellékcsoportok az átmenetifémeket tartalmazzák.",
+      "quote": "d és f alhéj: mellékcsoport",
+      "text": "A mellékcsoportok között különleges helyet foglal el az VIII/b mellékcsoport (a vascsoport: Fe, Co, Ni), valamint a rézcsoport (I/b) és a cinkcsoport (II/b). Az átmenetifémek (d-mező) kulcsszerepet játszanak az ipari folyamatokban és a biológiai rendszerekben."
+    },
+    {
+      "id": 14,
+      "term": "Hogyan változik az atomsugár a periódusos rendszerben?",
+      "definition": "Az atomsugár egy oszlopon belül fentről lefelé nő (új héj nyílódik meg), és egy perióduson belül balról jobbra csökken (több proton azonos héjon).",
+      "quote": "Lefelé: nagyobb; jobbra: kisebb",
+      "text": "Az oszlopon belüli növekedés oka az új elektronhéjak megnyílása, amely közelebb van az elektronhoz. A perióduson belüli csökkentés oka az atommag erősebb vonzása a megoldódott elektronok felett. A két hatás közül az utóbbi az erősebbi az elektronszerkezetből adódóan."
+    },
+    {
+      "id": 15,
+      "term": "Miért csökken az atomsugár balról jobbra egy periódusban, bár több elektron van?",
+      "definition": "Az atomsugár csökkenése azért történik, mert a protonok számának növekedése (és így az atommag vonzása) erősebbnek bizonyul, mint az elektronok számának növekedése által okozott taszítás.",
+      "quote": "Vonzás > taszítás jobbra",
+      "text": "Az új elektronok ugyanarra a héjra kerülnek, így nem tapasztalnak nagy sugárnövekedést. Az atommag vonzásának erőssége azonban növekszik az extra protonok miatt. Az így megoldódó nettó hatás az atom szűkülése, így az atomsugár csökken."
+    },
+    {
+      "id": 16,
+      "term": "Miért nő hirtelen az atomsugár az új periódus kezdetén?",
+      "definition": "Az új periódus kezdetén az atomsugár hirtelen megnő, mert az új elektron egy addig üres és az atommagtól sokkal messzebb levő héjra kerül.",
+      "quote": "Új héj: nagy ugrás",
+      "text": "Például a Na (III. periódus, 186 pm) sokkal nagyobb, mint a Mg (II. periódus, 160 pm), bár csak egy szomszéd. A nátrium vegyértékelektrona már a 3. héjon helyezkedik el, míg a magnézium vegyértékelektronjai a 3. héjon, de még a 2. héj után."
+    },
+    {
+      "id": 17,
+      "term": "Hogyan változik az első ionizációs energia a periódusos rendszerben?",
+      "definition": "Az első ionizációs energia egy oszlopon belül felülről lefelé csökken (szomszédabb elektron), és egy perióduson belül balról jobbra nő (kemény vonzás, nehéz ionizálni).",
+      "quote": "Lefelé: kevesebb; jobbra: több",
+      "text": "Az oszlopon belüli csökkentés oka az elektron távolodása az atommagtól, így könnyebben leszakítható. A perióduson belüli növekedés oka a nagyobb pozitív töltés és az elektronok kedvezőtlenebb szerkezete. A nemesgázok magas ionizációs energiájúak, az alkálifémek alacsonyak."
+    },
+    {
+      "id": 18,
+      "term": "Miért nő az ionizációs energia balról jobbra egy periódusban?",
+      "definition": "Az ionizációs energia növekedésének oka, hogy ahogy jobbra haladunk a periódusban, az atommag vonzása erősödik, és az ionképződés az elektronszerkezetet kedvezőtlenebbé teszi.",
+      "quote": "Több proton = nehezebb ionizálni",
+      "text": "Egy periódusban az alkálifémek (I. főcsoport) legkönnyebben ionizálhatók, mert az elektron eltávolítása után nemesgázszerkezet alakul ki. Az V-VII. főcsoportban az ionizáció egyre nehezebbé válik, mivel az elektronszerkezet kedvezőtlenné válik. A nemesgázok gyakorlatilag nem ionizálhatók, mivel egy stabil szerkezet felbomlásához vezetne."
+    },
+    {
+      "id": 19,
+      "term": "Mi az elektronegativitás és mit mutat?",
+      "definition": "Az elektronegativitás (EN) azt mutatja meg, hogy egy atom kémiai kötésekben mennyire ragaszkodik az elektronjaihoz, azaz mekkora a tendenciája az elektronok vonzására.",
+      "quote": "Elektron vonzása a kötésben",
+      "text": "Az elektronegativitás nem mérhető közvetlenül, hanem más atomi tulajdonságokból számítják ki. Különböző skálák léteznek (Pauling-skála, Mulliken-skála, stb.), ezért egy elemnek különböző elektronegativitásértékei lehetnek a felhasznált módszertől függően."
+    },
+    {
+      "id": 20,
+      "term": "Hogyan változik az elektronegativitás a periódusos rendszerben?",
+      "definition": "Az elektronegativitás egy oszlopon belül felülről lefelé csökken, és egy perióduson belül balról jobbra nő, hasonlóan az ionizációs energia trendjéhez.",
+      "quote": "Lefelé: kevesebb; jobbra: több",
+      "text": "A fluor a legelektronegativabb elem (4,0 Pauling-skálán), az alkálifémek pedig alacsony elektronegativitásúak (0,7-1,0). Ez a trend érthető, ha figyelembe vesszük, hogy az elektronegativitás az elektront vonzó képességet méri, amely az ionizációs energiához hasonlóan változik."
+    },
+    {
+      "id": 21,
+      "term": "Mi a nemesgázok elektronszerkezete és tulajdonságai?",
+      "definition": "A nemesgázok teljes nemesgázszerkezettel rendelkeznek (minden alhéj amelyen van elektron, teljes), ezért nagyon stabil és nem reaktív elemek.",
+      "quote": "Stabil, nem reaktív gázok",
+      "text": "A nemesgázok (He, Ne, Ar, Kr, Xe, Rn) nem képeznek ionokat, semmi szívesen nem kötödnek otros elemekhez. A hélium az 1s² szerkezettel a legkisebb és a legreaktívabb a nemesgázok között (bár még így is nagyon stabil). Az argon a levegő legnagyobb komponensének 1%-a, a kripton és xenon ritka, az radon radioaktív."
+    },
+    {
+      "id": 22,
+      "term": "Miért speciális a hélium helyzete a periódusos rendszerben?",
+      "definition": "A hélium elektron szerkezete (1s²) alapján az s-mezőhöz tartozna, de tulajdonságai alapján a nemesgázok közé, a VIII. főcsoportba sorolják, bár a p-mezőn kívül helyezkedik el.",
+      "quote": "Szerkezet: s, tulajdonság: nemesgáz",
+      "text": "Ez egy kivétel a periódusos rendszer szabályaiban. A hélium 1s² szerkezete teljes, így nemesgázként viselkedik. Azonban a mai periódusos rendszer felépítéséből adódóan a nemesgázok fölé (a p-mezőben) helyezkedik el, hogy a szinkronizálást megtartsa."
+    },
+    {
+      "id": 23,
+      "term": "Melyek a főcsoport elemei és milyen az elektronszerkezetük?",
+      "definition": "A főcsoport elemei az s és p mezőbeli elemek, amelyeknek vegyértékelektronjai az s vagy p alhéjakon helyezkednek el, és jól definiált ionképzési tendenciájuk van.",
+      "quote": "s és p mező: főcsoport",
+      "text": "A főcsoportok szisztematikusan viselkednek az ionképzésben: az I. főcsoport elemei +1, a II. főcsoport +2 töltésű kationokat képez, az V. főcsoport -3, a VI. főcsoport -2, a VII. főcsoport -1 töltésű anionokat. Ez a regularitás az elektronszerkezetből fakad."
+    },
+    {
+      "id": 24,
+      "term": "Mi az átmenetifémek jellegzetessége az oxidációs állapotok tekintetében?",
+      "definition": "Az átmenetifémek (d-mező elemei) több különböző, stabil oxidációs állapotot mutatnak, mivel az elég közel levő energiaszintű d és s alhéjaik részben betöltöttek.",
+      "quote": "Több oxidációs állapot lehetséges",
+      "text": "Például a vas Fe²⁺ és Fe³⁺ ionokat képez egyaránt. A mangán még több oxidációs állapotot mutat (Mn²⁺, Mn³⁺, Mn⁷⁺). Ez az sokszínűség az átmenetifémeket viaszlásossá teszi az ipari és biológiai alkalmazásokban."
+    },
+    {
+      "id": 25,
+      "term": "Milyen trendeket figyelhetünk meg az elektronaffinitás értékeiben?",
+      "definition": "Az elektronaffinitás értékeiben nem lehet egyértelmű trendeket azonosítani, a kimeneti értékek irregulársak, függetlenül az oszlop vagy periódus helyétől.",
+      "quote": "Irreguláris értékek, nincs trend",
+      "text": "Ellentétben az ionizációs energiával vagy az elektronegativitással, az elektronaffinitás nem követi a periódusos rendszer szerkezetét. Ez azért van, mert az elektronaffinitás az anioni szerkezet stabilitásán alapul, amely sokféle tényezőtől függ. Például az oxigén elektronaffinitása nagyobb, mint a fluoré, ami első hallásra meglepő."
+    }
+  ]
+}

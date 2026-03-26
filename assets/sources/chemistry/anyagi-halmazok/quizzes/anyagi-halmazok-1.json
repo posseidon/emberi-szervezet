@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "anyagi-halmazok",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik nem tartozik az elemek és vegyületek közül az egykomponensű anyagok közé?",
+      "options": ["Vas (Fe)", "Víz (H2O)", "Konyhasó oldat", "Oxigén (O2)"],
+      "answer": "Konyhasó oldat"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ olyan anyagok halmazahalmazahalmazak, amely azonos rendszámú atomokból állnak.",
+      "options": [],
+      "answer": "Elemek"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Az ionvegyületek szilárd halmazállapotban miért nem vezetik az elektromos áramot?",
+      "options": ["Nincs ionjuk", "Az ionok helyhez kötöttek, nem mozoghatnak", "Az elektronok nem tudnak mozogni", "Az ionok egymást semlegesítik"],
+      "answer": "Az ionok helyhez kötöttek, nem mozoghatnak"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A _____ az a hőmérséklet, amelynél az anyag szilárd halmazállapotból cseppfolyóssá alakul.",
+      "options": [],
+      "answer": "Olvadáspont"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Melyik halmazállapot-változás nem igényel energiabefektetést?",
+      "options": ["Olvadás", "Párolgás", "Fagyás", "Szublimáció"],
+      "answer": "Fagyás"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ olyan szerkezete az atomok kovalens kötéseinek, amelyekben minden atom egy térhálós rendszer részét képezi.",
+      "options": [],
+      "answer": "Atomrács"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mely rácsú anyagok a legmagasabb olvadáspontúak?",
+      "options": ["Fémrácsok", "Atomrácsok", "Ionrácsok", "Molekuláris rácsok"],
+      "answer": "Atomrácsok"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A hidrogénkötés a _____, _____ vagy _____ atom között alakul ki, ha az elektronegativ atom nemkötő elektronpárja rendelkezik.",
+      "options": [],
+      "answer": "O N F"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mely folyadékpár oldódik teljesen egymásban?",
+      "options": ["Víz és benzin", "Etil-alkohol és víz", "Olaj és víz", "Szénhidrogén és víz"],
+      "answer": "Etil-alkohol és víz"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az ideális gáz egyenlete: p·V = ___·R·T",
+      "options": [],
+      "answer": "n"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mi az a túltelített oldat?",
+      "options": ["Az oldat, amelyből már nem lehet több anyagot feloldani", "Az oldat, amely több oldott anyagot tartalmaz az oldhatóság értékénél", "Az oldat, amely az oldhatóságnak pontosan megfelelő", "Az oldat, amely kevesebb anyagot tartalmaz az oldhatóságnak a felénél"],
+      "answer": "Az oldat, amely több oldott anyagot tartalmaz az oldhatóság értékénél"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ az a folyamat, amikor az ionokat vízmolekulák veszik körül.",
+      "options": [],
+      "answer": "Hidratáció"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mely diszperz rendszer NINCS az alábbiak közül?",
+      "options": ["Füst (szilárd aeroszol)", "Háborúanyag (gáz a gázban)", "Tejszín (emulzió)", "Szuszpenzió (szilárd a folyadékban)"],
+      "answer": "Háborúanyag (gáz a gázban)"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ olyan fázis, amely egységes összetételű és fizikai állapotú.",
+      "options": [],
+      "answer": "Fázis"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik állítás igaz a másodrendű kötésekre?",
+      "options": ["Erősebbek az elsőrendű kötéseknél", "Csak fémekben fordulnak elő", "Sokkal gyengébbek az elsőrendű kötéseknél", "Ionkötések egy formája"],
+      "answer": "Sokkal gyengébbek az elsőrendű kötéseknél"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A vízben 20°C-on 36,3 g NaCl oldódik 100 g vízben. Ez az érték az anyag _____ erre a hőmérsékletre.",
+      "options": [],
+      "answer": "Oldhatósága"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Az átkristályosítás folyamata hogyan működik?",
+      "options": ["Szűréssel választjuk el a kristályokat", "Meleg telített oldatból lehűtéssel kristályokat kiszálítunk, amelyekben a szennyezők kevésbé oldódnak", "Elektrolízis segítségével kristályosítunk", "Vákuumban elpárologtatjuk az oldószert"],
+      "answer": "Meleg telített oldatból lehűtéssel kristályokat kiszálítunk, amelyekben a szennyezők kevésbé oldódnak"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ olyan szol, amely nem folyik, de nagy folyadéktartalommal rendelkezik.",
+      "options": [],
+      "answer": "Gél"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "A Tyndall-effektus melyik esetben figyelhető meg?",
+      "options": ["Igazi oldatnál", "Kolloid oldatnál", "Gázelegyeknél", "Egyáltalán nem figyelhető meg"],
+      "answer": "Kolloid oldatnál"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A szén-dioxid szublimációjánál az anyag szilárd halmazállapotból közvetlenül _____ halmazállapotba kerül.",
+      "options": [],
+      "answer": "Gáz"
+    }
+  ]
+}

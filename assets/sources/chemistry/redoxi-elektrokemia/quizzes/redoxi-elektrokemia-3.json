@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "redoxi-elektrokemia",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mit jelent az oxidációs szám meghatározása egy vegyületben?",
+      "options": ["Az elem vegyi helyzetét", "Az elektronok száma az atomban", "Azt, hogy mennyivel tér el az elektronok száma a vegyértékelektronokétól", "Az elem atomi száma"],
+      "answer": "Azt, hogy mennyivel tér el az elektronok száma a vegyértékelektronokétól"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az elektronátmenettel járó kémiai folyamatot _____ -reakciónak nevezzük.",
+      "options": [],
+      "answer": "redoxi"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Az AlF6³⁻ ionban a fluor oxidációs száma –1, ezért az alumínium oxidációs száma:",
+      "options": ["+1", "+2", "+3", "+6"],
+      "answer": "+3"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az elemi anyagok oxidációs száma minden esetben _____ .",
+      "options": [],
+      "answer": "0"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "A Zn és Cu2+ között lejátszódó reakció miért megy végbe spontán módon?",
+      "options": ["Mivel mindkettő fém", "Mivel a Zn az erősebb redukálószer", "Mivel a Cu2+ erősebb redukálószer", "Mivel ugyanaz a potenciáljuk"],
+      "answer": "Mivel a Zn az erősebb redukálószer"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A standardpotenciál-táblázatban az erősebb redukálószer a _____ standardpotenciálú.",
+      "options": [],
+      "answer": "negatívabb"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Milyen elektród az a fémelektród?",
+      "options": ["Csak fém, nincs oldat", "Fémlemez saját ionjait tartalmazó oldatban", "Két különböző fém", "Só és vízből álló"],
+      "answer": "Fémlemez saját ionjait tartalmazó oldatban"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A gázelektród az oldott _____ és egy eltérő oxidációs számú oldott vegyület formájából áll.",
+      "options": [],
+      "answer": "gáz"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "A redoxielektródon mely eltérések figyelhetők meg?",
+      "options": ["Eltérő elemek", "Eltérő halmazállapot", "Az elem két különböző oxidációs állapota oldatban", "Az elektród anyagának változása"],
+      "answer": "Az elem két különböző oxidációs állapota oldatban"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az EME (elektromotoros erő) képlete: EME = εkatód – _____",
+      "options": [],
+      "answer": "εanód"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "A Daniell-elem anódfolyamata során melyik anyag oldódik?",
+      "options": ["Réz", "Cink", "Kuprit", "Szulfát"],
+      "answer": "Cink"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az elektrolízisben az anód a _____ elektród, ahol oxidáció történik.",
+      "options": [],
+      "answer": "pozitív"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Az olvadékelektrolízisben keletkezett termékek között melyik van?",
+      "options": ["Sav és bázis", "Elemi fém és halogén", "Hidrogén és oxigén", "Só és víz"],
+      "answer": "Elemi fém és halogén"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az anódfolyamat a bruttó egyenletben az _____ kifejezéssel irható fel.",
+      "options": [],
+      "answer": "oxidáció"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Vizes oldat elektrolízisénél a katódon alkálifém-ion jelenléte esetén normálisan mi keletkezik?",
+      "options": ["Elemi alkálifém", "Hidrogén", "Hidrogén-peroxid", "Oxigén"],
+      "answer": "Hidrogén"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az indifferens elektródok egyik típusa a _____ , amely nem reagál az elektrolit összetevőivel.",
+      "options": [],
+      "answer": "grafit"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "A higanykatódos elektrolízisben mi keletkezik a nátrium-ion helyett?",
+      "options": ["Hidrogén", "Nátrium-amalgám", "Nátrium-hidrid", "Hidrogén-peroxid"],
+      "answer": "Nátrium-amalgám"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Faraday-törvényei azt mutatják meg, hogy az elektródokon keletkezett anyag mennyisége függ az _____ és az elektrolízis időtartamától.",
+      "options": [],
+      "answer": "áramerősségtől"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Az elektrokémiai egyenérték képlete szerint milyen szimbólummal jelöli a moláris tömeget?",
+      "options": ["m", "M", "n", "z"],
+      "answer": "M"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az elektródon az átalakuló anyag tömegének kiszámítása képletében k az _____ , amely az anyagra jellemző állandó.",
+      "options": [],
+      "answer": "elektrokémiai egyenérték"
+    }
+  ]
+}

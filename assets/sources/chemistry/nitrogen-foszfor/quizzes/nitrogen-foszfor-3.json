@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "nitrogen-foszfor",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mi a nitrogén fő felhasználása az iparban?",
+      "options": ["Ammónia előállítása", "Üzemanyag", "Közvetlenül fúziós folyamatok", "Robbanóanyagok szintézise"],
+      "answer": "Ammónia előállítása"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A cseppfolyós nitrogént használják az MRI készülékek _____ mágnesének hűtésére.",
+      "options": [],
+      "answer": "szupravezető"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik foszfor-allotróp a legbiztonságosabb kezelni?",
+      "options": ["Vörösfoszfor", "Fehérfoszfor", "Mindkettő azonos", "Fekete foszfor"],
+      "answer": "Vörösfoszfor"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az ammónia _____ piramisos molekula, amely hidrogénkötéseket képez vízben.",
+      "options": [],
+      "answer": "trigonális"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Melyik egyenlet az ammónia szintézisét mutatja helyesen?",
+      "options": ["N₂ + 3 H₂ ⇌ 2 NH₃", "N₂ + 2 H₂ = 2 NH₃", "2 N + 3 H₂ = 2 NH₃", "N + 3 H = NH₃"],
+      "answer": "N₂ + 3 H₂ ⇌ 2 NH₃"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A szökőkút-kísérletben az ammónia nagy része feloldódik az egy cseppnyi vízben, ezért bent lecsökken a _____.",
+      "options": [],
+      "answer": "nyomás"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mit termel a nitrogén oxigénnel 3000°C-on?",
+      "options": ["Nitrogén-monoxidot", "Nitrogén-dioxidot", "Dinitrogén-pentaoxidot", "Nitrózus savat"],
+      "answer": "Nitrogén-monoxidot"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az NO biológiai funkcióban idegsejtek közötti _____ átvitelben szerepet játszik.",
+      "options": [],
+      "answer": "ingerület"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik kitöltött elektronkonfigurációval rendelkezi az NO molekula?",
+      "options": ["Párosítatlan elektront tartalmaz (szabad gyök)", "Teljes elektronpárokkal", "d-orbitál betöltöttséggel", "Nincs elektron pár"],
+      "answer": "Párosítatlan elektront tartalmaz (szabad gyök)"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az NO₂ molekula _____ -alakú szerkezetű.",
+      "options": [],
+      "answer": "V"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik terméket állítja elő az NO₂ és víz oxigén nélkül?",
+      "options": ["Salétromossav és salétromsav", "Csak salétromossav", "Csak salétromsav", "Víz és nitrogén"],
+      "answer": "Salétromossav és salétromsav"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az N₂O-t palackos tejszínhab _____ gázaként használják.",
+      "options": [],
+      "answer": "hajtó"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik az igaz a P₂O₅-ről?",
+      "options": ["Erősen higroszkópos, szárítószer", "Vízben könnyen oldódik", "Nem mutat higroszkópikus tulajdonságot", "Gáz szobahőmérsékleten"],
+      "answer": "Erősen higroszkópos, szárítószer"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A HNO₂ salétromossav csak _____ oldatban létezik, szilárd formában nem.",
+      "options": [],
+      "answer": "vizes"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mit nevez a történet 'füstölgő salétromsavnak'?",
+      "options": ["65-70% tömegszázalékos vizes oldat", "Vízmentes salétromsav", "Fölösleges HNO₂ és HNO₃ keveréke", "Légkör nitrát- részecskék"],
+      "answer": "65-70% tömegszázalékos vizes oldat"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az Ostwald eljárás első lépésében az ammónia _____ -vá oxidálódik katalizátor jelenlétében.",
+      "options": [],
+      "answer": "NO"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik az igaz a foszforsavról?",
+      "options": ["Háromértékű gyenge sav, amely három protonnal rendelkezik", "Egyértékű erős sav", "Kétértékű amfoter", "Tetraértékű erős oxidálószer"],
+      "answer": "Háromértékű gyenge sav, amely három protonnal rendelkezik"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az ammónium-klorid (NH₄Cl) közös neve _____ só.",
+      "options": [],
+      "answer": "szalmiák"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mit mutat az ammónia és sósav gázainak közötti kémiai reakció a szekrényben?",
+      "options": ["Ammónium-klorid por képződését a szilárd fázisban", "Szösz képződést", "Folyadék kondenzációját", "Gáz kibocsátást"],
+      "answer": "Ammónium-klorid por képződését a szilárd fázisban"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az ammónium-nitrát (NH₄NO₃) műtrágyaként használatos, de veszélyes lehet, mert nem megfelelő tárolás mellett _____ lehet.",
+      "options": [],
+      "answer": "robbanóképes"
+    }
+  ]
+}

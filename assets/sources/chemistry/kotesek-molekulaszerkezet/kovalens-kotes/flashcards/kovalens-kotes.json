@@ -1,0 +1,186 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi a kovalens kötés?",
+      "definition": "A kovalens kötés akkor alakul ki, amikor két atom páronként elektronokat oszt meg egymással nemesgázszerkezet eléréséhez.",
+      "quote": "Elektronok megosztása atomok között",
+      "text": "A kovalens kötésben a kötő elektronpár mindkét atomhoz tartozik. Ez különbözik az ionkötéstől, ahol az elektron teljesen az egyik atomtól a másikhoz kerül. A kovalens kötés jellemző a nemfémek közötti kapcsolatokra, és molekulákat alkot."
+    },
+    {
+      "id": 2,
+      "term": "Hogyan alakul ki a kovalens kötés a Cl2 molekulában?",
+      "definition": "Két klóratom 1-1 elektront oszt meg egymással. Mindkét atom 7 vegyértékelektronnal rendelkezik, a megosztás után mindkettő nemesgázszerkezetet ér el.",
+      "quote": "7+1=8 elektron mind két atomhoz",
+      "text": "Cl: [Ne]3s²3p⁵ (7 vegyértékelektron). Ha két Cl atom megosztja az elektronjaikat, akkor: Cl:Cl szerkezet alakul ki (két elektron közösen). Mindkét atom körül 8 elektron lesz (7 saját + 1 megosztott = 8)."
+    },
+    {
+      "id": 3,
+      "term": "Mit jelent a 'kötő elektronpár'?",
+      "definition": "A kötő elektronpár az a két elektron, amely a kovalens kötésben a két atom között közösen helyezkedik el.",
+      "quote": "Közös elektronpár a kötésben",
+      "text": "A kötő elektronpár az atomok közötti vonzás forrása. Ez az elektronpár mindkét atom magját vonzza, így a két atommag között stabil helyzet alakul ki. A kötő elektronpárokat jellemzően egy vonallal jelölik a szerkezeti képleteken."
+    },
+    {
+      "id": 4,
+      "term": "Mit jelent a 'nemkötő elektronpár'?",
+      "definition": "A nemkötő elektronpár az a két elektron vagy több, amely a kovalens kötésben nem vesz részt, hanem az atom körül marad.",
+      "quote": "Nem közös, csak az atomon",
+      "text": "A nemkötő elektronpárok (lone pairs) az atomon maradnak. A klórmolekulában (Cl–Cl) minden klóratom körül 3 nemkötő pár van. Ezek a párok nem vesznek részt a Cl–Cl kötésben, de fontos szerepük van a molekula tulajdonságaiban és a további kötésekben."
+    },
+    {
+      "id": 5,
+      "term": "Mit mond az oktettszabály?",
+      "definition": "Az oktettszabály azt mondja, hogy a második periódus elemeinek atomjai körül legfeljebb 8 vegyértékelektron lehet (kötő és nemkötő elektronokat is beleértve).",
+      "quote": "8 elektron a külső héjon",
+      "text": "Az oktettszabály az nemesgáz-szerkezet követelményéből ered. Az He kivételével (2 elektron), az összes nemesgáz 8 vegyértékelektronnal rendelkezik. A második periódustól a harmadik periódusig az atomok ezt a szerkezetet igyekeznek elérni. A harmadik periódustól ezt a felső korlátot gyakran túllépik."
+    },
+    {
+      "id": 6,
+      "term": "Mi a különbség az egyszeres, kettős és hármas kötés között?",
+      "definition": "Az egyszeres kötés 1 elektronpárt tartalmaz, a kettős kötés 2 elektronpárt, a hármas kötés 3 elektronpárt.",
+      "quote": "1, 2 vagy 3 elektronpár",
+      "text": "Az egyszeres kötésben (C–H, Cl–Cl) 2 elektron közös. A kettős kötésben (C=O, N=N) 4 elektron közös. A hármas kötésben (N≡N, C≡C) 6 elektron közös. A kettős és hármas kötések rövidebb és erősebb, mint az egyszeres kötések."
+    },
+    {
+      "id": 7,
+      "term": "Mit jelent a 'szigma-kötés' (σ)?",
+      "definition": "A szigma-kötés az első, leggyengébb kötés, amely két atom között kialakulhat. Az elektronok a kötési tengely mentén helyezkednek el.",
+      "quote": "Első kötés, tengely menti",
+      "text": "A σ-kötés az egyszeres kötésben és a kettős/hármas kötések első kötésében fordul elő. Az elektronsűrűség a kötési tengely mentén van felgyülemezve. Az összes egyszeres kötés σ-kötés."
+    },
+    {
+      "id": 8,
+      "term": "Mit jelent a 'pí-kötés' (π)?",
+      "definition": "A pí-kötés a szigma-kötés mellett további kötés, amely a kettős vagy hármas kötéseket hozza létre.",
+      "quote": "Második vagy harmadik kötés",
+      "text": "A π-kötés az elektronsűrűséget a kötési tengely oldalaira helyezi. Az etén (H2C=CH2) kettős kötésében 1 σ és 1 π kötés van. Az etin (HC≡CH) hármas kötésében 1 σ és 2 π kötés van. A π-kötések gyengébbek, mint a σ-kötések."
+    },
+    {
+      "id": 9,
+      "term": "Miért erősebb a kettős kötés az egyszeres kötésnél?",
+      "definition": "Mert a kettős kötés 2 elektronpárt tartalmaz az egyszeres kötés helyett, így nagyobb az elektronok vonzása az atommagok felé.",
+      "quote": "Több elektron = erősebb kötés",
+      "text": "A kötési energia az elektronok száma és az elektronok és atommagok közötti vonzás függvénye. A kettős kötésben 4 elektron közös, az egyszeres kötésben csak 2. Ezért a kettős kötés kötési energiája nagyobb (680+ kJ/mol vs. 350-400 kJ/mol)."
+    },
+    {
+      "id": 10,
+      "term": "Mi az datív kötés?",
+      "definition": "A datív kötés (koordinációs kötés) egy speciális kovalens kötés, ahol mindkét elektront az egyik atom szolgáltatja.",
+      "quote": "Egy atom adja mindkét elektront",
+      "text": "A datív kötés csak a keletkezésében speciális: az egyik atom egy nemkötő elektronpárját ajánlja fel egy másik atomnak, amely ezt a párt elfogadja. Létrejötte után azonban nem különbözik a többi kovalens kötéstől. A BF3 + NH3 → BF3NH3 reakció mutat datív kötésre példát."
+    },
+    {
+      "id": 11,
+      "term": "Mit jelent az 'összetett ion'?",
+      "definition": "Az összetett ion egy olyan ion, amely több atomot tartalmaz, és molekulákból képződik kovalens kötéseken keresztül.",
+      "quote": "Több atom egy ionban",
+      "text": "Az egyszerű ionok atomokból képződnek (Na+, Cl–), az összetett ionok molekulákból (NH4+, SO4²–). Az összetett ionok belső szerkezete kovalens kötésekből áll, de az egész ion nettó töltésű. Például az oxóniumion (H3O+) a vízmolekulából képződik egy datív kötés hozzáadásával."
+    },
+    {
+      "id": 12,
+      "term": "Mi a kötéstávolság?",
+      "definition": "A kötéstávolság a kovalens kötésben résztvevő két atom atommagjának távolsága.",
+      "quote": "Atom-mag közötti távolság",
+      "text": "A kötéstávolság a kötés erősségétől és az atomok méretétől függ. Az egyszeres kötések hosszabbak (150+ pm), a kettős kötések rövidebbek (130+ pm), a hármas kötések még rövidebbek (120+ pm). Az azonos atomok közötti kötések kötéstávolsága jellegzetes (C–C: 154 pm, C=C: 134 pm, C≡C: 120 pm)."
+    },
+    {
+      "id": 13,
+      "term": "Mi a kötési energia?",
+      "definition": "A kötési energia az az energia, amely 1 mol kovalens kötés felszakításához szükséges vagy felszabadul a kötés létrehozásakor.",
+      "quote": "Energia a kötéshez szükséges",
+      "text": "A kötési energia kJ/mol-ban mért érték. Egy erős kötés nagy kötési energiájú (pl. C≡C: 962 kJ/mol), egy gyenge kötés kis kötési energiájú. A kötési energia több tényezőtől függ: az atomok típusa, a kötés típusa (egyszeres/kettős/hármas), és az atomok mérete."
+    },
+    {
+      "id": 14,
+      "term": "Mi a kötéspolaritás?",
+      "definition": "A kötéspolaritás a kovalens kötésben az elektronek eloszlásának aszimmetriájából ered, amikor az atomok elektronegativitása eltér.",
+      "quote": "EN-különbség = polaritás",
+      "text": "Ha a kötésben szereplő atomok elektronegativitása azonos, az elektronpár szimmetrikusan oszlik meg - apoláris kötés. Ha az EN különbözik, az elektron jobban az elektronnegatívabb atom felé tolódik - poláris kötés. A H–Cl kötés poláris (H: 2,1, Cl: 3,0)."
+    },
+    {
+      "id": 15,
+      "term": "Mi a különbség az apoláris és a poláris kovalens kötés között?",
+      "definition": "Az apoláris kötésben az elektronok szimmetrikusan oszlanak meg, a poláris kötésben az elektron az egyik atom felé tolódik.",
+      "quote": "Szimmetrikus vs. aszimmetrikus",
+      "text": "Az apoláris kötésben (pl. Cl–Cl, O=O) nincs töltéseltolódás, az elektronok egyenlő mértékben tartoznak mindkét atomhoz. A poláris kötésben (pl. H–O, C–Cl) az elektronok az elektronnegatívabb atom felé tolódnak (δ–), így az másik atom körül elektronhiány (δ+) alakul ki."
+    },
+    {
+      "id": 16,
+      "term": "Mit jelent az, hogy a kötés 'X% poláris'?",
+      "definition": "Ez azt jelenti, hogy az elektronpár X%-a jobban az egyik atom felé tolódott, mint a szimmetrikus megosztás esetén lenne.",
+      "quote": "Töltéseltolódás foka",
+      "text": "A kötéspolaritást néha százalékban fejezik ki, amely az ionos karakter mértékét jelenti. Például egy 50%-os poláris kötés abban áll, hogy az elektron a szimmetrikus megosztástól fele olyan mértékben tolódott az egyik atom felé, mint egy teljesen ionos kötésben."
+    },
+    {
+      "id": 17,
+      "term": "Hogyan alakulhat át egy poláris kovalens kötés ionkötéssé?",
+      "definition": "Az elektronegativitás-különbség növekedésével a poláris kovalens kötés fokozatosan ionossá válik.",
+      "quote": "Fokozatos átmenet kovalens → ionos",
+      "text": "A kötéstípusok között nincs éles határ. Az EN-különbség növekedésével az elektron egyre jobban az egyik atom felé tolódik, amíg végül teljesen annak az atomnak a tulajdonává nem válik - ekkor alakul ki az ionkötés. Az AlCl3 erre jó példa: körülbelül 50% poláris kovalens és 50% ionos karakterrel bír."
+    },
+    {
+      "id": 18,
+      "term": "Mi a delokalizáció a kovalens kötésben?",
+      "definition": "A delokalizáció azt jelenti, hogy a π-kötés elektronjai nem csak két atom között helyezkednek el, hanem kettőnél több atom körül.",
+      "quote": "π-elektronok több atomhoz",
+      "text": "A benzol (C6H6) gyűrűjében a π-elektronok a hat szénátom között delokalizálódnak, nem pedig felváltva helyezkednek el egyszeres és kettős kötésekben. Ez a delokalizáció magyarázza a benzol stabilitását és a kötéstávolságok kiegyenlítődését (139 pm, amely hosszabb a tipikus C=C-nél, rövidebb a tipikus C–C-nél)."
+    },
+    {
+      "id": 19,
+      "term": "Melyek a delokalizációt tartalmazó szerkezeti típusok?",
+      "definition": "A benzol és más aromás vegyületek, a konjugált kettős kötésű szénhidrogének, és az összetett anionok (karboná-, szulfát-, nitrátionok) mutatnak délokalizációt.",
+      "quote": "Aromás és konjugált kötések",
+      "text": "A delokalizáció a molekulát stabilabbá teszi. Az NO2 nitrogén-dioxidban a π-elektronok és a nemkötő párok delokalizálódnak. A szulfátionban (SO4²–) mind a négy S–O kötés egyenlő hosszúsággal és erősséggel bír a delokalizáció miatt."
+    },
+    {
+      "id": 20,
+      "term": "Mi a szerkezeti képlet?",
+      "definition": "A szerkezeti képlet egy ábra, amely a molekula atomjainak kapcsolódásának módját és az összes kötő és nemkötő elektronpárt feltünteti.",
+      "quote": "Atomok és elektronok 2D ábrája",
+      "text": "A szerkezeti képletben az atomokat szimbólumaikkal jelöljük, a kötéseket vonalakkal (–, =, ≡), a nemkötő elektronpárokat pedig pontokkal vagy vonalakkal (: vagy –). Ez az ábra lehetővé teszi a molekula szerkezetének teljes megértését."
+    },
+    {
+      "id": 21,
+      "term": "Hogyan szerkesztünk szerkezeti képletet a vízből?",
+      "definition": "H–O–H szerkezetben az oxigén 6 vegyértékelektronnal rendelkezik, ebből 2 a H–O kötésekben vesz részt, 4 a nemkötő párok.",
+      "quote": "Vegyérték számából indulunk",
+      "text": "H: 1 vegyértékelektron × 2 = 2 (mindkettő a kötésben). O: 6 vegyértékelektron, ebből 4 a kötésben, 2 nemkötő pár. Az eredmény: H–O–H, az oxigén körül 2 nemkötő pár (4 pont vagy 2 vonal)."
+    },
+    {
+      "id": 22,
+      "term": "Melyik elem nem követi az oktettszabályt?",
+      "definition": "A hidrogén csak 2 elektront akar (duett-szabály), valamint a harmadik periódustól sok elem túlléphet az 8 elektronon.",
+      "quote": "Hidrogén: 2; sok: 8+",
+      "text": "A hidrogén az első periódusban van, így a nemesgáz szerkezetéhez (He) csak 2 elektronra van szüksége. Az S, P, Si és más harmadik és magasabb periódusú elemek több mint 8 elektront is tárolhatnak d-pályák használatával (kiterjesztett oktet)."
+    },
+    {
+      "id": 23,
+      "term": "Mit jelent a 'kovalens vegyérték'?",
+      "definition": "Az atom kovalens vegyértéke az a szám, amely megmutatja, hogy az atom hány kovalens kötést alakít ki.",
+      "quote": "Hány kötés az atomon",
+      "text": "A szén 4 kovalens vegyértékű (4 kötést alakít ki), az oxigén 2 (2 kötés vagy 1 kettős), a nitrogén 3 (vagy 1 hármas). A vegyérték és az elektronegativitás szoros kapcsolatban állnak, de nem azonosak. Az ionos vegyületekben az ionvegyérték helyett az ionös töltést jól adjuk meg."
+    },
+    {
+      "id": 24,
+      "term": "Milyen szerepe van a delokalizált kötésnek a molekula stabilitásában?",
+      "definition": "A delokalizáció csökkenti az elektronok energiáját, így az olyan molekulák stabilabbak, amelyek délokalizációt mutatnak.",
+      "quote": "Delocalizáció = több stabilitás",
+      "text": "A benzol sokkal stabilabb, mint a lokalizált kettős kötéseket tartalmazó szerkezet lenne (1,3,5-ciklohexatriein). A szulfátionban a delokalizáció összes S–O kötést egyaránt erőssé és egyenlővé teszi. Ez a rezonancia-stabilizáció egy lényeges koncepció a kémiai stabilitás megértésében."
+    },
+    {
+      "id": 25,
+      "term": "Hogyan jelöljük a szerkezeti képletben az elektronpárokat?",
+      "definition": "A kötő elektronpárokat vonalakkal (–, =, ≡) jelöljük, a nemkötő párokat pont-párrokkal (:) vagy vonalakkal (–).",
+      "quote": "Vonalak és pontok az elektronokért",
+      "text": "Az egyszeres kötés egy vonallal (–), a kettős kötés két vonallal (=), a hármas kötés három vonallal (≡) jelölhető. A nemkötő elektronpárt gyakran pontokkal jelöljük az atom körül. Sok szerkezeti képletben a nemkötő párokat egyáltalán nem jelöljük, csak az adott atomot jelöljük, és az elektronokat hallgatólagosan feltételezzük."
+    },
+    {
+      "id": 26,
+      "term": "Miért kevésbé vezetik az elektromosságot a kovalens vegyületek az ionosokhoz képest?",
+      "definition": "Mert a kovalens kötésben az elektronok lokalizáltak és szorosan az atommagokhoz kötöttek, így nem mobillak.",
+      "quote": "Rögzített elektronok nem vezetnek",
+      "text": "Az ionkötésben az elektronok az ionoktól elválasztottak, így az ionok olvadásakor vagy oldódásakor az elektronok mozoghatnak. A kovalens kötésben az elektronok a kötéshez szorosan kötöttek, így még olvadt állapotban sem vezetik az elektromosságot (kivéve ha a molekula poláris és nem-kovalens kölcsönhatásokat mutat)."
+    }
+  ]
+}

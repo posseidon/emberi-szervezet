@@ -1,0 +1,144 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "A cinkcsoport elemei",
+      "definition": "A cink (Zn) és a higany (Hg) szürkés-ezüstösen csillogó fémek. A cink szilárd (olvadáspont: 420 °C), a higany szobahőmérsékleten folyadék (olvadáspont: –39 °C).",
+      "quote": "Zn szilárd, Hg folyadék",
+      "text": "A cinkcsoport (12. csoport) elemei lezárt d-pályájú átmeneti fémek közül egyes kívül esnek az 'igazi' átmeneti fémek kategóriájából, mivel kitöltött d-héja van. A cink negatív standardpotenciálú (–0,76 V), jó redukálószer, míg a higany pozitív standardpotenciálú (+0,85 V), így sokkal kevésbé reaktív. Kémiai tulajdonságaik lényegesen különböznek a nagy unterschied miatt."
+    },
+    {
+      "id": 2,
+      "term": "Cink fizikai tulajdonságai",
+      "definition": "A cink ezüstösen csillogó, puha szürke-fehér fém, sűrűsége 7,14 g/cm³, nagyobb keménysége és rugalmassága a normál fémek közül.",
+      "quote": "Szürke, lágy, jó összekötőfém",
+      "text": "A cink szobahőmérsékleten egy kristályos szerkezetű fém, amely puha és könnyen forgácsolható. A cink nagy felületi aktivitása miatt könnyen oxidálódik. A cink felülete szobahőmérsékleten szürke oxidációs réteggel fedődik (ZnO), amely tömör és védelmet nyújt a további oxidációtól."
+    },
+    {
+      "id": 3,
+      "term": "Higany fizikai tulajdonságai",
+      "definition": "A higany az egyetlen folyadék fém szobahőmérsékleten, sűrűsége 13,53 g/cm³, olvadáspontja –39 °C, forráspontja 357 °C.",
+      "quote": "Folyadék fém, ezüstös",
+      "text": "A higany folyékony állapota miatt páratalan helyzetű. A higanyból cseppek alakulnak ki a felületi feszültség miatt. A higany gőzei igen mérgezőek, és az oldható higanyvegyületek is toxikusak. A higany nem oldódik vízben, de bizonyos sók oldatában oldódható (Hg²⁺ iónok közvetítésével). Ezt az anyagot hőmérőkben, barométerekben és laboratóriumban számos másik eszközben használják."
+    },
+    {
+      "id": 4,
+      "term": "Higany mérgezésének jellegzetességei",
+      "definition": "A higany főként gőzei és oldható vegyületei mérgezőek, az idegrendszer károsodásához vezet, izom-gyengeséget és szellemi rendellenességeket okoz.",
+      "quote": "Neurotoxikus, gőzei veszélyesek",
+      "text": "A higanygőz hosszú expozíció alatt belélegzésvel súlyos neurológiai károkat okozhat. Az oldható higanyvegyületek (például higany(II)-klorid) szintén mérgezőek. Az organikus higanyvegyületek (például metil-higany, dimetil-higany) még veszélyesebbek, mert a szövetekben feldolgozódnak és feldolgozódnak az agyba. Az egyensúlyértékek nélkül a higany-expozícióhoz szükséges biztonsági intézkedések."
+    },
+    {
+      "id": 5,
+      "term": "Cink oxidációja oxigénnel",
+      "definition": "A cink felületét tömör oxidréteg védi. Elégethető, égésekor cink-oxid (ZnO) keletkezik.",
+      "quote": "Szürke ZnO réteg, égés",
+      "text": "A cink szobahőmérsékleten lassan oxidálódik a levegőn, szürke ZnO réteget képez a felületen. Ez a réteg az oxidáció további terjedésétől megvédi a fémet (passzívvá válik). Magas hőmérsékleten a cink elég, és fehér ZnO por marad vissza. A cink-oxid előállítása egyébként az egyszerű módja az amerikai-készítésű ZnO termékeknek."
+    },
+    {
+      "id": 6,
+      "term": "Cink és halogének reaktivitása",
+      "definition": "A cink reagál a klórral, cink-klorid keletkezik: Zn + Cl₂ = ZnCl₂",
+      "quote": "Zn + Cl₂ → ZnCl₂",
+      "text": "A cink közvetlenül reagál az összes halogénnel, intenzív és exoterm folyamatban. Az így képzett cink-halogenidek: ZnF₂, ZnCl₂, ZnBr₂, ZnI₂. Ezek az ionos vagy részben kovalens szerkezetű vegyületek. A cink-klorid például egész hidrogén-chloriddal reakcióban áll a gőz-szintén."
+    },
+    {
+      "id": 7,
+      "term": "Cink és kén reaktivitása",
+      "definition": "A cink kénporral melegítve szulfidot képez: Zn + S = ZnS",
+      "quote": "Fekete ZnS porral",
+      "text": "Az így keletkezett ZnS (cink-blende) természetében is megtalálható szulfid mineral. A keletkezett szulfid fehér vagy sárga szín lehet az átmenet fázistól függően. A ZnS lumineszciálhat UV-fény alatt, ezért fluoreszcens anyagokhoz és képernyőkhöz használják."
+    },
+    {
+      "id": 8,
+      "term": "Cink oldódása savakban",
+      "definition": "A cink híg savakban oldódik hidrogénfejlesztés közben: Zn + 2 HCl = ZnCl₂ + H₂",
+      "quote": "Cink – sav → H₂ gáz",
+      "text": "A negatív standardpotenciál miatt a cink könnyen redukálja a hidrogénionokat és szállas oldódik. Az ionos egyenletet: Zn + 2 H⁺ = Zn²⁺ + H₂. Az oldódás gyorsabb, ha a felület szokatlan vagy ha a Zn-ben verunreinigungen vannak (például nikkel vagy vas), mivel ezek lokális gálvánia-elemeket képeznek."
+    },
+    {
+      "id": 9,
+      "term": "Cink oldódása lúgoldatban",
+      "definition": "A cink az alumíniumhoz hasonlóan lúgoldatban is oldódik, mivel hidroxo-komplexet képez: Zn + 2 NaOH + 2 H₂O = Na₂[Zn(OH)₄] + H₂",
+      "quote": "Amfoter, tetrahidroxo-cinkát komplex",
+      "text": "Az erős lúgok képesek az amfoter cink-oxidot és cink-hidroxidot feloldani, tetrahidroxo-cinkát anionokat [Zn(OH)₄]²⁻ képezve. Ez a komplexképződés lehetővé teszi, hogy a cink lúgoldatban oldódik, amit a 'amfoter' fém tulajdonságának nevezünk. Az oldódás során hidrogéngáz fejlődik."
+    },
+    {
+      "id": 10,
+      "term": "Cink oldódása tömény kénsavban",
+      "definition": "A cink tömény kénsavban feloldódik, kén-dioxid fejlődésével: Zn + 2 H₂SO₄ = ZnSO₄ + SO₂ + 2 H₂O",
+      "quote": "SO₂ fejlődés, oxidálás",
+      "text": "A tömény kénsav (mint oxidáló sav) képes a cinkot feloldani, még olyan kondíciók alatt is, ahol a híg kénsav nem oldódik (mivel az S⁶⁺ az S⁴⁺-re redukálódik az SO₂-t képezve). Az SO₂ karakterisztikus szagú gáz. Ez az eljárás a cinknak az oxidáló savban-való 'aktiválódása' jeleníti meg."
+    },
+    {
+      "id": 11,
+      "term": "Higany oldódása savakban",
+      "definition": "A higany csak tömény oxidáló savakban oldódik, például salétromsavban: Hg + 4 HNO₃ = Hg(NO₃)₂ + 2 NO₂ + 2 H₂O",
+      "quote": "Csak tömény sav, NO₂ fejlődés",
+      "text": "A higany pozitív standardpotenciálja (+ 0,85 V) miatt nem képes vízben oldódni híg savakban. Csak az erős oxidálószerek (tömény salétromsav, tömény kénsav) képesek a higanyat oxidálni. Az oldódáskor nitrózus gázok (NO, NO₂) fejlődnek, és higany(II)-nitrát vagy higany(II)-szulfát keletkezik."
+    },
+    {
+      "id": 12,
+      "term": "Cink és higany korrózió-védelmi használata",
+      "definition": "A cinket nagymennyiségben a vastárgyak korrózió-elleni védelmére (aktív védelem) horganyozással használják.",
+      "quote": "Horganyozás, cink-bevonat",
+      "text": "A cink elektrogalvanizálása az egyik legegyütt alkalmazott korrózióvédelmi módszer az ipari alkalmazásokhoz. A cink bevonat aktív védelmet nyújt még a sérülések után is, mivel a cink oxidálódik a vas helyett. A higanyat régebben hőmérőkben, barométerekben és nátrium-klorid olvadékelektrolízis katódjában (higanykatódos elektrolízis) használták."
+    },
+    {
+      "id": 13,
+      "term": "Higany(II)-oxid (HgO)",
+      "definition": "Az HgO szilárd anyag, amely hevítéskor elemeire bomlik, ezért oxigén előállítására használható.",
+      "quote": "Hevítésel bomlás, O₂ keletkezik",
+      "text": "A higany(II)-oxid piros vagy sárga szín, attól függően a részecske-nagyságtól és kristályformától. A hevítéskor az alábbi módon bomlik: 2 HgO = 2 Hg + O₂. Ez az eljárás történelmileg az oxigén laboratóriumi előállításának módja volt, mielőtt az elektrolízis praktikussá vált. Az HgO képz termoelektromosan instabil, és ezért nem alkalmazzák széles körben."
+    },
+    {
+      "id": 14,
+      "term": "Mangán az acél ötvözőeleme",
+      "definition": "A mangán (Mn) az acélgyártás fontos ötvözőeleme, amely a keménységét és szilárdsságát javítja.",
+      "quote": "Acél-ötvöző, keménység-javítás",
+      "text": "A mangán az átmeneti fémek közé tartozik, amely az acélokba adva javítja azok mechanikai tulajdonságait. A mangánacélok nagyobb keménységgel és kopásállósággal rendelkeznek. A mangán szintén képes összekapcsolódni a szennyezőkkel (például a kénnel), így csökkenti az acél fragilassáágát."
+    },
+    {
+      "id": 15,
+      "term": "Kálium-permanganát (KMnO₄)",
+      "definition": "Az KMnO₄ lilásszürke szilárd anyag, vízben lila oldódik, erős oxidálószer főként savas közegben.",
+      "quote": "Lila szín, erős oxidáló",
+      "text": "A kálium-permanganát a permanganátionok (MnO₄⁻) és káliumionok ionos vegyülete. Az oldatban lila szín (az Mn az +7 oxidációs állapotban). A permanganát savas közegben: MnO₄⁻ + 8 H⁺ + 5 e⁻ = Mn²⁺ + 4 H₂O (mangán(II)-ionok, szín nélküliek). Lúgos közegben: MnO₄⁻ + 4 H₂O + 3 e⁻ = MnO₂ + 2 OH⁻ (mangán(IV)-oxid, fekete szín)."
+    },
+    {
+      "id": 16,
+      "term": "KMnO₄ oxidáló hatása tömény sósavban",
+      "definition": "A kálium-permanganát tömény sósavval reagáltatva elemi klór (Cl₂) keletkezik.",
+      "quote": "Cl₂ gáz, erős oxidálás",
+      "text": "A permanganát olyan erős oxidálószer, hogy a kloridionokat is oxidálja: 2 MnO₄⁻ + 16 H⁺ + 10 Cl⁻ = 2 Mn²⁺ + 5 Cl₂ + 8 H₂O. Az elemi klór gáz, amely zöld-sárga szín és karakterisztikus szagu. Ez az eljárás laboratóriumi klór-előállítás egyik módja."
+    },
+    {
+      "id": 17,
+      "term": "KMnO₄ oxigén-előállítása hőbontás útján",
+      "definition": "A kálium-permanganát hevítéskor elemeire bomlik, oxigéngáz képzésével.",
+      "quote": "Hő → O₂ gáz",
+      "text": "A KMnO₄ hevítéskor körülbelül 240 °C-on elkezd bomlani, és oxigéngázt szabadít fel: 2 KMnO₄ = K₂MnO₄ + MnO₂ + O₂. Ez a módszer szintén laboratóriumi oxigén-előállítás klasszikus módja. A maradék anyag: K₂MnO₄ (zöld szín) és MnO₂ (fekete szín)."
+    },
+    {
+      "id": 18,
+      "term": "KMnO₄ felhasználása fertőtlenítésre",
+      "definition": "A kálium-permanganát erős oxidáló hatása miatt fertőtlenítő és tisztító szerként használható.",
+      "quote": "Fertőtlenítés, oxidáció",
+      "text": "A permanganát az organikus anyagokat oxidálja, így fertőtlenítő hatású. Víztisztítás, csatorna-kezelés és medencék desz infekciójára használják. A permanganát alacsony koncentrációban biztonságos emberek számára, de erős concentrációban (például az oldatban) maró hatású lehet."
+    },
+    {
+      "id": 19,
+      "term": "Cink és higany standardpotenciáljainak különbsége",
+      "definition": "A cink standardpotenciálja –0,76 V (erős redukálószer), a higanyé +0,85 V (gyenge oxidálószer), amely lényeges kémiai reaktivitás-különbséghez vezet.",
+      "quote": "Cink reaktív, higany stabil",
+      "text": "Ez a nagy standardpotenciál-különbség (~1,6 V) azt jelenti, hogy a cink erős redukálószer, míg a higany jó oxidálószer. A cink vízben oldódik, a higany nem. A cink reag Oxigénnel és savakkal, a higany szinte semleges levegő hatására. Ez magyarázza, hogy miért olyan eltérő az alkalmazása a két elemnak a kémiában és az ipariakban."
+    },
+    {
+      "id": 20,
+      "term": "Higany-hömérséklet-szabályozás",
+      "definition": "A higany szobahőmérsékleten folyékony és számos tulajdonságai miatt ideális hőmérők készítésére.",
+      "quote": "Folyadék-hőmérő, -39°C–357°C tartomány",
+      "text": "A higany nagy hőkapacitása, alacsony felületi feszültsége és széles folyékony tartománya (–39 °C-tól 357 °C-ig) ideálisá teszik a hőmérő-konstrukciókhoz. A higany azonban mérgezésének kockázata miatt napjainkban alkoholos vagy elektronikus hőmérőket részesítik előnyben. Az alkohola szintén jó hőmérő-folyadék, viszont kisebb sűrűségű és kevésbé látható az üvegben."
+    }
+  ]
+}

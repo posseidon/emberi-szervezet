@@ -1,0 +1,186 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Arrhenius-elmélet: sav meghatározása",
+      "definition": "Az Arrhenius-elmélet szerint sav az a sanyag, amely hidrogénionok (oxóniumionok) koncentrációját növeli a vízben.",
+      "quote": "H+ koncentrációt növeli",
+      "text": "A savak a vízben disszociálnak és oxóniumionokat (H3O+) szabadítanak fel. Ez az elmélet elsősorban a vizes oldatok kémhatásának leírására használható. Például a hidrogén-klorid (HCl) erős sav, amely majdnem teljes mértékben disszociál."
+    },
+    {
+      "id": 2,
+      "term": "Arrhenius-elmélet: bázis meghatározása",
+      "definition": "Az Arrhenius-elmélet szerint bázis az a sanyag, amely hidroxidionok (OH–) koncentrációját növeli a vízben.",
+      "quote": "OH– koncentrációt növeli",
+      "text": "A bázisoké a vízben ionokra esnek szét és hidroxidionokat szabadítanak fel. Ilyen például a nátrium-hidroxid (NaOH), amely ionvegyületként az oldódás során szétesik Na+ és OH– ionokra."
+    },
+    {
+      "id": 3,
+      "term": "Brönsted-elmélet: sav meghatározása",
+      "definition": "A Brönsted-elmélet szerint sav az a részecske, amely hidrogéniont (H+) ad le egy másik részecskének.",
+      "quote": "H+ iont ad le",
+      "text": "Ez az elmélet az Arrhenius-elméletnél általánosabb, mert nem csak vizes oldatokra alkalmazható. A sav-bázis reakciók során a sav protonátmenetben vesz részt, és a hidrogénion datív kovalens kötést létesít a bázis nemkötő elektronpárjával."
+    },
+    {
+      "id": 4,
+      "term": "Brönsted-elmélet: bázis meghatározása",
+      "definition": "A Brönsted-elmélet szerint bázis az a részecske, amely hidrogéniont (H+) vesz fel egy másik részecskétől.",
+      "quote": "H+ iont vesz fel",
+      "text": "A bázis elektronpárt adományoz a hidrogénionnak. Például az ammónia (NH3) bázisként viselkedik, amikor a vízből hidrogéniont vesz fel, és ammónium-ionná (NH4+) alakul."
+    },
+    {
+      "id": 5,
+      "term": "Savmaradékion",
+      "definition": "A savmaradékion az a részecske, amely a sav hidrogénion-leadása után visszamarad.",
+      "quote": "Sav mínusz H+",
+      "text": "Például a hidrogén-klorid (HCl) savmaradékionja a kloridion (Cl–). Az HCl ⇌ Cl– + H+ egyensúly bal oldaláról jobbra történő disszociáció során a HCl savmaradékionja a Cl– lesz."
+    },
+    {
+      "id": 6,
+      "term": "Sav-bázis párok (konjugált párok)",
+      "definition": "A Brönsted-elméletben sav-bázis párnak nevezzük az olyan anyagpárokat, amelyek hidrogénion felvételével vagy leadásával átalakulhatnak egymásba.",
+      "quote": "Hidrogénion felvétele/leadása",
+      "text": "Minden savhoz tartozik egy bázis, és minden bázishoz egy sav. Például a HCl–Cl– párban a HCl sav, a Cl– pedig a konjugált bázisa. Az egyensúly: SAV ⇌ BÁZIS + H+"
+    },
+    {
+      "id": 7,
+      "term": "Amfoter anyagok",
+      "definition": "Az amfoter anyagok savként és bázisként is viselkedhetnek, attól függően, hogy egy erősebb savval vagy bázissal reagálnak.",
+      "quote": "Sav és bázis egyszerre",
+      "text": "A víz (H2O) amfoter anyag. Erős savakkal szemben bázisként viselkedik (H+ iont vesz fel: HCl + H2O → Cl– + H3O+), az ammóniával viszont savként reagál (H+ iont ad le: NH3 + H2O ⇌ NH4+ + OH–)."
+    },
+    {
+      "id": 8,
+      "term": "Proton a Brönsted-elméletben",
+      "definition": "A hidrogéniont protonnak szokás nevezni, mivel az atommagjában egyetlen proton található és nincs elektronja.",
+      "quote": "H+ = proton",
+      "text": "A Brönsted-féle sav-bázis reakciók protonátmenettel járó reakciók. Azonban a proton nem az egyik atommagból kerül át a másikba, hanem datív kovalens kötést létesít a bázis nemkötő elektronpárjával."
+    },
+    {
+      "id": 9,
+      "term": "Autoprotolízis",
+      "definition": "Az autoprotolízis az amfoter anyagok molekuláinak az a folyamata, amikor egymásnak adnak át hidrogéniont (protont).",
+      "quote": "Molekula H+ cserél egymásnak",
+      "text": "A víz autoprotolízise: H2O + H2O ⇌ H3O+ + OH–. Az egyik vízmolekula savként viselkedik (H+ iont ad le), a másik bázisként (H+ iont vesz fel). Ez egy jól jellemezhető folyamat, amely az oldatok kémhatásának alapja."
+    },
+    {
+      "id": 10,
+      "term": "Arrhenius vs. Brönsted: általánosság",
+      "definition": "A Brönsted-elmélet általánosabb, mint az Arrhenius-elmélet, mert nemcsak vizes oldatokra alkalmazható.",
+      "quote": "Brönsted általánosabb",
+      "text": "Az Arrhenius-elmélet elsősorban vizes oldatok kémhatásának leírására használható. A Brönsted-elmélet azonban két etil-alkohol molekula között is leírhatja a protonátmenetet: CH3–CH2–OH + CH3–CH2–OH ⇌ CH3–CH2–OH2+ + CH3–CH2–O–"
+    },
+    {
+      "id": 11,
+      "term": "Kloridion: Arrhenius vs. Brönsted",
+      "definition": "A kloridion (Cl–) Brönsted-bázis, mert képes hidrogéniont felvenni, de nem Arrhenius-bázis, mert a vizes oldata nem növeli a hidroxidionok koncentrációját.",
+      "quote": "Cl– nem OH– forrás",
+      "text": "Ez a különbség mutatja meg, hogy a két elmélet eltérő meghatározásokat használ. Az Arrhenius-elmélet szigorúbb, azt vizsgálja, hogy az oldatban nő-e a hidroxidion-koncentráció, míg a Brönsted-elmélet a protonátmenet lehetőségét nézi."
+    },
+    {
+      "id": 12,
+      "term": "Vizes oldatok kémhatása az Arrhenius-elméletben",
+      "definition": "Az Arrhenius-elmélettel a vizes oldatok kémhatásváltozásai (pH-változásai) könnyebben leírhatók, mivel közvetlenül az ionok koncentrációjáról szól.",
+      "quote": "Könnyen leírható a pH",
+      "text": "Az Arrhenius-elmélet praktikus alkalmazása a pH-skála megértésében és a savas/lúgos oldatok jellemzésében. Az oxónium- és hidroxidionok koncentrációja közvetlenül meghatározza az oldat kémhatását."
+    },
+    {
+      "id": 13,
+      "term": "HCl és Cl– kapcsolata a Brönsted-elméletben",
+      "definition": "Az HCl és Cl– konjugált sav-bázis pár, ahol az HCl a sav és a Cl– a konjugált bázisa.",
+      "quote": "HCl ⇌ Cl– + H+",
+      "text": "Ez az egyensúly az egyik alapvető sav-bázis pár. Az HCl (hidrogén-klorid) a hidrogéniont leadva kloridionná alakul. Fordítva, a Cl– hidrogéniont felvehet és HCl-vé alakulhat."
+    },
+    {
+      "id": 14,
+      "term": "Datív kovalens kötés a protonátmenetben",
+      "definition": "A protonátmenet során a hidrogénion datív kovalens kötést létesít a bázis nemkötő elektronpárjával.",
+      "quote": "Elektronpár adományozás",
+      "text": "Ez azt jelenti, hogy a bázis elektronpárja biztosítja az új kötéshez szükséges elektronokat. A proton (H+) nem saját elektronokkal rendelkezik, így a bázis elektronpárjára támaszkodik a kötés kialakulásához."
+    },
+    {
+      "id": 15,
+      "term": "Sav-bázis elméletek összehasonlítása",
+      "definition": "Az Arrhenius-elmélet vizes oldatokra korlátozódik, míg a Brönsted-elmélet általánosabb és bármilyen protonátmenettel járó rendszerre alkalmazható.",
+      "quote": "Brönsted univerzálisabb",
+      "text": "Az Arrhenius-elmélet egy speciális esete a Brönsted-elméletnek. Az Arrhenius-elmélet még ma is hasznos a gyakorlatban, főként a pH-val kapcsolatos feladatokban, de a Brönsted-elmélet mélyebb megértést nyújt az összes sav-bázis jelenségről."
+    },
+    {
+      "id": 16,
+      "term": "Protonátmenet fogalma",
+      "definition": "A protonátmenet az a folyamat, amikor egy hidrogénion (H+) átkerül az egyik részecskéről egy másikra egy datív kovalens kötés révén.",
+      "quote": "H+ átadása",
+      "text": "A Brönsted-féle sav-bázis reakciók szó szerint protonátmenet-reakciók. A proton a sav nemkötő elektronpárjai közül egyet használva köt a bázis nemkötő elektronpárjához, így datív kovalens kötés jön létre."
+    },
+    {
+      "id": 17,
+      "term": "Víz amfoter volta: HCl-rel",
+      "definition": "A víz HCl-vel szemben bázisként viselkedik, mert a HCl hidrogéniont ad le, a víz pedig felszívolja azt.",
+      "quote": "H2O + H+ = H3O+",
+      "text": "Az egyensúly: HCl + H2O → Cl– + H3O+. A hidrogén-klorid az erős savak közé tartozik, így szinte teljes mértékben reagál a vízzel. A víz ebben az esetben protonot vesz fel, tehát bázisként működik."
+    },
+    {
+      "id": 18,
+      "term": "Víz amfoter volta: NH3-mal",
+      "definition": "A víz NH3-mal szemben savként viselkedik, mert a víz hidrogéniont ad le, az ammónia pedig felszívolja azt.",
+      "quote": "H2O + NH3 = H3O+",
+      "text": "Az egyensúly: NH3 + H2O ⇌ NH4+ + OH–. Az ammónia gyenge bázis, így csak az oldódása során keletkezik hidroxidion. A víz ebben az esetben protonot ad le, tehát savként működik."
+    },
+    {
+      "id": 19,
+      "term": "Erős sav jellemzői",
+      "definition": "Az erős savak vizes oldatban gyakorlatilag teljes mértékben disszociálnak, azaz az összes savmolekula leadja a protonját.",
+      "quote": "100% disszociáció",
+      "text": "Az erős savak közé tartozik a hidrogén-klorid (HCl), a sósav, a kénsav (H2SO4) és a salétromsav (HNO3). Vizes oldatban az ionokra való disszociációjuk szinte teljesen lejátszódik."
+    },
+    {
+      "id": 20,
+      "term": "Gyenge sav jellemzői",
+      "definition": "A gyenge savak vizes oldatban csak részlegesen disszociálnak, egyensúlyra vezetnek, így az oldatban még mindig savmolekulák vannak jelen.",
+      "quote": "Részleges disszociáció",
+      "text": "Az ecetsav (CH3COOH) gyenge sav, oldatában az ecetsavmolekulák kevesebb, mint 1%-a van disszociált formában. A gyenge savak erősségét a savállandó mutatja meg."
+    },
+    {
+      "id": 21,
+      "term": "Savállandó (Ks) meghatározása",
+      "definition": "A savállandó az a szám, amely megmutatja, hogy egy sav mennyire erős, és a sav vízzel lejátszódó disszociációs folyamatának módosított egyensúlyi állandója.",
+      "quote": "Saverősség mérőszáma",
+      "text": "A nagyobb savállandó erősebb savat, a kisebb savállandó gyengébb savat jelent. A savállandót úgy kapjuk, hogy az egyensúlyi állandóból kihagyjuk a víz koncentrációját. Például egy HA savra: Ks = [H3O+][A–]/[HA]"
+    },
+    {
+      "id": 22,
+      "term": "Erős bázis jellemzői",
+      "definition": "Az erős bázisoké ionvegyületek, amelyek az oldódás során közel 100%-ban szétesnek ionokra, így a teljes mennyiségük hydroxidionokká alakul.",
+      "quote": "100% disszociáció",
+      "text": "A nátrium-hidroxid (NaOH) és a kálium-hidroxid (KOH) erős bázisokok. Az oldódás során: NaOH → Na+(aq) + OH–(aq). A kálcium-hidroxid [Ca(OH)2] szintén erős bázis."
+    },
+    {
+      "id": 23,
+      "term": "Gyenge bázis jellemzői",
+      "definition": "A gyenge bázisoké a vízben csak részlegesen disszociálnak, és egyensúlyra vezetnek, így az oldatban még van szabad bázismolekula.",
+      "quote": "Részleges disszociáció",
+      "text": "Az ammónia (NH3) gyenge bázis. Vizes oldatban az egyensúly: NH3 + H2O ⇌ NH4+(aq) + OH–(aq). A gyenge bázisoké báziserősségét a bázisállandó (Kb) jellemzi."
+    },
+    {
+      "id": 24,
+      "term": "Bázisállandó (Kb)",
+      "definition": "A bázisállandó az a szám, amely megmutatja, hogy egy bázis mennyire erős, és a bázis vízzel lejátszódó disszociációs folyamatának módosított egyensúlyi állandója.",
+      "quote": "Bázisobosság mérőszáma",
+      "text": "Az ammónia bázisállandóját például így számítjuk: az NH3 és a víz közötti egyensúlyi folyamatból Kb = [NH4+][OH–]/[NH3]. Nagyobb Kb érték erősebb bázist jelent."
+    },
+    {
+      "id": 25,
+      "term": "Szénsav bomlása",
+      "definition": "A szénsav (H2CO3) könnyen elbomlik szén-dioxid-gázra (CO2) és vízre, ezt a szénsavas ásványvizek és üdítők fogyasztásakor is érezni lehet.",
+      "quote": "H2CO3 → CO2 + H2O",
+      "text": "Az egyensúly: H2CO3 ⇌ H2O + CO2. A szénsav bomlékony vegyület, ezért gyakran CO2-ből származtatjuk a szénsavat vízoldatban. Ez az egyik oka annak, hogy a szénsavas italok sül ki a gázokat."
+    },
+    {
+      "id": 26,
+      "term": "Stabilitás és saverősség kapcsolata",
+      "definition": "A stabilitás és a saverősség nem függ össze, vannak stabil gyenge savak és bomlékony erős savak is.",
+      "quote": "Függetlenek egymástól",
+      "text": "Például a szénsav gyenge sav, de bomlékony (lebomlásnak kitett). Az ecetsav gyenge sav, de stabil. Az erős savak között vannak stabilak (HCl) és instabilak (HClO4 bizonyos feltételek között)."
+    }
+  ]
+}

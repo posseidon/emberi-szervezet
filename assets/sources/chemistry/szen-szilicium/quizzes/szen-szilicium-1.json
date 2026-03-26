@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "szen-szilicium",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik a szén legstabilabb allotróp módosulata közönséges körülmények között?",
+      "options": ["Gyémánt", "Grafit", "Fullerén", "Amorf szén"],
+      "answer": "Grafit"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A grafit szerkezete _____, párhuzamos síkokból áll.",
+      "options": [],
+      "answer": "rétegrácsos"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Miért vezeti az elektromosságot a grafit?",
+      "options": ["Fémek vannak benne", "Delokalizált elektronok a síkok között", "Magas hőmérsékleten olvad", "Poláris szerkezete miatt"],
+      "answer": "Delokalizált elektronok a síkok között"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A gyémánt _____ szerkezetű, ahol minden szénatomot négy szomszédos atom vesz körül.",
+      "options": [],
+      "answer": "tetraéderes"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Milyen szerkezetűek a fullerének?",
+      "options": ["Lineáris", "Gömb vagy labda alakú", "Rétegzett", "Helicális"],
+      "answer": "Gömb vagy labda alakú"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A szilícium _____ anyag, amelyet félfémek közé sorolunk.",
+      "options": [],
+      "answer": "kékesszürke"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik elem a második leggyakoribb a föld kérgében az oxigén után?",
+      "options": ["Vas", "Szilícium", "Alumínium", "Kálcium"],
+      "answer": "Szilícium"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "C + O₂ = _____ (szén teljes égése oxigénfeleslegben)",
+      "options": [],
+      "answer": "CO₂"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Milyen típusú kötés van a szén-monoxidban?",
+      "options": ["Kétszeres", "Egyszeres", "Háromszoros", "Négyszer"],
+      "answer": "Háromszoros"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A szén-monoxid _____ gáz, amely erősebben kötődik a hemoglobinhoz, mint az oxigén.",
+      "options": [],
+      "answer": "mérgező"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Hogyan állítják elő a szén-monoxidot az iparban?",
+      "options": ["Szén és oxigén reakciójával", "Metán és vízgőz reakciójával", "Szenből forró levegővel", "Szén-dioxid redukciójával"],
+      "answer": "Metán és vízgőz reakciójával"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A szén-dioxid szerkezete _____, ezért apoláris.",
+      "options": [],
+      "answer": "lineáris"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Milyen hőmérsékleten szublimál a szárazjég?",
+      "options": ["-50°C", "-78°C", "-100°C", "0°C"],
+      "answer": "-78°C"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "CaCO₃ + 2 HCl = _____ + CaCl₂ + H₂O (laboratóriumi CO₂ előállítása)",
+      "options": [],
+      "answer": "CO₂"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mit jelent az üvegházhatás?",
+      "options": ["Az üveg okozta felmelegedés", "Szén-dioxid elnyelése és újra kibocsátása", "Légkör felmelegedése a Nap által", "Üvegedények hőtartása"],
+      "answer": "Szén-dioxid elnyelése és újra kibocsátása"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A szilícium-dioxid _____ színű, kiemelkedően kemény szilárd anyag.",
+      "options": [],
+      "answer": "fehér"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik sav támadja meg a szilícium-dioxidot?",
+      "options": ["Kénsav", "Sósav", "Hidrogén-fluorid", "Salétromsav"],
+      "answer": "Hidrogén-fluorid"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A szénsav _____, csak vizes oldatban létező vegyület.",
+      "options": [],
+      "answer": "bomlékony"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mit nevezünk szilikonoknak?",
+      "options": ["Szilícium fém", "Si–O– alapvázzal rendelkező óriásmolekulák", "Szilícium-dioxid kristályok", "Szilícium-oxid salak"],
+      "answer": "Si–O– alapvázzal rendelkező óriásmolekulák"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A szilikongumi készítéséhez a szilikon oldalláncait _____ kell végezni.",
+      "options": [],
+      "answer": "térhálósítani"
+    }
+  ]
+}

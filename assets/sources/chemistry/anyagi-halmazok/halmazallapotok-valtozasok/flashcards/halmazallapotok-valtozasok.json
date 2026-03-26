@@ -1,0 +1,158 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mit jelent az olvadás?",
+      "definition": "Az olvadás a folyamat, amelynek során a szilárd anyag melegedéskor cseppfolyóssá alakul. Az olvadáspontot elérve az anyag szerkezete megváltozik.",
+      "quote": "Szilárd folyadékká: az olvadáspont",
+      "text": "Az olvadáskor a részecskék energiája nő és képesek legyőzni a vonzó kölcsönhatások egy részét. A részecskék már nem helyhez kötöttek, egymáson elgördülhetnek, az anyag alakja az edény alakjához igazodik. Az olvadáspont az a hőmérséklet, ahol a szilárd és cseppfolyós állapot egyensúlyban van."
+    },
+    {
+      "id": 2,
+      "term": "Mi az olvadáspont?",
+      "definition": "Az olvadáspont az a hőmérséklet, amelynél az anyag szilárd halmazállapotából cseppfolyós halmazállapotba megy át.",
+      "quote": "Szilárd-folyadék: egyensúlyi hőmérséklet",
+      "text": "Az olvadáspontot az anyag szerkezete és a részecskék közötti kölcsönhatások erőssége határozza meg. Például a jéget képező víz olvadáspontja 0°C. Bizonyos anyagok olvadáspontjához szükséges nyomás is befolyásol (például a víz szokatlan módon alacsonyabb nyomáson olvad meg)."
+    },
+    {
+      "id": 3,
+      "term": "Mit jelent a párolgás?",
+      "definition": "A párolgás a folyamat, amelynek során a folyadék felszínén levő részecskék elegendő energiát kapnak, hogy elhagyják a folyadékot és gázhalmazállapotúvá váljanak.",
+      "quote": "Felszínről gázba: párolgás",
+      "text": "A párolgás szobahőmérsékleten is folyamatosan zajlik, nem csak a forráspontban. Ez az oka, hogy a vizes anyagok idővel kiszáradnak. A párolgássebesség a hőmérséklettől és a felszín nagyságától függ. Magasabb hőmérsékleten gyorsabb a párolgás."
+    },
+    {
+      "id": 4,
+      "term": "Mit jelent a forrás?",
+      "definition": "A forrás az a folyamat, amikor a folyadék belsejében képződnek gázbuborékok, és az anyag teljes térfogata átmegy gázhalmazállapotba.",
+      "quote": "Belül buborékok: forráspont elérve",
+      "text": "A forrás csak az olvadáspont fölötti hőmérsékleten jön létre. A forráspont az a hőmérséklet, ahol a folyadék teljes térfogata gázhalmazállapotúvá alakul. Például a víz forraspontja 100°C normál légköri nyomáson. A forráspontot az anyag és a nyomás határozzák meg."
+    },
+    {
+      "id": 5,
+      "term": "Mi az a szublimáció?",
+      "definition": "A szublimáció olyan halmazállapot-változás, amelynek során az anyag szilárd halmazállapotból közvetlenül gázhalmazállapotba kerül, megkerülve a folyadék fázist.",
+      "quote": "Szilárd egyből gázzá: szublimáció",
+      "text": "A szublimáció nem minden anyagban lehetséges, csak bizonyosakban. Klasszikus példák a szén-dioxid (szárazjég), a jód és a kámfor. A szublimáció feltételei az anyag szerkezete és a körülmények nyomása függenek. Ez egy endoterm folyamat, amely energiát igényel."
+    },
+    {
+      "id": 6,
+      "term": "Mit jelent a kondenzáció vagy lecsapódás?",
+      "definition": "A kondenzáció a fordított párolgás, amikor a gázhalmazállapotú anyag folyadékká alakul melegedés csökkenésével.",
+      "quote": "Gázból folyadékba: kondenzáció",
+      "text": "A kondenzáció akkor megy végbe, amikor az anyag részecskei veszítenek energiájából, és a kölcsönhatások köztük kellően erősek lesznek, hogy folyadékot képezzenek. Ezt szemléltetik az ablakon az őszt szoba-és, vagy a tükörre formálódó vízcseppek. Ez egy exoterm folyamat."
+    },
+    {
+      "id": 7,
+      "term": "Mit jelent a fagyás?",
+      "definition": "A fagyás a fordított olvadás, amikor a cseppfolyós anyag melegedés csökkenésével szilárrá alakul.",
+      "quote": "Folyadékból szilárddá: fagyás",
+      "text": "A fagyás az olvadáspontban történik meg, de fordított irányban. A fagyáspontnak ezt a hőmérsékletet szintén nevezik. A fagyáskor az anyag szerkezete átrendezi és szabályos rácot alkot. Ez szintén exoterm folyamat."
+    },
+    {
+      "id": 8,
+      "term": "Hogyan függ az olvadáspont az anyag szerkezetétől?",
+      "definition": "Az olvadáspont a részecskék közötti kölcsönhatások erősségétől és a részecskék tömegétől függ.",
+      "quote": "Erős kötések: magas olvadáspont",
+      "text": "Erősebb kölcsönhatások magasabb olvadáspontot eredményeznek. Például az ionrácsos anyagok magas olvadáspontúak (NaCl: 801°C), míg a molekularácsos anyagok alacsonyabbak (jég: 0°C). A részecskék tömege is szerepet játszik: könnyebbek atomok vagy molekulák alacsonyabb olvadáspontot eredményeznek."
+    },
+    {
+      "id": 9,
+      "term": "Hogyan függ az olvadáspont a nyomástól?",
+      "definition": "Az olvadáspont értéke általában kissé változik a nyomás függvényében, azonban a víz kivételes esetekben az olvadáspont csökken nyomás alatt.",
+      "quote": "Nyomás: olvadáspont változhat",
+      "text": "A legtöbb anyagot nyomás alatt az olvadáspont nő, de a víz kiváló, anomális esete, ahol nyomás alatt az olvadáspont csökken. Ez azért van, mert az olvadt víz sűrűbb a jégnél. Ez az anomália az oka, hogy a jég siklik a víz alatt nagy nyomáson (ezért működik a korcsolya)."
+    },
+    {
+      "id": 10,
+      "term": "Milyen nyomáson forr a víz 100°C-on?",
+      "definition": "A víz 100°C-on normál légköri nyomáson (101,325 kPa) forr.",
+      "quote": "1 atm: 100°C forráspont",
+      "text": "A forráspont a nyomástól erősen függ. Magasabb nyomáson az anyag forraspontja magasabb lesz. Például a hegyekben alacsonyabb a légköri nyomás, így a víz alacsonyabb hőmérsékleten forr. Az autóklávban a fokozott nyomás miatt magasabb hőmérsékleti forrás lehetséges, ami nagyobb sterilizáló hatásfok."
+    },
+    {
+      "id": 11,
+      "term": "Mi az a cseppfolyós halmazállapot?",
+      "definition": "A cseppfolyós halmazállapot az anyag olyan állapota, amelyben a részecskék még kölcsönhatnak, de képesek pozícióikat megváltoztatni. Az anyag alakja az edénytől függ, de térfogata állandó.",
+      "quote": "Aktív részecskék, nem merev forma",
+      "text": "A folyadék részecskei láncokban és fürtökben állnak össze, amelyek egymáson elgördülhetnek. A folyadék jellegzetes tulajdonságai: összenyomhatatlan, átmenetileg alakot vesz fel az edénytől. Ez az állapot az olvadáspont és a forráspont közötti hőmérsékleten stabil."
+    },
+    {
+      "id": 12,
+      "term": "Mi az a gázhalmazállapot?",
+      "definition": "A gázhalmazállapotban az anyag részecskéi szabadon és egymástól függetlenül mozognak, gyakorlatilag nincsenek köztük kölcsönhatások.",
+      "quote": "Szabad mozgás, tér kitöltése",
+      "text": "A gázhalmazállapot a forráspont felett stabil. A gáz részecskei kitöltik a rendelkezésre álló teret, sűrűsége alacsony a folyadékéhoz képest. A gázokat könnyen lehet összenyomni, és nyomástól és hőmérséklettől függően térfogata változik."
+    },
+    {
+      "id": 13,
+      "term": "Milyen tényezők befolyásolják az olvadáspont és forráspont értékét?",
+      "definition": "Az olvadáspont és forráspont értékét a részecskék közötti kölcsönhatások erőssége és a részecskék tömege határozza meg.",
+      "quote": "Kölcsönhatások erőssége és tömeg",
+      "text": "Erősebb elektrosztatikus vonzás (például ionkötés) magasabb olvadás- és forráspontot eredményez. A molekulatömeg szintén szerepet játszik: nagyobb molekulák általában magasabb forráspontúak. A hidrogénkötés erősen megemelkedik a forráspontot (például a víz anomális módon magas forraspontú a metánhoz képest)."
+    },
+    {
+      "id": 14,
+      "term": "Mit jelent a hőmozgás a szilárd anyagban?",
+      "definition": "A hőmozgás a szilárd anyagban a részecskék helyre nem kötött rezgéseire utal, amit az anyag hőmérséklete határozza meg.",
+      "quote": "Részecskék rezegnek helyükön",
+      "text": "A szilárd anyagban a részecskék nem mozdulnak el helyükről, csak rezegnek a rács körül. A hőmérséklet emelésével a rezgés amplitúdója nő. Az olvadáspontot elérve a rezgések olyan erővé válnak, hogy a részecskék már elhagyják az rácshelyeket, és folyadékká alakul az anyag."
+    },
+    {
+      "id": 15,
+      "term": "Hogyan történik a folyadék gázzá alakulása?",
+      "definition": "A folyadék gázzá alakulása két módon történhet: párolgás (felszínről) vagy forrás (belsejéből). Mindkettő végeredménye gázhalmazállapot.",
+      "quote": "Felszín vagy belül: gázzá alakul",
+      "text": "A párolgás szobahőmérsékleten is zajlik folyamatosan, csak a felszínen. A forrás az olvadáspont feletti hőmérsékleten történik, amikor az anyag belsejében is képződnek gázbuborékok. A forráspont elérve a folyadék teljes térfogata átalakul gázzá."
+    },
+    {
+      "id": 16,
+      "term": "Mi az a fázisátmenet?",
+      "definition": "A fázisátmenet az anyag halmazállapotának megváltozása, amelyet a hőmérséklet vagy nyomás felépítése okoz.",
+      "quote": "Halmazállapot változása: fázisátmenet",
+      "text": "A fázisátmenetekre jellemző, hogy az anyag fizikai tulajdonságai megváltoznak. Az olvadásponton vagy forráspontban az anyag hőmérséklete nem változik, csak az állapota. A fázisátmenet során az anyag az ún. látens hő felhasználása vagy felszabadítása mellett zajlik."
+    },
+    {
+      "id": 17,
+      "term": "Miért nem melegedik az anyag az olvadáspontban?",
+      "definition": "Az olvadáspontban az anyag hőmérséklete nem változik, mert az ebben az időpontban befektetett energia a halmazállapot megváltoztatására fordítódik, nem a hőmérséklet emelésére.",
+      "quote": "Energia: állapot, nem hő",
+      "text": "Az olvadásponton a hőenergia két dologra fordítódik: szakítsa fel a kristályrácsot és adj mozgási energiát a részecskéknek. Ezt az energiát látens hőnek nevezzük. Ezért az olvadáspontban (és a forráspontban is) az anyag hőmérséklete állandó marad, ha továbbra is energiát közlünk vele."
+    },
+    {
+      "id": 18,
+      "term": "Mi a látens hő?",
+      "definition": "A látens hő az az energia, amely szükséges egy anyag halmazállapot-megváltozásához anélkül, hogy hőmérséklet-változás történne.",
+      "quote": "Láthatatlan energia az állapotváltásban",
+      "text": "Az olvadási látens hő az energia, amely az olvadáshoz szükséges, a párolgási (vagy szublimációs) látens hő a gázzá alakuláshoz. A fagyáspontban vagy kondenzációban az anyag ugyanennyi energia felszabadul. Ez az energia az intermolekuláris kötések felbontásához vagy létrehozásához szükséges."
+    },
+    {
+      "id": 19,
+      "term": "Hogyan összevetésül az olvadás és a párolgás energiaigénye?",
+      "definition": "Az olvadáshoz szükséges energia (olvadási látens hő) jóval kevesebb, mint a párolgáshoz szükséges energia (párolgási látens hő).",
+      "quote": "Párolgás több energiát igényel",
+      "text": "Az olvadáskor a részecskék közötti szerkezeti rend bomlanak csak fel. A párolgáskor viszont szinte teljesen meg kell szüntetni az intermolekuláris kölcsönhatásokat. Ezért a párolgási látens hő nagyobb. Például a víz olvadási látens hője 334 kJ/kg, a párolgási látens hője pedig 2260 kJ/kg."
+    },
+    {
+      "id": 20,
+      "term": "Mit jelent a normál olvadáspont?",
+      "definition": "A normál olvadáspont az az olvadáspont, amely normál légköri nyomáson (101,325 kPa) mérhető.",
+      "quote": "1 atm nyomáson mért érték",
+      "text": "A normál olvadáspont az anyag karakterisztikus tulajdonsága, amely azonosítására használható. Például a normál olvadáspont az olvadási egyensúlyi körülmények mellett mérhető. Az olvadáspont nyomás-függő, ezért az értékét mindig meg kell adni a nyomás feltételivel."
+    },
+    {
+      "id": 21,
+      "term": "Mit jelent a forráspont?",
+      "definition": "A forráspont az a hőmérséklet, amelynél az anyag cseppfolyós halmazállapotából gázhalmazállapotba alakul, amikor a teljes térfogat gázbuborékokkal telik meg.",
+      "quote": "Teljes folyadék gázzá alakul",
+      "text": "A forráspont nyomásfüggő. Magasabb nyomáson magasabb forráspont. A normál forráspont a normál légköri nyomáson (101,325 kPa) mérhető. Például a víz normál forraspontja 100°C, de a hegyekben (alacsonyabb nyomáson) 90°C körüli."
+    },
+    {
+      "id": 22,
+      "term": "Milyen sorrend van az endoterm halmazállapot-változások között?",
+      "definition": "Az endoterm halmazállapot-változások: olvadás, párolgás és szublimáció. Mindegyik energiabefektetést igényel.",
+      "quote": "Olvadás, párolgás, szublimáció: energia jön",
+      "text": "Az olvadás során a szilárd anyag folyadékká alakul, párolgáskor a folyadék gázzá, szublimációnál a szilárd közvetlenül gázzá. Ezek mind endoterm folyamatok, amelyek hőenergiát igényelnek. Az ellentétes folyamatok (fagyás, kondenzáció) exoterm, amely során energia felszabadul."
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "kotesek-molekulaszerkezet",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mi az ionkötés alapja?",
+      "options": ["Az elektronmegosztás", "Az elektrosztatikus vonzás ellentétes töltésű ionok között", "Az elektronok delokalizációja", "A vegyértékelektronok megosztása"],
+      "answer": "Az elektrosztatikus vonzás ellentétes töltésű ionok között"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az Na+ és F– ionok között _____ van, amely az ionkötés alapja.",
+      "options": [],
+      "answer": "elektrosztatikus vonzás"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Milyen EN-értékek jelzik a fémes kötést?",
+      "options": ["Mindkettő alacsony (< 2,0)", "Az egyik alacsony, a másik magas (> 1,7 diff)", "Mindkettő magas (> 2,5)", "Az EN értékek azonosak"],
+      "answer": "Mindkettő alacsony (< 2,0)"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A fémes kötésben a vegyértékelektronok _____ az egész szerkezetben.",
+      "options": [],
+      "answer": "delokalizálódnak"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mit jelent az 'oktettszabály'?",
+      "options": ["Az atomok maximum 4 elektronot szerezhetnek", "A második periódus elemeinek max. 8 vegyértékelektronja lehet", "Az összes elem 8 elektronra törekszik", "A harmadik periódus elemeinek max. 8 elektronjuk van"],
+      "answer": "A második periódus elemeinek max. 8 vegyértékelektronja lehet"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A Cl2 molekulában két klóratom _____ elektronokat oszt meg egymással.",
+      "options": [],
+      "answer": "egy párt"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Milyen a C=O kettős kötés szerkezete?",
+      "options": ["1 szigma-kötés, 1 pí-kötés", "2 szigma-kötés", "1 szigma-kötés, 2 pí-kötés", "3 pí-kötés"],
+      "answer": "1 szigma-kötés, 1 pí-kötés"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A datív kötés az a speciális kovalens kötés, ahol mindkét elektront _____ atom szolgáltatja.",
+      "options": [],
+      "answer": "az egyik"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Hogyan alakul ki ionkötés a Na és F között?",
+      "options": ["Na elektronokat ad le, F felvesz; Na+ és F– ionok képződnek", "Na és F elektronokat osztanak meg", "A Na delokalizálja elektronjait az F körül", "A Na és F fémes kötést alkot"],
+      "answer": "Na elektronokat ad le, F felvesz; Na+ és F– ionok képződnek"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az NH3 molekulában az N körül _____ nemkötő elektronpár van.",
+      "options": [],
+      "answer": "egy"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mely szerkezeti típus alakul ki 2 ligandummal és 0 nemkötő párral?",
+      "options": ["Lineáris (180°)", "V-alak (90-120°)", "Síkháromszög (120°)", "Tetraéderes (109,5°)"],
+      "answer": "Lineáris (180°)"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A víz H–O–H kötésszöge körülbelül _____ °.",
+      "options": [],
+      "answer": "104,5"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Miért poláris a H2O molekula?",
+      "options": ["Az O–H kötések apolárisak, de a V-alak forma miatt poláris", "Az O–H kötések polárisak és a V-alak forma miatt az eredő vektor nem nulla", "Az O–H kötések polárisak és a szerkezet szimmetrikus", "Az O–H kötések apolárisak és az elektronok szimmetrikusan oszlanak meg"],
+      "answer": "Az O–H kötések polárisak és a V-alak forma miatt az eredő vektor nem nulla"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az elektronegativitás-különbség nagyobb, mint _____ akkor tekintik az ionkötést.",
+      "options": [],
+      "answer": "1,7"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mely molekulák között van delokalizáció?",
+      "options": ["Benzol (π-elektronok a gyűrűben)", "Víz (H2O)", "Metán (CH4)", "Klórmolekula (Cl2)"],
+      "answer": "Benzol (π-elektronok a gyűrűben)"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az ionrác egy _____ szerkezet, ahol az ionok felváltva helyezkednek el.",
+      "options": [],
+      "answer": "háromdimenziós"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Miért vezet a metán elektromosságot az olvadt állapotban?",
+      "options": ["Mert az elektronok szabad mozgásban vannak", "Nem vezet elektromosságot sem szilárd sem olvadt állapotban", "Mert a kovalens kötések disszociálnak", "Mert az elektronok ionokká válnak"],
+      "answer": "Nem vezet elektromosságot sem szilárd sem olvadt állapotban"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A kötéspolaritást a _____ közötti különbség határozza meg.",
+      "options": [],
+      "answer": "elektronegativitás"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mely molekula lineáris és apoláris poláris kötésekkel?",
+      "options": ["CO2 (O=C=O lineáris, szimmetrikus)", "H2O (V-alak, nem szimmetrikus)", "NH3 (piramis, nem szimmetrikus)", "HCl (kovalens, poláris)"],
+      "answer": "CO2 (O=C=O lineáris, szimmetrikus)"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A szerkezeti képletben a nemkötő elektronpárokat _____ vagy _____ szokás jelölni.",
+      "options": [],
+      "answer": "pontok, vonalak"
+    }
+  ]
+}

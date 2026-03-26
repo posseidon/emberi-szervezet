@@ -1,0 +1,209 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "egyszeru-ionok",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Milyen elektronszerkezetű részecskék azok a nemesgázok, amelyeket az ionok stabilnak próbálnak elérni?",
+      "options": [
+        "Minden olyan alhéjuk teljesen fel van töltve, amelyen vannak elektronok",
+        "Az összes alhéjuk részlegesen betöltött",
+        "Csak egy betöltött alhéjuk van",
+        "Az elektronok az atommaghoz nagyon közel helyezkednek el"
+      ],
+      "answer": "Minden olyan alhéjuk teljesen fel van töltve, amelyen vannak elektronok"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Egy atom milyen módon érheti el a nemesgázszerkezetet?",
+      "options": [
+        "Csak elektronleadás révén",
+        "Csak elektronfelvétel révén",
+        "Elektronleadás vagy elektronfelvétel révén",
+        "Neutronok leadása vagy felvétele révén"
+      ],
+      "answer": "Elektronleadás vagy elektronfelvétel révén"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Az I. főcsoport (alkálifémek) elemei miért képeznek egyszeresen pozitív töltésű ionokat?",
+      "options": [
+        "Mert a vegyértékhéjukon egy elektron van, és ennek leadásával nemesgázszerkezetet érnek el",
+        "Mert több elektronjuk van, mint a nemesgázoknak",
+        "Mert az atommagban több proton van, mint az elektronok száma",
+        "Mert a főcsoportok meghatározása szerint kell pozitív iont képezniük"
+      ],
+      "answer": "Mert a vegyértékhéjukon egy elektron van, és ennek leadásával nemesgázszerkezetet érnak el"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Az VII. főcsoport (halogének) elemei, például a bróm (Br), miért képeznek egyszeresen negatív töltésű ionokat?",
+      "options": [
+        "Mert több protonuk van, mint az I. főcsoportnak",
+        "Mert csupán egy elektronnal van kevesebb a vegyértékhéjukon, mint a nemesgázoknak",
+        "Mert az elektronjaikat könnyen elvesztik",
+        "Mert a VII. főcsoport meghatározása szerint negatív iont kell képezniük"
+      ],
+      "answer": "Mert csupán egy elektronnal van kevesebb a vegyértékhéjukon, mint a nemesgázoknak"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Hogyan változik az atom mérete, amikor pozitív ionná alakul?",
+      "options": [
+        "Az ion nagyobb lesz az eredeti atomnál",
+        "Az ion kisebb lesz az eredeti atomnál",
+        "Az ion mérete nem változik",
+        "Az ion mérete csak akkor csökken, ha több elektront veszít"
+      ],
+      "answer": "Az ion kisebb lesz az eredeti atomnál"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Amikor egy atom elektront veszít és pozitív iont képez, az így keletkezett részecskét _____ nevezünk.",
+      "options": [],
+      "answer": "kationnak"
+    },
+    {
+      "id": 7,
+      "type": "BLANK",
+      "question": "Az elektronleadás vagy elektronfelvétel révén keletkező, elektromosan töltött részecskéket _____ ionoknak nevezzük.",
+      "options": [],
+      "answer": "egyszerű"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "A nátriumion (Na+) és a neon atom (Ne) elektronszerkezete azonos. Mi ennek az oka?",
+      "options": [
+        "A Na atom elektront veszít, és ezáltal azonos protonszámú neonionná alakul",
+        "A Na atom egy elektront veszít, és így azonos elektronszámú lesz, mint a Ne atom",
+        "A Na és a Ne között nincs valós különbség az elektronszerkezetben",
+        "A neon az alkálifém, amely könnyen leadja elektronjait"
+      ],
+      "answer": "A Na atom egy elektront veszít, és így azonos elektronszámú lesz, mint a Ne atom"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "A bromidion (Br–) és a kripton atom (Kr) elektronszerkezete azonos. Mi a magyarázat?",
+      "options": [
+        "A Br atom egy elektront vesz fel, így azonos elektronszámú lesz, mint a Kr atom",
+        "A Br és a Kr ugyanaz az elem csak különböző ionállapotban",
+        "A Kr atom egyetlen elektronját megosztja a brómmal",
+        "A bromidion radioaktívvá alakul a kripton hatására"
+      ],
+      "answer": "A Br atom egy elektront vesz fel, így azonos elektronszámú lesz, mint a Kr atom"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Az első ionizációs energia definícióját tekintve, melyik folyamat írja azt le helyesen?",
+      "options": [
+        "1 mól gáz halmazállapotú atom összes elektronját elvonják",
+        "1 mól gáz halmazállapotú atomból a legkönnyebben leszakítható elektront eltávolítják, 1 mól egyszeresen pozitív ion képződik",
+        "1 mól gáz halmazállapotú ionból elektront adnak hozzá",
+        "1 mól atommagból protonokat távolítanak el"
+      ],
+      "answer": "1 mól gáz halmazállapotú atomból a legkönnyebben leszakítható elektront eltávolítják, 1 mól egyszeresen pozitív ion képződik"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "Amikor egy atom elektront vesz fel és negatív iont képez, az így keletkezett részecskét _____ nevezünk.",
+      "options": [],
+      "answer": "anionnak"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Az ionizációs energia nagyobb lesz, ha az ionképződés után az ion elektronszerkezete kedvezőtlenebb vagy kedvezőbb?",
+      "options": [
+        "Kedvezőbb esetén nagyobb az ionizációs energia",
+        "Kedvezőtlenebb esetén nagyobb az ionizációs energia",
+        "Az elektronszerkezet minősége nem befolyásolja az ionizációs energiát",
+        "Az ionizációs energia a legkülső elektron típusától függ"
+      ],
+      "answer": "Kedvezőtlenebb esetén nagyobb az ionizációs energia"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Miért van nagy első ionizációs energiája a nemesgázoknak?",
+      "options": [
+        "Mert az atomjaik nagyon nagyok",
+        "Mert a stabil, lezárt alhéjakat meg kell bontani az ionizáláshoz",
+        "Mert a nemesgázok kevés elektronnal rendelkeznek",
+        "Mert a nemesgázok nem is ionizálódnak"
+      ],
+      "answer": "Mert a stabil, lezárt alhéjakat meg kell bontani az ionizáláshoz"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az egyszeresen negatív töltésű ionok képződését kísérő energiaváltozást _____ nevezzük.",
+      "options": [],
+      "answer": "elektronaffinitásnak"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az ionsugár hogyan viszonyul az eredeti atom sugarához?",
+      "options": [
+        "A pozitív ionok kisebb méretűek, a negatív ionok nagyobbak az eredeti atomnál",
+        "A pozitív ionok nagyobbak, a negatív ionok kisebbek az eredeti atomnál",
+        "Az ionok mérete megegyezik az eredeti atom méretével",
+        "Az ionsugár az atomok típusától függ, nincs általános szabály"
+      ],
+      "answer": "A pozitív ionok kisebb méretűek, a negatív ionok nagyobbak az eredeti atomnál"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "A vas (Fe) atom Fe2+ és Fe3+ iont is képezhet. Melyik lesz nagyobb méretű?",
+      "options": [
+        "A Fe2+ lesz nagyobb, mert kevesebb elektront veszített",
+        "A Fe3+ lesz nagyobb, mert több elektront veszített",
+        "Egyforma nagyságúak lesznek",
+        "Nem lehet meghatározni az elektronszám ismerete nélkül"
+      ],
+      "answer": "A Fe2+ lesz nagyobb, mert kevesebb elektront veszített"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "Az ionizációs energia azt az energiaváltozást jelenti, amely az egy elektron _____ szükséges.",
+      "options": [],
+      "answer": "eltávolításához"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Mi történik az elektronszerkezettel, amikor egy nátriumatom (Na) nátriumiont (Na+) képez?",
+      "options": [
+        "Az utolsó elektronhéj teljesen kiürül",
+        "Az utolsó elektronhéj (3. héj) elektronját elveszti, így elektronszerkezete a neonéval azonos lesz",
+        "Az elektronok átrendeződnek, de az utolsó héjon maradt egy elektron",
+        "Az atommag protonszáma csökken"
+      ],
+      "answer": "Az utolsó elektronhéj (3. héj) elektronját elveszti, így elektronszerkezete a neonéval azonos lesz"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Az elektronaffinitás képletében az alábbiak közül melyik az egyensúlyi egyenlet?",
+      "options": [
+        "A(g) → A+(g) + e–",
+        "A(g) + e– → A–(g)",
+        "A+(g) + e– → A(g)",
+        "A–(g) → A(g) + e–"
+      ],
+      "answer": "A(g) + e– → A–(g)"
+    }
+  ]
+}

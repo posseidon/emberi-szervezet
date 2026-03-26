@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "kotesek-molekulaszerkezet",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mitől függhet az ionok aránya az ionvegyületben?",
+      "options": ["Az ionok töltéseitől", "Az atomok méretétől", "A hőmérséklettől", "Az oldószer polaritásától"],
+      "answer": "Az ionok töltéseitől"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A CaBr2 képletben egy Ca2+ ionra _____ Br– ion jut, hogy a töltések kiegyensúlyozottak legyenek.",
+      "options": [],
+      "answer": "két"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mit jelent az, hogy az elektron 'delokalizált'?",
+      "options": ["Az elektron csak egy atom körül van", "Az elektron több atommag vonzása alatt áll", "Az elektron megosztódik két atom között", "Az elektron az ionok között van"],
+      "answer": "Az elektron több atommag vonzása alatt áll"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az alumínium-klorid (AlCl3) az EN-diff alapján körülbelül _____ ionos és _____ kovalens karakterrel rendelkezik.",
+      "options": [],
+      "answer": "50%, 50%"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mely szerkezeti típus alakul ki 3 ligandummal és 1 nemkötő párral?",
+      "options": ["Trigonális piramis", "V-alak", "Síkháromszög", "Lineáris"],
+      "answer": "Trigonális piramis"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az ammónia (NH3) trigonális piramis szerkezetének H–N–H kötésszöge körülbelül _____ °.",
+      "options": [],
+      "answer": "107"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mit jelent a 'kötéstávolság'?",
+      "options": ["Az atom mérete", "A kovalens kötésben szereplő atom atommagja közötti távolság", "Az elektron és az atommag közötti távolság", "Az ionpárok közötti távolság"],
+      "answer": "A kovalens kötésben szereplő atom atommagja közötti távolság"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az etin (HC≡CH) hármas kötése _____ szigma-kötésből és _____ pí-kötésből áll.",
+      "options": [],
+      "answer": "egy, két"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Hogyan viszonylik a kötési energia az egyszeres és kettős kötéshez?",
+      "options": ["Az egyszeres kötés erősebb", "A kettős kötés erősebb", "Egyenlő az erősségük", "Függ az atomok méretétől"],
+      "answer": "A kettős kötés erősebb"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A poláris kovalens kötésben az elektron az _____ atom felé tolódik.",
+      "options": [],
+      "answer": "elektronnegatívabb"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Miért alapszabály az 'oktettszabály' csak a második periódustól?",
+      "options": ["Mert a harmadik periódustól több d-pálya van", "Mert az első periódusban csak 2 elektron van", "Mert az összes elem 8 elektronra törekszik", "Mert a harmadik periódustól az atomok nagyobbak"],
+      "answer": "Mert a harmadik periódustól több d-pálya van"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az olyan molekulák, ahol az elektronpárok taszítanak egymást, az _____ elmélet alapján írhatók le.",
+      "options": [],
+      "answer": "VSEPR (elektronpár-taszítási)"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mitől függ a molekula polaritása?",
+      "options": ["Csak a kötések poláritásától", "Csak a molekula alakjától", "A kötések poláritásától és a molekula alakjától egyaránt", "Az atomok elektronegativitásaitól"],
+      "answer": "A kötések poláritásától és a molekula alakjától egyaránt"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az olyan molekulák, mint az O2, N2, Cl2 _____ , mert az elektronpárok szimmetrikusan oszlanak meg.",
+      "options": [],
+      "answer": "apolárisak"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mit jelent az 'törzselektron' a fémes szerkezetben?",
+      "options": ["Az összes elektron a fémes szerkezetben", "Az elektron, amely delokalizált", "A belső héjon lévő elektron, amely nem vesz részt a kötésben", "A vegyértékelektron"],
+      "answer": "A belső héjon lévő elektron, amely nem vesz részt a kötésben"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A benzolban a _____ elektronok a gyűrű hat szénatomján delokalizálódnak.",
+      "options": [],
+      "answer": "π (vagy pi)"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik szerkezeti típus alakul ki 4 ligandummal és 0 nemkötő párral?",
+      "options": ["Lineáris", "V-alak", "Síkháromszög", "Tetraéderes"],
+      "answer": "Tetraéderes"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az osszeétett ionok _____ molekulákból képződnek kovalens kötéseken keresztül.",
+      "options": [],
+      "answer": "molekulákból"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Miért nem vezetik az elektromosságot az ionos szilárdanyagok?",
+      "options": ["Mert az elektronok lokalizáltak az ionokra", "Mert az ionok nem mozognak szilárd állapotban", "Mert nincs elektromos tér", "Mert a kovalens kötések blokkolják az áramot"],
+      "answer": "Mert az ionok nem mozognak szilárd állapotban"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A metánban (CH4) az H–C–H kötésszögek _____ °, amely az ideális tetraéderes szög.",
+      "options": [],
+      "answer": "109,5"
+    }
+  ]
+}

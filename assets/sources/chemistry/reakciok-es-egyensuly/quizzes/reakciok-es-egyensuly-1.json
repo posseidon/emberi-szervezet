@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "reakciok-es-egyensuly",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Milyen halmazállapot-jelöléseket használunk a termokémiai egyenletekben?",
+      "options": ["(a), (b), (c), (d)", "(sz), (f), (g), (aq)", "(s), (l), (v), (m)", "(szilárd), (folyadék), (gáz), (oldat)"],
+      "answer": "(sz), (f), (g), (aq)"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az _____ olyan anyag, amely az aktiválási energiát lecsökkenti, így gyorsabbá teszi a reakciót, de maga nem változik meg.",
+      "options": [],
+      "answer": "katalizátor"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Hogyan írjuk le a megfordítható kémiai folyamatokat az egyenletekben?",
+      "options": ["→ nyíllal", "= egyenlőségjellel", "⇌ egyensúlyi nyíllal", "↔ kétirányú nyíllal"],
+      "answer": "⇌ egyensúlyi nyíllal"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Melyik a reakciósebesség általános képlete?",
+      "options": ["v = c/t", "v = Δc/Δt", "v = t/c", "v = c·t"],
+      "answer": "v = Δc/Δt"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "Az endoterm folyamat során a rendszer energiát _____ a környezetből hő formájában.",
+      "options": [],
+      "answer": "vesz fel"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Melyik folyamat exoterm (hő felszabadul)?",
+      "options": ["Kálium-nitrát oldódása vízben", "Jég olvadása", "Kénsav oldódása vízben", "Víz forrása"],
+      "answer": "Kénsav oldódása vízben"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Az egyensúlyi állandó (K) kifejezésében mely szabály alapján írjuk fel a reaktánsok és termékek hatványait?",
+      "options": ["Tetszőleges hatványok", "A sztöchiometriai együtthatók", "Mindig négyzetreemelés", "Az oldódhatóság alapján"],
+      "answer": "A sztöchiometriai együtthatók"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az N2 + 3 H2 ⇌ 2 NH3 ammóniaszintézis reakció _____ (exoterm/endoterm), ezért a nyomás növelése elősegíti a termékképződést.",
+      "options": [],
+      "answer": "exoterm"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik következtetés helyes, ha az egyensúlyi állandó K = 0,01?",
+      "options": ["Az egyensúly a termékek felé tolódott", "Az egyensúly a reaktánsok felé tolódott", "Az anyagok egyforma arányban vannak", "Az egyensúly instabil"],
+      "answer": "Az egyensúly a reaktánsok felé tolódott"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Hogyan hat a katalizátor az egyensúlyi állandó (K) értékére?",
+      "options": ["Növeli a K értékét", "Csökkenti a K értékét", "Nem befolyásolja a K értékét", "Fordítottan arányosan változtatja"],
+      "answer": "Nem befolyásolja a K értékét"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "A _____ elv szerint az egyensúlyi rendszer a külső hatásokra úgy reagál, hogy azokat kompenzálja.",
+      "options": [],
+      "answer": "Le Chatelier"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Mi a sztöchiometriai összefüggés a 2 H2 + O2 = 2 H2O egyenletben?",
+      "options": ["2:1:2 mólok", "1:1:1 mólok", "2:2:2 mólok", "1:2:1 mólok"],
+      "answer": "2:1:2 mólok"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Az oldódás folyamata milyen két részfolyamatból áll?",
+      "options": ["Párolgás és csapadékképződés", "Kristályrács felbomlása és hidratáció", "Olvadás és kondenzáció", "Oxidáció és redukció"],
+      "answer": "Kristályrács felbomlása és hidratáció"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Ha az oldódás ΔH értéke pozitív, az azt jelenti, hogy az oldódás _____ folyamat.",
+      "options": [],
+      "answer": "endoterm"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik állítás igaz a dinamikus egyensúlyra?",
+      "options": ["A makroszkópikus szinten minden folyamat megáll", "Mikroszópikusan a folyamatok megállnak", "A mikroszkópikus szinten mindkét irányú folyamat zajlik, de az összetétel állandó", "Az enzimek stabilizálják az egyensúlyt"],
+      "answer": "A mikroszkópikus szinten mindkét irányú folyamat zajlik, de az összetétel állandó"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Mi az Arrhenius-egyenlet fő jelentése?",
+      "options": ["Az egyensúly megállapodási idejét adja meg", "A sebességi állandó hőmérsékleti függésének képletét adja", "Az aktiválási energia növekedésének ritmusát mutatja", "A termodinamikai stabilitást fejezi ki"],
+      "answer": "A sebességi állandó hőmérsékleti függésének képletét adja"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "Az egyszeű anyagok (elemek) _____ képződéshője 0.",
+      "options": [],
+      "answer": "standard"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Melyik tényezőnek NINCS közvetlen hatása az egyensúly helyzetére?",
+      "options": ["Nyomás", "Hőmérséklet", "Katalizátor", "Koncentrációváltoztatás"],
+      "answer": "Katalizátor"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Ha a H2 + I2 ⇌ 2 HI egyensúlyhoz NO2-t adunk hozzá, milyen irányba tolódik az egyensúly?",
+      "options": ["Az előre irányba (terméképződés)", "A visszafelé irányba (reaktánsképződés)", "Nem tolódik, mert NO2 nem szerepel az egyenletben", "Az egyensúly megbillen, majd visszaáll"],
+      "answer": "Nem tolódik, mert NO2 nem szerepel az egyenletben"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az Hess-tétel azt mondja ki, hogy a reaktánsok és termékek közötti energia-különbség _____ az úttól, csak a kezdet és vég számít.",
+      "options": [],
+      "answer": "független"
+    }
+  ]
+}

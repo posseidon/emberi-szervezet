@@ -1,0 +1,254 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "vizes-oldatok-kemiahatasa",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "A tiszta, desztillált vízben szobahőmérsékleten az oxónium- és hidroxidionok egyenlő koncentrációja milyen pH értéknek felel meg?",
+      "options": [
+        "pH = 0",
+        "pH = 7",
+        "pH = 14",
+        "pH = -7"
+      ],
+      "answer": "pH = 7"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A hidroxid- és oxóniumionok koncentrációjának szorzatát _____ szorzatnak nevezzük.",
+      "options": [],
+      "answer": "vízionszorzat"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "A vízionszorzat (Kv = 10–14 mol²/dm6) szobahőmérsékleten milyen fizikai mennyiségtől függ elsősorban?",
+      "options": [
+        "az oldatban jelen lévő sók koncentrációjától",
+        "a hőmérséklettől",
+        "az oldószer térfogatától",
+        "a légköri nyomástól"
+      ],
+      "answer": "a hőmérséklettől"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Ha egy savas oldatban [H3O+] = 10–3 mol/dm3, akkor mekkora a [OH–] koncentráció a szobahőmérsékletű vízben?",
+      "options": [
+        "10–3 mol/dm3",
+        "10–11 mol/dm3",
+        "10–7 mol/dm3",
+        "10–14 mol/dm3"
+      ],
+      "answer": "10–11 mol/dm3"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A kémhatást számszerűen a _____ (pH) jelenti, amely a hidrogénionok koncentrációjának negatív logaritmusa.",
+      "options": [],
+      "answer": "pH-érték"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Az agua autoprotolízisében képződött oxónium- és hidroxidionok milyen arányban vannak jelen?",
+      "options": [
+        "tetszőleges arányban",
+        "1:2 arányban",
+        "2:1 arányban",
+        "1:1 arányban"
+      ],
+      "answer": "1:1 arányban"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "A HCl vízben való oldódása során mivel érhető el a gyakorlatilag 100%-os disszociáció?",
+      "options": [
+        "a magas hőmérséklet miatt",
+        "a hidrogénklorid magas poláris momintuma miatt",
+        "azért, mert a víz a HCl-nél erősebb Brönsted-bázis",
+        "azért, mert az Arrhenius-elmélet így követeli meg"
+      ],
+      "answer": "azért, mert a víz a HCl-nél erősebb Brönsted-bázis"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A kisebb pH érték _____ oldatot jelent, a nagyobb pH érték pedig lúgos oldatot.",
+      "options": [],
+      "answer": "savas"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "A pH-skála mely tartománya felel meg a savas kémhatásnak szobahőmérsékleten?",
+      "options": [
+        "pH > 7",
+        "pH < 7",
+        "pH = 7",
+        "pH < 0"
+      ],
+      "answer": "pH < 7"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Az nátrium-hidroxid vizes oldatában mely folyamat játszódik le az ionizáció során?",
+      "options": [
+        "az NaOH molekulák protonátmenetet szenvednek",
+        "az ionvegyület disszociál Na+ és OH– ionokra",
+        "az NaOH az oxidációs szám alapján lebomlik",
+        "az NaOH kovalens kötést alakít ki a vízzel"
+      ],
+      "answer": "az ionvegyület disszociál Na+ és OH– ionokra"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "Az a folyamat, amellyel egy sav oxóniumionok koncentrációját növeli a vízben, _____ disszociáció.",
+      "options": [],
+      "answer": "savas"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "A pH egyenlet (pH = –lg[H+]) melyik feltételezésen alapul?",
+      "options": [
+        "[H+] = [H3O+], mivel a hidrogénionok a vízben oxóniumionként vannak jelen",
+        "a hidrogénionok és az oxóniumionok különböznek",
+        "[H+] koncentrációja független az [H3O+] koncentrációjától",
+        "a pH közvetlenül nem függ az ionkoncentrációtól"
+      ],
+      "answer": "[H+] = [H3O+], mivel a hidrogénionok a vízben oxóniumionként vannak jelen"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A egyetemes indikátor vagy pH-papír milyen információt szolgáltat?",
+      "options": [
+        "csak azt, hogy az oldat savas vagy lúgos",
+        "a körülbelüli pH értéket és az oldatnak a savas vagy lúgos voltát",
+        "a pontos pH értéket mikroszintű pontossággal",
+        "a redoxireakció esetleges meglétét"
+      ],
+      "answer": "a körülbelüli pH értéket és az oldatnak a savas vagy lúgos voltát"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ olyan szerves festékanyag, amely a kémhatás függvényében megváltoztatja a színét.",
+      "options": [],
+      "answer": "sav-bázis indikátor"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az ammónia (NH3) miért tekinthető gyenge bázisnak?",
+      "options": [
+        "mert nem képez hidroxidionokat a vízben",
+        "mert csak részlegesen reagál a vízzel és egyensúlyi állapot alakul ki",
+        "mert nem poláris molekula",
+        "mert magasabb hőmérsékleten nem oldódik a vízben"
+      ],
+      "answer": "mert csak részlegesen reagál a vízzel és egyensúlyi állapot alakul ki"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Az erős savak közé tartozó hidrogén-klorid (HCl) miért mutatja az Arrhenius-elmélet szerint a legnagyobb savas jelleget?",
+      "options": [
+        "mert a molekuláris szerkezete miatt szimmetrikus",
+        "mert szinte 100%-ban disszociál vízben és nagymértékben növeli az oxóniumionok koncentrációját",
+        "mert az erős hidrogénkötések miatt nem oldódik a vízben",
+        "mert a klórion a legjobb Brönsted-bázis"
+      ],
+      "answer": "mert szinte 100%-ban disszociál vízben és nagymértékben növeli az oxóniumionok koncentrációját"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "A savállandó (Ks) azt mutatja meg, hogy az _____-os folyamatban mekkora az egyensúlyi konstans.",
+      "options": [],
+      "answer": "disszociációs"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Mely állítás igaz a nagyobb savállandóval rendelkező savra?",
+      "options": [
+        "gyengébb sav",
+        "erősebb sav",
+        "nagyobb disszociációs foka",
+        "a b és c is igaz"
+      ],
+      "answer": "a b és c is igaz"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "A szénsav (H2CO3) báziserőssége tekintetében mely kategóriába sorolható?",
+      "options": [
+        "erős savnak",
+        "gyenge savnak",
+        "erős bázisnak",
+        "bomlékony, de nem klasszifikálható kémhatása alapján"
+      ],
+      "answer": "gyenge savnak"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "A hidrogén-klorid vizes oldatában az OH– ionok koncentrációja lecsökken, miért?",
+      "options": [
+        "az oxóniumionok reagálnak a hidroxidionokkal és vizet képeznek",
+        "a kloridionok kötik meg a hidroxidionokat",
+        "a víz szétesik",
+        "a pH-érték nő"
+      ],
+      "answer": "az oxóniumionok reagálnak a hidroxidionokkal és vizet képeznek"
+    },
+    {
+      "id": 21,
+      "type": "BLANK",
+      "question": "A kövér savakat és a kövér bázisokat többféle szempont alapján jellemezzük, egyik ilyen szempont az, hogy hány _____ tud leadni vagy felvenni a részecske.",
+      "options": [],
+      "answer": "proton"
+    },
+    {
+      "id": 22,
+      "type": "MC",
+      "question": "Az ecetsav (CH3COOH) értékűsége miért egyértékű, ha négy hidrogénatom van a molekulájában?",
+      "options": [
+        "mert az összes hidrogén egyformán szabad",
+        "mert a szénatomhoz kapcsolódó hidrogének általában nem savasak",
+        "mert a molekula szerkezetileg nem engedi az összes hidrogén leadását",
+        "mert az Arrhenius-elmélet így írja elő"
+      ],
+      "answer": "mert a szénatomhoz kapcsolódó hidrogének általában nem savasak"
+    },
+    {
+      "id": 23,
+      "type": "BLANK",
+      "question": "Az olyan anyagokat, amelyek a vízhez adva megnövelik az oxónium- vagy hidroxidionok koncentrációját, _____ savnak vagy bázisnak nevezzük.",
+      "options": [],
+      "answer": "Arrhenius"
+    },
+    {
+      "id": 24,
+      "type": "MC",
+      "question": "A víz autoprotolízise milyen egyensúlyi folyamat?",
+      "options": [
+        "kizárólag az egyik irányban zajlik",
+        "szinte teljes mértékben az egyik irányban zajlik",
+        "egyensúlyra vezet, de az egyensúly nagy mértékben az eredeti víz felé tolódik",
+        "1:1 arányban mindkét oldalra tolódik"
+      ],
+      "answer": "egyensúlyra vezet, de az egyensúly nagy mértékben az eredeti víz felé tolódik"
+    }
+  ]
+}

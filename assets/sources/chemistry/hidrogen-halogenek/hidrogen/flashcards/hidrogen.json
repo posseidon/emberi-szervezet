@@ -1,0 +1,179 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Hidrogén - alapvető tulajdonságai",
+      "definition": "Az elemi hidrogén színtelen, szagtalan, a levegőnél kisebb sűrűségű gáz, amely éghető és színtelen lánggal ég. Oxigénnel robbanóelegyet (durranógáz) alkot.",
+      "quote": "Légénél könnyebb, éghető gáz",
+      "text": "A hidrogén az elemi állapotban előforduló legkönnyebb gáz az összes ismert elem közül. Sűrűsége közel 14-szerese kisebb az azonos körülmények között mért levegő sűrűségénél. Ez az alacsony sűrűség teszi alkalmas léggömb töltésére, illetve a történelemben léghajók hajtányagául. Az égéskor keletkező termék a víz, amely a hidrogén katalizáló gyújtása során világító kékeszöld lánggal ég."
+    },
+    {
+      "id": 2,
+      "term": "Hidrogén izotópjai",
+      "definition": "A hidrogénnak három természetes izotópja van: protium (1H, 99,98%), deutérium (2H, stabil), és trícium (3H, radioaktív, t1/2 ≈ 12 év). A deutérium nehézhidrogénként is ismert.",
+      "quote": "Protium, deutérium, trícium",
+      "text": "A hidrogén három izotópja különböző neutronszámmal rendelkezik. A leggyakoribb protium egy protonból és egy elektronból áll, neutront nem tartalmaz. A deutérium egy proton és egy neutron van a magban, ami megkétszerezi a tömegét. A trícium három nukleonnal rendelkezik és beta-bomlást végez, felezési ideje körülbelül 12 év. A deutérium-trícium keverék a leendő fúziós erőművek üzemanyagának alapja."
+    },
+    {
+      "id": 3,
+      "term": "Hidrogénmolekula szerkezete",
+      "definition": "A hidrogén H2 kétatomos molekulából áll, amelyben az atomok között egyszeres kovalens kötés alakul ki (H–H). A molekularácsot diszperziós kölcsönhatások tartják össze.",
+      "quote": "Egyszeres kovalens H–H kötés",
+      "text": "A hidrogénmolekula egy σ-kötéssel kapcsolódó dimer, ahol a két hidrogén atom elektronjai maximálisan átfedésben vannak. Ez a kötés nagyon erős (436 kJ/mol), ami a hidrogén nagy kémiai stabilitását magyarázza. Az apoláris H2 molekulákat szilárdan csupán gyenge van der Waals erők (diszperziós kölcsönhatások) tartják össze, ezért a melting és boiling pointok rendkívül alacsonyak."
+    },
+    {
+      "id": 4,
+      "term": "Hidrogén olvadás- és forráspontja",
+      "definition": "A hidrogén olvadáspontja 14 K (-259 °C), forráspontja 20 K (-253 °C). Ez az összes elem közül a legalacsonyabb érték.",
+      "quote": "14 K és 20 K - legalacsonyabb",
+      "text": "A hidrogén körülbelül 14 kelvinen fagy meg normál nyomáson, és körülbelül 20 kelvinen forr. Ez azért van, mert az apoláris H2 molekulákat csak gyenge diszperziós kölcsönhatások tartják össze. Még a hélium is magasabb forrásponttal rendelkezik (4,2 K-nél már szuperfolyékony állapotba kerül). A cryogenic laboratóriumban szokásos hőmérsékleteken (77 K nitrogén cseppfolyósításánál) a hidrogén még gáz marad."
+    },
+    {
+      "id": 5,
+      "term": "Hidrogén előfordulása az univerzumban",
+      "definition": "A hidrogén az univerzum leggyakoribb eleme. A csillagok nagy részének fűtőanyagaként szolgál: a hidrogén atommagok fúziója során hélium keletkezik, és hatalmas energia szabadul fel.",
+      "quote": "Leggyakoribb elem az univerzumban",
+      "text": "A hidrogén alkotja az universum összes anyagának körülbelül 75%-át tömegben és 90%-át darabszámban. A csillagok - például a Nap is - hidrogén-fúzióval működnek. A Nap belső magjában másodpercenként több millió tonna hidrogén alakul átalakult héliumra, felszabadítva a hatalmas energiát, amely fény és hőként sugárzódik az űrbe. Ez a folyamat körülbelül 10 milliárd évig folytatódhat."
+    },
+    {
+      "id": 6,
+      "term": "Hidrogén előfordulása a Földön",
+      "definition": "A Földön a hidrogén csak vegyületeiben fordul elő. Nagy mennyiségben megtalálható vízben, kőolajban, földgázban és szénhidrogénekben, valamint az élő szervezetekben.",
+      "quote": "Csak vegyülete formájában fordul elő",
+      "text": "A hidrogén tisztán sohasem fordul elő a Földön, mert az atmosztérába felszabaduló hidrogén gáz a Föld gravitációs terét elég kicsi ahhoz, hogy a könnyű hidrogén molekulák az űrbe szökjenek. A Földön a hidrogén kötött formában létezik: a víz (H2O) az élet legalapvetőbb komponense, a kőolaj és természeti gáz szénhidrogénekben gazdag (metán CH4, etán C2H6, stb.), és az összes szerves vegyület alapvető összetevője."
+    },
+    {
+      "id": 7,
+      "term": "Hidrogén ipari előállítása metánból",
+      "definition": "Az iparban hidrogént főként földgázból származó metán hőbontásával állítanak elő (steam reforming). A reakció: 2 CH4 = C2H2 + 3 H2. A melléktermék acetilén.",
+      "quote": "Metán hőbontása - steam reforming",
+      "text": "A hidrogén ipari termelésének legnagyobb része a metán és vízgőz magas hőmérsékletű, katalizátor jelenléti reakciójából származik (Ni katalízis, 700-1000 °C). Ez a módszer nem csak tiszta hidrogént termeli, hanem szénoxidot is, amit később továbbalakítanak. Az alternatív módszer a szénből és vízgőzből előállított víz-gáz (CO + H2 keverék) szintén hidrogén forrása. A globális hidrogén termelés 2020-ban körülbelül 87 millió tonna/év volt."
+    },
+    {
+      "id": 8,
+      "term": "Hidrogén előállítása víz elektrolízisével",
+      "definition": "Víz elektrolízisével nagy tisztaságú hidrogén állítható elő: 2 H2O = 2 H2 + O2. A pozitív elektródon oxigén, a negatívan töltött katódon hidrogén keletkezik.",
+      "quote": "Víz elektrolízise - nagy tisztaságú",
+      "text": "Az elektrolízis során az oxid ionok oxidálódnak az anódon oxigéngázzá, míg a hidrogénionok redukálódnak a katódon hidrogéngázzá. Az elektrolízis tiszta hidrogént termel, amely nagyon alkalmas az alkalmazásokhoz, ahol a szennyezés problémás (például üzemanyag-cellák). Az elektrolízis azonban energiaintenzív folyamat, mivel nagy elektromos áramot igényel. A megújuló energia (napelem, szélerőmű) által hajtott elektrolízis \"zöld hidrogén\" előállítási módja a jövőre vonatkozóan ígéretes."
+    },
+    {
+      "id": 9,
+      "term": "Hidrogén laboratóriumi előállítása",
+      "definition": "Laboratóriumban hidrogént cink és sósav reakciójával szokás előállítani: Zn + 2 HCl = ZnCl2 + H2. A cink helyett más, negatív standardpotenciálú fém is alkalmas (Fe, Sn).",
+      "quote": "Cink és sósav - klasszikus lab módszer",
+      "text": "A cink az oxigén megjelenésénél erősebb redukálószer, ezért könnyen hidrogént széteszt a vizes hidrogénionokból. A reakció szobahőmérsékleten játszódik le és a hidrogén buborékolva fejlődik. A laboratóriumban ez a módszer előnyös, mert nem igényel speciális berendezéseket vagy magas hőmérsékletet. A vas és az ón (illetve más fémek) is használható, de a cink a leggyakoribb, mivel a reakció megfelelő sebességgel játszódik le."
+    },
+    {
+      "id": 10,
+      "term": "Durranógáz-próba",
+      "definition": "A hidrogén és oxigén keverékének (durranógáz) ellenőrzésére végzett próba: a kémcső száját gázlángtól körülbelül 1 cm-re tartjuk. Negatív próba: halk pukkant. Pozitív próba: erős, süvöltő hang.",
+      "quote": "Halk pukkant vagy erős süvöltés",
+      "text": "A durranógáz-próba a hidrogén és oxigén keverékének robbanásszerű égésének detektálása. Negatív (helyes) próba azt jelenti, hogy a készülékben nincs már levegő, és a hidrogén tiszta. A halk pukkant a hidrogén égeséből származik, amely gyorsan történik, de nem robban meg. Pozitív próba azt jelenti, hogy még van oxigén a rendszerben, és a hidrogén-oxigén keverék robbanóképes. Ezért soha nem szabad a készülékből fejlődő hidrogént közvetlenül lángra vezetni, amíg a próba nem negatív."
+    },
+    {
+      "id": 11,
+      "term": "Hidrogén égésének terméke",
+      "definition": "A hidrogén oxigénnel (vagy levegővel) történő égésének terméke a víz: 2 H2 + O2 = 2 H2O. A folyamat nagyon exoterm, hatalmas hő és fény felszabadulása mellett megy végbe.",
+      "quote": "2 H₂ + O₂ → 2 H₂O",
+      "text": "A hidrogén és oxigén egyesülésének szabadentalpiája nagyon negatív (-228,6 kJ/mol), ezért az égés nagyon erősen exoterm. A tiszta hidrogén gázlánggal átlátszó, halványkék színnel ég. Az égéskor keletkező víz lehet gőz (magas hőmérséklet) vagy folyékony (lehűléskor). Ez a nagy energia az, amit a hidrogén üzemanyagként való felhasználásakor hasznosítanak, valamint a legírható erősségét adja a hidrogén-oxigén keveréknek (durranógáz)."
+    },
+    {
+      "id": 12,
+      "term": "Hidrogén és fluor/klór reakciója",
+      "definition": "A hidrogén fluor- és klórral robbanásszerűen reagál: H2 + F2 = 2 HF és H2 + Cl2 = 2 HCl. A klórral megvilágítás hatására játszódik le a reakció. A klór-hidrogén keveréket klórdurranógáznak nevezik.",
+      "quote": "Fluor és klór - robbanásszerű",
+      "text": "A hidrogén és fluor reakciója a legexplosívabb, még sötétben és szobahőmérsékleten is spontán lejátszódik. A hidrogén és klór megvilágítás (UV fény) hatására lép robbanásszerűen reakcióba. Ez a fotokémiai folyamat egy lánc-reakció iniciálás, amely a klórmolekulákat disszociálja, és a létrejött klóratomok hozzáadódnak a hidrogénhez. A bróm és jód esetén a folyamat kevésbé heves és az egyensúlyi állapotú marad, mivel a fordított irányú bomlás jelentőssé válik."
+    },
+    {
+      "id": 13,
+      "term": "Hidrogén és bróm/jód reakciója",
+      "definition": "A hidrogén brómmal és jóddal kevésbé heves reakcióban lép, mindkét folyamat egyensúlyra vezet: H2 + Br2 ⇌ 2 HBr és H2 + I2 ⇌ 2 HI. A fordított irányú bomláés szintén játszódik le.",
+      "quote": "Bróm és jód - egyensúlyú",
+      "text": "A hidrogén és a halogének közötti reakció sebessége és hevesége a periódikusrendszer oszlopában lefelé haladva csökken. A bróm és jód esetén az egyensúly jelentősen a jobbra tolódik az egyenletben (a terméket előnyben részesítve), de az inverz folyamat (a hidrogén-halogenidek bomlása a hidrogén és halogén elemekre) is észrevehetően lejátszódik. Ez azért van, mert a HBr és HI kötések bár erősen polarizáltak, az elemek visszaképzése termodinamikailag kedvezőbb marad magasabb hőmérsékleten."
+    },
+    {
+      "id": 14,
+      "term": "Hidrogén és nitrogén reaktakciója (ammónia szintézis)",
+      "definition": "A hidrogén és nitrogén csak magasabb hőmérsékleten és nagyobb nyomáson, katalizátor jelenlétében reagál: N2 + 3 H2 ⇌ 2 NH3. Ez az egyensúlyú folyamat ammóniát termel.",
+      "quote": "Haber-Bosch: N₂ + 3H₂ → 2NH₃",
+      "text": "A nitrogén-hidrogén szintézis az egyik legfontosabb ipari folyamat, amely évente több száz millió tonna ammóniát termel. A Haber-Bosch eljárás magas hőmérsékletet (400-500 °C), magas nyomást (150-300 atm) és vas katalízist alkalmaz az egyensúly előremozgatásához. Az ammónia kritikus fontosságú a világüramban a műtrágyák termelésében, mivel a szerves nitrogengazdálkodás alapjául szolgál. Az egyensúly egyenlet mutatja, hogy a fordított folyamat (ammónia bomlása) magas hőmérsékletben előnyt élvez, ezért a nagy nyomás és alacsonyabb hőmérséklet kedvez a termékképzésnek."
+    },
+    {
+      "id": 15,
+      "term": "Fém-hidridek keletkezése",
+      "definition": "A hidrogén egyes fémekkel is reakcióba lép, fém-hidridek keletkeznek. Például kalciummal: Ca + H2 = CaH2. Ezek egyrésze ionrácsos, H– (hidrid) aniont tartalmazó vegyületek.",
+      "quote": "Kalcium-hidrid és nátrium-hidrid",
+      "text": "A fém-hidridek olyan vegyületek, amelyekben a hidrogén anionos formában (H–) jelenik meg. A kalcium-hidrid (CaH2) és nátrium-hidrid (NaH) klasszikus példák erre, ahol a fém-hidrogén kötés jelentős ionos karakterrel rendelkezik. Ezek a vegyületek szilárd kristályos anyagok, és hidrid ionjuk vízzel nagyon gyorsan reagálva hidrogén gázt termel, ami az egyik legfontosabb laboratóriumi hidrogén-forrása. Az alkali- és alkaliföld-fémek erős redukálószerek, így a hidridjaik csupán a levegő vagy a víz távollétében tarthatóak meg."
+    },
+    {
+      "id": 16,
+      "term": "Hidrogén redukáló tulajdonsága",
+      "definition": "Az elemi hidrogén jó redukálószer. Használható fém-oxidokból fémek előállítására és szerves funkciós csoportok redukciójára is. Például: CuO + H2 = Cu + H2O.",
+      "quote": "Erős redukálószer, alacsony oxidációs szám",
+      "text": "A hidrogén a 0 oxidációs állapotból könnyen +1-es állapotba léphet, mivel csak egy elektrona van és azt szívesen leadja. Ez teszi nagyon hatékony redukálószerré, amely számos kationokat redukálhat elemi fém állapotba. Az ipari folyamatok között a vasércek (Fe2O3, Fe3O4) redukciója magas hőmérsékleten a sziderurgikus iparban történik. A szerves kémiában a hidrogén katalizátor jelenlétében (például Pd, Pt, Ni) képes redukálni a kettős és hármas kötéseket, valamint egyéb funkciós csoportokat."
+    },
+    {
+      "id": 17,
+      "term": "Hidrogén mint üzemanyag",
+      "definition": "Az elemi hidrogént üzemanyagként (hidrogénhajtású járművek) használják. Égésének egyetlen terméke a víz, ezért rendkívül környezetbarát. Magasabb robbanásveszély és jelenleg magasabb ár miatt még széleskörűen nem terjedt el.",
+      "quote": "Környezetbarát, csak víz füstgáz",
+      "text": "A hidrogénhajtású járművek (fuel cell vehicles) nulla kibocsátást nyújtanak, mivel az üzemanyag-cella az elektrokémiai folyamatban hidrogénből és oxigénből csak vizet termel (és elektromos energiát). Az üzemanyag-cella számára szükséges hidrogén lehet fosszilis forrásokból vagy megújuló energiából előállított \"zöld hidrogén\". A jelenlegi technológiai korlátok közé tartozik a hidrogén tárolása (nagyobb térfogat vagy nagyobb nyomás szükséges benzinhez képest), az infrastruktúra hiánya, és a hidrogén termelésének költsége. Azonban a nemzetközi erőfeszítések elég aktívek a hidrogéngazdaság fejlesztésében a klímaváltozás mérséklésének érdekében."
+    },
+    {
+      "id": 18,
+      "term": "Hidrogén a vegyiparban",
+      "definition": "A vegyiparban hidrogént nagy mennyiségben használnak ammónia és metanol előállítására, valamint a kőolajfeldolgozás során (hidrogénezés). Ez a kőolaj-feldolgozás legfontosabb vegyipari alkalmazása.",
+      "quote": "Ammónia, metanol, hidrogénezés",
+      "text": "A világon termelt hidrogén közel 50%-a ammónia szintézishez megy el, amely majd műtrágyák alapja. A metanol (CH3OH) hidrogénből, szén-monoxidból (szintetikus gáz) és katalizátor jelenlétében állítható elő, és számos szerves vegyület és üzemanyag-kiegészítés alapjául szolgál. A kőolaj-feldolgozásnál a hidrogénezés a kőolaj nyersanyag eltávolítására és a finomított termékek (benzin, dízel) minőségének javítására használ. A petrokémiai iparban a hidrogén szintén kritikus nyersanyag."
+    },
+    {
+      "id": 19,
+      "term": "Fúziós energia hidrogénnel",
+      "definition": "Évtizedek óta folynak kísérletek a fúziós energiatermelés földi megvalósítására. Az ITER projekt Franciaországban deutérium-trícium üzemanyagot tervez használni.",
+      "quote": "ITER - deutérium-trícium fusion",
+      "text": "A fúziós energia termelése az egyik legígéretesebb hosszú távú energiaforrás, amely az elég gyakorlatilag végtelen hidrogén felhasználásával működne. A Föld-féle fúzióhoz szükséges körülmények (több mint 100 millió °C hőmérséklet, nagyobb nyomás) mágneses vagy inerciális korfinálási módszerek alkalmazásával elérhető. Az ITER (International Thermonuclear Experimental Reactor) Cadarache-ben Franciaország területén épül és 2025 körül kezdheti meg a deutérium-trícium plazmakísérletek futtatását. A sikeres fúziós energiatermelés a világ energiaproblémáinak hosszú távú megoldása lehetne."
+    },
+    {
+      "id": 20,
+      "term": "Hidrogén vegyületei nemfémekkel",
+      "definition": "A hidrogén számos vegyületet alkot a nemfémes elemekkel (hidrogén-halogenidek, víz, hidrogén-peroxid, ammónia, metán és szénhidrogének). Ezek kovalens molekulákból állnak.",
+      "quote": "HX, H2O, H2O2, NH3, CH4",
+      "text": "A hidrogén-nemfém vegyületek kovalens molekulákból felépített anyagok, ahol a hidrogén közvetlenül kapcsolódik a nemfém elemhez. A hidrogén-halogenidek (HF, HCl, HBr, HI) polár kovalens molekulák, melyek vízben disszociálva savakat képeznek. A víz és a hidrogén-peroxid oxigénhez kapcsolódó hidrogén-tartalmú vegyületek. Az ammónia a nitrogénhez kapcsolódik három kovalens kötéssel, és egy szabad elektron-párt tartalmaz, ami képessé teszi az egész bázisként való viselkedésre. A szénhidrogének a hidrogén-szén vegyületek családja."
+    },
+    {
+      "id": 21,
+      "term": "Hidrogén fémekkel alkotott vegyületei",
+      "definition": "A hidrogén fémekkel alkotott vegyületei a fém-hidridek. Az alkali- és alkaliföld-fémek hidridei ionrácsos szerkezetűek, H– (hidrid) aniont tartalmaznak.",
+      "quote": "Ionos hidridek - H⁻ anion",
+      "text": "A fém-hidridek a hidrogén egy nagyon különleges csoportja, ahol a hidrogén anionként (H–) jelenik meg, negatív töltésű egy vagy több elektronnal. Az 1. és 2. csoportban lévő fémek erős redukálószerek, így a hidrogén elektronokat vesznek tőlük. A kalcium-hidrid (CaH2) és nátrium-hidrid (NaH) a legközönségesebbek, igen reaktívak, és száraz szerves oldószerekben jó dehidráló ágensek (víz eltávolításához). Az előző periódusok átmenetfémei (például a titán vagy a palládium) is képeznek hidrideket, azonban ezek szerkezete összetettebb."
+    },
+    {
+      "id": 22,
+      "term": "Oxosavak - hidrogén tartalmazó vegyületek",
+      "definition": "Az oxosavak O–H kötést tartalmaznak, például kénsav (H2SO4), salétromsav (HNO3) és szénsav (H2CO3). A hidrogénionok disszociációjával savas tulajdonságot mutatnak.",
+      "quote": "O–H kötés, több savas hidrogén",
+      "text": "Az oxosavak olyan vegyületek, amelyekben a hidrogén egy nem-fém elemhez (például szulfur, nitrogén, szén) kötött oxigén atomhoz kapcsolódik. Ezek az asszociáció közvetlenül hatékonyabban disszociálódhatnak vízben, mint az egyenletes hidrogén-nemfém kötések. A kénsav kétproton-donáló, a salétromsav egyet, a szénsav pedig gyenge sav. Az oxosavak alapvető fontosságúak az ipari folyamatok és a biokémiában."
+    },
+    {
+      "id": 23,
+      "term": "Fém-hidroxidok - lúgok",
+      "definition": "A fém-hidroxidok olyan vegyületek, amelyek OH– csoportot tartalmaznak, például nátrium-hidroxid (NaOH) és kálium-hidroxid (KOH). Ezek a lúgok a hidrogén-tartalmú vegyületek fontosabb csoportja.",
+      "quote": "OH⁻ csoport - lúgos vegyületek",
+      "text": "A fém-hidroxidok ionos vegyületek, amelyekben a fémes kation a hidroxidionhoz (OH–) kapcsolódik. Ezek az anyagok alapvetően lúgos a vízben, mivel a hidroxidionok direkt nem disszociálódnak az enzimatikus folyamaton keresztül. Az 1. és 2. csoportban lévő fémek hidroxidjai főként oldódnak, ezek a klasszikus lúgok, míg az átmenetifém-hidroxidok általában kevésbé oldódnak."
+    },
+    {
+      "id": 24,
+      "term": "Szerves vegyületek - hidrogén szerepe",
+      "definition": "A szerves vegyületek az összes hidrogént tartalmazó, szénnel összetett vegyületek családja. Milliók különböző szerves vegyület létezik, melyek az élet alapja.",
+      "quote": "Szénhidrogének és derivátumaik",
+      "text": "A szerves kémiában a hidrogén kritikus fontosságú, mivel az összes szerves molekula hidrogént tartalmaz. A hidrogén tipikusan tetravalens szénhez kapcsolódik, valamint heteroatomokhoz (oxigén, nitrogén, kén, halogének). A szerves vegyületek függően tartalmazhatnak hidrogénatom-csoportokat, például alkil-csoportok (–CH3, –C2H5), vagy hidrogénet hordozó funkciós csoportok (–OH, –NH2, –SH). A szerves kémiában a hidrogén szerepe az energiaszint-szabályozásban és a molekulák reaktivitásában alapvető."
+    },
+    {
+      "id": 25,
+      "term": "Hidrogén diffúziós sebessége",
+      "definition": "A hidrogén kis molekulamérete miatt diffúziósebessége nagyobb, mint más gázoknak. Ez egy jellemző fizikai tulajdonság, amely a molekula méretétől és tömegétől függ.",
+      "quote": "Leggyorsabb diffúzió az összes gáz között",
+      "text": "A Graham-féle diffúzió-törvény szerint a gáz-diffúzió sebessége fordítottan arányos a molekulatömeg négyzetgyökével. A hidrogén aprócska molekulája (M = 2 g/mol) sokkal gyorsabban diffundál, mint a nagyobb molekulájú gázok (például oxigén M = 32, nitrogén M = 28). Ez azt jelenti, hogy ha egy tál hidrogént ballon-szerű membránon keresztül elhelyezünk, a hidrogén sokkal gyorsabban szivárog ki, mint az oxigén vagy a levegő átlagos szivárgása. Ez a tulajdonság technológiailag felhasználható gázelválasztási folyamatokban, például a palladium-membránokon keresztüli hidrogén-desztilláció során."
+    }
+  ]
+}

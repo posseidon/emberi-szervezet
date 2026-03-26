@@ -1,0 +1,201 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "p-d-mezo-femei",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az alumínium előfordulása és feldolgozása során az első lépés a bauxitnak nátrium-hidroxid oldatban való feltárása. Ezt a folyamatot hogyan nevezik?",
+      "options": [
+        "Lúgos feltárás",
+        "Savas feltárás",
+        "Elektrolitikus redukció",
+        "Termitreakció"
+      ],
+      "answer": "Lúgos feltárás"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az alumínium elektrolízisénél az olvadáspont csökkentésére a bauxithoz _____ (nátrium-hexafluoro-aluminát) hozzáadása szükséges.",
+      "options": [],
+      "answer": "kriolitot"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Az alumínium-hidroxid amfoter vegyület. Az alábbiak közül melyik állítás HAMIS?",
+      "options": [
+        "Savakban feloldódik",
+        "Lúgoldatban feloldódik",
+        "Vízben jól oldódik",
+        "Komplexet képez hidroxidionokkal"
+      ],
+      "answer": "Vízben jól oldódik"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Az ón és az ólom közül melyik mutat passzívvá válást sósavban?",
+      "options": [
+        "Az ón",
+        "Az ólom",
+        "Mindkettő",
+        "Egyik sem"
+      ],
+      "answer": "Az ólom"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A vas a nagyolvasztóban elsősorban _____ redukcióval nyerhető a vasércéből.",
+      "options": [],
+      "answer": "szenes"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "A vastárgyak aktív korrózió-védelme esetén az anódként működő fém standardpotenciálja hogyan viszonylik a vas standardpotenciáljához?",
+      "options": [
+        "Negatívabb",
+        "Pozitívabb",
+        "Azonos",
+        "Nincs meghatározott viszony"
+      ],
+      "answer": "Negatívabb"
+    },
+    {
+      "id": 7,
+      "type": "BLANK",
+      "question": "A vas(II)-hidroxid jellegzetes _____ szín csapadék.",
+      "options": [],
+      "answer": "piszkoszöld"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "A horganyozás folyamata alatt melyik fém oxidálódik a vas helyett?",
+      "options": [
+        "A réz",
+        "A cink",
+        "A nikkel",
+        "Az arany"
+      ],
+      "answer": "A cink"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Az ezüst melyik oxidációs állapotban fordul elő vegyületeiben?",
+      "options": [
+        "+1",
+        "+2",
+        "+3",
+        "+1 és +2"
+      ],
+      "answer": "+1"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A réz(II)-tetramminkomplex képzésekor az [Cu(NH₃)₄]²⁺ komplex _____ szín.",
+      "options": [],
+      "answer": "sötétkék"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Az arany mely oldószerben oldható fel?",
+      "options": [
+        "Tömény sósavban",
+        "Tömény salétromsavban",
+        "Királyvízben",
+        "Híg kénsavban"
+      ],
+      "answer": "Királyvízben"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az [Al(H₂O)₆]³⁺ komplex hidrolízise miatt az alumíniumion-oldatok _____ kémhatásúak.",
+      "options": [],
+      "answer": "savasak"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A termitreakció során az alumínium milyen szerepet játszik?",
+      "options": [
+        "Oxidáló szer",
+        "Redukáló szer",
+        "Katalizátor",
+        "Oldószer"
+      ],
+      "answer": "Redukáló szer"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A réz(II)-szulfát-pentahidrát (CuSO₄·5H₂O) jellegzetes _____ szín.",
+      "options": [],
+      "answer": "kék"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "A cink melyik savban oldódik hidrogénfejlesztés nélkül (azaz passzívvá válik)?",
+      "options": [
+        "Sósavban",
+        "Híg kénsavban",
+        "Salétromsavban",
+        "Egyik sem"
+      ],
+      "answer": "Egyik sem"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A vas-kobalt-nikkel csoport elemei közül csak az _____ fordulható elő +3-as oxidációs állapotban stabilabban.",
+      "options": [],
+      "answer": "vas"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Az ezüst-halogenidek közül melyik sárga szín?",
+      "options": [
+        "AgCl",
+        "AgBr",
+        "AgI",
+        "Ag₂O"
+      ],
+      "answer": "AgI"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A higany standardpotenciálja _____ V, így csak tömény oxidáló savakban oldódik.",
+      "options": [],
+      "answer": "+0,85"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "A kálium-permanganát (KMnO₄) hevítéskor melyik gáz keletkezik?",
+      "options": [
+        "Klór",
+        "Nitrogén-dioxid",
+        "Oxigén",
+        "Kén-dioxid"
+      ],
+      "answer": "Oxigén"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A pirit (FeS₂) pörkölésénél _____ és vas(III)-oxid keletkezik.",
+      "options": [],
+      "answer": "kén-dioxid"
+    }
+  ]
+}

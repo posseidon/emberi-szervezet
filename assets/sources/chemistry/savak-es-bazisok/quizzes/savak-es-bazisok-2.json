@@ -1,0 +1,160 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "savak-es-bazisok",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "A Brönsted-elmélet szerint mi a definíciója a bázisnak?",
+      "options": ["Sanyag, amely OH– ionokat tartalmaz", "Sanyag, amely H+ iont vesz fel", "Sanyag, amely H+ iont adhat le", "Sanyag, amely a vízben hidroxidionokat képez"],
+      "answer": "Sanyag, amely H+ iont vesz fel"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A sav-bázis pároknak azt a fogalmát nevezzük _____, hogy a sav hidrogénion leadása után visszamaradó ion.",
+      "options": [],
+      "answer": "savmaradékion"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik állítás igaz az erős bázisokra?",
+      "options": ["Vizes oldatban közel 100%-ban disszociálnak", "Vizes oldatban csak részlegesen disszociálnak", "Az ammónia erős bázis", "Az erős bázisoként való disszociáció egyensúlyra vezet"],
+      "answer": "Vizes oldatban közel 100%-ban disszociálnak"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Mit jelent a datív kovalens kötés a protonátmenetben?",
+      "options": ["A proton saját elektronokkal rendelkezik", "A bázis elektronpárja biztosítja az új kötéshez szükséges elektronokat", "A sav elektronpárja biztosítja az új kötéshez szükséges elektronokat", "A kötés nem valódi kovalens kötés"],
+      "answer": "A bázis elektronpárja biztosítja az új kötéshez szükséges elektronokat"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A közömbösítés során a sav és a bázis reagálnak, és _____ keletkezik (és víz, ha hidroxidionos bázis van).",
+      "options": [],
+      "answer": "só"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Milyen kémhatású lesz a gyenge sav és erős bázis sójának oldatas?",
+      "options": ["Savas", "Lúgos", "Semleges", "Semleges vagy savas, attól függ"],
+      "answer": "Lúgos"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mi a hidrolízis egyik jellegzetes példája?",
+      "options": ["HCl vizes oldódása", "NaCl vizes oldódása", "NaCH3COO (nátrium-acetát) vizes oldódása", "H2O vizes oldódása"],
+      "answer": "NaCH3COO (nátrium-acetát) vizes oldódása"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A fém-oxidok vízzel reagálva olyan oldatot hoznak létre, amely _____ kémhatású lesz.",
+      "options": [],
+      "answer": "lúgos"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Milyen sav keletkezik a szén-dioxid vízben való oldódásakor?",
+      "options": ["Szulfurous acid", "Carbonic acid (szénsav)", "Acetic acid (ecetsav)", "Nitric acid (salétromsav)"],
+      "answer": "Carbonic acid (szénsav)"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az acetát-ion (CH3COO–) hidrolízisénél _____ keletkezik, amely az oldatot lúgosá teszi.",
+      "options": [],
+      "answer": "hidroxidion"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Az ammónium-ion (NH4+) hidrolízisénél mi keletkezik az oldatban?",
+      "options": ["Hidroxidion", "Ammónia és vízzel OH–", "Oxóniumion", "Ammónia és semmi más"],
+      "answer": "Oxóniumion"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Mit nevezzünk a protonnak a Brönsted-elméleten belül?",
+      "options": ["Hidrogén atom", "Hidrogén ion (H+)", "Egy neutront és egy protont tartalmazó részecske", "Az elektromosan neutrális hidrogén"],
+      "answer": "Hidrogén ion (H+)"
+    },
+    {
+      "id": 13,
+      "type": "BLANK",
+      "question": "A kálcium-oxid (CaO) vízzel reagálva _____ keletkezik, amely egy erős bázis.",
+      "options": [],
+      "answer": "kalcium-hidroxid"
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "Mi történik, ha a vízkőre (CaCO3) sósavat öntünk?",
+      "options": ["Semmi sem történik", "Pezsegés kezdődik a szén-dioxid fejlődése miatt", "Az oldat azonnal forrni kezd", "A kalcium-karbonát nem oldódik"],
+      "answer": "Pezsegés kezdődik a szén-dioxid fejlődése miatt"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mennyire erős a nátrium-acetát (CH3COONa) hidrolízisénél felszabaduló hidroxidion-koncentráció?",
+      "options": ["Nagyon magas", "Az acetátionok egyensúlyához képest arányosan alacsony", "Az ecetsav közömbösítési savavasságához képest alaposan, de még lúgos", "Nulla"],
+      "answer": "Az acetátionok egyensúlyához képest arányosan alacsony"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az a folyamat, amikor egy só ionjai vízzel reagálnak és kémhatás-változást okoznak, _____ hidrolízisnek nevezzük.",
+      "options": [],
+      "answer": "só"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik nem igaz az ecetsavra (CH3COOH)?",
+      "options": ["Gyenge sav", "Csak egy savas hidrogént tartalmaz", "Az oldatában az ecetsavmolekulák több, mint 50%-a van disszociált formában", "Szerves sav"],
+      "answer": "Az oldatában az ecetsavmolekulák több, mint 50%-a van disszociált formában"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Melyik páros mutatja meg helyesen a Brönsted sav-bázis párt?",
+      "options": ["HCl és Na+", "HCl és Cl–", "HCl és H2O", "HCl és NaOH"],
+      "answer": "HCl és Cl–"
+    },
+    {
+      "id": 19,
+      "type": "BLANK",
+      "question": "Az _____ olyan indikátor, amely több indikátort tartalmaz és a körülbelüli pH-értéket is jelzi.",
+      "options": [],
+      "answer": "univerzálindikátor"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "Mi az a folyamat, amikor az oldódás során egy anyag szétesik ionokra?",
+      "options": ["Disszociáció", "Disszolúció", "Diszperziós", "Diffúzió"],
+      "answer": "Disszociáció"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik állítás igaz az ammóniára (NH3)?",
+      "options": ["Erős sav", "Gyenge bázis", "Erős bázis", "Nem viselkedhet savként"],
+      "answer": "Gyenge bázis"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az _____ az oxónium- és hidroxidionok koncentrációjának szorzata tiszta vízben.",
+      "options": [],
+      "answer": "vízionszorzat"
+    }
+  ]
+}

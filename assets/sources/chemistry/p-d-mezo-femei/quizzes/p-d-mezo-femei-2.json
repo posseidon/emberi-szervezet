@@ -1,0 +1,196 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "p-d-mezo-femei",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az alumínium felületét mely anyag alkotja, amely védelmet nyújt a korróziótól?",
+      "options": [
+        "Alumínium-nitrát",
+        "Alumínium-oxid",
+        "Alumínium-hidroxid",
+        "Alumínium-klorid"
+      ],
+      "answer": "Alumínium-oxid"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az alumínium az _____ oxid redukálásával a termitreakcióban elemi vasot képez.",
+      "options": [],
+      "answer": "vas(III)"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Az ólom egészségi hatása mely korcsoportot érinti a leginkább?",
+      "options": [
+        "Az időseket",
+        "A felnőtteket",
+        "A fejlődésben levő gyermekeket",
+        "Az egyenletes terhelésre alkalmatlan embereket"
+      ],
+      "answer": "A fejlődésben levő gyermekeket"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az ón és az ólom vegyületeiben leggyakrabban _____ és +4-es oxidációs állapot fordul elő.",
+      "options": [],
+      "answer": "+2"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Az acél széntar talmának csökkentésével és mely elemek hozzáadásával nyerják?",
+      "options": [
+        "Alumínium és szilícium",
+        "Króm, mangán, nikkel, vanádium",
+        "Kobalt és réz",
+        "Ezüst és arany"
+      ],
+      "answer": "Króm, mangán, nikkel, vanádium"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A vas(III)-oxid (Fe₂O₃) tipikus szín _____ vagy vörösesbarna.",
+      "options": [],
+      "answer": "vörösesbarna"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "A vaserzékek melyek közül mely forma nem fordul elő a természetben?",
+      "options": [
+        "Fe₂O₃ (hematit)",
+        "Fe₃O₄ (magnetit)",
+        "FeS₂ (pirit)",
+        "FeSO₄"
+      ],
+      "answer": "FeSO₄"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A kobalt(II)-ionok hidratáltan _____ szín, vízmentes formában pedig halványkékek.",
+      "options": [],
+      "answer": "rózsaszín"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "A réz melyik hőmérsékleten oxidálódik fekete CuO-vá?",
+      "options": [
+        "Szobahőmérsékleten",
+        "Alacsony hőmérsékleten",
+        "Magas hőmérsékleten (láng felett)",
+        "Vízben nem oxidálódik"
+      ],
+      "answer": "Magas hőmérsékleten (láng felett)"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A réz(II)-hidroxid (Cu(OH)₂) világoskék csapadék az _____ ionokkal keletkezik.",
+      "options": [],
+      "answer": "hidroxid"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Az ezüst-nitrát (AgNO₃) mely alkalmazásban használták korábban?",
+      "options": [
+        "Elektrolítként",
+        "Sebkezelésre és fertőtlenítésre",
+        "Tűzálló anyagként",
+        "Redukálószerként"
+      ],
+      "answer": "Sebkezelésre és fertőtlenítésre"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A valódi rézcsalád elemei közül az _____ nem szenved hidrogénfejlesztéses oldódást vízben vagy híg savakban.",
+      "options": [],
+      "answer": "réz"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A cink mely fém-bevonatként használható aktív korrózióvédelmez?",
+      "options": [
+        "Réz",
+        "Higany",
+        "Nikkel",
+        "Arany"
+      ],
+      "answer": "Nikkel"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A higany szobahőmérsékleten _____ állapotú fém.",
+      "options": [],
+      "answer": "folyékony"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az alumínium-klorid (AlCl₃) mely hőmérsékleten szublimál?",
+      "options": [
+        "100 °C",
+        "180 °C",
+        "250 °C",
+        "500 °C"
+      ],
+      "answer": "180 °C"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A nikkel(II)-ionok hidratáltan _____ szín komplexeket képeznek.",
+      "options": [],
+      "answer": "fűzöld"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Az ólom mely savban nem oldódik meg, mert védőréteg képződik?",
+      "options": [
+        "Salétromsavban",
+        "Kénsavban",
+        "Fluorvízben",
+        "Királyvízben"
+      ],
+      "answer": "Kénsavban"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A lúgos feltárás során az alumínium-vegyületekből _____ képződik.",
+      "options": [],
+      "answer": "nátrium-tetrahidroxo-aluminát"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "A kálium-permanganát (KMnO₄) savas közegben mely ionná redukálódik?",
+      "options": [
+        "Mangán(II)-ion",
+        "Mangán(III)-ion",
+        "Mangán(IV)-oxid",
+        "Mangán(V)-ion"
+      ],
+      "answer": "Mangán(II)-ion"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az arany és _____ ötvözeteit érmékkészítéshez használják.",
+      "options": [],
+      "answer": "ezüst"
+    }
+  ]
+}

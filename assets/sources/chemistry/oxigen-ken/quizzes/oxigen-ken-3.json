@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "oxigen-ken",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik a kén-dioxid tökéletlen égésének terméke?",
+      "options": ["Elemi kén és víz", "Kénsav és víz", "Kénessav és víz", "Kén-trioxid és víz"],
+      "answer": "Elemi kén és víz"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az oxigén az egyik legerősebb _____ anyag.",
+      "options": [],
+      "answer": "oxidálószer"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mit okoz a kemény víz a mosószerek hatékonyságában?",
+      "options": ["Csökkenti a hatékonyságot", "Növeli a hatékonyságot", "Nem befolyásolja", "Megfordítja hatásait"],
+      "answer": "Csökkenti a hatékonyságot"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A kén-dioxid a _____ esők egyik fő komponense.",
+      "options": [],
+      "answer": "savas"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mi az a vulkanizáció?",
+      "options": ["Kén és gumi közötti kovalens kötések képzése", "Gumi felszínének kezelése", "Gumi hevítése levegőn", "Gumi vízzel való kezelése"],
+      "answer": "Kén és gumi közötti kovalens kötések képzése"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az SO3 + H2O = _____ egy nagyon heves exoterm folyamat.",
+      "options": [],
+      "answer": "H2SO4"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik katalizátort használják a Kontakt-eljárásban?",
+      "options": ["Vanadium-pentoxid", "Mangán-dioxid", "Nikkel", "Platina"],
+      "answer": "Vanadium-pentoxid"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A víz amfotériás, mert _____ és protonfelvételre is képes.",
+      "options": [],
+      "answer": "protonleadásra"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Milyen szín a cinkszulfid csapadék?",
+      "options": ["Sárga", "Fehér", "Fekete", "Zöld"],
+      "answer": "Sárga"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A kénhidrogén _____ értékű sav.",
+      "options": [],
+      "answer": "kétértékű"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mit termel a víz elektrolízise?",
+      "options": ["Hidrogén és oxigén", "Hidrogén és klór", "Hidrogén és fluor", "Hélium és oxigén"],
+      "answer": "Hidrogén és oxigén"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az óleum (dikénsav) a _____ és kénsav keveréke.",
+      "options": [],
+      "answer": "SO3"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik az állandó vízkeménység okozója?",
+      "options": ["Kalcium- és magnézium-kloridok, szulfátok", "Kalcium- és magnézium-hidrogénkarbonátok", "Kalcium-nitrátok", "Magnézium-foszfátok"],
+      "answer": "Kalcium- és magnézium-kloridok, szulfátok"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A hidrogén-peroxid _____ hajtóanyaga.",
+      "options": [],
+      "answer": "rakéta"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik a kén passzivizálódása az iparban?",
+      "options": ["Alumínium a tömény H2SO4-ben", "Réz a híg H2SO4-ben", "Vas a híg HCl-ben", "Magnézium a tömény HNO3-ben"],
+      "answer": "Alumínium a tömény H2SO4-ben"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A koróda egy fém felületi _____ folyamata.",
+      "options": [],
+      "answer": "oxidáció"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mit jelent a Claus-eljárás?",
+      "options": ["Kén termelése H2S és SO2 reakciójából", "Kénsav termelése SO2-ből", "SO2 termelése kénből", "H2S oxidációja SO2-vé"],
+      "answer": "Kén termelése H2S és SO2 reakciójából"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az oxigén oxidációs száma az O2- ionban _____.",
+      "options": [],
+      "answer": "-2"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik a kénhidrogén égésének terméke, ha kevés az oxigén?",
+      "options": ["Elemi kén és víz", "Kén-dioxid és víz", "Kén-trioxid és víz", "Kénessav és víz"],
+      "answer": "Elemi kén és víz"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A kénsav _____ és oxidáló hatása miatt a szerves anyagokat roncsolja.",
+      "options": [],
+      "answer": "vízelvonó"
+    }
+  ]
+}

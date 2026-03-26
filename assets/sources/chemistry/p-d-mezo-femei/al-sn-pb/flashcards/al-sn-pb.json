@@ -1,0 +1,186 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Alumínium fizikai tulajdonságai",
+      "definition": "Az alumínium ezüstösen csillogó, kis sűrűségű fém, jó hő- és elektromos vezető.",
+      "quote": "Könnyű, ezüstös, jó vezető",
+      "text": "Az alumínium az egyik legfontosabb könnyűfém. Sűrűsége (2,7 g/cm³) sokkal kisebb, mint a vas (7,87 g/cm³), ezért könnyebb szerkezetek készíthetők belőle. Kitűnő elektromos és hővezető tulajdonságai miatt széles körben használják elektrotechnikában és hőcserélőkben."
+    },
+    {
+      "id": 2,
+      "term": "Alumínium reaktivitása",
+      "definition": "Az alumínium kicsi ionizációs energiájú, erős redukálószer, szívesen ad le elektronokat és +3-as oxidációs állapotba kerül.",
+      "quote": "Erős redukálószer, +3 oxidációs állapot",
+      "text": "Az alumínium standardpotenciálja negatív (E° = –1,66 V), ami azt jelenti, hogy könnyen lead elektronokat. Vegyületeiben szinte kizárólag +3-as oxidációs állapotban fordul elő. Ez a reaktivitás lehetővé teszi annak használatát a termitreakcióban és számos kémiai folyamatban."
+    },
+    {
+      "id": 3,
+      "term": "Bauxit",
+      "definition": "A legfontosabb alumíniumtartalmú kőzet, amely több különféle ásványból áll, AlO(OH) és Al(OH)₃ képletekkel írható le.",
+      "quote": "Alumínium főbb érce",
+      "text": "A bauxit Dél-Amerikában, Nyugat-Afrikában és Ausztráliában nagy mennyiségben fordul elő. Összetétele változó, de az alapvető összetevői alumínium-oxidhidrátok. A bauxitból timföldet (Al₂O₃) nyernek ki, amely az alumínium előállítás első szakaszában jön létre."
+    },
+    {
+      "id": 4,
+      "term": "Lúgos feltárás folyamata",
+      "definition": "A bauxitot tömény NaOH oldatban oldják, amely a bázisos oxidokból és hidroxidokból nátrium-tetrahidroxo-aluminátot (NaAl(OH)₄) képez.",
+      "quote": "NaOH oldatban oldás, Na[Al(OH)₄] képzés",
+      "text": "Az Al(OH)₃ + NaOH ⇌ Na[Al(OH)₄] reakció során az alumínium vegyületei oldódnak, míg a szennyezők (például vas(III)-oxid) nem. Az így keletkezett vörös színű, vas-oxidot tartalmazó melléktermék a vörösiszap. Ez a folyamat lehetővé teszi az alumínium elválasztását más elemektől."
+    },
+    {
+      "id": 5,
+      "term": "Kicsapás folyamata",
+      "definition": "A lúgoldat hígításakor a nátrium-tetrahidroxo-aluminát komplex elbomlik és alumínium-hidroxid csapadék keletkezik.",
+      "quote": "Hígítás → Al(OH)₃ csapadék",
+      "text": "A hígítás során csökken az OH⁻ ionkoncentráció, és az NaAl(OH)₄ komplex magában nem stabil. Az Al(OH)₃ vízben nem oldódik, így csapadékként kiválik az oldatból. Ezt szűréssel leválasztják, így az alumínium elválasztható a lúgban oldódó más szennyezőktől (például Na⁺ ionok)."
+    },
+    {
+      "id": 6,
+      "term": "Izzítás a timföld előállítás során",
+      "definition": "Az alumínium-hidroxid hevítésekor vízvesztéssel alumínium-oxiddá (timfölddé) alakul: 2 Al(OH)₃ = Al₂O₃ + 3 H₂O",
+      "quote": "Hő → vízvesztés → Al₂O₃",
+      "text": "Az Al(OH)₃ körülbelül 200 °C feletti hőmérsékleten começ bomlani, és az izzítás során fokozatosan alakul timfölddé. Az Al₂O₃ a legfontosabb alumínium-vegyület, amely nagy keménysége és magas olvadáspontja (2072 °C) miatt értékes vegyület. Az izzítás szükséges a további elektrolízishez."
+    },
+    {
+      "id": 7,
+      "term": "Kriolitnak a szerepe az elektrolízisben",
+      "definition": "A nátrium-hexafluoro-aluminát (Na₃AlF₆) az Al₂O₃ olvadáspontját csökkenti 2072 °C-ról kb. 960 °C-ra, így költségeket takarít meg.",
+      "quote": "Olvadáspont csökkentő, energiatakarékos",
+      "text": "A tiszta timföld olvadáspontja rendkívül magas, ami hatalmas energiaigényt jelent az elektrolízishez. A kriolittal való keverés jelentősen csökkenti az olvadáspontot és nagyban lecsökkenti a folyamat költségeit. A kriolitot azonban újra kell termelni, mivel az elektrolízis során felhasználódik."
+    },
+    {
+      "id": 8,
+      "term": "Az alumínium oxidrétege",
+      "definition": "Az alumínium felületén egy egybefüggő, tömör Al₂O₃ réteg alakul ki, amely vízben oldhatatlan és megvédi a fémet a korróziótól.",
+      "quote": "Tömör, védő oxidréteg",
+      "text": "Az Al₂O₃ réteg nagyon vékony (néhány nanométer), de sokkal tömörebbebben tapad az alumínium felületéhez, mint például a vas rozsda. Ez az önmegújuló védóréteg az oka annak, hogy az alumínium sokkal kevésbé rozsdásodik, mint a vas. A réteg mechanikai módszerrel (csiszolásos) vagy higany(II)-kloriddal kémiai úton eltávolítható."
+    },
+    {
+      "id": 9,
+      "term": "Alumínium égése oxigénben",
+      "definition": "Az alumíniumpor elégethető, és az égés során alumínium-oxid (timföld) keletkezik: 4 Al + 3 O₂ = 2 Al₂O₃",
+      "quote": "Erős égés, Al₂O₃ keletkezik",
+      "text": "Az alumínium nagyon fényes lánggal ég, mivel az égés nagyon exoterm. Az alumíniumpor különösen veszélyes, mivel nagy felület/térfogat aránya miatt könnyebben öngyullad. Az égés után fehér színű Al₂O₃ por marad vissza. Ez a magas fényintenzitás miatt az alumíniumot pyrotechnikában is használják."
+    },
+    {
+      "id": 10,
+      "term": "Alumínium és halogének reakciója",
+      "definition": "Az alumínium könnyen reagál a halogénekkel, alumínium-halogenidek képződnek: 2 Al + 3 Cl₂ = 2 AlCl₃",
+      "quote": "Intenzív reakció, halogenidek keletkeznek",
+      "text": "A halogének közül a klór, fluor és bróm könnyen reagál az alumíniummal. Az alumínium-klorid egy illékony, fehér szilárd anyag, amely 180 °C-on szublimál. Ez a magas reaktivitás azt jelenti, hogy az alumíniumot száraz helyeken kell tárolni, mivel a páratartalom is lassú korróziót okozhat."
+    },
+    {
+      "id": 11,
+      "term": "Alumínium oldódása savban",
+      "definition": "Nem oxidáló savakban (HCl) az alumínium hidrogénfejlődés közben oldódik: 2 Al + 6 HCl = 2 AlCl₃ + 3 H₂",
+      "quote": "Híg sav + Al → AlCl₃ + H₂",
+      "text": "Az alumínium az első lépésben az oxidrétegét veszti el, majd a fémes alumínium az H⁺ ionokat redukálja. Az oxidáló savakban (tömény kénsav, salétromsav) azonban az alumínium passzívvá válik, azaz védőréteg képződik és nem oldódik tovább. Ez a sav-reaktivitás felhasználható az alumínium tisztítására."
+    },
+    {
+      "id": 12,
+      "term": "Alumínium passzívvá válása",
+      "definition": "Tömény kénsavban és tömény salétromsavban az alumínium nem oldódik, mert a felületen egy szilárd védőréteg képződik.",
+      "quote": "Tömény sav, passzív státusz",
+      "text": "A passzívvá válás oka az, hogy az oxidáló savak még intenzívebb oxidációt okoznak az alumíniumon, ami egy még tömörebb és az eredeti oxidrétegnél még inkább az oldatot elzáró védőréteget képez. Ez a jelenség védelmet nyújt az alumínium vegyületeknek száraz tárolás közben."
+    },
+    {
+      "id": 13,
+      "term": "Alumínium és lúgoldat",
+      "definition": "Az alumínium amfoter fém, amely lúgoldatban is oldódik, komplexképződés miatt: 2 Al + 2 NaOH + 6 H₂O = 2 Na[Al(OH)₄] + 3 H₂",
+      "quote": "Amfoter, lúg + Al → komplexfém",
+      "text": "Az alumínium egyike azoknak az elemeknek, amely mind savakban, mind lúgoldatban oldódik. A lúg feloldja a védő oxidrétegét is, ezért az oldódás gyorsabb, mint vízben. Az így képződő tetrahidroxo-aluminát komplexion stabilan oldott marad, amíg a lúg elég erős marad."
+    },
+    {
+      "id": 14,
+      "term": "Termitreakció",
+      "definition": "Az alumínium erősen exoterm folyamata más fémek oxidjaiból, ahol az alumínium az oxigént elvonva az elemi fémet képez: 2 Al + Fe₂O₃ = 2 Fe + Al₂O₃",
+      "quote": "Erősen exoterm, nagy hő",
+      "text": "A termitreakció olyan erősen exoterm, hogy a keletkező fém megolvad. A vas-termitben a keletkezett vas olvadéka körülbelül 2500 °C hőmérsékletet ér el. A termitrakcióban az alumínium egyedülálló redukálószerként működik, és ezt a vasúti sínek hegesztésére használják, mivel az olvadt vas közvetlenül a hely helyszínén keletkezik."
+    },
+    {
+      "id": 15,
+      "term": "Alumínium-klorid tulajdonságai",
+      "definition": "Az AlCl₃ fehér, illékony szilárd anyag, amely 180 °C-on szublimál és átmenetet képez az ionos és kovalens kötés között.",
+      "quote": "Fehér, illékony, szublimál",
+      "text": "Az alumínium-klorid gázfázisban kovalens dimer molekulákat alkot (Al₂Cl₆), míg szilárd és folyékony fázisban ionos szerkezete van. Ez az átmeneti jelleg az Al–Cl kötés polaritásának következménye. Az AlCl₃-ot felhasználják az organikus szintézisben katalizátorként (Friedel–Crafts-acilezés)."
+    },
+    {
+      "id": 16,
+      "term": "Alumínium-oxid (timföld)",
+      "definition": "Az Al₂O₃ fehér, vízben nem oldódó szilárd anyag, amely lúgoldatban oldódik és amelyből olvadékelektrolízis útján alumíniumot állítanak elő.",
+      "quote": "Fehér, kemény, anfotér",
+      "text": "A timföld (korund) a legfontosabb alumínium-vegyület. Magas olvadáspontja (2072 °C), keménysége (a gránáton után az egyik legkeményebb természetes mineral) és kémiai állékonysága miatt számos alkalmazása van: tűzálló anyagok, csiszoló szerek, abrazívok. A természetben korundum megtalálható rubinként és zafírként."
+    },
+    {
+      "id": 17,
+      "term": "Alumínium-hidroxid csapadék",
+      "definition": "Az Al(OH)₃ fehér csapadék, amely alumíniumionok és hidroxidionok reakciójában képződik és savban feloldható.",
+      "quote": "Fehér csapadék, savban oldódik",
+      "text": "Az Al(OH)₃ tipikus amfoter hidroxid: savakban oldódik (Al³⁺ ionok képzésére) és lúgoldatban is oldódik (Al(OH)₄⁻ komplexet képezve). Ezt a tulajdonságot analitikai kémiai módszerben használják az alumínium kimutatásához. A csapadék kicsapása después Az Al³⁺ ionok lassú hidrolízise után jelenik meg."
+    },
+    {
+      "id": 18,
+      "term": "Alumíniumionok vizes oldatban",
+      "definition": "Az Al³⁺ ionok hidratáltan hexaakva-komplexet képeznek: Al³⁺ + 6 H₂O ⇌ [Al(H₂O)₆]³⁺",
+      "quote": "Hexaakva-komplex, savas kémhatás",
+      "text": "Az [Al(H₂O)₆]³⁺ komplex vizes oldatában hidrolízis miatt savas kémhatás alakul ki. Az Al–OH kötésűnek részleges hidrogen-kialakulása az ion magas töltésének és kicsi méretének köszönhető. Ez az oka annak, hogy az alumínium-sóoldatok általában savas karakterűek, pH körülbelül 3–4 között."
+    },
+    {
+      "id": 19,
+      "term": "Ón (Sn) és ólom (Pb) fizikai tulajdonságai",
+      "definition": "Az ón és az ólom ezüstszürke nehézfémek, negatív standardpotenciálúak, de kevésbé erős redukálószerek, mint az alumínium.",
+      "quote": "Szürke fémek, +2 és +4 oxidációs állapot",
+      "text": "Az ón olvadáspontja 232 °C, az ólom olvadáspontja 327 °C. Mindkét fém viszonylag lágy, jól megmunkálható fém. Az ólom erősen mérgező, míg az ón kevésbé. Vegyületeikben +2 és +4 oxidációs állapotban fordulnak elő, bár az +4-es állapot az ón esetén az +2-es állapot mellett, az ólom esetén nem túl stabil."
+    },
+    {
+      "id": 20,
+      "term": "Ón és ólom oxidációja oxigénnel",
+      "definition": "Az ón oxigénnel ón(IV)-oxidot (SnO₂), az ólom ólom(II)-oxidot (PbO) képez: felületüket stabil oxidréteg védi.",
+      "quote": "Oxidréteg védelmet nyújt",
+      "text": "A keletkezett oxidok tömör szerkezetűek és vízben nem oldódnak. Ezért az ón és az ólom felülete levegőn nem korrodálódik olyan intenzíven, mint a vas. Ez az oka annak, hogy az ólom és ón évszázadokon keresztül képes ellenállni a korróziós hatásoknak, és közvetlenül használható például vízvezetékekben (bár az ólom mérgezése miatt ma már nem szokásos)."
+    },
+    {
+      "id": 21,
+      "term": "Ón oldódása savban",
+      "definition": "Az ón savakban hidrogénfejlődés közben oldódik, ón(II)-sók keletkeznek: Sn + 2 HCl = SnCl₂ + H₂",
+      "quote": "Sósav-ban → SnCl₂ + H₂",
+      "text": "Az ón negatív standardpotenciálja miatt savakban feloldódik. A kapott ón(II)-klorid (SnCl₂) könnyen oldódik. Az ón(II)-ionok azonban a levegőn levegőn oxidálódnak és bármilyen oxidáló szer (például klórionok + oxigén) ón(IV)-ionná konvertálja azokat."
+    },
+    {
+      "id": 22,
+      "term": "Ólom oldódása savban",
+      "definition": "Az ólom sósavban és kénsavban csak felületén képződik oldhatatlan réteg (PbCl₂ ill. PbSO₄), amely megakadályozza a további reakciót.",
+      "quote": "Passzívvá válik, nem oldódik",
+      "text": "Az ólom nagyon felületi reaktivitást mutat: a sósavban képződő PbCl₂ és a kénsavban képződő PbSO₄ oldhatatlan, és az oldódás után azonnal védőréteg képződik. Ez a passzívvá válás oka annak, hogy az ólom ellenálló az ezekben az oldatokban, pedig egyébként negatív potenciálú fém. Salétromsavban azonban, amely oxidáló sav, az ólom feloldódik."
+    },
+    {
+      "id": 23,
+      "term": "Ólom és salétromsav reakciója",
+      "definition": "Az ólom tömény salétromsavban oldódik, ólom(II)-nitrát képződik: Pb + 4 HNO₃ = Pb(NO₃)₂ + 2 NO₂ + 2 H₂O",
+      "quote": "Oxidálósav → Pb(NO₃)₂ + NO₂",
+      "text": "A salétromsav oxidáló hatása lehetővé teszi, hogy az ólom feloldódjon annak ellenére, hogy felületi passzívvá válna. Az oxidáció közben nitrózus gázok (NO₂ vagy NO) képződnek. Az így keletkezett Pb(NO₃)₂ vízben jól oldódik, és ez az ólom egyik fontos szorzata."
+    },
+    {
+      "id": 24,
+      "term": "Ón felhasználása",
+      "definition": "Az ónt főként forrasztóónként (ón-ólom ötvözet), valamint bronzként (ón-réz ötvözet) használják gépalkatrészek és csőszerelvények készítésére.",
+      "quote": "Ötvözetekben, forrasztásban",
+      "text": "Az ón-ólom forrasztóón a világ egyik legrégebb óta használt ötvözete, amely alacsony olvadáspontja miatt kiválóan használható elektronikai forrasztásban. A bronz (ón-réz ötvözet) nagyon kemény és szép anyag, ezért régebben érméhez, szobraidohoz és fegyverekhez használták. Ma már az ólom-mentes forrasztóónt (ón-ezüst vagy ón-réz-ezüst) részesítik előnyben az egészség- és környezetvédelmi okok miatt."
+    },
+    {
+      "id": 25,
+      "term": "Ólom felhasználása",
+      "definition": "Az ólomot akkumulátorokba (ólom-sav akkumulátor), valamint röntgen- és gammasugárzás elleni védelemre használják.",
+      "quote": "Akkumulátorok, radiológia",
+      "text": "Az ólom-sav akkumulátor az egyik legfontosabb energia-tárolóeszköz, amely jó ciklus-stabilitás és alacsony költség miatt számos alkalmazásban terjedt el. Az ólom kiváló sugárzásvédő anyag, mivel magas rendszáma és többi sűrűsége miatt hatékonyan nyel el röntgen- és gamma-sugárzást. Az ólomkötény és ólomtéglák Standard védelemként használják az orvosi és ipari berendezésekben."
+    },
+    {
+      "id": 26,
+      "term": "Ólom az ivóvízben",
+      "definition": "Az ólom régi vízvezetékekből kioldódik az ivóvízbe, amely komoly egészségi kockázatot jelent, különösen a fejlődésben levő gyermekeknek.",
+      "quote": "Mérgező, szellemi károsodást okoz",
+      "text": "Az ólom hatással van az idegrendszerre, valamint akut és hosszú távú egészségügyi problémákat okozhat. A gyermekek szellemi fejlődésére fokozottan káros hatással van az ólom. Az 1950-es évekig Magyarország nagy részén ólomból készült vízvezetékeket használtak, ezért a régi vezetékek cseréje nagy sürgősséggel történik, és kockázati térképeket készíttek az ólom koncentrációjának nyomon követésére az egész ország területén."
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "szen-szilicium",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Milyen kötésekből áll a grafit rétegei között?",
+      "options": ["Erős kovalens kötések", "Van der Waals erők", "Ionos kötések", "Fémes kötések"],
+      "answer": "Van der Waals erők"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A gyémánt nem vezeti az elektromosságot, mert az összes szénatomnak _____ erős kovalens kötése van.",
+      "options": [],
+      "answer": "négy"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mi a leggyakoribb fullerén?",
+      "options": ["C₃₀", "C₆₀", "C₉₀", "C₁₂₀"],
+      "answer": "C₆₀"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A szilícium _____ tulajdonságú, ami azt jelenti, hogy elektromos vezetőképessége adalékanyagokkal szabályozható.",
+      "options": [],
+      "answer": "félvezető"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Hol fordul elő a szilícium főleg a természetben?",
+      "options": ["Tiszta fém formájában", "Szilikátásványok és szilícium-dioxid formájában", "Karbonátkőzet formájában", "Vegyes fémes ércekben"],
+      "answer": "Szilikátásványok és szilícium-dioxid formájában"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "2 C + O₂ = _____ (szén oxigénhiányos égése)",
+      "options": [],
+      "answer": "2 CO"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Milyen hőmérsékleten reagál a szén vízgőzzel?",
+      "options": ["Szobahőmérsékleten", "100°C-on", "Magas hőmérsékleten", "Csak folyékony állapotban"],
+      "answer": "Magas hőmérsékleten"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Si + 2 NaOH + H₂O = _____ + 2 H₂ (szilícium lúgos közegben)",
+      "options": [],
+      "answer": "Na₂SiO₃"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Milyen felhasználása van a grafitnak az atomenergetikában?",
+      "options": ["Fűtőanyag", "Neutronfékező rudak", "Kémiaianyag", "Szigetelés"],
+      "answer": "Neutronfékező rudak"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A szén-monoxid laboratóriumi előállításánál hangyasav és _____ szük sül.",
+      "options": [],
+      "answer": "tömény kénsav"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Miért veszélyes a szén-monoxid a háztartásban?",
+      "options": ["Magas hőmérsékletre bontódik", "Szagtalan és színtelen", "Magas gőznyomása van", "Visz szag van a tüzelésből"],
+      "answer": "Szagtalan és színtelen"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "CO + O₂ = _____ (szén-monoxid égése)",
+      "options": [],
+      "answer": "CO₂"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik folyamatban keletkezik szén-dioxid alkoholos erjedéskor?",
+      "options": ["Fotoszintézis", "Szénhidrogén égése", "Alkohol fermentációja", "Karbonát bomlása"],
+      "answer": "Alkohol fermentációja"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "CO₂ + 2 NaOH = _____ + H₂O (szén-dioxid közömbösítése)",
+      "options": [],
+      "answer": "Na₂CO₃"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik reakcióban mutatható ki a szén-dioxid?",
+      "options": ["Meszes vízzel", "Nátrium-hidroxiddal", "Sósavval", "Vas(III)-kloridddal"],
+      "answer": "Meszes vízzel"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "SiO₂ + 4 HF = _____ + 2 H₂O (üveg maratás)",
+      "options": [],
+      "answer": "SiF₄"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mit nevezünk lúgos feltárásnak?",
+      "options": ["Savas oldatban való oldódás", "Oldhatatlan anyag oldhatóvá tétele lúgban", "Magas hőmérsékletű melegítés", "Elektromágneses kezelés"],
+      "answer": "Oldhatatlan anyag oldhatóvá tétele lúgban"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A kovasav (H₂SiO₃) _____ vizes oldatban létező bomlékony vegyület.",
+      "options": [],
+      "answer": "csak"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Milyen felhasználása van a szilikonolajoknak és szilikonzsíroknak?",
+      "options": ["Élelmiszer tartósítószer", "Magas és alacsony hőmérsékleten működő kenőanyagok", "Elektromosan vezető anyag", "Szövetgyártás"],
+      "answer": "Magas és alacsony hőmérsékleten működő kenőanyagok"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A sziloxánkötés a _____ és az oxigén közötti kötés.",
+      "options": [],
+      "answer": "szilícium"
+    }
+  ]
+}

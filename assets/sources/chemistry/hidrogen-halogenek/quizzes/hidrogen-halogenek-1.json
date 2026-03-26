@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "hidrogen-halogenek",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik nemesgáz forrápontja a legmagasabb?",
+      "options": ["Hélium", "Neon", "Argon", "Xenon"],
+      "answer": "Xenon"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az _____ az összes halogen közül a legerősebben oxidáló elem.",
+      "options": [],
+      "answer": "fluor"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mi a hidrogén fizikai halmazállapota szobahőmérsékleten?",
+      "options": ["Szilárd", "Folyékony", "Gáz", "Plazma"],
+      "answer": "Gáz"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A hidrogén és klór robbanásszerű reakciójában keletkezett gáz keveréket _____ durranógáznak nevezik.",
+      "options": [],
+      "answer": "klór"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mely elemek között képződik ionrácsos szerkezetű hidrid?",
+      "options": ["Hidrogén és szén", "Hidrogén és nitrogén", "Hidrogén és fém", "Hidrogén és oxigén"],
+      "answer": "Hidrogén és fém"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A klór és a víz disproportionálódási reakciójában _____ és hipoklórossav keletkezik.",
+      "options": [],
+      "answer": "hidrogén-klorid"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Hány természetes izotópja van a hidrogénnak?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "3"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ a legkönnyebb nemesgáz és még 0 K-en sem fagy meg normál nyomáson.",
+      "options": [],
+      "answer": "hélium"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mi a bróm fizikai halmazállapota szobahőmérsékleten?",
+      "options": ["Gáz", "Szilárd", "Folyékony", "Plazma"],
+      "answer": "Folyékony"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A nemesgázokat iparilag a levegő _____ és frakcionált desztillációjával állítják elő.",
+      "options": [],
+      "answer": "cseppfolyósításával"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik hidrogén-halogenid a legerősebb sav?",
+      "options": ["HF", "HCl", "HBr", "HI"],
+      "answer": "HI"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ az egyetlen végtelen molekulájú halogenelem szobahőmérsékleten.",
+      "options": [],
+      "answer": "bróm"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik hidrogén-halogenid képez hidrogénkötéseket?",
+      "options": ["HCl", "HBr", "HF", "HI"],
+      "answer": "HF"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A hidrogén és nitrogén nagy hőmérsékleten és nyomáson _____ képeznek katalizátor jelenlétében.",
+      "options": [],
+      "answer": "ammóniát"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik halogen oxidálja a bromid- és jodidionokat?",
+      "options": ["Fluor", "Klór", "Bróm", "Jód"],
+      "answer": "Klór"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az argonban az elektronok száma azonos azzal, mint az _____ atomban.",
+      "options": [],
+      "answer": "kálium"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik ezüst-halogenid csapadék a fehér?",
+      "options": ["AgF", "AgCl", "AgBr", "AgI"],
+      "answer": "AgCl"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ az egyetlen radioaktív nemesgáz, és nincs stabil izotópja.",
+      "options": [],
+      "answer": "radon"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Milyen szín a jód oldódása szén-tetrakloridban?",
+      "options": ["Barna", "Lila", "Sárga", "Szürke"],
+      "answer": "Lila"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A hidrogén-fluorid az egyik kevés anyag, amely oldja a _____ vagyis az üveget.",
+      "options": [],
+      "answer": "szilícium-dioxidot"
+    }
+  ]
+}

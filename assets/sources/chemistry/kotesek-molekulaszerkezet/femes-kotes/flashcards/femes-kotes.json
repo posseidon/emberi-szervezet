@@ -1,0 +1,179 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi a fémes kötés?",
+      "definition": "A fémes kötés a delokalizált vegyértékelektronok és az ionok közötti kölcsönhatás, amely a fémek kristályrácsában alakul ki.",
+      "quote": "Delokalizált elektronok közös felhőben",
+      "text": "A fémes kötésben a fém atomok vegyértékelektronjai nem egyetlen atom körül lokalizálódnak, hanem az egész fém szerkezetben szabadon mozognak. Ez egy elektrongáz vagy elektronfelhő, amely az összes fém atommag körül közösen oszlik meg. Ez magyarázza a fémek elektromos és hővezetési képességét."
+    },
+    {
+      "id": 2,
+      "term": "Mikor alakul ki fémes kötés?",
+      "definition": "A fémes kötés akkor alakul ki, amikor kis elektronegativitású elemek (a fémek) atomjai létesítenek egymással kötést.",
+      "quote": "Kis EN = fémes kötés",
+      "text": "A fémes kötés tipikus a fémekre (Li, Na, K, Fe, Cu, Au stb.), ahol az atomok könnyen megosztják vegyértékelektronjaikat. Az ezüst, arany és réz is fémes kötésű szerkezettel rendelkezik. A fémes kötés erőssége általában közepes az ionos és kovalens kötések között."
+    },
+    {
+      "id": 3,
+      "term": "Mi a delokalizáció?",
+      "definition": "A delokalizáció azt jelenti, hogy az elektron nem egyetlen atom körül helyezkedik el, hanem több atomhoz tartozik, azaz több atommag vonzása alatt áll.",
+      "quote": "Elektron több atomhoz tartozik",
+      "text": "Delokalizált elektron: egy elektron, amely egynél több atommag vonzásában van. Ez szembeállítható a lokalizált elektronnal, amely csak egy atom körül helyezkedik el. A delokalizáció energetikailag kedvezőbb, így az elektronok természetesen a delokalizált állapotot preferálják."
+    },
+    {
+      "id": 4,
+      "term": "Hogyan alakul ki az elektronfelhő a fémes kötésben?",
+      "definition": "A fém atomok vegyértékelektronjai az egész kristályrácsban szabadon mozognak, mint egy közös elektronfelhő vagy elektronfürdő.",
+      "quote": "Elektronfürdő a fémben",
+      "text": "Képzeljünk el egy fém szerkezetet: az atommagok és belső elektronok a helyen maradnak, de a vegyértékelektronok eltávolodnak az atomoktól. Az összes vegyértékelektron egy nagy, közös felhőt alkot, amely az egész kristálystruktúrát áthatol. Ez az elektronfelhő vagy elektronos gáz biztosítja a fém összetartóerejét."
+    },
+    {
+      "id": 5,
+      "term": "Melyik elektronok vesznek részt a fémes kötésben?",
+      "definition": "A fémes kötésben a vegyértékelektronok (a legkülső héjon levő elektronok) vesznek részt, nem a törzselektronok.",
+      "quote": "Vegyértékelektronok delokalizálódnak",
+      "text": "Egy fém atom törzselektronjai szorosan az atommag körül maradnak, de a vegyértékelektronok (külső pályában levő elektronok) megosztásra kerülnek az összes atom között. Például egy Na atombban az 1s², 2s², 2p⁶ elektronok (törzselektronok) maradnak lokalizálva, míg a 3s¹ elektron delokalizálódik."
+    },
+    {
+      "id": 6,
+      "term": "Miért nevezik az elektronokat 'közös elektronfelhőnek'?",
+      "definition": "Azért, mert az elektronok az egész fém szerkezetben mozognak, és nem tartoznak egyetlen atomhoz sem, így egy közös, delocalizált felhőt képeznek.",
+      "quote": "Közös tulajdon, közös mozgás",
+      "text": "Az analógia: ha egy város összes lakójának lenne közös autója, amely bárki számára elérhető lenne, ez lenne a fémes elektronok helyzete. Nincs egyéni tulajdon, mindegyik elektron az egész szerkezet szabad erőforrása. Ez a mobilizmus adja meg a fémeknek az elektromos vezetőképességet."
+    },
+    {
+      "id": 7,
+      "term": "Milyen szerkezeti jellegzetessége van a fémes kötésű vegyületeknek?",
+      "definition": "A fémes kötésű anyagok kristályrácsot alkotnak, ahol az atommagok és az elektronok speciális elrendezésben helyezkednek el.",
+      "quote": "Kristályrácsban elrendezve",
+      "text": "A fémek jellemzően szoros pakolású kristályrácsban helyezkednek el (hexagonális szoros pakolás, köbös szoros pakolás, vagy köbös testcentrált pakolás). Az atommagok rendezett pozícióiban vannak, az elektronok azonban mobillá válnak. Ezért az elektronok száma és az atommagok száma között egy specifikus arány van."
+    },
+    {
+      "id": 8,
+      "term": "Mi a különbség az ionkötés és a fémes kötés között?",
+      "definition": "Az ionkötésben az elektronok egy atomtól egy másikra kerülnek, a fémes kötésben az elektronok az egész szerkezetben delokalizálódnak.",
+      "quote": "Ionos: átadás; fémes: delocalizáció",
+      "text": "Az ionkötésben az elektron a pozitív ionra rögzített, a fémes kötésben az elektron szabad mozgásban van az egész szerkezetben. Ez magyarázza, hogy a fémek vezetik az elektromosságot (elektronok könnyen mozognak), míg az ionos szilárdanyagok nem (elektronok rögzítve vannak)."
+    },
+    {
+      "id": 9,
+      "term": "Miért vezetik az elektromosságot a fémek?",
+      "definition": "Azért, mert a vegyértékelektronok szabadon mozognak az egész szerkezetben, így egy elektromos mező alatt könnyedén áramot hoznak létre.",
+      "quote": "Szabad elektronok = vezetőképesség",
+      "text": "Az elektromosságvezetés az elektron-mozgás. A fémes kötésben az elektronok mobillak, így egy külső elektromos mező alatt könnyen mozognak, és ezáltal elektromos áramot hoznak létre. Ez a legfontosabb technológiai tulajdonsága a fémeknek."
+    },
+    {
+      "id": 10,
+      "term": "Miért vezetik a hőt a fémek?",
+      "definition": "Azért, mert a szabad elektronok a hőenergiát az egész szerkezetben könnyen szétvezetik.",
+      "quote": "Szabad elektronok hővezetésre",
+      "text": "A hővezető anyagok azt az elektronközzek kapcsolódhat, hogy az energiákat gyorsabban szétvezetik. A fémek delokalizált elektronjai kiváló hővezetők, mert az elektronok mozgása során az energiát az egész kristályrácsban szétvezetik. Ezért a fémek magas hővezetési képességűek."
+    },
+    {
+      "id": 11,
+      "term": "Mit jelent az, hogy a fém atomok 'megosztják' a vegyértékelektronokat?",
+      "definition": "Azt jelenti, hogy a vegyértékelektronok az összes atom körül közösen jelenlévőek, nem egy atomhoz localizálódnak.",
+      "quote": "Közös elektronok közös használat",
+      "text": "Ez más, mint a kovalens kötés, ahol az elektronok egy vagy két atom között megosztásra kerülnek. A fémes kötésben az összes atom egyformán 'tulajdonosa' az elektronoknak, az elektronok az egész szerkezetben szabadon mozoghatnak. Ez az oka a fémek rugalmasságának és képlékenységének."
+    },
+    {
+      "id": 12,
+      "term": "Hogyan magyarázható a fémes kötés energetikailag?",
+      "definition": "Az elektronok delokalizációja energetikailag kedvezőbb, mert az elektron több atommag vonzásában nagyobb stabilitást ér el.",
+      "quote": "Delocalizáció kedvezőbb energia",
+      "text": "Kvantummechanikai szempontból az elektron, amely több atommag körül helyezkedik el, alacsonyabb energiájú állapotban van, mintha csak egy atommag körül lenne. Ez a felismerés a variációs elv alapján érthető meg: a rendszer a legalacsonyabb energiaállapot felé törekszik."
+    },
+    {
+      "id": 13,
+      "term": "Miért van erőssége a fémes kötésnek, ha az elektronok mobillak?",
+      "definition": "Az erősség abból ered, hogy az elektronok az összes atommag körül egyszerre vannak, így az összes atommagnak vonzzák az elektronokat.",
+      "quote": "Minden mag vonzza az elektronokat",
+      "text": "A fémes kötés erőssége az elektronok és az atommagok közötti kumulatív vonzásból ered. Bár az egyetlen elektron nem egy atomhoz van rögzítve, az összes atommagnak a vonzása összesen egy erős kötést hoz létre. Ez magyarázza a fémek szilárdsága és nagy olvadáspontja részét."
+    },
+    {
+      "id": 14,
+      "term": "Mit jelent az, hogy a fém 'átmenetileg szilá', de képlékenysé?",
+      "definition": "Az átmenetileg szilárd szerkezet az atommagok rendezett elrendezésérő ered, a képlékenység az elektronok mobilitásából.",
+      "quote": "Szilárd szerkezet, szabad elektronok",
+      "text": "A fém kristályrácsban az atommagok helyhez kötöttek, de az elektronok szabadon mozognak. Ha nyomást gyakorolunk a fémre, az atommagok elcsúszhatnak egymás mellett az elektronok ugyanakkor az új pozíciókhoz igazodnak. Az elektronok delokalizációja lehetővé teszi ezt az átcsúszást anélkül, hogy a kötés felszakadna."
+    },
+    {
+      "id": 15,
+      "term": "Mely fémek mutatnak tipikus fémes kötést?",
+      "definition": "Az alkálifémek (Na, K), az alkáliföld fémek (Ca, Mg), a átmeneti fémek (Fe, Cu, Zn) és a sokan más fémek (Al, Sn, Pb) mutatnak tipikus fémes kötést.",
+      "quote": "Fémek = fémes kötés",
+      "text": "Gyakorlatilag az összes periódusrendszerbeli fém fémes kötésű szerkezetben van. Az ezüst, arany, réz különösen jó elektromos vezetők, amit a delokalizált elektronok kiváló mobilitása okoz. A fém-fém kötés az összes fém alapstruktúrájában jelen van."
+    },
+    {
+      "id": 16,
+      "term": "Miért különböznek a fémek egy ionos anyagtól elektromos vezetésben?",
+      "definition": "A fémek elektronok mozgásával vezetik az elektromosságot (elektronvezetés), az ionos anyagok ionmozgással (ionvezetés).",
+      "quote": "Fém: elektronok; ionos: ionok",
+      "text": "A fém elektromosságvezetése szilárd halmazállapotban már megfigyelhető, mert az elektronok szabad mozgásban vannak. Az ionos anyagok csak olvadt vagy oldott állapotban vezetik az elektromosságot, mert az ionok csak ezekben az állapotokban mozognak szabadon. Ez a különbség a kötés természetéből ered."
+    },
+    {
+      "id": 17,
+      "term": "Mit jelent az, hogy a fémes kötésben 'nincsen felső korlát az elektronok számára'?",
+      "definition": "Azt jelenti, hogy a fém szerkezetben tetszőlegesen sok elektron lehet, nincs olyan maximum, mint az oktettrule a kovalens kötésekben.",
+      "quote": "Nincs elektron maximum",
+      "text": "Az oktettszabály a kovalens kötésekben azt jelenti, hogy maximum 8 elektron lehet egy atom körül. A fémes kötésben azonban az elektronok az egész szerkezetben vannak, így az atomok körül több mint 8 elektron lehet. Ebből ered a fémek nagy elektronvezetési kapacitása."
+    },
+    {
+      "id": 18,
+      "term": "Hogyan viszonyul a fémes kötés a kovalens kötéshez?",
+      "definition": "A fémes kötés a kovalens kötéshez hasonlóan elektronmegosztáson alapul, de abban különbözik, hogy az elektronok az egész szerkezetre delokalizálódnak.",
+      "quote": "Mindkettő megosztás, de scope eltérő",
+      "text": "Mindkét kötés típusban van elektronmegosztás, de a kovalens kötésben az elektronok egy vagy két atom között szétoszanak, míg a fémes kötésben az összes atom között. Ez magyarázza, hogy miért vezetnek a fémek elektromosságot, míg az egyediség molekulák nem."
+    },
+    {
+      "id": 19,
+      "term": "Mit jelent a 'törzselektron' a fémes szerkezetben?",
+      "definition": "A törzselektronok a fém atom belső héján helyezkednek el, és nem vesznek részt a fémes kötésben.",
+      "quote": "Belső elektronok szorosan kötöttek",
+      "text": "Egy Na atom: [Ne]3s¹. Az [Ne] rész a törzselektronok, amelyek szorosan az atommag körül maradnak. A 3s¹ elektron a vegyértékelektron, amely delokalizálódik. A törzselektronok nem vesznek részt a kötésben, így nem befolyásolják az elektromos vagy hővezető képességet."
+    },
+    {
+      "id": 20,
+      "term": "Miért van fémes kötés a tiszta fémekben, de nem más szerkezetekben?",
+      "definition": "Mert a fémes kötés megköveteli, hogy sok azonos vagy hasonló elektronegativitású atom legyen közel egymáshoz.",
+      "quote": "Hasonló atomok szükségesek",
+      "text": "Ha különböző elektronegativitású atomok vannak egy szerkezetben, valószínűbb az ionkötés vagy a kovalens kötés kialakulása. A fémes kötés jellegzetes tiszta fémekre (Cu, Fe, Al), és nem az összes keményfém vagy ligandális szerkezetekre. Az azonosság lehetővé teszi az elektronok teljes delokalizációját."
+    },
+    {
+      "id": 21,
+      "term": "Hogyan magyarázható a fém rugalmassága a fémes kötés alapján?",
+      "definition": "A fém rugalmassága abból ered, hogy az atommagok elcsúszhatnak az elektronok megbomlása nélkül.",
+      "quote": "Atomok elcsúszhatnak, kötés marad",
+      "text": "Ha egy fém rúdot hajlítunk, az atommagok az egyik oldal alatt összenyomódnak, a másik oldal alatt kitágulnak. Az elektronok delokalizációja biztosítja, hogy az új pozíciók körül is őket magukhoz vonzzák az atommagok. Ezért a fém nem törik meg, hanem rugalmasan visszatér az eredeti alakjához."
+    },
+    {
+      "id": 22,
+      "term": "Mit jelent az, hogy a fém 'képlékenysé'?",
+      "definition": "A képlékenység azt jelenti, hogy a fém állandó deformációra képes nyomás alatt, anélkül hogy törne.",
+      "quote": "Alakítható és hajlítható",
+      "text": "A fém képlékenysége (malleability és ductility) megállapítható az elektronok delokalizációja alapján. Amikor a fém alakját változtatjuk (nyújtás, vágás, csapás), az elektronok az új szerkezethez igazodnak, fenntartva a kötéseket. Ez a tulajdonság a fémeket ideális építőanyagokká teszi."
+    },
+    {
+      "id": 23,
+      "term": "Mely fizikai tulajdonságok jellegzetesek a fémes kötésű anyagokra?",
+      "definition": "A fémes anyagok szilárdak, fénylenek, vezetik az elektromosságot és a hőt, és képlékenyek.",
+      "quote": "Kemény, fényes, vezetö, formálható",
+      "text": "A fémes kötés megmagyarázza az összes fém tipikus tulajdonságait: szilárd halmazállapot (kötési erő), fényesség (elektronok felszíni visszaverése), elektromos vezetés (szabad elektronok), hővezetés (elektron-mozgás), és képlékenység (atomok elcsúszása anélkül hogy a kötés szakad)."
+    },
+    {
+      "id": 24,
+      "term": "Mit jelent az, hogy az elektronok 'kedvezőbb energiájúak' a delokalizált állapotban?",
+      "definition": "Az elektron több atommag vonzásában alacsonyabb potenciális energiájú állapotban van, mint ha csak egy atommag vonzásában lenne.",
+      "quote": "Több mag = alacsonyabb energia",
+      "text": "A potenciális energia az elektron és az atommagok közötti vonzás függvénye. Ha az elektron több atommag közelében van, az összesített vonzás nagyobb, így az elektron alacsonyabb energiájú állapotba kerül. Ez a termodi dinamikai oka a fémes kötés kialakulásának és stabilitásának."
+    },
+    {
+      "id": 25,
+      "term": "Mely tulajdonságok bizonyítják a délokalizáció létezését a fémes szerkezetben?",
+      "definition": "Az elektromos vezetőképesség, hővezetőképesség, és a kötéstávolságok kiegyenlítődése bizonyítják a délokalizációt.",
+      "quote": "Vezetőképesség mutatja délokalizációt",
+      "text": "Ha az elektronok lokalizáltak lennének, nem vezetnék az elektromosságot. A fémek kiváló elektromosságvezetői, ami csak a szabad elektronok mozgásával magyarázható. A hővezetőképesség hasonlóan az elektronok szabad mozgásán alapul. Ezek a megfigyelések erősen támogatják a délokalizáció koncepcióját."
+    }
+  ]
+}

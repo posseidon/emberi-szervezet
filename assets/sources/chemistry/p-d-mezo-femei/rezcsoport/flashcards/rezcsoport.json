@@ -1,0 +1,158 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "A rézcsoport elemei",
+      "definition": "A réz (Cu), ezüst (Ag) és arany (Au) pozitív standardpotenciálú, korróziónak ellenálló fémek, jó hő- és elektromos vezetők.",
+      "quote": "Cu, Ag, Au: nemesfém-szerű, pozitív potenciál",
+      "text": "A rézcsoport (11. csoport) elemei az átmeneties fémek között kiemelt helyet foglalnak el. Standardpotenciáljuk pozitív (Cu: +0,34 V, Ag: +0,80 V, Au: +1,42 V), amely azt jelenti, hogy nem reaktívak olyan savakban, mint a sósav vagy híg kénsav. Rézben +1 és +2 oxidációs állapot fordulnak elő, ezüstben +1, aranyban +3."
+    },
+    {
+      "id": 2,
+      "term": "Réz fizikai tulajdonságai",
+      "definition": "A réz jellegzetes pirosszín fém, jó hő- és elektromos vezető, könnyen megmunkálható.",
+      "quote": "Pirosszín, kitűnő vezető",
+      "text": "A réz sűrűsége 8,96 g/cm³, olvadáspontja 1085 °C. Az elektromosság és hő vezetésében a réz a legjobban vezet fémek között (aranyt leszámítva). A réz mechanikai tulajdonságai: kalapálható és nyújtható, így vezetékek, csövek és dísztárgyak készítésére alkalmas. Felületén idővel zöld patina (réz-karbonát) képződik a levegőn."
+    },
+    {
+      "id": 3,
+      "term": "Ezüst fizikai tulajdonságai",
+      "definition": "Az ezüst ezüstszürke, fényes nemesfém, kitűnő elektromos és hővezető, könnyen megmunkálható.",
+      "quote": "Ezüstfehér, nemesfém-fényes",
+      "text": "Az ezüst sűrűsége 10,49 g/cm³, olvadáspontja 962 °C. Az ezüst a legalkalmasabb hővezető fém a réz után. Elektromosan is kitűnő vezető. Az ezüst nem rozsdásodik levegő hatására (nemesfém), de kénesítődhet (felületén fekete Ag₂S réteggel fedődik), ha kéndiox idnos vagy kénes körülmények között tárolódik. Használata ékszerek, érmékkészítés és ipari alkalmazások (fényképészet, elektronika) között elterjedt."
+    },
+    {
+      "id": 4,
+      "term": "Arany fizikai tulajdonságai",
+      "definition": "Az arany jellegzetes sárga nemesfém, kivételes korrózióvédettséggel bír, nagyon sűrű és puha.",
+      "quote": "Sárga, puha, nemesség",
+      "text": "Az arany sűrűsége 19,30 g/cm³, olvadáspontja 1064 °C. Az arany az egyik legkeményebb fém (rendszám: 79, atomi tömeg: ~197), és nem képez semmilyen korrodálható vegyületet levegőn vagy normál körülmények között. Rendkívül puha és nyújtható, így vékony levéllé (aranylevél) vagy végtelenül hosszú drótokká nyújtható. Az arany használata az ékszeriparban és befektetési célokra terjedt el."
+    },
+    {
+      "id": 5,
+      "term": "Réz oxidációja oxigénnel",
+      "definition": "A réz levegőn hevítve felülete oxidálódik, fekete réz(II)-oxid (CuO) keletkezik: 2 Cu + O₂ = 2 CuO",
+      "quote": "Fekete CuO réteg",
+      "text": "A réz oxidációja fekete CuO-t eredményez. Szobahőmérsékleten az oxidáció nagyon lassú, azonban magas hőmérsékleten (például a láng felett) gyorsan történik. Az így keletkezett fekete oxidréteg nem olyan védelmez, mint az alumínium oxidációs rétege, ezért a réz idővel a zöld patina (réz-karbonát-hidroxid) képződése miatt megfelelő szín-változást mutat."
+    },
+    {
+      "id": 6,
+      "term": "Ezüst és arany nemesfém státusza",
+      "definition": "Az ezüst és az arany a nemesfémek közé tartoznak, a levegő oxigénjével nem reagálnak közönséges körülmények között.",
+      "quote": "Levegőn stabil, nem rozsdásodik",
+      "text": "A nemesfémek korrózióvédettsége abból adódik, hogy oxidációs potenciáljuk olyan pozitív, hogy az adott körülmények között lehetetlen oxidálódniuk. Az ezüst azonban kénesíthető lehet (fekete Ag₂S képzéskor), amely a szulfidionok jelenléte miatt lehet. Az arany gyakorlatilag minden körülmény között stabil marad, ezért 'sárga fém'-ként használják szerszámok, fogászati implantátumok és biometrikus alkalmazások esetén."
+    },
+    {
+      "id": 7,
+      "term": "Réz oldódása oxidáló savakban",
+      "definition": "A réz tömény salétromsavban és forró, tömény kénsavban oldható: Cu + 2 H₂SO₄ = CuSO₄ + SO₂ + 2 H₂O",
+      "quote": "SO₂ vagy NO₂ fejlődés",
+      "text": "Az oldódás elektromosan lehetséges, mert az oxidáló savak újabb redukálnak ágensként működnek. A kénsavban réz(II)-szulfát és kén-dioxid keletkezik, a salétromsavban pedig réz(II)-nitrát és nitrogén-dioxid. A réz nem oldódik vízben vagy nem oxidáló savakban (pl. sósav), még akkor sem, ha van felületi sérülés."
+    },
+    {
+      "id": 8,
+      "term": "Ezüst oldódása salétromsavban",
+      "definition": "Az ezüst tömény salétromsavban oldódik: Ag + 2 HNO₃ = AgNO₃ + NO₂ + H₂O",
+      "quote": "Nem-oxidáló sav → nincs oldódás",
+      "text": "Az ezüst, mint pozitív potenciálú fém, csak oxidáló savakban oldódik. A salétromsav erős oxidálószer, így oldódás játszódik le. A keletkezett nitrogén-dioxid vörös-barna szín (vagy sárga NO). Az így keletkezett ezüst-nitrát (AgNO₃) kitűnően oldódik vízben."
+    },
+    {
+      "id": 9,
+      "term": "Arany és királyvíz",
+      "definition": "Az arany csak királyvízben (tömény sósav és tömény salétromsav 3:1 térfogat aránya) oldható fel.",
+      "quote": "Királyvíz, csak erős oxidálás",
+      "text": "Az arany olyan stabil, hogy még erős tömény savak nem oldják fel. Csak a királyvíz (aqua regia) kombinációja elég erős ahhoz, hogy az aranyat feloldja. A fluorvíz és klórvíz elegyében nem-hidrogén halogenidek és hidrogén-fluorid hatékonyan oldja az aranyat. Az így keletkezett arany(III)-klorid (AuCl₃) és arany(III)-nitrát viszonylag instabil, és az oldatban az Au(III) könnyen redukálódik Au(I)-re vagy elemsé."
+    },
+    {
+      "id": 10,
+      "term": "Réz felhasználása",
+      "definition": "A rézből elektromos vezetékeket, burkolatokat, csöveket és dísztárgyakat készítik. Ötvözetei közül a bronz (Cu-Sn) és sárgaréz (Cu-Zn) jelentős.",
+      "quote": "Vezetékek, ötvözetek",
+      "text": "A réz kitűnő elektromos vezetője miatt széles körben használják elektrotechnikában. A bronz az egyik legrégibb ötvözet, amely a bronzkor óta ismert. A sárgaréz (réz-cink ötvözet) dekoratív és mechanikai alkalmazásokra szolgál. A réz-berillium ötvözeteket rugó-szerkezetekhez és precíziós részekhez használják."
+    },
+    {
+      "id": 11,
+      "term": "Ezüst felhasználása",
+      "definition": "Az ezüstből ékszereket, dísztárgyakat, érméket és befektetési tömböket készítik. Az ipari alkalmazások közé tartozik a fotográfia és az elektronika.",
+      "quote": "Ékszerek, érték, fotóanyag",
+      "text": "Az ezüst nagy része (körülbelül 30%) az ékszeriparban talál felhasználást. A fotográfiában az ezüst-halogenidek fotoszenzitív anyagok (filmek). Az elektronika szintén nagy mennyiséget fogyaszt (vezetékes összecsatornák, szolár-cellák). Az ezüst-legiszterre szintén kereslet van befektetési célokra, mivel értéke stabil."
+    },
+    {
+      "id": 12,
+      "term": "Arany felhasználása",
+      "definition": "Az aranyból ékszereket, érméket és befektetési tömböket készítnek. Az ipari alkalmazások közé tartozik a fogorvosi technika és az elektronika.",
+      "quote": "Érték, ékszerek, befektetés",
+      "text": "Az arany történelmileg pénz-cseremódszerként szolgált, és ma még befektetési célokra használják. A fogászatban az arany az ideális fogászati anyag, mivel nem mérgező, könnyen megmunkálható és hosszú élettartamú. Az elektronika szintén használja (arany-vonalak integrált áramköri lapkákban), mivel jó vezetője és nem rozsdásodik."
+    },
+    {
+      "id": 13,
+      "term": "Réz(II)-szulfát (CuSO₄)",
+      "definition": "A CuSO₄ vízben oldódó szilárd anyag, 5 mól vízzel kristályosodik, kék kristályos forma (pentahidrát), fehér por vízmentes formában.",
+      "quote": "Kék pentahidrát, fehér por",
+      "text": "A réz(II)-szulfát-pentahidrát (CuSO₄·5H₂O) kék szín a [Cu(H₂O)₆]²⁺ komplex miatt. Vízmentes CuSO₄ fehér por. Ez az anyag széles körben használatos a növényvédelemben. Az oldatban hexaakva-komplexet képez, amely kék szín. Az oldatok viszkozitása erős és elektronikus vezetőképessége kiváló."
+    },
+    {
+      "id": 14,
+      "term": "Réz(I)-oxid (Cu₂O)",
+      "definition": "A Cu₂O vörös szín, vízben nem oldódó szilárd anyag, amely sósavban oldódik.",
+      "quote": "Vörös, Cu₂O",
+      "text": "A Cu₂O réz(I)-vegyület, amely vörös szín. A helyreállítóját festékként használják; a természet rozsda és fal-festékként terjedt el. A Cu₂O + 2 HCl = 2 CuCl + H₂O reakció szerint sósavban oldódik. Ez a vegyület kevésbé elterjedt a réz(II)-oxid-nál, de számos ipari alkalmazásban használják."
+    },
+    {
+      "id": 15,
+      "term": "Réz(II)-oxid (CuO)",
+      "definition": "A CuO fekete szín, vízben nem oldódó szilárd anyag, amely sósavban oldódik.",
+      "quote": "Fekete, réz(II)-oxid",
+      "text": "A CuO fekete powder vagy kristályos forma. Magas olvadáspontja (1800 °C) miatt tűzálló anyagok előállítására használják. A CuO + 2 HCl = CuCl₂ + H₂O reakció szerint oldódik savakban. A réz(II)-oxid katalizátorként is funkcionál számos kémiai folyamatban."
+    },
+    {
+      "id": 16,
+      "term": "Réz(II)-hidroxid (Cu(OH)₂)",
+      "definition": "A Cu(OH)₂ világoskék csapadék, amely réz(II)-ionok és hidroxidionok reakciójában keletkezik.",
+      "quote": "Világoskék csapadék",
+      "text": "A Cu(OH)₂ csapadék a Cu²⁺ + 2 OH⁻ = Cu(OH)₂ reakcióban képződik. Jellegzetes világoskék szín jellemzi. Ez a csapadék vízben nem oldódik, de savakban igen, és magas hőmérsékleten (kb. 60 °C) felbomlik CuO és vízzé. Analitikai jelzésként használható a réz(II)-ionok kimutatásához."
+    },
+    {
+      "id": 17,
+      "term": "Ezüst-nitrát (AgNO₃)",
+      "definition": "Az AgNO₃ fehér, vízben kiválóan oldódó szilárd anyag, maró hatású, laboratóriumi reagens.",
+      "quote": "Fehér, maró, reagens",
+      "text": "Az ezüst-nitrát (más nevén: lápisz) erősen maró anyag, amely a bőrön fekete nyomot hagy (elemi ezüst miatt). A vizes oldata laboratóriumi reagens az anionok kimutatásához (például halogenidionok). Az AgNO₃ hevített, vagy UV-fénnyel elbomlik, elemi ezüstöt (fekete szín) és nitrátionokat adva."
+    },
+    {
+      "id": 18,
+      "term": "Ezüst-oxid (Ag₂O)",
+      "definition": "Az Ag₂O kávébarna csapadék, ezüstionok és hidroxidionok reakciójában keletkezik.",
+      "quote": "Kávébarna, Ag₂O",
+      "text": "Az Ag₂O képzés az alábbiak szerint történik: az ezüst-hidroxid (AgOH) nem stabil, és azonnal Ag₂O és vízre bomlik: 2 AgOH → Ag₂O + H₂O. Ez a csapadék természetes módon fekete Ag₂O-vé alakul, ha fényvédő nélkül tárolódik. Az Ag₂O használható oxidálószerként szerves szintézisben."
+    },
+    {
+      "id": 19,
+      "term": "Ezüst-halogenidek",
+      "definition": "Az AgCl fehér, AgBr sárgásfehér, AgI sárga csapadékok, amelyek ezüstionok és halogenidionok reakciójában keletkeznek.",
+      "quote": "AgCl fehér, AgBr sárga, AgI sárga",
+      "text": "Az ezüst-halogenidek fényérzékenyak, fotográfiához használatosak. Az AgCl fehér, kristályos forma, amelyet fotográfiai emulziókban használtak. Az AgBr sárgásfehér, az AgI sárga. Mindhárom vegyület oldhatatlan vízben, de az ammóniával feloldódnak a [Ag(NH₃)₂]⁺ komplex képzésével. Az ezüst-halogenidek idővel megfeketednek az UV-fény hatására az elemi ezüst képzése miatt."
+    },
+    {
+      "id": 20,
+      "term": "Réz(II)-ionok vizes oldatban",
+      "definition": "A hidratált réz(II)-ionok kék hexaakvakomplexet képeznek, amely lúgos kémhatásúan oldódik réz(II)-tetramminkomplexbe.",
+      "quote": "Kék, ammónia-oldódik",
+      "text": "Az [Cu(H₂O)₆]²⁺ komplex kék szín. Az ammóniával először világoskék Cu(OH)₂ csapadék képződik, amely majd a reagens feleslegében feloldódik a sötétkék [Cu(NH₃)₄]²⁺ komplexbe. Az OH⁻ ionokkal közvetlenül világoskék Cu(OH)₂ csapadék alakul ki. Az S²⁻ ionokkal fekete CuS csapadék képzett."
+    },
+    {
+      "id": 21,
+      "term": "Ezüst-ionok vizes oldatban",
+      "definition": "A hidratált ezüstionok színtelenek, vizes oldatuk savas kémhatású, hidroxidionokkal barna Ag₂O, szulfidionokkal fekete Ag₂S csapadék képződik.",
+      "quote": "Színtelen, savas oldat",
+      "text": "Az Ag⁺ ionok vízben gyenge hidrolízis miatt savas kémhatásúak. A [Ag(H₂O)₂]⁺ komplex gyakorlatilag színtelen. Az OH⁻ ionokkal barna Ag₂O csapadék képződik (nem AgOH stabil forma). A halogenidionokkal (Cl⁻, Br⁻, I⁻) jellegzetes csapadékok alakulnak ki. Az ammóniával (NH₃) színtelen [Ag(NH₃)₂]⁺ komplex képzett."
+    },
+    {
+      "id": 22,
+      "term": "Réz-ezüst-arany ionok analitikai elkülönítése",
+      "definition": "Az ionok eltérő csapadékképzésével és komplexképzésével analitikai úton elkülöníthető: halogenidionokkal AgCl, AgBr, AgI, szulfidionokkal CuS, Ag₂S.",
+      "quote": "Jellegzetes csapadékok",
+      "text": "Az ions elkülönítésére halogenidionokat, szulfidionokat, és a tioszulfát és cianid reagenseket használják. Az Ag⁺ nagyon érzékeny a halogenidionokra (fehér, sárga vagy sárga csapadékok), míg a Cu²⁺ és Au³⁺ különféle ligandokkal fekete vagy sötét csapadékokat képez. Az arany(III)-ionok szulfidionokkal fekete Au₂S₃-at képeznek."
+    }
+  ]
+}

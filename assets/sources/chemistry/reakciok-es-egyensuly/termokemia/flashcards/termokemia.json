@@ -1,0 +1,109 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Exoterm folyamat",
+      "definition": "Olyan kémiai folyamat, amelynek során a rendszer hőt felszabadul és azt átadja a környezetnek.",
+      "quote": "Hő keletkezik, felmelegedés",
+      "text": "Az exoterm folyamatban a termékek összenergiája kisebb, mint a reaktánsok energiája, így az energia hő formájában felszabadul. A folyamat során az edény vagy az oldószer felmelegedik. Gyakorlati példa: a kénsav vagy nátrium-hidroxid oldódása vízben, égési folyamatok, legtöbb szintézis. Az exoterm reakciókat általában ΔH vagy ΔrH negatív értékkel jelöljük."
+    },
+    {
+      "id": 2,
+      "term": "Endoterm folyamat",
+      "definition": "Olyan kémiai folyamat, amely lejátszódásához energiabefektetésre van szükség, amit a rendszer a környezetből vesz fel hőként.",
+      "quote": "Energia szükséges, lehűlés",
+      "text": "Az endoterm folyamatban a termékek összenergiája nagyobb, mint a reaktánsok energiája, így energia felhasználásra van szükség. A folyamat során az edény vagy az oldószer lehűl. Példái: kálium-nitrát vízben való oldódása, olvadás, forrás, szublimáció, sok bontási folyamat. Az endoterm reakciókat pozitív ΔH vagy ΔrH értékkel jelöljük."
+    },
+    {
+      "id": 3,
+      "term": "Energiadiagram",
+      "definition": "Grafikon, amely a fizikai-kémiai változások és kémiai reakciók során bekövetkező energiaváltozásokat ábrázolja.",
+      "quote": "Vízszintes: folyamat, függőleges: energia",
+      "text": "Az energiadiagramon a vízszintes tengely a folyamat előrehaladására utal, a függőleges tengely a résztvevő anyagok energiáját mutatja. Az exoterm folyamatok után az energia csökken (energia felszabadul), az endoterm után nő (energia szükséges). A diagram egyértelműen mutatja az aktiválási energiát és az energiakülönbséget a reaktánsok és termékek között."
+    },
+    {
+      "id": 4,
+      "term": "Termokémiai reakcióegyenlet",
+      "definition": "Kémiai egyenlet, amelyet kiegészítünk az anyagok halmazállapotát és az 1 mól átalakulásra vonatkozó energiaváltozást jelző adatokkal.",
+      "quote": "ΔrH kJ/mol-ban szerepel az egyenlettel",
+      "text": "A termokémiai egyenletben az anyagok képlete után zárójelben a halmazállapot: (sz) szilárd, (f) folyadék, (g) gáz, (aq) oldatban. Például: H2(g) + ½ O2(g) = H2O(g)    ΔrH = –242 kJ/mol. Ez azt jelenti, hogy 1 mól víz képződésekor 242 kJ hő felszabadul. A termokémiai adatok hőmérsékletfüggőek, általában 25 °C-on és 1 atm nyomáson értelmezendőek."
+    },
+    {
+      "id": 5,
+      "term": "Halmazállapot-változások energiaviszonyai",
+      "definition": "A szilárd, folyadék és gázállapot közötti átmenetek minden esetben endoterm (felolvadás, forrás, szublimáció), vagy exoterm (fagyás, kondenzáció) folyamatok.",
+      "quote": "Szárazrá: olvadás, párolgás, szublimáció (endoterm)",
+      "text": "Olvadáshoz, szublimációhoz, párolgáshoz, forráshoz a részecskéknek többletenergiára van szükségük a vonzó kölcsönhatások leküzdéséhez - ezek endoterm folyamatok. Az ellentétes irányok (fagyás, kondenzáció, lecsapódás) alacsonyabb energiájú állapotot eredményeznek - ezek exoterm folyamatok. Például: jég olvadása endoterm (0 °C-on 334 kJ/kg energia szükséges), víz fagyása exoterm (ugyanennyi energia felszabadul)."
+    },
+    {
+      "id": 6,
+      "term": "Oldódás energetikai szempontjai",
+      "definition": "Az oldódás két részfolyamatból áll: a kristályrács felbomlása (endoterm) és a hidratáció (exoterm).",
+      "quote": "Rácsenergia + hidratáció = oldáshő",
+      "text": "Az oldódás folyamata: (1) Kristályrács felbontása: szükséges energia (endoterm). (2) Hidratáció: a keletkezet ionok/molekulák oldószer részecskékkel körülvételezik magát, energia felszabadul (exoterm). Az oldáshő az e két folyamat nettó energiaváltozása. Ha |Erács| > |Ehidr|, az oldódás endoterm, a megoldás lehűl. Ha |Erács| < |Ehidr|, az oldódás exoterm, a megoldás felmelegedik."
+    },
+    {
+      "id": 7,
+      "term": "Rácsenergia",
+      "definition": "Az energia, amely szükséges ahhoz, hogy 1 mól szilárd anyag kristályrácsát teljesen felbontsuk gázhalmazállapotú részecskékre.",
+      "quote": "Rácsenergia: sz → g fázisátmenet energiája",
+      "text": "Az ionrács felbontása ionokra: CaI2(sz) → Ca2+(g) + 2 I–(g)    Erács = +1971 kJ/mol. Nagyobb rácsenergia nagyobb összetartóerőt jelent az ionrácson belül. Az ionok töltése és mérete nagyban befolyásolja a rácsenergiát: nagyobb töltés és kisebb méret nagyobb rácsenergiát eredményez."
+    },
+    {
+      "id": 8,
+      "term": "Hidratációs energia",
+      "definition": "Az energia, amely felszabadul, amikor 1 mól gázhalmazállapotú ion/molekula 1 mól hidratált ion/molekulává válik az oldatban.",
+      "quote": "Hidratáció: g → aq fázisátmenet energiája",
+      "text": "A hidratáció során az ion körül vízrészecskék polárisan orientálnak az ion töltésének megfelelően, így stabilizálva az iont az oldatban. Például Ca2+(g) → Ca2+(aq)    Ehidr = –1579 kJ/mol (negatív, mivel energia felszabadul). Az ionok töltése és mérete meghatározza a hidratációs energiát: nagyobb töltés és kisebb méret nagyobb hidratációs energiát eredményez."
+    },
+    {
+      "id": 9,
+      "term": "Oldáshő (entálpia meghatározása)",
+      "definition": "Az 1 mól anyag teljes oldódásához (sok vízben) tartozó energiaváltozás.",
+      "quote": "Oldáshő = rácsenergia + hidratációs energia",
+      "text": "Az oldáshő az oldódás teljes energiaváltozása. Kalmódszámítható: ΔoldhH = |Erács| - |Ehidr|. Ha |Erács| > |Ehidr|, az oldódás endoterm (ΔoldhH > 0). Ha |Erács| < |Ehidr|, az oldódás exoterm (ΔoldhH < 0). Például KOH vízben való oldódása exoterm (erős hidratáció), KNO3 oldódása endoterm (nagy rácsenergia)."
+    },
+    {
+      "id": 10,
+      "term": "Képződéshő",
+      "definition": "Egy vegyület 1 móljának standardállapotú elemeibőlvanó képzésé szükséges vagy felszabaduló energia.",
+      "quote": "Elemek → vegyület, ΔkH jelöléssel",
+      "text": "Például a széndioxid képződéshője: C(sz) + O2(g) = CO2(g)    ΔkH(CO2, g) = –394 kJ/mol. A képződéshő függ az anyag halmazállapotától: ΔkH(H2O, g) = –242 kJ/mol, ΔkH(H2O, f) = –286 kJ/mol. Az egyszerű anyagok (elemek) szabályzott képződéshője 0. Az képződéshő-táblázatok nagyon fontosak az entálpia-számítésokkal való feladatmegoldásban."
+    },
+    {
+      "id": 11,
+      "term": "Hess-tétel",
+      "definition": "A termokémia alaptétele: a reaktáns és termékek között a totális energiaváltozás (reaktánsok és termékek képződéshőjének különbsége) független a köztük lévő úttól.",
+      "quote": "Út-független, csak kezdet és vég számít",
+      "text": "Hess-tétel szerint: ΔrH = Σ(ΔkH termékek) - Σ(ΔkH reaktánsok). Ez lehetővé teszi a nondeterminálható reaktánsok energiáját közvetett módon kiszámítani. Ha több lépésből áll egy folyamat: ΔH(össz) = ΔH1 + ΔH2 + ΔH3 + ... Az egyenletek összeadhatók, szorzhatók, vagy fordíthatók az energiaváltozás megtartása mellett."
+    },
+    {
+      "id": 12,
+      "term": "Aktiválási energia a termokémiában",
+      "definition": "A minimum energia, amely szükséges ahhoz, hogy a reaktánsok átmuszálljanak az energiadiagram csúcsán és termékek képződhessenek.",
+      "quote": "Aktiválási energia függ a reakció úttól",
+      "text": "Az aktiválási energia független a háló energiaváltozástól. Egy exoterm React nagyobb aktiválási energiával is lehet, mint egy endoterm (bár ez szokatlan). Az aktiválási energia csökkenthető katalizátor hozzáadásával. Az energiadiagramon az aktiválási energia az érték a reaktánsok energiaszintje és a reakció közepső állapotának csúcsa között."
+    },
+    {
+      "id": 13,
+      "term": "Katalizátor hatása az energiadiagramra",
+      "definition": "A katalizátor csökkenti az aktiválási energiát, de nem változtatja meg a reaktánsok és termékek közötti energiakülönbséget.",
+      "quote": "Alacsonyabb hegycsúcs, azonos végeredmény",
+      "text": "Az energiadiagramon a katalizátor hatása: az \"hegy\" (aktiválási energia) alacsonyabbá válik, így több molekula tudja átmászni azt. A reaktánsok és termékek energiaszintje azonban ugyanaz marad, így az energiaváltozás (ΔH) nem módosul. A katalizátor gyorsabbá teszi a folyamatot, de nem teszi lehetővé az energetikailag kedvezőtlen folyamatokat."
+    },
+    {
+      "id": 14,
+      "term": "Entálpia (H) és entalpia-változás (ΔH)",
+      "definition": "Az entálpia egy termodinamikai tulajdonság (H), melynek változása (ΔH) megadja az energiaváltozást állandó nyomáson.",
+      "quote": "H = belső energia + P·V; ΔH a hővel azonos",
+      "text": "Az entálpia egység: H = U + P·V, ahol U a belső energia, P a nyomás, V a térfogat. Állandó nyomáson a hő = entálpia-változás (q = ΔH). Az entálpia abszolút értéke nem mérhető, csak a változása (ΔH). Negatív ΔH: exoterm (hő felszabadul), pozitív ΔH: endoterm (energia szükséges)."
+    },
+    {
+      "id": 15,
+      "term": "Termokémiai számítások gyakorlatban",
+      "definition": "Az entálpia-táblázatok és Hess-tétel felhasználásával ismeretlen reaktánsok energiaértékei kiszámíthatóak.",
+      "quote": "Táblázatok és összegzés alapján számítás",
+      "text": "Praktikus módszer: (1) Vedd el az összes termék képződéshőjét. (2) Vedd el az összes reaktáns képződéshőjét. (3) Az különbség a reakció energiaváltozása (ΔrH). Példa: Ha ΔkH értékek: CO2(g) = -394, H2O(f) = -286, O2(g) = 0 (elem), az ahol CH4 képződéshője körülbelül -75 kJ/mol lehet (fordított logika segítségével). Ezek az entálpia-számítások alapozták meg az ipari termokémia alkalmazásait."
+    }
+  ]
+}

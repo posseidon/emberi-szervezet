@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "az-atom-felepitese",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az atom milyen alapelemekből áll?",
+      "options": ["Elektronokból és neutronokból", "Protonokból, neutronokból és elektronokból", "Csak protonokból", "Elektronokból és fotonokból"],
+      "answer": "Protonokból, neutronokból és elektronokból"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ az atom atommagjában elhelyezkedő részecskék, amelyeket a nucleus latin szó után nukleonoknak is neveznek.",
+      "options": [],
+      "answer": "protonok és neutronok"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mit jelent a rendszám (Z)?",
+      "options": ["Az atom tömegszámát", "Az atom elektronjainak számát", "Az atom atommagjában levő protonok számát", "Az atomhéjak számát"],
+      "answer": "Az atom atommagjában levő protonok számát"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A tömegszám (A) a _____ és a neutronok számának összegét adja meg.",
+      "options": [],
+      "answer": "protonok"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Melyik állítás igaz az izotópokra?",
+      "options": ["Különböző rendszámúak de azonos tömegszámúak", "Azonos rendszámúak de különböző tömegszámúak", "Különböző elektronszerkezetűek de azonos tömegszámúak", "Azonos tömegszámúak de különböző elektronszerkezetűek"],
+      "answer": "Azonos rendszámúak de különböző tömegszámúak"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "A klór izotópiái milyen előfordulási arányban vannak a természetben?",
+      "options": ["50% Cl-35, 50% Cl-37", "75,78% Cl-35, 24,22% Cl-37", "80% Cl-35, 20% Cl-37", "90% Cl-35, 10% Cl-37"],
+      "answer": "75,78% Cl-35, 24,22% Cl-37"
+    },
+    {
+      "id": 7,
+      "type": "BLANK",
+      "question": "A szén-14 _____ segítségével régészeti leletek korát határozzák meg.",
+      "options": [],
+      "answer": "radiokarbon kormeghatározás"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "Az atompályák mely térrészét ábrázoljuk általában?",
+      "options": ["Az elektron pontos helyét", "A térrészt ahol az elektron 50%-os valószínűséggel megtalálható", "A térrészt ahol az elektron 90%-os valószínűséggel megtalálható", "Az atom teljes térfogatát"],
+      "answer": "A térrészt ahol az elektron 90%-os valószínűséggel megtalálható"
+    },
+    {
+      "id": 9,
+      "type": "BLANK",
+      "question": "Az elektron spin értéke lehet _____ vagy _____ mutató nyíl, amelyet ↑↓ szimbólumokkal ábrázolunk.",
+      "options": [],
+      "answer": "felfelé lefelé"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Hány elektron fér az s alhéjon?",
+      "options": ["1", "2", "6", "10"],
+      "answer": "2"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik alhéj van az 1. elektronhéjon (K)?",
+      "options": ["1s és 1p", "Csak 1s", "1s, 1p és 1d", "2s és 2p"],
+      "answer": "Csak 1s"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A Hund-szabály szerint az egy alhéjhoz tartozó atompályákat az elektronok _____ párosítás előtt kell betölteniük.",
+      "options": [],
+      "answer": "maximálisan párosítatlanul"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mit állít a Pauli-féle kizárási elv?",
+      "options": ["Egy atompályán egy elektron lehet", "Ha egy atompályán két elektron van, azonos spinűeknek kell lenniük", "Ha egy atompályán két elektron van, ellentétes spinűeknek kell lenniük", "Egy alhéjon maximum egy elektron lehet"],
+      "answer": "Ha egy atompályán két elektron van, ellentétes spinűeknek kell lenniük"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ a kémiai kötések kialakításában szerepet játszó, a legkülső, le nem zárt héjon levő elektronok elnevezése.",
+      "options": [],
+      "answer": "vegyértékelektron"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az elektronszerkezet felírásánál mely három elv fontos?",
+      "options": ["Energiaminimum, Hund, Bohr", "Energiaminimum, Hund, Pauli", "Energiaminimum, Dalton, Pauli", "Hund, Pauli, Rutherford"],
+      "answer": "Energiaminimum, Hund, Pauli"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az atompályák _____ függvények, amelyek az elektron viselkedését és előfordulási valószínűségét írják le.",
+      "options": [],
+      "answer": "matematikai"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "A nitrogén (Z=7) elektronszerkezete melyik?",
+      "options": ["1s² 2s² 2p³", "1s² 2s¹ 2p⁴", "1s² 2s² 2p⁴", "1s¹ 2s² 2p⁴"],
+      "answer": "1s² 2s² 2p³"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ alhéjakon 5 atompálya és legfeljebb 10 elektron helyezkedik el.",
+      "options": [],
+      "answer": "d"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mit jelent az atommag és az legkülső vagyértékelektron közötti távolság?",
+      "options": ["Az atomsugár", "Az elektronhéj mérete", "Az elektronaffinitás", "Az ionizációs energia"],
+      "answer": "Az atomsugár"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A kovalens sugár az _____ a kötésben lévő atomok atommag-távolságának.",
+      "options": [],
+      "answer": "fele"
+    }
+  ]
+}

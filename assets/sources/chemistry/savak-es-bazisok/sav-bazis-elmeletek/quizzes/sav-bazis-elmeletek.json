@@ -1,0 +1,216 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "sav-bazis-elmeletek",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az Arrhenius-elmélet szerint a savak és bázisok definíciója primárisan melyik közegre alkalmazható?",
+      "options": [
+        "kizárólag vizes oldatokra",
+        "bármely poláris oldószerre",
+        "nem poláris oldószerekre",
+        "szilárd fázisú kémiai rendszerekre"
+      ],
+      "answer": "kizárólag vizes oldatokra"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "A Brönsted-elmélet alapvető axiómája szerint melyik állítás igaz?",
+      "options": [
+        "egy savhoz nem szükségszerűen tartozik bázis",
+        "minden savhoz tartozik egy konjugált bázis, és fordítva",
+        "csak erős savaknak vannak konjugált párjaik",
+        "a bázisok nem lehetnek savmaradékionok"
+      ],
+      "answer": "minden savhoz tartozik egy konjugált bázis, és fordítva"
+    },
+    {
+      "id": 3,
+      "type": "BLANK",
+      "question": "A hidrogéniont _____ is szokás nevezni, mivel az atommagjában egyetlen proton található és nincs elektronja.",
+      "options": [],
+      "answer": "protonnak"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Az ammónia (NH3) vizes oldatában mi történik a hidrogénion-leadás szempontjából?",
+      "options": [
+        "az ammónia savként viselkedik és H+ iont ad le",
+        "az ammónia bázisként viselkedik és H+ iont vesz fel a vízmolekuláktól",
+        "az ammónia teljesen diszociál ammónium-ionokká",
+        "az ammónia nem reagál a vízzel"
+      ],
+      "answer": "az ammónia bázisként viselkedik és H+ iont vesz fel a vízmolekuláktól"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Az alábbi közül melyik pár mutat helyes sav-bázis konjugációs viszonyt a Brönsted-elmélet szerint?",
+      "options": [
+        "HCl sav és OH– bázis",
+        "HCl sav és Cl– bázis",
+        "H2O sav és H3O+ bázis",
+        "NH3 sav és NH4+ bázis"
+      ],
+      "answer": "HCl sav és Cl– bázis"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az amfoter anyagok azt jellemzi, hogy savként és _____ viselkedhetnek egyaránt.",
+      "options": [],
+      "answer": "bázisként"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "A víz autoprotolízise során mely ionok képződnek?",
+      "options": [
+        "H2O+ és O2–",
+        "H3O+ és OH–",
+        "H+ és O–",
+        "H2O2+ és O2–"
+      ],
+      "answer": "H3O+ és OH–"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "Az etil-alkohol (CH3-CH2-OH) molekulái között a Brönsted-elmélet szerint milyen folyamat játszódhat le?",
+      "options": [
+        "hidrogénmolekulák keletkezése",
+        "protonátmenet egy molekulától a másikhoz",
+        "elektronátmenet az alkoholmolekulák között",
+        "semmi, az alkohol nem mutat sav-bázis jellegzetességeket"
+      ],
+      "answer": "protonátmenet egy molekulától a másikhoz"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "A Brönsted-elmélet alapján mely állítás igaz a kloridion (Cl–) kapcsán?",
+      "options": [
+        "kizárólag bázis, hiszen ionos formájában van",
+        "Brönsted-bázis, mert képes protont felvenni, de nem Arrhenius-bázis",
+        "erős bázis, amely minden vizes oldatban lúgos kémhatást okoz",
+        "savként és bázisként egyaránt viselkedik"
+      ],
+      "answer": "Brönsted-bázis, mert képes protont felvenni, de nem Arrhenius-bázis"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az Arrhenius-elmélettel szemben a Brönsted-elmélet alkalmazható olyan közegben is, amely nem _____, például két etil-alkohol molekula között.",
+      "options": [],
+      "answer": "vizes"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "A hidrogénion a vízben miért nem létezhet szabad H+ ionként?",
+      "options": [
+        "mert az elektronpályákat nem képes stabil módon kitölteni",
+        "mert a vízmolekula elektronpárja datív kovalens kötés létesít az oxóniumion képzésén keresztül",
+        "mert a sót ionizálja, amely lecsökkenti az elektromosságot",
+        "mert az erős hidrogénkötések megakadályozzák az ionizációt"
+      ],
+      "answer": "mert a vízmolekula elektronpárja datív kovalens kötés létesít az oxóniumion képzésén keresztül"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "A HCl sav és az NH3 bázis közötti rendszer melyik elmélettel írható le ellentmondásmentesen?",
+      "options": [
+        "csak az Arrhenius-elmélettel",
+        "csak a Brönsted-elmélettel",
+        "mindkét elmélettel egyaránt",
+        "egyikkel sem"
+      ],
+      "answer": "csak a Brönsted-elmélettel"
+    },
+    {
+      "id": 13,
+      "type": "BLANK",
+      "question": "Az a folyamat, amikor az amfoter anyagok molekulái egymásnak adnak át hidrogéniont, _____ néven ismert.",
+      "options": [],
+      "answer": "autoprotolízis"
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "A protonátmenet lezajlása során melyik kötés típusa jön létre?",
+      "options": [
+        "ionos kötés",
+        "metallos kötés",
+        "datív kovalens kötés",
+        "hidrogénkötés"
+      ],
+      "answer": "datív kovalens kötés"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az alábbiak közül mely reakciót írja le helyesen az Arrhenius-elmélet, de nem írja le helyesen a Brönsted-elmélet?",
+      "options": [
+        "HCl + H2O → Cl– + H3O+",
+        "NH3 + H2O ⇌ NH4+ + OH–",
+        "CH3-CH2-OH + CH3-CH2-OH ⇌ CH3-CH2-OH2+ + CH3-CH2-O–",
+        "egyik sem"
+      ],
+      "answer": "egyik sem"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A sav hidrogénion-leadása után visszamaradó iont _____ ionnak nevezzük.",
+      "options": [],
+      "answer": "savmaradék"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "A víz amfoter tulajdonsága abban nyilvánul meg, hogy:",
+      "options": [
+        "kizárólag savként viselkedik",
+        "kizárólag bázisként viselkedik",
+        "erős savakkal és bázisokkal szemben ellentétes viselkedést mutat",
+        "az erős savak és az ammónia közötti rendszerben eltérően viselkedik"
+      ],
+      "answer": "az erős savak és az ammónia közötti rendszerben eltérően viselkedik"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Mely elmélet alapján lehet megmagyarázni, hogy a Cl– ion Brönsted-bázisnak számít, annak ellenére, hogy a vizes oldatában nem alakul ki lúgos kémhatás?",
+      "options": [
+        "az Arrhenius-elmélet, amely megköveteli a hidroxidionok jelenét",
+        "a Brönsted-elmélet, amely nem kapcsolja a bázis definícióját a hidroxidionokhoz",
+        "egyikkel sem, ez ellentmondás",
+        "az Arrhenius-elmélet, amely megköveteli a savmaradékionok hidrolízisét"
+      ],
+      "answer": "a Brönsted-elmélet, amely nem kapcsolja a bázis definícióját a hidroxidionokhoz"
+    },
+    {
+      "id": 19,
+      "type": "BLANK",
+      "question": "A proton a vízben mindig egy _____ molekulához kapcsolódva van jelen oxóniumion formájában.",
+      "options": [],
+      "answer": "víz"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "A Brönsted-elmélet alapján mely molekula vagy ion nem jellemző bázis?",
+      "options": [
+        "OH–",
+        "NH3",
+        "Cl–",
+        "H2O amfoter közegben"
+      ],
+      "answer": "Cl–"
+    }
+  ]
+}

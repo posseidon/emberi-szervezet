@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "oxigen-ken",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik az oxigén molar térfogata a légkörben?",
+      "options": ["21%", "78%", "0,9%", "1%"],
+      "answer": "21%"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az ózon az oxigén _____ atomos módosulata.",
+      "options": [],
+      "answer": "háromatomos"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mi az olvadáspontja a kénnek szobahőmérsékleten?",
+      "options": ["115 °C", "0 °C", "45 °C", "-183 °C"],
+      "answer": "115 °C"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A kén szobahőmérsékleten _____ atomos gyűrűs molekulákat alkot.",
+      "options": [],
+      "answer": "nyolcatomos"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Milyen szín az ózon gáz?",
+      "options": ["Kékes", "Sárga", "Zöld", "Fekete"],
+      "answer": "Kékes"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az olvadt kén viszkozitása _____ hőmérsékleten nő meg az S8 gyűrűk felnyílása miatt.",
+      "options": [],
+      "answer": "magasabb"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Hogyan állítják elő az oxigént az ipari kénsavgyártásban?",
+      "options": ["Levegő cseppfolyósítása és frakcionálása", "Víz elektrolízise", "KMnO4 hevítése", "H2O2 bontása"],
+      "answer": "Levegő cseppfolyósítása és frakcionálása"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az amorf kén _____ és gumiszerű anyag.",
+      "options": [],
+      "answer": "nyúlós"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mi az oxigén kimutatásának módszere?",
+      "options": ["Parázsló gyújtópálca lángra lobbantása", "Litmuszpapír elvörösödése", "Bárium-vegyületek lecsapása", "Ezüst-nitrát felhomályosulása"],
+      "answer": "Parázsló gyújtópálca lángra lobbantása"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A kénsav hígításakor mindig a _____ öntjük a vízhez, nem fordítva.",
+      "options": [],
+      "answer": "savat"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik az ózonréteg fő szerepe a légkörben?",
+      "options": ["Az ultraibolya sugárzás csökkentése", "A szén-dioxid szűrése", "A nitrogén megőrzése", "A neon összetartása"],
+      "answer": "Az ultraibolya sugárzás csökkentése"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A kén-dioxid képződik, ha a _____ és az oxigén reagál.",
+      "options": [],
+      "answer": "kén"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mi az olvadáspontja az oxigénnek?",
+      "options": ["-218 °C", "-75 °C", "0 °C", "115 °C"],
+      "answer": "-218 °C"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az elemi kén laboratóriumi előállítása 2 H2S + SO2 = 3 S + _____ szerint megy végbe.",
+      "options": [],
+      "answer": "2 H2O"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik az ózon szaga?",
+      "options": ["Szúrós", "Édes", "Fémes", "Semleges"],
+      "answer": "Szúrós"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A laboratóriumban az oxigén előállítható hidrogén-peroxid bontásával mangán-dioxid _____ mellett.",
+      "options": [],
+      "answer": "katalizátor"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mit okoz az ózonréteg károsodása a bioszférában?",
+      "options": ["Több UV sugárzás ér a Földre", "Kevesebb UV sugárzás ér a Földre", "A légkör lehűlése", "A légkör felmelegedése"],
+      "answer": "Több UV sugárzás ér a Földre"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A víz _____ és _____ erős hidrogénkötésekkel kapcsolódnak egymáshoz.",
+      "options": [],
+      "answer": "molekulái"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik a víz olvadáspontja?",
+      "options": ["0 °C", "100 °C", "-10 °C", "4 °C"],
+      "answer": "0 °C"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A hidrogén-peroxid bomlása: 2 H2O2 = 2 H2O + _____.",
+      "options": [],
+      "answer": "O2"
+    }
+  ]
+}

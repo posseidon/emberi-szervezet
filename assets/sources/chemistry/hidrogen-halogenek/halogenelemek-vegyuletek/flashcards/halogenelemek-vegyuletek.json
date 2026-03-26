@@ -1,0 +1,179 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Halogénelemek - alapvető tulajdonságok",
+      "definition": "A halogénelemek (fluor, klór, bróm, jód) kétatomos molekulákat alkotnak. Fluor és klór gázok, bróm folyékony, jód szilárd halmazállapotú. Mindegyik szúrós szagú és mérgező.",
+      "quote": "F₂, Cl₂, Br₂, I₂ - toxikus szagok",
+      "text": "A halogénelemek a periódusos rendszer 17. csoportjának elemei, amely átmenet nélkül a nemesgázokhoz. Az elemi halogén-molekulák X2 formájúak, ahol X = F, Cl, Br vagy I. A fluor rendkívül erősen oxidáló és erősen mérgező sárgás gáz. A klór az ipari felhasználás részleges zöld-sárga gáz. A bróm sötét-vörös-barna folyékony, amely erős gőzöket bocsát ki. A jód szürke-fekete szilárd, amely szublimál lila-kék gőzöt. Az összes halogén erősen oxidáló és korrozív, valamint szöveteket roncsoló maró hatásúak."
+    },
+    {
+      "id": 2,
+      "term": "Fluor (F₂) - sárga gáz",
+      "definition": "A fluor sárgás szagú, nagyon mérgező, maró hatású gáz, amely szerves anyagokat meggyújtja. Olvadáspontja –220 °C, forráspontja –188 °C.",
+      "quote": "Legaktívabb halogen - sárga gáz",
+      "text": "A fluor az összes halogen közül a legerősebben oxidáló és a legreaktívabb elem. A fluor gáz extrém veszélyes az emberi egészség szempontjából, mivel erősen korrozív és szöveteket súlyosan roncsol. A fluor egy igen kis molekula, amely könnyen diffundál és behatolhat az anyagokba. A fluor gyakorlatilag az összes elemmel reagál, mivel az annyira erős oxidálószer, hogy akár a nemesgázokat is képes oxidálni bizonyos körülmények között. Az elemi fluor tárolása speciális anyagokból (például politetrafluoroetilenből - PTFE/Teflon) készült edényes szükséges, mivel szinte minden más anyagot megtámad. Az ipar korlátozza a fluor felhasználását kutatási és speciális alkalmazásokra, mivel az így veszélyes kezelés."
+    },
+    {
+      "id": 3,
+      "term": "Klór (Cl₂) - zöld-sárga gáz",
+      "definition": "A klór sárgászöld szagú, nagyon mérgező, maró hatású gáz. Olvadáspontja –101 °C, forráspontja –34 °C. Az első világháborúban harci gázként használták.",
+      "quote": "Sárgászöld gáz - ipari alapanyag",
+      "text": "A klór a legerősebb oxidálószer közül a nem-fém közül, amit széles körben alkalmazznak az ipari folyamatokban. A klór toxicitása jelentős, és az első világháborúban az első alkalommal harci gázként történő felhasználása jól ismert. A klórgáz a tüdőmembránokat roncsol és a légzőrendszert súlyosan károsít. A háztartásban a klór-fertőtlenítőszerek gyakran keverik más vegyületekkel, amely halálfejtő klórgázt szabadíthat fel - ez a vegyi kombinációs balesetek közös oka. Az ipari klórgyártás az elsődlegesen sós víz elektrolízisével történik, amely egyidejűleg nátriumhidroxidot és hidrogén gázt termel. A klór számos alkalmazása közé tartozik a vízfertőtlenítés, a vegyipari alapanyag, és a szerves halogenezés."
+    },
+    {
+      "id": 4,
+      "term": "Bróm (Br₂) - sötétbarna folyékony",
+      "definition": "A bróm sötétbarna szagú, mérgező, maró folyadék. Olvadáspontja –7 °C, forráspontja 59 °C. Gőzei barna színűek. A folyadék bőrre kerülve súlyos égéseket okoz.",
+      "quote": "Sötétbarna folyadék - folyékony elem",
+      "text": "A bróm az egyetlen folyékony halogenelem szobahőmérsékleten és normál nyomáson. A bróm-molekulák között viszonylag erős diszperziós erők hatnak, amelyek megmagyarázzák az alacsony olvadáspont és a nem túl magas forráspont közötti különbséget az előzőkhöz képest. A bróm gőzei sötét barna színűek és erősen mérgezők az inhaláció útján. A bróm-folyadék a bőrre kerülve összetartójuk szöveteket a szövet-fehérjék denaturálása és oxidációja által. A bróm nagyobb reaktivitása, mint a jód, azonban alacsonyabb a fluorénál és a klórnál. A brómot laboratóriumban és az ipariparban telítettség-kimutatásra használják, ahol a bróm-oldatban keveredő szerves vegyület által beépített kötéseket oxidálódnak és a szín eltűnik."
+    },
+    {
+      "id": 5,
+      "term": "Jód (I₂) - szürke szilárd",
+      "definition": "A jód szürke-fekete szagú, enyhén mérgező szilárd anyag. Olvadáspontja 114 °C, forráspontja 184 °C. Gőzei lila-kék színűek. A legkevésbé veszélyes halogen.",
+      "quote": "Szürke szilárd - lila gőz, szublimál",
+      "text": "A jód a halogének közül a legkevésbé veszélyes, annak ellenére, hogy még mindig mérgező. A jód-oldatot (jódtinktúra) székékénfertőtlenítésre használják szöveteket és sebek steril állapotának fenntartásához. A jód szublimál közvetlenül szilárd állapotból lila-kék gőzzé, magas olvadáspont ellenére. A jód-oldatban való oldatosodása attól függ az oldószer természetétől: vízben gyengén oldódik (de a jódid-ionok jelenlétében a trijodidionok által sokkal jobban), azonban apoláris oldószerekben (benzin, szén-tetraklorid) jól oldódik, a szín pedig lila, míg vízben vagy alkoholban az oldódott jód barna szín. A jód ioncserekednél az oldódás egyensúlyú folyamat, amely jó laboratóriumi kimutatási módszert nyújt a telítettség kimutatásához szerves vegyületekben."
+    },
+    {
+      "id": 6,
+      "term": "Halogénelemek szerkezete",
+      "definition": "A halogének kétatomos molekulákat (X2) alkotnak, ahol az atomok között egyszeres kovalens kötés van. A molekulákat cseppfolyós és szilárd halmazállapotban diszperziós kölcsönhatások tartják össze.",
+      "quote": "X₂ kétatomos molekulák",
+      "text": "A halogén-molekulák szerkezetében az X–X egyszeres σ-kötés van, amely a két halogén atom közötti elektronok maximális átfedésében alakul ki. A halogén atomok között a kötési hossz a periódikusrendszer oszlopában lefelé haladva nő (F–F a legrövidebb körülbelül 143 pm, I–I a leghosszabb körülbelül 267 pm). A kötési energia szintén csökken lefelé az oszlopban. A halogén-molekulákat kristályos és folyékony halmazállapotban diszperziós erők (London-féle erők) tartják össze, amely objektív magyarázata az alacsony olvadás- és forráspontnak. A halogén-molekulák apolárisak (a két atom azonos) és apoláris oldószerekben jól oldódnak."
+    },
+    {
+      "id": 7,
+      "term": "Halogénelemek fizikai tulajdonságai",
+      "definition": "Az olvadáspont és forráspont a molekulatömeg növekedésével nő (F < Cl < Br < I). A bróm és jód erősen illékony. A halogének vízben gyengén oldódnak, apoláris oldószerekben jól.",
+      "quote": "Hőmérséklet nő: F → Cl → Br → I",
+      "text": "A halogén-molekulák közötti intermolekuláris erőknek direkten kapcsolata a molekulatömeghez, amely magyarázza az olvadás- és forráspontok rendezettségét: a fluor (18 g/mol) gáz marad szobahőmérsékleten és sokkal alatta is, a klór (71 g/mol) gáz, de már alacsonyabb hőmérsékleten kondenzálódik, a bróm (159 g/mol) folyékony szobahőmérsékleten, és a jód (254 g/mol) szilárd. Ez az érv mutatja, hogy az intermolekuláris erők közvetlenül az elektronok polarizálhatóságára befolyásolódnak, amely a nagyobb elektronok esetén nagyobb. A bróm és jód erősen illékony (azaz könnyen párolognak és szublimálódnak), amely oka az erős gőz-nyomásnak. A vízben való oldódás korlátozott az apoláris halogen-molekulák számára, azonban az oldódás kinetikailag összetett, mivel a halogének vízzel is reakcióba lépnek."
+    },
+    {
+      "id": 8,
+      "term": "Halogénelemek oxidáló ereje",
+      "definition": "A halogénelemek oxidáló képessége a fluor > klór > bróm > jód irányban csökken. Az oszlopban feljebb levő halogen vizes oldatban oxidálja az alatta levő halogenének ionjait.",
+      "quote": "F > Cl > Br > I - oxidáló erő",
+      "text": "Az oxidáló erő soros csökkenése a halogéneken belül az elektrongyanúság és a redukció potenciálának összefüggésétől van. A fluor az összes elem közül az egyik legerősebb oxidálószer, amely szinte minden egyes redukálószerről elektronokat elvesz. A klór még mindig erősen oxidáló, azonban a fluornál gyengébb. A bróm még gyengébb oxidálószer, és a jód a halogének közül a leggyengébb. Ez a soros végbemegy az itatják vízoldatokban, ahol a fluor oxidálja a bromid- és jodidionokat, a klór oxidálja a bromid- és jodidionokat, de nem a fluorid-ionokat, és a bróm csak a jodidionokat oxidálja. Ezek az oxidáció-redukciós folyamatok alapvetők az analitikus kémiában az anión-kimutatáshoz (ezüst-nitrát csapadék-képzés után)."
+    },
+    {
+      "id": 9,
+      "term": "Klór oxidálja bromid- és jodidionokat",
+      "definition": "A klór oxidálja a bromid- és jodidionokat elemi bróm ill. jód képzésével: Cl₂ + 2 Br⁻ = Br₂ + 2 Cl⁻; Cl₂ + 2 I⁻ = I₂ + 2 Cl⁻",
+      "quote": "Cl₂ oxidálja Br⁻ és I⁻",
+      "text": "A klórnál erősebb oxidálószer miatt a klórgáz képes a gyengébb redukálószerként működő bromid- és jodidionok elektronjait elvegezni. Az első reakcióban a klór-molekulák elektronokat vesznek fel és klóridionokká redukálódnak, miközben a bromid-ionok elektronokat veszítenek és bróm-molekulákat képeznek. A bróm elemi állapot azt jelenti, hogy a bróm az oldatban egy erős vörös-barna szín adódik. A második reakcióban a jodidionok hasonló módon oxidálódnak elemi jóddá, amely a sötét-barnáslila szín a vízben vagy erős lila a szén-tetraklorid oldószerben. Ezek a reakciók analitikai célú halogenid-ionok kimutatásában használnak, valamint az oxidáció-redukciós folyamatok jó szemléltetésében. A klór-víz (vagy klór-gőz) az összes halogénid-aniont oxidálja, a fluor-ionokat kivéve."
+    },
+    {
+      "id": 10,
+      "term": "Halogénelemek előfordulása",
+      "definition": "Elemi állapotban a halogénelemek nem fordulnak elő természetben. Sók formájában (pl. nátrium-klorid, kálium-bromid) viszont megtalálhatók tengerekben, sós forrásokban és szárazföldi sótelepeken.",
+      "quote": "Csak sók - sótelepek, tengerek",
+      "text": "A halogének olyan erős oxidálószerek, hogy sohasem fordulnak elő elemi állapotban a Föld felszínén. Az összes halogén sóként létezik (anionok formájában) a vizekben és a talajban. A sóban (NaCl) a klórid-ionok erősen redukálódnak, amely nem oxidálódhat vissza elemi klórrá a természetes körülmények között. A bromid- és jodid-sók a tengerekben és a sók forrásain fordulnak elő, és az ipar ezek sóicotből nyeri ki az elemi halogéneket elektrolízissel. A halogén-sók alapvetőek az ipar és az élet számára, azonban az elemi halogén-termeléshez nagy mennyiségű energiára van szükség, amely elektrolízisből származik."
+    },
+    {
+      "id": 11,
+      "term": "Klór ipari előállítása - elektrolízis",
+      "definition": "Az iparban a klórt kősó (nátrium-klorid) vizes oldatának elektrolízisével állítják elő. Klórgáz az anódon, hidrogén a katódon, mellékterméke nátrium-hidroxid.",
+      "quote": "Elektrolízis: NaCl → Cl₂ + H₂ + NaOH",
+      "text": "Az ipari klórgyártás az egyik legfontosabb elektrolítikus folyamat. A sós víz (NaCl oldatban) elektrolízisénél az anódon a klórid-ionok oxidálódnak klórgázzá (2 Cl⁻ - 2e⁻ = Cl₂), míg a katódon a vízből hidrogénionok redukálódnak hidrogén gázzá (2 H₂O + 2e⁻ = H₂ + 2 OH⁻). Az OH⁻ ionok pedig nátriumionokkal egyesülve nátrium-hidroxid (NaOH) oldatot képeznek. A nátrium-hidroxid egy fontosabb melléktermék, mint a klór maga, mivel szintén nagy mennyiségben alkalmazható az iparban. Az elektrolízis nagynyomású és szép körülmények között működik, és az energiaköltség a klór termelésének legnagyobb összetevője. A klór gázt gyorsan cseppfolyósítják és tárolják vagy közvetlenül használják."
+    },
+    {
+      "id": 12,
+      "term": "Klór laboratóriumi előállítása",
+      "definition": "Laboratóriumban klórgáz keletkezik, ha kálium-permanganátra tömény sósavat csepegtetünk: 2 KMnO₄ + 16 HCl = 5 Cl₂ + 2 MnCl₂ + 2 KCl + 8 H₂O",
+      "quote": "KMnO₄ + HCl → Cl₂ (labor)",
+      "text": "A laboratóriumban a klór-gáz előállításnak klasszikus módszere a permanganát és a sósav (vagy más redukálószer) kombinációja. A permanganát egy erős oxidálószer (Mn7+ oxidációs állapot), amely képes a klóridionokat (Cl⁻) klórgázzá oxidálni (Cl2, 0 oxidációs állapot). A permanganát-ion pedig redukálódik manganát(II) ionokra (Mn2+). A reakció vigorosabb, mint a gáz-termelés, és a klórgázt közvetlenül felhasználják vagy felfogják vízben vagy más oldószerben. Ez egy exoterm folyamat, amely nem igényel külső hőenergiát. A klór előállításánál a megfelelő szellőzésre és biztonsági intézkedésekre van szükség, mivel a klórgáz toxikus."
+    },
+    {
+      "id": 13,
+      "term": "Halogénelemek vízzel való reakciója",
+      "definition": "A halogénelemek vízben rosszul oldódnak, de egyúttal reakcióba is lépnek vele. A klór és víz disproportionálódnak: Cl₂ + H₂O ⇌ HCl + HOCl",
+      "quote": "Cl₂ + H₂O - diszproporció",
+      "text": "A halogén-molekulák és a víz között egy speciális redoxireakció játszódik le, amelyet diszproportionálásnak nevezünk. A klór a 0 oxidációs állapotból –1-es (HCl-ben) és +1-es (HOCl-ben) oxidációs állapotba kerül. Ez azt jelenti, hogy a klórmolekula Mind redukálódik (egyik klóratom –1-es állapotba), mind oxidálódik (másik klóratom +1-es állapotba). A folyamat egyensúlyra vezet, amelynek helyzete a hőmérséklet függvénye. A magasabb hőmérsékleten az egyensúly a visszafelé irányban tolódik meg. A klór és a víz reakciója a desinfekció alapjául szolgál, mivel az HCl és a HOCl egyaránt oxidáló hatásúak, mely mikroorganizmusokat elpusztítanak. A klórossav (HOCl) biológiailag aktívabb, mint a hidrogén-klorid ebben az összefüggésben."
+    },
+    {
+      "id": 14,
+      "term": "Halogénelemek lúggal való reakciója",
+      "definition": "Vizes lúgoldatban a klór jobban oldódik és a HCl és HOCl sói keletkeznek: Cl₂ + 2 NaOH = NaCl + NaOCl + H₂O",
+      "quote": "Cl₂ + NaOH → sók",
+      "text": "A klór és a nátrium-hidroxid oldatban végzett reakció az egyik klasszikus laboratóriumi experiment. A klórgáz és az OH⁻ ionok között egy gyorsabb diszproportionálódás játszódik le, mint az ugyanez a vízzel végzett folyamat. Az eredmény egy nátrium-klorid és nátrium-hipoklorit (NaOCl) sók keveréke, amelyeket közösen \"Hypó\"-ként vagy \"chlorine bleach\"-ként ismerünk. A nátrium-hipoklorit a fehérítő és fertőtlenítő hatásának forrása, amely a hipoklorit-ionok (OCl⁻) oxidáló képességéből származik. Ez a folyamat az ipari hipoklorit-termelés alapja, amely az összes fehérítőszereket és sok fertőtlenítőszert alapján nyújtja. A laboratóriumban a klór és a lúg kombinációja egy exoterm folyamat, amely hő termel, ezért körültekintéssel végzendő."
+    },
+    {
+      "id": 15,
+      "term": "Halogénelemek fémekkel való reakciója",
+      "definition": "A halogénelemek fémekkel exoterm reakcióban fém-halogenideket képeznek. Például: 2 Na + Cl₂ = 2 NaCl; 2 Fe + 3 Cl₂ = 2 FeCl₃",
+      "quote": "X₂ + fém → fém-halogenid",
+      "text": "A halogén-molekulák erősen oxidáló, és a fémek erősen redukálószerek, ezért a kettő között erős exoterm reakció játszódik le. Az alkáli-fémek (például nátrium) robbantó módon reagálnak a klórral vagy más halogenekkel. A nátrium fényes lánggal ég klór légkörben. Az átmenetifémek (például vas) specifikus halogenideket képeznek, amelyek az oxidációs állapot és a halogen függenek. A fluor az összes fém között a legreaktívabb, és gyakorlatilag az összes fémet fluoridévé alakítja. A halogén-fém-reakciók nagyon felettébbek és hőt termelnek, amelyet az exoterm egész folyamata jelölte meg. A termékek (fém-halogenidek) ionos szerkezetűek és az összes oldószerekben, különösen vízben, gyorsan oldódnak."
+    },
+    {
+      "id": 16,
+      "term": "Hidrogén-halogenidek - alapvető tulajdonságok",
+      "definition": "A hidrogén-halogenidek (HF, HCl, HBr, HI) színtelen, szúrós szagú, mérgező, maró gázok. Kétatomos molekuláikban a H és halogén között egyszeres kovalens kötés van.",
+      "quote": "HX - poláris kovalens molekulák",
+      "text": "A hidrogén-halogenidek a halogén-vegyületek fontosabb csoportja. Az összes kétatomos molekula, ahol a hidrogén és a halogén atom között egy erős σ-kötés van. A molekulák polárisak, mivel a halogén sokkal nagyobb elektronegativitással rendelkezik, mint a hidrogén. A hidrogén-fluorid a legpolare miatt a legmagasabb dielektromos állandóval és a legmagasabb forrásponttal rendelkezik a négy közül. A hidrogén-klorid, -bromid és -jodid gázok szobahőmérsékleten és normál nyomáson, poláris molekulák ellenére csapódnak meg folyékony vagy szilárd halmazállapotba csak nagyon alacsony hőmérsékleten. A polárisan molekulák dipólus-dipólus kölcsönhatások vezetik össze őket, amely az intermolekuláris erőkhöz vezet."
+    },
+    {
+      "id": 17,
+      "term": "Hidrogén-fluorid - hidrogénkötés",
+      "definition": "A hidrogén-fluorid molekuláit hidrogénkötések tartják össze, ezért az olvadáspontja (–84 °C) és a forráspontja (20 °C) kiemelkedően magasak a másik halogenidhez képest.",
+      "quote": "HF - hidrogénkötések",
+      "text": "A hidrogén-fluorid egy speciális eset a hidrogén-halogenidek között, mert erős hidrogénkötések (hydrogen bonds) képezek. A hidrogénkötés a hidrogén (H), amely egy nagyon elektronpozitív atomhoz (F) kapcsolódik, és egy másik F atom között képződik. Ez az erős kölcsönhatás magyarázza, hogy a hidrogén-fluoridnak a legmagasabb forráspontja van (20 °C) az összes hidrogén-halogenid közül, annak ellenére, hogy a legkisebb molekulatömegű. Összehasonlításul, a hidrogén-klorid forráspontja –85 °C, amely sokkal alacsonyabb. A hidrogénkötés-képzésre képes hidrogén-fluorid folyékony is lehet szobahőmérsékleten, amely számos alkalmazáson használ. A hidrogén-fluorid erős korrozív és maró - főleg mivel az F⁻ ionok nagyon reaktívak és sokan a kötéseket rombácsák."
+    },
+    {
+      "id": 18,
+      "term": "Hidrogén-halogenidek savassága",
+      "definition": "A hidrogén-halogenidek vízben savként viselkednek. A saverősség a HF < HCl < HBr < HI irányban nő. A HF még gyenge sav, a HCl már gyakorlatilag 100%-ban disszociál.",
+      "quote": "HF gyenge, HCl erős sav",
+      "text": "A hidrogén-halogenidek savassága paradox módon arányos a halogén-hidrogén kötés erősségéhez. A hidrogén-fluorid a legerősebb kötéssel rendelkezik, ezért a leggyakébb, mint sav (Ka ≈ 3,5 × 10⁻⁴), mert a disszociáció nem kedvez az erős kötés miatt. A hidrogén-klorid a gyakorlatban teljes disszociációt mutat vízben (100%-ban H₃O⁺ és Cl⁻ ionokká alakul), ezért szilárdsav, nem pedig gyenge sav. Ez az ellentmondás azért van, mert a vízben való disszociáció termodinamikailag kedvezőbb a bizonyos molekulák számára (például az egyensúlyban hosszú élettartamú hidratációs komplexek). Az összes hidrogén-halogenid oxigénnel összetartott oldószerekben (például vízben) savként viselkedik. A HBr és a HI még erősebbek a HCl-nél, és teljesen disszociálódnak."
+    },
+    {
+      "id": 19,
+      "term": "Hidrogén-halogenidek stabilitása",
+      "definition": "Az HF és HCl stabil molekulák, míg a HBr és HI viszont egyensúlyi folyamatban elemeikre (H₂ és X₂) bomlanak. Ez fordított a saverősséggel.",
+      "quote": "HBr, HI - termikus bomlás",
+      "text": "A hidrogén-halogenidek kémiai stabilitása a termikus bomlás valószínűsége szempontjából különbözik. A hidrogén-fluorid és a hidrogén-klorid nagyon stabil molekulák, amelyek sem nem bomलódnak vissza elemi hidrogénre és halogénre normál körülmények között. Ez az erős kötési energia miatt van (HF: 570 kJ/mol, HCl: 431 kJ/mol). A hidrogén-bromid és a hidrogén-jodid azonban kevésbé stabilak és bomlani tudnak vissza az elemeikre, különösen magasabb hőmérsékleten (például nagy hőmérsékleten vagy intenzív UV-besugárzás alatt). Ez az egyensúlyú folyamat: HBr ⇌ H₂ + Br₂ és HI ⇌ H₂ + I₂. A kötési energia csökken az oszlopban lefelé, amely magyarázza ezt az ellentételes viselkedést."
+    },
+    {
+      "id": 20,
+      "term": "Hidrogén-fluorid szilícium-dioxiddal",
+      "definition": "A hidrogén-fluorid az egyik kevés anyag, amely oldja a szilícium-dioxidot (üveget). A reakció: SiO₂ + 4 HF = SiF₄ + 2 H₂O",
+      "quote": "HF oldja az üveget - SiO₂",
+      "text": "A hidrogén-fluorid egyik legfontosabb jellemzője az, hogy gyakorlatilag az egyetlen közönséges sav, amely oldja az üveget (szilícium-dioxid, SiO₂). Ez az oka annak, hogy a hidrogén-fluorid vizes oldatát nem tárolhatjuk üvegedénynél, hanem speciális polietilénes vagy politetrafluoroetilén (PTFE/Teflon) edénybeth szükséges. A szilícium-dioxid és a hidrogén-fluorid reakciójában szilícium-tetrafluorid (SiF₄) gáz keletkezik, amely illékony és a folyamatban vízgőz termel. Ez az üvegmaratás alkalmazása a tömegtermékben, ahol az üveget matte felületűvé teszik az üvegmaratáshoz használt HF-oldatok (vagy HF-sók) alkalmazásával. Az üvegmaratás a díszítő üvegművekésítés és az elektronikai ipari üvegvékony-feldolgozásban használt. A szilícium-tetrafluorid szintén létezik az ott előfordulni, de rendkívül reaktív és az összes szerves anyagot károsítja."
+    },
+    {
+      "id": 21,
+      "term": "Hidrogén-klorid - sósav alkalmazása",
+      "definition": "A hidrogén-klorid vizes oldata a sósav, amely ipari és laboratóriumi alapanyag. A tömény sósav 36-38 m/m%-os. Használják tisztítószerként, vízkőoldásra és számos vegyipari folyamatban.",
+      "quote": "HCl(aq) = sósav - tömény 37%",
+      "text": "A sósav a világ termelésének igen nagy mennyiségét képezi, mivel az ipari folyamatok számos szakaszában nélkülözhetetlen. A tömény sósav (37 m/m%) egy füstölgő folyadék, amely erős szagú és erős korrozív hatásúak. Laboratóriumban és az ipariparban az acél, a fémötvözetek, a kagylóhéj és egyéb calciumkarbonát tartalmazó anyagok feldolgozásához használják. A háztartás tisztítószerként a sósav (körülbelül 20 m/m%-os) használatos a vízkő és a kalcium-lerakódások eltávolítására. Kritikus biztonsági megjegyzés: a sósavat soha nem szabad hipoklorit-tartalmú fertőtlenítőszerrel keverni, mivel a két vegyület erősen mérgező klórgázt szabadít fel. Ez a kombinációs a háztartásban gyakori, halálos vegyi balesetek oka. Az ionos sósavat számos szerves szintézisben használják az asszociáció és a protolitikus reak-acioknál."
+    },
+    {
+      "id": 22,
+      "term": "Jódidionok ezüstionokkal csapadék",
+      "definition": "A jódidionok és az ezüstionok csapadékot képeznek: Ag⁺ + I⁻ = AgI (sárgás csapadék). Ez fényérzékeny, fény hatására megfeketedik.",
+      "quote": "AgI - sárgás, fényérzékeny",
+      "text": "A halogenidionok (F⁻, Cl⁻, Br⁻, I⁻) és az ezüstionok között képződött csapadékok klasszikus analitikai kimutatási módszerek. Az ezüst-fluorid olható (AgF), azonban az ezüst-klorid, ezüst-bromid és ezüst-jodid gyakorlatilag oldatlan. Az ezüst-klorid fehér csapadék, az ezüst-bromid sárgásfehér, az ezüst-jodid sárgás. Az összes három egy az ezüstionok felvételekor másfél percen belül hozza létre a csapadékot. Az ezüst-jodid és a többi ezüst-halogenid nagyon fényérzékeny, és a fény hatására gyakorlatilag fekete szín alakul ki, így a szín-változás is vizsgálható az analitikai kimutatásban. Ez az az oka annak, hogy a régi fénykép-filmek ezüst-bromidot használtak és ezüst-jodidot, mivel a fényre való érzékenysége biztosít a képalkotáshoz szükséges fotokémiai folyamatok meghajtásához."
+    },
+    {
+      "id": 23,
+      "term": "Bromid- és jodidionok - ezüst-csapadékok",
+      "definition": "A bromidionok és jodidionok és az ezüstionok között csapadékot képeznek: Ag⁺ + Br⁻ = AgBr (sárgásfehér); Ag⁺ + I⁻ = AgI (sárgás). Mindhárom fényérzékeny.",
+      "quote": "AgBr - sárgásfehér, AgI - sárgás",
+      "text": "A halogenidionok kimutatása az ezüst-nitrát oldatban végzett csapadék-képzéssel történik. A bromid- és jodidionok az ezüstionokkal szinte azonnal csapadékot képeznek, amely gyakorlatilag oldatlan. Az ezüst-bromid sárgásfehér csapadék, amely később megfeketedik a fény hatására (fotodekomponálódás). Az ezüst-jodid sárgás csapadék, amely még intenzívebben fényérzékeny, és a fényre való expozíció során azonnal megfeketedik. A halogenidionok analitikus kimutatásának ezt a módszerét mivel száz éves már a közvetlenül az ezüst-nitrát oldatban történő közvetlen megfigyelés vagy a csapadék szín-változásának megfigyelése. A fotografiában az ezüst-bromid és az ezüst-jodid hagyományosan használtak voltak, mivel a fényre való érzékenysége biztosítja a szükséges fotokémiai folyamatokat."
+    },
+    {
+      "id": 24,
+      "term": "Jód-oldódás polár és apoláris oldószerekben",
+      "definition": "A jód vízben gyengén oldódik (barna szín), de jódidionok jelenlétében jól oldódik (I₂ + I⁻ ⇌ I₃⁻ trijodidion). Apoláris oldószerekben (benzin, szén-tetraklorid) lila szín a jód.",
+      "quote": "I₂: vízben barna, CCl₄-ben lila",
+      "text": "A jód-oldódása az oldószer természetétől erősen függ. A tiszta vízben az I₂ gyengén oldódik (körülbelül 0,3 g/L szobahőmérsékleten) és barnás-sárga szín adódik az oldatnak. A jódidionok (például KI) jelenlétében azonban a jód-oldódása drasztikusan javul, mivel a jódidionok és a jód-molekulák között egy komplex képződik: I₂ + I⁻ ⇌ I₃⁻ (trijodidion). A trijodidionok sokkal jól oldódnak vízben, mint az I₂ molekulák, ezért az oldódás rendkívüli módon javul. Az apoláris oldószerekben (például szén-tetraklorid CCl₄ vagy benzol) az I₂ lila szín adódik az oldatnak, amely eltér a víz-alapú oldatok barnásságár. Ez a szín-különbség analitikai célokra használható az oldószerhatás tanulmányozásában. Az alkoholban és az éterben az I₂ barna szín adódik. Ez a tulajdonság a jód kimutatásának alapjául szolgál az oldatban."
+    },
+    {
+      "id": 25,
+      "term": "Bróm - szerves vegyületek telítettségének kimutatása",
+      "definition": "A bróm híg vizes oldatát laboratóriumban használják a szerves vegyületekben a telítettség (kettős- és hármas kötések) kimutatásához. A sárgás oldat telítetlen vegyületekkel dekolorálódik.",
+      "quote": "Bróm-vízzel C=C, C≡C kimutatás",
+      "text": "A bróm-víz a szerves kémiában egy klasszikus analitikai reagensz, amely a szerves vegyületekben az alkén és alkin csoportok (telítetlen kötések) kimutatásához használnak. Az alkén (C=C) és az alkin (C≡C) kötésekké a bróm-molekulák addíció-folyamatban azoknok nyitása megtörtik, ami a bróm-szín eltűnésében jelenik meg. A sárga-narancssárga bróm-víz-oldat az elszigetelődő szerves vegyülettel elszíntelenedik, mivel a bróm addíció-terméket képez a kettős vagy hármas kötésvel. Ha a szerves vegyület telített (csak egyedül-kötésekkel), a bróm szín megmarad az oldatban. Ez a próba nagyon hasznos az érdekes szerves vegyületek struktúrájának meghatározásában, azonban a lúgos pH esetén a próba hamis pozitívként viselkedhet, mivel a bróm és a hidroxidionok is reagálnak, így az oldódott szín eltűnik a telítettséghez függetlenül."
+    }
+  ]
+}

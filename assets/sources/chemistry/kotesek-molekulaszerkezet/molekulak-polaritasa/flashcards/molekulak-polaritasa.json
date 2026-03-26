@@ -1,0 +1,179 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi a molekulák polaritása?",
+      "definition": "A molekulák polaritása az a tulajdonság, amely azt jelenti, hogy a pozitív és negatív töltések súlypontja nem esik egybe a molekulában.",
+      "quote": "Töltések súlypontja nem esik egybe",
+      "text": "A poláris molekulák dipólmolekulák, amelyek két 'pólusa' van: pozitív és negatív. Az apoláris molekulák töltéseloszlása szimmetrikus, így nincs meghatározott pozitív és negatív végük. A molekulák polaritása meghatározza, hogy hogyan viselkednek elektromos terekben és hogyan kölcsönhatnak más molekulákkal."
+    },
+    {
+      "id": 2,
+      "term": "Mely két tényező dönti el a molekula polaritását?",
+      "definition": "A kötések polárisága és a molekula téralkata (geometriája) együttesen határozzák meg a molekula polaritását.",
+      "quote": "Kötés poláris + forma = molekula poláris",
+      "text": "Egy molekula poláris lehet, ha van poláris kötése és a geometria nem szimmetrikus, vagy apoláris lehet, ha az összes kötés apoláris vagy a geometria szimmetrikus. Az mindkettő faktor szükséges ahhoz, hogy meghatározzuk a teljes molekulapolaritást."
+    },
+    {
+      "id": 3,
+      "term": "Mit jelent az, hogy az 'összes kötés apoláris'?",
+      "definition": "Az olyan molekulák, ahol minden kötés apoláris (az elektronegativitás-különbség = 0), a molekula apoláris lesz.",
+      "quote": "Apoláris kötések = apoláris molekula",
+      "text": "Az elemmolekulák (O2, Cl2, N2) apoláris kötéseket tartalmaznak, mivel az atomok azonosak. Az elektronpárok szimmetrikusan oszlanak meg, így nincs töltéseltolódás. Ezért az ilyen molekulák apoláris."
+    },
+    {
+      "id": 4,
+      "term": "Mi az a 'poláris kötés'?",
+      "definition": "A poláris kötés az, ahol az elektronegativitás eltér az atomok között, így az elektron az egyik atom felé tolódik.",
+      "quote": "EN-diff > 0: elektron elmozdulás",
+      "text": "A poláris kötésben a nagyobb elektronegativitású atom vonzza az elektront, így a körül elektrontöbblet (δ–), a másik atom körül elektronhiány (δ+) alakul ki. A H–Cl kötés poláris (H: 2,1; Cl: 3,0; EN-diff = 0,9)."
+    },
+    {
+      "id": 5,
+      "term": "Miért poláris a metánhoz képest a klórmetán molekula?",
+      "definition": "A metánban (CH4) a C–H kötések azonos polaritásúak és a molekula szimmetrikus, így apoláris. A klórmetánban (CH3Cl) a C–Cl kötés eltérő polaritású és a szerkezet nem szimmetrikus, így poláris.",
+      "quote": "Eltérő kötések = poláris",
+      "text": "A metán egy szabályos tetraéderes molekula, azonos ligandumokkal (4×H), így a kötéspolaritás-vektorok kioltják egymást. A klórmetánban viszont a C–Cl kötés polaritása eltérő a C–H kötésektől, és a molekula torzult tetraéderes, így a vektorok nem kioltják egymást, és a molekula poláris lesz."
+    },
+    {
+      "id": 6,
+      "term": "Hogyan alkalmazható a vektorikus megközelítés a molekulák polaritásához?",
+      "definition": "A kötéspolaritásokat vektorokként képzelhetjük el, amelyek az elektronnegatívabb atom felé mutatnak. A molekula eredő polaritása a vektorok vektoriális összege.",
+      "quote": "Vektorok összeadása",
+      "text": "Ha a vektorok összeadódnak (nem szimmetrikus szerkezet), az eredmény egy nem nulla vektor, amely a molekula dipólmomentumsot jelenti - így poláris a molekula. Ha a vektorok kioltják egymást (szimmetrikus szerkezet), az eredmény nulla, amely azt jelenti, hogy a molekula apoláris."
+    },
+    {
+      "id": 7,
+      "term": "Mit jelent az, hogy az 'eredő polaritás nulla'?",
+      "definition": "Az eredő polaritás nulla azt jelenti, hogy az összes kötéspolaritás-vektor kioltja egymást, így a molekula kifelé apoláris.",
+      "quote": "Vektorok kioltódnak",
+      "text": "Ha a molekula szimmetrikus (pl. metán, szén-tetraklorid CCl4), az összes kötéspolaritás-vektor azonos hosszúságú és megfelelő szögben helyezkedik el ahhoz, hogy kioltsa egymást. Az eredmény egy nulla vektor, amely azt jelenti, hogy a molekula nem mutat dipólusmomentumot - apoláris."
+    },
+    {
+      "id": 8,
+      "term": "Milyen szerkezeti típusok garantáltan apolárisak poláris kötésekkel?",
+      "definition": "A lineáris, síkháromszög és tetraéderes szimmetrikus szerkezetek poláris kötésekkel is apolárisak lehetnek, ha az azonos ligandumok vannak.",
+      "quote": "Szimmetrikus forma = apoláris",
+      "text": "Ha egy molekula lineáris (180°), síkháromszög (120°) vagy tetraéderes (109,5°) szimmetrikus formájú, és az összes ligandumok azonosak, akkor a kötésvektorok kioltják egymást, így a molekula apoláris lesz, függetlenül attól, hogy a kötések polárisak-e."
+    },
+    {
+      "id": 9,
+      "term": "Mit az 'CO2 molekula' és miért apoláris?",
+      "definition": "A CO2 egy lineáris molekula (O=C=O), ahol a C–O kötések polárisak, de a szimmetrikus lineáris forma miatt apoláris a molekula.",
+      "quote": "CO2: lineáris, poláris kötések, apoláris molekula",
+      "text": "A CO2-ben a C az központi atom, 2 O ligandummal. A lineáris (180°) elrendezésben a két C=O kötéspolaritás-vektor ellentétes irányúak és azonos nagyságúak, így kioltják egymást. Bár a C=O kötések polárisak (O a nagyobb EN-val), a molekula apoláris."
+    },
+    {
+      "id": 10,
+      "term": "Mit az 'NH3 molekula' és miért poláris?",
+      "definition": "Az NH3 egy trigonális piramis molekula (N központi atom, 3 H ligandummal, 1 nemkötő pár), ahol a szerkezet nem szimmetrikus, így poláris.",
+      "quote": "NH3: piramis, szimmetrikus N-H kötések, poláris",
+      "text": "Az NH3-ban az N–H kötések azonos polaritásúak, de az alakja trigonális piramis (nem szimmetrikus a nemkötő pár miatt). A három N–H kötésvektort összeadva az eredő nem nulla, így az ammónia poláris molekula, dipólmomentumssal rendelkezik."
+    },
+    {
+      "id": 11,
+      "term": "Mit az 'H2O molekula' és miért poláris?",
+      "definition": "A H2O egy V-alak molekula (O központi atom, 2 H ligandummal, 2 nemkötő pár), ahol a szerkezet nem szimmetrikus, így poláris.",
+      "quote": "H2O: V-alak, szimmetrikus O-H kötések, poláris",
+      "text": "Az H2O-ban az O–H kötések azonos polaritásúak, de az alakja V-alak (az 104,5°-os szög az ideális 180° helyett). A két O–H kötésvektort összeadva az eredő nem nulla, így a víz poláris molekula, dipólmomentumssal rendelkezik."
+    },
+    {
+      "id": 12,
+      "term": "Mit az 'CCl4 molekula' és miért apoláris?",
+      "definition": "A CCl4 egy tetraéderes molekula (C központi atom, 4 Cl ligandummal), ahol a szimmetrikus forma miatt apoláris, bár a C–Cl kötések polárisak.",
+      "quote": "CCl4: tetraéderes, poláris kötések, apoláris molekula",
+      "text": "A CCl4-ben a C–Cl kötések polárisak (Cl a nagyobb EN-val), de a tetraéderes szimmetrikus forma miatt a négy C–Cl kötésvektort összeadva az eredő nulla lesz. Ez azért van, mert a tetraéderes geometria garantálja, hogy a vektorok teljesen kioltják egymást."
+    },
+    {
+      "id": 13,
+      "term": "Mit az 'CH3Cl molekula' és miért poláris?",
+      "definition": "A CH3Cl egy torzult tetraéderes molekula (C központi atom, 3 H és 1 Cl ligandummal), ahol a szerkezet nem szimmetrikus, így poláris.",
+      "quote": "CH3Cl: torzult forma, eltérő kötések, poláris",
+      "text": "A CH3Cl-ben a C–H és a C–Cl kötések eltérő polaritásúak (Cl nagyobb EN-val). A tetraéderes forma által meghatározott szögek mellett az eltérő kötéspolaritások miatt az eredő vektor nem nulla - így a klórmetán poláris molekula."
+    },
+    {
+      "id": 14,
+      "term": "Mit jelent a 'dipólusmomentum'?",
+      "definition": "A dipólusmomentum egy vektor, amely a molekula elektromos dipólusa nagyságát és irányát jellemzi. Szimbóluma: μ (mu), mértékegysége: Debye vagy C·m.",
+      "quote": "Töltések szétválásának mértéke",
+      "text": "A dipólusmomentum nagyobb, ha a molekulában a pozitív és negatív töltések jobban szétválnak. Az egység a Debye (D), amely körülbelül 3,34 × 10^-30 C·m. Például az HCl dipólusmomentuma 1,08 D, a vízeé 1,85 D."
+    },
+    {
+      "id": 15,
+      "term": "Milyen molekulák képeznek hidrogénkötéseket a polaritás alapján?",
+      "definition": "Az olyan poláris molekulák, amelyekben hidrogén N, O vagy F atomhoz kapcsolódik, hidrogénkötéseket képezhetnek más hasonló molekulákkal.",
+      "quote": "Poláris H-kötésű molekulák",
+      "text": "A víz (H2O), az ammónia (NH3) és a hidrogén-fluorid (HF) mind poláris molekulák, amelyekben a hidrogén N, O vagy F-hez kapcsolódik. Ezek a molekulák hidrogénkötéseket képeznek egymás között, amely meghatározza a nagy olvadáspontjukat és forráspontjukat."
+    },
+    {
+      "id": 16,
+      "term": "Miért vezet az apoláris molekulák nem vezetik az elektromosságot?",
+      "definition": "Az apoláris molekulák nem rendelkeznek dipólusmomentummal, így nem orientálódnak elektromos térben, és nem vezetik az elektromosságot.",
+      "quote": "Nincs dipólus = nincs vezet",
+      "text": "Az elektromosságvezetés azt igényli, hogy az elektronok vagy ionok mozognak egy elektromos tér alatt. Az apoláris molekulákban az elektronok szimmetrikusan oszlanak meg, így nincs motivációja a szabadnak mozogni. Az elektromos tér nem tud orientálódni a molekulákat, így nem vezetik az elektromosságot."
+    },
+    {
+      "id": 17,
+      "term": "Hogyan orientálódnak a poláris molekulák egy elektromos térben?",
+      "definition": "A poláris molekulák (dipólok) egy elektromos tér alatt orientálódnak, szögletes helyzetben helyezkednek el, hogy az elektromos energia minimális legyen.",
+      "quote": "Dipólok a terrel párhuzamosan",
+      "text": "Ha egy poláris molekulát elektromos térbe helyezünk, a dipólus orientálódik: a pozitív vég a negatív elektróda felé fordul, a negatív vég a pozitív elektróda felé. Ez az orientáció csökkenti a rendszer elektromos energiáját. Sok poláris molekula ezt az orientációt képes fenntartani, amely hozzájárul az elektromosságvezetéshez."
+    },
+    {
+      "id": 18,
+      "term": "Mit jelent az, hogy egy molekula 'polar aprotic' vagy 'polar protic'?",
+      "definition": "A polar protic molekulák képesek hidrogénkötéseket formázni vagy adni (pl. H2O, NH3), a polar aprotic molekulák nem (pl. DMSO, DMF).",
+      "quote": "Protic: hidrogénkötésre képes",
+      "text": "A polar protic molekulák hidrogént tartalmaznak egy elektronnegatív atomhoz (N, O, F) kötött formában, amely hozzájárulhat a hidrogénkötéshez. A polar aprotic molekulák polárisak, de nem tartalmaznak N-H, O-H vagy F-H kötéseket. Ezért a polar aprotic molekulák jó oldószerek, de nem képeznek hidrogénkötéseket."
+    },
+    {
+      "id": 19,
+      "term": "Milyen oldószer-tulajdonságok erednek a víz polaritásából?",
+      "definition": "A víz magas polaritása (1,85 D) révén kiváló oldószer az ionos és poláris kovalens vegyületekre, mivel a vízmolekulák szolvatálják az ionokat.",
+      "quote": "Poláris oldószer = ionok oldódnak",
+      "text": "A víz dipólusa (O–H kötéspoláritása és V-alak szerkezete) lehetővé teszi, hogy a pozitív ionokat körülvegyen (az O körül) és a negatív ionokat körülvegyen (a H körül). Ezáltal az ionos vegyületek oldódnak a vízben. Az olyan apoláris vegyületek (pl. olaj) azonban nem oldódnak, mert a víz dipólusai nem tudnak szolvatálni azokat."
+    },
+    {
+      "id": 20,
+      "term": "Mit jelent az 'elektronegativitás-vektor' a molekulák polaritásában?",
+      "definition": "Az elektronegativitás-vektor az a vektor, amely az elektronnegatívabb atom felé mutat a kovalens kötésben.",
+      "quote": "Elektronegativabb atom felé mutat",
+      "text": "A H–Cl kötésben a vektor a Cl felé mutat, mert a Cl nagyobb elektronegativitású. Ha több kötés van egy molekulában, az összes vektort összeadva az eredő vektor adja meg a molekula dipólusmomentumának irányát és nagyságát."
+    },
+    {
+      "id": 21,
+      "term": "Mit jelent az, hogy az 'eredő vektor kioltódik'?",
+      "definition": "Az eredő vektor kioltódik, amikor az összes vektor vektoriális összeadása nulla eredményt ad, amit a molekula apoláritása jelent.",
+      "quote": "Vektorok kioltódnak = apoláris",
+      "text": "A szimmetrikus molekulákban az összes kötés-vektort összeadva az eredő nulla. Ez azt jelenti, hogy nem létezik hálózati dipólusmomentum, így a molekula kifelé apoláris. Például az XCl4 típusú molekulák (ahol X a központi atom, 4 azonos Cl ligandummal) tetraéderes szimmetriájuk miatt apolárisak."
+    },
+    {
+      "id": 22,
+      "term": "Miért nem semlegesít a vízoldódó anyag a víz polaritásának szükséges hatásait?",
+      "definition": "Mert a víz magas dielektromos állandója miatt képes az ionokat szolvatálni és az ionok közötti Coulomb-erőt gyengíteni.",
+      "quote": "Víz: magas dielektromos konstans",
+      "text": "A víz dielektromos állandója körülbelül 80, amely az egyik legmagasabb közül az összes folyadék között. Ez azt jelenti, hogy a víz képes az elektromos tereket erősen csökkenteni, így az ionok közötti vonzás a vízben nagyon gyenge az ürességben. Ez az oka, hogy az ionos vegyületek jól oldódnak a vízben."
+    },
+    {
+      "id": 23,
+      "term": "Hogyan befolyásolja a hőmérséklet a molekulák polaritását?",
+      "definition": "A hőmérséklet nem változtatja meg a molekuláris dipólusmomentumot közvetlenül, de befolyásolhatja az intermolekuláris kölcsönhatásokat.",
+      "quote": "Hőmérséklet nem változtat dipólusmomentumon",
+      "text": "A dipólusmomentum a molekula elektronszerkezetétől függ, amely nem függ a hőmérséklettől. Azonban a hőmérséklet növekedése az intermolekuláris orientációs kölcsönhatásokat gyengíti, mivel az atomok és molekulák véletlenszerű mozgása felülmúlja a dipólus-orientáció irányítottságát."
+    },
+    {
+      "id": 24,
+      "term": "Mely közismert apol 'nélküli kötésű' molekulák vannak?",
+      "definition": "Az olyan molekulák, ahol minden kötés apoláris (azonos atomok között) vagy a kötések szimmetrikusan helyezkednek el.",
+      "quote": "Azonos atomok = apoláris",
+      "text": "Az elemmolekulák (O2, N2, F2, Cl2) mind apoláris, mert az azonos atomok közötti kötések apolárisak. Az olyan szimmetrikus molekulák, mint a CO2, BF3, és CCl4 is apolárisak, bár poláris kötéseket tartalmaznak, a szimmetria miatt."
+    },
+    {
+      "id": 25,
+      "term": "Mit jelent az 'intermolekuláris dipólus-dipólus kölcsönhatás'?",
+      "definition": "Az intermolekuláris dipólus-dipólus kölcsönhatás az olyan vonzás, amely poláris molekulák között lép fel, ahol az egyik molekula pozitív vége vonzza a másik molekula negatív végét.",
+      "quote": "Dipólus-dipólus vonzás",
+      "text": "A poláris molekulák (pl. víz, ammónia) között dipólus-dipólus kölcsönhatások vannak, amely viszonylag erős intermolekuláris erőt képez. Ez nagyobb, mint a London-dispersziós erő, de általában gyengébb, mint a hidrogénkötés. Ez a kölcsönhatás felelős a poláris molekulák magas forráspontjáért."
+    }
+  ]
+}

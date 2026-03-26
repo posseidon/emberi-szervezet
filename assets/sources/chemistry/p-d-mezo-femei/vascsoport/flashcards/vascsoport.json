@@ -1,0 +1,165 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "A vascsoport elemei",
+      "definition": "A vas (Fe), kobalt (Co) és nikkel (Ni) ezüstszürke, mágneses fémek, negatív standardpotenciálúak, +2 és +3 oxidációs állapotban fordulnak elő.",
+      "quote": "Fe, Co, Ni: mágnesezhető, reaktív",
+      "text": "A vascsoport (8. csoport) három elemét 3d-pályák jellemzik. Mindhárom fém ferromágneses, vagyis erős mágneses mező alatt telítődnek. Standardpotenciáljuk negatív (Fe: –0,44 V, Co: –0,28 V, Ni: –0,25 V), így redukálószerek. A vas +2 és +3 oxidációs állapotok között variál, míg kobalt és nikkel főleg +2-ben fordul elő."
+    },
+    {
+      "id": 2,
+      "term": "Vas előfordulása",
+      "definition": "A vas többféle érccé fordul elő a természetben: oxidok (Fe₂O₃, Fe₃O₄), hidroxidok, és szulfidok (FeS₂).",
+      "quote": "Oxidok, hidroxidok, szulfidok",
+      "text": "A vas az egyik legbőségesebb elem a Föld kérgében, körülbelül 5% vasox fordul elő. A legfontosabb vasércek: a hematit (Fe₂O₃), a magnetit (Fe₃O₄) és a pirit (FeS₂). Ezek az ásványok nagy vasox tartalmuk miatt gazdaságosan bányászhatók és feldolgozhatók."
+    },
+    {
+      "id": 3,
+      "term": "Vasgyártás nagyolvasztóban",
+      "definition": "A vasércet (Fe₂O₃) koksszal (szén) és mészkővel keverik a nagyolvasztóban, ahol szenes redukció zajlik két lépésben.",
+      "quote": "Nagyolvasztó, szenes redukció",
+      "text": "A nagyolvasztó egy hatalmas, tégla és edzett acélból készült reaktor. Az első lépésben szén közvetlenül redukálja a vasoxidet (Fe₂O₃ + 3 C = 2 Fe + 3 CO), a második lépésben szén-monoxid működik redukálószerként (Fe₂O₃ + 3 CO = 2 Fe + 3 CO₂). Az olvadt nyersvas a kohó alján gyűlik össze, felette az olvadt salak (CaSiO₃) úszik és megakadályozza az oxidációt."
+    },
+    {
+      "id": 4,
+      "term": "Nyersvas és öntöttvas",
+      "definition": "A nagyolvasztóban keletkezett olvadt nyersvasat újraolvasztva és ötvözőelemeket hozzáadva nyerik az öntöttvasat.",
+      "quote": "Nyersvas → ötvözés → öntöttvas",
+      "text": "A nyersvas magas széntartalma (4–5%) miatt meglehetősen rideg és nem megmunkálható. Az öntöttvas további szén- és ötvözőelem-hozzáadással készül. Az öntöttvas rideg marad (nem rugalmas), de nagyon kemény és jó önthetőséggel rendelkezik, így nagy szerkezeti elemek (például csatornafedélabák, gépváz) készítésére kiválóan alkalmas."
+    },
+    {
+      "id": 5,
+      "term": "Acél előállítása",
+      "definition": "Az acél a nyersvas széntartalmának csökkentésével és ötvözőelemek (króm, mangán, nikkel, vanádium) hozzáadásával készül.",
+      "quote": "Szén csökkentés + ötvözés = acél",
+      "text": "Az acél sokkal szilárdabb és rugalmasabb, mint az öntöttvas vagy a nyersvas. A széntar talomot (0,2–2,0%) és az ötvözőelemeket a kívánt célra szerinti tulajdonságok szerint állítják be. Rozsdamentes acél (króm-nikkel), szerszámacél (wolfram, molibdén), és szerkezeti acél (mangán, szilícium) különféle felhasználási célokhoz optimalizált összetétellel rendelkeznek."
+    },
+    {
+      "id": 6,
+      "term": "Vas oxidációja oxigénnel",
+      "definition": "A vas elemi oxigénnel reagál: 4 Fe + 3 O₂ = 2 Fe₂O₃",
+      "quote": "Égés → Fe₂O₃",
+      "text": "A vas magas hőmérsékleten gyorsan oxidálódik, vörösesbarna Fe₂O₃ keletkezik. Ez az intenzív oxidációs folyamat használható vas finom részecskéiből való tisztítást is lehetővé teszi. Hidrogén atmoszféra alatt az Fe₂O₃ redukálódik, amely a vasgyártásban is fontos lépés."
+    },
+    {
+      "id": 7,
+      "term": "Vas rozsdásodása",
+      "definition": "A vas oxidrétege lazább szerkezetű, emiatt a fém belső része is idővel oxidálódik (megrozsdásodik), especialmente nedvesség és levegő jelenlétében.",
+      "quote": "Laza oxidréteg, folyamatos rozsda",
+      "text": "A vas rozsdásodása elektrokémiai folyamat, amelynek során a fém anódként működik és oxidálódik (Fe → Fe²⁺ + 2e⁻), míg az oxigén katódként (O₂ + 2 H₂O + 4e⁻ → 4 OH⁻). Az eredmény a rozsdás sárga-barna Fe(OH)₃ és Fe₂O₃·xH₂O. Ez az folyamat különösen gyors sós vízben és vezetékeny oldatokben."
+    },
+    {
+      "id": 8,
+      "term": "Passzív korrózióvédelem",
+      "definition": "A vastárgyat festékréteggel vagy egy nemesfém-réteggel (például ón) vonják be, amely a felületet megóvja az oxidációtól.",
+      "quote": "Bevonat, megóvás",
+      "text": "A festék- vagy polírozható metalloid bevonat akkor is védelmet nyújt, amíg a bevonat épsége megmarad. Ha azonban a bevonat megsérül (pl. karcolódik), az alatta lévő fém oxidálódni tud, és a rozsda gyorsan terjedhet a sérülés alá. Az ón-bevonatnak van egy előnye: az ón önmagában sem rozsdásodik könnyen, mivel saját maga is védőréteget képez."
+    },
+    {
+      "id": 9,
+      "term": "Aktív (katódos) korrózióvédelem",
+      "definition": "A vastárgyat egy nála kisebb standardpotenciálú fémmel (például cinkkel) vonják be vagy kötik össze. Ez a fém oxidálódik a vas helyett, így az katódként működik és megmarad.",
+      "quote": "Cink, anódfém, vas katód",
+      "text": "Az aktív védelem alapja az, hogy a cink standardpotenciálja (–0,76 V) szubdominácserél negatívabb, mint a vasé (–0,44 V). Így korróziós elem keletkezik, amelyben a cink az anód (oxidálódik) és a vas a katód (védett). Ez a módszer továbbra is működik, még ha a bevonat megsérül is, mivel az elektromosan összekapcsolt cink továbbra is oxidálódik a vas helyett. Az eljárást horganyozásnak nevezik."
+    },
+    {
+      "id": 10,
+      "term": "Horganyozás",
+      "definition": "A vas korrózióvédelmében cink-bevonatot készítnek az aktív védelem módszerével, amely horganyozásnak nevezzük.",
+      "quote": "Cink bevonat, hosszú élettartam",
+      "text": "Az elektrogalvanizálási vagy edzési módszerrel cink-réteget kerítik az acél tárgyra. A cink-bevonat biztosítja az aktív védelmet még akkor is, ha az éleken vagy sérüléseken keresztül a vas láthatóvá válik. A hornganyozott acél nagyobb szilárdsággal bír és 30–50 évnyi védelmet nyújthat megfelelő körülmények között."
+    },
+    {
+      "id": 11,
+      "term": "Vas és halogének reaktivitása",
+      "definition": "A vas közvetlenül reagál a halogénekkel: 2 Fe + 3 Cl₂ = 2 FeCl₃",
+      "quote": "Intenzív, FeCl₃ képzés",
+      "text": "A nagyobb halogén-sűrűségben a vas vas(III)-halogenideket képez (FeCl₃, FeBr₃, FI₃), míg a kisebb halogén-sűrűségben vas(II)-halogenidek alakulnak (FeCl₂). A fluor a legerősebb oxidálószer, így mindig Fe³⁺-ot képez, míg a klór van(II)-halogenideket állít elő lágabb körülmények között. Kobalt és nikkel esetén +2-es halogenidek képződnek."
+    },
+    {
+      "id": 12,
+      "term": "Vas és schwefel",
+      "definition": "A vas kénporral melegítve szulfidot képez: Fe + S = FeS",
+      "quote": "Fekete FeS képzés",
+      "text": "Az FeS keletkezik, ha a vasat kén-párákkal vagy kénporral melegítik. Az FeS feketés szulfid, amely vízben nem oldódik. A kém hatásos redukáló a vas(III)-oxidra nézve is: így az FeS (és az FeS₂) termikusan feldolgozható a vasgyártásban az olvadékés oxidatív pörkölés formájában."
+    },
+    {
+      "id": 13,
+      "term": "Vas oldódása savakban",
+      "definition": "Vas híg savakban oldódik hidrogénfejlődés közben, vas(II)-ionok képződnek: Fe + 2 HCl = FeCl₂ + H₂",
+      "quote": "Híg sav → Fe²⁺ + H₂",
+      "text": "A negatív standardpotenciál miatt a vas könnyen válik redukálószerré és oldódik savakban. Az ionos egyenleten: Fe + 2 H⁺ = Fe²⁺ + H₂. A vas(II) ion halványzöld szín (hidratáltan), amely azonban levegőn lassan sárgássá válik a vas(III)-ionná oxidálódás miatt. A kobalt és nikkel hasonlóan viselkedik, de a hatások Fe-nél erősebb a magasabb oxidációs állapot stabilizálódása miatt."
+    },
+    {
+      "id": 14,
+      "term": "Vas passzívvá válása tömény savakban",
+      "definition": "Tömény oxidáló savakban (cc. kénsav, cc. salétromsav) a vas nem oldódik, mert a felületen szilárd védőréteg képződik.",
+      "quote": "Passzív, nem oldódik",
+      "text": "A tömény oxidáló savak még intenzívebb oxidációt okoznak az vas felületén, amely egy még tömörebb védőréteget hoz létre az eredeti oxidréteghez képest. A van(III)-oxid vagy vas(III)-szulfát nem elég por ahhoz, hogy az oldódás folytatódjon. Ez a jelenség lehetővé teszi, hogy az vas kevésbé váló szállításban és tárolásban oldódik az oxidáló savakban, ami fontos biztonsági tényező."
+    },
+    {
+      "id": 15,
+      "term": "Vas(III)-oxid (Fe₂O₃)",
+      "definition": "A Fe₂O₃ vörösesbarna, vízben nem oldódó szilárd anyag, amely savakban oldódik, vasércek és rozsda összetevője.",
+      "quote": "Vörösesbarna, savas oldható",
+      "text": "Az Fe₂O₃ a legfontosabb vasoxid, amely természetesen hematitként fordul elő. Fekete szín mellett vörösesbarna szín jellemzi, amely a nagyobb részecskék által szórt fénytől származik. Az Fe₂O₃ + 6 HCl = 2 FeCl₃ + 3 H₂O reakció szerint könnyen oldódik savakban. Az Fe₂O₃ a rozsda fő összetevője, amely hosszabb időn keresztül lezáródik."
+    },
+    {
+      "id": 16,
+      "term": "Vas(III)-hidroxid (Fe(OH)₃)",
+      "definition": "A Fe(OH)₃ vörösesbarna csapadék, amelyet vas(III)-ionok és hidroxidionok reakciójában képez.",
+      "quote": "Vörösesbarna csapadék, rozsda komponens",
+      "text": "Az Fe(OH)₃ által keletkezik az Fe³⁺ + 3 OH⁻ = Fe(OH)₃ reakcióban, valamint a vízből való csapadékképzés során. Ez a hidroxid vízben nem oldódik, de савакban igen. Az Fe(OH)₃ szintén a rozsda fő összetevője, amely idővel az Fe₂O₃-ba alakul át a vízvesztés során."
+    },
+    {
+      "id": 17,
+      "term": "Vas(II)-hidroxid (Fe(OH)₂)",
+      "definition": "Az Fe(OH)₂ piszkoszöld csapadék, amely vas(II)-ionok és hidroxidionok reakciójában keletkezik.",
+      "quote": "Zöld csapadék, instabil levegőn",
+      "text": "Az Fe(OH)₂ a Fe²⁺ + 2 OH⁻ = Fe(OH)₂ reakcióban képződik. Jellegzetes zöld szín jellemzi. Ez a csapadék azonban instabil levegőn: a felszínén gyorsan sárga-barna Fe(OH)₃-vá oxidálódik az oxigén hatására. Ez az oxidáció a rozsdaképződés egyik fontos lépése a vas felületén."
+    },
+    {
+      "id": 18,
+      "term": "Vas(II)-diszulfid (FeS₂) vagy pirit",
+      "definition": "Az FeS₂ sárgás szín, fém-fénye természetben megtalálható érc, amely pörkölésével SO₂ és Fe₂O₃ állítható elő.",
+      "quote": "Pirit, arany-sárga szín",
+      "text": "A pirit a természetben igen elterjedt szulfid mineral, amelyet néha 'bolondok aranyának' hívnak (mivel szín és fény miatt lehet vele összetéveszteni az igazi aranyat, de sokkal nagyobb keménységű). A piritot kén és vas nyerésére használják. A pörkölés közben: 4 FeS₂ + 11 O₂ = 2 Fe₂O₃ + 8 SO₂"
+    },
+    {
+      "id": 19,
+      "term": "Vas(II)-ionok vizes oldatban",
+      "definition": "A hidratált vas(II)-ionok halványzöld színűek, de levegőn lassan oxidálódnak vas(III)-ionná, amely sárgássá teszi az oldatot.",
+      "quote": "Halványzöld, levegő-érzékeny",
+      "text": "Az Fe²⁺ ionok vízben hexaakva-komplexet képeznek, amely halványzöld szín. A levegőben azonban az oldódott oxigén lentessé oxidálja: 4 Fe²⁺ + O₂ + 4 H⁺ = 4 Fe³⁺ + 2 H₂O. Ez az oxidáció szobaténmersékleten meglehetősen lassan játszódik, de hidegben még lassabb, míg forróban gyorsabb. Az Fe³⁺ oldatok sárgások (illetve sárgásbarna gél az Fe(OH)₃ képzés miatt)."
+    },
+    {
+      "id": 20,
+      "term": "Kobalt(II)-ionok",
+      "definition": "A hidratált kobaltionok rózsaszínűek, vízmentes formában halványkékek, amelyek tetraammin-komplexet képeznek ammóniával.",
+      "quote": "Rózsaszín hidratált, kék száraz",
+      "text": "Az Co²⁺ ionok vízben hexaakva-komplexet képeznek [Co(H₂O)₆]²⁺, amely rózsaszín. Száraz körülmények között (például vízmentesítés után) az [Co(H₂O)₆]²⁺ kék Co²⁺ forumán létezik. Az ammóniával a kobalt tetraammin-komplexet hoz létre. A kobalt-ionok kék CoCl₂ papírként használhatók a páratartalom jelzéséhez."
+    },
+    {
+      "id": 21,
+      "term": "Nikkel(II)-ionok",
+      "definition": "A hidratált nikkelionok fűzöld (vagy leveles zöld) színűek, amelyek közvetlenül komplex-ionokká alakulnak.",
+      "quote": "Fűzöld hidratált ionok",
+      "text": "Az Ni²⁺ ionok vízben hexaakva-komplexet képeznek [Ni(H₂O)₆]²⁺, amely fűzöld szín. Az ammóniával az Ni²⁺ először halványkék Ni(OH)₂ csapadékot képez a magas pH miatt, amely majd ammónia-tetraammin-komplexre oldódik: Ni²⁺ + 4 NH₃ = [Ni(NH₃)₄]²⁺. Ez a komplex kék szín."
+    },
+    {
+      "id": 22,
+      "term": "Csapadékképzés szulfidionokkal",
+      "definition": "A vas(II), kobalt és nikkel ionok szulfidionokkal fekete csapadékokat képeznek: Fe²⁺ + H₂S = FeS + 2 H⁺",
+      "quote": "Fekete csapadékok, FeS, CoS, NiS",
+      "text": "Az FeS, CoS és NiS erős fekete vagy sötét szín szulfidek, amelyek vízben teljesen oldhatatlanak. Ez a tulajdonság használható az ionok kimutatásához és szeparálásához. Az FeS képzés oka az, hogy az S²⁻ ion erős ligand és az FeS nagyon kicsi oldhatósági szorzatú (Ksp)."
+    },
+    {
+      "id": 23,
+      "term": "Vascsoport elemek nyomtávú elemek analízise",
+      "definition": "A vas, kobalt és nikkel analitikai meghatározása hidroxidcsapadékképzéseken, szulfid-csapadékképzéseken és komplexképzéseken alapul.",
+      "quote": "Egyedi színek, specifikus reagensek",
+      "text": "Az egyes ionok eltérő szín-nyomtávú: vas(II) halványzöld, vas(III) sárga-barna, kobalt rózsaszín, nikkel zöld. Ezek a különbségek lehetővé teszik az ionok identifikálását és szeparálását. A nyomtávú analízisben az OH⁻, S²⁻ és NH₃ reagenseket alkalmazzák az ionok kimutatásához."
+    }
+  ]
+}

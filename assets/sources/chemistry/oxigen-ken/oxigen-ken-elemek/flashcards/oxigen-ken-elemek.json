@@ -1,0 +1,207 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Oxigén (O2) - fizikai tulajdonságok",
+      "definition": "Az oxigén színtelen, szagtalan gáz, amely a levegőnél nagyobb sűrűségű. Az olvadáspontja -218 °C, a forráspontja -183 °C. Kismértékben oldódik vízben. Létfontosságú az élő szervezetek számára.",
+      "quote": "Szagtalan, színtelen gáz",
+      "text": "Az oxigén molekulái (O2) kétatomosak, és kétszeres kovalens kötéssel kapcsolódnak össze. Alacsony hőmérsékleten a molekulák gyenge diszperziós kölcsönhatásokkal tartanak össze. Az oxigén nem éghető, hanem az égést táplálja. Az egyetlen szabad elektron miatt mágneses tulajdonságokkal is rendelkezik."
+    },
+    {
+      "id": 2,
+      "term": "Ózon (O3) - szerkezet és tulajdonságok",
+      "definition": "Az ózon az oxigén háromatomos allotróp módosulata. Kékes színű, szúrós szagú, mérgező gáz, amely a magaslégkörben véd az ultraibolya sugárzástól.",
+      "quote": "Kékes szín, szúrós szag",
+      "text": "Az ózon V alakú molekulájában a töltéseloszlás nem egyenletes. A központi oxigénatom egy egyszeres és egy kettős kötést alakít ki, azonban a π-elektronok delokalizálódnak. Ez enyhén poláris molekulát eredményez. Az olvadáspontja -193 °C, a forráspontja -112 °C."
+    },
+    {
+      "id": 3,
+      "term": "Allotrópia - oxigén és ózon",
+      "definition": "Az allotrópia az azonos elem különböző anyagszerkezetű módosulatainak jelenségét jelenti. Az oxigén és az ózon az oxigén allotróp módosulatai.",
+      "quote": "Azonos elem, eltérő szerkezet",
+      "text": "Az oxigén (O2) és az ózon (O3) ugyanaz az elem, de eltérő molekulaszerkezettel rendelkeznek. Az oxigén stabil, az ózon labilis és bomlékony. Az ózon képződésére az ultraibolya sugárzás és az elektromos kisülések hatnak katalizátorként a légkörben."
+    },
+    {
+      "id": 4,
+      "term": "Kén (S) - fizikai tulajdonságok",
+      "definition": "A kén sárga színű, éghető szilárd anyag. Szobahőmérsékleten 115 °C-on olvad meg. Vízben nem oldódik. Az S8 molekulák korona alakú szerkezetet alkotnak.",
+      "quote": "Sárga, éghető szilárd",
+      "text": "A kén szobahőmérsékleten nyolcatomos (S8) gyűrűs molekulákat alkot. Az atomok között egyszeres kovalens kötések vannak. Szilárd és cseppfolyós halmazállapotban diszperziós kölcsönhatások tartják össze a molekulákat. A kénnek több allotróp módosulata van: rombos kén, monoklin kén, amorf kén."
+    },
+    {
+      "id": 5,
+      "term": "Kén olvadásakor bekövetkező viszkozitás-változás",
+      "definition": "Az olvadt kén viszkozitása hőmérséklettől függően változik: 115 °C-on alacsony, majd magasabb hőmérsékleten megnő, végül ismét csökken. Ez a hosszú szulfidlánc képződésének és felszakadásának köszönhető.",
+      "quote": "Három viszkozitási fázis",
+      "text": "Alacsony hőmérsékleten az S8 gyűrűk könnyen elcsúsznak egymáson (kicsi viszkozitás). Magasabb hőmérsékleten a gyűrűk felnyílnak és hosszú láncokat képeznek, amelyek összegabalyodnak (nagy viszkozitás). Még magasabb hőmérsékleten a láncok felszakadnak és kevésbé gabalyodnak (csökkent viszkozitás)."
+    },
+    {
+      "id": 6,
+      "term": "Amorf kén",
+      "definition": "Az amorf kén az olvadt ként hirtelen lehűtésével készül. Nyúlós, gumiszerű anyag, amely idővel kikristályosodik és elveszíti rugalmasságát.",
+      "quote": "Gumiszerű, nem kristályos",
+      "text": "Ha az olvadt ként hideg vízbe öntjük, nincs idő a szabályos kristályszerkezet kialakulására. Az így képződött amorf kén rendezetlen szerkezetű és rugalmas. Az amorf szerkezet idővel átalakulhat rombos kénné, amely már rideg és kevésbé rugalmas."
+    },
+    {
+      "id": 7,
+      "term": "Oxigén előfordulása",
+      "definition": "Az oxigén elemi állapotban a légkörben található meg, aránya megközelítőleg 21 térfogatszázalék. Vegyületek formájában vízben, karbonát- és szilikáttartalmú kőzetekben, illetve élő szervezetekben fordul elő.",
+      "quote": "21% a légkörben",
+      "text": "Az oxigén a Föld leggyakoribb eleme. Elemi formában elsősorban a légkörben fordul elő. Kötött formában az összes oxidban, vízben, szénhidrátokban, fehérjékben és számos más szerves és szervetlen vegyületben jelen van."
+    },
+    {
+      "id": 8,
+      "term": "Ózonréteg és UV-sugárzás védelme",
+      "definition": "Az ózonréteg a magaslégkörben a nap ultraibolya sugárzása és villámlás hatására képződik. Csökkenti a földfelszínre érő UV-sugárzás mennyiségét, így védi az élő szervezeteket.",
+      "quote": "UV-védelmi réteg",
+      "text": "Az ózonréteg az ózonlékekben megsérült. Ez az 'ózonlyuk' az elmúlt évtizedekben hozzájárult az UV sugárzás által okozott bőrrákos esetek számának növekedéséhez. Az alacsonyabb légköri rétegekben keletkező ózon a légszennyezés miatt szmog része és lokálisan mérgező."
+    },
+    {
+      "id": 9,
+      "term": "Kén előfordulása",
+      "definition": "A kén elemi állapotban kéntelepeken fordul elő, amely vulkáni tevékenység közelében alakul ki. Vegyületként szulfidok és szulfátok formájában számos ásványban jelen van.",
+      "quote": "Vulkáni szulfidok, szulfátok",
+      "text": "A kén elemi formájában ritka, de vulkáni vidékeken nagyobb mennyiségben megtalálható. Leginkább szulfid ásványok (például pirit, cinkblenda) és szulfát ásványok (például gipsz, barit) formájában fordul elő. A kéntartalmú szervesanyagok bomlása során természetes kénhidrogén képződik."
+    },
+    {
+      "id": 10,
+      "term": "Oxigén előállítása - ipari módszer",
+      "definition": "Oxigéngázt az iparban a levegő cseppfolyósításával és frakcionált desztillációjával állítanak elő. Ez az eljárás a legjelentősebb oxigéntermelési módszer.",
+      "quote": "Levegő frakcionálása",
+      "text": "Az eljárás során a levegőt -200 °C alá lehűtik, cseppfolyósítják, majd frakcionált desztillációval szétválasztják az oxigént, nitrogént és más gázokat. Az oxigén magasabb forráspontja miatt később válnak le. Ez az ipari termelés 90%-át adja."
+    },
+    {
+      "id": 11,
+      "term": "Oxigén előállítása - laboratóriumi módszerek",
+      "definition": "Laboratóriumban oxigén előállítható víz elektrolízisével, hidrogén-peroxid bontásával vagy kálium-permanganát hevítésével.",
+      "quote": "H2O2 bontás, KMnO4",
+      "text": "Víz elektrolízisével: 2 H2O → 2 H2 + O2 (elektrolízis). Hidrogén-peroxid bontásával: 2 H2O2 → 2 H2O + O2 (mangán-dioxid katalizátorral). Kálium-permanganát hevítésével: 2 KMnO4 → K2MnO4 + MnO2 + O2."
+    },
+    {
+      "id": 12,
+      "term": "Kén előállítása - laboratóriumi módszer",
+      "definition": "Laboratóriumban kén előállítható, ha kén-hidrogénes vízbe kéndioxid-gázt vezetünk. A kén finom eloszlású csapadékként válik ki.",
+      "quote": "H2S és SO2 reakció",
+      "text": "A reakció: 2 H2S + SO2 = 3 S + 2 H2O. Ez az eljárás kén-hidrogén jelenlétében működik, amely a kéndioxid redukálását okozza. A keletkező elemi kén sárga csapadékként választódik ki az oldatból."
+    },
+    {
+      "id": 13,
+      "term": "Oxigén - oxidálószer tulajdonság",
+      "definition": "Az oxigén a legjobb oxidálószerek közé tartozik. Számos nemfémes és fémes elemmel közvetlenül reagál, amikor az égés során oxidok keletkeznek.",
+      "quote": "Legerősebb oxidálószer",
+      "text": "Az oxigén magas elektronegativitása miatt az oxidációs száma - általában -2. Ez az egyik legerősebb oxidálószer. Hidrogénnel robbanóelegyet (durranógáz) alkot. Nemfémekkel oxidok keletkeznek: kén SO2-vé, foszfor P2O5-vé, szén CO2-vé oxidálódik."
+    },
+    {
+      "id": 14,
+      "term": "Fémek oxidációja oxigénben",
+      "definition": "A fémek jelentős része szintén elégethető levegőn vagy tiszta oxigénben, fém-oxidok keletkezésével. Egy részük szobahőmérsékleten is lassan reagál az oxigénnel.",
+      "quote": "Fémek éghetők oxigénben",
+      "text": "Ha a fémen egybefüggő, tömör oxidréteg alakul ki, az megvédi a fémet a további oxidációtól (például alumínium). A vas felületén a porózus oxidréteg nem biztosít védelmet, így a fém rozsdásodik. Magnézium és vas élénk tűzzel ég oxigénben."
+    },
+    {
+      "id": 15,
+      "term": "Oxigén kimutatása",
+      "definition": "Az oxigén kimutatása a parázsló gyújtópálcára alapul. Az oxigén tiszta oxigénben intenzívebb égést okoz, mint levegőn, így lángra lobbantja a gyújtópálcát.",
+      "quote": "Parázsló pálca lángra lobbant",
+      "text": "A parázsló gyújtópálcát oxigénbe helyezve az élénk égés gyorsan lángra lobbantja a fát. Ez az eljárás a szén-monoxid-oxigén keverékekben nem működik, mivel a CO nem ad vizuális jelet. Az oxigén jelenlétét így lehet egyértelműen igazolni."
+    },
+    {
+      "id": 16,
+      "term": "Szén-monoxid oxidációja",
+      "definition": "Az oxigén a szén-monoxidot szén-dioxiddá oxidálja. Ez a folyamat a szénmonoxid-mérgezés veszélyességét csökkenti az oxigénben vagy levegőben.",
+      "quote": "CO → CO2 oxidációja",
+      "text": "A reaction: 2 CO + O2 = 2 CO2. Ez redoxireakció, ahol a szén oxidációs száma +2-ről +4-re nő. Ez az oxidáció különösen katalizátorok jelenlétében gyorsan lejátszódik, ezért az autókban katalizátorok találhatók."
+    },
+    {
+      "id": 17,
+      "term": "Kén egyszerű égése",
+      "definition": "Ha a ként levegőn vagy oxigénben meggyújtjuk, kékes lánggal ég és kén-dioxid képződik. A kén az oxigénnél kevésbé reaktív.",
+      "quote": "Kékes láng, SO2 képződik",
+      "text": "Az egyenletek: S + O2 = SO2. A folyamat során a kén +4-es oxidációs számmal rendelkező SO2 képződik. A páratartalom és az égés hőmérséklete befolyásolhatja a termékeket, de csak SO2 a tipikus termék megfelelő oxigén mennyiség mellett."
+    },
+    {
+      "id": 18,
+      "term": "Kén és fém reakciója",
+      "definition": "A kén az oxigénnél kevésbé reaktív. Melegítéskor például a cinkkel reagál, cink-szulfid (ZnS) keletkezik.",
+      "quote": "Zn + S = ZnS",
+      "text": "A kén melegítés nélkül nem reagál jelentősen a fémeknél. Azonban melegítéskor szulfidok képződnek. Például: Zn + S → ZnS (melegítéskor). Ez redoxireakció, ahol a kén -2-es oxidációs számot kap."
+    },
+    {
+      "id": 19,
+      "term": "Elemi oxigén felhasználása - orvosi célok",
+      "definition": "Az oxigént orvosi alkalmazásoknál lélegeztetésre használják altatás közben és tüdőbetegeknél. Hipoxi (oxigénhiány) kezelésére és légzési elégtelenség támogatására szolgál.",
+      "quote": "Orvosi lélegeztetés",
+      "text": "Az oxigént égetett betegek kezelésénél, szívbetegségeknél, tüdőbetegségeknél és aneszteziában használják. Az oxigénterápia a vérben az oxigén-szintet normalizálja. Az intenzív terápián a betegek gyakran kapnak magas oxigén-koncentrációjú gázt."
+    },
+    {
+      "id": 20,
+      "term": "Elemi oxigén felhasználása - egyéb alkalmazások",
+      "definition": "Az oxigént búvárfelszerelésben, hegesztésben és egyéb ipari alkalmazásokban használnak. Az acetilénnel keverve magas hőmérsékletű láng állítható elő.",
+      "quote": "Búvárfelszerelés, hegesztés",
+      "text": "A búvárfelszerelésben az oxigén és más gázok megfelelő arányban tartott keverékét használják. Hegesztésben az oxigén az acetilénnel összekeverve kb. 3000 °C-os lángot hoz létre. Ezt oxy-acetilén hegesztésnek hívják."
+    },
+    {
+      "id": 21,
+      "term": "Ózon felhasználása",
+      "definition": "Az ózont ivóvíz, járművek és helyiségek fertőtlenítésére használják. Az ózon oxidáló hatása elpusztítja a baktériumokat és vírusokat.",
+      "quote": "Víz fertőtlenítése",
+      "text": "Az ózon erősen oxidáló hatása alkalmas deszkinfektánsnak. Főleg ivóvíz tisztításában hasznos, ahol az ózonból visszamaradó termékek nem mérgezőek. Az ózonkezelés UV-sugárzás hatására képződik az atomos oxigén által."
+    },
+    {
+      "id": 22,
+      "term": "Elemi kén felhasználása - gumigyártás",
+      "definition": "Az elemi ként a gumigyártásban vulkanizálásra használják. Ez a folyamat a gumi tulajdonságait javítja és merevíti.",
+      "quote": "Vulkanizáció gumigyártásban",
+      "text": "A vulkanizáció a kén és gumi közötti kovalens kötések képzésének folyamata. A kén keresztkötéseket hoz létre a polimer láncok között, ami merevebb és rugalmasabb anyagot eredményez. Ez végbemegy felmelegítéskor."
+    },
+    {
+      "id": 23,
+      "term": "Elemi kén felhasználása - kénsavgyártás",
+      "definition": "Az elemi ként a kénsavgyártásban felhasználják. Az ként elégetik, kéndioxid képződik, ami az alapanyag az iparban.",
+      "quote": "SO2 előállítás",
+      "text": "Az ipari kénsavgyártás első lépése a kén elégetése: S + O2 = SO2. A kéndioxid ezt követően oxigénnel reagál (katalizátor jelenlétében) kén-trioxiddá, amely vízzel kénsavva alakul. Ez az egyik legfontosabb szintézis az iparban."
+    },
+    {
+      "id": 24,
+      "term": "Molekularis szerkezet - O2 és S8",
+      "definition": "Az O2 kétatomos lineáris molekula kettős kötéssel, az S8 nyolcatomos korona alakú gyűrű egyszeres kötésekkel. Az O2 paramágneses, az S8 diamágneses.",
+      "quote": "O2 lineáris, S8 gyűrű",
+      "text": "Az O2 molekulában a kötésrend 2, az S8-ban 1. Az O2 miatt paramágneses marad az elektron-konfigurációjában egy párosítatlan elektron. Az S8 összes elektronja párosított, így diamágneses. Ez magyarázza a mágneses eltéréseket közöttük."
+    },
+    {
+      "id": 25,
+      "term": "Diszperziós kölcsönhatások - O2, O3, S8",
+      "definition": "Az O2, O3 és S8 molekulák szilárd és cseppfolyós halmazállapotban diszperziós kölcsönhatásokkal kapcsolódnak egymáshoz. Ez gyenge intermolekuláris erő a molekulák között.",
+      "quote": "Gyenge intermolekuláris erők",
+      "text": "A diszperziós kölcsönhatások (van der Waals erők) az elektronok pillanatnyi eloszlásából adódnak. Ez magyarázza az alacsony olvadáspontokat és forráspontokat. Az intramolekuláris kovalens kötések sokkal erősebbek, mint az intermolekuláris diszperziós erők."
+    },
+    {
+      "id": 26,
+      "term": "Légköri oxigén-siklus",
+      "definition": "Az oxigén folyamatosan ciklizál a légkörben és a bioszférában. A fotoszintézis termel oxigént, az égés és a bomlás fogyaszt. Az oxigén koncentrációja az átlagosan 21% többé-kevésbé stabil.",
+      "quote": "Oxigén ciklus a Földön",
+      "text": "A növények fotoszintézise CO2-ből és vízből oxigént termel és szénhidrátokat hoz létre. Az aerob szervezetek oxigént fogyasztanak szerves anyagok oxidációjához. Az anaerob bakteriális bomlás szintén oxigén-független folyamatok. Az egyensúly millió évek alatt alakult ki."
+    },
+    {
+      "id": 27,
+      "term": "Elektronszerkezet - oxigén atom",
+      "definition": "Az oxigénatom elektronkonfigurációja: 1s² 2s² 2p⁴. Van két párosítatlan elektron a 2p pályán, amely paramágnesességet okoz az O2 molekulában.",
+      "quote": "1s² 2s² 2p⁴",
+      "text": "Az oxigén 8 elektron, az 1s pályán 2, a 2s pályán 2, a 2p pályán 4 elektron. A 2p⁴ konfiguráció azt jelenti, hogy egy pálya üres, amely az oxigén két párosított elektronjára utal. Az O2 molekula azonban ennek ellenére paramágneses az elektron-pairing miatt."
+    },
+    {
+      "id": 28,
+      "term": "Nemesgáz-szerű stabilitás - oxigén",
+      "definition": "Az oxigén nincs nemesgáz-konfigurációban, hanem elektronokat befogad vagy más elemekkel kötést hoz létre. Oxigén-2-ionként (O²⁻) eléri a neonéhez hasonló konfigurációt.",
+      "quote": "O²⁻ neon-szerű",
+      "text": "Az O2- ion elektronkonfigurációja 1s² 2s² 2p⁶, amely azonos a neon konfigurációjával. Ez a stabilitás magyarázza az oxid-ionok nagy száma az összes anyagban. Az oxigén elektronaffinitása magas."
+    },
+    {
+      "id": 29,
+      "term": "Reaktivitás oxigén és nemesgázok",
+      "definition": "Az oxigén nagyon reaktív, míg a nemesgázok rendkívül inert. Az oxigén hiányában lévő párosítatlan elektronok a nagy reaktivitást okoznak.",
+      "quote": "Oxigén reaktív, nemesgázok inert",
+      "text": "Az oxigén magas elektronegativitása és a párosítatlan elektronok miatt könnyen kötéseket hoz létre. Szinte minden elem oxidálódik oxigén jelenlétében. A nemesgázok teljes vegyértékű pályájuk miatt nem reagálnak."
+    }
+  ]
+}

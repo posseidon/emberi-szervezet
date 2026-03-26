@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "reakciok-es-egyensuly",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az egyenlet 2 H2 + O2 = 2 H2O-ban milyen mólarányban reagálnak a hidrogén és oxigén?",
+      "options": ["1:1", "2:1", "1:2", "3:1"],
+      "answer": "2:1"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ olyan szám, amely az egyensúly helyzetét jellemzi, és a termékek és reaktánsok egyensúlyi koncentrációjainak szorzataiból képzett törtből számítható.",
+      "options": [],
+      "answer": "egyensúlyi állandó"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik folyamat lenne endoterm az alábbiak közül?",
+      "options": ["Kálium-hidroxid oldódása vízben", "Jég olvadása", "Benzin égése", "Sós sav hígítása"],
+      "answer": "Jég olvadása"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Az energiadiagramon az exoterm folyamat milyen szintre süllyedik a termékek szintjére?",
+      "options": ["A reaktánsok szintje felett", "A reaktánsok szintje alatt", "Pontosan azonos szintje", "Az energia fordított tengelyen jelenik meg"],
+      "answer": "A reaktánsok szintje alatt"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A sebességi állandó (k) értéke _____ függ az adott rendszerre.",
+      "options": [],
+      "answer": "csak az adott rendszerre jellemzően"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Melyik az erős exoterm oldódás jellegzetessége?",
+      "options": ["Az edény lehűl", "Az edény felmelegedik", "Az oldódásnál nem történik hőcsere", "A hőmérséklet nem változik"],
+      "answer": "Az edény felmelegedik"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Hogyan számítható ki az oldáshő a rácsenergia és hidratációs energia adataiból?",
+      "options": ["ΔoldhH = Erács + Ehidr", "ΔoldhH = Erács - Ehidr", "ΔoldhH = |Erács| - |Ehidr|", "ΔoldhH = Erács × Ehidr"],
+      "answer": "ΔoldhH = |Erács| - |Ehidr|"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az _____ az az elv, amely szerint az egyensúlyi rendszer kompenzálja a rá kifejtett külső hatásokat.",
+      "options": [],
+      "answer": "legkisebb kényszer"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mit jelent az, ha egy egyensúlyi állandó K > 1?",
+      "options": ["Az egyensúly a reaktánsok felé tolódott", "Az egyensúly a termékek felé tolódott", "Az egyensúly instabil", "Az anyagok egyenlő arányban vannak"],
+      "answer": "Az egyensúly a termékek felé tolódott"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Az ammóniaszintézis reakcióban miért szükséges magas nyomás?",
+      "options": ["A hőmérséklet csökkentésére", "Az előrefelé tolódás segítésére (4 mol gáz → 2 mol)", "Az enzimek aktiválásához", "Az oldószer párolgásának megakadályozásához"],
+      "answer": "Az előrefelé tolódás segítésére (4 mol gáz → 2 mol)"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "A _____ olyan összetett kémiai folyamat, amelynél a molekulák egy közös szabad radikálból sokszorozódnak.",
+      "options": [],
+      "answer": "lángreakció"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Mely esetben nincs az egyensúly helyzetére hatása a nyomás megváltoztatásának?",
+      "options": ["Amikor gázok vezetnek részt", "Amikor az egyenlet mindkét oldalán azonos mennyiségű gáz van", "Amikor exoterm a folyamat", "Amikor katalizátor van jelen"],
+      "answer": "Amikor az egyenlet mindkét oldalán azonos mennyiségű gáz van"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mi az Arrhenius-egyenlet logaritmikus alakja?",
+      "options": ["ln(k) = ln(A) + Ea/RT", "ln(k) = ln(A) - Ea/RT", "log(k) = log(A) - Ea/RT", "ln(k) = Ea/RT"],
+      "answer": "ln(k) = ln(A) - Ea/RT"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az _____ az az energia, amely 1 mól szilárd anyag kristályrácsának teljes felbontásához szükséges gázhalmazállapotú részecskékig.",
+      "options": [],
+      "answer": "rácsenergia"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az első rendű kémiai részfolyamatok mit írnak le az alábbiak közül?",
+      "options": ["Csak a termékek képződésének sebességét", "A sebesség arányos az anyag koncentrációjával", "Az összes elemi lépéseket", "A termodinamikai stabilitást"],
+      "answer": "A sebesség arányos az anyag koncentrációjával"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Melyik folyamat lehet katalizátorral felgyorsítva, de nem lehet az egyensúlyt eltolja?",
+      "options": ["Az endoterm oldódás", "Az exoterm égési folyamatok", "Az H2 + I2 ⇌ 2 HI egyensúly", "A radioaktív bomlás"],
+      "answer": "Az H2 + I2 ⇌ 2 HI egyensúly"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "Az _____ folyamat az, amelynél az anyag energia befektetésére van szükséges.",
+      "options": [],
+      "answer": "endoterm"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "A nem egész együtthatók az egyenletekben mely szempontból nem elfogadhatók?",
+      "options": ["A molekuláris szintű értelmezésben", "A számított arányban", "A sztöchiometriai kalkulációban", "Az ipari alkalmazásban"],
+      "answer": "A molekuláris szintű értelmezésben"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mit fejez ki az egyensúlyi eltolódás az alábbiak közül?",
+      "options": ["Az egyensúly teljes eltűnése", "Az egyensúly makroszkópikus szintű mozgása az egyik vagy másik oldal felé", "Az egyensúly bizonytalan volta", "Az energiaváltozás teljes mértéke"],
+      "answer": "Az egyensúly makroszkópikus szintű mozgása az egyik vagy másik oldal felé"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ olyan műveletek, amelyeknél egy megfordítható folyamatot különböző szakaszokból összerakva az összes energiaváltozások összegezhető az eredmény képzésére.",
+      "options": [],
+      "answer": "indirekt számítások"
+    }
+  ]
+}

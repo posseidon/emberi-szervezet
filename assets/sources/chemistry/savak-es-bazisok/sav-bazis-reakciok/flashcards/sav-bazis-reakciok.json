@@ -1,0 +1,214 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Sav-bázis reakciók jellemzője",
+      "definition": "A sav-bázis reakciókban protonátmenet történik, azaz egy hidrogénion átkerül az egyik molekuláról vagy ionról egy másikra.",
+      "quote": "Protonátmenet történik",
+      "text": "Az ilyen reakciók több típusát ismerjük: savak/bázisokok/oxidok reakciója vízzel, közömbösítés, sók hidrolízise és felszabadítás sóból. A protonátmenet a Brönsted-elméleten alapuló alapvető folyamat."
+    },
+    {
+      "id": 2,
+      "term": "Erős savak és bázisok vízzel",
+      "definition": "A víznél erősebb Brönsted-savak a víznek protont adnak át, a víznél erősebb bázisokok a vízmolekuláktól protont vesznek fel.",
+      "quote": "Protonátmenet vízzel",
+      "text": "Az erős savak és bázisokok esetén a folyamat lejátszódhat közel 100%-ban, míg a gyenge savak és bázisokok egyensúlyra vezetnek. Például a HCl a víznél erősebb sav, így praktikusan teljesen disszociál."
+    },
+    {
+      "id": 3,
+      "term": "Fém-oxidok és víz: lúgos oxid",
+      "definition": "Egyes fém-oxidok vízzel reagálnak, és az oldatuk lúgos kémhatású lesz, mivel az oxidionok protont vesznek fel a vízmolekuláktól.",
+      "quote": "O2– + H2O → 2 OH–",
+      "text": "A bázisos oxidok (vagy bázisanhydridek) a víz oxidionjainak hidrolízisén keresztül hidroxidionokat eredményeznek. Például a kalcium-oxid (CaO) vízzel reagálva kalcium-hidroxidot [Ca(OH)2] képez, amely feloldódik a vízben és lúgos oldatot hoz létre."
+    },
+    {
+      "id": 4,
+      "term": "Kalcium-oxid vízzel való reakciója",
+      "definition": "A kalcium-oxid (CaO) vízzel reagálva kalcium-hidroxidot [Ca(OH)2] képez, amely egy erős bázis.",
+      "quote": "CaO + H2O → Ca(OH)2",
+      "text": "Ez az egy erős exoterm reakció, amely jelentős hőfejlesztéssel jár. A kalcium-hidroxid (oltott mész) az oldatban feloldódik és lúgos oldatot hoz létre, amely számos alkalmazással rendelkezik az építőiparban és a kémiában."
+    },
+    {
+      "id": 5,
+      "term": "Nemfém-oxidok és víz: savas oxid",
+      "definition": "Néhány nemfém-oxid vízzel való reakciójában sav keletkezik, ezek az úgynevezett savas oxidok vagy savanhidridek.",
+      "quote": "Savas oxid + H2O",
+      "text": "A savas oxidok közül a szén-dioxid (CO2), a kén-dioxid (SO2) és a kén-trioxid (SO3) a legfontosabbak. Az SO3 vízhez adódva szulfát savat (H2SO4) képez, amely az egyik legfontosabb ipari vegyület."
+    },
+    {
+      "id": 6,
+      "term": "Kén-trioxid vízzel való reakciója",
+      "definition": "A kén-trioxid (SO3) vízzel reagálva kénsavat (H2SO4) képez, amely az egyik legerősebb egyértékű sav.",
+      "quote": "SO3 + H2O = H2SO4",
+      "text": "Ez az egy erős exoterm reakció, amely jelentős hőfejlesztéssel jár. A kénsav az egyik legfontosabb vegyer az iparban, sok alkalmazással rendelkezik az elemzésből az akkumulátorokon keresztül az ásványi savas gyártásáig."
+    },
+    {
+      "id": 7,
+      "term": "Közömbösítés: alapvető definíciója",
+      "definition": "A közömbösítés az a folyamat, amikor egy sav oldatába lúgot öntünk, és a sav és bázis reakcióba lépnek egymással, csökkentve az oldat savassága.",
+      "quote": "Sav + bázis → só",
+      "text": "A közömbösítés általános képlete: sav + bázis → só (+ víz). A folyamat addig tart, amíg az összes sav el nem reagál. A keletkezett oldatot közömbösítési oldatnak hívjuk, amely különféle kémhatással rendelkezhet az összetételétől függően."
+    },
+    {
+      "id": 8,
+      "term": "Nátrium-hidroxid és kénsav közömbösítése",
+      "definition": "A nátrium-hidroxid és a kénsav közömbösítésekor nátrium-szulfát és víz keletkezik.",
+      "quote": "2 NaOH + H2SO4 = Na2SO4 + 2 H2O",
+      "text": "Ez egy egyszerű közömbösítési reakció, amely megmutatja, hogy egy kétértékű sav (H2SO4) közömbösítéséhez az eredeti mennyiségű bázisnál két szeres bázisor szükséges. A nátrium-szulfát (Na2SO4) egy semleges só, így a végső oldat semlegese kémhatású (ha az aránya pontos)."
+    },
+    {
+      "id": 9,
+      "term": "A só fogalma a sav-bázis kémiában",
+      "definition": "A kémiában a só nem csak a nátrium-kloridot jelenti, hanem minden olyan ionvegyületet, amely sav és bázis reakciójában keletkezik.",
+      "quote": "Sav-bázis termék",
+      "text": "Például a nátrium-szulfát (Na2SO4) a nátrium-hidroxid és a kénsav sója, még ha nem is a mindennapi étkezési sóról van szó. A sók megjelenhetnek semleges, savas vagy lúgos oldatban a hidrolízis függvényében."
+    },
+    {
+      "id": 10,
+      "term": "Ammónia közömbösítése sósavval",
+      "definition": "Az ammónia (NH3) és a sósav (HCl) közömbösítésekor ammónium-klorid (NH4Cl) és víz keletkezik.",
+      "quote": "HCl + NH3 = NH4Cl",
+      "text": "Ez az egy közömbösítési reakció, amelyben nem víz keletkezik közvetlenül, bár az ammónium-ion a vízben magában is keletkezik: H3O+ + NH3 → NH4+ + H2O. Ez azt mutatja, hogy a közömbösítés nem mindig vezethet semleges oldathoz."
+    },
+    {
+      "id": 11,
+      "term": "Többértékű savak közömbösítése",
+      "definition": "Ha többértékű savakat közömbösítünk, a másik reakciópartnerből arányosan több szükséges az összes proton leadésének biztosításához.",
+      "quote": "Arányos mennyiség",
+      "text": "Például a nátrium-hidroxid és a kénsav (H2SO4, kétértékű sav) közömbösítésekor 2 mol NaOH szükséges 1 mol H2SO4-re. A foszforsav (H3PO4, háromértékű sav) közömbösítésekor 3 mol NaOH szükséges. Az arány a sav értékétől függ."
+    },
+    {
+      "id": 12,
+      "term": "Közömbösítés oxiddal: kalcium-hidroxid helyett",
+      "definition": "A közömbösítési reakcióban a bázis helyett oxid is használható, ha az ugyanolyan bázisos komponenseket tartalmazza.",
+      "quote": "Oxid helyett bázisos",
+      "text": "Például a kalcium-hidroxid helyett kalcium-oxidot (CaO) lehet használni. A CaO és CO2 (szénsav helyett) közömbösítésekor kalcium-karbonát (CaCO3) és víz keletkezik: Ca(OH)2 + H2CO3 = CaCO3 + 2 H2O, vagy CaO + H2CO3 = CaCO3 + H2O, vagy Ca(OH)2 + CO2 = CaCO3 + H2O."
+    },
+    {
+      "id": 13,
+      "term": "Példa: kalcium-hidroxid és szénsav",
+      "definition": "A kalcium-hidroxid és a szénsav közömbösítésekor kalcium-karbonát és víz keletkezik.",
+      "quote": "Ca(OH)2 + H2CO3 = CaCO3 + 2 H2O",
+      "text": "Egy ilyen közömbösítési reakciót többféleképpen lehet megvalósítani: a bázis és sav helyett oxid és savas oxid is használható, vagy a gázok közvetlenül reagáltathatók."
+    },
+    {
+      "id": 14,
+      "term": "Sók hidrolízise: alapvető koncepció",
+      "definition": "A sók hidrolízise az a folyamat, amikor egy só ionjai vízzel reagálnak és kémhatás-változást okoznak az oldatban.",
+      "quote": "Só + víz = kémhatás",
+      "text": "Hidrólízis akkor fordul elő, ha valamelyik ionja gyenge savból vagy bázisból származik. Az ilyen ionok képesek protont venni fel vagy leadni a vízmolekulákból, aminek következtében az oldat savas vagy lúgos lesz, annak ellenére, hogy a közömbösítési folyamat teljes volt."
+    },
+    {
+      "id": 15,
+      "term": "Semleges oldatnak nem feltétlenül semleges sója",
+      "definition": "Ha a közömbösítési reakció teljes mértékben lejátszódott, az oldat ettől függetlenül nem biztos, hogy semleges kémhatású lesz.",
+      "quote": "Hidrolízis: nem semleges",
+      "text": "A keletkezett só is képes reagálni a vízzel, ami az eredeti oldatnál gyengébben savas vagy lúgos kémhatást okozhat. Ezt a jelenséget sók hidrolízisének nevezzük, amely az egyik összetettebb sav-bázis jelenség."
+    },
+    {
+      "id": 16,
+      "term": "Erős sav + erős bázis sójának kémhatása",
+      "definition": "Az erős sav és erős bázis sójának vizes oldata semleges kémhatású, mert egyik ion sem reagál az oldót vízzel.",
+      "quote": "Semleges oldat",
+      "text": "Például a nátrium-klorid (NaCl), amely a nátrium-hidroxid és a sósav sója, semleges oldatot hoz létre. A Na+ és Cl– ionok nem fejlesztik a hidrolízist, mert a NaOH és HCl erős vegyületek."
+    },
+    {
+      "id": 17,
+      "term": "Gyenge sav + erős bázis sójának kémhatása",
+      "definition": "A gyenge sav és erős bázis sójának vizes oldata lúgosan hidrolizál, mert a savmaradékion (anion) protont vesz fel a vízből.",
+      "quote": "Lúgos hidrolízis",
+      "text": "Például a nátrium-acetát (CH3COONa) lúgos oldatot hoz létre, mert az acetát-ion (CH3COO–) a vízből protont vesz fel: CH3COO–(aq) + H2O ⇌ CH3COOH(aq) + OH–(aq). Az OH– ion felszabadulása lúgos oldatot eredményez."
+    },
+    {
+      "id": 18,
+      "term": "Erős sav + gyenge bázis sójának kémhatása",
+      "definition": "Az erős sav és gyenge bázis sójának vizes oldata savasan hidrolizál, mert a bázis kationja protont vesz fel a vízből.",
+      "quote": "Savas hidrolízis",
+      "text": "Például az ammónium-klorid (NH4Cl) savas oldatot hoz létre, mert az ammónium-ion (NH4+) a vízből protont vesz fel: NH4+(aq) + H2O ⇌ NH3(aq) + H3O+(aq). A H3O+ ion felszabadulása savas oldatot eredményez."
+    },
+    {
+      "id": 19,
+      "term": "Gyenge sav + gyenge bázis sójának kémhatása",
+      "definition": "A gyenge sav és gyenge bázis sójának kémhatása az adott sav és bázis egymáshoz viszonyított erősségétől függ.",
+      "quote": "Viszonylagos erősség",
+      "text": "Ha a sav erősebb, mint a bázis, az oldat savas lesz, ha a bázis erősebb, az oldat lúgos lesz. Ez az összetettebb hidrolízis-típus, amelynél mindkét hidrolízis-folyamat lehetséges, de az egyik dominál."
+    },
+    {
+      "id": 20,
+      "term": "Acetát-ion hidrolízise",
+      "definition": "Az acetát-ion (CH3COO–) a nátrium-acetátból származó anion, amely a vízből protont vesz fel és acetaticsavat képez.",
+      "quote": "CH3COO– + H2O ⇌ CH3COOH + OH–",
+      "text": "Az acetát-ion a gyenge ecetsav (CH3COOH) savmaradéka, így a vízben képes a hidrogénion felvételére. Az oldatban keletkező hidroxidionok lúgos kémhatást okoznak."
+    },
+    {
+      "id": 21,
+      "term": "Ammónium-ion hidrolízise",
+      "definition": "Az ammónium-ion (NH4+) az ammónia (NH3) és a sósav közömbösítéséből származik, amely a vízhez protont ad és oxóniumiont képez.",
+      "quote": "NH4+ + H2O ⇌ NH3 + H3O+",
+      "text": "Az ammónium-ion a gyenge bázis (NH3) konjugált savja, így a vízben képes a protont leadásra. Az oldatban keletkező oxóniumionok savas kémhatást okoznak."
+    },
+    {
+      "id": 22,
+      "term": "Felszabadítás sóból: gyengébb savé",
+      "definition": "Ha a vízkőre (CaCO3) sósavat öntünk, a kalcium-karbonát a szénsav soja, amiből felszabadul a szénsav a nála erősebb sav (a sósav) hatására.",
+      "quote": "CaCO3 + 2 HCl = H2CO3 + CaCl2",
+      "text": "A szabad szénsav bomlékony, főleg savas közegben, így a szén-dioxid felszabadulása látható (pezsgés). Ez az egy klasszikus demonsztrációja annak, hogy az erősebb sav felszabadítja a gyengébb savat a sójából."
+    },
+    {
+      "id": 23,
+      "term": "Szénsav bomlása és pezsgés",
+      "definition": "A szénsav bomlékony vegyület, amely könnyen szén-dioxidra és vízre bomlik, különösen savas közegben.",
+      "quote": "H2CO3 = H2O + CO2",
+      "text": "A szén-dioxid gázfelszabadulása okozza a pezsgést, amelyet vízkőoldozásnál vagy porozitásos italoknál tapasztalunk. A szénsav vízben való oldódása reverzibilis: CO2 + H2O ⇌ H2CO3"
+    },
+    {
+      "id": 24,
+      "term": "Általános szabály: gyengébb savé a felszabadítása",
+      "definition": "Általánosan igaz, hogy egy gyengébb sav sóját erősebb savval reagáltatva felszabadul a gyengébb sav, és az erősebb sav sója keletkezik.",
+      "quote": "Erős sav kiszorítja",
+      "text": "Képlete: gyengébb sav soja + erősebb sav → gyengébb sav + erösebb sav soja. Például a nátrium-acetátra kénsavat öntve savanyú szagot érzünk a sójából felszabaduló ecetsav miatt: 2 CH3COONa + H2SO4 → 2 CH3COOH + Na2SO4"
+    },
+    {
+      "id": 25,
+      "term": "Nátrium-acetát és kénsav: ecetsav felszabadítása",
+      "definition": "A nátrium-acetát és a kénsav közömbösítésekor ecetsav szabadul fel a nátrium-szulfát sójából.",
+      "quote": "2 CH3COONa + H2SO4 → 2 CH3COOH + Na2SO4",
+      "text": "Az ecetsav szagú anyag a szabad ecetsav, amely felszabadult a sójából. Ez a klasszikus demonsztrációja annak, hogy az erősebb sav (kénsav) kiszorítja a gyengébb savat (ecetsav) a sójából."
+    },
+    {
+      "id": 26,
+      "term": "Bázis felszabadítása sóból",
+      "definition": "A gyenge bázist fel lehet szabadítani a sójából egy nála erősebb bázis segítségével.",
+      "quote": "Erős bázis kiszorítja",
+      "text": "Az ammónia laboratóriumi előállításának egyik módszere, hogy ammónium-kloridot (NH4Cl) tömény nátrium-hidroxid oldattal melegítünk: NH4Cl + NaOH → NH3 + H2O + NaCl. Az ammónia felszabadulása feltűnő szag alapján detektálható."
+    },
+    {
+      "id": 27,
+      "term": "Ammónia felszabadítása: labor előállítása",
+      "definition": "Az ammónia laboratóriumi előállítása ammónium-klorid és nátrium-hidroxid melegítésével történik, amely szabad ammóniagázt eredményez.",
+      "quote": "NH4Cl + NaOH → NH3 + H2O + NaCl",
+      "text": "Ez a klasszikus reaktív a gyenge bázis sójából történő felszabadítására. A nátrium-hidroxid erős bázis, amely szétválasztja az ammónium-ionot és hidroxidionokra, amely ammóniagáz fejlesztésének gyakorlati módszere a laboratóriumban."
+    },
+    {
+      "id": 28,
+      "term": "Savak és bázisokok természeti előfordulása",
+      "definition": "A savak és bázisokok előfordulnak a természetben és a mindennapi életben, mint például sósav a gyomorban, ecetsav a konyhaecetben és szódabikarbóna a sütőporban.",
+      "quote": "Mindenütt jelen vannak",
+      "text": "Az ecetsav a szőlőben és az almában is előfordulhat. A citromsav a citrustermékekben van. A borkősav a borban. A kénsav az akkumulátorokban. A szódabikarbóna (NaHCO3) a sütőporban a savmegkötő szerként működik. Ezek a hétköznapi alkalmazások mutatják a sav-bázis kémia gyakorlati jelentőségét."
+    },
+    {
+      "id": 29,
+      "term": "Sav-bázis indikátorok a gyakorlatban",
+      "definition": "A sav-bázis indikátorok alkalmazásai közé tartozik a laboratóriumi analízis, a közömbösítési analízis és a pH-monitorozás.",
+      "quote": "Indikátorok a gyakorlatban",
+      "text": "Az indikátorok lehetnek oldatok vagy papírok (pH-papír), amelyek a kémhatás függvényében színt változtatnak. A laboratóriumban az indikátorok segítségével lehet a közömbösítés végpontját meghatározni a titrálás során."
+    },
+    {
+      "id": 30,
+      "term": "Titrálás: közömbösítési analízis",
+      "definition": "A titrálás az a laboratóriumi eljárás, amelyben az egyik oldat térfogatát adagolva a másikhoz, amíg a jelzőoszínváltozása vagy az indikátor szín-változása azt jelzi, hogy a közömbösítés megtörtént.",
+      "quote": "Térfogat-mérés a végpontig",
+      "text": "A titrálás segítségével meg lehet határozni az oldatok koncentrációját, csont feltétele, hogy ismerjük az egyik oldat pontos koncentrációját. Az indikátor végpontja a közömbösítési végponttal nem azonos, ezért az indikátor kiválasztása fontos."
+    }
+  ]
+}

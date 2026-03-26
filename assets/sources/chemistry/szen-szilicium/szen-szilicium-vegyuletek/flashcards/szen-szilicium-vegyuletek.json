@@ -1,0 +1,242 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Milyen gáz a szén-monoxid?",
+      "definition": "A szén-monoxid (CO) színtelen, szagtalan, mérgező gáz, amely háromszoros kovalens kötésből áll az összetevői között (egy datív kötés).",
+      "quote": "Mérgező, színés szagtalan gáz",
+      "text": "A CO-t veszélyessé teszi, hogy erősebben kötődik a hemoglobinhoz, mint az oxigén, ami fulladást okoz. A molekula gyakorlatilag apoláris, ezért nem oldódik vízben."
+    },
+    {
+      "id": 2,
+      "term": "Mi a szén-monoxid kötésének szerkezete?",
+      "definition": "A szén-monoxid egy háromszoros kovalens kötésből áll, amely egy σ kötésből és két π kötésből áll, az egyik datív kötés az oxigén nemkötő elektronpárjából.",
+      "quote": "Háromszoros kötés, egy datív kötés",
+      "text": "Az elektronegativitás-különbség ellenére a datív kötés miatt a molekula nem polaris. Ez magyarázza az alacsony oldhatóságot és az apolar karaktert."
+    },
+    {
+      "id": 3,
+      "term": "Miért mérgező a szén-monoxid?",
+      "definition": "A CO a hemoglobinhoz erősebben kötődik, mint az oxigén, meggátolva az oxigén szállítását, ami fulladást okoz.",
+      "quote": "Hemoglobinhoz erősebb kötődés mint az oxigén",
+      "text": "Még alacsony koncentrációban is veszélyes, mert a hemoglobin szinte visszafordíthatatlanul kapcsolódik hozzá. Ez a fő oka a szénmonoxid-mérgezésnek."
+    },
+    {
+      "id": 4,
+      "term": "Hol fordul elő a szén-monoxid a természetben?",
+      "definition": "A szén-monoxid szén és szénhidrogén tökéletlen (oxigénhiányos) égése során keletkezik, encontrándose a járművek kipufogógázában és a dohányfüstben.",
+      "quote": "Tökéletlen szénégés terméke",
+      "text": "Az iparban és háztartásban szén-monoxid-mérgezés gyakran télen jelentkezik, amikor a fűtőberendezések nincsenek megfelelően szellőztetve."
+    },
+    {
+      "id": 5,
+      "term": "Milyen feltételek vezetnek szén-monoxid-mérgezéshez?",
+      "definition": "Szén-monoxid-mérgezés nyílt égésterű készülékekből, légzáró ablakokból és nincsen szellőztetésből, valamint rossz kéményből ered.",
+      "quote": "Rossz szellőzés és nyílt égésterű készülékek",
+      "text": "A CO nem szellőzthető ki a helyiségből, ha nincsen megfelelő oxigénutánpótlás és az égéstermék eltávozási útja. Ez a fő okozó a szénmonoxid-mérgezéseknek."
+    },
+    {
+      "id": 6,
+      "term": "Hogyan állítják elő a szén-monoxidot az iparban?",
+      "definition": "Az iparban metán és vízgőz reakciójával állítják elő, így a hidrogén és szén-monoxid keverékét, azaz szintézisgázt kapnak.",
+      "quote": "Metán és vízgőz szintézisgázzá",
+      "text": "A reakció egyenlete: CH₄ + H₂O = CO + 3 H₂ Ezt a szintézisgázt számos szintézishez használják, például metanol és egyéb kémiai anyagok előállításához."
+    },
+    {
+      "id": 7,
+      "term": "Hogyan állítják elő a szén-monoxidot laboratóriumban?",
+      "definition": "Laboratóriumban hangyasav és tömény kénsav reakciójával, ahol a kénsav vízelvonószerként működik.",
+      "quote": "Hangyasav és tömény kénsav",
+      "text": "A kénsav ezt a reakciót katalizálja és a vizet eltávolítja. Az egyenlet: HCOOH → CO + H₂O"
+    },
+    {
+      "id": 8,
+      "term": "Írja fel a szén-monoxid égésének egyenletét!",
+      "definition": "CO + ½ O₂ = CO₂ (vagy 2 CO + O₂ = 2 CO₂) szén-dioxid keletkezik égéskor",
+      "quote": "Szén-monoxid éghető gáz",
+      "text": "Az égés során szén-monoxid szén-dioxiddá alakul. Ez az exoterm reakció, amely energiát felszabadít."
+    },
+    {
+      "id": 9,
+      "term": "Milyen redukálószerként működik a szén-monoxid?",
+      "definition": "A szén-monoxid redukálószer, amely vas(III)-oxidot magasabb hőmérsékleten elemi vassá redukálja a vasgyártásban.",
+      "quote": "Vas(III)-oxidot redukálja vas-monoxiddá",
+      "text": "A CO az oxigént megköti az oxidokból, felszabadítva az elemi fémet. Ez az acélgyártás és vasgyártás kulcslépése."
+    },
+    {
+      "id": 10,
+      "term": "Milyen halmazállapotú a szén-dioxid szobahőmérsékleten?",
+      "definition": "A szén-dioxid (CO₂) szobahőmérsékleten gáz, színtelen, szagtalan, a levegőnél nagyobb sűrűségű, amely nem táplálja az égést.",
+      "quote": "Szagtalan, égést nem támogató gáz",
+      "text": "A CO₂ linear szerkezetű, emiatt apoláris. Szilárd formája (szárazjég) -78°C-on szublimál, fehér színű és törékenyen mozog."
+    },
+    {
+      "id": 11,
+      "term": "Milyen szerkezete van a szén-dioxidnak?",
+      "definition": "A szén-dioxid lineáris szerkezetű (O=C=O), emiatt apoláris molekula, amely nem oldódik vízben vagy más poláris oldószerekben.",
+      "quote": "Lineáris, apoláris szerkezet",
+      "text": "A lineáris szerkezet azt jelenti, hogy a dipolmomentumok szimmetrikusan kioltódnak, ahogy az apoláris molekulára jellemző."
+    },
+    {
+      "id": 12,
+      "term": "Mi a szárazjég és milyen hőmérsékleten szublimál?",
+      "definition": "A szárazjég a szilárd szén-dioxid, fehér színű, törékenyi anyag, amely -78°C-on szublimál (közvetlenül gázá alakul).",
+      "quote": "Szilárd CO₂, -78°C-on szublimál",
+      "text": "A szárazjég hasonlít a vízjéghez, de jóval hidegebb. Szublimálása alatt nem olvad meg, hanem közvetlenül gázá alakul."
+    },
+    {
+      "id": 13,
+      "term": "Hol fordul elő a szén-dioxid a természetben?",
+      "definition": "A szén-dioxid az élő szervezetek légzése során keletkezik, a légkörben megtalálható, és fosszilis tüzelőanyagok égetésekor nagy mennyiségben kerül a levegőbe.",
+      "quote": "Légzési termék és üvegházhatású gáz",
+      "text": "A CO₂ globális felmelegedéshez hozzájárulva az üvegházhatást okozza. Alkoholos erjedéskor is keletkezik, néha veszélyesen felgyűl szellőzetlen helyeken."
+    },
+    {
+      "id": 14,
+      "term": "Mi az üvegházhatás?",
+      "definition": "Az üvegházhatás az, hogy a CO₂ és más gázok elnyelik és újra kibocsátják a Földről a világűrbe sugárzó hőenergiát, növelve a Föld átlaghőmérsékletét.",
+      "quote": "Hő visszatartása a légkörben",
+      "text": "Ez a folyamat a globális felmelegedéshez és az éghajlatváltozáshoz vezet. A CO₂ az egyik legfontosabb üvegházhatású gáz."
+    },
+    {
+      "id": 15,
+      "term": "Hogyan állítják elő a szén-dioxidot laboratóriumban?",
+      "definition": "Laboratóriumban karbonátok (pl. mészkő) és erős savak (pl. sósav) reakciójával, például: CaCO₃ + 2 HCl = CO₂ + CaCl₂ + H₂O",
+      "quote": "Mészkő és sósav CO₂-t termel",
+      "text": "Ez a módszer egyszerű és elég biztonságos laboratóriumi körülmények között. A szén-dioxid felszabadul a karbonát bomlásából."
+    },
+    {
+      "id": 16,
+      "term": "Mi a szén-dioxid ipari előállítási módja?",
+      "definition": "Ipari célra a földgázból nyert szén-dioxidot hasznosítják és különféle folyamatokból visszanyerik (például üdítőitalok gyártása).",
+      "quote": "Földgázból nyert vagy visszanyert CO₂",
+      "text": "Az ipari CO₂ tisztítása után szénsavas italokhoz, üveggáz-tüzoltáshoz és egyéb felhasználásokhoz kerül felhasználásra."
+    },
+    {
+      "id": 17,
+      "term": "Milyen felhasználása van a szén-dioxidnak?",
+      "definition": "A szén-dioxidot tüzoltók készülékeiben, szénsavas ásványvizek és üdítőitalok gyártásában, valamint az égés elfojtása céljából használják.",
+      "quote": "Tüzoltás, italok, fagyasztás",
+      "text": "A CO₂ inertes gas, amely az égést elfojtja. Szárazjég formájában fagyasztóként és szublimációs szárítóként is használható."
+    },
+    {
+      "id": 18,
+      "term": "Írja fel a CO₂ és víz közötti egyenletet!",
+      "definition": "CO₂ + H₂O ⇌ H₂CO₃ (szénsav keletkezik fordítható reakcióban)",
+      "quote": "Szén-dioxid savas oldatot képez",
+      "text": "Ez egy fordítható (egyensúlyi) reakció, amely azt mutatja, hogy a CO₂ sav jellegű tulajdonságokkal rendelkezik. A szénsav instabil és könnyen szétbomlik."
+    },
+    {
+      "id": 19,
+      "term": "Hogyan lehet a szén-dioxidot lúgoldatban megkötni?",
+      "definition": "A szén-dioxid lúgoldatban elnyelethető (megköthető), közömbösítési reakcióban szén sóit (karbonátokat) képez, például: CO₂ + 2 NaOH = Na₂CO₃ + H₂O",
+      "quote": "Lúg közegben közömbösítési reakció",
+      "text": "Ez a módszer az ipari CO₂ eltávolításához és a légzésvédelemhez (légzőészközök) használható."
+    },
+    {
+      "id": 20,
+      "term": "Hogyan mutatják ki a szén-dioxidot?",
+      "definition": "A szén-dioxidot meszes vízbe (telített Ca(OH)₂ oldatba) vezetésével lehet kimutatni, amely megzavarosodás miatt: CO₂ + Ca(OH)₂ = CaCO₃ + H₂O",
+      "quote": "Meszes víz megzavarosodása",
+      "text": "Az oldhatatlan kalcium-karbonát (CaCO₃) fehér csapadékként képződik. Ez a módszer a kilélegzett levegőben lévő CO₂ kimutatásához is használható."
+    },
+    {
+      "id": 21,
+      "term": "Mi a szilícium-dioxid (SiO₂) és milyen tulajdonságai vannak?",
+      "definition": "A szilícium-dioxid fehér, kiemelkedően kemény, atomrácsos szilárd anyag, magas olvadáspontú, nem oldódik vízben vagy apoláris oldószerekben.",
+      "quote": "Fehér, kemény, atomrácsos szerkezet",
+      "text": "A SiO₂ természetben nagymértékben előfordul kvarckristályok és homok formájában. Ez az egyik legfontosabb ipari alapanyag."
+    },
+    {
+      "id": 22,
+      "term": "Milyen formái vannak a szilícium-dioxidnak?",
+      "definition": "A szilícium-dioxidnak több formája van: kvarcüveg (amorf szerkezetű laboratóriumi eszközökhöz), nátronüveg (Na₂O adalékolt), és szilikagél (porózus szerkezetű szárítószer).",
+      "quote": "Üveg, kvarcüveg, szilikagél formák",
+      "text": "A nátronüveg alacsonyabb olvadáspontú és könnyebben megmunkálható, ezért ablaküveg és edények készítésére használják. A szilikagél nedvességet köt meg szárítószerként."
+    },
+    {
+      "id": 23,
+      "term": "Hogyan állítják elő a szilikagélt?",
+      "definition": "A szilikagélt kovasavból (H₂SiO₃) vízelvonással állítják elő, porózus szerkezetű anyagot eredményezve, amely nedvességet köt meg felületén.",
+      "quote": "Kovasav vízelvonásával készítik",
+      "text": "A szilikagél nem folyósodik el felületen megkötött víz által, ezért ideális szárítószer elektronikai és élelmiszeriparban."
+    },
+    {
+      "id": 24,
+      "term": "Írja fel a szilícium-dioxid nátrium-karbonáttal történő megömlesztésének egyenletét!",
+      "definition": "SiO₂ + Na₂CO₃ = Na₂SiO₃ + CO₂ (nátrium-szilikát és szén-dioxid keletkezik)",
+      "quote": "Lúgos feltárás oldhatatlan anyaghoz",
+      "text": "Ez a folyamatot lúgos feltárásnak nevezik, amely az oldhatatlan anyag oldhatóvá tételét jelenti. A magas hőmérsékleten történik (olvadáspontban)."
+    },
+    {
+      "id": 25,
+      "term": "Milyen sav támadja meg a szilícium-dioxidot?",
+      "definition": "Csak a hidrogén-fluorid (HF) támadja meg a szilícium-dioxidot, gáz halmazállapotú szilícium-tetrafluorid (SiF₄) és víz keletkezik.",
+      "quote": "Hidrogén-fluorid támadja meg az üveget",
+      "text": "Az egyenlet: SiO₂ + 4 HF = SiF₄ + 2 H₂O A hidrogén-fluorid ezért üvegmaratásra használható, matt üvegfelület előállítására."
+    },
+    {
+      "id": 26,
+      "term": "Mi a szénsav és milyen tulajdonságai vannak?",
+      "definition": "A szénsav (H₂CO₃) bomlékony, csak vizes oldatban létező, gyenge sav, amely szén-dioxid és víz reakciójában keletkezik.",
+      "quote": "Gyenge sav, csak vizes oldatban",
+      "text": "A szénsav két lépcsőben disszociál, két disszociációs állandóval rendelkezik. Sói a karbonátok és hidrogén-karbonátok, mint az olyan ismert anyagok, mint a szódavíz."
+    },
+    {
+      "id": 27,
+      "term": "Milyen felhasználása van a szénsavnak?",
+      "definition": "A szénsavat szénsavas italok (szódavíz) gyártásához, pH-szabályozáshoz és puffer-oldatokhoz (hidrogén-karbonát rendszer) használják.",
+      "quote": "Szénsavas italok, pH-szabályozás",
+      "text": "A szódavíz gyakorlatilag híg szénsavoldat. A hidrogén-karbonát/karbonát rendszer fontos biológiai puffer."
+    },
+    {
+      "id": 28,
+      "term": "Mi a kovasav (H₂SiO₃)?",
+      "definition": "A kovasav másnéven metakovasav, csak vizes oldatban létező, bomlékony, polikondenzációra hajlamos vegyület, amely nátrium-szilikát és erős sav reakciójában képződik.",
+      "quote": "Bomlékony, szilícium-oxid-hidráti",
+      "text": "A kovasav azért hajlamos polikondenzációra, mert az OH-csoportok között kondenzációs vizet képez, nagyobb szilíciumoxid-polimerek képzésére vezet."
+    },
+    {
+      "id": 29,
+      "term": "Hogyan állítják elő a kovasavat?",
+      "definition": "A kovasavat nátrium-szilikát (Na₂SiO₃) és erős sav (például sósav) reakciójával állítják elő.",
+      "quote": "Nátrium-szilikát és sav",
+      "text": "A kovasav azonnal kicsapódik és posteriormente szilikagéllé alakul, amely szárítószerként használható."
+    },
+    {
+      "id": 30,
+      "term": "Mit nevezünk szilikonoknak?",
+      "definition": "A szilikonok –Si–O– alapvázzal (sziloxánkötéssel) rendelkező óriásmolekulák, ahol a szilíciumatom szabad vegyértékeihez szerves csoportok (pl. metilcsoportok) kapcsolódnak.",
+      "quote": "Sziloxánkötésű polimerek szerves csoportokkal",
+      "text": "A szilikonok fizikai tulajdonságai függenek a lánchosszúságtól és az oldalcsoportoktól. Termékei szilikonolajok, szilikonzsírok és szilikongumi."
+    },
+    {
+      "id": 31,
+      "term": "Milyen felhasználása van a szilikonolajoknak és szilikonzsíroknak?",
+      "definition": "A szilikonolajok és szilikonzsírok jó vegyszerállóságú kenőanyagok, amelyek magas és alacsony hőmérsékleten is szilárdan működnek.",
+      "quote": "Vegyszerálló, hőálló kenőanyagok",
+      "text": "A szilikonok kenőanyagai továbbá szintetikus olajok, amelyek a szokásos kenőolajok helyett használhatók számos alkalmazásban."
+    },
+    {
+      "id": 32,
+      "term": "Mi a szilikongumi és hogyan készítik?",
+      "definition": "A szilikongumi gumiszerű anyag, amelyet a szilikon oldalláncainak térhálósításával nyernek, ellenállóbb, mint a kaucsuk.",
+      "quote": "Gumi helyett használható szilikongumi",
+      "text": "A szilikongumi szilárdsága, rugalmassága és kemikális ellenálló képessége miatt, például csöveket és süteménykészítéshez használható formákat készítenek belőle."
+    },
+    {
+      "id": 33,
+      "term": "Milyen alkalmazása van a szilikonguminak az orvostudományban?",
+      "definition": "A szilikongumit plasztikai sebészetben implantátumokként használják, mivel jól tolerálható és nem toxikus az élő szövetekbe.",
+      "quote": "Orvosi implantátumok szilikon anyagból",
+      "text": "A szilikon biokompatibilitása teszi ideálissá az orvosi alkalmazásokhoz, például mellimplantátumok készítéséhez."
+    },
+    {
+      "id": 34,
+      "term": "Mi a sziloxánkötés?",
+      "definition": "A sziloxánkötés egy Si–O–Si kötés, amely a szilícium és az oxigén között alakul ki, a szilikonok lánc alapvázának képzésében.",
+      "quote": "Si–O–Si kötés a szilikon bázisa",
+      "text": "A sziloxánkötés erős és stabil, ami a szilikonok szilárdságát és vegyszerállóságát magyarázza."
+    }
+  ]
+}

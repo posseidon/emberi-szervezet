@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "szen-szilicium",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik szén allotróp a legkeményebb?",
+      "options": ["Grafit", "Fullerén", "Gyémánt", "Szén-monoxid"],
+      "answer": "Gyémánt"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A fullerének _____ szerkezetűek és molekularácsos szerkezettel rendelkeznek.",
+      "options": [],
+      "answer": "gömb alakú"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik felhasználása van a szilíciumnak az elektronikában?",
+      "options": ["Elektromágneses árnyékolás", "Chipek alapanyaga adalékozható félvezető", "Szerves szintézis katalizátora", "Fénytörő optikai elem"],
+      "answer": "Chipek alapanyaga adalékozható félvezető"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Fe₂O₃ + 3 C = _____ + 3 CO (szén redukciós képessége)",
+      "options": [],
+      "answer": "2 Fe"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mitől adódik a szénnek a redukálóközeg tulajdonsága a vasgyártásban?",
+      "options": ["Magas olvadáspontja", "Elektronjai miatt", "Megköti az oxigént a fém-oxidokból", "Összeköti a fémet"],
+      "answer": "Megköti az oxigént a fém-oxidokból"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A koksz _____ szénből álló, jó minőségű fűtőanyag, amit szeneknek való hevítésével állítanak elő.",
+      "options": [],
+      "answer": "túlnyomórészt"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik sav típus a szén-dioxid vízben?",
+      "options": ["Erős sav", "Gyenge sav", "Nem sav", "Szuperacid"],
+      "answer": "Gyenge sav"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "H₂CO₃ + H₂O ⇌ _____ + H₃O⁺ (szénsav disszociációja)",
+      "options": [],
+      "answer": "HCO₃⁻"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Milyen szín a szilícium-dioxid?",
+      "options": ["Szürke", "Fekete", "Fehér", "Sárga"],
+      "answer": "Fehér"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "SiO₂ + Na₂CO₃ = _____ + CO₂ (lúgos feltárás)",
+      "options": [],
+      "answer": "Na₂SiO₃"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik anyag a nátronüveg alapanyaga?",
+      "options": ["Tiszta szilícium-dioxid", "Na₂O adalékolt szilícium-dioxid", "Szilícium fém", "Szilikát sal"],
+      "answer": "Na₂O adalékolt szilícium-dioxid"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A szilikagél _____ szerkezetű szilícium-dioxid, amely nedvességet köt meg felületén.",
+      "options": [],
+      "answer": "porózus"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mi az üvegmaratás és milyen sav okozza?",
+      "options": ["Melegítés okozta pattanás", "Hidrogén-fluorid okozta felületi dörzs", "Elektrokémiai eljárás", "Mekanikaipolírozás"],
+      "answer": "Hidrogén-fluorid okozta felületi dörzs"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A CO₂ + H₂O ⇌ H₂CO₃ reakció _____ egyensúlyban létezik.",
+      "options": [],
+      "answer": "fordítható"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik az oka a szénsav instabilitásának vizes oldatban?",
+      "options": ["Túl hideg a víz", "Túl meleg a víz", "Könnyen szétbomlik szén-dioxiddá és vízre", "Hőmérséklettől függ"],
+      "answer": "Könnyen szétbomlik szén-dioxiddá és vízre"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A szilícium _____ anyag, amely atomrácsos szerkezetű.",
+      "options": [],
+      "answer": "félfém"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik felhasználása van a szárazjégnek?",
+      "options": ["Fűtőanyag", "Fagyasztó és szublimációs szárító", "Elektróda anyag", "Katalizátor"],
+      "answer": "Fagyasztó és szublimációs szárító"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A szilikonok –___–O– alapvázzal rendelkező óriásmolekulák.",
+      "options": [],
+      "answer": "Si"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mi a szilikongumi és miért jobb, mint a kaucsuk?",
+      "options": ["Könnyebb és olcsóbb", "Szilárdsága és ellenálló képessége jobb", "Könnyebben olvad", "Jobban oldódik vízben"],
+      "answer": "Szilárdsága és ellenálló képessége jobb"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A szilikon-implantátumok orvosi alkalmazásban vannak, mert a szilikon _____ az élő szövetekbe.",
+      "options": [],
+      "answer": "biokompatibilis"
+    }
+  ]
+}

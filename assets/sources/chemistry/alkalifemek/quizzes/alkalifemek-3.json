@@ -1,0 +1,167 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "alkalifemek",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az alkálifémek standard elektródpotenciálja mely érték körül mozog?",
+      "options": ["-1,5 V és -2,0 V között", "-2,7 V és -3,0 V között", "-0,5 V és -1,0 V között", "-4,0 V és -5,0 V között"],
+      "answer": "-2,7 V és -3,0 V között"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az alkálifémek felszínén oxidációkor képződő réteg _____ , így nem védi meg a fém belsejét.",
+      "options": [],
+      "answer": "nem egybefüggő"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Az alkálifémek és halogének között milyen típusú vegyületek képződnek?",
+      "options": ["kovalens és többértékű", "ionos és egyértékű", "fémes és vezetőek", "komplex és szervezet"],
+      "answer": "ionos és egyértékű"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az élő szervezetben a nátrium- és káliumionok fontos szerepet játszanak az _____ szabályozásában.",
+      "options": [],
+      "answer": "vérnyomás"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Melyik alkáliföldfém-hidroxid az egyik legerősebb lúg?",
+      "options": ["magnézium-hidroxid", "kalcium-hidroxid", "kálium-hidroxid", "nátrium-hidroxid"],
+      "answer": "kálium-hidroxid"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A berillium az alkaliföldfémek közül _____ olvadáspontja van.",
+      "options": [],
+      "answer": "legmagasabb"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "A magnézium-szulfát mely közismert névvel ismert?",
+      "options": ["glaubersó", "keserűsó", "epsomsó", "fixírsó"],
+      "answer": "keserűsó"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A nátrium-nitrit felhasználásakor az emésztésben _____ képződnek, amelyek daganatos betegségek kockázatát növelhetik.",
+      "options": [],
+      "answer": "nitrózaminok"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "A kalcium-szulfátnak mely közismert elnevezése van?",
+      "options": ["égetett mész", "oltott mész", "gipsz", "mészkő"],
+      "answer": "gipsz"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A kalcium-karbonát a levegőben levő szén-dioxiddal lassan _____ folyamata révén keletkezik a kalcium-oxidból.",
+      "options": [],
+      "answer": "karbonátosodás"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Az alkálifémek közül melyik a legkevésbé reaktív az oszlopon?",
+      "options": ["nátrium", "kálium", "lítium", "rubídium"],
+      "answer": "lítium"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A magnézium szobahőmérsékleten vízben nagyon lassan oldódik a felszínén képződött _____ oxidréteg miatt.",
+      "options": [],
+      "answer": "védő"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A kálium-hidroxidot mely közismert névvel is hívják?",
+      "options": ["marónátron", "lúgkő", "marókáli", "nátronlúg"],
+      "answer": "marókáli"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A szódabikarbóna hőbontása során _____, szén-dioxid és vízgőz képződik.",
+      "options": [],
+      "answer": "nátrium-karbonát"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "A nátrium-szilikátot mely közismert névvel ismerjük?",
+      "options": ["glaubersó", "vízüveg", "fixírsó", "kőzat"],
+      "answer": "vízüveg"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A kalcium- és magnézium-foszfátok fehér csapadékokat képeznek a _____ ionokkal.",
+      "options": [],
+      "answer": "foszfát"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Az alkáliföldfémek közül mely elemnek nincs lángfestési színe?",
+      "options": ["berillium és magnézium", "kalcium", "stroncium", "bárium"],
+      "answer": "berillium és magnézium"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A nátrium-szulfát kristályos formájában _____ mól vizet tartalmaz.",
+      "options": [],
+      "answer": "10"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "A kalcium-karbidat mely alkalmazásban használták régebben?",
+      "options": ["építésben", "autóban", "bányászlámpákban", "mezőgazdaságban"],
+      "answer": "bányászlámpákban"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az alkálifémek lángfestése során a részecskek _____ állapotba kerülnek, majd meghatározott hullámhosszú fényt sugároznak.",
+      "options": [],
+      "answer": "gerjesztett"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Az Ar atomérétét mely alkáliföldfém ionja vette fel?",
+      "options": ["Na+", "Ca2+", "K+", "Mg2+"],
+      "answer": "Ca2+"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A meszes víz a _____ telített vizes oldatára utal.",
+      "options": [],
+      "answer": "kalcium-hidroxid"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "A kálium-nitrát mely százalékban kristályosodik magnézium-szulfáttal?",
+      "options": ["Nincs olyan kapcsolat", "7 mól", "nem kombinálódik", "15 mól"],
+      "answer": "Nincs olyan kapcsolat"
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "sav-bazis-reakciok",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "A sav-bázis reakciók végeredménye milyen folyamaton alapul?",
+      "options": [
+        "elektronátmenet",
+        "protonátmenet",
+        "neutronátmenet",
+        "ionkötés kialakulása"
+      ],
+      "answer": "protonátmenet"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A közömbösítésben keletkezett termék, amely nem szükségszerűen nátrium-klorid, hanem bármely ionvegyület, amely sav és bázis reakciójában képződik, _____ nazwa nevezzük.",
+      "options": [],
+      "answer": "sónak"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mely fém-oxid képez lúgos oldatot vízzel való reakcióban?",
+      "options": [
+        "szén-dioxid",
+        "kén-trioxid",
+        "kalcium-oxid",
+        "szilícium-dioxid"
+      ],
+      "answer": "kalcium-oxid"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "A szén-dioxid vízzel való reakciójában milyen vegyület keletkezik?",
+      "options": [
+        "szénoxid és víz",
+        "szénsav",
+        "kalcium-karbonát és hidrogén",
+        "szénhidrogén"
+      ],
+      "answer": "szénsav"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A _____ oxidok vagy savanhidridek olyan nemfém-oxidok, amelyek vízzel való reakciójában sav keletkezik.",
+      "options": [],
+      "answer": "savas"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "A közömbösítési reakció általános egyenlete szerint mely termékek képződnek?",
+      "options": [
+        "sav és bázis",
+        "só és víz",
+        "só, víz és CO2",
+        "só, víz és valószínűleg víz (ha a bázis hidroxidionokat tartalmaz)"
+      ],
+      "answer": "só, víz és valószínűleg víz (ha a bázis hidroxidionokat tartalmaz)"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Az ammónia és a sósav közömbösítési reakciójában amely termékek képződnek?",
+      "options": [
+        "ammónium-klorid és víz",
+        "ammónium-klorid, víz és hidrogén-gáz",
+        "ammónium-klorid és semmi más",
+        "nátrium-klorid és ammónia"
+      ],
+      "answer": "ammónium-klorid és semmi más"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A közömbösítés során, ha a bázis hidroxidionokat tartalmaz, akkor _____ is képződik a sóval együtt.",
+      "options": [],
+      "answer": "víz"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "A kétértékű sav (például H2SO4) közömbösítésekor az egy értékű bázisból (NaOH) miért szükséges nagyobb mennyiség?",
+      "options": [
+        "mert a NaOH gyengébb, mint az egyértékű bázisok",
+        "mert a H2SO4 két protont adhat le, ezért az aránynak megfelelően több bázist kell használni",
+        "mert a víz katalizálja a reakciót",
+        "nincs különbség az arányban"
+      ],
+      "answer": "mert a H2SO4 két protont adhat le, ezért az aránynak megfelelően több bázist kell használni"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "A kalcium-karbonát + szénsav és a kalcium-oxid + szén-dioxid közömbösítési módok közül melyik helyes?",
+      "options": [
+        "csak az első",
+        "csak a második",
+        "mindkettő helyes",
+        "egyikük sem helyes"
+      ],
+      "answer": "mindkettő helyes"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "A só hidrolízisét akkor figyeleljük meg, ha a keletkezett só valamelyik ionja _____ savból vagy bázisból származik.",
+      "options": [],
+      "answer": "gyenge"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Az erős sav és erős bázis sójának vizes oldata milyen kémhatást mutat?",
+      "options": [
+        "savas",
+        "lúgos",
+        "semleges",
+        "amfoter"
+      ],
+      "answer": "semleges"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A gyenge sav és erős bázis sójának vizes oldata milyen kémhatást mutat, és miért?",
+      "options": [
+        "savas, mert a sav disszociál",
+        "lúgos, mert a savmaradékion protont vesz fel a víztől és hidroxidionok keletkeznek",
+        "semleges, mert a sóban nincsenek ionok",
+        "amfoter, mert mindkét sav és bázis tulajdonságot mutat"
+      ],
+      "answer": "lúgos, mert a savmaradékion protont vesz fel a víztől és hidroxidionok keletkeznek"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az olyan oldatot, amelyet a nátrium-acetát és az erős sav közömbösítéséből nyerünk, _____ oldat jellemzi.",
+      "options": [],
+      "answer": "lúgos"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az ammónium-klorid vizes oldatában miért lesz savas a kémhatás?",
+      "options": [
+        "mert a klorид hidrolizál",
+        "mert az NH4+ kation és a víz reagál, oxóniumionok keletkeznek",
+        "mert az ammónia illékony és elhagyja az oldatot",
+        "mert a NH4Cl erős sav"
+      ],
+      "answer": "mert az NH4+ kation és a víz reagál, oxóniumionok keletkeznek"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "A gyenge bázis sói (például az ammónium-sók) vizes oldatában mely folyamat játszódik le?",
+      "options": [
+        "az anion reagál a vízzel",
+        "a kation reagál a vízzel és oxóniumionok keletkeznek",
+        "a só teljes mértékben diszperzív marad",
+        "a sók közvetlenül hidroxidionokat adnak le"
+      ],
+      "answer": "a kation reagál a vízzel és oxóniumionok keletkeznek"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "A vízkövet (kalcium-karbonátot) sósavval leöntve _____ fejlődik, amely a pezsegést okozza.",
+      "options": [],
+      "answer": "szén-dioxid"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "A gyenge sav sójának bomlása során az erősebb savval mit eredményez általánosan?",
+      "options": [
+        "nagyobb pH értéket",
+        "a gyengébb sav felszabadulását és az erősebb sav sójának képződését",
+        "a só redukcióját",
+        "oxidációs folyamatot"
+      ],
+      "answer": "a gyengébb sav felszabadulását és az erősebb sav sójának képződését"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Az nátrium-acetát és a kénsav reakciójában miért szabadul fel az ecetsav?",
+      "options": [
+        "mert az acetát-ion instabil",
+        "mert a kénsav erősebb sav az ecetsavnál, és az erősebb sav felszabadítja az acetátionból az ecetsavat",
+        "mert a kettő redoxireakciót végez",
+        "mert a nátrium reaktív elem"
+      ],
+      "answer": "mert a kénsav erősebb sav az ecetsavnál, és az erősebb sav felszabadítja az acetátionból az ecetsavat"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az ammónia laboratóriumi előállításakor az ammónium-kloridot tömény _____ oldattal melegítjük a gáz felszabadítására.",
+      "options": [],
+      "answer": "nátrium-hidroxid"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "A gyenge bázis felszabadítása a sójából mely alapelv szerint működik?",
+      "options": [
+        "a gyengébb bázis nem képes felszabadulni a sójából",
+        "egy nála erősebb bázis segítségével a gyengébb bázis sói felszabadítható",
+        "a hőmérséklet emelése szükséges",
+        "kizárólag az erős savak használhatók"
+      ],
+      "answer": "egy nála erősebb bázis segítségével a gyengébb bázis sói felszabadítható"
+    },
+    {
+      "id": 22,
+      "type": "MC",
+      "question": "Az alábbi sók közül melyik hidrolizál savasan a vízben?",
+      "options": [
+        "nátrium-acetát",
+        "ammónium-klorid",
+        "nátrium-klorid",
+        "kalcium-karbonát"
+      ],
+      "answer": "ammónium-klorid"
+    },
+    {
+      "id": 23,
+      "type": "BLANK",
+      "question": "A közömbösítés során az oxid helyettesítheti a _____ vagy a bázist az általános közömbösítési sémában.",
+      "options": [],
+      "answer": "savat"
+    },
+    {
+      "id": 24,
+      "type": "MC",
+      "question": "A szénsav bomlékonyságának és a hidrolízis közötti kapcsolat melyik kombinációban igaz?",
+      "options": [
+        "a bomlékony savak nem hidroléisálnak",
+        "a szénsav bomlékony, különösen savas közegben, ahol szén-dioxidra bomlik",
+        "a bomlékonyság nem befolyásolja a hidrolízist",
+        "minden bomlékony sav az oldatban marad"
+      ],
+      "answer": "a szénsav bomlékony, különösen savas közegben, ahol szén-dioxidra bomlik"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "A fém-oxidok és nemfém-oxidok közötti lényeges különbség a vízzel való reakciójukat illetően:",
+      "options": [
+        "egyik sem reagál vízzel",
+        "a fém-oxidok lúgos, a nemfém-oxidok savas oldatot hoznak létre",
+        "mindkettő savas oldatot hoz létre",
+        "csak a nemfém-oxidok reagálnak"
+      ],
+      "answer": "a fém-oxidok lúgos, a nemfém-oxidok savas oldatot hoznak létre"
+    }
+  ]
+}

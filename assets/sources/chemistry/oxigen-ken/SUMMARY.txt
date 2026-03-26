@@ -1,0 +1,107 @@
+MAGYAR KÉMIA TANANYAG - OXIGÉN-KÉN (OXIGEN-KEN)
+================================================
+
+TANANYAG ÁTTEKINTÉSE:
+- Három fő modul: oxigén-kén elemek, oxigénvegyületek, kénvegyületek
+- Teljes anyag magyar nyelvű, középiskolai szint (gimnázium vég)
+
+LÉTREHOZOTT TANULÁSI ANYAGOK:
+
+1. FLASHCARDOK (SZÓDOMOK)
+=========================
+
+a) oxigen-ken-elemek/flashcards/oxigen-ken-elemek.json
+   - 29 flashcard
+   - Temék: Oxigén (O2), ózon (O3), kén (S)
+   - Szerkezet, fizikai/kémiai tulajdonságok, előfordulás, előállítás, reakciók
+
+b) oxigenvegyuletek/flashcards/oxigenvegyuletek.json
+   - 25 flashcard
+   - Témék: Víz, hidrogén-peroxid, oxigénvegyületek osztályozása
+   - Vízkeménység, vízlágyítás módszerei
+
+c) kenvegyuletek/flashcards/kenvegyuletek.json
+   - 34 flashcard
+   - Témék: H2S, SO2, H2SO3, SO3, H2SO4
+   - Szerkezet, tulajdonságok, előállítás, redoxireakciók, alkalmazások
+
+ÖSSZESEN: 88 flashcard
+- Tömör magyar definíciók (1-3 mondat)
+- Emlékeztetők (max 5 szó)
+- Részletes magyarázatok és kémiai egyenletek
+
+2. KVÍZEK (VIZSGA GYAKORLÁS)
+===========================
+
+a) quizzes/oxigen-ken-1.json
+   - 20 kérdés (14 MC + 6 BLANK)
+   - Témék: Oxigén és ózon tulajdonságai, víz, alapvető redoxireakciók
+
+b) quizzes/oxigen-ken-2.json
+   - 20 kérdés (12 MC + 8 BLANK)
+   - Témék: Vízkeménység, oxosavak, peroxidok, redoxireakciók, vízlágyítás
+
+c) quizzes/oxigen-ken-3.json
+   - 20 kérdés (10 MC + 10 BLANK)
+   - Témék: Redoxireakciók, kénsav, katalitikus eljárások, szintézisek
+
+ÖSSZESEN: 60 kvízkérdés
+- MC (többszörös választás): 36 kérdés - 4 válaszlehetőség, 1 helyes
+- BLANK (hiányzó szó): 24 kérdés - 1-2 szavas válasz
+- Összes szöveg magyar nyelvű
+- Középiskolai végzős vizsga szint
+
+FILE STRUKTÚRA:
+==============
+
+/sessions/beautiful-lucid-hawking/mnt/chemistry/oxigen-ken/
+├── oxigen-ken-elemek/
+│   ├── oxigen-ken-elemek.md (eredeti tananyag)
+│   └── flashcards/
+│       └── oxigen-ken-elemek.json (29 flashcard)
+├── oxigenvegyuletek/
+│   ├── oxigenvegyuletek.md (eredeti tananyag)
+│   └── flashcards/
+│       └── oxigenvegyuletek.json (25 flashcard)
+├── kenvegyuletek/
+│   ├── kenvegyuletek.md (eredeti tananyag)
+│   └── flashcards/
+│       └── kenvegyuletek.json (34 flashcard)
+└── quizzes/
+    ├── oxigen-ken-1.json (20 kérdés)
+    ├── oxigen-ken-2.json (20 kérdés)
+    └── oxigen-ken-3.json (20 kérdés)
+
+TANULÁSI CÉLOK:
+===============
+
+Diákok megtudhatnak:
+- Elemi oxigén és kén szerkezetét, allotrópiáját
+- Ózon képződésének és szerepének
+- Víz szerkezetét, amfotér voltát, keménységét
+- Hidrogén-peroxid bomlékonyságát és felhasználásait
+- Kénhidrogén toxicitását és redoxireakciói
+- Kén-dioxid környezeti hatásait
+- Kénsav ipari szintézisét és alkalmazásait
+- Redoxireakciók egyensúlyozására
+
+HASZNÁLATI ÚTMUTATÓ:
+===================
+
+1. Flashcardokkal tanulni:
+   - Szó-meghatározás párokat megjegyezni
+   - Részletes magyarázatokkal mélyebben megérteni
+   - Topikokat végigolvasni
+
+2. Kvízekkel gyakorolni:
+   - Mindhárom kvíz különálló gyakorlási lehetőség
+   - MC kérdések elméleti ismereteket tesztelnek
+   - BLANK kérdések szókincsét fejlesztik
+   - Felkészülés a középsz végzős vizsgához
+
+MEGJEGYZÉSEK:
+============
+- Minden tananyag a három modul magyar nyelvű oktatási anyagainak alapján készült
+- A flashcardok química szótárt képeznek az alapfogalmakra
+- A kvízek fokozódó összetettséggel rendelkeznek
+- Az anyag felkészít a középiskolai végzős kémia vizsgára

@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "az-atom-felepitese",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "A periódusos rendszer mely alapelve szerint rendezzük az elemeket?",
+      "options": ["Csökkenő atomtömeg szerint", "Növekvő rendszám (protonszám) szerint", "Az elektronok száma szerint", "Az elektronhéjak száma szerint"],
+      "answer": "Növekvő rendszám (protonszám) szerint"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az egymás alatt levő elemek elektronszerkezete _____, ezért kémiai tulajdonságaik is hasonlóak.",
+      "options": [],
+      "answer": "hasonló"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik állítás igaz az s-mezőre?",
+      "options": ["Az s-mező az f alhéjat tartalmazza", "Az s-mező az I. és II. főcsoportot, valamint a H és He elemeket tartalmazza", "Az s-mező az V-VIII. főcsoportokat tartalmazza", "Az s-mező az átmenetifémeket tartalmazza"],
+      "answer": "Az s-mező az I. és II. főcsoportot, valamint a H és He elemeket tartalmazza"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A p-mező az _____ főcsoportokat tartalmazza.",
+      "options": [],
+      "answer": "III-VIII"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Hány oszlop van a d-mezőben?",
+      "options": ["2", "6", "10", "14"],
+      "answer": "10"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az alkálifémek az _____ főcsoport elemei (a hidrogén kivételével).",
+      "options": [],
+      "answer": "I"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mely elemek az alkáliföldfémek?",
+      "options": ["H, Li, Na, K", "Be, Mg, Ca, Sr, Ba, Ra", "F, Cl, Br, I, At", "C, Si, Ge, Sn, Pb"],
+      "answer": "Be, Mg, Ca, Sr, Ba, Ra"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A halogének az _____ főcsoport elemei.",
+      "options": [],
+      "answer": "VII"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mely elemek a nemesgázok?",
+      "options": ["Li, Na, K, Rb, Cs, Fr", "Be, Mg, Ca, Sr, Ba, Ra", "He, Ne, Ar, Kr, Xe, Rn", "F, Cl, Br, I, At"],
+      "answer": "He, Ne, Ar, Kr, Xe, Rn"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az atomsugár egy oszlopon belül fentről lefelé _____, egy perióduson belül balról jobbra _____.",
+      "options": [],
+      "answer": "nő csökken"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Miért csökken az atomsugár balról jobbra egy periódusban?",
+      "options": ["Az elektronok száma csökken", "Az atommag vonzása erősebb, mint az elektronok taszítása", "Az új elektronok egy új héjra kerülnek", "Az elektronok kevésbé párosítottak"],
+      "answer": "Az atommag vonzása erősebb, mint az elektronok taszítása"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az új periódus kezdetén az atomsugár _____ ugrásszerűen nő, mert az új elektron egy addig üres és messzebb levő héjra kerül.",
+      "options": [],
+      "answer": "hirtelen"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Az első ionizációs energia egy oszlopon belül felülről lefelé hogyan változik?",
+      "options": ["Nő", "Csökken", "Azonos marad", "Először nő, majd csökken"],
+      "answer": "Csökken"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az első ionizációs energia egy perióduson belül balról jobbra _____.",
+      "options": [],
+      "answer": "nő"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik elemcsoportnak a legnagyobb az ionizációs energiája?",
+      "options": ["Alkálifémek", "Halogének", "Nemesgázok", "Átmenetifémek"],
+      "answer": "Nemesgázok"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az elektronegativitás (EN) azt mutatja meg, hogy egy atom kémiai kötésekben mennyire _____ az elektronjaihoz.",
+      "options": [],
+      "answer": "ragaszkodik"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Az elektronegativitás egy perióduson belül balról jobbra hogyan változik?",
+      "options": ["Csökken", "Nő", "Azonos marad", "Nem mutat szisztematikus trendet"],
+      "answer": "Nő"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az elektronegativitás _____ nem mérhető közvetlenül, más atomi tulajdonságokból számítják ki.",
+      "options": [],
+      "answer": "érték"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Az elektronaffinitásban milyen trendet figyelhetünk meg?",
+      "options": ["Azonos trend az ionizációs energiával", "Ellentétes trend az ionizációs energiával", "Nem lehet egyértelmű trendeket azonosítani", "Csak az alkálifémekre értelmezhető"],
+      "answer": "Nem lehet egyértelmű trendeket azonosítani"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az átmenetifémek _____ oxidációs állapotokat mutatnak, mivel az elég közel levő energiaszintű d és s alhéjaik részben betöltöttek.",
+      "options": [],
+      "answer": "több"
+    }
+  ]
+}

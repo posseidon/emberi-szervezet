@@ -1,0 +1,167 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "alkalifemek",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az alkálifémek közül melyiknek a legmagasabb az olvadáspontja?",
+      "options": ["lítium", "nátrium", "kálium", "rubídium"],
+      "answer": "lítium"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az alkálifémeket petróleum alatt kell tárolni, mivel a _____ és a nedvességtartalom hatására hevesen reagálnak.",
+      "options": [],
+      "answer": "oxigén"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik alkálifém sűrűsége a legkisebb?",
+      "options": ["nátrium (0,97 g/cm³)", "kálium (0,86 g/cm³)", "lítium (0,54 g/cm³)", "rubídium (1,56 g/cm³)"],
+      "answer": "lítium (0,54 g/cm³)"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Az alkálifémek lángfestési szín-elem kapcsolata közül melyik helytelen?",
+      "options": ["nátrium: sárga", "kálium: fakóibolya", "lítium: halványkék", "cézium: halványkék"],
+      "answer": "lítium: halványkék"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "Az alkálifémek oxidációs száma mindig _____ a vegyületekben.",
+      "options": [],
+      "answer": "+1"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Melyik folyamat révén állítják elő a nátriumot iparilág?",
+      "options": ["kősó olvadékének elektrolízise", "nátrium-hidroxid reduktív szétbomlása", "nátrium-nitrátos redukció", "nátrium-karbonát hőbontása"],
+      "answer": "kősó olvadékának elektrolízise"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Nátrium vízben oldódásakor mely termékek képződnek?",
+      "options": ["nátrium-oxid és hidrogén", "nátrium-hidroxid és hidrogén", "nátrium-peroxid és víz", "nátrium-karbid és oxigén"],
+      "answer": "nátrium-hidroxid és hidrogén"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A nátrium klórgázban égéskor _____ keletkezik, amely az egyik legfontosabb ipari vegyület.",
+      "options": [],
+      "answer": "nátrium-klorid"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik ion szerkezetét fogja fel a Na+ ion nemesgázszerkezetként?",
+      "options": ["He atomét", "Ne atomét", "Ar atomét", "Kr atomét"],
+      "answer": "Ne atomét"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Az alkálifémek közül melyik a legkönnyebb és az elektromos tárolóanyagokhoz használatos?",
+      "options": ["nátrium", "kálium", "lítium", "rubídium"],
+      "answer": "lítium"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "Az alkáliföldfémek az I. csoport helyett a _____ csoport fő csoportjának elemei.",
+      "options": [],
+      "answer": "II."
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Az alkaliföldfémek közül melyiknek a legmagasabb az olvadáspontja?",
+      "options": ["magnézium (650 °C)", "kalcium (842 °C)", "berillium (1287 °C)", "bárium (730 °C)"],
+      "answer": "berillium (1287 °C)"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A magnézium vakítóan fényes, fehér lánggal ég, amit régebben mely célra használtak?",
+      "options": ["bányászlámpákban világítás", "fényképezésben vakuként", "vasúti jelzésként", "katonai röppálya-világításban"],
+      "answer": "fényképezésben vakuként"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A kálium-klorid a nátrium- és káliumionok egyensúlya miatt az _____ működésében van fontos szerep.",
+      "options": [],
+      "answer": "idegrendszer"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik folyamatot nevezik mészoltásnak?",
+      "options": ["CaO + CO2 = CaCO3", "CaO + H2O = Ca(OH)2", "CaCO3 → CaO + CO2", "Ca + 2H2O = Ca(OH)2 + H2"],
+      "answer": "CaO + H2O = Ca(OH)2"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A kalcium-hidroxidot közismert _____ -nak hívják.",
+      "options": [],
+      "answer": "oltott mész"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "A nátrium-kloridot mely százalékban alkalmaznak fiziológiás sóoldatként?",
+      "options": ["0,5 tömeg%", "0,9 tömeg%", "1,5 tömeg%", "2,0 tömeg%"],
+      "answer": "0,9 tömeg%"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "A nátrium-hidroxid előállítása mely elektrolízis módszerrel történik?",
+      "options": ["olvadékelektrolízis", "higanykatódos elektrolízis", "száraz elektrolízis", "membrános elektrolízis"],
+      "answer": "higanykatódos elektrolízis"
+    },
+    {
+      "id": 19,
+      "type": "BLANK",
+      "question": "Az ionrácsos szerkezetű nátrium-hidrid vízzel reagálva _____ és hidrogén képződik.",
+      "options": [],
+      "answer": "nátrium-hidroxid"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "A nátrium-szulfátot mely közismert névvel hívják?",
+      "options": ["keserűsó", "glaubersó", "fixírsó", "epsomsó"],
+      "answer": "glaubersó"
+    },
+    {
+      "id": 21,
+      "type": "BLANK",
+      "question": "A gipsz (kalcium-szulfát) _____ mól vízzel kristályosodik a természetes formájában.",
+      "options": [],
+      "answer": "2"
+    },
+    {
+      "id": 22,
+      "type": "MC",
+      "question": "A szódabikarbóna (NaHCO3) felhasználása közül melyik HELYTELEN?",
+      "options": ["sütőporokban", "tűzoltókészülékekben", "gyomorsav megkötésében", "vízkeménység csökkentésében"],
+      "answer": "vízkeménység csökkentésében"
+    },
+    {
+      "id": 23,
+      "type": "BLANK",
+      "question": "A kalcium-karbid vízzel reagálva acetiléngáz és _____ képződik.",
+      "options": [],
+      "answer": "kalcium-hidroxid"
+    }
+  ]
+}

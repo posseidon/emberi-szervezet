@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "anyagi-halmazok",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az egyfázisú rendszer neve:",
+      "options": ["Heterogén", "Homogén", "Diszperz", "Kolloid"],
+      "answer": "Homogén"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ az a halmazállapot-változás, amelynek során az anyag szilárd halmazállapotból közvetlenül gázhalmazállapotba kerül.",
+      "options": [],
+      "answer": "Szublimáció"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik nem tartozik az elsőrendű kötések közé?",
+      "options": ["Ionkötés", "Kovalens kötés", "Fémes kötés", "Dipólus-dipólus kölcsönhatás"],
+      "answer": "Dipólus-dipólus kölcsönhatás"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A grafit szerkezete _____ típusú, ahol az atomok síkokba rendeződnek.",
+      "options": [],
+      "answer": "Rétegrács"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Az ideális gáz 0°C-on és normál nyomáson milyen térfogatot foglal el 1 mól?",
+      "options": ["11,2 L", "22,4 L", "44,8 L", "5,6 L"],
+      "answer": "22,4 L"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ az az energia, amely egy anyag halmazállapot-megváltozásához szükséges anélkül, hogy a hőmérséklet megváltozna.",
+      "options": [],
+      "answer": "Látens hő"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Az összeöntéskor térfogati kontrakció történik az etil-alkohol és víz között. Mi az ennek az oka?",
+      "options": ["Az alkohol elpárolog", "Hidrogénkötések képződnek az alkohol és víz között, amely tömörebben pakol", "A sűrűségek összeadódnak", "Kémiai reakció történik"],
+      "answer": "Hidrogénkötések képződnek az alkohol és víz között, amely tömörebben pakol"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ olyan oldat, amelyből a kristályosítás nehezen indul meg, és az oldatban az oldott anyag mennyisége nagyobb az oldhatóságnál.",
+      "options": [],
+      "answer": "Túltelített oldat"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mely összetevő NEM része a diszperz rendszernek?",
+      "options": ["Közeg", "Diszpergált anyag", "Oldószer", "Összes helyes"],
+      "answer": "Oldószer"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ olyan anyag, amely poláris és apoláris részből egyaránt áll, így a micella képzésnek alapja.",
+      "options": [],
+      "answer": "Amfipatikus"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik halmazállapot-változás során fagynak az ionvegyületek vezetőképesség?",
+      "options": ["Olvadáskor", "Párolgáskor", "Szilárd halmazállapotban", "Soha nem vezetnek"],
+      "answer": "Olvadáskor"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ az a folyamat, amelynek során egy forró telített oldatot lehűtünk, így tiszta kristályokat nyerünk a szennyezőktől.",
+      "options": [],
+      "answer": "Átkristályosítás"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mely gáz-törvény mutatja, hogy állandó térfogaton a nyomás és hőmérséklet egyenesen arányos?",
+      "options": ["Boyle-törvény", "Charles-törvény", "Gay-Lussac-törvény", "Avogadro-törvény"],
+      "answer": "Gay-Lussac-törvény"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ olyan másodrendű kötés, amely a poláris molekulák ellentétes polaritású részei között alakul ki.",
+      "options": [],
+      "answer": "Dipólus-dipólus"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az ionokkal körülvett vízréteg neve:",
+      "options": ["Szolváburok", "Hidratburok", "Koordinációs burok", "Kationikus burok"],
+      "answer": "Hidratburok"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ egy diszperz rendszer, amelyben egy folyadék apró cseppjei szétszóródnak egy másik folyadékban.",
+      "options": [],
+      "answer": "Emulzió"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik rácsú anyag a legalacsonyabb olvadáspontú?",
+      "options": ["Molekularács", "Ionrács", "Atomrács", "Fémrács"],
+      "answer": "Molekularács"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ az a jelenség, amikor a folyadék melegítéskor a forráspontban teljes térfogata átalakul gázzá.",
+      "options": [],
+      "answer": "Forrás"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Az akvakomplexben jellemzően hány vízmolekula van a központi fémion körül?",
+      "options": ["2", "4", "6", "8"],
+      "answer": "6"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az adszorpció a _____ folyamata, amikor az anyag a felületre tapad.",
+      "options": [],
+      "answer": "Felület"
+    }
+  ]
+}

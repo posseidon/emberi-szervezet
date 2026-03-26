@@ -1,0 +1,226 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "periodusos-rendszer",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mengyelejev a periódusos rendszert az elemek növekvő _____ szerint rendezte sorba. A mai periódusos rendszer azonban az elemek növekvő _____ szerint követik egymást.",
+      "options": [
+        "atomtömeg szerint; neutronsúly szerint",
+        "atomtömeg szerint; rendszám (protonszám) szerint",
+        "elektronszám szerint; atomtömeg szerint",
+        "kémiai hasonlóság szerint; atomsúly szerint"
+      ],
+      "answer": "atomtömeg szerint; rendszám (protonszám) szerint"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Miért helyezkednek el az egymás alatt levő elemek hasonló kémiai tulajdonságokkal rendelkeznek?",
+      "options": [
+        "Mert az atomtömegük azonos",
+        "Mert az atomjaik hasonló méretűek",
+        "Mert az elektronszerkezetük hasonló",
+        "Mert az atommaguk azonos protonszámmal rendelkezik"
+      ],
+      "answer": "Mert az elektronszerkezetük hasonló"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "A periódusos rendszert mezőkre osztjuk. Melyik mező oszlopait nevezzük főcsoportoknak?",
+      "options": [
+        "A d-mező oszlopait",
+        "Csak az f-mező oszlopait",
+        "Az s- és p-mező oszlopait",
+        "Az összes mező oszlopait"
+      ],
+      "answer": "Az s- és p-mező oszlopait"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "A hélium tekintetében miért van egy kivétel a periódusos rendszerben?",
+      "options": [
+        "Mert a hélium a legkönnyebb elem",
+        "Mert a hélium legkülső alhéja s, de tulajdonságai alapján a nemesgázok közé, a p mezőbe soroljuk",
+        "Mert a hélium az egyetlen olyan gáz, amely nem radioaktív",
+        "Mert a hélium több neutront tartalmaz a protonok, mint más elemek"
+      ],
+      "answer": "Mert a hélium legkülső alhéja s, de tulajdonságai alapján a nemesgázok közé, a p mezőbe soroljuk"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Az I. főcsoport elemei (alkálifémek) mellett létezik a vegyértékükre vonatkozóan egy kivétel. Mi az?",
+      "options": [
+        "Az alkálifémek nem képeznek ionokat",
+        "Az alkálifémek közé nem soroljuk a hidrogént",
+        "Az alkálifémek a III. főcsoportba valójában tartoznak",
+        "Az alkálifémek több elektront is leadhatnak az ionképzéskor"
+      ],
+      "answer": "Az alkálifémek közé nem soroljuk a hidrogént"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az atomsugár (kovalens sugár) egy oszlopon belül fentről lefelé _____, egy perióduson belül balról jobbra _____.",
+      "options": [],
+      "answer": "nő; csökken"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Miért csökken az atomméret egy perióduson belül balról jobbra, bár az elektronok és protonok száma egyaránt nő?",
+      "options": [
+        "Mert az elektronok nagyobb távolságban helyezkednek el az atommagtól",
+        "Mert a protonszám növekedésétől az atommag erősebb vonzó hatást fejt ki az elektronfelhőre, és jobban össze húzza azt, mint az elektronszám növekedése azt növelné",
+        "Mert az új elektronok mindig magasabb energiaszintre kerülnek",
+        "Mert az atom elektronjainak száma gyorsabban növekszik, mint az atommag"
+      ],
+      "answer": "Mert a protonszám növekedésétől az atommag erősebb vonzó hatást fejt ki az elektronfelhőre, és jobban össze húzza azt, mint az elektronszám növekedése azt növelné"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "A periódusos rendszerben a sorok neve _____?",
+      "options": [
+        "Főcsoportok",
+        "Mellékcsoportok",
+        "Periódusok",
+        "Alhéjak"
+      ],
+      "answer": "Periódusok"
+    },
+    {
+      "id": 9,
+      "type": "BLANK",
+      "question": "Az első ionizációs energia egy oszlopon belül felülről lefelé _____, egy perióduson belül balról jobbra _____.",
+      "options": [],
+      "answer": "csökken; nő"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Miért csökken az első ionizációs energia egy oszlopon belül felülről lefelé?",
+      "options": [
+        "Mert a nagyobb méretű atomok könnyebben ionizálódnak, mivel a legkülső elektron messzebb van az atommagtól",
+        "Mert az elektronok száma csökken lefelé az oszlopban",
+        "Mert az atommag vonzó hatása gyengül",
+        "Mert az ionok kevésbé stabilak a nagyobb atomoknál"
+      ],
+      "answer": "Mert a nagyobb méretű atomok könnyebben ionizálódnak, mivel a legkülső elektron messzebb van az atommagtól"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Egy perióduson belül melyik elemeknek a legkönnyebb az ionizálása?",
+      "options": [
+        "A periódus végén levő nemesgázoknak",
+        "Az alkálifémeknek, mert így nemesgázszerkezetű ionok képződnek",
+        "Az elektronaffinitás értéke alapján az első oszlopnak",
+        "A periódus közepén levő átmeneti fémeknek"
+      ],
+      "answer": "Az alkálifémeknek, mert így nemesgázszerkezetű ionok képződnek"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "A nemesgázok ionizálása miért nehéz?",
+      "options": [
+        "Mert az elektronaik túl messze vannak az atommagtól",
+        "Mert az elektronjaikat nem lehet eltávolítani",
+        "Mert a stabil, lezárt alhéjakat meg kell bontani az ionizáláshoz",
+        "Mert az atommagban kevés proton van"
+      ],
+      "answer": "Mert a stabil, lezárt alhéjakat meg kell bontani az ionizáláshoz"
+    },
+    {
+      "id": 13,
+      "type": "BLANK",
+      "question": "Az elektronegativitás azt mutatja meg, hogy kémiai kötések kialakításakor a kérdéses atom mennyire _____ az elektronjaihoz.",
+      "options": [],
+      "answer": "ragaszkodik"
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "Az elektronegativitás értékei egy oszlopon belül és egy perióduson belül hogyan változnak?",
+      "options": [
+        "Mindkét irányban növekedik",
+        "Mindkét irányban csökken",
+        "Egy oszlopon belül csökken, egy perióduson belül nő",
+        "Egy oszlopon belül nő, egy perióduson belül csökken"
+      ],
+      "answer": "Egy oszlopon belül csökken, egy perióduson belül nő"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mi az oka annak, hogy az elektronegativitás-értékekben nincsenek olyan egyértelmű trendek, mint az ionizációs energia értékeiben?",
+      "options": [
+        "Az elektronegativitás nem mérhető, más atomi tulajdonságokból számítják ki, és különböző képletek léteznek rá",
+        "Az elektronegativitás csak az első szériára vonatkozik",
+        "Az elektronegativitás negatív értékeket is felvehet",
+        "Az elektronegativitás a neutronszámtól függ"
+      ],
+      "answer": "Az elektronegativitás nem mérhető, más atomi tulajdonságokból számítják ki, és különböző képletek léteznek rá"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "A d-mező oszlopait milyen nevvel nevezzük?",
+      "options": [
+        "Főcsoportoknak",
+        "Mellékcsoportoknak",
+        "Periódusoknak",
+        "Atomhéjaknak"
+      ],
+      "answer": "Mellékcsoportoknak"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "A VIII/b mellékcsoport mely három elemből áll?",
+      "options": [
+        "Vas, kobalt, nikkel",
+        "Réz, cink, galium",
+        "Vanadium, króm, mangán",
+        "Vas, foszfor, kén"
+      ],
+      "answer": "Vas, kobalt, nikkel"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az első periódus csak _____ elemből – hidrogén és hélium – áll.",
+      "options": [],
+      "answer": "kettő"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Az I. főcsoport az _____ nevét viseli, a II. főcsoport az _____ fémeket tartalmazza.",
+      "options": [
+        "halogének; alkáliföldfémek",
+        "alkálifémek; alkáliföldfémek",
+        "nemesgázok; alkálifémek",
+        "rézecsoportnak; vascsoportnak"
+      ],
+      "answer": "alkálifémek; alkáliföldfémek"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "Miért van a következő periódus elején az atomméret lényegesen megnőve egy periódus végéről az elejéhez lépve?",
+      "options": [
+        "Mert az új elektron egy addig még üres héjra kerül, ami az atommagtól jóval messzebb van",
+        "Mert az atommag protonszáma csökken",
+        "Mert az elektronok kevésbé kötődnek az atommaghoz",
+        "Mert az alhéjak mérete növekszik"
+      ],
+      "answer": "Mert az új elektron egy addig még üres héjra kerül, ami az atommagtól jóval messzebb van"
+    }
+  ]
+}

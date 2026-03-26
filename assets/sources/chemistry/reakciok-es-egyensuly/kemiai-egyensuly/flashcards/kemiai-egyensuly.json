@@ -1,0 +1,109 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Megfordítható kémiai reakció",
+      "definition": "Olyan kémiai folyamat, amelynek során a termékek képződésével egyidejűleg azok vissza is alakulnak a kiindulási anyagokra.",
+      "quote": "Előre és hátra egyidejűleg",
+      "text": "Bizonyos kémiai folyamatok nem csak egy irányban zajlanak le. Az átalakulás (kiindulási anyagokból termékekre) kezdetben gyors, majd lassul. A visszaalakulási reakció (termékekből kiindulási anyagokra) kezdetben lassú, majd gyorsul. Az ilyen folyamatokat a ⇌ (egyensúlyi nyíl) jelöli, például: H2 + I2 ⇌ 2 HI. Ez eltér a szokásos = vagy → jelöléstől, amely egyirányú folyamatot jelez."
+    },
+    {
+      "id": 2,
+      "term": "Dinamikus egyensúly",
+      "definition": "Az egyensúly olyan állapot, amelyben az előre és visszareakció sebessége azonos, így a mikroszkópikus szinten mindkettő folytat, de makroszkópikusan az összetétel állandó.",
+      "quote": "Makrópikusan állónak tűnik, mikróban mozog",
+      "text": "A kémiai egyensúly dinamikus: a kontinua folyamatok tovább zajlanak, de mivel a sebességük egyenlő, az anyagok koncentrációja nem változik. Például az egyensúlyban lévő H2 + I2 ⇌ 2 HI rendszerben molekulák és ionok folyamatosan alakulnak át-vissza, de a [H2], [I2] és [HI] értékei konstansak. Ez eltér a statikus egyensúlytól, ahol valóban megáll minden folyamat."
+    },
+    {
+      "id": 3,
+      "term": "Egyensúlyi állandó (K)",
+      "definition": "Egy jellegzetes szám, amely a termékek és kiindulási anyagok egyensúlyi koncentrációinak szorzataiból képzett tört értéke.",
+      "quote": "K = [termékek] / [reaktánsok], hatványokkal",
+      "text": "Az egyensúlyi állandó: K = [C]^c[D]^d / [A]^a[B]^b a A + b B ⇌ c C + d D típusú egyenletek. A nagyobb K érték azt jelenti, hogy az egyensúly a termékek felé tolódott (több termék). Kisebb K érték azt jelenti, hogy az egyensúly a reaktánsok felé tolódott (több reaktáns). K = 1 azt jelenti, hogy egyforma arányban vannak az anyagok az egyensúlyban."
+    },
+    {
+      "id": 4,
+      "term": "Tömeghatás törvénye",
+      "definition": "Az elv, amely szerint az egyensúlyi állandó felírásánál minden anyagot az adott anyag reakcióegyenletben szereplő sztöchiometriai együttható hatványára emeljük.",
+      "quote": "Coefficients become exponents",
+      "text": "Ha egy egyenlet például: 2 NO2 ⇌ N2O4, akkor K = [N2O4] / [NO2]^2 (az NO2 az együttható 2-es kitevővel szerepel). Ha N2 + 3 H2 ⇌ 2 NH3, akkor K = [NH3]^2 / ([N2][H2]^3). Az együtthatók nem befolyásolják az egyenletben közvetlenül, csak az egyensúlyi állandó kifejezésében. Más módon felírt egyenletek más K értékeket adnak!"
+    },
+    {
+      "id": 5,
+      "term": "Egyensúly beállapodása",
+      "definition": "Az az időpont és állapot, amikor az előre és visszaalakulási sebesség azonossá válik, és az anyagok koncentrációja stabilizálódik.",
+      "quote": "Sebességek kiegyenlítődnek, összetétel állandó",
+      "text": "Az egyensúly kialakulásához általában időre van szükség. Különböző sebességű folyamatok gyorsabban vagy lassabban érhetnek egyensúlyba. Például H2 és I2 keverékénél gyorsan beáll az egyensúly (percek alatt), míg más rendszereknél hosszabb ideig tarthat. Az egyensúly elérésének sebességét a hőmérséklet, katalizátor és más tényezők befolyásolják."
+    },
+    {
+      "id": 6,
+      "term": "Le Chatelier (Braun) elv",
+      "definition": "Az alapelv, amely szerint az egyensúlyban lévő rendszer a külső hatásokra úgy reagál, hogy azokat kompenzálja és visszaállítja az egyensúlyt.",
+      "quote": "Külső hatások ellenes kompenzáció",
+      "text": "Le Chatelier-Braun elve (a legkisebb kényszer elve): ha egy egyensúlyi rendszerre külső hatást gyakorolunk (koncentrációváltoztatás, nyomás, hőmérséklet), a rendszer olyan irányba tolódik, hogy a beavatkozás hatásait csökkentse. Ez lehetővé teszi az egyensúlyi pozício módosítását, és nagy gyakorlati jelentősége van az ipari szintézisekben."
+    },
+    {
+      "id": 7,
+      "term": "Koncentrációváltoztatás hatása",
+      "definition": "Ha a reaktánsok vagy termékek közül valamely anyag mennyiségét megváltoztatjuk, az egyensúly az adott anyag képződésének irányába tolódik.",
+      "quote": "Hozzáadás: előre elmozdulás; elvonás: hátra elmozdulás",
+      "text": "Reaktáns hozzáadása: az egyensúly az előre reakció (termékképződés) irányába tolódik. Termék hozzáadása: az egyensúly a visszareakció (reaktáns képződés) irányába tolódik. Anyag eltávolítása: az egyensúly az adott anyag képződésének irányába tolódik. Például az ammóniaszintézisben az egyensúly a termékképződés felé tolható az NH3 folyamatos eltávolításával. Ez az elv lehetővé teszi az ipari hozamok optimalizálását."
+    },
+    {
+      "id": 8,
+      "term": "Nyomásváltoztatás hatása",
+      "definition": "A nyomás megváltoztatása csak olyan egyensúlyokat befolyásol, amelyek gázfázist tartalmaznak és az egyenlet két oldalán eltérő mennyiségű gáz van.",
+      "quote": "Kevesebb mol gáz: előre tolódás",
+      "text": "Ha az egyenlet baloldalán több mól gáz van, mint jobboldalt, a nyomás növelése az egyensúlyt a jobb oldal felé tolódik (kevesebb gázmólra). Az ammónia szintézisénél: N2 + 3 H2 ⇌ 2 NH3 (4 mol → 2 mol gáz), a nyomás növelése az NH3 képződést serkenti. Ha az egyenleten mindkét oldalon azonos mennyiségű gáz van (például H2 + I2 ⇌ 2 HI), a nyomás nincs hatással az egyensúlyi pozícióra. A térfogat csökkentése a nyomás növelésével azonos hatást fejt ki."
+    },
+    {
+      "id": 9,
+      "term": "Hőmérsékletváltoztatás hatása",
+      "definition": "A hőmérséklet megváltoztatása az egyensúly irányszögét befolyásolja az adott vegyület keletkezésének módja alapján.",
+      "quote": "Endoterm: felmelegedés segít; exoterm: lehűlés segít",
+      "text": "Hőmérséklet növelése: az egyensúly az endoterm folyamat irányába tolódik (ahol energia szükséges). Hőmérséklet csökkentése: az egyensúly az exoterm folyamat irányába tolódik (ahol energia felszabadul). Például az ammóniaszintézis exoterm (ΔH = –96 kJ/mol), ezért lehűléssel segítjük az NH3 képződést. Az új hőmérsékleten már más K érték van, így nem az eredeti egyensúly áll be, hanem egy új."
+    },
+    {
+      "id": 10,
+      "term": "Egyensúlyi állandó hőmérsékleti függésé",
+      "definition": "Az egyensúlyi állandó (K) hőmérsékletfüggő: nagyobb hőmérsékleten más értéke van, mint alacsonyabb hőmérsékleten.",
+      "quote": "K megváltozik, ha T megváltozik",
+      "text": "Az egyensúlyi állandó Van't Hoff egyenlete alapján függ a hőmérséklettől. Exoterm folyamatok esetén a K értéke csökken a hőmérséklet növekedésével (az egyensúly a reaktánsok felé tolódik). Endoterm folyamatoknál a K értéke nő a hőmérséklet növekedésével (az egyensúly a termékek felé tolódik). Eltérően más paraméterek megváltoztatásánál, hőmérsékletváltoztatás esetén nem az eredeti, hanem egy új egyensúly fog beállni."
+    },
+    {
+      "id": 11,
+      "term": "Katalizátor hatása az egyensúlyra",
+      "definition": "A katalizátor nem tolódítja el az egyensúlyi pozícióját, mert az előre és visszareakciót egyformán gyorsítja.",
+      "quote": "Gyorsabb egyensúly, ugyanolyan pozícó",
+      "text": "A katalizátor csökkenti az aktiválási energiát, így gyorsabbá teszi a reakciót, de nem változtatja meg az egyensúlyi állandó értékét vagy az egyensúly irányszögét. Az előre és visszareakciót egyformán gyorsítja, így az K érték és az egyensúlyi összetétel ugyanaz marad. Gyakorlati haszna: az ipari alkalmazásokban a katalizátor az egyensúly gyorsabb eléréséhez használható, anélkül, hogy más paramétereket kellene módosítani."
+    },
+    {
+      "id": 12,
+      "term": "Egyensúlyi eltolódás (shift)",
+      "definition": "Az egyensúlyban levő rendszer pozícióját az előrefelé (termékek irányába) vagy visszafelé (reaktánsok irányába) mutató elmozdulása.",
+      "quote": "Előrefelé vagy visszafelé tolódás",
+      "text": "Az egyensúlyi eltolódás azt jelenti, hogy az egyensúly makroszkópikusan az egyik vagy másik oldal felé tolódik. Előrefelé tolódás: több termék képződik. Visszafelé tolódás: több reaktáns képződik. Az eltolódás mértékét az Le Chatelier-elv alapján lehet megjósolni. Például egy exoterm folyamat lehűlésekor előrefelé tolódik, az új egyensúlyban több termék van."
+    },
+    {
+      "id": 13,
+      "term": "Ammónia szintézise (Haber-Bosch folyamat)",
+      "definition": "Az ipari nitrógén és hidrogén azonos nyomás és hőmérsékleten alatt ammónia szintézisének klasszikus alkalmazása az egyensúlyi elvek ismeretében.",
+      "quote": "N2 + 3 H2 ⇌ 2 NH3, ΔH = –96 kJ/mol",
+      "text": "A Haber-Bosch folyamatban a megmarad N2 és H2 gáz nagy nyomáson (200-1000 atm) és magas hőmérsékleten (400-500 °C) reagál. Az egyensúly optimalizálásához: (1) Magas nyomás: az egyensúly előrefelé tolódik (4 mol → 2 mol gáz). (2) Alacsonyabb hőmérséklet kedvez az exoterm folyamatnak, de a sebesség túl lassú lenne (katalizátor szükséges). (3) Az előrefelé tolódást segíti az NH3 folyamatos eltávolítása. Az eljárás gazdasági optimumot keres a sebesség és az egyensúlyi pozícó között."
+    },
+    {
+      "id": 14,
+      "term": "Hidrogén és jód közötti egyensúly",
+      "definition": "Az egyik legegyszerűbb és legjobban tanulmányozott kémiai egyensúly, amely H2 és I2 közötti HI képzésére vonatkozik.",
+      "quote": "H2 + I2 ⇌ 2 HI, K ≈ 50 (25 °C-on)",
+      "text": "Ez az egyensúly azért fontos, mert az előre és visszareakció sebességét jól lehet tanulmányozni. A K érték körülbelül 50, ami azt jelenti, hogy az egyensúlyban az HI kevésbé abundáns, mint a H2 vagy I2. A nyomásváltoztatás nem hat az egyensúlyra, mivel az egyenlet mindkét oldalán 2 mól gáz van. Ez az egyensúly az egyensúly tanulmányozása megfelelő modellrendszerként szolgál."
+    },
+    {
+      "id": 15,
+      "term": "Egyensúlyi állandó szorzat alakja a komplex reakciókban",
+      "definition": "Összetett egyensúlyok (több lépésből álló), ahol az egyes lépések K értékeit szorozzuk az összes egyensúlyi állandó meghatározásához.",
+      "quote": "K(teljes) = K1 · K2 · K3...",
+      "text": "Ha egy komplex folyamat több egyensúlyi lépésből áll, az összes K értéke szorózásával kaphatjuk meg az teljes K értékét. Például ha az 1. lépés: A ⇌ B, K1 = 10, és a 2. lépés: B ⇌ C, K2 = 5, akkor az A ⇌ C teljes folyamatnál K(teljes) = 10 × 5 = 50. Ez az elv egyszerűsíti az összetett egyensúlyok tanulmányozását."
+    }
+  ]
+}

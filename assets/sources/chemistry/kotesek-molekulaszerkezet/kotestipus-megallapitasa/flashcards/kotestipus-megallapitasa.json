@@ -1,0 +1,179 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mit határozza meg a kötés típusát?",
+      "definition": "A kötés típusát az elektronegativitás-különbség (EN-diff) határozza meg a két atom között.",
+      "quote": "EN-diff dönti el a kötés típusát",
+      "text": "Ha az EN-diff kicsi (mindkettő fém), fémes kötés. Ha az EN-diff nagy (fém + nemfém), ionkötés. Ha az EN-diff mérsékelt (mindkettő nemfém), kovalens kötés. Ez egy ökölszabály, amely legtöbb esetben működik."
+    },
+    {
+      "id": 2,
+      "term": "Milyen EN-érték tartomány jelzi a fémes kötést?",
+      "definition": "A fémes kötés általában akkor alakul ki, amikor mindkét atom alacsony elektronegativitású (EN < 2,0).",
+      "quote": "Mindkettö alacsony EN",
+      "text": "A fémek elektronegativitása általában 0,7 és 2,0 között van. Amikor két fém atom megközelítkezik, nincs jelentős EN-diff, így fémes kötés alakul ki. Például Na (EN = 0,93) és K (EN = 0,82) között fémes kötés van."
+    },
+    {
+      "id": 3,
+      "term": "Milyen EN-érték tartomány jelzi az ionkötést?",
+      "definition": "Az ionkötés általában akkor alakul ki, amikor az EN-diff nagyobb, mint 1,7 (illetve 2,0 in egyes tananyagok).",
+      "quote": "EN-diff > 1,7 ionos",
+      "text": "Az ionkötés akkor alakul ki, amikor az egyik atom nagy, a másik kis elektronegativitásúak. Például Na (EN = 0,93) és F (EN = 3,98) között EN-diff = 3,05, amely definitív ionkötést jelent. A Ca (EN = 1,00) és O (EN = 3,44) között EN-diff = 2,44, amely szintén ionkötés."
+    },
+    {
+      "id": 4,
+      "term": "Milyen EN-érték tartomány jelzi a kovalens kötést?",
+      "definition": "A kovalens kötés általában akkor alakul ki, amikor mindkét atom magas elektronegativitású (EN > 2,0) vagy az EN-diff kicsi (< 1,7).",
+      "quote": "Mindkettó magas EN vagy alacsony diff",
+      "text": "Amikor két nemfém atom közt kovalens kötés alakul ki. Például C (EN = 2,55) és H (EN = 2,20) között EN-diff = 0,35 (poláris kovalens). A Cl (EN = 3,16) és F (EN = 3,98) között EN-diff = 0,82 (poláris kovalens, de még mindig kovalens)."
+    },
+    {
+      "id": 5,
+      "term": "Mi az egyszerűsített gondolatmenet a kötés típusának megállapításához?",
+      "definition": "Fém + fém = fémes kötés; fém + nemfém = ionkötés; nemfém + nemfém = kovalens kötés.",
+      "quote": "Fém/nemfém azonosságtól függ",
+      "text": "Ez egy ökölszabály, amely jól működik a legtöbb esetben. Az elektronegativitás értékek nem szükségesek, csak annak tudomása, hogy az elem fém vagy nemfém. Ez a módszer az esetek nagy részében helyes előrejelzéseket ad."
+    },
+    {
+      "id": 6,
+      "term": "Mik az 'átmeneti kötéstípusok'?",
+      "definition": "Az átmeneti kötéstípusok olyan kötések, amelyek a tiszta kötéstípusok között helyezkednek el (pl. poláris kovalens, vagy félionos-félkovalens).",
+      "quote": "Tiszta típusok között vannak átmenetek",
+      "text": "Az ionkötés és a kovalens kötés között nincs éles határ. Például az AlCl3 körülbelül 50% ionos és 50% kovalens karakterrel rendelkezik az EN-diff és a kötési tulajdonságok alapján. Az alumínium-kloridot atomos szinten vizsgálva egyes tananyagok ionosnak, mások kovalensnek nevezik."
+    },
+    {
+      "id": 7,
+      "term": "Miért van átmenet az ionos és a kovalens kötés között?",
+      "definition": "Mert az elektronegativitás-különbség folyamatos, nem pedig diszkrét, így a kötési karakterek is folyamatosan változnak.",
+      "quote": "EN-diff folyamatos = kötés folyamatos",
+      "text": "Az EN-érték 0-ról 4-re fokozatosan nő. Az elektron átadása és megosztása közötti átmenet fokozatos. Ahol az EN-diff 0, ott 100%-os kovalens megosztás van; ahol az EN-diff maximális, ott 100%-os elektron átadás van. Ezek között minden középértékben vannak átmeneti kötések."
+    },
+    {
+      "id": 8,
+      "term": "Mi az elektronegativitás-különbség matematikai képlete?",
+      "definition": "EN-diff = |EN1 - EN2|, azaz az egyik atom EN értékéből kivonjuk a másikét, és az abszolút értéket vesszük.",
+      "quote": "Különbség abszolút értéke",
+      "text": "Ha Na (EN = 0,93) és F (EN = 3,98) között a kötést vizsgáljuk: EN-diff = |0,93 - 3,98| = 3,05. Az EN-diff értéke mindig pozitív, mivel az abszolút értéket vesszük. Ez az érték határozza meg a kötés típusát."
+    },
+    {
+      "id": 9,
+      "term": "Melyik elem az egyik legmagasabb és legalacsonyabb elektronegativitású?",
+      "definition": "A fluor (EN = 3,98) a legmagasabb, az alkálifémek (pl. Li, EN = 0,98) a legalacsonyabbak.",
+      "quote": "F magas; Li alacsony",
+      "text": "Az elektronegativitás értékek 0,7 (Cs) és 3,98 (F) között terjednek. A nemfémek általában magasabb EN-értékűek, a fémek alacsonyabbak. Ezért a fém-nemfém kombinációk általában nagy EN-diff-et és így ionkötést eredményeznek."
+    },
+    {
+      "id": 10,
+      "term": "Mit jelent az, hogy a grafitban van fémes és kovalens karakter is?",
+      "definition": "A grafitban a szénatomok között páronként kötések vannak (kovalens), de a π-elektronok delokalizálódnak (fémes jelleg).",
+      "quote": "Fémes és kovalens tulajdonságok",
+      "text": "A grafitban az sp² hibridizáció miatt síkokat képez, amelyekben szén-szén kötések vannak (tisztán kovalens). De a π-elektronok a síkokban delokalizálódnak, így fémes vezetőképesség alakul ki (elektromosságot vezet). Ez egy exemplo az átmeneti kötési karakterre."
+    },
+    {
+      "id": 11,
+      "term": "Miért alakul ki ionkötés a Na és Cl között?",
+      "definition": "Mert Na EN = 0,93, Cl EN = 3,16, így EN-diff = 2,23, amely nagyobb, mint 1,7, így ionkötést jelent.",
+      "quote": "Nagy EN-diff ionkötés",
+      "text": "Na egy fém (alacsony EN), Cl egy nemfém (magas EN), így az EN-diff nagy. Az elektron könnyedén átkerül Na-ról Cl-re, és Na+ és Cl– ionok képződnek. A Na+ és Cl– között erős elektrosztatikus vonzás van, amely az ionkötés alapja."
+    },
+    {
+      "id": 12,
+      "term": "Miért alakul ki fémes kötés Fe és Fe között?",
+      "definition": "Mert mindkettő fém, így EN-diff = 0, és fémes kötés alakul ki.",
+      "quote": "Fém-fém = fémes",
+      "text": "Az Fe EN = 1,83, így bármely Fe atom között EN-diff = 0. Mivel nincs elektronegativitás-különbség, nincs motiváció az elektron átadására, így az elektronok megosztásra kerülnek az egész szerkezetben, fémes kötés alakul ki. Ez az összes fém-fém kombinációra igaz."
+    },
+    {
+      "id": 13,
+      "term": "Miért alakul ki kovalens kötés C és H között?",
+      "definition": "Mert C EN = 2,55, H EN = 2,20, így EN-diff = 0,35, amely kis, így kovalens kötés alakul ki.",
+      "quote": "Kis EN-diff kovalens",
+      "text": "Mindkettő nemfém, DE a C és H EN-értékei nagyon közeliek egymáshoz. Az elektron nem akar az egyik atomtól a másikra menni, mivel az energiakülönbség kicsi. Így az elektronok megosztásra kerülnek, kovalens kötés alakul ki. Ez a szénhidrogénekben általános."
+    },
+    {
+      "id": 14,
+      "term": "Melyik az az EN-diff tartomány, amely átmeneti ionos-kovalens karaktert jelent?",
+      "definition": "Az átmeneti tartomány körülbelül 1,4 és 2,0 között van, ahol a kötések részben ionos és részben kovalens karakterűek.",
+      "quote": "1,4-2,0 között: vegyes jelleg",
+      "text": "Az AlCl3 EN-diff = |1,61 - 3,16| = 1,55, amely az átmeneti tartományban van. Az olyan kötések vegyes karaktert mutatnak. A pontos határok nem szigorúak, de ezek az értékek hozzávetőlegesen jelzik, hogy mely kötések mutatnak speciális tulajdonságokat."
+    },
+    {
+      "id": 15,
+      "term": "Mit lehet mondani az ionkötés és a poláris kovalens kötés közötti határról?",
+      "definition": "A határ nem élesen meghatározott, de általában az EN-diff > 1,7 vagy 2,0 tekintik az ionkötés kezdetének.",
+      "quote": "Határ körül 1,7-2,0",
+      "text": "Az EN-diff = 1,7 körül a kötések fokozatosan válnak ionossá. Az EN-diff = 1,4 alatt tisztán kovalensak, az EN-diff > 2,0 felett tisztán ionosak. A közvetítő tartomány az átmeneti kötések területe, ahol a kötési karakterek vegyes."
+    },
+    {
+      "id": 16,
+      "term": "Hogyan használható az EN-diff a kötés típusának gyors megállapításához?",
+      "definition": "Keressd meg az atomok EN-értékeit, számítsd ki a különbséget, és hasonlítsd össze a tartományokkal.",
+      "quote": "EN-diff számítás és összehasonlítás",
+      "text": "Lépések: 1. Keress az atomok EN-értékei (pl. periódusrendszer vagy táblázat). 2. Számítsd ki |EN1 - EN2|. 3. Hasonlítsd össze: EN-diff < 0,5 kovalens (apoláris), 0,5-1,7 poláris kovalens, > 1,7 ionos (illetve 2,0 in egyes tananyagok), EN-diff = 0 fémes."
+    },
+    {
+      "id": 17,
+      "term": "Miért követi nem az AlCl3 tisztán az ionos vagy a kovalens kategóriát?",
+      "definition": "Mert az Al EN = 1,61 és a Cl EN = 3,16, így EN-diff = 1,55, amely az átmeneti tartományban van.",
+      "quote": "Vegyes jelleg szokásos",
+      "text": "Az AlCl3-ot tanári egyenlőre ionosként, máskor kovalensként tanítják, mert az EN-diff a határon van. Tényleges felépítése vegyes: ionos rácsos szerkezetű, de a kötésben jelentős kovalens karakter is van. Ez mutatja, hogy a valóság összetettebb az egyszerűsített osztályozásnál."
+    },
+    {
+      "id": 18,
+      "term": "Mely fémek alkotnak ionkötést nemfémi atomokkal?",
+      "definition": "Az I-II. csoport fémei, és számos átmeneti fém ionkötéseket alkot nemfémi atomokkal.",
+      "quote": "Fémek ionokat alkotnak nemfémi atomokkal",
+      "text": "Az alkálifémek (Na, K, Li), az alkáliföld fémek (Ca, Mg), és az átmeneti fémek (Fe, Cu, Zn) könnyen ionokat képeznek. Az EN-diff ebben az esetben általában nagyobb, mint 1,7, így ionkötések alakulnak ki. Például NaCl, CaCl2, FeCl3 közismert ionos vegyületek."
+    },
+    {
+      "id": 19,
+      "term": "Mely nemfémek alkotnak kovalens kötést egymás között?",
+      "definition": "Az összes nemfém (C, N, O, F, S, Cl, stb.) egymás között kovalens kötéseket alkot.",
+      "quote": "Nemfém-nemfém = kovalens",
+      "text": "Az olyan molekulák, mint O2, N2, CO2, NH3, H2O mind nemfémek közötti kovalens kötéseket tartalmaznak. Az EN-diff általában kicsi vagy mérsékelt, de az elektronok megosztásra kerülnek, nem átadásra. Ez az oka annak, hogy a szerves molekulák (összetett szénatomos vegyületek) tisztán kovalensak."
+    },
+    {
+      "id": 20,
+      "term": "Mit jelent az, hogy a kötéstípusok 'folytonosak'?",
+      "definition": "Ez azt jelenti, hogy nincsen éles határvonal az ionos és a kovalens kötések között, hanem fokozatos átmenet.",
+      "quote": "Fokozatos átmenet, nem éles határ",
+      "text": "Az EN-diff értékek és a kötési karakterek között folytonos függvény van. Az EN-diff = 0-ról az EN-diff = 4-re fokozatosan nő, és a kötés karaktere is fokozatosan változik 100%-os kovalensből 100%-os ionossá. Ezt az átmenetet rezonancia-szerkezetekkel vagy vegyes karakterek leírásával magyarázzuk."
+    },
+    {
+      "id": 21,
+      "term": "Hogyan azonosítható egy ionkötés a szerkezeti tulajdonságok alapján?",
+      "definition": "Az ionkötésű anyagok szilárdak, magas olvadáspontú, oldódnak vízben, és vezetik az elektromosságot olvadt vagy oldott állapotban.",
+      "quote": "Szilárd, magas pt, vezető",
+      "text": "Ha egy vegyület ezeket a tulajdonságokat mutatja, valószínűleg ionkötésű. Az ionkötés megmarad a szilárd állapotban az ionrács erőssége miatt. Olvadásakor az ionok mobillá válnak, így vezetik az elektromosságot. A víz poláris molekulái szolváció révén oldják az ionos vegyületeket."
+    },
+    {
+      "id": 22,
+      "term": "Hogyan azonosítható egy fémes kötés a szerkezeti tulajdonságok alapján?",
+      "definition": "A fémes kötésű anyagok szilárdak, fénylenek, vezetik az elektromosságot szilárd állapotban, és képlékenyek.",
+      "quote": "Kemény, fényes, vezető, képlékeny",
+      "text": "Ha egy anyag ezeket a tulajdonságokat mutatja, fémes kötésű. A fémes kötés már szilárd állapotban biztosítja az elektromos vezetést a szabad elektronok miatt. Az atommagok elcsúszhatnak a szabad elektronok miatt, így képlékeny az anyag. A fényes megjelenés az elektronok felszíni visszaveréséből ered."
+    },
+    {
+      "id": 23,
+      "term": "Hogyan azonosítható egy kovalens kötés a szerkezeti tulajdonságok alapján?",
+      "definition": "A kovalens kötésű anyagok sokféle fizikai tulajdonságot mutathatnak a molekulák szerkezete alapján (gáz, folyadék vagy szilárd, nem vezetik az elektromosságot).",
+      "quote": "Változatos, nem vezeti általában",
+      "text": "A tiszta kovalens molekulák általában nem vezetik az elektromosságot szilárd vagy folyékony állapotban (mert az elektronok lokalizáltak). Az ilyen vegyületek lehet gáz (O2, N2), folyadék (H2O, CCl4), vagy szilárd (jég, több szerves anyag). Alacsony olvadáspontjúak általában, mert a molekulák közötti intermolekuláris erők gyengék."
+    },
+    {
+      "id": 24,
+      "term": "Mit jelent az, hogy a 'kötés típusának megállapítása ökölszabály'?",
+      "definition": "Ez azt jelenti, hogy az egyszerűsített módszer (fém/nemfém azonosság) a legtöbb esetben működik, de nincsen 100%-os garancia.",
+      "quote": "Heurisztika, nem pontos szabály",
+      "text": "Az EN-diff alapú osztályozás egy gyakorlati ökölszabály, amely az esetek 95%-ában helyes. De vannak kivételek és átmeneti esetek (AlCl3, grafitban), ahol az ökölszabály nem pontosabb. Az ilyen kivételek speciális tanulmányozást igényelnek."
+    },
+    {
+      "id": 25,
+      "term": "Mely tankönyvek használnak eltérő EN-diff értékeket az ionkötés határához?",
+      "definition": "Az egyik közös érték az EN-diff > 1,7, a másik az EN-diff > 2,0, de vannak más variációk is.",
+      "quote": "1,7 vagy 2,0 közös határok",
+      "text": "Mivel az ionos és a kovalens karakter közötti átmenet fokozatos, a különböző tankönyvek eltérő határértékeket használnak. Az 1,7-es határ egy közös választás, de az 2,0-as határ szigorúbb. Az eltérés abból ered, hogy a kötés karaktere folytonos, nem pedig diszkrét."
+    }
+  ]
+}

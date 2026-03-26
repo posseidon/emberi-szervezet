@@ -1,0 +1,186 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mi az ionkötés?",
+      "definition": "Az ionkötés a pozitív és negatív ionok közötti elektrosztatikus vonzás.",
+      "quote": "Ellentétes töltések vonzzák",
+      "text": "Az ionkötés akkor alakul ki, amikor egy atom elektronokat ad le (oxidáció), és egy másik atom felveszi azokat (redukció). Az elektront leadó atom pozitív ionná (kation), az elektront felvevő atom negatív ionná (anion) válik. A két ion közötti erős elektrosztatikus vonzás hozza létre az ionkötést."
+    },
+    {
+      "id": 2,
+      "term": "Hogyan alakul ki az ionkötés a Na és F között?",
+      "definition": "A nátriumatom ad le egy elektront, amely a fluoratomhoz kerül, így Na+ és F– ionok képződnek, amelyek vonzzák egymást.",
+      "quote": "Na elektront ad, F felvesz",
+      "text": "Na → Na+ + e–, majd F + e– → F–. Mindkét ion nemesgázszerkezetet ér el. A Na+ ionnak 10 elektronja van (Ne szerkezete), az F– ionnak szintén 10 elektronja van (Ne szerkezete). Az így keletkezett ionok között erős elektrosztatikus vonzás alakul ki."
+    },
+    {
+      "id": 3,
+      "term": "Milyen atomok között alakul ki ionkötés?",
+      "definition": "Az ionkötés az eltérő elektronegativitású atomok között alakul ki, főként amikor az egyik fém, a másik nemfém.",
+      "quote": "Nagy EN-különbség szükséges",
+      "text": "Az ionkötés akkor keletkezik, amikor az elektronegativitás-különbség kellően nagy a két atom között. Jellemzően fém és nemfém atomjai között alakul ki. A fémek kisfokú elektronegativitásúak (könnyedén leadják elektronjaikat), a nemfémek magas elektronegativitásúak (könnyen felveszik az elektronokat)."
+    },
+    {
+      "id": 4,
+      "term": "Mi az ionrács?",
+      "definition": "Az ionrács egy szabályos térbeli szerkezet, amelyben a pozitív és negatív ionok felváltva helyezkednek el kristályos szilárd halmazállapotban.",
+      "quote": "Ionok szabályos 3D szerkezete",
+      "text": "Ionos vegyületeknél a szilárd halmazállapotban az ionok nem párokba rendezkednek, hanem egy nagy, háromdimenziós hálózatot képeznek. Ebben a rácsban minden pozitív ion több negatív ionnal, és minden negatív ion több pozitív ionnal jön kapcsolatba. Ez megmagyarázza a nyújtható-vágható szilárd halmazállapotot és a kristályos szerkezetet."
+    },
+    {
+      "id": 5,
+      "term": "Mi az ionok aránya az ionvegyületben?",
+      "definition": "Az ionok aránya olyan, hogy a pozitív és negatív töltések összege nulla legyen, tehát az egész molekula semleges.",
+      "quote": "Töltések kiegyensúlyozottak",
+      "text": "Egy ionvegyület képletét úgy határozzuk meg, hogy az összes pozitív töltés abszolút értéke megegyezzék az összes negatív töltés abszolút értékével. Például a CaBr2-ben egy Ca2+ ion és két Br– ion között az ionok aránya 1:2, mivel 1×(+2) + 2×(–1) = 0."
+    },
+    {
+      "id": 6,
+      "term": "Hogyan írható fel az ionkötés az Na és F között egyenletetekkel?",
+      "definition": "Na → Na+ + e– (oxidáció), F + e– → F– (redukció), majd Na+ és F– között ionkötés alakul ki.",
+      "quote": "Elektronátadás és vonzás",
+      "text": "Az első egyenlet az elektronleadást, a második az elektronfelvetelt mutatja. Az eredmény: a nátriumion pozitív töltésű, a fluoridion negatív töltésű. Az ellentétes töltések elektrosztatikus erővel vonzzák egymást, ami az ionkötés kialakulásához vezet."
+    },
+    {
+      "id": 7,
+      "term": "Mit jelent az, hogy az ion nemesgázszerkezetet ér el?",
+      "definition": "Azt jelenti, hogy az ionnak a külső elektrónjainak száma megegyezik egy nemesgáz külső elektronjainak számával (általában 8 a második periódustól).",
+      "quote": "8 vagy 2 elektron stabil",
+      "text": "Az első periódus nemesgázai (He) 2 elektronnal rendelkeznek a külső pályájukon. A második periódustól (Ne, Ar stb.) 8 elektron a jellemző. Az ionok általában ezt az elektronszámot próbálják elérni, mert ez az igen stabil, telített konfigurációt jelent."
+    },
+    {
+      "id": 8,
+      "term": "Mi a kalcium-bromid ionos képlete és miért?",
+      "definition": "CaBr2, mert a Ca2+ ion és a Br– ionok között az arány 1:2 (összes töltés: +2 – 2 = 0).",
+      "quote": "Kettő Br egy Ca-hoz",
+      "text": "A kalciumion Ca2+ töltésű (két elektront ad le), a bromidion Br– töltésű (egy elektront vesz fel). Az ionok semlegessége érdekében egy kalciumionra két bromidion szükséges ahhoz, hogy a töltések kiegyensúlyozottak legyenek."
+    },
+    {
+      "id": 9,
+      "term": "Mely elemek képeznek jellemzően ionokat?",
+      "definition": "Az I-II. csoport fémei (Na, K, Ca stb.) és a VI-VII. csoport nemfémai (O, F, Cl stb.) képeznek jellemzően ionokat.",
+      "quote": "Fémek és nemfémek ionosítanak",
+      "text": "Az elektropozitív fémek könnyedén leadják elektronjaikat, így pozitív ionok alakulnak ki. Az elektronegatív nemfémek könnyen felveszik az elektronokat, így negatív ionok jönnek létre. Az átmeneti elemek és a pn-átmeneti elemek összetettebb ionképzést mutatnak."
+    },
+    {
+      "id": 10,
+      "term": "Mit jelent az elektronegativitás (EN) a kötések kapcsán?",
+      "definition": "Az elektronegativitás egy atom azon képessége, hogy a kovalens kötésben levő elektronpárokat magához vonzza.",
+      "quote": "Elektron magához vonzási erő",
+      "text": "Az elektronegativitás értékek 0,7-től 3,98-ig terjednek. Az elemek közül a fluor a legmagasabb (3,98), az alkálifémek a legalacsonyabbak (~0,8). Az ionkötés kialakulásához nagy EN-különbség szükséges az atomok között."
+    },
+    {
+      "id": 11,
+      "term": "Melyik halmazállapotban alakul ki az ionrács?",
+      "definition": "Az ionrács szilárd halmazállapotban alakul ki, ahol az ionok rögzített pozícióban helyezkednek el.",
+      "quote": "Kristályos szilárd szerkezet",
+      "text": "Ionvegyületek a szobahőmérsékleten jellemzően szilárd halmazállapotban vannak. Az ionok a kristályrácsban rögzített helyeken helyezkednek el. Megolvadás vagy feloldódás után az ionok mobilitása megnő."
+    },
+    {
+      "id": 12,
+      "term": "Mit jelent az, hogy Na+ ion és F– ion között elektrosztatikus vonzás van?",
+      "definition": "Az ellentétes elektromos töltésű ionok között erős vonzóerő lép fel, amely az ionkötés alapja.",
+      "quote": "Coulomb-erő működik",
+      "text": "Az elektrosztatikus vonzás a Coulomb-törvénynek engedelmeskedik: F = k(q1×q2)/r². Az ionok közötti távolság csökkentésével és a töltések nagyságának növelésével nő az vonzóerő. Ez magyarázza az ionos vegyületek nagy szilárdságát és felolvadási pontját."
+    },
+    {
+      "id": 13,
+      "term": "Hogyan alakul ki az ionkötés, ha az egyik atom elektronleadó, a másik elektronfelvetö?",
+      "definition": "Az elektronleadó atom pozitív ionná válik, az elektronfelvetö atom negatív ionná alakul, amelyek között erős elektrosztatikus vonzás jön létre.",
+      "quote": "Redox alapú kötésképzés",
+      "text": "Ez egy redoxireakció: az egyik atom oxidálódik (elektronokat veszít), a másik redukálódik (elektronokat nyer). Az eredmény az ionpár és az azok közötti ionkötés. A folyamat energiafelszabadulással jár, mert az ionok alacsonyabb energiájú állapotban vannak, mint az eredeti atomok."
+    },
+    {
+      "id": 14,
+      "term": "Miért nem kialakulnak ionkötések csak két atom között, hanem ionrács alakul ki?",
+      "definition": "Mert az ionok körül elektromos tér alakul ki, amely több ellentétes töltésű iont von magához, így háromdimenziós hálózat jön létre.",
+      "quote": "Több ion összehúzódik",
+      "text": "Az egy pozitív ionhoz több negatív ion vonzódik, mivel az összes ellentétes töltésű ion elektrosztatikus vonzásban áll vele. Ez a folyamat addig folytatódik, amíg a stabil kristályrácsszerkezet kialakulása. Az ionrác stabilitása azért nagyobb, mint az egyszerű ionpáré."
+    },
+    {
+      "id": 15,
+      "term": "Mely tulajdonságok jellemzik az ionos kötésű vegyületeket?",
+      "definition": "Az ionos vegyületek szilárdak, magas olvadáspontú, vezetik az elektromosságot olvadt vagy oldott állapotban, és általában jól oldódnak poláris oldószerekben.",
+      "quote": "Kemény, vezetö, oldékony",
+      "text": "Az ionos vegyületek szilárd halmazállapotúak (ionrács erőssége miatt), magas olvadás- és forrásponttal rendelkeznek. Olvadt vagy oldott állapotban vezetik az elektromosságot, mert az ionok mobillá válnak. Poláris oldószerekre (pl. víz) oldódnak, mert a poláris molekulák az ionokat körül tudják venni (szolvatáció)."
+    },
+    {
+      "id": 16,
+      "term": "Mi a különbség az ionkötés és a kovalens kötés között a kötésbildzödés módja szerint?",
+      "definition": "Az ionkötés elektronfelvételből és -leadásból alakul ki, a kovalens kötés elektronok megosztásából.",
+      "quote": "Ionkötés: átadás; kovalens: megosztás",
+      "text": "Az ionkötésben az egyik atom teljesen átadja elektronjait a másiknak, míg a kovalens kötésben az elektronok mindkét atom körül vannak. Ez a különbség magyarázza a két kötés típus igen eltérő tulajdonságait."
+    },
+    {
+      "id": 17,
+      "term": "Mit jelent az, hogy az elektronegativitás-különbség kellően nagy az ionkötés kialakulásához?",
+      "definition": "Általában akkor beszélünk ionkötésről, ha az EN-különbség nagyobb, mint 1,7 (illetve 2,0 in egyes tananyagok), de ez nem szigorú határ.",
+      "quote": "EN-diff > 1,7 ionos",
+      "text": "Az EN-különbség 0-3 közötti tartományban az átmenet folyamatos a poláris kovalensből az ionossá. Az 1,7-nél nagyobb különbség jellemzően ionkötést jelent, de vannak átmeneti esetek is (pl. AlCl3 is mutat ionos és kovalens jellegeket)."
+    },
+    {
+      "id": 18,
+      "term": "Mely elemek az I. csoportban (alkálifémek) jellegzetes ionokat alkotnak?",
+      "definition": "Az alkálifémek (Li, Na, K, Rb, Cs) jellemzően egyszeresen pozitív ionokat (M+) alakítanak ki, mert egy vegyértékelektront adnak le.",
+      "quote": "Alkálifémek: +1 töltésű",
+      "text": "Az I. csoportba tartozó fémek egyetlen vegyértékelektronnal rendelkeznek. Ez az elektron könnyen leválasztható, így +1 töltésű ionok alakulnak ki. Ezek az ionok nemesgázszerkezetűek (például Na+ szerkezete megegyezik a Ne-ével)."
+    },
+    {
+      "id": 19,
+      "term": "Mely elemek a VII. csoportban (halogének) jellegzetes ionokat alkotnak?",
+      "definition": "A halogének (F, Cl, Br, I) jellemzően egyszeresen negatív ionokat (X–) alakítanak ki, mert egy elektront vesznek fel.",
+      "quote": "Halogének: –1 töltésű",
+      "text": "A VII. csoport elemei hét vegyértékelektronnal rendelkeznek, így egy elektron felvételével nemesgázszerkezetet érnek el. A -1 töltésű halogenidionok keletkeznek. Ezek az ionok rendkívül stabillak, jól oldódnak vízben."
+    },
+    {
+      "id": 20,
+      "term": "Mit jelent az ionos vegyület oldhatósága vízben?",
+      "definition": "Az ionos vegyületek oldódnak a vízben, mert a víz poláris molekulái az ionokat körülvéve (szolvatáció) stabilizálják azokat.",
+      "quote": "Poláris víz feloldja az ionokat",
+      "text": "A víz dipólmolekula: oxigénere negatív, hidrogénjere pozitív töltés van. Az oldódás során a pozitív ionokat az oxigén körül vesz, a negatív ionokat a hidrogén körül vesz. Az ionos vegyületek nagy ionkötési energiája miatt általában csak poláris oldószerekre oldódnak jól."
+    },
+    {
+      "id": 21,
+      "term": "Mit jelent az, hogy az Na+ ion és az F– ion 'vonzzák egymást'?",
+      "definition": "Az ionok ellentétes elektromos töltése miatt egy vonzóerő lép fel közöttük, amely a kötési energiával jellemezhető.",
+      "quote": "Ellentétes töltés = vonzás",
+      "text": "Az elektrosztatikus vonzás az összes ellentétes töltésű szférikus objektum között tapasztalható. Az ionkötés erősségét az ionnagyság és a töltés nagysága határozza meg: kisebb ionok és nagyobb töltések nagyobb kötési energiát eredményeznek."
+    },
+    {
+      "id": 22,
+      "term": "Milyen kapcsolat van az elektronegativitás és az ionkötés között?",
+      "definition": "Minél nagyobb az elektronegativitás-különbség az atomok között, annál valószínűbb az ionkötés kialakulása.",
+      "quote": "EN-diff nagy = ionkötés",
+      "text": "Az elektronegativitás azt mutatja, hogy egy atom mennyire vonzza magához az elektronokat. Két atom nagy EN-különbsége azt jelenti, hogy az egyik könnyen leadja, a másik könnyen felveszi az elektronokat, ami ionkötés kialakulásához vezet."
+    },
+    {
+      "id": 23,
+      "term": "Miért hasadnak fel az ionkötések vízben?",
+      "definition": "A víz poláris molekulái az ionok körül helyezkednek el (szolvatáció), csökkentve az ionok közötti elektrosztatikus vonzást.",
+      "quote": "Szolvatáció gyengíti a kötést",
+      "text": "Az ionok bekerülése a vízbe azt jelenti, hogy azokat több száz vízmolekula vesz körül, amelyek poláris kölcsönhatásokkal stabilizálják őket. Az ionok közötti direkt vonzás ezáltal csökken, és az ionos szilárd anyag feloldódik."
+    },
+    {
+      "id": 24,
+      "term": "Melyik elektron megy át a Na-ról az F-ra?",
+      "definition": "A nátriumnak a legkülsőbb elektronja (3s-elektron), amely a nemesgázszerkezet eléréséhez felesleges.",
+      "quote": "3s elektron megy át",
+      "text": "A Na elektronkonfigurációja [Ne]3s1. Az 3s1 elektron vezet a 3s0 konfigurációhoz, amely a Ne-szerkezet. Az F elektronkonfigurációja [He]2s²2p⁵, és az elektron felvételével [He]2s²2p⁶ = Ne-szerkezet alakul ki."
+    },
+    {
+      "id": 25,
+      "term": "Miért nevezik az ionrácsos szerkezetet 'szóródottnak' egy ionpárhoz képest?",
+      "definition": "Mert az ionok nem párokba, hanem egy nagy háromdimenziós hálózatba rendeződnek, ahol minden ion több ellentétes töltésű ionnal van közvetlenül kapcsolatban.",
+      "quote": "3D hálózat, nem párok",
+      "text": "Az ionpár csak két ion közötti vonzást írná le. Az ionrács azonban egy folytonos szerkezet, ahol a pozitív ionok körül több negatív ion, és fordítva. Ez a szerkezet sokkal stabilisabb és nagyobb kötési energiáját magyarázza."
+    },
+    {
+      "id": 26,
+      "term": "Mi az ionkötés definíciójának kulcspontja?",
+      "definition": "A kulcspont az, hogy a kötést az ellentétes töltésű ionok közötti elektrosztatikus vonzás hozza létre.",
+      "quote": "Elektrosztatikus vonzás alapja",
+      "text": "Az ionkötés lényege nem az elektronok megosztása vagy adományozása a kötés képzésére, hanem az elektromos vonzás, amely az ellentétes töltések között alakul ki. Ez a megközelítés a klasszikus elektromágneses elméletre alapul."
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Ammónia (NH₃) - alapvető tulajdonságok",
+      "definition": "Színtelen, szúrós szagú, mérgező gáz. Trigonális piramisos szerkezetű molekulák. Vízben nagyon jól oldódik, gyenge bázis. Cseppfolyós és szilárd halmazállapotban hidrogénkötésekkel kapcsolódik.",
+      "quote": "Szúrós, piramisos, oldódik, bázis",
+      "text": "Az ammónia (NH₃) egy fontos nitrogénvegyület, amely trigonális piramisos szerkezetű molekulák formájában jelenik meg. A középpontban az N atom helyezkedik el, három H atom pedig a piramis alap csúcsain. Az N atom egy szabad elektronpárral rendelkezik. Az ammónia vízben rendkívül jól oldódik, mivel hidrogénkötéseket képez a vizmolekulákkal. Gyenge bázisként viselkedik, amely képes protonokat felvenni."
+    },
+    {
+      "id": 2,
+      "term": "Ammónia vizes oldata - lúgos kémhatás",
+      "definition": "NH₃ + H₂O ⇌ NH₄⁺ + OH⁻. Az ammónia vizes oldata (szalmiákszesz) lúgos kémhatású gyenge bázis.",
+      "quote": "Egyensúly, hidroxidion, lúgos",
+      "text": "Az ammónia vízben nem teljesen ionizálódik, hanem egyensúlyi reakcióban részben protonokat vesz fel a vízmolekuláktól. Ez az egyensúlyi folyamat hidroxidionokat (OH⁻) és ammóniumionokat (NH₄⁺) termel, ami a megoldás lúgos kémhatásához vezet. Az 'szalmiákszesz' név az ammónium-klorid régi nevéből (szalmiák) származik. A szökőkút-kísérletben ezt mutatják meg: az ammóniagáz olyan gyorsan oldódik vízben, hogy vákuumot hozhat létre."
+    },
+    {
+      "id": 3,
+      "term": "Ammónia szintézis - ipari eljárás",
+      "definition": "N₂ + 3 H₂ ⇌ 2 NH₃. 400°C-on, 15-25 MPa nyomáson, vaskatalizátor jelenlétében. Egyensúlyos exoterm folyamat.",
+      "quote": "Haber-Bosch, magas nyomás",
+      "text": "Az iparban az ammónia előállítása a Haber-Bosch eljárás szerint történik. A nitrogén és hidrogén gáz körülbelül 400°C-on és 15-25 MPa (körülbelül 150-250 atm) nyomáson reagál vaskatalizátor jelenlétében. Ez az egyensúlyos folyamat exoterm, ezért az alacsonyabb hőmérséklet termodinamikailag kedvezőbb lenne, de az alacsony hőmérsékleten a reakció túl lassú. A magas nyomás felfelé irányítja az egyensúlyt (Le Chatelier elve szerint)."
+    },
+    {
+      "id": 4,
+      "term": "Ammónia laboratóriumi előállítása",
+      "definition": "Ammóniaodat melegítésével vagy ammóniumsókból erős bázissal, pl. 2 NH₄Cl + Ca(OH)₂ = NH₃ + CaCl₂ + 2 H₂O",
+      "quote": "Melegítés, Ca(OH)₂, felszabadítás",
+      "text": "A laboratóriumban az ammónia előállításának leggyakoribb módja az ammónium-klorid és kalcium-hidroxid reakciója. Ezek az alapanyagok keverendők és melegítendők, amely során az ammóniagáz felszabadul. Egy másik módszer az ammóniaodat közvetlenül melegíteni, amely során az oldott ammónia felszabadul a gáz fázisba. Az így előállított ammóniát a gázáramban elvezetik a kísérlet helyére."
+    },
+    {
+      "id": 5,
+      "term": "Ammónia katalitikus oxidációja",
+      "definition": "4 NH₃ + 5 O₂ = 4 NO + 6 H₂O. Katalizátor jelenlétében. Ez a salétromsavgyártás első lépése.",
+      "quote": "Nitrogén-monoxid, salétromsav-előállítás",
+      "text": "Az ammónia katalitikus oxidációja nitrogén-monoxidot (NO) termel, amely kritikus a salétromsav ipari előállításához. Platinakatalzátor jelenlétében az ammónia oxigénnel reagálva NO-t és vizet termel. Ez egy exoterm oxidációs folyamat, amely körülbelül 800°C-on történik. Az így előállított NO-t tovább oxidálják NO₂-vé, amely majd vízben feloldódik a salétromsav képzéséhez."
+    },
+    {
+      "id": 6,
+      "term": "Nitrogén-monoxid (NO) - előállítása réz és salétromsav reakciójából",
+      "definition": "3 Cu + 8 HNO₃ = 3 Cu(NO₃)₂ + 2 NO + 4 H₂O. Közepes töménységű salétromsav és réz között.",
+      "quote": "Réz, savreakció, gáz",
+      "text": "A laboratóriumban az NO előállítása réz és közepes töménységű salétromsav között játszódik le. A réz oxidálódik Cu(II)-ivá, míg a salétromsav redukálódik NO-vá. A keletkezett NO színtelen gáz, amely azonban a levegő oxigénjével kapcsolatban gyorsan barnavodó NO₂-vé oxidálódik. Ez az eljárás jó módja az NO laboratóriumi előállításának."
+    },
+    {
+      "id": 7,
+      "term": "Nitrogén-monoxid (NO) - alapvető tulajdonságok",
+      "definition": "Színtelen, szúrós szagú, mérgező gáz. Szabad gyök, párosítatlan elektronnel. A levegő oxigénjével szobahőmérsékleten NO₂-vé oxidálódik: 2 NO + O₂ ⇌ 2 NO₂",
+      "quote": "Szabad gyök, oxidálódik NO₂-vé",
+      "text": "A NO egy szokatlan molekula, mivel párosítatlan elektront tartalmaz, ami szabad gyökhöz (radikal) teszi. Ez a párosítatlan elektron a reaktivitásához vezet. NO maga szobahőmérsékleten viszonylag stabil, de a levegő oxigénjével gyorsan reagál, barnavodó NO₂-vé oxidálódva. Ez az oxidáció az oka annak, hogy a laboratóriumi kísérletekben az NO gyorsan barnavvá válik."
+    },
+    {
+      "id": 8,
+      "term": "Nitrogén-monoxid légszennyezés",
+      "definition": "NO és NO₂ légszennyező anyagok, az egészségkárosító hatású városi szmog összetevői. Főként gépjárművek kipufogógázából kerülnek a légkörbe.",
+      "quote": "Szmog, kipufogógáz, egészségkár",
+      "text": "Az NO és NO₂ a motorok belső égésének termékei, így főként autók kipufogógázából kerülnek az atmosztférába. A levegőben NO oxidálódik NO₂-vé, amely barnaváros színű és szúrós szagú gáz. Ezek a vegyületek fotokémiai smog képződésében játszanak szerepet, amely az előzónt és más oxidánsokat termel. Az NO és NO₂ mérgezőek az emberekre, légzési problémákhoz vezethetnek."
+    },
+    {
+      "id": 9,
+      "term": "Nitrogén-monoxid biológiai szerepe",
+      "definition": "Az élő szervezetekben természetesen megtalálható neurotranszmitter az idegsejtek közötti ingerületátvitelhez.",
+      "quote": "Neurotranszmitter, idegek",
+      "text": "Az NO nem csak légszennyezőként, hanem biológiai anyagként is fontos. Az élő szervezetekben NO molekulák az idegsejtek közötti jelzésben játszanak szerepet. Neurotranszmitterként működik, amely az idegsejtek közötti szinaptikus átvitelt közvetíti. Ez egy meglepő felfedezés volt, hogy egy viszonylag egyszerű és reaktív molekula ilyen összetett biológiai funkcióval rendelkezik."
+    },
+    {
+      "id": 10,
+      "term": "Nitrogén-dioxid (NO₂) - alapvető tulajdonságok",
+      "definition": "Vörösbarna gáz, szúrós szagú, mérgező. V-alakú, párosítatlan elektronnel rendelkező szabad gyök. Kettős kötés elektronjai delokalizálódnak.",
+      "quote": "Vörösbarna, szabad gyök",
+      "text": "Az NO₂ NO-val ellentétben vörösbarna színű gáz, amely a párosítatlan elektronja miatt szabad gyök. A molekula V-alakú szerkezetű, az N atom a csúcsban helyezkedik el. A nitrogén-oxigén kettős kötés elektronjai delokalizálódnak, ami rezonancia szerkezetekhez vezet. Ez az elektrondelokalozáció az NO₂ viszonylagos stabilitását magyarázza a párosítatlan elektron ellenére."
+    },
+    {
+      "id": 11,
+      "term": "Nitrogén-dioxid előállítása laboratóriumban",
+      "definition": "Réz és tömény salétromsav reakciója: Cu + 4 HNO₃ = Cu(NO₃)₂ + 2 NO₂ + 2 H₂O",
+      "quote": "Réz, tömény sav, NO₂ füst",
+      "text": "A NO₂ laboratóriumi előállítása réz és tömény salétromsav (körülbelül 70%) között játszódik le. Ez egy heves oxidációs folyamat, amely intenzív hőt és gázokat termel. A vörösbarna NO₂ gáz azonnal felszabadul, amely a laboratóriumi edényt kitöltő füstmódja jól látható. Ez az eljárás megmutatja a nitrogén-dioxid jellegzetes vörösbarna színét."
+    },
+    {
+      "id": 12,
+      "term": "NO₂ víz szerinti disproportciós reakciója",
+      "definition": "Oxigén nélkül: 2 NO₂ + H₂O = HNO₂ + HNO₃. Oxigénnel: 4 NO₂ + 2 H₂O + O₂ = 4 HNO₃",
+      "quote": "Diszproporció, savak",
+      "text": "Az NO₂ érdekes módon vízzel reagálva diszproporcionálódik, vagyis részben oxidálódik és részben redukálódik. Oxigén nélkül salétromossavat (HNO₂) és salétromsavat (HNO₃) termel. Oxigén jelenlétében a termék csak salétromsav. Ez a viselkedés fontos a gyakorlatban, hiszen a NO₂ ipari szintézise során ezt a viselkedést kihasználják a salétromsav előállításához."
+    },
+    {
+      "id": 13,
+      "term": "Dinitrogén-oxid (N₂O) - alapvető tulajdonságok",
+      "definition": "Színtelen, édeskés szagú és ízű, bódító hatású gáz. Nagyobb koncentrációban belélegezve eufóriát, majd eszméletvesztést okoz. Nevetőgáz, kéjgáz.",
+      "quote": "Édeskés, bódító, nevetőgáz",
+      "text": "Az N₂O vagy dinitrogén-oxid egy érdekes és egyedi gáz. Színtelen, de jellegzetes édeskés szagú és ízű. A név 'nevetőgáz' vagy 'kéjgáz' abból az effektusból származik, hogy nagyobb mennyiségben belélegezve enyhén euforikus hatást okoz, amely nagyobb koncentrációnál eszméletvesztéshez vezet. A molekula lineáris szerkezetű, az N atomok közötti kötés párosítatlan elektronnal rendelkezik."
+    },
+    {
+      "id": 14,
+      "term": "N₂O orvosi alkalmazása",
+      "definition": "N₂O orvosi alkalmazása általános érzéstelenítésre, az altatás fenntartására használható gáz műtéteknél.",
+      "quote": "Anesztézia, altatás",
+      "text": "Az N₂O orvosi alkalmazása az 1800-as évek óta ismert. Az általános érzéstelenítésnél az altatás fenntartására használható, gyakran más anesztéziaggáz kombinációjában (például oxigénnel). Az N₂O-nak fájdalomcsillapító és szedatív hatása van, amely így jól használható szükség szerinti altatáshoz. Azonban teljes általános anesztéziára önmagában nem elegendő."
+    },
+    {
+      "id": 15,
+      "term": "N₂O szakács alkalmazása - hajtógáz",
+      "definition": "Palackos tejszínhab hajtógázaként használják. Az N₂O nem reagál a tejszínnel, inert és biztonságos.",
+      "quote": "Tejszínhab, hajtógáz",
+      "text": "Az N₂O-nak van egy praktikus mindennapos alkalmazása is. A palackos tejszínhab készítésben N₂O-t használnak hajtógázként a tejszín felszívódásának megakadályozásához a palackból. Az N₂O választás azért szerencsés, mert nem reakcióképes és biztonságos az élelmiszerrel való kapcsolatra. A palack nyomása alatt az N₂O feloldódik a zsírban, majd a nyomás feloldásánál a gáz felszabadulása habot képez."
+    },
+    {
+      "id": 16,
+      "term": "Difoszfor-pentaoxid (P₂O₅) - alapvető tulajdonságok",
+      "definition": "Fehér színű, erősen higroszkópos szilárd anyag. Vízzel reagálva foszforsavat képez: P₂O₅ + 3 H₂O = 2 H₃PO₄",
+      "quote": "Fehér, víz vonzza, savat termel",
+      "text": "Az P₂O₅ a foszfor oxidációs termékei közül a legfontosabb. Fehér, kristályos szilárd anyag, amely rendkívül higroszkópos, vagyis nagy avidly vonzza a levegő nedvességét. Ez az erős higroszkópikus tulajdonsága miatt laboratóriumokban szárítószerként használják. A vízzel reagálva intenzív hő fejlesztésével foszforsavat termel."
+    },
+    {
+      "id": 17,
+      "term": "P₂O₅ szárítószer alkalmazása",
+      "definition": "Laboratóriumok szárítószerként használják a nagy higroszkópikus tulajdonsága miatt. Hatékonyan eltávolítja a nedvességet.",
+      "quote": "Szárítószer, higroszópikus",
+      "text": "Az P₂O₅ laboratóriumi szárítószer, amely a leghatékonyabban működik száraz anyagok és gázok szárazságának megőrzésére. Az erős higroszkópikus tulajdonsága azt jelenti, hogy agresszíven vonzza a nedvességet a levegőből és az anyagokból. Ezért szárító oszlopokba, exszikkátorokba és száraz anyagokat szállító edényekbe helyezik."
+    },
+    {
+      "id": 18,
+      "term": "Salétromossav (HNO₂) - alapvető tulajdonságok",
+      "definition": "Instabil, csak vizes oldatban létező gyenge sav. Sói a nitritek. Könnyen bomlik.",
+      "quote": "Instabil, csak oldat, gyenge sav",
+      "text": "Az HNO₂ vagy salétromossav egy instabil vegyület, amely szobahőmérsékleten nem szolid vagy folyékony formában létezik. Csak vizes oldatban lehet előállítani és kezelni. Gyenge sav, amely csak részlegesen ionizálódik vízben. A hő, fény és katalizátorok (például réz) jelenlétében bomlik nitrogén-monoxiddá és vízévé. Sói, a nitritek, azonban stabilabbak."
+    },
+    {
+      "id": 19,
+      "term": "Salétromsav (HNO₃) - alapvető tulajdonságok",
+      "definition": "Színtelen, maró folyadék. Szobahőmérsékleten is lassan bomlik, nitrogén-oxidok keletkeznek. Erős sav, disszociációja ~100%-ban lejátszódik.",
+      "quote": "Erős sav, bomlik, nitrogén-oxidok",
+      "text": "A salétromsav a legfontosabb nitrogénvegyület az iparban. Színtelen folyadék, amely a nitrogén-oxidok miatt szúrós szagú. A összes összetevő között bomlik, oldatban sárgásra színeződik. Erős sav, gyakorlatilag 100%-ban disszociál vízben. Az azeotrop összetételű (65-70 tömegszázalékos) vizes oldat füstölgő salétromsavnak (rauching nitric acid) hívják."
+    },
+    {
+      "id": 20,
+      "term": "Salétromsav molekuláris szerkezete",
+      "definition": "Molekulái között hidrogénkötések alakulnak ki. Vízmentes salétromsav forráspontja 83°C, a tömény vizes oldat forráspontja magasabb.",
+      "quote": "Hidrogénkötés, 83°C, magas forrás",
+      "text": "A tiszta (vízmentes) salétromsav molekulái erős hidrogénkötéseken keresztül kapcsolódnak egymáshoz, amely a viszonylag magas forráspontot (83°C) eredményez. A gyakorlatban használt tömény (65-70 tömegszázalékos) vizes oldat még magasabb forrásponttal rendelkezik a víztartalom miatt. Az oldat az idő során bomlik és sárgásra színeződik."
+    },
+    {
+      "id": 21,
+      "term": "Salétromsav oxidáló sajátossága",
+      "definition": "Oxidáló sav. Tömény oldata pozitív standardpotenciálú fémeket (Cu, Ag, Hg) is feloldja. Passzív fémek (Fe, Al) nem oldódnak.",
+      "quote": "Tömény, oxidál, fém oldás",
+      "text": "A salétromsav nem csak sav, hanem erős oxidálószer is. Tömény formájában olyan fémeket is feloldja, amelyeket normálisan nem oldhat meg az oxidáció nélkül. Például réz és ezüst, amelyek nem állnak előbb hidrogéngázt, feloldódnak a tömény salétromsavban az oxidáló hatása miatt. Azonban az alumínium és vas passzívvá válnak tömény salétromsavban, mivel a felsín oxidáció-réteg képződik, amely megvédi az alapanyagot."
+    },
+    {
+      "id": 22,
+      "term": "Salétromsav ipari előállítása",
+      "definition": "Ammóniából kiindulva három lépésben: 1) NH₃ oxidációja NO-vá, 2) NO oxidációja NO₂-vé, 3) NO₂ elnyeletése vízben oxigén jelenlétében.",
+      "quote": "Ammónia, NO, NO₂, vízben",
+      "text": "Az iparban a salétromsav előállítása az Ostwald eljárás során ammóniából indul. Az első lépésben az ammónia katalitikus oxidációjával NO-t termelnek. Az egyenletes NO-t majd oxigénnel további oxidálják NO₂-vé. Végül az NO₂-t vízben oldják fel oxigén jelenlétében, amely 4 NO₂ + 2 H₂O + O₂ = 4 HNO₃ egyenlet szerint salétromsavat termel. Ez az eljárás nagy mennyiségben termel ipari salétromsavat."
+    },
+    {
+      "id": 23,
+      "term": "Salétromsav alkalmazása",
+      "definition": "Nagy mennyiségben használják különböző nitrogéntartalmú műtrágyák és robbanóanyagok előállítására.",
+      "quote": "Műtrágya, robbanóanyag",
+      "text": "A salétromsav az ipar egyik legfontosabb vegyülete. Főként műtrágyaként használt nitrátok előállításához (például ammónium-nitrát), valamint robbanóanyagok (például TNT, nitroglicerin) szintéziséhez. Az agrariális alkalmazás általában nagyobb mennyiség, hiszen az N és P műtrágyák a világgazdaság критical része."
+    },
+    {
+      "id": 24,
+      "term": "Foszforsav (H₃PO₄) - alapvető tulajdonságok",
+      "definition": "Vízmentes: fehér, maró szilárd anyag, olvadáspont 40°C. Tömény vizes oldat (85%): színtelen folyadék. Háromértékű gyenge sav.",
+      "quote": "Háromértékű, gyenge, triproton",
+      "text": "A foszforsav (H₃PO₄) egy háromértékű sav, amely három protonnal rendelkezik, amelyeket fokozatosan képes felszabadítani. A vízmentes forma fehér szilárd anyag, amely alacsony olvadásponttal (40°C) rendelkezik. A laboratóriumban használatos tömény (85 tömegszázalékos) vizes oldat szinten marad. Gyenge sav, amely alapokban csak részlegesen disszociál. Kulonséges az, hogy a három proton fokozatosan felszabadul, három különböző disszociációs állandóval."
+    },
+    {
+      "id": 25,
+      "term": "Foszforsav stepwise disszciaciósa",
+      "definition": "H₃PO₄ + H₂O ⇌ H₂PO₄⁻ + H₃O⁺, H₂PO₄⁻ + H₂O ⇌ HPO₄²⁻ + H₃O⁺, HPO₄²⁻ + H₂O ⇌ PO₄³⁻ + H₃O⁺",
+      "quote": "Háromszor ionizálódik",
+      "text": "A foszforsav protonjai fokozatosan felszabadulnak. Az első ionizáció (H₃PO₄ → H₂PO₄⁻) a legerősebb, a második (H₂PO₄⁻ → HPO₄²⁻) közepesen erős, a harmadik (HPO₄²⁻ → PO₄³⁻) nagyon gyenge. Ennek oka az ionra negatív töltés növekedés, amely ellenzi a további proton felszabadítást. Ez az információ fontos a foszfát pufferrendszerekben, amelyek biológiai rendszerekben fontos szerepet játszanak."
+    },
+    {
+      "id": 26,
+      "term": "Foszforsav bázis közömbösítése",
+      "definition": "H₃PO₄ + NaOH = NaH₂PO₄ + H₂O (monohidrogén-foszfát), H₃PO₄ + 2 NaOH = Na₂HPO₄ + 2 H₂O, H₃PO₄ + 3 NaOH = Na₃PO₄ + 2 H₂O",
+      "quote": "Részleges, teljes közömbösítés",
+      "text": "A foszforsav három protonnal rendelkezik, így három fokozatú közömbösítés lehetséges a megfelelő aránytól függően. Egy mól NaOH-val reagáltatva mononatrium-hidrogén-foszfátot (NaH₂PO₄) kapunk, kétmóllal dinátrium-hidrogén-foszfátot (Na₂HPO₄), és hatmóllal trisodium-foszfátot (Na₃PO₄). Ez a flexibilitás lehetővé teszi a pufferrendszerek készítését, amelyek biológiai és laboratóriumi alkalmazásokban fontosak."
+    },
+    {
+      "id": 27,
+      "term": "Foszforsav biológiai szerep",
+      "definition": "Az élő szervezetben megtalálható, főként észterei formájában, például a nukleinsavakban (DNS, RNS) és egyes enzimekben.",
+      "quote": "DNS, RNS, enzimek",
+      "text": "A foszforsav vagy annak ionjai nélkülözhetetlen az élő szervezetekben. A DNS és RNS szerkezetében foszfát-észter kötések kapcsolják össze a cukorfoszfát vázat (sugar-phosphate backbone). Az enzimekben és a jelzőmolekulákban a foszforilációs módosítások kritikus szerepet játszanak a szabályozásban. Az energia közvetítésében (ATP) is fontos szerepet játszik a foszforil-kötés."
+    },
+    {
+      "id": 28,
+      "term": "Foszforsav élelmiszer alkalmazása",
+      "definition": "Híg oldata kellemesen savanykás ízű, nem mérgező, üdítőitalok ízesítésére használják.",
+      "quote": "Ízesítés, íz adalék",
+      "text": "A foszforsav híg oldata élelmiszerekben használatos ízesítőszer. Kellemesen savanykás ízű és nem mérgező, így biztonságosan használható az élelmiszerekben. Azonban nagyobb mennyiségben fogyasztva felvet egészségügyi aggályokat, például a csontok kalcium szintjét csökkenti. Az üdítőipalban gyakran szódavíz és egyéb italok ízesítésére használják."
+    },
+    {
+      "id": 29,
+      "term": "Ammónium-klorid (NH₄Cl) - alapvető tulajdonságok",
+      "definition": "Fehér, ionrácsos szerkezetű szilárd anyag. Szalmiáksónak is nevezik. HCl + NH₃ = NH₄Cl. Vizes oldata enyhén savas.",
+      "quote": "Szalmiáksó, ionrács, savas",
+      "text": "Az ammónium-klorid (NH₄Cl) egy fehér ionvegyület, amely az ammónia és a sósav közömbösítéséből keletkezik. A nevét a történeti szalmiákra utaló 'szalmiáksó' név hozza magával. Ionrácsos szerkezetű, az NH₄⁺ és Cl⁻ ionok szabályos háromdimenziós rács formájában helyezkednek el. A vizes oldata enyhén savas, mivel az NH₄⁺ ion hidrolízisén keresztül termel H⁺ ionokat."
+    },
+    {
+      "id": 30,
+      "term": "Ammónium-klorid gáz képződés",
+      "definition": "Ha sósav- és ammóniaoldatot egy szekrényben tárolnak, az edényeket idő során finom eloszlású NH₄Cl por bevonja, amely a gázok közötti reakcióból keletkezik.",
+      "quote": "Gázos ammónia és HCl, por",
+      "text": "Az ammónium-klorid érdekes tulajdonsága, hogy a gáz fázisban is képződhet az ammónia gáz és a sósav gőz között. Amikor egy szekrényben ammóniaodat és sósavat tárolnak egymás mellett, az edényfal között finom fehér por (ammónium-klorid) képződik. Ez a szublimáció és gázfázis-szintézis jó démonstráció a kémiai egyensúlyról és a reaktivitásról."
+    },
+    {
+      "id": 31,
+      "term": "Ammónium-nitrát (NH₄NO₃) - alapvető tulajdonságok",
+      "definition": "Fehér, ionrácsos szilárd anyag. Vizes oldata enyhén savas. Felrobbanhat nem megfelelő tárolás mellett.",
+      "quote": "Műtrágya, veszélyes",
+      "text": "Az ammónium-nitrát (NH₄NO₃) egy fehér ionvegyület, amely az ammónia és a salétromsav közömbösítéséből keletkezik. Ionrácsos szerkezetű, az NH₄⁺ és NO₃⁻ ionok alkotják. Vizes oldatban enyhén savas kémhatást mutat az NH₄⁺ hidrolízise miatt. Azonban nem megfelelő tárolás (magasabb hőmérséklet, szennyezés) mellett robbanóvá válhat, ami több ipari balesetet okozott."
+    },
+    {
+      "id": 32,
+      "term": "Ammónium-nitrát ipari katasztrófa",
+      "definition": "2020-ban Bejrútban közel 3000 tonna ammónium-nitrát robbant fel, 218 halott, 300000 lakhatatlan lakás.",
+      "quote": "Bejrúti robbanás, 2020",
+      "text": "Az ammónium-nitrát veszélyes volta 2020-ban szomorú tanúskodott egy nagy ipari katasztrófában Libanon Bejrút kikötőjében. Körülbelül 3000 tonna ammónium-nitrát, amely hosszú ideje nem megfelelően tárolt, ismeretlen okokból felrobbant. Az expanzió hatalmas volt, 218 halálos áldozatot okozott és 300 000 embert hagyott lakhatatlan otthon nélkül. Ez a katasztrófa hangsúlyozza az ammónium-nitrát helyes tárolásának fontosságát."
+    },
+    {
+      "id": 33,
+      "term": "NH₄⁺ ion vizes oldatban - hidrolízis",
+      "definition": "Az ammóniumion (NH₄⁺) a víz hidrogén-ionjával reagál, hidrolízisen keresztül gyenge sav hatásokat mutat.",
+      "quote": "Hidrolízis, savas",
+      "text": "Az NH₄⁺ ion egy gyenge sav, amely vízben hidrolízison keresztül felszabadíthat protonokat. Az NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺ egyensúly létezik, amely az ammóniasó oldatokat gyengén savassá teszi. Minél erősebb az asszociatív NH₃-H+ kötés, annál gyengébb sav az NH₄⁺. Ez az információ fontos az ammóniumsó pufferrendszereknél."
+    },
+    {
+      "id": 34,
+      "term": "NO₃⁻ (nitrát) ion vizes oldatban",
+      "definition": "A nitrátion (NO₃⁻) a salétromsav konjugáltja, amely nem mutat hidrolízis vagy csapadékképzés tendenciáját. Spektátorion.",
+      "quote": "Semleges, spektátor",
+      "text": "A nitrátion (NO₃⁻) egy szimmetrikus, rezonancia-stabilizált ion, amely nem mutat semennyire sem hidrolízis tendenciáját. Vízben nem ható, nem szín, és nem vesz részt tipikus csapadékképzésben az ion képletén kívül. Az oldatok kémhatásában semleges, így spektátorionnak tekintik több ionos egyenletben."
+    },
+    {
+      "id": 35,
+      "term": "PO₄³⁻ (foszfát) ion vizes oldatban",
+      "definition": "A foszfátion (PO₄³⁻) a foszforsav teljesen deprotonált formája. Lúgos hidrolízist mutat. Csapadékokat képez Ca²⁺ és Mg²⁺ ionokkal (fehér csapadékok).",
+      "quote": "Lúgos, fehér csapadékok",
+      "text": "A foszfátion (PO₄³⁻) a foszforsav legdeprotonált formája, nagy negatív töltéssel rendelkezik (-3). Vízben lúgos hidrolízist mutat, az oldatok lúgos kémhatásúak. Erősen reaktív a Ca²⁺ és Mg²⁺ ionokkal, amelyekkel fehér csapadékokat (Ca₃(PO₄)₂ és Mg₃(PO₄)₂) képez. Ez az összecsapódás biológiai rendszerekben, például a csontok foszfátosodásában, és a vízban szokásos kemény víz problémájában fontos."
+    }
+  ]
+}

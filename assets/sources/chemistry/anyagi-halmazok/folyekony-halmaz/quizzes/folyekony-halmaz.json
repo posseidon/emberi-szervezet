@@ -1,0 +1,201 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "folyekony-halmaz",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "A folyadékban a részecskék miért képesek helyüket megváltoztatni, ellentétben a szilárd anyag részecskéivel?",
+      "options": [
+        "Mert a folyadékban nincsenek kölcsönhatások a részecskék között.",
+        "Mert a részecskék energiája már elég nagy ahhoz, hogy átmenetileg el tudjanak szakadni a szomszédaiktól.",
+        "Mert a folyadék molekuláris szerkezete sajátságosan eltérő.",
+        "Mert a folyadék részecskéi sokkal kisebbek, mint a szilárd anyag részecskéi."
+      ],
+      "answer": "Mert a részecskék energiája már elég nagy ahhoz, hogy átmenetileg el tudjanak szakadni a szomszédaiktól."
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A folyadék belső súrlódásának nagyságát, amely azt jelenti, hogy mennyire könnyen gördülnek el egymáson a részecskék, _____ -nak nevezzük.",
+      "options": [],
+      "answer": "viszkozitás"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "A felületi feszültség miért alakul ki a folyadékok felszínén?",
+      "options": [
+        "Mert a folyadék és a levegő közötti grán határról van szó.",
+        "Mert a felszínen levő molekuláknak csak a folyadék belseje felé vannak szomszédai, így az erők nem kiegyenlítődnek.",
+        "Mert a folyadék molekulái nagyobbak a levegőben, így vonzanak egymást.",
+        "Mert az elektromágneses erők a felszínben legyengülnek."
+      ],
+      "answer": "Mert a felszínen levő molekuláknak csak a folyadék belseje felé vannak szomszédai, így az erők nem kiegyenlítődnek."
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A vízcsepp a felületi feszültség miatt _____ -ú alakot vesz fel.",
+      "options": [],
+      "answer": "gömbölyű"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Az etil-alkohol és a víz összeöntésekor miért keverednek el tökéletesen?",
+      "options": [
+        "Mert a sűrűségük közel azonos.",
+        "Mert mindkettő apoláris molekulákból áll.",
+        "Mert mindkettő poláris molekulákból áll, és képesek hidrogénkötéseket kialakítani egymással.",
+        "Mert az etil-alkohol univerzális oldószer."
+      ],
+      "answer": "Mert mindkettő poláris molekulákból áll, és képesek hidrogénkötéseket kialakítani egymással."
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Ha két folyadék összeöntésekor az új térfogat kevesebb, mint az eredeti térfogatok összege, ezt _____ -nak nevezzük.",
+      "options": [],
+      "answer": "térfogati kontrakció"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "A víz és a benzin nem elegyednek egymással. Melyik folyadék helyezkedik el a felül?",
+      "options": [
+        "A víz, mert nagyobb a sűrűsége.",
+        "A benzin, mert kisebb a sűrűsége.",
+        "Mindkettő azonos helyzetben van, mivel nem keverednek.",
+        "A víz, mert poláris és a benzin apoláris."
+      ],
+      "answer": "A benzin, mert kisebb a sűrűsége."
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A folyadékok összenyomhatatlanságának oka az, hogy a részecskéik _____ illeszkednek egymáshoz.",
+      "options": [],
+      "answer": "szorosan"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Az etolaj és a víz keveredésének tanulmányozásakor azt figyeltük meg, hogy ha szóval keverjük, elég jól keverednek, de hosszabb idő után szétválnak. Ez a jelenség a _____ -nak oka, amelyet a folyadékok között fellépő vonzó kölcsönhatások gyengesége magyaráz.",
+      "options": [
+        "felületi feszültség",
+        "viszkozitás",
+        "nem elegyedés",
+        "diffúzió"
+      ],
+      "answer": "nem elegyedés"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Ha ételfestéket cseppentünk egy pohár vízbe, idővel teljesen egyenletesen fog eloszlani a folyadékban. Ez az _____ -nak nevezett folyamat a folyadékrészecskék hőmozgása miatt történik.",
+      "options": [],
+      "answer": "diffúzió"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "A folyadékban az erős és gyenge viszkozitású anyagok között az alábbiak közül melyik a jellegzetes különbség?",
+      "options": [
+        "Az erős viszkozitású folyadék könnyebben önthető.",
+        "Az erős viszkozitású folyadék könnyebben párolog.",
+        "Az erős viszkozitású folyadék sűrű és \"mézszerű\", a gyenge pedig könnyebben önthető.",
+        "Az erős viszkozitású folyadéknak magasabb a forráspontja."
+      ],
+      "answer": "Az erős viszkozitású folyadék sűrű és \"mézszerű\", a gyenge pedig könnyebben önthető."
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A folyadékok közötti polaritás-beli különbség alapján azt mondhatjuk, hogy a _____ _____ _____ anyagokat oldja legjobban.",
+      "options": [],
+      "answer": "hasonló polaritás"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Az HCl gáz vízben való oldódásakor két folyamat történik egymás mellett. Melyik a HELYES párosítás?",
+      "options": [
+        "Fizikai oldódás és szublimáció.",
+        "Kondenzáció és kémiai bontás.",
+        "Hidratáció és kémiai reakció az oldószerrel.",
+        "Diszperziós kölcsönhatás és ionizáció."
+      ],
+      "answer": "Hidratáció és kémiai reakció az oldószerrel."
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az ideális gáz molekulái között elhanyagolható a _____ vonzó kölcsönhatás.",
+      "options": [],
+      "answer": "vonzó"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az ideális gázok egyesített gáztörvénye: p·V = n·R·T. Ha egy zárt edényben (állandó anyagmennyiség és térfogat) megnöveljük a hőmérsékletet, mi történik?",
+      "options": [
+        "A nyomás csökken.",
+        "A nyomás nem változik.",
+        "A nyomás arányosan nőni fog a hőmérséklet növekedésével.",
+        "A nyomás exponenciálisan nő."
+      ],
+      "answer": "A nyomás arányosan nőni fog a hőmérséklet növekedésével."
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Az Avogadro törvénye szerint, mely folyamatban igaz az alábbi összefüggés: V1/n1 = V2/n2?",
+      "options": [
+        "Állandó hőmérsékleten és nyomáson, ha kétszer akkora mennyiségű gáz van, kétszer akkora térfogat szükséges.",
+        "Állandó térfogaton és nyomáson, ha a hőmérséklet növekszik, a nyomás is nő.",
+        "Állandó térfogaton és hőmérsékleten, ha az anyagmennyiség növekszik, a nyomás is nő.",
+        "Állandó anyagmennyiségnél, az anyag térfogata független a hőmérséklettől."
+      ],
+      "answer": "Állandó hőmérsékleten és nyomáson, ha kétszer akkora mennyiségű gáz van, kétszer akkora térfogat szükséges."
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "A gázok molekulái között szintén előfordul _____ folyamat, amely a koncentráció-kiegyenlítődést jelenti.",
+      "options": [],
+      "answer": "diffúzió"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Az 1 atm nyomáson, 25 °C hőmérsékleten, 1 liter térfogatban levő nitrogéngáz (N2). Ha a térfogat fele lesz (0,5 L), és a hőmérséklet állandó marad, mi történik a nyomással?",
+      "options": [
+        "A nyomás 0,5 atm-ra csökken.",
+        "A nyomás 2 atm-ra nőni fog.",
+        "A nyomás 1 atm marad.",
+        "A nyomás a hőmérséklet függvénye, nem a térfogat."
+      ],
+      "answer": "A nyomás 2 atm-ra nőni fog."
+    },
+    {
+      "id": 19,
+      "type": "BLANK",
+      "question": "Az egyesített gáztörvényben R az _____ -nak nevezett fizikai állandó, amely értéke 8,314 J/(mol·K).",
+      "options": [],
+      "answer": "egyetemes gázállandó"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "Az ideális gáz kinetikus gázelmélete szerint az ütközések típusa, amelyek a gázmolekulák között történnek:",
+      "options": [
+        "Rugalmatlanok, így az energia veszítődik.",
+        "Teljesen rugalmasok, az energia nem veszítődik.",
+        "Elektromágneses jellegűek.",
+        "Gravitációs vonzás okozza őket."
+      ],
+      "answer": "Teljesen rugalmasok, az energia nem veszítődik."
+    }
+  ]
+}

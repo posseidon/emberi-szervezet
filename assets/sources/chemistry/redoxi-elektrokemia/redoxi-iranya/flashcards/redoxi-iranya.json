@@ -1,0 +1,151 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Redoxireakció iránya",
+      "definition": "A redoxireakció iránya azt határozza meg, hogy mely anyagok alakulnak át reaktánsokból szét termékekké, és melyik irányú elektronátmenet játszódik le.",
+      "quote": "elektronátmenet iránya prediktálható",
+      "text": "A redoxireakciók iránya nem véletlenszerű, hanem meghatározott. Az irányt a fémek redoxiaktivitása, pontosabban az úgynevezett standardpotenciálok határozzák meg. A jobb redukálószer képes elektronokat kiszorítani a gyengébb redukálószerből."
+    },
+    {
+      "id": 2,
+      "term": "Standardpotenciál (E°)",
+      "definition": "A standardpotenciál az elektródpotenciál (feszültség) egy adott redoxirendszerre vonatkozóan standard körülmények között mért értéke.",
+      "quote": "feszültség standard körülmények között",
+      "text": "A standardpotenciál jele: εo vagy E°. Ez az a feszültség, amely egy redoxireakcióban az oxidáció és a redukció között feltételezéseit adódik. Standard körülmények: 25°C hőmérséklet, 1 mol/dm3 koncentráció, 101 kPa nyomás. Ezt a táblázatokból lehet kikeresni."
+    },
+    {
+      "id": 3,
+      "term": "Standardpotenciál és redukálószer erőssége",
+      "definition": "Az a fém, amelynek kisebb a standardpotenciálja, az erősebb redukálószer.",
+      "quote": "kisebb potenciál = erősebb reduktor",
+      "text": "Fordított az intuícióval ellentétben: az alacsonyabb (negatívabb) standardpotenciálú fém szívesebben leadja elektronjait. Ezt úgy lehet megjegyezni, hogy a szegényebb fém a szívesebben ad el valamit. A cinknek (–0,76 V) kisebb a standardpotenciálja, mint a réznek (+0,34 V), így a cink az erősebb redukálószer."
+    },
+    {
+      "id": 4,
+      "term": "Cink és réz standardpotenciáljai",
+      "definition": "ε°(Zn2+/Zn) = –0,76 V és ε°(Cu2+/Cu) = +0,34 V",
+      "quote": "Zn negatívabb, Cu pozitívabb potenciál",
+      "text": "Ezek a klasszikus, gyakran emlegettett standardpotenciál-értékek. A cink kisebb potenciáljából adódik, hogy képes elektronokat átadni a réz-ionoknak. Ezt a különbséget (ΔE° = +0,34 – (–0,76) = +1,10 V) használják fel a Daniell-elemben is. Ez a pozitív különbség jelzi a spontán folyamatot."
+    },
+    {
+      "id": 5,
+      "term": "Redoxireakció feltétele fém-fémion között",
+      "definition": "Redoxireakció akkor játszódik le, ha a kisebb standardpotenciálú fém van jelen elemi formában, a nagyobb standardpotenciálú pedig oxidált formában (ionként).",
+      "quote": "kisebb potenciál = fém, nagyobb = ion",
+      "text": "Ez az alapszabály a redoxireakciók irányának meghatározásához. Ha a cink (–0,76 V) elemi formában van, és a réz-ion (+0,34 V) oldatban van, akkor történik reakció. Fordított esetben (réz fém + cink-ion) nem megy végbe. Az elemi fém és az idegenebb fém ionja között alakul ki az egyensúly."
+    },
+    {
+      "id": 6,
+      "term": "Zn + Cu2+ reakció",
+      "definition": "A cinklemez réz-szulfát oldatban oldódik, felületén pedig réz válik ki: Zn + Cu2+ → Zn2+ + Cu",
+      "quote": "spontán redoxireakció Zn-Cu között",
+      "text": "Ez az egyik legfontosabb modellreakció. A Zn elemi formában van (E° = –0,76 V) és az erősebb redukálószer. A Cu2+ ion az oxidálószer. A cink oxidálódik, a réz redukálódik. Ezt folyamatos megfigyelés mutatja: a cinklemez vékonyabb lesz, a rézlemez pedig növekszik."
+    },
+    {
+      "id": 7,
+      "term": "Zn2+ + Cu reakció (fordított)",
+      "definition": "Rézelemi forma nem tud elektronokat átadni cink-ionoknak, ezért nincs reakció: Zn2+ + Cu ↛",
+      "quote": "no reaction fordított potenciálsorrendben",
+      "text": "Ez a nem megtörtént reakció legalább olyan fontos, mint az előző, mert megmutatja a redoxireakciók irányultságát. A réz (+0,34 V) gyengébb redukálószer, mint a cink (–0,76 V), így nem tudja elektronokat átadni a cink-ionoknak. A negatív E° különbség azt jelzi, hogy a folyamat nem spontán."
+    },
+    {
+      "id": 8,
+      "term": "Redoxisor (redukálószer-sor)",
+      "definition": "A fémek redoxiaktivitásának sorrendje, amelyet a standardpotenciáljaik alapján határoznak meg.",
+      "quote": "fémek erőssége sorba rendezve",
+      "text": "A redoxisort a fémek standardpotenciáljainak értékeisé alapján lehet felírni. A sorban az előbb álló (kisebb potenciálú) fém képes kiszorítani az utána állót az ionjából. Ez az ún. aktivitási sor segít gyorsan megjósolni, hogy mely redoxireakciók mennek végbe spontán módon."
+    },
+    {
+      "id": 9,
+      "term": "Elektronátmenet a Zn-Cu rendszerben",
+      "definition": "A cinklemez felületén az elektronok kiváló vezetők segítségével jutnak a rézelektródra, ahol felhasználódnak a Cu2+ redukciójában.",
+      "quote": "elektronátvétel vezetőn keresztül",
+      "text": "A redoxireakciók során az elektronok az egyik részecskétől a másikra kerülnek. A Zn-Cu rendszerben ez közvetlenül, a molekulák között játszódik le, hiszen mindkét anyag jelen van az oldatban. A galvánelemekben viszont az elektronokat vezetőn keresztül szállítjuk."
+    },
+    {
+      "id": 10,
+      "term": "Fém-fémion redoxireakciók általános mintázata",
+      "definition": "Az erősebb redukálószer fém + gyengébb redukálószer ionja → gyengébb redukálószer fém + erősebb redukálószer ionja",
+      "quote": "erős fém + gyenge ion + terméke",
+      "text": "Ez az általános egyenletek sablon a fém-fémion redoxireakciókhoz. Az erősebb redukálószer fém az oxidálódik, ionja keletkezik. A gyengébb redukálószer ionja redukálódik, elemi fém válik ki. Például: Fe + Cu2+ → Fe2+ + Cu, Ha Fe az erősebb reduktor."
+    },
+    {
+      "id": 11,
+      "term": "Standardpotenciál és reaktivitás",
+      "definition": "A nagyobb negatív standardpotenciál (vagy kisebb pozitív) nagyobb reaktivitást, erősebb redukálószer-képességet jelent.",
+      "quote": "negatívabb potenciál = reaktívabb",
+      "text": "Ez az inverz kapcsolat gyakran meghökkentő kezdőknek, de logikus: a negatív potenciál azt jelenti, hogy az elem szívesebben leadja elektronjait. Ez a kémiai reaktivitás mértéke. Az alkálifémek nagyobb negatív potenciálúak (pl. Na: –2,71 V), ezért reactívabbak, mint a nemesfémek (pl. Au: +1,68 V)."
+    },
+    {
+      "id": 12,
+      "term": "E° (standard elektródpotenciál) értékek táblázata",
+      "definition": "A standardpotenciál-értékeket összefoglaló táblázat segédletként használható a redoxireakciók irányának megjóslásához.",
+      "quote": "táblázat alapján előrejelzés",
+      "text": "Az E°-táblázat tartalmazza az összes fontos redoxirendszer standardpotenciáljait. Csökkenő sorrendben rendezve vannak. Ha egy fém potenciálja negatívabb, mint egy másik fém ionja, akkor spontán végbemegy a redoxireakció közöttük. Ez a táblázat nélkülözhetetlen eszköz az elektrokémiában."
+    },
+    {
+      "id": 13,
+      "term": "Standardpotenciál és Gibbs-szabadenergia",
+      "definition": "Az E° és a ΔG között kapcsolat van: ΔG = –nFE°, ahol a pozitív E° negatív ΔG-t jelent, vagyis spontán folyamatot.",
+      "quote": "pozitív E° = spontán folyamat",
+      "text": "A termodinamika érvényes az elektrokémiában is. Ha a számított E° értéke pozitív (a katódpotenciál nagyobb, mint az anódé), akkor a ΔG negatív, és a folyamat spontán. A standardpotenciálok közvetlenül jelezik a folyamat spontaneitását az elektrokémiában."
+    },
+    {
+      "id": 14,
+      "term": "Elektródpotenciál versus standardpotenciál",
+      "definition": "Az elektródpotenciál a tényleges körülmények között mért potenciál, míg a standardpotenciál definíció szerint standard körülmények között mérendő.",
+      "quote": "valós versus idealizált körülmények",
+      "text": "Az elektródpotenciál (ε) koncentrációfüggő, hőmérséklettől függ. A standardpotenciál (εo) pedig állandó, egy adott redoxirendszerre jellemző érték. A gyakorlatban az E° táblázatból kikeressük az értékeket, de a tényleges potenciálok eltérhetnek standard körülményektől."
+    },
+    {
+      "id": 15,
+      "term": "Nernst-egyenlet",
+      "definition": "Az elektródpotenciál kiszámítása nem-standard körülmények között: ε = εo + (RT/zF)·ln([oxidált]/[redukált])",
+      "quote": "potenciál nem-standard körülmények között",
+      "text": "A Nernst-egyenlet segítségével kiszámítható az elektródpotenciál, ha a körülmények eltérnek a standardtól. R az egyetemes gázállandó, T hőmérséklet, z elektron szám, F Faraday-állandó. Ez az egyenlet azt mutatja, hogy a potenciál a részecskék koncentrációjától függ."
+    },
+    {
+      "id": 16,
+      "term": "Redukálószer gyengesége és oxidálószer gyengesége",
+      "definition": "Az erősebb oxidálószer gyengébb redukálószerből képes elektronokat kiszorítani, ami azt jelenti, hogy az oxidálószer redukcióját könnyebb elérni.",
+      "quote": "erős oxidátor = gyenge reduktoros partner",
+      "text": "Fordított logika érvényes: ha egy fém gyenge redukálószer (magas potenciál), akkor az ionja erős oxidálószer. Például az arany (Au) gyenge redukálószer (+1,68 V), így az aranyion (Au3+) erős oxidálószer. Ez a kapcsolat segít megérteni a redoxireakciók kölcsönösségét."
+    },
+    {
+      "id": 17,
+      "term": "Aktivitási sor fémek között",
+      "definition": "A fémek aktivitási sora azt mutatja, hogy mely fém képes kiszorítani a másikat annak sóoldatából.",
+      "quote": "erősebb fém kiszorítja a gyengébbet",
+      "text": "Az aktivitási sor a redoxisorok egy másik megnevezése. Az előbb álló (reaktívabb) fém képes kiszorítani az utána állót az ionjából. Például: Fe > Cu > Ag sorbában a Fe ionos réz-oldatából kiszorítja a rezet, de Ag nem tudja."
+    },
+    {
+      "id": 18,
+      "term": "Galvánelem és redoxireakció iránya",
+      "definition": "A galvánelem működésében az elektronátmenet a redoxireakció irányultságábolivátmegj, az erősebb redukálószer anódján történik az oxidáció.",
+      "quote": "spontán redox = galvánelem működés",
+      "text": "A galvánelemek azon alapulnak, hogy a redoxireakció spontán végbemegy. Az elektronok az anódon (erősebb redukálószer) keletkeznek, és a katódra (erősebb oxidálószer, illetve annak ionja) szállítódnak. Ezáltal elektromos áram termelődik."
+    },
+    {
+      "id": 19,
+      "term": "Redoxireakció és egyensúly",
+      "definition": "A redoxireakciók általában teljesen lejátszódnak, az egyensúly a termékek felé van tolva, különösen ha az egyik termék távozik.",
+      "quote": "jobbra eltolt egyensúly",
+      "text": "Az erős redoxireakciók gyakorlatilag irreverzibilis folyamatok. Az elektronátmenet annyira kedvező, hogy majdnem 100%-ig lejátszódik. Ez azért fontos, mert a kísérleteink megbízható eredményeket adnak, és nem kell egyensúlyok figyelembe vétele általában."
+    },
+    {
+      "id": 20,
+      "term": "E° és a Faraday-állandó kapcsolata",
+      "definition": "Az E° (standardpotenciál) és a Faraday-állandó (F = 96 500 C/mol) között a Gibbs-energián keresztül van kapcsolat.",
+      "quote": "elektrokémiai energia termodinamika",
+      "text": "Az elektrokémia az energia perspektívájából a termodinamikához kapcsolódik. A Faraday-állandó az elektronok által szállított töltést méri. Az E° és F szorzata az egy mol elektron által szállított energiát jelzi, amely a munka és a Gibbs-energiához köthető."
+    },
+    {
+      "id": 21,
+      "term": "Redoxireakció spontánsága E° alapján",
+      "definition": "Ha E°(reaktáns) < E°(termék), akkor ΔE° > 0, és a redoxireakció spontán; ha ΔE° < 0, akkor nem spontán.",
+      "quote": "pozitív ΔE° = spontán",
+      "text": "Ez az alapvető összefüggés az elektrokémiában. Az E° különbség (ΔE°) meghatározza a termodinamikai kedvezettséget. Ha a katódpotenciálból az anódpotenciál negatívabb, az eredmény pozitív, és a folyamat spontán. Ez segít gyorsan eldönteni, mely redoxireakciók mennek végbe."
+    }
+  ]
+}

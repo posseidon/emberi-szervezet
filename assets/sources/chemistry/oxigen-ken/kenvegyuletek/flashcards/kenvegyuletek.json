@@ -1,0 +1,242 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Kénhidrogén (H2S) - szerkezet és tulajdonságok",
+      "definition": "A kénhidrogén (dihidrogén-szulfid) színtelen, záptojásszagú, nagyon mérgező gáz. V alakú molekulái dipólus-dipólus kölcsönhatásokkal kapcsolódnak. Kétértékű sav, vizes oldata enyhén savas.",
+      "quote": "Záptojásszag, mérgező",
+      "text": "A H2S molekula egy kén és két hidrogénatom által alkított, közt egyenkötések. A V alak a kén saját elektronpárja miatt alakul ki. Az olvadáspontja -85 °C, a forráspontja -60 °C. A szag már nagyon alacsony koncentrációban (0,0002 ppm) érzékelhető."
+    },
+    {
+      "id": 2,
+      "term": "Kénhidrogén - savtulajdonságok",
+      "definition": "A H2S kétértékű sav, amely két proton leadására képes. Az első disszoációs egyenlege: H2S + H2O ⇌ HS- + H3O+. A második: HS- + H2O ⇌ S2- + H3O+.",
+      "quote": "Kétértékű sav",
+      "text": "Az első lépés erősebb, a második gyengébb. Az oldatban HS- ionok dominálnak, kisebb mennyiségben S2- és H2S molekulák. A gyenge savnak minősül, de a pH-tól függően jelentős ionizáció történhet. Erős savakkal sulfidionokat ad."
+    },
+    {
+      "id": 3,
+      "term": "Kénhidrogén előfordulása",
+      "definition": "A kénhidrogén vulkáni gázokban és gyógyvizekben fordul elő. Kéntartalmú szerves vegyületek bomlása során is keletkezik (például a tojás és hús rotációja során).",
+      "quote": "Vulkáni gázok, fermentáció",
+      "text": "A H2S az anaerob bomlás tipikus terméke. A mocsárvidékekben és langyos vizekben sulfátot redukáló baktériumok termelik. A geotermikus terüleken gyakori, ahol a kén-redukció természetes folyamat."
+    },
+    {
+      "id": 4,
+      "term": "Kénhidrogén laboratóriumi előállítása",
+      "definition": "Laboratóriumban szulfidok (például nátrium-szulfid) és sav (például sósav) reakciójával lehet előállítani. Na2S + 2 HCl = H2S + 2 NaCl.",
+      "quote": "Szulfid + sav",
+      "text": "Az eredeti egyenlet: Na2S + 2 HCl → 2 NaCl + H2S↑. Ez az eljárás könnyen kivitelezhető, mivel a H2S gáz felszabadul az oldatból. A körülmények szabályozásával a H2S termelés kontrolálható. Más szulfidok (FeS) is használhatók."
+    },
+    {
+      "id": 5,
+      "term": "Kénhidrogén tökéletes égése",
+      "definition": "A kénhidrogén tökéletes égésénél (nagy oxigén-felesleg mellett) kén-dioxid és víz keletkezik. 2 H2S + 3 O2 = 2 SO2 + 2 H2O.",
+      "quote": "Tökéletes égés SO2-t ad",
+      "text": "A tökéletes égéskor a kén +4-es oxidációs számú SO2-vé oxidálódik. Az oxigén -2 oxidációs számmal jelenik meg a SO2-ben és H2O-ban. Az égés exoterm és halványkékes lánggal jár (körülbelül 255 °C lánghőmérséklet)."
+    },
+    {
+      "id": 6,
+      "term": "Kénhidrogén tökéletlen égése",
+      "definition": "Ha kevés az oxigén (tökéletlen égés), a termék elemi kén és víz lesz. 2 H2S + O2 = 2 S + 2 H2O.",
+      "quote": "Kevés oxigén = elemi S",
+      "text": "A tökéletlen égéskor az oxidáció nem fejezi be a +4-es oxidációs számot, hanem a kén 0-os oxidációs számú elemi kénné válik. Ez a klasszikus módszer az elemi kén laboratóriumi előállítására. A termék sárga csapadék vagy por formájában jelenik meg."
+    },
+    {
+      "id": 7,
+      "term": "Kénhidrogén redoxireakciói",
+      "definition": "A H2S redoxireakciókban reduktív hatást mutat, mivel a kén könnyen oxidálódik magasabb oxidációs számra. Erősen oxidáló szerek, például a permanganát vagy a klór redukálják a H2S-t.",
+      "quote": "Reduktív hatás",
+      "text": "Például: 2 KMnO4 + 3 H2SO4 + 5 H2S → K2SO4 + 2 MnSO4 + 5 S + 8 H2O. A permanganát vöröslilától szürkévé válik az elszíntelenedés során. Hasonlóan a klórvíz felszíntelenít egy H2S oldatot."
+    },
+    {
+      "id": 8,
+      "term": "Kén-dioxid (SO2) - szerkezet és tulajdonságok",
+      "definition": "A kén-dioxid színtelen, fojtó szagú, köhögésre ingerlő, mérgező gáz. V alakú molekulája kétszeres kötésekkel kapcsolódik. Szilárd halmazállapotban molekularácsos, vízben jól oldódik.",
+      "quote": "Fojtó szag, mérgező gáz",
+      "text": "Az SO2 molekulában a kénatom két oxigénatommal kettős kötésekkel kapcsolódik. Az olvadáspontja -75 °C, a forráspontja -10 °C. A dipólus-dipólus kölcsönhatások miatt a szilárd SO2 molekularácsos szerkezetű. A vízbeli oldódása magas, kb. 40 g/100 ml szobahőmérsékleten."
+    },
+    {
+      "id": 9,
+      "term": "Kénessav (H2SO3) - képzése",
+      "definition": "A kénessav SO2 és víz egyensúlyi reakciójában képződik. SO2 + H2O ⇌ H2SO3. Ez egy gyenge sav, amely bomlékony és csak híg oldatban létezik.",
+      "quote": "SO2 + H2O egyensúly",
+      "text": "A H2SO3 soha nem tisztítható meg, mivel a bomlása SO2-re és vízre végbemegy. Csak oldatban található meg, amely SO2, H2SO3, HSO3- és SO32- ionokat tartalmaz. A gyenge sav voltán kívül redoxireakciókban is képes szerepelni."
+    },
+    {
+      "id": 10,
+      "term": "Kénessav (H2SO3) - disszoációja",
+      "definition": "A H2SO3 két lépcsőben disszociál: H2SO3 + H2O ⇌ HSO3- + H3O+ és HSO3- + H2O ⇌ SO32- + H3O+. Az első lépés erősebb, a második gyenge.",
+      "quote": "Kétértékű gyenge sav",
+      "text": "Az első disszoációs állandó nagyobb, a második kicsi. Az oldatban elsősorban HSO3- ionok vannak. A SO32- ionok csak magas pH-n vagy erősen híg oldatban találhatók. A H2SO3 / HSO3- puffer-rendszer biológiai és ipari alkalmazásokra fontos."
+    },
+    {
+      "id": 11,
+      "term": "Kén-dioxid redoxireakciói - jód felszíntelenítése",
+      "definition": "A SO2 bizonyos körülmények között redukálószer. Például a jódot víz jelenlétében hidrogén-jodiddá redukálja. SO2 + I2 + 2 H2O = 2 HI + H2SO4.",
+      "quote": "Jód elszíntelenedik",
+      "text": "A barna jódoldat (Lugol-oldat) SO2-vel kezelve elszíntelenedik. A jód redukálódik I- ionná. Az SO2 oxidálódik H2SO4-vé (S +4 → +6). Ez az eljárás analitikai alkalmazásra is használható (jód titrálása SO2 oldattal)."
+    },
+    {
+      "id": 12,
+      "term": "Kén-dioxid redoxireakciói - kénhidrogénnel",
+      "definition": "A SO2 a H2S-sel szemben oxidálószerként viselkedik. 2 H2S + SO2 = 3 S + 2 H2O. Az elemi kén terméke az oldatban kitörlödik.",
+      "quote": "H2S + SO2 = S",
+      "text": "Ez az eljárás elemi kén laboratóriumi előállítására használatos. A H2S redukálódik (S -2 → 0), az SO2 oxidálódik (S +4 → 0). A kén kitörlődik a oldatból finom sárga csapadékként. Ezt a Claus-eljárás egyszerűsített változatának tekintik."
+    },
+    {
+      "id": 13,
+      "term": "Kén-dioxid előfordulása",
+      "definition": "A SO2 a savas esők egyik fő komponense. A légkörbe kéntartalmú fűtő- és üzemanyagok elégetésével kerül. A szén és szénhidrogének kéntartalmából származik.",
+      "quote": "Savas eső komponense",
+      "text": "A SO2 antropogén forrása az ipari emissziók, a szén- és olajüzemanyagok elégetése. A vulkáni tevékenység természetes SO2 forrás. A SO2 légköri oxidációja H2SO4-vé (savas eső) az egyik legnagyobb környezeti probléma."
+    },
+    {
+      "id": 14,
+      "term": "Kén-dioxid ipari előállítása",
+      "definition": "A SO2-t nagy mennyiségben előállítják a kénsavgyártáshoz. Az előállítási módok: kén égetése (S + O2 = SO2) vagy szulfidos ércek pörkölése.",
+      "quote": "Kén égése vagy pörkölés",
+      "text": "Tiszta kén égésénél: S + O2 → SO2. Az ércek (például pirit FeS2) pörkölésénél: 4 FeS2 + 11 O2 = 2 Fe2O3 + 8 SO2. A pörkölés atkemény vezetik a SO2-t további feldolgozásra. A SO2 a kénsavgyártás első lépése."
+    },
+    {
+      "id": 15,
+      "term": "Kén-dioxid laboratóriumi előállítása",
+      "definition": "Laboratóriumban SO2 előállítható szulfitokból savval. Például nátrium-szulfit és sósav: Na2SO3 + 2 HCl = 2 NaCl + H2O + SO2.",
+      "quote": "Szulfit + sav",
+      "text": "Az egyenlet: Na2SO3 + 2 HCl → 2 NaCl + H2O + SO2↑. A SO2 gáz felszabadul az oldatból. Ez az eljárás egyszerű és könnyen kontrollálható. Az SO2 gáz jól oldódik vízben és kénessavot képez."
+    },
+    {
+      "id": 16,
+      "term": "Kén-dioxid felhasználása",
+      "definition": "A SO2 főleg a kénsavgyártásban használatos. Másodlagos alkalmazása: boroshordók fertőtlenítése. A SO2 erősen redukáló hatása és mérgessége miatt alkalmas deszkinfektánsnak.",
+      "quote": "Kénsavgyártás, fertőtlenítés",
+      "text": "A borásatban a kénlapokat ég be boroshordókban, hogy a keletkező SO2 gáz elpusztítsa a mikroorganizmusokat. Az SO2 magas redox-potenciálja lehetővé teszi a bakteriális sejtek oxidációját. A gyógyászatban is használható (szemészet), de mérgessége miatt köztudott a veszély."
+    },
+    {
+      "id": 17,
+      "term": "Kén-trioxid (SO3) - szerkezet és tulajdonságok",
+      "definition": "A kén-trioxid színtelen, erősen maró hatású folyadék. Olvadáspontja 17 °C körül van, forráspontja 45 °C. Molekulái szabályos síkháromszögesek és apolárisak.",
+      "quote": "Maró folyadék, trianguláris",
+      "text": "Az SO3 molekulában a kénatom három oxigénatommal kettős kötésekkel kapcsolódik. A síkháromszöges szerkezet az apoláris szövetség miatt alakul ki. Az intramolekuláris köztések meglehetősen erős. A kristályváros szolvatációs és polimeres formák különböznek."
+    },
+    {
+      "id": 18,
+      "term": "Kén-trioxid és víz reakciója",
+      "definition": "Az SO3 nagyon hevesen reagál vízzel, exoterm folyamatban kénsav képződik. SO3 + H2O = H2SO4. Ez az egyik legexotermesebb ismert inorgánika-reakció.",
+      "quote": "Heves exoterm",
+      "text": "A reakció felrobban, amikor az SO3 vízhez adódik, nem fordítva. A hő miatt a víz gőz formában távozhat. Ezt az exotermikus reakciót ipari körülmények között gondosan szabályozzák. A SO3-ot általában tömény kénsavban oldják el, nem közvetlenül vízben."
+    },
+    {
+      "id": 19,
+      "term": "Kén-trioxid ipari előállítása - katalitikus oxidáció",
+      "definition": "Az iparban SO3-at kén-dioxid és oxigén katalitikus oxidációjával állítanak elő. 2 SO2 + O2 ⇌ 2 SO3 (katalizátor jelenlétében, például vanadium-pentoxid).",
+      "quote": "SO2 + O2 = SO3",
+      "text": "Az eljárás egyensúlyi, amely a hőmérséklet csökkentésével és a nyomás növelésével kedvezőbb lesz. Katalizátorok szükségesek az aktivációs energia csökkentésére. A vanadium-pentoxid (V2O5) a leggyakoribb katalizátor az ipari alkalmazásban."
+    },
+    {
+      "id": 20,
+      "term": "Kénsav (H2SO4) - szerkezet és fizikai tulajdonságok",
+      "definition": "A kénsav színtelen, szagtalan, erősen maró hatású folyadék. Molekulái erős hidrogénkötésekkel kapcsolódnak, ezért magas a forráspontja (337 °C). Higroszkópos és vízzel korlátlanul elegyedik.",
+      "quote": "Erős hidrogénkötések",
+      "text": "Az olvadáspontja 10 °C, a forráspontja 337 °C. A magas forráspontot az intramolekuláris hidrogénkötések magyarázzák. A higroszkópikus tulajdonság a víz megkötésére való hajlama miatt van. A tömény (98%) H2SO4 nagyon viszkózus folyadék."
+    },
+    {
+      "id": 21,
+      "term": "Kénsav hígítása - biztonsági körülmények",
+      "definition": "A tömény (98 tömegszázalékos) kénsav hígítása nagyon exoterm folyamat. Biztonsági okokból MINDIG a savat öntjük a vízhez, kevergetés mellett, soha fordítva.",
+      "quote": "Sav vízbe, nem fordítva",
+      "text": "Ha vizet öntünk a savba, a felszínlevő víz felrobban a hő miatt. Az exotermikus olvadás -800 kJ/mol energia felszabadul. A hígítás során nagy hő fejlődik, ezért lassan, kevergetéssel és körültekintéssel kell végezni. A laborra vetítette a 'sav vízbe' mondat a biztonsági szabály."
+    },
+    {
+      "id": 22,
+      "term": "Kénsav - disszociációja és savtulajdonságai",
+      "definition": "A kénsav reakcióba lép a vízzel és két lépcsőben disszociál. Az első lépés gyakorlatilag 100%-ban lejátszódik, így a H2SO4 nagyon erős sav. Egy második gyenge disszociáció is történik.",
+      "quote": "Nagyon erős sav",
+      "text": "Az első disszociáció: H2SO4 → H+ + HSO4- (gyakorlatilag teljes). A második: HSO4- ⇌ H+ + SO42- (réiszleges, Ka = 0,012). Ez a H2SO4-et diprotikus erős savvá teszi. Az oldatban HSO4- és SO42- ionok találhatók."
+    },
+    {
+      "id": 23,
+      "term": "Kénsav oxidálószer-funkciója",
+      "definition": "A H2SO4 redoxireakciókban erős oxidálószerként működhet. Tömény kénsavban a kén +6-os oxidációs számból +4-es SO2-vé redukálódhat.",
+      "quote": "Oxidáló hatás",
+      "text": "Az oxid-redukcios eljárásban: 2 H2SO4(tömény) + 2 e- → SO2 + 2 H2O. A tömény kénsav például rezet feloldja az oxidáló hatása révén (nem pedig az ionok) és SO2-t termel. A híg kénsav nem ilyen erős oxidálószer."
+    },
+    {
+      "id": 24,
+      "term": "Kénsav vízelvonó és szerves anyagokat rongáló hatása",
+      "definition": "A H2SO4 erős vízelvonó (deszikáns) és oxidáló hatása miatt a szerves anyagokat roncsolja. Például a cukrot elszenesíti (szénné alakítja).",
+      "quote": "Szénné ég a cukor",
+      "text": "Az alkohol és víz elvonása karakterisztikus eljárás. A H2SO4 szénhidrátokból szenet választ ki, amely fekete marad az edényen. Az eljárás exoterm. Ez az eljárás egyszerű laboratóriumi demonstráció a savok veszélyességéről."
+    },
+    {
+      "id": 25,
+      "term": "Kénsav bázisokkal való reakciója",
+      "definition": "A H2SO4 bázisokkal sót képez (szulfátok, hidrogénszulfátok). Például nátrium-hidroxiddal: H2SO4 + 2 NaOH = Na2SO4 + 2 H2O.",
+      "quote": "Sav-bázis neutralizáció",
+      "text": "A semleges szulfátok (pl. Na2SO4, CaSO4) képződnek megfelelő mennyiségű bázis jelenlétében. Az acidikus hidrogénszulfátok (pl. NaHSO4) képződhetnek savas körülmények között. A klorid és egyéb anionok helyére sulfátok kerülnek."
+    },
+    {
+      "id": 26,
+      "term": "Kénsav fémeoldalódása - negatív standardpotenciálú fémek",
+      "definition": "A híg kénsav a negatív standardpotenciálú fémeket oldja hidrogénfejlődés közben. Például: Fe + H2SO4 = FeSO4 + H2.",
+      "quote": "Hidrogénfejlődés",
+      "text": "A vas, cink, magnézium és más aktív fémek a híg kénsavban oldódnak. A reakció: M + H2SO4 → MSO4 + H2↑. Az oxidációs szám: Fe 0 → +2, H +1 → 0. Ez a klasszikus laboratóriumi hidrogén-fejlesztés módja."
+    },
+    {
+      "id": 27,
+      "term": "Kénsav passzivizációja - alumínium és vas",
+      "definition": "A tömény kénsavban néhány fém (pl. alumínium, vas) passzivizálódik, azaz nem oldódik felületi védőréteg képződése miatt.",
+      "quote": "Passzív réteg",
+      "text": "Az alumínium a híg kénsavban gyorsan oldódik, de a tömény kénsavban nem. A felületre képződik egy összekapcsolódott oxid-réteg, amely megvédi az alapfém további oldódása ellen. Ez a passzív állapot könnyen megtörhető mechanikai sértés által."
+    },
+    {
+      "id": 28,
+      "term": "Kénsav fémoldalódása - pozitív standardpotenciálú fémek",
+      "definition": "A tömény kénsav oxidáló hatása miatt egyes pozitív standardpotenciálú fémeket is felold. Például: Cu + 2 H2SO4(tömény) = CuSO4 + SO2 + 2 H2O.",
+      "quote": "Réz is oldódik",
+      "text": "A réz a híg kénsavban nem oldódik (pozitív standardpotenciál), de a tömény kénsavban igen az oxidáló hatás miatt. A terméke kék CuSO4 és SO2 gáz. Ez az eljárás a kénsav oxidáló képességét bizonyítja."
+    },
+    {
+      "id": 29,
+      "term": "Kénsav ipari előállítása - Kontakt-eljárás",
+      "definition": "A kénsav az ipari módszerrel a Kontakt-eljárás segítségével állítható elő. Az első lépés a kén égetése SO2-vé, majd a SO2 katalitikus oxidálása SO3-vá, végül a SO3-nak savvá alakítása.",
+      "quote": "Kén → SO2 → SO3 → H2SO4",
+      "text": "Az első lépés: S + O2 = SO2. A második: 2 SO2 + O2 ⇌ 2 SO3 (V2O5 katalizátor). A harmadik: SO3 + H2SO4 = H2S2O7 (dikénsav), majd H2S2O7 + H2O = 2 H2SO4. A jövedelmezőség 99% H2SO4 termeléséhez vezet."
+    },
+    {
+      "id": 30,
+      "term": "Kénsav előállítása - óleum (dikénsav)",
+      "definition": "A folyamat során SO3-at nem közvetlenül vízbe vezetnek, hanem tömény kénsavba, ahol dikénsav (H2S2O7, óleum) képződik. H2S2O7 + H2O = 2 H2SO4.",
+      "quote": "Óleum köztes terméke",
+      "text": "Az óleum a folyékony SO3 és H2SO4 keveréke. Ezt hígítják vízzel a végső H2SO4 előállításához. Az eljárás elkerüli az SO3 és víz közvetlen heves reakcióját. A termékkémia így szabályozottabb és biztonságosabb."
+    },
+    {
+      "id": 31,
+      "term": "Kénsav ipari mennyisége",
+      "definition": "A kénsav az egyik legnagyobb mennyiségben előállított vegyszer az iparban, közel 230 millió tonna/év világszerte. Alapvető nyersanyag számos ipari folyamathoz.",
+      "quote": "230 millió tonna/év",
+      "text": "A kénsav felhasználása: ipari vízelvonó, mosószer-gyártás, műtrágya-gyártás (szuperfosfát), patika, akkumulátorok. Az Egyesült Államok, Kína és India a legnagyobb termelők. A kénsav termelésének szintje az ipar egészségének indikátora."
+    },
+    {
+      "id": 32,
+      "term": "Kénsav alkalmazásai - ipari",
+      "definition": "A tömény kénsavat többek között felhasználják: mosószerek és gyógyszerek előállítására, kénsavas ólomakkumulátorok készítésére, ipari és laboratóriumi vízelvonószerként.",
+      "quote": "Sokrétű ipari felhasználás",
+      "text": "Az akkumulátorok: Pb + PbO2 + 2 H2SO4 = 2 PbSO4 + 2 H2O (fordított folyamat). A mosószerek: felületaktív anyagok szintézise. A gyógyszerek: számos gyógyszer szintézisében szerep van. A vízelvonó: nedvesség eltávolítása gázokból és folyadékokból."
+    },
+    {
+      "id": 33,
+      "term": "Szulfátok - alkalmazásai és a csapadékosítás",
+      "definition": "A szulfátok (SO42- sók) kénsav és bázisokból keletkeznek. Számos szulfát oldódik (CaSO4, BaSO4 kivételes), amelyeket csapadékosítási reakcióban használnak.",
+      "quote": "SO42- sók, oldódó",
+      "text": "A szulfátok közül CaSO4 (kalcium-szulfát, gipsz), Na2SO4 (nátrium-szulfát), K2SO4 (kálium-szulfát) oldódnak. A BaSO4 (báriumszulfát) oldhatatlan és rendszeres csapadék. Az oldatokban SO42- ionok különálló komplexeket képezhetnek."
+    },
+    {
+      "id": 34,
+      "term": "Hidrogénszulfátok - féleség és tulajdonságok",
+      "definition": "A hidrogénszulfátok (HSO4- sók) a kénsav és bázisok részleges semlegesítésének terméke. Például NaHSO4 nátrium-hidrogénszulfát. Ezek savas sók, amelyekben az egyik hidrogén még proton formájában van.",
+      "quote": "Savas szulfátok",
+      "text": "Az NaHSO4 vízben felszakadhat: HSO4- + H2O → SO42- + H3O+. A HSO4- ion maga is behasan lehet, mivel proton leadási potenciálja van. A hidrogénszulfátok katalitikus hatásúak egyes redoxireakciókban."
+    }
+  ]
+}

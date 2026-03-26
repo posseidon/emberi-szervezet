@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "nitrogen-foszfor",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik állítás igaz a nitrogénre?",
+      "options": ["Nem éghető gáz, az égést nem táplálja", "Égéshő terméke", "Az összes fém közötti legerősebb oxidálószer", "Sárgásfehér szín"],
+      "answer": "Nem éghető gáz, az égést nem táplálja"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A cseppfolyós nitrogén forráspontja _____ °C.",
+      "options": [],
+      "answer": "-196"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Hogyan állítják elő szubaszem a nitrogéngázt az iparban?",
+      "options": ["Levegő cseppfolyósítása és frakcionált desztilláció", "Nitrogénvegyületek termikus bontása", "Légköri nitrogén elektrolízise", "Mikroorganizmusok nitrátredukciójával"],
+      "answer": "Levegő cseppfolyósítása és frakcionált desztilláció"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A nitrogén és hidrogén ammónia szintéziséhez szükséges nyomás: _____ MPa.",
+      "options": [],
+      "answer": "15-25"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Milyen szerkezete van a vörösfoszfornak?",
+      "options": ["Láncpolimer szerkezetű óriásmolekula (P∞)", "Diszkrét P₄ tetraéder", "Dimer P₂", "Lineáris P₃"],
+      "answer": "Láncpolimer szerkezetű óriásmolekula (P∞)"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A vörösfoszfor olvadáspontja _____ °C, amely sokkal magasabb a fehérfoszfornál.",
+      "options": [],
+      "answer": "590"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mit mutat a fehérfoszfor gáz és papírral végzett kísérlete?",
+      "options": ["Öngyulladást szobahőmérsékleten", "Fotokémiai bomlást", "Polimerizációt", "Szublimációt"],
+      "answer": "Öngyulladást szobahőmérsékleten"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az ammónia vízben a következő egyensúlyban létezik: NH₃ + H₂O ⇌ NH₄⁺ + _____",
+      "options": [],
+      "answer": "OH⁻"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik az ammónia laboratóriumi előállítási módja?",
+      "options": ["Ammónium-klorid és kalcium-hidroxid melegítése", "Nitrogén és hidrogén magas hőmérsékleten", "Nitrátok elektrolízise", "Szerves nitrogénvegyületek bontása"],
+      "answer": "Ammónium-klorid és kalcium-hidroxid melegítése"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az ammónia katalitikus oxidációja ezt az oxidot termel: _____",
+      "options": [],
+      "answer": "NO"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik igaz az NO-ra?",
+      "options": ["Szabad gyök, párosítatlan elektront tartalmaz", "Teljes elektronpárokkal rendelkező diamágneses molekula", "Valence molekulához tartozik", "Kitöltött d héjral"],
+      "answer": "Szabad gyök, párosítatlan elektront tartalmaz"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az NO vörösbarna NO₂-vé oxidálódik az egyenletet követve: 2 NO + _____ ⇌ 2 NO₂",
+      "options": [],
+      "answer": "O₂"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik az igaz az NO₂-ról?",
+      "options": ["V-alakú, szabad gyök", "Lineáris, diamágneses", "Tetraéderes, diamágneses", "Trigonális, paramagnetikus"],
+      "answer": "V-alakú, szabad gyök"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az NO₂ vízzel diszproporciós reakcióban legalább _____ savat termel.",
+      "options": [],
+      "answer": "salétromsav"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mely biológiai folyamatban játszik szerepet az N₂O?",
+      "options": ["Általános érzéstelenítésben és altatásban", "Energiatermelésben", "DNS szintézisben", "Hormonális szabályozásban"],
+      "answer": "Általános érzéstelenítésben és altatásban"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az P₂O₅ vízzel az alábbi egyenletet követve reagál: P₂O₅ + _____ H₂O = 2 H₃PO₄",
+      "options": [],
+      "answer": "3"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik képletű sav az leginstabilabb?",
+      "options": ["HNO₂", "HNO₃", "H₃PO₄", "H₂SO₄"],
+      "answer": "HNO₂"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A salétromsav vízmentes formájának forráspontja _____ °C.",
+      "options": [],
+      "answer": "83"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik fém passzívvá válik tömény salétromsavban?",
+      "options": ["Vas és alumínium", "Réz és ezüst", "Vörösréz", "Magnézium"],
+      "answer": "Vas és alumínium"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A foszforsav első disszociációs lépésében az egyik szabad _____ ionok felszabadul.",
+      "options": [],
+      "answer": "proton"
+    }
+  ]
+}

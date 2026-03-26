@@ -1,0 +1,291 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Alkáliföldfémek elemei",
+      "definition": "A II. csoport (2.) főcsoportjának elemei: berillium (Be), magnézium (Mg), kalcium (Ca), stroncium (Sr), bárium (Ba) és rádium (Ra). Mindegyik +2-es oxidációs számú ionokká alakul.",
+      "quote": "Be, Mg, Ca, Sr, Ba, Ra",
+      "text": "Az alkáliföldfémek a II. csoport fő csoportja tagjai. Ezek az elemek reaktívak, de kevésbé, mint az alkálifémek. Jellemzőjük a kétértékűségük (vagyis +2-es töltésű ionokká válnak). A rádium radioaktív, legstabilabb izotópja 1600 év felezési idővel rendelkezik."
+    },
+    {
+      "id": 2,
+      "term": "Alkáliföldfémek fizikai jellemzői",
+      "definition": "Szürkés, fémesen csillogó szilárd anyagok, az alkálifémekhez képest magasabb olvadásponttal és nagyobb sűrűséggel.",
+      "quote": "Szürkés, fémesen csillogó",
+      "text": "Az alkáliföldfémek szürkés, fémesen csillogó megjelenésűek. Az alkálifémekhez képest sokkal magasabb olvadáspontjuk van (Be: 1287 °C, Ca: 842 °C), és sűrűségük nagyobb. Az alkáliföldfémek között nincsenek olyan könnyű fémek, mint a lítium vagy nátrium."
+    },
+    {
+      "id": 3,
+      "term": "Magnézium olvadáspontja",
+      "definition": "650 °C, mely az alkaliföldfémek közül jellegzetesen magas érték.",
+      "quote": "650 °C",
+      "text": "A magnézium olvadáspontja 650 °C, amely jelzi az alkáliföldfémek szobahőmérsékleti szilárd állapotát. Ez azzal függ össze, hogy a magnézium ionja kisebb, mint a nátrium ionja, és az elektronok erősebben kötöttek az atommaghoz."
+    },
+    {
+      "id": 4,
+      "term": "Ionizációs energia alkáliföldfémekben",
+      "definition": "Az első ionizációs energia az alkáliföldfémekben magasabb, mint az alkálifémekben, és az oszlopon lefelé csökken (Be: 900 kJ/mol > Mg: 738 kJ/mol > Ca: 590 kJ/mol).",
+      "quote": "Magasabb, mint alkálifémek",
+      "text": "Az alkáliföldfémek első ionizációs energiája szignifikánsan magasabb az alkálifémekben lévő értékekhez képest (például a magnézium 738 kJ/mol, az alkálifémek például 418-520 kJ/mol között vannak). Ez azt jelenti, hogy az alkáliföldfémek kevésbé reaktívak, mint az alkálifémek."
+    },
+    {
+      "id": 5,
+      "term": "Elektronegativitás alkáliföldfémekben",
+      "definition": "Az elektronegativitás magasabb az alkálifémekhez képest, de az oszlopon lefelé még mindig csökken (Be: 1,5; Mg: 1,2; Ca: 1,0).",
+      "quote": "Magasabb az alkálifémek",
+      "text": "Az alkáliföldfémek elektronegativitása nagyobb az alkálifémek megfelelőjénél. Például a magnézium 1,2-es elektronegativitása összemérhető, de még magasabb, mint a nátrium 0,9-es értéke. Ez is azt mutatja, hogy az alkáliföldfémek kevésbé hajlamosak elektronokat leadni."
+    },
+    {
+      "id": 6,
+      "term": "Standard elektródpotenciál alkáliföldfémekben",
+      "definition": "Az alkáliföldfémek standard potenciálja magasabb (kevésbé negatív) az alkálifémekéhez képest (Ca: -2,87 V, Mg: -2,34 V).",
+      "quote": "Kevésbé negatív",
+      "text": "Az alkáliföldfémek standard elektródpotenciálja, mint például a kalcium -2,87 V vagy magnézium -2,34 V, még mindig a negatív tartományban van, de kevésbé negatív az alkálifémekhez képest (Na: -2,71 V). Ez azt jelzi, hogy redukálószerek, de kevésbé erősek az alkálifémekénél."
+    },
+    {
+      "id": 7,
+      "term": "Alkáliföldfémek tárolása",
+      "definition": "Az alkáliföldfémek zárt edényben tárolhatók, petróleum alatti tárolást nem igényelnek, ellentétben az alkálifémekkel.",
+      "quote": "Zárt edényben tárolható",
+      "text": "Az alkáliföldfémek kevésbé reaktívak az alkálifémekhez képest, ezért nem szükséges a petróleum alatti tárolás. Zárt edényben vagy száraz helyen tárolhatók. Ez praktikusabb, mivel az ipari alkalmazásuk nagyobb méretekben megvalósítható."
+    },
+    {
+      "id": 8,
+      "term": "Magnézium oxid képződése",
+      "definition": "A magnézium szobahőmérsékleten oxidálódik a levegőben, de felszínén védő oxidréteg képződik, amely megakadályozza a további oxidációt.",
+      "quote": "Védő oxidréteg",
+      "text": "A magnézium a levegőn oxidálódik, MgO (magnézium-oxid) képződik. Azonban ellentétben az alkálifémekkel, a magnézium oxidrétege egybefüggő és védő tulajdonságú. Ez megakadályozza a fém további oxidációját, így a magnézium bizonyos körülmények között lassabban korrózióz, mint azt várnánk."
+    },
+    {
+      "id": 9,
+      "term": "Magnézium égési lángja",
+      "definition": "A magnézium vakítóan fényes, fehér szín lánggal ég, régen fényképezéshez és bányászlámpákban használták.",
+      "quote": "Vakítóan fehér lánggal ég",
+      "text": "A magnézium az egyik legfényesebben égő fém. Az égéskor felszabaduló fény olyan erős, hogy vakítóan fehér. Ez az oka annak, hogy régen fényképezés hőskorában magnéziumszalagot égettek vakuként. Ma már más technológiák váltották fel, de a magnézium még mindig használatos bizonyos speciális alkalmazásokban."
+    },
+    {
+      "id": 10,
+      "term": "Kalcium és víz reakciója",
+      "definition": "A kalcium szobahőmérsékleten is intenzív gázfejlődés közben oldódik vízben: Ca + H2O = Ca(OH)2 + H2↑",
+      "quote": "Intenzív gázfejlődés",
+      "text": "A kalcium szobahőmérsékleten is vízben oldódik, de az alkálifémekhez képest sokkal kevésbé hevesen. A felszabaduló hő nem elegendő ahhoz, hogy a fém megolvadjon. A keletkező kalcium-hidroxid gyenge oldhatósága miatt az oldat megzavarosodik."
+    },
+    {
+      "id": 11,
+      "term": "Magnézium és forró víz",
+      "definition": "A magnézium szobahőmérsékleten nagyon lassan oldódik vízben a védő oxidréteg miatt, de forró vízben jobban oldódik.",
+      "quote": "Forró vízben jobban",
+      "text": "A magnézium szobahőmérsékleten gyakorlatilag nem oldódik vízben, mivel a felszínén védő MgO-réteg képződik. A magnézium-hidroxid is gyengén oldható a vízben, így a folyamat elég lassú. Forró vízben azonban a folyamat felgyorsul, mivel a melegítés segít lebontani az oxidréteget."
+    },
+    {
+      "id": 12,
+      "term": "Alkáliföldfémek savakban",
+      "definition": "Alkáliföldfémek (Mg, Ca) jól oldódnak savoldatokban, mivel a savak feloldják a fém felszínén lévő oxidréteget.",
+      "quote": "Savban jól oldódik",
+      "text": "Az alkáliföldfémek a savakban jól oldódnak, függetlenül a felszínük oxidációs állapotától. A sav feloldja az oxidréteget és lehetővé teszi az alapanyag hozzáférését. Például a magnézium sósavban: Mg + 2 HCl = MgCl2 + H2↑"
+    },
+    {
+      "id": 13,
+      "term": "Natrium-hidrid (NaH) tulajdonságai",
+      "definition": "Ionrácsos szerkezetű, hidrid anion (H−) tartalmaz. Vízzel hevesen reagál: NaH + H2O = NaOH + H2↑",
+      "quote": "Hidrid anion tartalmaz",
+      "text": "A nátrium-hidrid ionos vegyület, amelyben a hidrid anion (H−) jelenlévő. Ez az aniont könnyen felismerhetjük a vízzel való heves reakciójából: a hidrid anion erősen bazikus és a vízből hidrogéngázt fejleszt. Ez azt mutatja, hogy az alkáli fémek hidrogén anionnal is képeznek vegyületeket."
+    },
+    {
+      "id": 14,
+      "term": "Kalcium-hidrid (CaH2)",
+      "definition": "Ionrácsos szerkezetű, hidrid anion (H−) tartalmaz. Vízzel hevesen reagál, fém-hidroxid és hidrogéngáz keletkezik.",
+      "quote": "Kalcium-hidrid hevesen",
+      "text": "A kalcium-hidrid szintén ionos vegyület, ahol Ca2+ ionok és H− hidrid anionok vannak. Vízzel hevesen reagál, kalcium-hidroxidot és hidrogénképez. Ezt a vegyületet régen hordozható hidrogénforrásként használták, mivel vízzel való reakciója során könnyű hidrogén termelhetető."
+    },
+    {
+      "id": 15,
+      "term": "Nátrium-klorid (NaCl) tulajdonságai",
+      "definition": "Konyhasó, fehér, vízben jól oldódó szilárd anyag. Ételízesítő, tartósítószer. 0,9% vizes oldata fiziológiás sóoldat.",
+      "quote": "Konyhasó, ételízesítő",
+      "text": "A nátrium-klorid a legáltalánosabb és legfontosabb alkáli só. Fehér, kristályos szilárd, amely vízben jól oldódik. A 0,9 tömegszázalékos oldatát fiziológiás sóoldatnak hívják, mivel összetétele megegyezik a vérplazmával. Orvosi alkalmazásokban infúzióként és injekció hígítójaként használják."
+    },
+    {
+      "id": 16,
+      "term": "Nátrium-klorid elektrolízise",
+      "definition": "Az ipari klórgáz és nátrium-hidroxid előállítása nátrium-klorid-oldat higanykatódos elektrolízisével történik.",
+      "quote": "Higanykatódos elektrolízis",
+      "text": "Az ipari nátrium-hidroxid (NaOH) és klórgáz (Cl2) termelés a nátrium-klorid-oldat elektrolízisén alapul. A higanykatódos elektrolízisben a katódon nátrium-amalgám képződik, amelyet vízzel elbontanak. Ez az egyik legfontosabb ipari folyamat."
+    },
+    {
+      "id": 17,
+      "term": "Kálium-klorid (KCl) felhasználása",
+      "definition": "Kálium-hidroxiddal összefüggő, gyógyszerként használt káliumhiányos állapot esetén. Műtrágya. Eutanázia injekció összetevője.",
+      "quote": "Gyógyszer és műtrágya",
+      "text": "A kálium-klorid kálisó néven ismert. Fehér, szilárd, jól oldódó vegyület. Az orvostudományban a káliumhiányos állapot kezelésére használják. A mezőgazdaságban pedig fontos műtrágya. Azonban szívmegállást okozhat nagy dózisban, ezért az USA halálraítélteket eutanáziáznál használják."
+    },
+    {
+      "id": 18,
+      "term": "Nátrium-hipoklorit (NaOCl) tulajdonságai",
+      "definition": "Fehér, vízben oldódó ionos vegyület. Fertőtlenítő hatású Hypó összetevője.",
+      "quote": "Fertőtlenítő, hipó",
+      "text": "A nátrium-hipoklorit fehér, ionos vegyület, amely vízben jól oldódik. A Hypó (hipoklorit oldat) közismert fertőtlenítőszer, amely klórium-kloridból és nátrium-hidroxidból állítható elő. Az antimikróbás hatása miatt széles körben használják a háztartásban és az iparban."
+    },
+    {
+      "id": 19,
+      "term": "Kalcium-oxid (CaO) - égetett mész",
+      "definition": "Fehér szilárd anyag. Vízzel mészoltás során kalcium-hidroxidot képez: CaO + H2O = Ca(OH)2",
+      "quote": "Égetett mész, fehér",
+      "text": "A kalcium-oxidot közismerten égetett mésznek hívják. Fehér, szilárd anyag, amely magasan olvad (2613 °C). A vízzel való reaktív oldódása mészoltás folyamata. A keletkező kalcium-hidroxid igen jól hasznosítható az építőiparban és a mezőgazdaságban."
+    },
+    {
+      "id": 20,
+      "term": "Kalcium-oxid karbonátosodása",
+      "definition": "A levegőben levő szén-dioxiddal reagálva kalcium-karbonáttá alakul: CaO + CO2 = CaCO3",
+      "quote": "CO2-vel karbonáttá",
+      "text": "Az égetett mész (CaO) a levegőben lassan karbonátosodik, azaz kalcium-karbonáttá (CaCO3) alakul. Ez az egyik fontos folyamat az építőiparban, mivel a karbonátosodás során az anyag kemény és idővel még szilárdabb lesz, ezáltal megerősödik a szerkezet."
+    },
+    {
+      "id": 21,
+      "term": "Magnézium-oxid (MgO) tulajdonságai",
+      "definition": "Fehér szilárd anyag, vízben nem oldódik, de savakban feloldható: MgO + 2 HCl = MgCl2 + H2O",
+      "quote": "Fehér, vízben nem oldódik",
+      "text": "A magnézium-oxid fehér, szilárd anyag, amely szobahőmérsékleten vízben nem oldódik. Azonban savakban könnyen feloldható, mivel a magnézium ionok viszonylag jó ionizálódási tendenciával rendelkeznek. A MgO magas olvadáspont (2800 °C) miatt tűzálló anyagként is használható."
+    },
+    {
+      "id": 22,
+      "term": "Nátrium-hidroxid (NaOH) tulajdonságai",
+      "definition": "Lúgkő, fehér, higroszkópikosp szilárd anyag. Erős maróhatású, erős bázis. Vízben oldódása exoterm.",
+      "quote": "Lúgkő, erős maró",
+      "text": "A nátrium-hidroxid rendkívül fontos kémiai vegyület. Fehér, higroszkópos (nedvességet vonz) szilárd anyag. Erősen maró, szembe jutva súlyos sérüléseket okoz. A vízben oldódása exoterm, nagy mennyiségű hőt felszabadít. Az ipari alkalmazások széles köre van, főleg a savak közömbösítésében."
+    },
+    {
+      "id": 23,
+      "term": "Nátrium-hidroxid előállítása",
+      "definition": "Nátrium-klorid-oldat higanykatódos elektrolízisével nyerhetető. A katódon nátrium-amalgám keletkezik, amelyet vízzel elbontanak.",
+      "quote": "Higanykatódos elektrolízis",
+      "text": "A nátrium-hidroxid ipari előállítása a nátrium-klorid-oldat elektrolízisén alapul. A higanykatódos eljárásban a nátrium-amalgáma képződik, amely vízzel reagál, nátrium-hidroxidot (NaOH) és hidrogént termel. Ez az egyik legfontosabb ipari folyamat az alapvegyületek előállítása szempontjából."
+    },
+    {
+      "id": 24,
+      "term": "Kálium-hidroxid (KOH) tulajdonságai",
+      "definition": "Marókáli, fehér, higroszkópos szilárd anyag. Tulajdonságai és felhasználása hasonló a nátrium-hidroxidéhez.",
+      "quote": "Marókáli, erős bázis",
+      "text": "A kálium-hidroxid nagyon hasonlít a nátrium-hidroxidra, de még kicsit reaktívabb. Fehér, higroszkópos szilárd, erős bázis. A vízben oldódása szintén exoterm. Az ipari alkalmazásaiban főleg a kálium-szalt termelésben és a savak közömbösítésében használják."
+    },
+    {
+      "id": 25,
+      "term": "Magnézium-hidroxid (Mg(OH)2) oldhatósága",
+      "definition": "Fehér szilárd anyag, vízben nagyon gyengén oldódik, így gyenge lúg-oldatot képez.",
+      "quote": "Nagyon gyengén oldódik",
+      "text": "A magnézium-hidroxid fehér, viszonylag stabil szilárd anyag, amely vízben igen gyengén oldódik. Így az oldódott mennyisége alapvetően limitált, és csak gyenge lúgos oldatot képez. Ez azt mutatja, hogy az alkaliföldfémek hidroxidjaik viszonylag gyenge elektrolitok."
+    },
+    {
+      "id": 26,
+      "term": "Kalcium-hidroxid (Ca(OH)2) - oltott mész",
+      "definition": "Fehér szilárd anyag, vízben gyengén oldódik. Telített vizes oldata meszes víz, szuszpenziója mésztej.",
+      "quote": "Oltott mész, fehér",
+      "text": "A kalcium-hidroxidot közismerten oltott mésznek hívják. Fehér, szilárd anyag, amely vízben gyengén oldódik. A telített vizes oldatát meszes víznek hívják, amely lúgos kémhatású és maró. A felszuszpenzió (melyben van feloszlatott szilárd anyag) neve mésztej, ezt építőiparban (például mészhabarcsban) használják."
+    },
+    {
+      "id": 27,
+      "term": "Nátrium-szulfát (Na2SO4) - glaubersó",
+      "definition": "Fehér, vízben oldódó szilárd anyag, kristályos formájában 10 mól víz: Na2SO4 · 10 H2O. Hashajtó hatású.",
+      "quote": "Glaubersó, 10 hidratú",
+      "text": "A nátrium-szulfátot glaubersónak nevezzük. Fehér, jól oldódó vegyület, amely 10 mól kristályvizet tartalmaz (Na2SO4 · 10 H2O). A hashajtó hatása miatt gyógyászati használat mellett természetes gyógyvizek összetevője. Az iparban nagy mennyiségben termelik, főleg mosószerek és papírgyártás céljából."
+    },
+    {
+      "id": 28,
+      "term": "Magnézium-szulfát (MgSO4) - keserűsó",
+      "definition": "Fehér, keserű ízű szilárd anyag, 7 mól vízzel kristályosodik: MgSO4 · 7 H2O. Hashajtó hatású.",
+      "quote": "Keserűsó, 7 hidratú",
+      "text": "A magnézium-szulfátot keserűsónak hívják. Fehér, szilárd anyag, amelynek keserű íze van (innen az elnevezése). 7 mól kristályvizet tartalmaz (MgSO4 · 7 H2O). A nátrium-szulfáthoz hasonlóan hashajtó hatású, és természetes keserű vizekben fordul elő."
+    },
+    {
+      "id": 29,
+      "term": "Kalcium-szulfát (CaSO4) - gipsz",
+      "definition": "Gipsz, fehér szilárd anyag, 2 mól vízzel kristályosodik: CaSO4 · 2 H2O. Építőanyagként és orvosi célokra használják.",
+      "quote": "Gipsz, 2 hidratú",
+      "text": "A kalcium-szulfátot közismert gipsznek hívják. Fehér, szilárd anyag, amely 2 mól vízzel kristályosodik (CaSO4 · 2 H2O). Az égetett gipsz (CaSO4 · ½ H2O) vízzel összekeverve az eredeti forma visszaképződik és megköt. Ez az egyik legfontosabb építőanyag, használják falhibák javításához és gipszkartonozáshoz."
+    },
+    {
+      "id": 30,
+      "term": "Nátrium-tioszulfát (Na2S2O3) - fixírsó",
+      "definition": "Fixírsó, fehér szilárd anyag, vízben jól oldódik. Ezüstionokkal komplexet képez, fényképezésben rögzítésre használták.",
+      "quote": "Fixírsó, fényképezés",
+      "text": "A nátrium-tioszulfátot fixírsónak hívják. A tiokénsav (H2S2O3) nátrium sója. Fehér, vízben jól oldódó vegyület. Az ezüstionokkal képzett komplexe miatt régebben a fekete-fehér fényképezésben a képmegörzésre használták. Manapság már kevésbé használt, de még mindig fontos vegyület bizonyos alkalmazásban."
+    },
+    {
+      "id": 31,
+      "term": "Nátrium-nitrát (NaNO3) - chilei salétrom",
+      "definition": "Fehér, vízben jól oldódó szilárd anyag. Műtrágya, az egyik legfontosabb nitrátsó.",
+      "quote": "Chilei salétrom, műtrágya",
+      "text": "A nátrium-nitrátot chilei salétromnak hívják, mivel nagy mennyiségben fordul elő az Atacama-sivatagban. Fehér, vízben jól oldódó vegyület, mely nitrogen tartalmán túl jó műtrágyának bizonyul. Az ipari alkalmazások számos terülten jelentős."
+    },
+    {
+      "id": 32,
+      "term": "Kálium-nitrát (KNO3) - salétrom",
+      "definition": "Salétrom, fehér, vízben jól oldódó szilárd anyag. Műtrágya, tűzijátékokban és robbanóanyagokban oxidálószerként használják.",
+      "quote": "Salétrom, tűzijáték",
+      "text": "A kálium-nitrátot egyszerűen salétromnak hívják. Fehér, vízben jól oldódó vegyület. Műtrágyaként használják, valamint a fekete lőpor összetevőjeként (szénnel és kénporral). Tűzijátékok és robbanóanyagok előállításában fontos oxidálószer. A talajban is megtalálható, rossz szigetelésű épületek nedves falain felszivárog."
+    },
+    {
+      "id": 33,
+      "term": "Nátrium-nitrit (NaNO2) felhasználása",
+      "definition": "Halványsárga, vízben oldódó szilárd anyag. Húsok pácolásához és tartósításához használják az élelmiszeriparban.",
+      "quote": "Hús pácolása, N-nitrózaminok",
+      "text": "A nátrium-nitritet az élelmiszeriparban húsok (például sonkák) pácolására és tartósítására használják. Halványsárga szilárd anyag, amely vízben oldódik. Azonban a nitrózaminok képződése miatt, amelyek az emésztésben keletkeznek, megnöveli a daganatos betegségek (különösen bélrák) kialakulásának kockázatát."
+    },
+    {
+      "id": 34,
+      "term": "Nátrium-foszfát (Na3PO4) - trisó",
+      "definition": "Trinátrium-foszfát, fehér, vízben oldódó szilárd anyag. Vízlágyító és zsíroldó hatású, mosószerek összetevője.",
+      "quote": "Trisó, vízlágyító",
+      "text": "A nátrium-foszfátot trinátrium-foszfátnak vagy trisónak hívják. Fehér, vízben oldódó vegyület. A vizes oldatában a foszfátionok hidrolízise miatt lúgos kémhatás alakul ki. A kalcium- és magnéziumionokkal csapadékot képez, így vízlágyító hatású. A zsíroldó hatása miatt mosószerek fontos összetevője."
+    },
+    {
+      "id": 35,
+      "term": "Kalcium-karbid (CaC2) tulajdonságai",
+      "definition": "Fehér, szilárd anyag, az acetilén (C2H2) kalciumsója. Vízzel hevesen reagál: CaC2 + 2 H2O = C2H2 + Ca(OH)2",
+      "quote": "Acetilén termelés",
+      "text": "A kalcium-karbidot kalcium-acetilídnek is hívják. Fehér szilárd anyag, amely formailag az acetilén kalciumsójaként tekinthető. Vízzel hevesen reagál, acetiléngáz és kalcium-hidroxid képződik. Régebben bányászlámpákban használták az acetilén fényes égése miatt, ma már kevésbé elterjedt."
+    },
+    {
+      "id": 36,
+      "term": "Nátrium-karbonát (Na2CO3) - szóda",
+      "definition": "Szóda, mosószóda, fehér, vízben oldódó szilárd anyag. Vízlágyító és zsíroldó hatású, mosószerek összetevője.",
+      "quote": "Szóda, zsíroldó",
+      "text": "A nátrium-karbonátot szódának vagy mosószódának hívják. Fehér, vízben jól oldódó vegyület. A vizes oldatában lúgos kémhatás alakul ki. A kalcium- és magnéziumionokkal csapadékot képez, így vízlágyító. Azonban a lúgos kémhatás műszálas anyagokat sértheti, ezért óvatosan kell kezelni."
+    },
+    {
+      "id": 37,
+      "term": "Nátrium-karbonát és savak",
+      "definition": "Savakkal reagálva szén-dioxidot fejleszt: Na2CO3 + 2 HCl = 2 NaCl + H2O + CO2↑",
+      "quote": "CO2 fejleszti savval",
+      "text": "A nátrium-karbonát savakkal hevesen reagál, szén-dioxidot fejleszt. Ez a reaktivitás az egyik módja az alkáli karbonátok azonosítására és vizsgálatára. Az oldatban végzett reakciók során ez a jellegzetes gázfejlődés könnyen megfigyelhető."
+    },
+    {
+      "id": 38,
+      "term": "Kalcium-karbonát (CaCO3) - mészkő",
+      "definition": "Mészkő, fehér, szilárd, vízben nem oldódó anyag. Savakban szén-dioxid fejlődése közben oldódik.",
+      "quote": "Mészkő, fehér",
+      "text": "A kalcium-karbonátot mészkőnek hívják. Fehér, szilárd anyag, amely vízben nem oldódik. Savakban azonban könnyen feloldható, szén-dioxid fejlődése közben. A dolomit (MgCO3 · CaCO3) nagy mennyiségben fordul elő kőzetalkotó vegyületként, amely kalcium- és magnézium-karbonátok keveréke."
+    },
+    {
+      "id": 39,
+      "term": "Kalcium-karbonát hőbontása - mészégetés",
+      "definition": "Kalcium-karbonát magas hőmérsékleten kalcium-oxidra és szén-dioxidra bomlik: CaCO3 → CaO + CO2",
+      "quote": "Égetett mész előállítása",
+      "text": "A mészégetés az egyik klasszikus kémiai folyamat. A kalcium-karbonátot magas hőmérsékleten (kb. 900 °C felett) hevítik, és kalcium-oxidra (égetett mészre) és szén-dioxidra bomlik. Ez egy nagyon fontos ipari folyamat az építőanyagok előállítása szempontjából."
+    },
+    {
+      "id": 40,
+      "term": "Nátrium-hidrogénkarbonát (NaHCO3) - szódabikarbóna",
+      "definition": "Szódabikarbóna, fehér, szilárd, vízben oldódó anyag. Sütőporok összetevője, hashajtó és tűzoltószer.",
+      "quote": "Szódabikarbóna, sütőpor",
+      "text": "A nátrium-hidrogénkarbonátot szódabikarbónának hívják. Fehér, vízben oldódó vegyület, amelynek vizes oldatában enyhén lúgos kémhatás alakul ki. A sütőporok összetevője, mivel hőbontása során szén-dioxid és vízgőz keletkezik, amely felfújtja a tésztát. Tűzoltókészülékek töltőanyaga és gyomorsav megkötésére is használják."
+    },
+    {
+      "id": 41,
+      "term": "Szódabikarbóna hőbontása",
+      "definition": "Hőbontásakor nátrium-karbonát, szén-dioxid és vízgőz képződik: 2 NaHCO3 = Na2CO3 + CO2 + H2O",
+      "quote": "Gázok felszabadul",
+      "text": "A szódabikarbóna felvételkor hőbontást szenved el. A nátrium-karbonát mellett szén-dioxid és vízgőz fejlődik, amely a sütéskor a tésztát felfújja, könnyű és szivacsos szerkezetet ad. Ez a sütőporban lévő szódabikarbóna működésének alapja."
+    }
+  ]
+}

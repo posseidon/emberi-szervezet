@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "savak-es-bazisok",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az Arrhenius-elmélet szerint mit jelent a sav?",
+      "options": ["Sanyag, amely H+ iont ad le", "Sanyag, amely H2O-t vesz fel", "Sanyag, amely H+ koncentrációt növeli vízben", "Sanyag, amely CO2-t bocsát ki"],
+      "answer": "Sanyag, amely H+ koncentrációt növeli vízben"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "A Brönsted-elmélet szerint melyik nem sav?",
+      "options": ["HCl (hidrogénklorid)", "H2O (víz erős savval szemben)", "NH3 (ammónia)", "H2SO4 (kénsav)"],
+      "answer": "NH3 (ammónia)"
+    },
+    {
+      "id": 3,
+      "type": "BLANK",
+      "question": "A víz autoprotolízisénél az egyik vízmolekula _____, a másik bázisként viselkedik.",
+      "options": [],
+      "answer": "savként"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Melyik ionpár kapcsolata mutatja meg a vízionszorzatot a legpontosabban?",
+      "options": ["[H+] és [Cl–]", "[H3O+] és [OH–]", "[Na+] és [OH–]", "[H2O] és [H+]"],
+      "answer": "[H3O+] és [OH–]"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Milyen pH-értékkel rendelkezik a semleges oldat szobahőmérsékleten?",
+      "options": ["pH = 0", "pH = 7", "pH = 14", "pH = 1"],
+      "answer": "pH = 7"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A pH a hidrogénionok koncentrációjának _____ logaritmusa.",
+      "options": [],
+      "answer": "negatív"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik nem igaz az amfoter anyagokra?",
+      "options": ["Savként és bázisként is viselkedhetnek", "A víz amfoter", "Az ammónia amfoter az ecetsavval szemben", "Hidrogéniont adhatnak le vagy vehetnek fel"],
+      "answer": "Az ammónia amfoter az ecetsavval szemben"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "Mennyi az oxóniumion- és hidroxidionkoncentráció szorzata tiszta vízben szobahőmérsékleten?",
+      "options": ["10^-7 mol²/dm⁶", "10^-14 mol²/dm⁶", "10^-21 mol²/dm⁶", "1 mol²/dm⁶"],
+      "answer": "10^-14 mol²/dm⁶"
+    },
+    {
+      "id": 9,
+      "type": "BLANK",
+      "question": "Az erős savak vizes oldatban gyakorlatilag teljes mértékben _____, így az összes savmolekula leadja a protonját.",
+      "options": [],
+      "answer": "disszociálnak"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Melyik nem erős sav?",
+      "options": ["HCl (sósav)", "H2SO4 (kénsav)", "HNO3 (salétromsav)", "CH3COOH (ecetsav)"],
+      "answer": "CH3COOH (ecetsav)"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "A savállandó (Ks) mit mutat meg?",
+      "options": ["A sav bomlásának sebességét", "A sav mennyire erős vagy gyenge", "A sav moláris tömegét", "A sav oldhatóságát"],
+      "answer": "A sav mennyire erős vagy gyenge"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az ecetsav (CH3COOH) _____ sav, mert az oldatban az ecetsavmolekulák kevesebb, mint 1%-a van disszociált formában.",
+      "options": [],
+      "answer": "gyenge"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mi az ammónia laboratóriumi előállításának egyik módszere?",
+      "options": ["NH4Cl melegítése", "NH4Cl + NaOH melegítése", "NH3 vízből való extrakciója", "NH4+ redukciója"],
+      "answer": "NH4Cl + NaOH melegítése"
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "Mi a savmaradékion az HCl disszociációjánál?",
+      "options": ["H+", "OH–", "Cl–", "HCl–"],
+      "answer": "Cl–"
+    },
+    {
+      "id": 15,
+      "type": "BLANK",
+      "question": "A _____ azt jelenti, hogy a savnak vagy a bázisnak hány protont tud leadni vagy felvenni.",
+      "options": [],
+      "answer": "értékűség"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Melyik egy kétértékű sav?",
+      "options": ["HCl", "H2SO4", "HNO3", "H3PO4"],
+      "answer": "H2SO4"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik sav disszociációja során keletkezik a közömbösítésben víz?",
+      "options": ["Ammónia az összes savval", "Ammónia erős savakkal nem", "Erős bázisok összes savval", "Hidroxidionos bázis savval"],
+      "answer": "Hidroxidionos bázis savval"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az indikátorok olyan _____ anyagok, amelyek a kémhatás függvényében megváltoztatják a színüket.",
+      "options": [],
+      "answer": "szerves festék"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mi a pH-papír alapfunkciója?",
+      "options": ["A sav-bázis erősségét méri", "A kémhatás alapján szín alapján jelzi az oldatot", "Az ionok számát számolja", "A víz tisztaságát méri"],
+      "answer": "A kémhatás alapján szín alapján jelzi az oldatot"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "Milyen kémhatású lesz az erős sav és erős bázis közömbösítésének terméke?",
+      "options": ["Savas", "Lúgos", "Semleges", "Neutráls"],
+      "answer": "Semleges"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "redoxi-elektrokemia",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik folyamatban csökken az atom oxidációs száma?",
+      "options": ["Oxidáció", "Redukció", "Semlegítés", "Disszociáció"],
+      "answer": "Redukció"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az elektront felvevő részecske az oxidáció során az _____ szerként működik.",
+      "options": [],
+      "answer": "oxidáló"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Az alkáliföldfémek (II. főcsoport) vegyületeiben melyik az oxidációs szám?",
+      "options": ["+1", "+2", "+3", "–2"],
+      "answer": "+2"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A hidrogén normál vegyületeiben az oxidációs száma _____ , de fém-hidridekben –1.",
+      "options": [],
+      "answer": "+1"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Az összetett ionban az oxidációs számok összege milyen értékkel egyenlő?",
+      "options": ["Zérus", "Az ion töltésével", "Az elemek számával", "A molekula tömegével"],
+      "answer": "Az ion töltésével"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az CrCl3 vegyületben a klór oxidációs száma –1, így a króm oxidációs száma _____ lesz.",
+      "options": [],
+      "answer": "+3"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik azt mutatja meg, hogy mely fém képes kiszorítani a másikat annak sóoldatából?",
+      "options": ["Elektrólyes feszültség", "Redoxisor (aktivitási sor)", "Moláris tömeg", "Sűrűség"],
+      "answer": "Redoxisor (aktivitási sor)"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A képzeletbeli redoxisorban az erősebb redukálószer az _____ potenciálú fém.",
+      "options": [],
+      "answer": "negatívabb"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Ha Fe + Cu2+ reakció lejátszódik, akkor az Fe az ...",
+      "options": ["Oxidálószer", "Redukálószer", "Katód", "Nem reagál"],
+      "answer": "Redukálószer"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az elektródpotenciál az elektródon az _____ és redukált forma közötti egyensúlyra jellemző.",
+      "options": [],
+      "answer": "oxidált"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "A standard elektród mely körülmények között határozódik meg?",
+      "options": ["1 mol/L, 25°C, 1 atm", "10 mol/L, 100°C, 101 kPa", "0,1 mol/L, 20°C, 1 bar", "Bármilyen körülmények között azonos"],
+      "answer": "1 mol/L, 25°C, 1 atm"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A galvánelemben a katód az _____pólus, ahol redukció történik.",
+      "options": [],
+      "answer": "pozitív"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A Daniell-elemento celladiagramjában milyen sorrendben következnek az elektródok?",
+      "options": ["Zn | Zn2+ || Cu2+ | Cu", "Cu | Cu2+ || Zn2+ | Zn", "Zn | Cu2+ || Zn2+ | Cu", "Cu | Zn2+ || Cu2+ | Zn"],
+      "answer": "Zn | Zn2+ || Cu2+ | Cu"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az elektrolízisben a külső _____ hatására kémiai folyamat megy végbe.",
+      "options": [],
+      "answer": "áramforrás"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az elektrolízisben az elektródok polaritása milyen viszonyban áll a galvánelemenhez?",
+      "options": ["Azonos", "Ellentétes", "Függetlenek egymástól", "Az anyagtól függ"],
+      "answer": "Ellentétes"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az olvadékelektrolízisben a nátrium-klorid anódfolyamata: 2 Cl– → _____ + 2 e–",
+      "options": [],
+      "answer": "Cl2"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Vizes oldat elektrolízisénél az anódon mely anyag keletkezik halogénionok (Cl–) jelenléte nélkül?",
+      "options": ["Halogén (Cl2)", "Oxigén (O2)", "Hidrogén (H2)", "Hidrogén-peroxid (H2O2)"],
+      "answer": "Oxigén (O2)"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A higanykatód speciális elektród, amely az alkálifémek leválasztásához alkális folyékony _____ képez.",
+      "options": [],
+      "answer": "ötvözetet"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Faraday I. törvénye szerint az elektródon átalakuló anyag tömege függ-e az áramerősségtől?",
+      "options": ["Nem függ", "Lineárisan függ", "Fordítottan arányos", "Csak az időtől függ"],
+      "answer": "Lineárisan függ"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "1 mol z töltésű ion leválasztásához szükséges töltés: z × _____  C (coulomb).",
+      "options": [],
+      "answer": "96500"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "subjectId": "chemistry",
+  "moduleId": "oxigen-ken",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik állítás igaz az ózonmolekuláról?",
+      "options": ["V alakú, enyhén poláris", "Lineáris, apoláris", "Tetraéder alakú, poláris", "Háromszög alakú, poláris"],
+      "answer": "V alakú, enyhén poláris"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A kénhidrogén záptojásszagú, nagyon _____ gáz.",
+      "options": [],
+      "answer": "mérgező"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mit jelent a vízkeménység?",
+      "options": ["A Ca2+ és Mg2+ ionok mennyisége", "A víz sótartalma", "A víz pH-ja", "A víz vezetőképessége"],
+      "answer": "A Ca2+ és Mg2+ ionok mennyisége"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A vízkeménységet _____ és állandó keménységre lehet osztályozni.",
+      "options": [],
+      "answer": "változó"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Hogyan szüntetik meg forralással a vízkeménységet?",
+      "options": ["A hidrogénkarbonátok kiválnak CaCO3-ként", "Az ionok elpárolognak", "Az ionok redukálódnak", "Az ionok oxidálódnak"],
+      "answer": "A hidrogénkarbonátok kiválnak CaCO3-ként"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az oxosavak _____ kötéseket tartalmaznak.",
+      "options": [],
+      "answer": "O-H"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mi az a peroxid?",
+      "options": ["O-O egyszeres kötéseket tartalmazó vegyület", "O-O kettős kötéseket tartalmazó vegyület", "O-H kötéseket tartalmazó vegyület", "O-C kötéseket tartalmazó vegyület"],
+      "answer": "O-O egyszeres kötéseket tartalmazó vegyület"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A kén-dioxid tökéletes égésénél _____ és víz keletkezik.",
+      "options": [],
+      "answer": "SO2"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik a kénessav (H2SO3) főtulajdonsága?",
+      "options": ["Bomlékony gyenge sav", "Stabil erős sav", "Bomlékony erős sav", "Stabil gyenge sav"],
+      "answer": "Bomlékony gyenge sav"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az ioncsere módszernél a kationok _____ ionokra cserélődnek.",
+      "options": [],
+      "answer": "H+"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik az SO2 és I2 reakciójának terméke?",
+      "options": ["HI és H2SO4", "S és H2O", "H2SO3 és I-", "SO2 és I2O"],
+      "answer": "HI és H2SO4"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A desztillált víz nem használható emberi fogyasztásra az _____ ionok hiánya miatt.",
+      "options": [],
+      "answer": "fém"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mi az a vízkő?",
+      "options": ["Kalcium- vagy magnézium-karbonatcsapadék", "Kalcium-nitrat csapadék", "Magnézium-szulfat csapadék", "Kalcium-klorid csapadék"],
+      "answer": "Kalcium- vagy magnézium-karbonatcsapadék"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A kén-trioxid (SO3) molekuláinak szerkezete _____ síkháromszöges.",
+      "options": [],
+      "answer": "szabályos"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik vízlágyítási módszer energiaintenzív?",
+      "options": ["Desztilláció", "Ioncsere", "Vegyszeres módszer", "Szűrés"],
+      "answer": "Desztilláció"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az amorf kén _____ alakul ki, ha az olvadt ként hirtelen lehűtjük.",
+      "options": [],
+      "answer": "rendezetlen"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mi az a Lugol-oldat?",
+      "options": ["Kálium-jodidos vizes jódoldat", "Kálium-permanganat oldata", "Jódvastagított oldata", "Jódszodiumos oldata"],
+      "answer": "Kálium-jodidos vizes jódoldat"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A kénsav első disszoációs lépése _____ 100%-ban lejátszódik.",
+      "options": [],
+      "answer": "gyakorlatilag"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik a kénsav ipari termelésének alapanyaga?",
+      "options": ["Kén", "Kénhidrogén", "Kén-dioxid", "Kén-trioxid"],
+      "answer": "Kén"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A H2S + H2O ⇌ HS- + H3O+ egyenlet a _____ savas természetét mutatja.",
+      "options": [],
+      "answer": "kénhidrogén"
+    }
+  ]
+}
