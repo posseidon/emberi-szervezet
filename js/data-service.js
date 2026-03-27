@@ -43,5 +43,16 @@ const DataService = {
             console.error('Error loading topic quiz:', e);
             return null;
         }
+    },
+
+    async getSubjectQuiz(subjectId, quizNumber) {
+        try {
+            const response = await fetch(`assets/sources/${subjectId}/quizzes/${subjectId}-${quizNumber}.json`);
+            if (!response.ok) return null;
+            return await response.json();
+        } catch (e) {
+            console.error('Error loading subject quiz:', e);
+            return null;
+        }
     }
 };

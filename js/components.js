@@ -82,13 +82,28 @@ const Components = {
                     ${topicRows}
                 </div>
 
-                <div class="mt-12 p-8 border-2 border-dashed border-primary/20 rounded-sm bg-primary/5 flex flex-col items-center text-center">
-                    <h4 class="text-lg font-bold text-text-main mb-2">Mastered the material?</h4>
-                    <p class="text-text-muted text-sm mb-6">Take a randomized quiz covering all topics in ${subject.name}.</p>
-                    <button class="flex items-center gap-2 bg-primary text-white hover:bg-primary/90 px-8 py-3 rounded-full text-sm font-bold tracking-wide transition-all shadow-lg hover:shadow-primary/20">
-                        <span class="material-symbols-outlined">shuffle</span>
-                        COMPREHENSIVE SUBJECT QUIZ
-                    </button>
+                <div class="mt-12 p-8 border-2 border-dashed border-primary/20 rounded-sm bg-primary/5">
+                    <div class="text-center mb-8">
+                        <h4 class="text-lg font-bold text-text-main mb-2">Mastered the material?</h4>
+                        <p class="text-text-muted text-sm">Take a comprehensive quiz covering all topics in ${subject.name}.</p>
+                    </div>
+                    <div class="grid grid-cols-2 sm:grid-cols-5 gap-3">
+                        ${[1,2,3,4,5,6,7,8].map(n => `
+                            <div onclick="location.hash='#/subject-quiz/${subject.id}/${n}'"
+                                 class="bg-surface border border-border-color rounded-sm p-4 flex flex-col items-center gap-2 cursor-pointer hover:border-primary/40 transition-colors group">
+                                <span class="material-symbols-outlined text-primary group-hover:scale-110 transition-transform">quiz</span>
+                                <span class="text-sm font-bold text-text-main">Quiz ${n}</span>
+                            </div>
+                        `).join('')}
+                        ${[9,10].map(n => `
+                            <div onclick="location.hash='#/subject-quiz/${subject.id}/${n}'"
+                                 class="bg-surface border border-red-500/30 rounded-sm p-4 flex flex-col items-center gap-2 cursor-pointer hover:border-red-500/60 transition-colors group">
+                                <span class="material-symbols-outlined text-red-500 group-hover:scale-110 transition-transform">local_fire_department</span>
+                                <span class="text-sm font-bold text-text-main">Quiz ${n}</span>
+                                <span class="text-[10px] font-bold uppercase text-red-500 tracking-widest">Expert</span>
+                            </div>
+                        `).join('')}
+                    </div>
                 </div>
             </div>
         `;
@@ -328,11 +343,52 @@ const Components = {
 
                 <div id="quiz-feedback" class="w-full p-4 rounded-sm text-center font-bold text-sm hidden mb-8"></div>
                 <button id="next-question" class="hidden px-8 py-3 bg-primary text-white font-bold rounded-sm hover:opacity-90 transition-opacity">Next Question</button>
-                
+
                 <div id="quiz-results" class="hidden w-full text-center">
                     <h2 class="text-4xl font-bold font-display mb-6">Quiz Complete!</h2>
                     <p id="quiz-score" class="text-xl text-text-muted mb-10"></p>
                     <a href="#/subject/${subjectId}/topic/${topicId}" class="inline-block px-8 py-3 bg-primary text-white font-bold rounded-sm hover:opacity-90 transition-opacity">Return to Topic</a>
+                </div>
+            </div>
+        `;
+    },
+
+    SubjectQuiz(data, subjectId, quizNumber) {
+        const isExpert = parseInt(quizNumber) >= 9;
+        if (!data) return `
+            <div class="flex flex-col items-center justify-center p-20">
+                <h2 class="text-2xl font-bold mb-4">No quiz found.</h2>
+                <a href="#/subject/${subjectId}" class="text-primary hover:underline font-bold uppercase tracking-widest text-sm">Back to Subject</a>
+            </div>
+        `;
+        const { quiz } = data;
+        return `
+            <div class="max-w-[800px] w-full mx-auto p-8 lg:p-12 flex flex-col items-center">
+                <header class="w-full mb-12 flex justify-between items-center">
+                    <a href="#/subject/${subjectId}" class="flex items-center gap-2 text-text-muted hover:text-text-main transition-colors group">
+                        <span class="material-symbols-outlined text-[20px] group-hover:-translate-x-1 transition-transform">arrow_back</span>
+                        <span class="font-body font-medium text-[15px]">Exit Quiz</span>
+                    </a>
+                    <div class="flex items-center gap-4">
+                        ${isExpert ? '<span class="text-[10px] font-bold uppercase text-red-500 tracking-widest px-3 py-1 bg-red-50 border border-red-200 rounded-full">Expert Level</span>' : ''}
+                        <div class="text-text-muted text-sm font-bold uppercase tracking-widest">
+                            Question <span id="quiz-counter">1 / ${quiz.length}</span>
+                        </div>
+                    </div>
+                </header>
+
+                <div id="quiz-question-container" class="w-full bg-surface border border-border-color p-10 rounded-sm shadow-sm mb-8">
+                    <h2 id="quiz-question-text" class="text-2xl font-bold font-display text-text-main mb-10 leading-snug">Loading...</h2>
+                    <div id="quiz-options" class="grid grid-cols-1 gap-4"></div>
+                </div>
+
+                <div id="quiz-feedback" class="w-full p-4 rounded-sm text-center font-bold text-sm hidden mb-8"></div>
+                <button id="next-question" class="hidden px-8 py-3 bg-primary text-white font-bold rounded-sm hover:opacity-90 transition-opacity">Next Question</button>
+
+                <div id="quiz-results" class="hidden w-full text-center">
+                    <h2 class="text-4xl font-bold font-display mb-6">Quiz Complete!</h2>
+                    <p id="quiz-score" class="text-xl text-text-muted mb-10"></p>
+                    <a href="#/subject/${subjectId}" class="inline-block px-8 py-3 bg-primary text-white font-bold rounded-sm hover:opacity-90 transition-opacity">Return to Subject</a>
                 </div>
             </div>
         `;
