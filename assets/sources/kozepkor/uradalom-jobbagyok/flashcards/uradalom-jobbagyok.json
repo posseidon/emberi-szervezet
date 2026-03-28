@@ -1,0 +1,95 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Feudalizmus",
+      "definition": "Középkori társadalmi-gazdasági rendszer az örökletes föld- és hűségi viszonyokra épülve.",
+      "quote": "Föld és hűség az alapok",
+      "text": "A feudalizmus germán és római örökségből jött létre. A föld az elsődleges vagyon, amelyen a hatalom alapult. A társadalom hierarchikus volt: király - főurak - lovagok - parasztok."
+    },
+    {
+      "id": 2,
+      "term": "Uradalom",
+      "definition": "Önellátó nagybirtok, gazdasági, katonai és közigazgatási egység a középkorban.",
+      "quote": "Az uradalom a középkor gazdaságának szíve",
+      "text": "Központja a vár vagy udvarház volt. Majorság (feldolgozás), jobbágytelkek, közös területek, és a várab tartoztak hozzá. Az uradalmak önellátásra rendezkedtek."
+    },
+    {
+      "id": 3,
+      "term": "Jobbágy",
+      "definition": "Függő helyzetű paraszt, aki föld használatáért terményadót és robotot ígért.",
+      "quote": "Föld használata cserébe terményadóért",
+      "text": "Jogilag nem szabad, de nem rabszolga sem. Telkét örökítheti. Közös területeket használhat. A 13. szd végére jogilag egységes réteggé vált."
+    },
+    {
+      "id": 4,
+      "term": "Robot",
+      "definition": "A jobbágy munkajáradéka, amelyet a földesúr majorságában teljesített.",
+      "quote": "Heti több nap a föld úr földjén dolgozni",
+      "text": "A robot általában heti 2-3 napot jelentett. Formálódott idővel: tavasszal szántás, nyáron aratás. A robotmunka igen fontos volt az uradalom működésében."
+    },
+    {
+      "id": 5,
+      "term": "Tized (egyházi adó)",
+      "definition": "Az egyháznak járó adó, amely a jobbágy termésének 10%-a volt.",
+      "quote": "Az egyháznak járó tizedszázad",
+      "text": "A tized az egyház anyagi alapja volt. Biztosította a papok és szerzetesek fenntartásárás. Az egyház felhalmozta jelentős vagyont."
+    },
+    {
+      "id": 6,
+      "term": "Banalitás (földesúri monopólium)",
+      "definition": "A földesúrnak járó jog, amely beparancsnokolt a jobbágyoknak bizonyos szolgáltatások használatáról.",
+      "quote": "Csak a földesúr malmánál darálhat",
+      "text": "Banalitások: malom, sörfőzés, kocsma, mészárszék. A jobbágyok csak ezeket használhatták, cserébe pedig fizetni kellett. Ez jelentős jövedelem forrás volt."
+    },
+    {
+      "id": 7,
+      "term": "Hűbériség",
+      "definition": "Kölcsönös jogi és katonai viszony a hűbérúr és vazallus között, föld adományozáson alapulva.",
+      "quote": "Katonai szolgálat föld cseréjében",
+      "text": "A vazallus katonai és tanácsadó szerepet vállalt, a hűbérúr védelmet és föld- adományt adott. A viszony személyes és kölcsönös volt."
+    },
+    {
+      "id": 8,
+      "term": "Három rend (társadalmi osztályok)",
+      "definition": "A középkori társadalom felosztása: imádkozók (papság), harcolók (nemesség), dolgozók (parasztság).",
+      "quote": "Minden ember a helyén van az isteni rendjében",
+      "text": "Ez az osztályozás az isteni rendet tükrözte. Az átjárás szinte lehetetlen volt. Minden rendnek saját jogai és kötelezettségei voltak."
+    },
+    {
+      "id": 9,
+      "term": "Kétnyomásos gazdálkodás",
+      "definition": "8. századi művelési rendszer: egy félét vetik, a másikat pihentetik. Hatékonyabb, mint az előző vadtalajváltó módszer.",
+      "quote": "Föld és pihentetés váltakozva",
+      "text": "Ezt a háromnyomásos gazdálkodás váltotta fel. A két módszer közötti fejlődés jelentős terményhozam-növekedést hozott."
+    },
+    {
+      "id": 10,
+      "term": "Háromnyomásos gazdálkodás",
+      "definition": "10-11. századi rendszer: föld három részre osztva - tavaszi vetés, őszi vetés, ugar.",
+      "quote": "Három részre osztott föld, jobb terméshozam",
+      "text": "Ez még hatékonyabb volt az előzőnél. Csökkentette a parlagon heverő föld arányát. Ez a rendszer lehetővé tette a népesség növekedésétanyelis."
+    },
+    {
+      "id": 11,
+      "term": "Nehézeke",
+      "definition": "Technikai újítás, amely keményebb talaj szántásátitette lehetővé. Csoroszlyás és kormánylemezes szerkezetű.",
+      "quote": "A nehéz föld mély szántása",
+      "text": "A römán eke után ez jelentős fejlődés volt. Lehetővé tette az észak-európai vastag talajok feltörést. Ez nagyobb terményhozamot hozot"
+    },
+    {
+      "id": 12,
+      "term": "Szügyhám",
+      "definition": "Technikai újítás: a lovak efektívebb igába fogása, amely nagyobb szántóerőt tett lehetővé.",
+      "quote": "A ló ereje jobban kihasznált",
+      "text": "Az egyiptomi és antik módszerek után ezt az újítást az arabok közvetíthetik. Ez a szügyhám a lovak munkakapacitásátjesen megtöbbszörözte."
+    },
+    {
+      "id": 13,
+      "term": "Patkolás és kengyel",
+      "definition": "Technikai fejlesztések a lovasságban: a kengel stabilabb ülést, a patkolás a ló kitartóságát növelte.",
+      "quote": "A ló kitartása és a lovas stabilitása",
+      "text": "Ez a fejlesztések a lovas hadviselést forradalmasították. A lovagok jobban tudtak készülni a karddal. A lóhoz jobban kötöttek - a lovagrend világa"
+    }
+  ]
+}

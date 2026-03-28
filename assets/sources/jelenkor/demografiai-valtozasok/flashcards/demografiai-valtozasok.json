@@ -1,0 +1,214 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Demográfiai átmenet",
+      "definition": "A népesedési folyamatok fejlődési modellje, amely a magas születési és halálozási aránytól az alacsony értékekig tartó történelmi átalakulást mutatja be.",
+      "quote": "A népességváltozás fejlődési modellje",
+      "text": "Az ötfázisú modell leírja, hogy az előindustriális államoktól az utóindustriális állapotokig hogyan fejlődik a demográfia. Ezáltal megérthető, milyen folyamatok mentek végbe napjainkban."
+    },
+    {
+      "id": 2,
+      "term": "Demográfiai tél",
+      "definition": "Az a korszak, amikor a népességfogyás és az elöregedés válik uralkodóvá. A születésszám tartós csökkenése miatt a népesség stagnál vagy csökken.",
+      "quote": "Az öregedés korszaka",
+      "text": "A fejlett országok többsége demográfiai télben van. Magyarország is ebbe a kategóriába tartozik a születésszám csökkenésével."
+    },
+    {
+      "id": 3,
+      "term": "Elöregedés",
+      "definition": "A társadalom korösszetételének eltolódása az idősebb korosztályok felé. Az alacsony születésszám és a növekvő élettartam együttes következménye.",
+      "quote": "A népesség legyengülése",
+      "text": "Az elöregedés gazdasági kihívásokat teremt a nyugdíjrendszerre és az egészségügyi ellátásra. Magyarország az EU-nak egyik legöregebb társadalma."
+    },
+    {
+      "id": 4,
+      "term": "Gazdasági bevándorló",
+      "definition": "Olyan személy, aki más országba költözik a jobb megélhetés és munkalehetőség reményében. A modern migráció legelterjedtebb formája.",
+      "quote": "A munka követése",
+      "text": "A gazdasági bevándorlók az EU-ban a szabad mozgásnak köszönhetően egyre szaporodnak. Különösen Magyarországról sokan dolgoznak Nyugat-Európában."
+    },
+    {
+      "id": 5,
+      "term": "Gyermekgondozási segély (GYES)",
+      "definition": "Magyar családpolitikai támogatás, amely lehetővé teszi, hogy az anya három évig otthon maradjon gyermekével. A hetvenes években bevezetésre került.",
+      "quote": "Az anyaság támogatása",
+      "text": "A GYES 1967-ben bevezetett intézmény. Szerepe van az apák munkavállalása mellett az anyák otthonmaradásában."
+    },
+    {
+      "id": 6,
+      "term": "Ingázás",
+      "definition": "Rendszeres, ismétlődő lakóhely és munkahely közötti napi utazás. A hetvenes–nyolcvanas évek Magyarországán több mint egymillió embert érintett.",
+      "quote": "Napi szisztematikus költözés",
+      "text": "Az ingázás az iparosítás és a városiasodás során jelent meg. A szabadidő szűkülésének egyik oka."
+    },
+    {
+      "id": 7,
+      "term": "Menekült",
+      "definition": "Olyan személy, aki politikai, vallási vagy háborús üldöztetés miatt kényszerül elhagyni hazáját. A nemzetközi jog szerint különleges védelem illeti meg.",
+      "quote": "Üldözöttek száraz ország között",
+      "text": "Az 1951-es genfi egyezmény védi a menekülteket. Az EU-nak mélyreható kihívása a nagyobb számú menekült fogadása."
+    },
+    {
+      "id": 8,
+      "term": "Modernkori migráció",
+      "definition": "A XX–XXI. században zajló, világszintű népességvándorlási folyamat. Kiváltó oka többnyire gazdasági, politikai vagy környezeti tényező.",
+      "quote": "Az összefonódott világ mozgása",
+      "text": "A modernkori migráció világméretű és gyors. Az Egyesült Államok, az EU és az olajgazdag Közel-Kelet a fő célterületek."
+    },
+    {
+      "id": 9,
+      "term": "Népességfogyás",
+      "definition": "A születések számának tartós csökkenése a halálozásokhoz képest. Magyarországon az 1980-as évektől állandósult.",
+      "quote": "A népesség csökkenése",
+      "text": "Magyarország népessége a csúcsérték (1981-ben 10,7 millió) után folyamatosan csökken. Ez demográfiai válságot jelent."
+    },
+    {
+      "id": 10,
+      "term": "Népességrobbanás",
+      "definition": "Gyors és tartós népességnövekedés, amelyet a halandóság csökkenése és a születésszám magas szintje okoz. A fejlődő országokban még napjainkban is jellemző.",
+      "quote": "A gyorsan nő világ",
+      "text": "Az Afrika és Ázsia részei még az exponenciális népességnövekedésben vannak. Ez infrastrukturális és gazdasági nyomást hoz."
+    },
+    {
+      "id": 11,
+      "term": "Párhuzamos társadalom",
+      "definition": "Olyan társadalmi helyzet, amelyben a bevándorlók közösségei nem integrálódnak a befogadó ország kultúrájába. Ennek következménye a társadalmi elkülönülés és konfliktus.",
+      "quote": "Elkülönült közösségek coexistencei",
+      "text": "Az Európában érkezett bevándorlók közül sok nem integrálódik. Ez szegregált területeket hoz létre a városokban."
+    },
+    {
+      "id": 12,
+      "term": "Ratkó-korszak",
+      "definition": "Az 1950-es évek eleji időszak Magyarországon, amikor Ratkó Anna minisztersége alatt a születésszám mesterségesen megemelkedett. Az abortusztilalom és a családtámogatások jellemezték.",
+      "quote": "A megemelkedett születésszám kora",
+      "text": "A Ratkó-korszak 1950-1952 között volt az erőteljes államintervenció időszaka. Ennek eredménye az erős születési hullám."
+    },
+    {
+      "id": 13,
+      "term": "Szuburbanizáció",
+      "definition": "A városokból a környező településekre történő kiköltözés folyamata. A rendszerváltozás után vált tömegessé Magyarországon.",
+      "quote": "A városból a város szélére",
+      "text": "A szuburbanizáció szétszórta a városközponti lakásokat. Budapest körül nagy településfejlesztés zajlott be az 1990-es évektől."
+    },
+    {
+      "id": 14,
+      "term": "Természetes szaporodás",
+      "definition": "A születések és halálozások különbözete, amely meghatározza a népesség természetes változását. Pozitív érték esetén a népesség nő, negatív esetén fogy.",
+      "quote": "Természetes népességfejlődés",
+      "text": "A természetes szaporodás mutató alapján különítik el a fejlett és fejlődő országokat. Magyarországon már hosszú évek óta negatív."
+    },
+    {
+      "id": 15,
+      "term": "Abortusztilalom",
+      "definition": "Az állami szabályozás azon formája, amely tiltja a művi terhességmegszakítást. Célja a születésszám növelése és a gyermekvállalás ösztönzése volt.",
+      "quote": "Termékenység által kényszer",
+      "text": "A Ratkó-korszakban az abortusz szigorúan tilos volt. Ez az egyik leghatékonyabb demográfiai beavatkozás volt."
+    },
+    {
+      "id": 16,
+      "term": "Analfabétizmus",
+      "definition": "Az olvasás és írás képességének hiánya. A fejlődő országokban a népességrobbanás egyik súlyos társadalmi következménye.",
+      "quote": "Az oktatás nélküliek",
+      "text": "Az afrikai és ázsiai országokban a magas népességnövekedés az oktatási intézmények túlterhelésére vezet."
+    },
+    {
+      "id": 17,
+      "term": "Belső vándorlás",
+      "definition": "Az ország határain belül történő lakóhelyváltoztatás. Magyarországon főként a falvakból a városokba, majd a városokból az agglomerációba irányult.",
+      "quote": "Az országon belüli költözés",
+      "text": "A belső migráció Budapest és a nagyvárosok felé irányult. A vidék fokozatosan elnéptelenedett."
+    },
+    {
+      "id": 18,
+      "term": "Családpolitika",
+      "definition": "Állami intézkedések összessége, amelyek a gyermekvállalást és a családok jólétét támogatják. Célja a demográfiai hanyatlás mérséklése.",
+      "quote": "Az állam család-barát politikája",
+      "text": "A magyar családpolitika a gyermekgondozási segélyen túl családi pótlékot, lakáshoz jutási támogatásokat és adókedvezményeket biztosít."
+    },
+    {
+      "id": 19,
+      "term": "1945: Háború vége",
+      "definition": "A II. világháború vége, Magyarország népessége mintegy egymillió fővel csökken.",
+      "quote": "Az összeomlás éve",
+      "text": "A háború után meg kellett kezdeni a közalkalmazottak felvételét és az infrastruktúra helyreállítását."
+    },
+    {
+      "id": 20,
+      "term": "1952-1956: Ratkó-korszak",
+      "definition": "A Ratkó-korszak időszaka, amikor a születésszám ugrásszerűen megnő.",
+      "quote": "A születések emelkedése",
+      "text": "Ez a négyfős család korának kezdete. Az abortusztilalom és az anyasági támogatások nagyon hatékonyak voltak."
+    },
+    {
+      "id": 21,
+      "term": "1956: Forradalom, menekülés",
+      "definition": "A forradalom leverése után mintegy 200 ezer magyar menekül külföldre.",
+      "quote": "Nagyobb emigráció",
+      "text": "Az 1956-os magyar forradalom után fiatal, termékenységi korú emberek hagyták el az országot. Ez súlyosbította a demográfiai problémákat."
+    },
+    {
+      "id": 22,
+      "term": "1967: GYES bevezetése",
+      "definition": "A gyermekgondozási segély (GYES) bevezetése, amely új lendületet ad a családpolitikának.",
+      "quote": "Az anyák támogatása kezdete",
+      "text": "A GYES lehetővé tette, hogy az anyák három évig otthon maradjanak. Az eredmény újabb születési hullám volt."
+    },
+    {
+      "id": 23,
+      "term": "1970: Világszintű népességnövekedés csúcsa",
+      "definition": "A világszintű népességnövekedés eléri csúcspontját; Magyarországon is a születések legmagasabb aránya ezután következik.",
+      "quote": "A népességnövekedés tetőpontja",
+      "text": "Az 1970-es évektől kezdve a világnépesség növekedésének üteme lassult. Magyarország azonban még erőforrásokkal rendelkezett."
+    },
+    {
+      "id": 24,
+      "term": "1981: Népességcsúcs",
+      "definition": "Magyarország népessége eléri történelmi csúcsát, 10,7 millió fővel.",
+      "quote": "A magas népessé lehetőség éve",
+      "text": "A csúcs után Magyarország népessége folyamatosan csökkent. Ez markáns fordulat a demográfiai szituációban."
+    },
+    {
+      "id": 25,
+      "term": "1989: Rendszerváltozás",
+      "definition": "A rendszerváltozás és a határok megnyitása, a külföldi munkavállalás elterjedése.",
+      "quote": "Határok nyitása",
+      "text": "Az 1989 után sokan dolgoztak külföldön, különösen Nyugat-Európában. Gazdasági migráció helyét a szocializmusban politikai migráció."
+    },
+    {
+      "id": 26,
+      "term": "2011: Arab tavasz",
+      "definition": "Az \"arab tavasz\" kezdetével új migrációs hullám indul Európa felé.",
+      "quote": "Felkelések és migráció",
+      "text": "A középkelet-i felkelések nagy menekültáradatot indítottak el. Az EU-t a menedékségi válságok érték el."
+    },
+    {
+      "id": 27,
+      "term": "2015: Balkáni migráció",
+      "definition": "A balkáni útvonalon Magyarországot elérő migrációs válság éve; a déli határon kerítés épül.",
+      "quote": "Az EU migrációs krízise",
+      "text": "A 2015-ös év során több százezer migráns próbált Magyarország felé haladni. A kerítés építése erőszakos közvetítésnek számított egyes körökben."
+    },
+    {
+      "id": 28,
+      "term": "Ratkó Anna",
+      "definition": "Népjóléti miniszter az 1950-es évek elején, aki az abortusztilalom és a családpolitikai intézkedések révén a születésszám növelését ösztönözte. Az ő nevéhez fűződik a \"Ratkó-korszak\" és a \"Ratkó-nemzedék\".",
+      "quote": "A születések növelésének szervezője",
+      "text": "Ratkó Anna radikális demográfiai intézkedéseket hozott. Az ő politikájának eredménye a Ratkó-nemzedék, amely később demográfiaihatásokkal bírt."
+    },
+    {
+      "id": 29,
+      "term": "Magyarország népessége 1945-ben",
+      "definition": "Magyarország népessége 1945-ben mintegy egymillió fővel csökkent a háborúnak köszönhetően.",
+      "quote": "Háborús veszteség",
+      "text": "A háborús és holokauszta-veszteségek után a népességcsökkentést soha nem sikerült teljesen helyreállítani."
+    },
+    {
+      "id": 30,
+      "term": "Család-politika eszközei",
+      "definition": "A családpolitika eszközei: GYES (gyermekgondozási segély), családi pótlék, lakáshoz jutási támogatások, adókedvezmények.",
+      "quote": "Az állam által támogatott családok",
+      "text": "Magyarország a családsegítésben tekintélyes összeget fordít. Ez azonban nem elég a születésszám visszafordításához."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "magyarorszag-alkotmanya",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Milyen szavazatarány szükséges az Alaptörvény módosításához?",
+      "options": [
+        "Egyszerű többség",
+        "Kétharmados többség",
+        "Háromötöd többség",
+        "Egyhangúság"
+      ],
+      "answer": "Kétharmados többség"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az Alaptörvény hatályba lépésének éve: _____",
+      "options": [],
+      "answer": "2012"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik szerv az Alaptörvény alapvető jogainak védelme?",
+      "options": [
+        "Kúria",
+        "Alkotmánybíróság",
+        "Ombudsman",
+        "Számvevőszék"
+      ],
+      "answer": "Alkotmánybíróság"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az Országgyűlés _____ tagú.",
+      "options": [],
+      "answer": "199"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Hogyan választják meg a köztársasági elnököt?",
+      "options": [
+        "Népi szavazattal",
+        "Parlamentáris szavazattal",
+        "Indirekten a Párt által",
+        "Direkt általános választásokon"
+      ],
+      "answer": "Parlamentáris szavazattal"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A köztársasági elnök mandátuma _____ év.",
+      "options": [],
+      "answer": "5"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik év jelenti az első szabad magyar választásokat?",
+      "options": [
+        "1989",
+        "1990",
+        "1991",
+        "1992"
+      ],
+      "answer": "1990"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Magyarország parlamentáris _____.",
+      "options": [],
+      "answer": "köztársaság"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik szerv a magyar igazságszolgáltatás legfelsőbb szintje?",
+      "options": [
+        "Törvényszék",
+        "Ítélőtábla",
+        "Kúria",
+        "Járásbíróság"
+      ],
+      "answer": "Kúria"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az Alkotmánybíróság _____ tagból áll.",
+      "options": [],
+      "answer": "15"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Milyenrendszer működik a magyar parlamenti választásokon?",
+      "options": [
+        "Tiszta többségi",
+        "Tiszta arányos",
+        "Vegyes",
+        "Soros"
+      ],
+      "answer": "Vegyes"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az Alaptörvény lépett hatályba _____ január elsején.",
+      "options": [],
+      "answer": "2012"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Kit választ meg az Országgyűlés tagjai közül?",
+      "options": [
+        "Polgármestereket",
+        "Köztársasági elnököt",
+        "Rendőrfőkapitányt",
+        "Megyefőnököt"
+      ],
+      "answer": "Köztársasági elnököt"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az önkormányzati választások _____ évente tartanak.",
+      "options": [],
+      "answer": "5"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mely szervek között működik a hatalommegosztás?",
+      "options": [
+        "Törvényhozó, végrehajtó, bírói",
+        "Kormány, parlament, nemzetközi szervezetek",
+        "Párt, állam, civil szervezetek",
+        "Központi, regionális, helyi"
+      ],
+      "answer": "Törvényhozó, végrehajtó, bírói"
+    }
+  ]
+}

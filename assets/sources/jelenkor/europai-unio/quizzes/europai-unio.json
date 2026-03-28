@@ -1,0 +1,151 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "europai-unio",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Hányadik éve van az Európai Uniónak a Maastrichti Szerződés után?",
+      "options": [
+        "32 év",
+        "31 év",
+        "30 év",
+        "29 év"
+      ],
+      "answer": "31 év"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az Európai Bíróság székhelye _____ városban van.",
+      "options": [],
+      "answer": "Luxemburgban"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik szerv képviseli az EU közös érdekeit?",
+      "options": [
+        "Európai Tanács",
+        "Európai Parlament",
+        "Európai Bizottság",
+        "Nemzeti kormányok"
+      ],
+      "answer": "Európai Bizottság"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az EU költségvetésének hany százaléka megy a kohéziós és regionális fejlesztésekre?",
+      "options": [],
+      "answer": "34"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mely szerkezet alkalmazza a kettős többségi szavazást?",
+      "options": [
+        "Európai Parlament",
+        "Európai Tanács",
+        "Európai Bizottság",
+        "Európai Bíróság"
+      ],
+      "answer": "Európai Tanács"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az Európai Számvevőszék _____ ben jött létre.",
+      "options": [],
+      "answer": "1977"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik szerv dönt az EU beleépítési kérdéseiről?",
+      "options": [
+        "Európai Parlament",
+        "Európai Bizottság",
+        "Európai Tanács",
+        "Nemzeti párlementek"
+      ],
+      "answer": "Európai Tanács"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az eurózóna jelenleg _____ tagállamot foglal magában.",
+      "options": [],
+      "answer": "20"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Ki vezeti az Európai Bizottságot 2019 óta?",
+      "options": [
+        "Jean-Claude Juncker",
+        "Donald Tusk",
+        "Ursula von der Leyen",
+        "Herman Van Rompuy"
+      ],
+      "answer": "Ursula von der Leyen"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az Európai Parlament Magyarországból _____ képviselővel rendelkezik.",
+      "options": [],
+      "answer": "21"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik szerv hozta meg az első közvetlen választások lehetőségét 1979-ben?",
+      "options": [
+        "Európai Tanács",
+        "Európai Bizottság",
+        "Nemzeti kormányok",
+        "Európai Parlament"
+      ],
+      "answer": "Nemzeti kormányok"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A Lisszaboni Szerződés _____ ben lépett hatályba.",
+      "options": [],
+      "answer": "2009"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik szervezet őrködik az EU pénzügyei felett?",
+      "options": [
+        "Európai Bizottság",
+        "Európai Számvevőszék",
+        "Nemzeti számvevőszékek",
+        "Európai Központi Bank"
+      ],
+      "answer": "Európai Számvevőszék"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az Európai Ombudsman _____ ben kezdte meg működését.",
+      "options": [],
+      "answer": "1995"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mit jelent a szupranacionális intézmény?",
+      "options": [
+        "Tagállamok felett gyakorol jogköröket",
+        "Tagállamok között közvetít",
+        "Tagállamok helyettesít",
+        "Tagállamok támogatja"
+      ],
+      "answer": "Tagállamok felett gyakorol jogköröket"
+    }
+  ]
+}

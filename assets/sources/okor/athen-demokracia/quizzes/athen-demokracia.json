@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "athen-demokracia",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely intézmény volt az athéni demokrácia döntéshozó testülete?",
+      "options": [
+        "Bulé",
+        "Ekklészia",
+        "Héliaia",
+        "Areioszpagosz"
+      ],
+      "answer": "Ekklészia"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ az athéni közigazgatási egység volt, amelyből 10 darab volt és mindegyik 50 tagot adott a Bulék tanácsnak.",
+      "options": [],
+      "answer": "phülé"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Ki vezette az athéni demokrácia virágkorát (Kr. e. 444-429)?",
+      "options": [
+        "Szolón",
+        "Kleiszthenész",
+        "Periklész",
+        "Peiszisztratosz"
+      ],
+      "answer": "Periklész"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A _____ Szolón reformjainak eredménye volt, amely a szabad polgárokat négy vagyoni osztályra osztotta.",
+      "options": [],
+      "answer": "timokrácia"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mit jelölt ki Kleiszthenész reformjainak legfontosabb célja?",
+      "options": [
+        "Az arisztokrácia erősítése",
+        "Az arisztokrácia hatalmának csökkentése",
+        "A rabszolgaság eltörlése",
+        "A királyság helyreállítása"
+      ],
+      "answer": "Az arisztokrácia hatalmának csökkentése"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az _____ az athéni szavazási eljárás volt, amelynek során a polgárok száműzendő személyre szavaztak cserépre írva az nevet.",
+      "options": [],
+      "answer": "osztrakiszmosz"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mely eventuality miatt főzött Szolón reformokat az athéni társadalomban?",
+      "options": [
+        "Az adósrabszolgaság csökkentésére",
+        "Az adósrabszolgaság eltörlésére",
+        "A kereskedelem fellendítésére",
+        "Az arisztokrácia erősítésére"
+      ],
+      "answer": "Az adósrabszolgaság eltörlésére"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az _____ az athéni népi bíróság volt, amely körülbelül 6000 szavazóból állt, sorsolás alapján kiválasztva.",
+      "options": [],
+      "answer": "héliaia"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mely szerv előkészítette az ekklészia (népgyűlés) napirend-tervezetét?",
+      "options": [
+        "Héliaia",
+        "Bulé",
+        "Arkhón",
+        "Areioszpagosz"
+      ],
+      "answer": "Bulé"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ az athéni tisztségviselőknek és az esküdtbíróság tagjainak naponta fizetett pénz volt, amelyet Periklész vezetett be.",
+      "options": [],
+      "answer": "napidíj"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik csata volt a görögség és Perzsia között a Kr. e. 490-ben?",
+      "options": [
+        "Szalamísz",
+        "Plataia",
+        "Marathón",
+        "Termopülai"
+      ],
+      "answer": "Marathón"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az _____ az athéni demokrácia eljárása volt, amely sorsolás alapján választotta ki a tisztségviselőket, csökkentve az erőforrás-központosítás lehetőségét.",
+      "options": [],
+      "answer": "sortio"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mit jelent az 'metoikosz' az ógörög társadalomban?",
+      "options": [
+        "Teljes jogú polgár",
+        "Betelepedett idegenek gazdaságilag aktívak, de politikai jogok nélkül",
+        "Szabad kereskedő",
+        "Rabszolga"
+      ],
+      "answer": "Betelepedett idegenek gazdaságilag aktívak, de politikai jogok nélkül"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az _____ az athéni politikai rendszer alapja volt, amely a szabad (férfi) polgárok közvetlen részvételén alapult a döntéshozatalban.",
+      "options": [],
+      "answer": "demokrácia"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik időszakban élt Periklész?",
+      "options": [
+        "Kr. e. 5. sz. közepe",
+        "Kr. e. 6. sz.",
+        "Kr. e. 4. sz.",
+        "Kr. u. 1. sz."
+      ],
+      "answer": "Kr. e. 5. sz. közepe"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az _____ az athéni tisztségviselőknek és esküdtbírók tagjainak napi kompenzációja volt, amely az alsóbb vagyoni osztályok részvételét biztosította.",
+      "options": [],
+      "answer": "misthos"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mely háború vezetett az athéni hanyatláshoz és hatalmuk elvesztéséhez?",
+      "options": [
+        "Perzsiai háborúk",
+        "Peloponnészoszi háború",
+        "Makedón háborúk",
+        "Mithraidateszoszi háborúk"
+      ],
+      "answer": "Peloponnészoszi háború"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az _____ az athéni legalacsonyabb rétege volt, amely rabszolgaságban élt és semmilyen politikai jogokkal nem rendelkezett.",
+      "options": [],
+      "answer": "rabszolga"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik ógörög filozófus tanított Athénban az athéni demokrácia virágkorában?",
+      "options": [
+        "Platón",
+        "Arisztotelész",
+        "Szókratész",
+        "Anaxagórasz"
+      ],
+      "answer": "Szókratész"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ az athéni arisztokrácia befolyása, amely az első írásos törvénykódexet (Drakón) megadottság után fokozatosan csökkent.",
+      "options": [],
+      "answer": "arisztokrácia"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mit jelent az 'napidíj' az athéni demokrácián belül?",
+      "options": [
+        "Napi büntetés",
+        "Napi pénz kompenzáció",
+        "Napi szavazási eljárás",
+        "Napi szűrés"
+      ],
+      "answer": "Napi pénz kompenzáció"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az _____ az athéni szigorú katonai nevelése volt Spártán, amely a katonai közösséget képezte az ógörogségben.",
+      "options": [],
+      "answer": "agógé"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Melyik reformáló vezette az athéni demokráciáját a Kr. e. 508-ban?",
+      "options": [
+        "Szolón",
+        "Peiszisztratosz",
+        "Kleiszthenész",
+        "Drakón"
+      ],
+      "answer": "Kleiszthenész"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az _____ az athéni legfelsőbb igazságszolgáltatási szerve volt, amely hazaárulási ügyekben döntött.",
+      "options": [],
+      "answer": "Areioszpagosz"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Hogyan voltak kiválasztva a sztratégoszok az athéni demokráciában?",
+      "options": [
+        "Sorsolás alapján",
+        "Választás alapján",
+        "Családi örökléten alapján",
+        "A nép által jelölt"
+      ],
+      "answer": "Választás alapján"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Anyanyelvi oktatás",
+      "definition": "Az a tanulási forma, amelyben a diák az oktatás fő nyelvét saját anyanyelvén használhatja. Fontos szerepe van a nemzeti identitás megőrzésében.",
+      "quote": "Saját nyelven tanulás",
+      "text": "Az anyanyelvi oktatás kulcsfontosságú a kisebbségi gyerekek számára az identitásmegtartáshoz. Azonban gyakorlatban sokszor hátrányos."
+    },
+    {
+      "id": 2,
+      "term": "Asszimiláció",
+      "definition": "A kisebbség beolvadása a többségi társadalomba nyelvileg, kulturálisan és identitásában. Gyakran vegyes házasságokon és oktatáson keresztül valósul meg.",
+      "quote": "Beolvadás a többségi társadalomba",
+      "text": "Az asszimiláció a határon túli magyar közösségek számára a legnagyobb veszély. A felvidéki magyarság körében különösen jellemző."
+    },
+    {
+      "id": 3,
+      "term": "Autonómia",
+      "definition": "Egy adott terület vagy közösség önrendelkezési joga a helyi ügyek intézésében. A magyar kisebbségek számára ez a kulturális és nyelvi önkormányzat lehetőségét jelentené.",
+      "quote": "Helyi önrendelkezés",
+      "text": "Az autonómia kérdése a határon túli magyarság számára kiemelt fontosságú. Azonban szomszédos államok ezt általában nem támogatják."
+    },
+    {
+      "id": 4,
+      "term": "Diaszpóra",
+      "definition": "A nemzeti közösségnek az anyaország határain kívül, elszórtan élő része. A magyar diaszpóra főként az USA és Nyugat-Európában található.",
+      "quote": "A szétszórt magyarság",
+      "text": "A magyar diaszpóra a világháborúk és az 1956-os forradalom után alakult ki. Az identitás megőrzése a diaszpórában alapvető kihívás."
+    },
+    {
+      "id": 5,
+      "term": "Diszkrimináció",
+      "definition": "Hátrányos megkülönböztetés nemzeti, nyelvi vagy vallási hovatartozás alapján. A kisebbségek jogait korlátozó törvények vagy gyakorlatok formájában jelenhet meg.",
+      "quote": "Hátrányos megkülönböztetés",
+      "text": "A diszkrimináció a határon túli magyarok számára napi tapasztalat. Oktatásban, munkahelyen és közigazgatásban fordulhat elő."
+    },
+    {
+      "id": 6,
+      "term": "Elvándorlás",
+      "definition": "A lakosság egy részének gazdasági vagy politikai okból történő kivándorlása más országokba. A határon túli magyar közösségek lélekszámát jelentősen csökkenti.",
+      "quote": "A fiatalok elhagyják az országot",
+      "text": "A gazdasági lehetőségek hiánya miatt sok fiatal magyar elhagyja szülőhazáját. Ez tovább gyengíti a kisebbségi közösségeket."
+    },
+    {
+      "id": 7,
+      "term": "Honosítás",
+      "definition": "Az a jogi folyamat, amely során valaki megkapja egy ország állampolgárságát. Magyarország 2010-ben egyszerűsített honosítást tett lehetővé a külhoni magyarok számára.",
+      "quote": "Állampolgárság szerzése",
+      "text": "A honosítási törvény 2010-ben nagyon számára kedvez a határon túli magyaroknak. Az intézmény ma már évente több tízezer új magyar állampolgárt jelent."
+    },
+    {
+      "id": 8,
+      "term": "Kettős állampolgárság",
+      "definition": "Amikor valaki két ország állampolgára egyidejűleg. A határon túli magyarok 2010-től kedvezményes eljárással kaphatják meg a magyar állampolgárságot.",
+      "quote": "Két ország polgára",
+      "text": "A kettős állampolgárság lehetővé teszi, hogy a külhoni magyarok szoros kapcsolatokat tartsanak Magyarországgal."
+    },
+    {
+      "id": 9,
+      "term": "Kisebbségi jog",
+      "definition": "Olyan alapvető jogok összessége, amelyek biztosítják a kisebbségek nyelvének, kultúrájának és önazonosságának megőrzését. Ide tartozik az anyanyelvhasználat, az oktatás és az önszerveződés.",
+      "quote": "A kisebbségek jogvédelme",
+      "text": "A kisebbségi jogok nemzetközi szinten is védelemben részesülnek. Az EU is erős következetességet tanúsít ezek kapcsán."
+    },
+    {
+      "id": 10,
+      "term": "Magyarigazolvány",
+      "definition": "A 2001-es kedvezménytörvény alapján kiállított dokumentum, amely különböző utazási és kulturális kedvezményekre jogosítja a határon túli magyarokat.",
+      "quote": "Kedvezmények a határon túliak számára",
+      "text": "A magyarigazolvány lehetővé teszi, hogy a határon túli magyarok kulturális és gazdasági kapcsolatokat tartsenak Magyarországgal."
+    },
+    {
+      "id": 11,
+      "term": "Magyar Állandó Értekezlet (MÁÉRT)",
+      "definition": "1999-ben létrehozott konzultatív fórum, amely a magyarországi és határon túli magyar szervezetek együttműködését segíti.",
+      "quote": "A magyar-magyar párbeszéd",
+      "text": "A MÁÉRT biztosítja, hogy a külhoni magyarok képviselete fórumot kapjon a döntéshozatalban."
+    },
+    {
+      "id": 12,
+      "term": "Magyarok Világszövetsége",
+      "definition": "Világszervezet, amely a külföldön élő magyarok kulturális és nemzeti identitásának megőrzését támogatja. Kapcsolatot teremt a diaszpóra és az anyaország között.",
+      "quote": "A magyarság világszervezete",
+      "text": "A Magyarok Világszövetsége kulturális, oktatási és közösségépítő programokat szervez a diaszpórában."
+    },
+    {
+      "id": 13,
+      "term": "Nemzeti összetartozás",
+      "definition": "A magyar nemzet egységének és lelki közösségének kifejezése a határokon túl élő magyarokkal. Ennek szimbóluma a 2010-es Nemzeti Összetartozás Napja.",
+      "quote": "Egységes magyar nemzettudat",
+      "text": "A nemzeti összetartozás törvénye 2010-ben június 4-ét a trianoni sérelmek emléke napjává nyilvánította."
+    },
+    {
+      "id": 14,
+      "term": "Őshonos kisebbség",
+      "definition": "Olyan népcsoport, amely történelmileg egy adott területen élt, de politikai határváltozások következtében kisebbségbe került. A határon túli magyarok mind őshonos kisebbségek.",
+      "quote": "Történelmi jogok alapján",
+      "text": "Az őshonos kisebbség megnevezés azt hangsúlyozza, hogy a magyarok nem bevándorlók, hanem az adott területek autochton lakói voltak."
+    },
+    {
+      "id": 15,
+      "term": "Területi autonómia",
+      "definition": "Olyan önrendelkezési forma, amelyben a kisebbségek lakta régiók széles körű önkormányzati jogokat kapnak. Példája az olaszországi Dél-Tirol.",
+      "quote": "Regionális önkormányzatiság",
+      "text": "A területi autonómia jól működik Dél-Tirolban. A határon túli magyarok számára azonban még недоступна."
+    },
+    {
+      "id": 16,
+      "term": "Természetes fogyás",
+      "definition": "Amikor a halálozások száma meghaladja a születésekét. A határon túli magyar közösségek lélekszámának csökkenésében ez jelentős tényező.",
+      "quote": "Más születése mint halála",
+      "text": "A határon túli magyarok többségénél negatív a természetes szaporodás. Ez katasztrofális következményekhez vezethet az elkövetkezendő évtizedekben."
+    },
+    {
+      "id": 17,
+      "term": "Vegyes házasság",
+      "definition": "Különböző nemzetiségű felek közötti házasság, amelyben a gyerekek gyakran elveszítik kisebbségi nyelvüket. Fontos tényező az asszimiláció folyamatában.",
+      "quote": "Etnikai keveredés családon keresztül",
+      "text": "A vegyes házasságok a kisebbségek asszimilációjának egyik leghatékonyabb mechanizmusa. Az asszimiláció gyermekeinél általában már nem beszélnek az eredeti nyelven."
+    },
+    {
+      "id": 18,
+      "term": "1952: Magyar Autonóm Tartomány",
+      "definition": "Létrejön a Magyar Autonóm Tartomány Romániában, amely 1968-ig működik.",
+      "quote": "Autonómia Romániában",
+      "text": "A Magyar Autonóm Tartomány felszámolása azt jelenti, hogy a magyarok kisebbségbe szorultak Erdélyben."
+    },
+    {
+      "id": 19,
+      "term": "1971: Dél-Tirol autonómiája",
+      "definition": "Dél-Tirolban az olasz állam biztosítja a német kisebbség autonómiáját, amely az európai autonómiamodellek példája lett.",
+      "quote": "Sikeres autonómiai modell",
+      "text": "Dél-Tirol autonómiája azt mutatja, hogy a többségi és kisebbségi közösségek harmonikusan élhetnek együtt."
+    },
+    {
+      "id": 20,
+      "term": "1974: Vajdaság autonómiája",
+      "definition": "Jugoszláviában a Vajdaság széles körű kulturális autonómiát kap, amely később fokozatosan beszűkül.",
+      "quote": "Jugoszláv kísérlet",
+      "text": "A Vajdaság autonómiája ugyan tágabb lehetőségeket adott, de később az autokrata rendszerrel szemben kevésnek bizonyult."
+    },
+    {
+      "id": 21,
+      "term": "1988. június 27.: Budapesti tüntetés",
+      "definition": "Több tízezres budapesti tüntetés a romániai falurombolási program ellen; a magyar közvélemény kiáll a külhoni magyarság mellett.",
+      "quote": "Az eszmények felkelése",
+      "text": "Ez az 1988-as tüntetés jelezte, hogy az 1980-as évek végén megváltozott a közvélemény a határon túli magyarok iránt."
+    },
+    {
+      "id": 22,
+      "term": "1990: Fekete március Marosvásárhelyen",
+      "definition": "A marosvásárhelyi \"fekete március\" etnikai zavargása megrázza Erdélyt, és a kisebbségi jogok kérdését nemzetközi figyelembe helyezi.",
+      "quote": "Etnikai konfliktus nyíltan",
+      "text": "A marosvásárhelyi magyarok 1990-ben fegyveres magyar támadás alatt szenvedtek. Ez a rendszerváltozás után első nagy etnikai konfliktusa volt."
+    },
+    {
+      "id": 23,
+      "term": "1999: MÁÉRT alapítása",
+      "definition": "Megalakul a Magyar Állandó Értekezlet (MÁÉRT), a magyar-magyar párbeszéd fóruma.",
+      "quote": "Magyar-magyar párbeszéd",
+      "text": "A MÁÉRT intézményi keretet adott a magyarországi és határon túli magyar szervezetek párbeszédének."
+    },
+    {
+      "id": 24,
+      "term": "2001: Kedvezménytörvény",
+      "definition": "A kedvezménytörvény bevezetése, amely lehetővé teszi a magyarigazolvány megszerzését.",
+      "quote": "Kedvezmények szerzése",
+      "text": "A magyarigazolvány lehetővé teszi, hogy a határon túli magyarok közlekedési, fogyasztási és kulturális kedvezményeket kapjanak."
+    },
+    {
+      "id": 25,
+      "term": "2004. december 5.: Kettős állampolgárság népszavazása",
+      "definition": "Sikertelen népszavazás a kettős állampolgárságról Magyarországon.",
+      "quote": "A szavazók nem támogatták",
+      "text": "A 2004-es népszavazáson nem volt meg a szükséges részvétel. Ez az 1989-es rendszerváltás óta az egyik legjobban elment volt."
+    },
+    {
+      "id": 26,
+      "term": "2010: Honosítási és összetartozás törvényei",
+      "definition": "A magyar Országgyűlés elfogadja a honosítási törvényt és a nemzeti összetartozásról szóló törvényt. Június 4-e a Nemzeti Összetartozás Napja lesz.",
+      "quote": "Széleskörű nemzetpolitika",
+      "text": "A 2010-es törvények nagyobb lehetőségeket adtak a külhoni magyaroknak. Több tízezer új magyar állampolgár született ezek nyomán."
+    },
+    {
+      "id": 27,
+      "term": "2011: Diaszpóra Tanács és Nemzetegység Bizottság",
+      "definition": "Létrejön a Magyar Diaszpóra Tanács és az Országgyűlés Nemzeti Összetartozás Bizottsága, amelyek tovább erősítik a nemzetegység politikáját.",
+      "quote": "Az intézményi erősítés",
+      "text": "Ezek az új szervek intézményesítették a határon túli magyarság támogatásának politikáját."
+    },
+    {
+      "id": 28,
+      "term": "Antall József",
+      "definition": "Magyarország első demokratikusan megválasztott miniszterelnöke a rendszerváltozás után. Híres mondata – \"lélekben, érzésben 15 millió magyar miniszterelnöke kívánok lenni\" – a határon túli magyarság iránti felelősségvállalást fejezi ki.",
+      "quote": "A külhoni magyarság támogatója",
+      "text": "Antall József személyes elkötelezettsége volt a határon túli magyarok ügye iránt. Ez meghatározta az 1990-es magyar nemzetpolitika irányát."
+    },
+    {
+      "id": 29,
+      "term": "Burgenland",
+      "definition": "Ausztria keleti tartománya, ahol mintegy tízezer magyar él őshonos kisebbségként.",
+      "quote": "Osztrák magyarok",
+      "text": "A burgenlandi magyarok gyakran többségi iskolákat választanak asszimilációt végezve."
+    },
+    {
+      "id": 30,
+      "term": "Erdély",
+      "definition": "Történelmi régió Romániában, ahol a legtöbb határon túli magyar él, köztük a székelyek tömbjei is.",
+      "quote": "A magyarság legnagyobb zárvány szülőhelye",
+      "text": "Erdélyből mintegy 1,2 millió magyar él. Ez az összes határon túli magyar fele."
+    },
+    {
+      "id": 31,
+      "term": "Felvidék",
+      "definition": "A mai Szlovákia déli területe, ahol a magyar közösség elsősorban a határ mentén él.",
+      "quote": "A felvidéki magyarság",
+      "text": "A Felvidéken kb. 460 ezer magyar lakik. Ez a második legnagyobb határon túli magyar közösség."
+    },
+    {
+      "id": 32,
+      "term": "Kárpátalja",
+      "definition": "Ukrajna nyugati területe, ahol mintegy 140 ezer magyar él; a terület az autonómia iránti igényéről is ismert.",
+      "quote": "Az autonómia-törekvések központja",
+      "text": "Kárpátalja 1945 után került az SZSZSZ-hez. Népessége folyamatosan csökken."
+    },
+    {
+      "id": 33,
+      "term": "Székelyföld",
+      "definition": "Erdély középső részén fekvő terület, ahol a magyar lakosság tömbben él. Az autonómiatörekvések központi helyszíne.",
+      "quote": "A székely magyarság otthona",
+      "text": "Székelyföldet három megye alkotja: Hargita, Kovászna és Maros. Itt a magyar/székely lakosság többségben van."
+    },
+    {
+      "id": 34,
+      "term": "Vajdaság",
+      "definition": "Szerbia északi tartománya, ahol kb. 260 ezer magyar él. A tartomány korlátozott kulturális autonómiával rendelkezik.",
+      "quote": "A szerb magyarság lakóhelye",
+      "text": "A Vajdaságban a magyarok a lakosság 20%-át teszik ki. A délszláv háborúk nagyban érinti a térséget."
+    }
+  ]
+}

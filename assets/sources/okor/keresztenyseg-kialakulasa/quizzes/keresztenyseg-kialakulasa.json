@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "keresztenyseg-kialakulasa",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Hol születet Jézus?",
+      "options": [
+        "Názáret",
+        "Betlehem",
+        "Jeruzsálem",
+        "Antiochia"
+      ],
+      "answer": "Betlehem"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az _____ a Jézus előfutára volt, aki keresztségben részesítette az embereket és akinek tanítása a bűnbánatról szólt.",
+      "options": [],
+      "answer": "Keresztelő Szent János"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Hány apostola volt Jézusnak?",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "7"
+      ],
+      "answer": "12"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az _____ az első jeruzsálemi keresztény közösség vezetője és az első jeruzsálemi püspök volt.",
+      "options": [],
+      "answer": "Péter apostol"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Ki volt az az személyt, aki eredetileg Saul néven a keresztények üldözője volt?",
+      "options": [
+        "Péter",
+        "János",
+        "Pál apostol",
+        "Tamás"
+      ],
+      "answer": "Pál apostol"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az _____ a Pál apostol megtérésének helye volt, ahol egy látomást kapott az feltámadott Jézusról.",
+      "options": [],
+      "answer": "damaszkuszi út"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mit jelölt az 'Milánói ediktum' Kr. u. 313-ban?",
+      "options": [
+        "A kereszténység betiltása",
+        "A vallásszabadság és a kereszténység elismerése",
+        "A pogány vallások támogatása",
+        "A Róma birodalom felbomlása"
+      ],
+      "answer": "A vallásszabadság és a kereszténység elismerése"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ az első egyetemes (ecumenikus) egyházi zsinat volt Kr. u. 325-ben, amely alatt a Szentháromság-tant dogmaként fogadták el.",
+      "options": [],
+      "answer": "niceai zsinat"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mit jelent a 'Szentháromság-tan'?",
+      "options": [
+        "Három vallási szokás",
+        "Az Isten három személyből áll: Atya, Fiú, Szentlélek",
+        "Három próféta",
+        "Három egyházi vagyonjog"
+      ],
+      "answer": "Az Isten három személyből áll: Atya, Fiú, Szentlélek"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ az úrvacsora szentsége, amely Jézus utolsó vacsoráján alapul, ahol a kenyér a Krisztus teste, a bor a Krisztus vére szimbólumként szerepel.",
+      "options": [],
+      "answer": "eucharistia"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik fő esemény után tömegessé vált a kereszténység terjedése?",
+      "options": [
+        "Milánói ediktum előtt",
+        "Péter apostol halála",
+        "A milánói ediktum után (313)",
+        "A niceai zsinat után"
+      ],
+      "answer": "A milánói ediktum után (313)"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az _____ a keresztény vallás szentsége, amelyben a hívő vízzel való megtisztulásban részesül, szimbolizálva bűnei megbocsátását.",
+      "options": [],
+      "answer": "keresztség"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Ki volt a rómaiak palestinai helytartója, aki Jézust keresztre feszítésre ítélte?",
+      "options": [
+        "Heródes",
+        "Pontius Pilatus",
+        "Constantinus",
+        "Nagy Sándor"
+      ],
+      "answer": "Pontius Pilatus"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az _____ Nagy Theodosius által Kr. u. 380-ban kiadott ediktum volt, amely a kereszténységet az egyetlen törvényes vallássá tette a Róma birodalomban.",
+      "options": [],
+      "answer": "thesszalonikai ediktum"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mi volt az 'ariánus eretnekség'?",
+      "options": [
+        "Egy politikai mozgalom",
+        "Egy vallásos tanítás, amely a Szentháromság-tant tagadta",
+        "Egy katonai felkelés",
+        "Egy gazdasági rendszer"
+      ],
+      "answer": "Egy vallásos tanítás, amely a Szentháromság-tant tagadta"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az _____ az első keresztény közösségek vezetője volt (görögül: episzkoposz = felügyelő), akinek feladata a helyi közösség vezetése volt.",
+      "options": [],
+      "answer": "püspök"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik ünnepi ünnepli a kereszténység a Jézus születésének?",
+      "options": [
+        "Húsvét",
+        "Pünkösd",
+        "Karácsony",
+        "Reformáció napi"
+      ],
+      "answer": "Karácsony"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ az Újszövetség része, amely Jézus életét, tanítását és feltámadását meséli el; négy evangélista írta őket.",
+      "options": [],
+      "answer": "evangélium"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik száz során vált véglegesen egyetemes vallássá a kereszténység?",
+      "options": [
+        "1. sz.",
+        "2-3. sz.",
+        "4-5. sz.",
+        "5-6. sz."
+      ],
+      "answer": "4-5. sz."
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ a kereszténység egyik legfontosabb ünnepe, amely Jézus feltámadásának ünneplésére szokás megtartani.",
+      "options": [],
+      "answer": "húsvét"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik első keresztény város volt az egyház központja?",
+      "options": [
+        "Athén",
+        "Jeruzsálem",
+        "Róma",
+        "Antiochia"
+      ],
+      "answer": "Jeruzsálem"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az _____ az Újszövetség része, amely az apostolok tanítása és a korai egyházi története meséli el.",
+      "options": [],
+      "answer": "Apostolok cselekedetei"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mit jelent az 'evangélium' szó?",
+      "options": [
+        "Tanítás",
+        "Örömhír",
+        "Törvény",
+        "Ima"
+      ],
+      "answer": "Örömhír"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A _____ az a személyiség, aki az Jézus vallása miatt halálra ítéltetett, és akinek emléke az erő és a bátorság szimbóluma.",
+      "options": [],
+      "answer": "mártír"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Mely császár kiadta a milánói ediktumot és összehívta a niceai zsinatot?",
+      "options": [
+        "Augustus",
+        "Nero",
+        "Constantinus",
+        "Nagy Theodosius"
+      ],
+      "answer": "Constantinus"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Fogalom 1",
+      "definition": "Definíció 1.",
+      "quote": "Idézet 1",
+      "text": "Szöveg 1."
+    },
+    {
+      "id": 2,
+      "term": "Fogalom 2",
+      "definition": "Definíció 2.",
+      "quote": "Idézet 2",
+      "text": "Szöveg 2."
+    },
+    {
+      "id": 3,
+      "term": "Fogalom 3",
+      "definition": "Definíció 3.",
+      "quote": "Idézet 3",
+      "text": "Szöveg 3."
+    },
+    {
+      "id": 4,
+      "term": "Fogalom 4",
+      "definition": "Definíció 4.",
+      "quote": "Idézet 4",
+      "text": "Szöveg 4."
+    },
+    {
+      "id": 5,
+      "term": "Fogalom 5",
+      "definition": "Definíció 5.",
+      "quote": "Idézet 5",
+      "text": "Szöveg 5."
+    },
+    {
+      "id": 6,
+      "term": "Fogalom 6",
+      "definition": "Definíció 6.",
+      "quote": "Idézet 6",
+      "text": "Szöveg 6."
+    },
+    {
+      "id": 7,
+      "term": "Fogalom 7",
+      "definition": "Definíció 7.",
+      "quote": "Idézet 7",
+      "text": "Szöveg 7."
+    },
+    {
+      "id": 8,
+      "term": "Fogalom 8",
+      "definition": "Definíció 8.",
+      "quote": "Idézet 8",
+      "text": "Szöveg 8."
+    },
+    {
+      "id": 9,
+      "term": "Fogalom 9",
+      "definition": "Definíció 9.",
+      "quote": "Idézet 9",
+      "text": "Szöveg 9."
+    },
+    {
+      "id": 10,
+      "term": "Fogalom 10",
+      "definition": "Definíció 10.",
+      "quote": "Idézet 10",
+      "text": "Szöveg 10."
+    },
+    {
+      "id": 11,
+      "term": "Fogalom 11",
+      "definition": "Definíció 11.",
+      "quote": "Idézet 11",
+      "text": "Szöveg 11."
+    },
+    {
+      "id": 12,
+      "term": "Fogalom 12",
+      "definition": "Definíció 12.",
+      "quote": "Idézet 12",
+      "text": "Szöveg 12."
+    },
+    {
+      "id": 13,
+      "term": "Fogalom 13",
+      "definition": "Definíció 13.",
+      "quote": "Idézet 13",
+      "text": "Szöveg 13."
+    },
+    {
+      "id": 14,
+      "term": "Fogalom 14",
+      "definition": "Definíció 14.",
+      "quote": "Idézet 14",
+      "text": "Szöveg 14."
+    },
+    {
+      "id": 15,
+      "term": "Fogalom 15",
+      "definition": "Definíció 15.",
+      "quote": "Idézet 15",
+      "text": "Szöveg 15."
+    },
+    {
+      "id": 16,
+      "term": "Fogalom 16",
+      "definition": "Definíció 16.",
+      "quote": "Idézet 16",
+      "text": "Szöveg 16."
+    },
+    {
+      "id": 17,
+      "term": "Fogalom 17",
+      "definition": "Definíció 17.",
+      "quote": "Idézet 17",
+      "text": "Szöveg 17."
+    },
+    {
+      "id": 18,
+      "term": "Fogalom 18",
+      "definition": "Definíció 18.",
+      "quote": "Idézet 18",
+      "text": "Szöveg 18."
+    },
+    {
+      "id": 19,
+      "term": "Fogalom 19",
+      "definition": "Definíció 19.",
+      "quote": "Idézet 19",
+      "text": "Szöveg 19."
+    },
+    {
+      "id": 20,
+      "term": "Fogalom 20",
+      "definition": "Definíció 20.",
+      "quote": "Idézet 20",
+      "text": "Szöveg 20."
+    },
+    {
+      "id": 21,
+      "term": "Fogalom 21",
+      "definition": "Definíció 21.",
+      "quote": "Idézet 21",
+      "text": "Szöveg 21."
+    },
+    {
+      "id": 22,
+      "term": "Fogalom 22",
+      "definition": "Definíció 22.",
+      "quote": "Idézet 22",
+      "text": "Szöveg 22."
+    },
+    {
+      "id": 23,
+      "term": "Fogalom 23",
+      "definition": "Definíció 23.",
+      "quote": "Idézet 23",
+      "text": "Szöveg 23."
+    },
+    {
+      "id": 24,
+      "term": "Fogalom 24",
+      "definition": "Definíció 24.",
+      "quote": "Idézet 24",
+      "text": "Szöveg 24."
+    },
+    {
+      "id": 25,
+      "term": "Fogalom 25",
+      "definition": "Definíció 25.",
+      "quote": "Idézet 25",
+      "text": "Szöveg 25."
+    },
+    {
+      "id": 26,
+      "term": "Fogalom 26",
+      "definition": "Definíció 26.",
+      "quote": "Idézet 26",
+      "text": "Szöveg 26."
+    },
+    {
+      "id": 27,
+      "term": "Fogalom 27",
+      "definition": "Definíció 27.",
+      "quote": "Idézet 27",
+      "text": "Szöveg 27."
+    },
+    {
+      "id": 28,
+      "term": "Fogalom 28",
+      "definition": "Definíció 28.",
+      "quote": "Idézet 28",
+      "text": "Szöveg 28."
+    },
+    {
+      "id": 29,
+      "term": "Fogalom 29",
+      "definition": "Definíció 29.",
+      "quote": "Idézet 29",
+      "text": "Szöveg 29."
+    },
+    {
+      "id": 30,
+      "term": "Fogalom 30",
+      "definition": "Definíció 30.",
+      "quote": "Idézet 30",
+      "text": "Szöveg 30."
+    },
+    {
+      "id": 31,
+      "term": "Fogalom 31",
+      "definition": "Definíció 31.",
+      "quote": "Idézet 31",
+      "text": "Szöveg 31."
+    },
+    {
+      "id": 32,
+      "term": "Fogalom 32",
+      "definition": "Definíció 32.",
+      "quote": "Idézet 32",
+      "text": "Szöveg 32."
+    },
+    {
+      "id": 33,
+      "term": "Fogalom 33",
+      "definition": "Definíció 33.",
+      "quote": "Idézet 33",
+      "text": "Szöveg 33."
+    },
+    {
+      "id": 34,
+      "term": "Fogalom 34",
+      "definition": "Definíció 34.",
+      "quote": "Idézet 34",
+      "text": "Szöveg 34."
+    }
+  ]
+}

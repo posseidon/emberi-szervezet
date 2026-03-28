@@ -1,0 +1,101 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "vilaghaboruk-2-causes",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Milyen okok vezetkezésével alakult ki az állóháború az első világháborúban?",
+      "options": [
+        "A védelem ereje nagyobb volt a támadásébanál",
+        "Az ellátási vonalak túl hosszúak voltak",
+        "Az időjárás nem kedvezett a hadjáratnak",
+        "A német hadvezetés nem tudott stratégiai döntést hozni"
+      ],
+      "answer": "A védelem ereje nagyobb volt a támadásébanál"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A Schlieffen-terv célja Franciaország gyors lerohanása egy kicselekmény által: ___ országon keresztül.",
+      "options": [],
+      "answer": "Belgiumon"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Miért vezetett az első világháború végül az antant győzelmához?",
+      "options": [
+        "Az antant gazdasági fölénye döntővé vált a hosszú háborúban",
+        "Az antant katonai szervezete jobbá volt",
+        "Franciaország először szerzett áttörést a fronton",
+        "Az antant jobban készült fel a háborúra"
+      ],
+      "answer": "Az antant gazdasági fölénye döntővé vált a hosszú háborúban"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az 1917-es amerikai belépés indoka az USA-t a ___ volt az ellensége miatt.",
+      "options": [],
+      "answer": "tengeralattjárók/korlátlan tengeralattjárás"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mi volt a fő oka a Tanácsköztársaság bukásának Magyarországon?",
+      "options": [
+        "Antant katonai beavatkozása és az ellenforradalom",
+        "Szovjet támogatás hiánya",
+        "A parasztság elfordult a szövetkezeti politikán miatt",
+        "Két fenti válasz igaz"
+      ],
+      "answer": "Két fenti válasz igaz"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A Vix-jegyzék az antant katonai parancsánakoktól érkezett ___ számára.",
+      "options": [],
+      "answer": "Magyarország"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Milyen folyamatok vezethettek a szovjet összeomlásához az 1991-ben?",
+      "options": [
+        "Gorbachov perestrojkája és a gazdasági válság",
+        "A keleti európai függetlenségi mozgalmak",
+        "Az atomfegyver-versengés terhe",
+        "Mindhárom fenti ok hatott"
+      ],
+      "answer": "Mindhárom fenti ok hatott"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A Berlin-fal építésének éve: ___.",
+      "options": [],
+      "answer": "1961"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mi volt az első világháborúban az állóháború fő jellemzője?",
+      "options": [
+        "Gyors katonai áttörések",
+        "Mozdulatlan frontvonalak és lövészárkos harcok",
+        "Légi dominancia",
+        "Tengeri harc"
+      ],
+      "answer": "Mozdulatlan frontvonalak és lövészárkos harcok"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A brest-litovszki szerződést az Szovjetunió és ___ között kötötték meg 1918-ban.",
+      "options": [],
+      "answer": "Németország"
+    }
+  ]
+}

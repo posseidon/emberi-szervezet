@@ -1,0 +1,95 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "I. Károly Róbert",
+      "definition": "Az Anjou-házból származó, aki 1301-ben lépett Magyarország pályára. 1310-ben törvényesen koronázták meg.",
+      "quote": "Az ország újjáépítésének szervezője",
+      "text": "Károly Róbert az Árpád-ház kihalása után az interregnumban trónra kerül. Alapvető reformokat hajtott végre."
+    },
+    {
+      "id": 2,
+      "term": "Interregnum",
+      "definition": "Az Árpád-ház kihalása után (1301) a királyi hatalom hiánya. A tartományurak (kiskirályok) kezében volt a hatalom.",
+      "quote": "A központi hatalom hiánya",
+      "text": "Az interregnum alatt az ország chaos állapotban volt. A tartományurak saját pénzt vertek, hadseregeket tartottak."
+    },
+    {
+      "id": 3,
+      "term": "Tartományurak (oligarchák, 'kiskirályok')",
+      "definition": "Nagybirtokos főurak, akik az interregnum alatt saját hadsereggel és külpolitikával rendelkeztek.",
+      "quote": "A félékralmiás hatalma",
+      "text": "Csák Máté, Kőszegi Henrik, Subics Pál voltak a legjelentősebbek. Valójában részállamokat alakítottak ki."
+    },
+    {
+      "id": 4,
+      "term": "Rozgonyi csata, 1312",
+      "definition": "Károly Róbert az Aba Amádé fiainak seregét legyőzte. Ez nagy lépés volt a hatalom központosítása felé.",
+      "quote": "Az első számottevő katonai siker",
+      "text": "A rozgonyi csatában Károly Róbert kassai polgárokkal szövetkezve győzött. Ez jelent a tartományurak legyőzésének kezdete."
+    },
+    {
+      "id": 5,
+      "term": "Csák Máté halála, 1321",
+      "definition": "Az egyik legerősebb tartománybúr halála 1321-ben. Utód nélkül halt meg, így birtokai a koronára szálltak vissza.",
+      "quote": "Az utolsó kikirály halála",
+      "text": "Csák Máté halálával végét ért az oligarchia korszaka. 1324-re végleg befejeződött a tartományuraság felszámolása."
+    },
+    {
+      "id": 6,
+      "term": "Aranyforint bevezetése, 1325",
+      "definition": "Károly Róbert 1325-ben bevezetett értékálló aranypénzt, firenzei mintára. Ez stabilizálta az ekonomia.",
+      "quote": "Az értékálló pénz szelleme",
+      "text": "Az aranyforint 1 : 16 : 96 arányt követett az ezüstgarassal és dénárral. Ez fellendítette a kereskedelmet."
+    },
+    {
+      "id": 7,
+      "term": "Kapuadó, 1336",
+      "definition": "Az első országos, pénzben fizetett, állandó adó. Minden porta után évi 18 dénár fizetendő volt.",
+      "quote": "Az adózás új rendszere",
+      "text": "A kapuadó a pénzrontás helyét vette. A porta (egy szénásszekér által járható terület) volt az adóegység."
+    },
+    {
+      "id": 8,
+      "term": "Harmincadvám",
+      "definition": "A külkereskedelmi forgalom után fizetett vám, amelyet Károly Róbert új formában (koronavám) szervezett.",
+      "quote": "A kereskedelmi útvonalon szedett vám",
+      "text": "Ez fontos bevételi forrás volt. Az itinerancia új nevén (koronavám) még több bevételt hozott."
+    },
+    {
+      "id": 9,
+      "term": "Bányabér (urbura)",
+      "definition": "A nemesfémek után fizetendő királyi illeték. Károly Róbert felvidéki bányászat fejlesztésbe tett.",
+      "quote": "Az arany és ezüst után járó díj",
+      "text": "Az urbura harmadát Károly Róbert a földesuraknak engedte át. Ez ösztönözte az új bányák nyitását."
+    },
+    {
+      "id": 10,
+      "term": "Bányavárosok",
+      "definition": "A Felvidéken jött létre bányászattal foglalkozó városok. Kiváltságos jogállásuk közvetlenül a király alá helyezte őket.",
+      "quote": "A nemesfém bányáinak városai",
+      "text": "Selmecbánya, Körmöcbánya, Besztercebánya voltak a legjelentősebbek. Óriási gazdasági jelen voltak."
+    },
+    {
+      "id": 11,
+      "term": "Honorbirtok",
+      "definition": "Nem örökölhető birtok, amelyet Károly Róbert adott tisztséghez kötötten. Csak addig volt birtokolható, amíg a házviselő betöltötte a tisztséget.",
+      "quote": "A hivatal kapta, a hivatal vesztése nélkül",
+      "text": "Ez nagyon hasznos volt a királyi hatalom erősítésénél. A főurak teljesen a királytól függtek jövedelmük tekintetében."
+    },
+    {
+      "id": 12,
+      "term": "Visegrádi királytalálkozó, 1335",
+      "definition": "Károly Róbert összehívta a magyar, cseh és lengyel királyt. Diplomáciai győzelem: közös kereskedelmi útvonal létrehozása.",
+      "quote": "Az észak-közép-európai kooperáció",
+      "text": "Ez a találkozó megerősítette Károly Róbert pozícióját. Az együttműködés alapjait lefektette."
+    },
+    {
+      "id": 13,
+      "term": "Károly Róbert öröksége",
+      "definition": "Halálakor (1342) virágzó, egységes, megerősödött országot hagyott fiára, I. (Nagy) Lajosra.",
+      "quote": "Az új középkor alapítója",
+      "text": "Károly Róbert lezárta az interregnum korát és megnyitotta az utat a magyar középkor egyik aranykora előtt."
+    }
+  ]
+}

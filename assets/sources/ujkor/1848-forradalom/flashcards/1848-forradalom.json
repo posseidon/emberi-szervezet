@@ -1,0 +1,126 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "1848-forradalom",
+  "title": "Az 1848-as forradalom",
+  "flashcards": [
+    {
+      "id": "1848-forradalom-001",
+      "term": "Mi volt az 1848. március 15. eseménye és miért jelentős?",
+      "definition": "1848. március 15-én Pesten, a Radnóton kezdődött a magyar forradalmi mozgalom, amelyen Petőfi és mások gyulladt beszédekkel szólaltak fel. Követelések: alkotmány, jobbágyfelszabadítás, népképviselet. Ez a nap a magyar nemzeti ünnep lett.",
+      "quote": "Nemzeti dal: Talpra magyar!",
+      "text": "Az 1848-as forradalom kezdete"
+    },
+    {
+      "id": "1848-forradalom-002",
+      "term": "Mit tartalmaztak az áprilisi törvények és miért voltak forradalmi?",
+      "definition": "Az áprilisi törvények az Országgyűlésen 1848 áprilisában elfogadva: 1) jobbágyfelszabadítás (feudális kötelezettségek abolíciója), 2) közteherviselés (nemesség is adózzon), 3) parlamentarizmus (képviseleti kormányzás), 4) sajtó- és vallásszabadság. Ez valódi polgári átalakulást volt.",
+      "quote": "Végett a feudalizmusnak",
+      "text": "Forradalmi törvényhozás"
+    },
+    {
+      "id": "1848-forradalom-003",
+      "term": "Mi volt a Batthyány-kormány és milyen szerepe volt Széchenyi és Kossuthnak?",
+      "definition": "Batthyány Lajos első független, felelős magyar kormányát 1848 áprilisában alakította. Széchenyi közmunka és közlekedési miniszter lett (gazdasági reformok), Kossuth pénzügyminiszter (forradalmi finanszírozás). Mindketten a polgári átalakulás megvalósítására szálltak fel.",
+      "quote": "Első független magyar kormány",
+      "text": "A reformok praktikus megvalósítása"
+    },
+    {
+      "id": "1848-forradalom-004",
+      "term": "Mi volt a jobbágyfelszabadítás gyakorlati jelentősége az 1848-as áprilisi törvényekben?",
+      "definition": "A jobbágyok teljesen felszabadultak a feudális kötelezettségek alól (terményadó, robot, szolgaltatások). De: sokat csak cserében térítésért kaphatta meg az adott föld tulajdonjogát, amit sokan meg nem tudtak fizetni. Így gazdaságian sok jobbágy szegénnyé vált.",
+      "quote": "Szabadság, de szegénységgel",
+      "text": "A felszabadítás ellentmondásai"
+    },
+    {
+      "id": "1848-forradalom-005",
+      "term": "Milyen nehézségek és konfliktusok merültek fel az 1848-as forradalom során?",
+      "definition": "Nemzetiségi kérdés (szerbek, románok, szlovákok függetlenségi mozgalmai), Horvát támadás (Jelačić) alatt, az osztrák udvar szabad kezet adott az ellenforradalmaknak, Széchenyi megijedett a forradalmi sodrástól. Az 1848 szeptemberére az ellen-forradalmak szerveződnék.",
+      "quote": "Nacionalizmus vs magyar egység",
+      "text": "Az 1848-as krízis"
+    },
+    {
+      "id": "1848-forradalom-006",
+      "term": "márciusi forradalom",
+      "definition": "1848. március 15. a Pesti Radnótban kezdődött a magyar forradalom; követelések: alkotmány, jobbágyfelszabadítás, képviseleti kormány.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "1848-forradalom-007",
+      "term": "áprilisi törvények",
+      "definition": "Az 1848-as Országgyűlésen elfogadott reformtörvények: jobbágyfelszabadítás, közteherviselés, parlamentarizmus, sajtó- és vallásszabadság.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "1848-forradalom-008",
+      "term": "jobbágyfelszabadítás",
+      "definition": "Az áprilisi törvényekben megtörtént: jobbágyok felszabadul minden feudális kötelezettség alól, saját tulajdon szerzésének joga.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "1848-forradalom-009",
+      "term": "népképviselet",
+      "definition": "Az 1848-as forradalmi követelés: minden felnőtt férfi közvetlenül vagy képviselet útján részt vegyen az államügyek intézésében.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "1848-forradalom-010",
+      "term": "sajtószabadság",
+      "definition": "Az áprilisi törvények között: újságok szabadon megjelenhetnek, cenzúra eltörlödik.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "1848-forradalom-011",
+      "term": "vallásszabadság",
+      "definition": "Az áprilisi törvények biztosították: különböző vallások szabad gyakorlása, nem-keresztény vallások jogosultsága.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "1848-forradalom-012",
+      "term": "Pesti Radnót",
+      "definition": "Az a hely, ahol 1848. március 15. nyilvános gyűlésen kezdődött a forradalmi mozgalom.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "1848-forradalom-013",
+      "term": "Batthyány-kormány",
+      "definition": "Az első független, felelős magyar kormány 1848-ban; Batthyány Lajos miniszterelnök, Széchenyi és Kossuth is belépett.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "1848-forradalom-014",
+      "term": "nemzetiségi kérdés",
+      "definition": "A forradalom során felvetődött, hogy a nemzetiségek (szerbek, románok, szlovákok) hogyan fér bele az egységes magyar államalkotásba.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "1848-forradalom-015",
+      "term": "Batthyány Lajos",
+      "definition": "Az első független, felelős magyar kormány miniszterelnöke 1848-ban.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "1848-forradalom-016",
+      "term": "Széchenyi István",
+      "definition": "Közmunka és közlekedési miniszter a Batthyány-kormányban.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "1848-forradalom-017",
+      "term": "Kossuth Lajos",
+      "definition": "Pénzügyminiszter a Batthyány-kormányban, majd a függetlenségi harc vezetője.",
+      "quote": "",
+      "text": ""
+    }
+  ]
+}

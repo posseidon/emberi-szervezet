@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "nemet-megszallas-nyilas",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely évben foglalta el Németország Magyarországot?",
+      "options": [
+        "1941",
+        "1942",
+        "1943",
+        "1944"
+      ],
+      "answer": "1944"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A német katonai műveletet _____ napi nyílas összeesküvés előzte meg Magyarországon.",
+      "options": [],
+      "answer": "október 15"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Ki volt Magyarország kormányzója a német műveleti során?",
+      "options": [
+        "Horthy Miklós",
+        "Szálasi Ferenc",
+        "Szoj János",
+        "Maár Géza"
+      ],
+      "answer": "Horthy Miklós"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Szálasi Ferenc vezetésével a _____ párt vette át a hatalmat.",
+      "options": [],
+      "answer": "Nyilas"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mit jelölt az 1944. október 15-i fordulat?",
+      "options": [
+        "Német legyőzés",
+        "Szovjet támadás",
+        "Nyilas puccs",
+        "Békemegállapodás"
+      ],
+      "answer": "Nyilas puccs"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Horthy Miklós a _____ német elfoglalás után nem maradhatott kormányzóként.",
+      "options": [],
+      "answer": "német"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik terület volt a német katonai stratégia fókusza Magyarországon?",
+      "options": [
+        "Északi vidék",
+        "Dunántúl",
+        "Budapest és a Duna-völgy",
+        "Kelet-Magyarország"
+      ],
+      "answer": "Budapest és a Duna-völgy"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A Nyilas Párt szélsőséges _____ és antiszemita ideológiát vallott.",
+      "options": [],
+      "answer": "nacionalista"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Hogyan viselkedett a nyilas terror Magyarország lakosságára?",
+      "options": [
+        "Adminisztratív intézkedésekkel",
+        "Barátságos propagandával",
+        "Tömeges terror és megsemmisítéssel",
+        "Gazdasági politikával"
+      ],
+      "answer": "Tömeges terror és megsemmisítéssel"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A nyilas terrort elsősorban _____ közösség ellen irányították.",
+      "options": [],
+      "answer": "magyar zsidó"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik vezető nyilas szervezet dolgozott az erőtáborok felügyeletén?",
+      "options": [
+        "Gestapo",
+        "Arrowcross Batallion",
+        "Nyilas Gárda",
+        "Wehrmacht"
+      ],
+      "answer": "Nyilas Gárda"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Budapest _____ alatt szenvedett legsúlyosabban a nyilas-német terror alatt.",
+      "options": [],
+      "answer": "1944-1945 telén"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mi volt a Gellért-hegyi erőtáboroknak a célja?",
+      "options": [
+        "Katonai kiképzés",
+        "Zsidó megsemmisítés",
+        "Munkavégzés",
+        "Politikai foglyok internálása"
+      ],
+      "answer": "Zsidó megsemmisítés"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A nyilas párt szélsőséges farkassizált _____ módszereket alkalmazott.",
+      "options": [],
+      "answer": "terror"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Hogyan érte el a szovjet fölszabadítás Magyarország keleti részét?",
+      "options": [
+        "Aeroplan támadás",
+        "Szárazföldi offenzíva",
+        "Hajó feldobás",
+        "Légicsatornaszakasz"
+      ],
+      "answer": "Szárazföldi offenzíva"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Szálasi Ferenc _____ alatt szovjet foglalási alatt szerzerzélódött.",
+      "options": [],
+      "answer": "1944-1945"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mit jelölt a Dunában halottak azonosítása a budapest ostromában?",
+      "options": [
+        "Természeti katasztrófa",
+        "Katonai csatavesztés",
+        "Nyilas-террор áldozatai",
+        "Szovjet bombázás"
+      ],
+      "answer": "Nyilas-terror áldozatai"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A pest belvárosának _____ százaléka megsemmisült a budapest ostromában.",
+      "options": [],
+      "answer": "80"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik nem volt a nyilas párt szélsőséges politikájának célja?",
+      "options": [
+        "Terrorizálás",
+        "Megsemmisítés",
+        "Demokratizálás",
+        "Nácizálás"
+      ],
+      "answer": "Demokratizálás"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A budapest ostromában _____ hónapig tartott.",
+      "options": [],
+      "answer": "másfél"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik szovjet tábornok vezette a budapest ostromát?",
+      "options": [
+        "Rokosovszki",
+        "Zsukov",
+        "Konev",
+        "Malinovski"
+      ],
+      "answer": "Malinovski"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A budapest ostromában a _____ város romjaiból várat felépíteni.",
+      "options": [],
+      "answer": "szó sem volt"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Hogyan kezdte a nyilas párt az 1944. október 15-ei puccsot?",
+      "options": [
+        "Katonai lét",
+        "Német támogatás",
+        "Egyetemista felkelés",
+        "Diákmozgalom"
+      ],
+      "answer": "Német támogatás"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Szálasi Ferenc _____ alatt volt a nyilas párt fő szélsőséges vezetője.",
+      "options": [],
+      "answer": "október-december"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Mit teremtett a budapest ostroma a terület történelmében?",
+      "options": [
+        "Gazdasági fejlődést",
+        "Politikai stabilitást",
+        "Műszaki újítást",
+        "Szélsőséges pusztulást és nyomort"
+      ],
+      "answer": "Szélsőséges pusztulást és nyomort"
+    }
+  ]
+}

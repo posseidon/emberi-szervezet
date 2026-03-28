@@ -1,0 +1,206 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "jelenkor-overview",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mikor lépett hatályba Magyarország Alaptörvénye?",
+      "options": [
+        "2011. január 1-én",
+        "2012. január 1-én",
+        "2010. június 4-én",
+        "2013. szeptember 1-én"
+      ],
+      "answer": "2012. január 1-én"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Mennyi tagállamból áll az Európai Unió jelenleg?",
+      "options": [
+        "25 tagállamból",
+        "27 tagállamból",
+        "30 tagállamból",
+        "22 tagállamból"
+      ],
+      "answer": "27 tagállamból"
+    },
+    {
+      "id": 3,
+      "type": "BLANK",
+      "question": "Az Európai Bizottság elnöke 2019 óta _____.",
+      "options": [],
+      "answer": "Ursula von der Leyen"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Melyik intézmény az EU fő végrehajtó szerve?",
+      "options": [
+        "Európai Tanács",
+        "Európai Parlament",
+        "Európai Bizottság",
+        "Európai Bíróság"
+      ],
+      "answer": "Európai Bizottság"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A Magyarországba csatlakozás az Európai Unióhoz _____ évben történt.",
+      "options": [],
+      "answer": "2004"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Az euró bevezetésének mely éveiben valósult meg elektronikus formában?",
+      "options": [
+        "1995-ben",
+        "1998-ban",
+        "1999-ben",
+        "2002-ben"
+      ],
+      "answer": "1999-ben"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mely szerv őrködik az alapvető jogok védelme felett Magyarországon?",
+      "options": [
+        "Kúria",
+        "Alapvető jogok biztosa",
+        "Állami Számvevőszék",
+        "Alkotmánybíróság"
+      ],
+      "answer": "Alapvető jogok biztosa"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Magyarország parlamentje _____ tagú.",
+      "options": [],
+      "answer": "199"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik év jelenti a Ratkó-korszak kezdetét?",
+      "options": [
+        "1948",
+        "1950",
+        "1952",
+        "1955"
+      ],
+      "answer": "1952"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Az Európai Parlament hány képviselővel rendelkezik 2023-ban?",
+      "options": [
+        "650 képviselővel",
+        "700 képviselővel",
+        "705 képviselővel",
+        "750 képviselővel"
+      ],
+      "answer": "705 képviselővel"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "Az Európai Unió Tanácsában 2014 óta érvényes szavazási elv a _____ szavazás.",
+      "options": [],
+      "answer": "kettős többség"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Ki volt az első demokratikusan megválasztott magyar miniszterelnök?",
+      "options": [
+        "Horn Gyula",
+        "Antall József",
+        "Orbán Viktor",
+        "Medgyessy Péter"
+      ],
+      "answer": "Antall József"
+    },
+    {
+      "id": 13,
+      "type": "BLANK",
+      "question": "Az Alapvető jogok biztosa helyettese a _____ jogokért felel.",
+      "options": [],
+      "answer": "nemzetiségi"
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "Milyen szavazatarány szükséges Magyarországon az Alaptörvény módosításához?",
+      "options": [
+        "Egyszerű többség",
+        "Kétharmados többség",
+        "Háromötöd többség",
+        "Egyhangúság"
+      ],
+      "answer": "Kétharmados többség"
+    },
+    {
+      "id": 15,
+      "type": "BLANK",
+      "question": "Magyarországon a parlamenti küszöb _____%-os.",
+      "options": [],
+      "answer": "5"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Melyik év jelenti az euró fizikai pénzként való bevezetését?",
+      "options": [
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+      ],
+      "answer": "2002"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Az Európai Tanács elnöke mennyi évre kap mandátumot?",
+      "options": [
+        "4 évre",
+        "5 évre",
+        "2,5 évre",
+        "6 évre"
+      ],
+      "answer": "2,5 évre"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az Európai Köz ponti Bank székhelye _____ városban van.",
+      "options": [],
+      "answer": "Frankfurt am Main"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Az Alaptörvény mely dátumban lépett hatályba?",
+      "options": [
+        "2011. január 1.",
+        "2012. január 1.",
+        "2013. január 1.",
+        "2010. június 4."
+      ],
+      "answer": "2012. január 1."
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A Lisszaboni Szerződés _____ ben lépett hatályba.",
+      "options": [],
+      "answer": "2009"
+    }
+  ]
+}

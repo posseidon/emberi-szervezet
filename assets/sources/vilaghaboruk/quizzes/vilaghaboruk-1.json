@@ -1,0 +1,101 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "vilaghaboruk-1-facts",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely esemény váltotta ki az első világháborút?",
+      "options": [
+        "Szarajevói merénylet",
+        "Lusitania elsüllyesztése",
+        "Belgium megtámadása",
+        "Verdun csatája"
+      ],
+      "answer": "Szarajevói merénylet"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A Compiègne-i fegyverszünet aláírásának dátuma: 1918. ___.",
+      "options": [],
+      "answer": "november 11"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik közalkalmazott irányította az első magyar köztársaságot?",
+      "options": [
+        "Károlyi Mihály",
+        "Kun Béla",
+        "Horthy Miklós",
+        "Tisza István"
+      ],
+      "answer": "Károlyi Mihály"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A Tanácsköztársaság vezetője ___ volt.",
+      "options": [],
+      "answer": "Kun Béla"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "A Hitler vezette Magyarország szövetsége melyik államok közötti egyezményre alapult?",
+      "options": [
+        "Antikomintern Paktum",
+        "Molotov-Ribbentrop paktum",
+        "Varsói szerződés",
+        "Atlanti Charta"
+      ],
+      "answer": "Antikomintern Paktum"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A magyar Nyilaskeresztes párt vezetője ___ volt.",
+      "options": [],
+      "answer": "Ferenc Szálasi"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "A szovjet kommunista párt első vezetője ki volt?",
+      "options": [
+        "Lenin",
+        "Sztálin",
+        "Trockij",
+        "Bukharin"
+      ],
+      "answer": "Lenin"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az 1956-os magyar forradalmat ___ tankok verték le.",
+      "options": [],
+      "answer": "szovjet"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "A Holokauszt során hány zsidó vesztette az életét?",
+      "options": [
+        "körülbelül 3 millió",
+        "körülbelül 6 millió",
+        "körülbelül 9 millió",
+        "körülbelül 2 millió"
+      ],
+      "answer": "körülbelül 6 millió"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az Osztrák–Magyar Monarchia fegyverszüneti szerződésének helye: ___ (város).",
+      "options": [],
+      "answer": "Padova"
+    }
+  ]
+}

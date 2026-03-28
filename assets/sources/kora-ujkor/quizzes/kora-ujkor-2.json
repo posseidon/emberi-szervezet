@@ -1,0 +1,291 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "kora-ujkor",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Miért kerestek az európaiak új tengeri útvonalakat az Ázsiához?",
+      "options": [
+        "A selyemút biztonsága",
+        "Az oszmán vámok magas volta",
+        "A könyvnyomtatás elterjedése",
+        "A reneszánsz tudománya"
+      ],
+      "answer": "Az oszmán vámok magas volta"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ hiánya egyik fő oka volt a nagy felfedezéseknek.",
+      "options": [],
+      "answer": "nemesfém"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Hogyan tett szert Spanyolország az amerikai gyarmatok szabad munkaerőre?",
+      "options": [
+        "Szerződéses munkások",
+        "Rabszolgakereskedelem",
+        "Őslakos kényszermunka",
+        "Európai emigráció"
+      ],
+      "answer": "Rabszolgakereskedelem"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az _____ birodalom szétszakította az egyházi egységet Európában.",
+      "options": [],
+      "answer": "reformáció"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Milyen jellegzetessége volt a kálvinizmusnak, amely későbbi gazdasági fejlődésre hatott?",
+      "options": [
+        "A szegénységi gelübde",
+        "A munkamorál felértékelése",
+        "A világi életből való elzárkózás",
+        "A pénzkereslet tiltása"
+      ],
+      "answer": "A munkamorál felértékelése"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ gyakorlata vezetett a reformáció kitöréséhez.",
+      "options": [],
+      "answer": "búcsúcédula"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Milyen volt Magyarország katonai helyzete Mohács előtt?",
+      "options": [
+        "Erős és felkészült",
+        "Gyengült és szétesett",
+        "Erősítés alatt állt",
+        "Kiváló államban"
+      ],
+      "answer": "Gyengült és szétesett"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A mohácsi vereség oka az volt, hogy a magyar sereg _____ voltak.",
+      "options": [],
+      "answer": "kevesebben"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Hogyan lett Erdély önálló államalakulatá?",
+      "options": [
+        "Török meghódítás",
+        "Szapolyai János politikája",
+        "Speyeri szerződés",
+        "Háborús erőviszonyok"
+      ],
+      "answer": "Speyeri szerződés"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ szövetség segítségével tartotta meg hatalmát Szapolyai János a keleti országrészben.",
+      "options": [],
+      "answer": "török"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Miért volt jelentős az 1568-as tordai országgyűlés?",
+      "options": [
+        "Királlyá választás",
+        "Vallásszabadság törvénye",
+        "Hadsereg szervezete",
+        "Adórendszer"
+      ],
+      "answer": "Vallásszabadság törvénye"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ béke helyreállította a magyar rendi jogokat a Rákóczi-szabadságharc után.",
+      "options": [],
+      "answer": "szatmári"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Hogyan erősítette meg II. József az abszolutista hatalmát?",
+      "options": [
+        "Rendeletekkel kormányzott",
+        "Koronáztatta meg magát",
+        "Összeültette az országgyűlést",
+        "Támogatta a nemeseket"
+      ],
+      "answer": "Rendeletekkel kormányzott"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ az Írás elsőbbségét hangsúlyozta Luther tanításában.",
+      "options": [],
+      "answer": "sola Scriptura"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Miért volt fontos az Augsburgi vallásbéke?",
+      "options": [
+        "Vallási egység",
+        "Vallási béke Németországban",
+        "Pápai hatalom",
+        "Királyi dominancia"
+      ],
+      "answer": "Vallási béke Németországban"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ intézmény volt a katolikus megújulás legfőbb motora.",
+      "options": [],
+      "answer": "jezsuita"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Hogyan befolyásolta az árforradalom az európai gazdaságot?",
+      "options": [
+        "Termelés csökkent",
+        "Cserébe termelés nőtt",
+        "Infláció kedvezően hatott",
+        "Szegénység nőtt"
+      ],
+      "answer": "Cserébe termelés nőtt"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ rendszer alapjaiban állítás a kapitalista fejlődés alapjait.",
+      "options": [],
+      "answer": "manufaktúra"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Milyen volt Mária Terézia gazdaságpolitikájának alapelve?",
+      "options": [
+        "Szabadkereskedelem",
+        "Merkantilizmus",
+        "Szabad piac",
+        "Liberalizmus"
+      ],
+      "answer": "Merkantilizmus"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ rendelet szabályozta a jobbágyterheket Magyarországon.",
+      "options": [],
+      "answer": "úrbéri"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mit célzott II. József személyes szabadság-rendelete?",
+      "options": [
+        "Teljes felszabadítás",
+        "Személyes függés szüntetése",
+        "Föld-felszabadítás",
+        "Adómentesség"
+      ],
+      "answer": "Személyes függés szüntetése"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A _____ fordulat az Újvilág felfedezése volt a világgazdaságban.",
+      "options": [],
+      "answer": "atlantikus"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Miért volt jelentős Pázmány Péter a magyar történelemben?",
+      "options": [
+        "Jezsuita szerzetes",
+        "Ellenreformáció vezetője",
+        "Barokk irodalom megteremtője",
+        "Mindhárom"
+      ],
+      "answer": "Mindhárom"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A _____ hatásai voltak szörnyűek az amerindián lakosságra.",
+      "options": [],
+      "answer": "járványok"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Hogyan biztosított Rákóczi támogatást a parasztság körében?",
+      "options": [
+        "Adóösszesítés",
+        "Vetési pátens",
+        "Vallási tolerancia",
+        "Föld-felszabadítás"
+      ],
+      "answer": "Vetési pátens"
+    },
+    {
+      "id": 26,
+      "type": "BLANK",
+      "question": "Az _____ értéktelenedett a Rákóczi-szabadságharc idején.",
+      "options": [],
+      "answer": "rézpénz"
+    },
+    {
+      "id": 27,
+      "type": "MC",
+      "question": "Mi volt az Emberi és Polgári Jogok Nyilatkozatának alapötlete?",
+      "options": [
+        "Királyi hatalom",
+        "Természetes jogok",
+        "Egyházi jogok",
+        "Rendi kiváltságok"
+      ],
+      "answer": "Természetes jogok"
+    },
+    {
+      "id": 28,
+      "type": "BLANK",
+      "question": "Az _____ szabadság felépítése a francia forradalom egyik alapelve lett.",
+      "options": [],
+      "answer": "népfelség"
+    },
+    {
+      "id": 29,
+      "type": "MC",
+      "question": "Miért volt nélkülözhetetlen Montesquieu elve a modern demokráciában?",
+      "options": [
+        "Királyi omnipotencia",
+        "Hatalommegosztás",
+        "Pápai hatalom",
+        "Aristokrácia"
+      ],
+      "answer": "Hatalommegosztás"
+    },
+    {
+      "id": 30,
+      "type": "BLANK",
+      "question": "A _____ a szabad verseny gazdasági filozófiájának megalkotója volt.",
+      "options": [],
+      "answer": "Adam Smith"
+    }
+  ]
+}

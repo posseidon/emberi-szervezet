@@ -1,0 +1,251 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "dualizmus-kora",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely évben jött létre az Osztrák–Magyar Monarchia az 1867-es kiegyezéssel?",
+      "options": [
+        "1848",
+        "1867",
+        "1875",
+        "1892"
+      ],
+      "answer": "1867"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Mekkora volt az eredeti kvóta aránya a közös költségek felosztásakor Ausztria és Magyarország között?",
+      "options": [
+        "60-40%",
+        "70-30%",
+        "80-20%",
+        "50-50%"
+      ],
+      "answer": "70-30%"
+    },
+    {
+      "id": 3,
+      "type": "BLANK",
+      "question": "Az 1867-es kiegyezés értelmében Magyarország és Ausztria közös _____ politikát folytatott.",
+      "options": [],
+      "answer": "külügyi"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Melyik magyar miniszterelnök kormányzása alatt (1875–1890) vált határozottá az állami gazdaságfejlesztés politikája?",
+      "options": [
+        "Deák Ferenc",
+        "Kállay Béni",
+        "Tisza Kálmán",
+        "Wekerle Sándor"
+      ],
+      "answer": "Tisza Kálmán"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mit váltott fel az 1892-es valutareformban az aranyalapú korona?",
+      "options": [
+        "A márkát",
+        "A forintot",
+        "A krajcárt",
+        "A fillért"
+      ],
+      "answer": "A forintot"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az Osztrák–Magyar Monarchia közös központi bankja az _____ volt.",
+      "options": [],
+      "answer": "Osztrák–Magyar Bank"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik közlekedési miniszter vezette a vasúti fejlesztéseket és az infrastruktúrális reformokat, akit 'vasminiszternek' is neveztek?",
+      "options": [
+        "Kállay Béni",
+        "Baross Gábor",
+        "Horváth Boldizsár",
+        "Szász Károly"
+      ],
+      "answer": "Baross Gábor"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az 1860–1880-as években Magyarországon _____ építésének nevezett töltésrendszer segítségével nagy területeket ármentesítették.",
+      "options": [],
+      "answer": "folyamszabályozás"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyek voltak a Baross Gábor által szabályozottá tett fontos vízfolyások?",
+      "options": [
+        "A Tisza és az Al-Duna",
+        "A Maros és a Körös",
+        "Az Ipoly és az Eger",
+        "A Rába és a Dráva"
+      ],
+      "answer": "A Tisza és az Al-Duna"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A vasutas díjszabási _____ módszere lehetővé tette, hogy a szállítási költségek csökkentésevel elősegítsék a kereskedelmet.",
+      "options": [],
+      "answer": "zónatarifa-rendszer"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mely év körüli filoxérajárvány pusztította el a magyar szőlőültetvények nagy részét?",
+      "options": [
+        "1870–1875",
+        "1880–1882",
+        "1890–1895",
+        "1900–1905"
+      ],
+      "answer": "1880–1882"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ az a magyar találmány, amely forradalmasította a malomipart és Budapestet a világmalomipar középpontjává tette.",
+      "options": [],
+      "answer": "kéregöntésű hengerszék"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik mérnök szervezte a Ganz-gyárat és feltalálta a kéregöntésű hengerszéket?",
+      "options": [
+        "Jedlik Ányos",
+        "Mechwart András",
+        "Luppis János",
+        "Kandó Kálmán"
+      ],
+      "answer": "Mechwart András"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A Ganz Villamossági Művek 1877-ben jött létre, és _____ feltalálása révén válta világszínvonalúvá az elektromosséget.",
+      "options": [],
+      "answer": "transzformátor"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mely három mérnök alkalmazott közösen az elektromos transzformátor feltalálására?",
+      "options": [
+        "Jedlik, Luppis, Puskás",
+        "Bláthy, Déri, Zipernowsky",
+        "Bánki, Csonka, Kandó",
+        "Mechwart, Ganz, Richter"
+      ],
+      "answer": "Bláthy, Déri, Zipernowsky"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Puskás Tivadar 1879-ben feltalálta a _____, amely lehetővé tette több telefonvonal összekapcsolódását.",
+      "options": [],
+      "answer": "telefonközpont"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mely város Magyarország legfontosabb tengeri kiviteli kikötője lett a dualizmus korában?",
+      "options": [
+        "Baja",
+        "Eger",
+        "Fiume",
+        "Pécs"
+      ],
+      "answer": "Fiume"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az 1881-ben alapított _____ volt a magyar tengeri kereskedelem fejlesztésének fő szereplője.",
+      "options": [],
+      "answer": "Adria Tengerhajózási Társaság"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mely év körül szűnt meg Magyarországon a céhrendszer, amely felszabadította az ipari fejlődést?",
+      "options": [
+        "1850",
+        "1872",
+        "1890",
+        "1905"
+      ],
+      "answer": "1872"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A merkantil gazdaságpolitika az _____ támogatásával és az _____ védelmével foglalkozott.",
+      "options": [],
+      "answer": "ipart, hazai termelést"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Milyen volt a gazdasági kiegyezések megújításának gyakorisága a Monarchiában?",
+      "options": [
+        "Évente",
+        "Négyévente",
+        "Tízévente",
+        "Húszévente"
+      ],
+      "answer": "Tízévente"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az _____ fejlődésében központi szerepet játszott a vasutvonalak építése, amely új piacokat nyitott meg.",
+      "options": [],
+      "answer": "mezőgazdaság"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mely magyar tudós alkotta meg az öngerjesztő dinamó elvét az 1860-as években?",
+      "options": [
+        "Eötvös Loránd",
+        "Jedlik Ányos",
+        "Kandó Kálmán",
+        "Mechwart András"
+      ],
+      "answer": "Jedlik Ányos"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A _____ egy magyar feltalálás, amely sűrített levegővel működött és a haditengerészet alapfegyverévé vált.",
+      "options": [],
+      "answer": "torpedó"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik év körül alapítódott meg a Richter gyógyszergyár, amely magyar gyógyszeripar szimbólumává vált?",
+      "options": [
+        "1880",
+        "1895",
+        "1901",
+        "1915"
+      ],
+      "answer": "1901"
+    }
+  ]
+}

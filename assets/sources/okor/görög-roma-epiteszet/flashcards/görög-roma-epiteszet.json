@@ -1,0 +1,214 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Dór oszloprend",
+      "definition": "A görög építészet három oszloprendének legegyszerűbb, legkomoly és legerőteljesebb formája, amely egyszerű, dísztelen fejezetet és kurtított fusting karakternel rendelkezik.",
+      "quote": "A dór stílus az ógörög erő szimbóluma",
+      "text": "A dór oszlop egyenes, nem karcolt felületű fusting karakternel és egyszerű négyzet alakú fejezet nélkül karimázva. Ez volt az elterjedtebb Görögországban, és számos fontos templom építésénél használták."
+    },
+    {
+      "id": 2,
+      "term": "Jón oszloprend",
+      "definition": "A görög építészet három oszloprendének közepesen díszített formája, amely karcsúbb fusting karakternel és tetején csigavonalként (voluta) végződő díszítéssel rendelkezik.",
+      "quote": "A jón stílus az ógörög bravúr szimbóluma",
+      "text": "A jón oszlop szebb és karcsúbb, mint a dór, és a fejezet tekercselt díszítésével. Ez a forma Kis-Ázsiában terjedt el és főleg a kisázsiai templomok építésénél használták."
+    },
+    {
+      "id": 3,
+      "term": "Korinthoszi oszloprend",
+      "definition": "A görög építészet három oszloprendének legdíszesebb formája, amely akantuszlevelekkel (levél-szerű díszítésekkel) felékesített fejezete és a legenyhébb fusting karakternel rendelkezik.",
+      "quote": "A korinthoszi stílus az ógörög dísz csúcsa",
+      "text": "A korinthoszi oszlop a legdíszesebb és a legváltozatosabb formája a görög oszloprendeknek. A fejezete akantuszlevelekből alakított díszítéseket tartalmaz, amely az ógörög ízlés leggazdagabb kifejeződése."
+    },
+    {
+      "id": 4,
+      "term": "Parthenón",
+      "definition": "Az ógörögség legfontosabb és legszebb temploma, amely a Pallasz Athéné istenőnek volt dedikálva, az athéni akropoliszon helyezkedett el, dór stílusban, Periklész alatt építtetett meg (Kr. e. 447-432).",
+      "quote": "A Parthenón az ógörög építészet csúcspontja",
+      "text": "A Parthenón az Iktinosz és Kallikreész tervezése alapján épülü, és a Fidiász által szobornézegészítette. A templom fríz-szobrai (metopák és triglif) a görög mitológia legfontosabb jeleneteit ábrázolja. Vélhetően aranyozott Pallasz Athéné szobor volt benne."
+    },
+    {
+      "id": 5,
+      "term": "Agora",
+      "definition": "Az ógörög polisz piactere és közösségi szervezeti középpontja, amely a gazdaság, a politika és a társadalom súlypontjaként működött, nyílt terü és környező épületekkel.",
+      "quote": "Az agora az ógörög polisz szíve volt",
+      "text": "Az agora szó görögül piacteret jelent, de a ógörogségben minden civikus gyakorlathoz kapcsolódott: politikai beszédek, filozófiai viták, kereskedelem és szokások. Az athéni Agora az ógörogség legtekintélyesebb ágoras volt."
+    },
+    {
+      "id": 6,
+      "term": "Akropolisz",
+      "definition": "Az ógörög városok felmagaslódó, erődített sziklás hegycsúcsa, amelyen a legfontosabb templomok és egyéb vallási épületek helyezkedtek el, például az athéni akropolisz a Parthenónnal.",
+      "quote": "Az akropolisz az ógörög város szellemi szíve",
+      "text": "Az akropolisz szó szó szerinti értelme város csúcsa. Az athéni akropolisz az ógörogség legfontosabb vallási központja volt, ahol a Parthenón, az Erektheion és más templomok helyezkedtek el."
+    },
+    {
+      "id": 7,
+      "term": "Délphoi jósda",
+      "definition": "Az apolló-templom Délphoiban, ahol a Püthia papnő az Isten szavát közvetítette az ógörogség politikai és társadalmi döntéseiről; a görögök szerint a világ közepe volt.",
+      "quote": "A Délphoi jósda az ógörogség szellemi központja volt",
+      "text": "A Délphoi jósda a görögök szerint az Isten tanácsa volt, és gyakran volt nemzetközi vita forrása. Az Apolló-templom Délphoiban a legfontosabb jósda volt az ógörogségben, és a görög városok politikai döntéseit befolyásolta."
+    },
+    {
+      "id": 8,
+      "term": "Görög templom",
+      "definition": "Az ógörög templomok közös jellegzetességei: magas lépcsősor, háromszögű oromzat, oszlopsor (teherviselő és díszítő), és általában mészkő vagy márvány anyagból készülve.",
+      "quote": "A görög templom az építészet klasszikus formája",
+      "text": "A görög templomok a görög építészet klasszikus formájának felépítéséből eredtek. A szakrális emlékezet az ógörogség történelmének végig fennmaradt, és a görög templomok az ókori világ első nagy kömüen építezte monumentális szerkezetek voltak."
+    },
+    {
+      "id": 9,
+      "term": "Görög színház",
+      "definition": "Az ógörög összejövetele helye, amely félkör alakú, hegyoldalba vájva, lépcsőzetes nézőtérrel, amely mind rálátást mind akuszikát biztosított, csak férfi színészek játszottak, fehér ruhában, magastalpú cipőben és maszkban.",
+      "quote": "A görög színház a dráma bölcsője",
+      "text": "Az ógörög színházi produkciók vallási ünnepekhez kapcsolódtak, különösen Dionysos ünnepeihez. A nézőtér olyan akusztikailag tervezett volt, hogy a leghátul ülő nézők is hallhassák az színpadon történteket. A görög tragédia és komédia az ógörög kultúra központi elemei voltak."
+    },
+    {
+      "id": 10,
+      "term": "Olümpiai játékok",
+      "definition": "Az ógörogség nemzeti ünnepsége, amelyet Kr. e. 776-tól négyévente tartottak Zeusz tiszteletére Olümpiában, sportversenyeket és vallási szertartásokat tartalmazva.",
+      "quote": "Az olümpiai játékok az ógörög közösség ünnepsége",
+      "text": "Az olümpiai játékok a görög városállamokat egy ünnepre egyesítette, ahol a sportolók az olimpi-dikus szabályok szerint versenyre keltek. A játékok hely szervezésében magas presztízs és erkölcsös diadalok voltak fontosak."
+    },
+    {
+      "id": 11,
+      "term": "Amfiteátrum",
+      "definition": "A rómaiak által kifejlesztett kör vagy ovális alakú aréna, amely többszintes szerkezettel rendelkezett, gladiátor, állatviadalok és egyéb szórakoztatási eseményeknek helyszínét nyújtva.",
+      "quote": "Az amfiteátrum a róma szórakoztatás emlékei",
+      "text": "Az amfiteátrum szó görögül mindkét oldalon nézőteret jelent. A rómaiak az görög teatrális szervezetet továbbfejlesztették és az amfiteátrumot kifejlesztették nagy spektakuláris eseményekhez. Az legismertebb a Colosseum."
+    },
+    {
+      "id": 12,
+      "term": "Colosseum",
+      "definition": "Az ókori Róma legnagyobb amfiteátruma, amely 72-80 között épült a Flavius dinasztia alatt, körülbelül 50 000 férőhellyel rendelkezett és gladiátor- valamint állatviadalok helyszíne volt.",
+      "quote": "A Colosseum a róma építészet legmonumentálisabb műve",
+      "text": "A Colosseum (Flavius amfiteátrum) négy szintes szerkezetből állt, ahol az első szint az elit számára, a legfelső szint pedig a szegény embereknek volt fenntartva. A szerkezet a róma építészeti innováció kiváló példánya."
+    },
+    {
+      "id": 13,
+      "term": "Circus Maximus",
+      "definition": "Az ókori Róma legnagyobb kocsiverseny-pályája, ellipszis alakú, amely körülbelül 150 000 nézőt tudott befogadni, és a rómaiak kedvelt szórakoztatási helye volt.",
+      "quote": "A Circus Maximus a róma szórakoztatás központja",
+      "text": "A Circus Maximus az Aventinus és Palatinus dombok között helyezkedett el. A hosszú, keskeny pálya közepén egy díszített fal (spina) futott keresztül, amely lóvonatok fordulási pontjaként funkcionált."
+    },
+    {
+      "id": 14,
+      "term": "Forum Romanum",
+      "definition": "Az ókori Róma politikai, gazdasági és társadalmi központja, ahol a népgyűlések, a szenátus ülésezéseit és a kereskedelem gyakorlatait megtartották, valamint számos fontos épület helyezkedett el.",
+      "quote": "A Forum Romanum az ókori Róma szíve",
+      "text": "A Forum Romanum a város legfontosabb tere volt, amely több mint ezer éven keresztül a város politikai és szociális életének középpontjaként szolgált. A Curia (szenátus épülete), a Basilica és más fontos épületek körülötte helyezkedtek el."
+    },
+    {
+      "id": 15,
+      "term": "Aquaeductus",
+      "definition": "Az ókori rómaiak által kifejlesztett vízvezeték rendszere, amely boltívek által támogatva nagy távolságokból szállított vizet a városokba, szórakoztató és gyakorlati célokra.",
+      "quote": "Az aquaeductus a róma mérnöki csoda",
+      "text": "Az aquaeductus szó latin nyelven vízvezetéket jelent. Az rómaiak több száz километер hosszú aquaeductus-t építetett, mely Róma vízellátásához elengedhetetlen volt. Az ilyen építkezések az ókori mérnöki tudás kiváló bizonyítékai."
+    },
+    {
+      "id": 16,
+      "term": "Boltív",
+      "definition": "Az ókori rómaiak által fejlesztett építészeti technika, amely egy görbe alakú szerkezetből áll, amely nagyobb terjedelmeket képes közvetíteni támaszpont nélkül, az amphiteátrumok és aquaeductusok alapjául.",
+      "quote": "A boltív az ókori mérnöki innováció alapja",
+      "text": "A boltív a rómaiak által tökéletesítette építészeti forma, amely az etruszkoktól ered. A boltívek használata lehetővé tette nagyobb belső tereket és hosszabb hidakat."
+    },
+    {
+      "id": 17,
+      "term": "Kupola",
+      "definition": "Az ókori rómaiak által kifejlesztett gömb alakú tetőzet szerkezete, amely tökéletes arányban képes nagy területeket lefedni tetős nélkül, a Pantheonban a legjobb megvalósítása.",
+      "quote": "A kupola a róma építészeti csúcsa",
+      "text": "A kupola egy félgömb alakú szerkezet, amely a rómaiak által tökéletesítve lett. A Pantheon kupolája a róma építészet csodájaként ismert, melynek a belső átmérője 43,3 méter."
+    },
+    {
+      "id": 18,
+      "term": "Diadalív",
+      "definition": "A rómaiak által épített monumentális kapu vagy ív, amely politikai vagy katonai győzelmek emlékére állítottak, díszített felületen a győztes vezetője és hadseregét ábrázoló szobrászat.",
+      "quote": "A diadalív a róma diadal szimbóluma",
+      "text": "A diadalívek a rómaiak fontosított épületei voltak, amelyek közvetlenül az érdemeket ünnepelték. Az Augustus, Titus és más császárok által felépített diadalívek napjainkig megmaradtak."
+    },
+    {
+      "id": 19,
+      "term": "Capitolium",
+      "definition": "Az ókori Róma fellegvára és a legfontosabb szentélye, amely a Kapitolium hegyén helyezkedett el, és a Jovian (Zeusz/Jupiter) templom a legfontosabb szerkezete volt.",
+      "quote": "A Capitolium Róma szellemi szíve",
+      "text": "A Capitolium szó főképp a hegy és az azon álló nagy temple-ből ered. A Röma legfontosabb vallási és politikai központja volt, ahol a konzulok és a szenátus gyakran ülésezett."
+    },
+    {
+      "id": 20,
+      "term": "Cloaca Maxima",
+      "definition": "Az ókori Róma közszennyvíz-elvezető rendszere, amely a város közvetítésének legfontosabb infrastruktúráját képezte, és mely még napjainkig működik.",
+      "quote": "A Cloaca Maxima a róma infrastruktúra csodája",
+      "text": "A Cloaca Maxima (Nagy csatorna) az ókori Róma legfontosabb közegészségügyi berendezése volt. Az vízvezeték és szennyvíz-elvezető rendszert szintén fenntartotta és fejlesztette."
+    },
+    {
+      "id": 21,
+      "term": "Limes",
+      "definition": "Az ókori Róma birodalmának erődített határvédelmi rendszere, amely barbár betörések ellen nyújtott védelmet, több száz kilométeres hosszában Germánia és a Duna felé terjedve.",
+      "quote": "A limes a róma hatalom véghatára",
+      "text": "A limes a Róma birodalom határainak erősítésére szolgáló erődítmény-rendszer volt. Aquincum (mai Óbuda) a pannóniai limes egy fontos őrtornya volt, ahol a rómaiak fenntartottak egy légiót."
+    },
+    {
+      "id": 22,
+      "term": "Pantheon",
+      "definition": "Az ókori Róma temploma, amely az összes isten (Pantheon = minden istennek) szentelt volt, és amely fejjének kupolája a márvány építészet klasszikus ejemplájává vált.",
+      "quote": "A Pantheon az ókori építészet csodája",
+      "text": "A Pantheon az ókori építészet valódi csodájaként ismert. Kupolája 43,3 méter átmérőjű, és az égis elzáró egész nap világosságot biztosít. A templom az ókori építészeti és mérnöki tudás legkiválóbb igazolása."
+    },
+    {
+      "id": 23,
+      "term": "Római építészet",
+      "definition": "Az ókori rómaiak építészeti hagyománya, amely a görögök és etruszkok hatása alatt kifejlődött, és amely az boltívek, kupolák, aquaeductusok és monumentális szerkezetek használatára volt jellemző.",
+      "quote": "A róma építészet az ókori építészet csúcsa",
+      "text": "A róma építészet hagyománya az etruszkoktól jött az erők és a görögöktől az esztétikai elvek. A rómaiak továbbfejlesztették ezeket az elemeket és a boltívek, kupolák és aquaeductusok használata révén megalapozták az európai építészeti tradíciót."
+    },
+    {
+      "id": 24,
+      "term": "Pannónia",
+      "definition": "Az ókori rómaiak által elfoglalt terület, amely a mai Dunántúlt felette, és amely a Róma birodalom limes-ének egy fontos része volt, Aquincum (mai Óbuda) közigazgatási centrumaként.",
+      "quote": "Pannónia a róma birodalom keleti határa",
+      "text": "Pannónia az ókori rómaiak által 107-ben meghódított régió volt. Aquincum az adminisztratív és katonai centrum lett, ahol a rómaiak egy legiót (14. legiót) tartottak."
+    },
+    {
+      "id": 25,
+      "term": "Aquincum",
+      "definition": "Az ókori rómaiak által alapított település a mai Óbudán, amely Pannónia közigazgatási központjaként működött, és ahol a rómaiak egy légiót tartottak az egész terület védelme érdekében.",
+      "quote": "Aquincum a róma Magyarország szíve",
+      "text": "Aquincum az ókori rómaiak által 100 körül alapított település volt, amely később erős katonai garnízonná fejlődött. A város maradványai még ma is láthatók Óbudán."
+    },
+    {
+      "id": 26,
+      "term": "Olümpiában Zeusz temploma",
+      "definition": "Az ógörögség egyik legfontosabb temploma, amelyet az ógörogség legkiválóbb szobrásza, Fidiász által felékesített, és amelynek belsejében egy aranyozott szobor helyezkedett el.",
+      "quote": "Zeusz temploma Olümpiában az ógörög szobrászat csúcsa",
+      "text": "Zeusz temploma Olümpiában az ógörogség legfontosabb szentélyeinek egyike volt. A templomban lévő Zeusz-szobor Fidiász masterpiece volt, mely később megsemmisült."
+    },
+    {
+      "id": 27,
+      "term": "Erektheion",
+      "definition": "Az athéni akropolisz másik nagy temploma, amely a poszeidón-templom és athéné-szentély funkcióját egyesített, ionikus oszloprendsel felépített, és az ógörög építészet klasszikus példájául szolgál.",
+      "quote": "Az Erektheion az athéni akropolisz ékessége",
+      "text": "Az Erektheion az athéni akropolisz másik legfontosabb temploma, amely a Parthenón mellett állt. Ionikus oszloprendre épülve, elegáns és szimmetrikus formájával egyike az ógörög építészet legszebb alkalmazódásainak."
+    },
+    {
+      "id": 28,
+      "term": "Hellenizmus",
+      "definition": "Az a kulturális korszak Nagy Sándor hódításai után, amely a görög kultúra és keleti hagyományok keveredéséből alakult ki, és amely egy új építészeti és művészi stílust teremtett.",
+      "quote": "A hellenizmus a kultúrák szintézise",
+      "text": "A hellenizmus (Kr. e. 323-tól Kr. u. 30-ig körülbelül) az a korszak volt, amelyben a görög kultúra a keleti világgal keveredett. Ezt az időszakot különösen az alexandriai fény jellemzi, ahol új városok és műalkotások létesültek."
+    },
+    {
+      "id": 29,
+      "term": "Alexandria",
+      "definition": "Nagy Sándor által alapított város az Egyiptomban, amely az antik világ egyik legfontosabb központjává vált, és amelynek fénylő tornya (pharoszi világítótorony) az ókori világ 7 csodájának egyike volt.",
+      "quote": "Alexandria az antik világ legfényesebb városa",
+      "text": "Alexandria a hellenizmus kulturális és szellemi központja volt, ahol a legnagyobb múzeum és könyvtár (alexandriai könyvtár) helyezkedett el. A város az ókori világban a legfontosabb tudományos és szellemi centrum volt."
+    },
+    {
+      "id": 30,
+      "term": "Pharoszi világítótorony",
+      "definition": "Az ókori világ 7 csodájának egyike, amely Alexandriában helyezkedett el, és amely a görög-egyiptomi építészeti szintézis kiváló példájául szolgál.",
+      "quote": "A pharoszi világítótorony az antik világ csodája",
+      "text": "A pharoszi világítótorony (Pharosz = fáró) körülbelül 137 méter magasságú volt, és az antik világ legmagasabb épülete. Vele kapcsolódott az ókori Egyiptom és az ógörogség építészeti tradícióinak szintézise."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "kiegyezes",
+  "quiz": [
+    {
+      "type": "MC",
+      "question": "Mely évben kötötték meg az Osztrák-Magyar Kompromisszumot?",
+      "options": [
+        "1865",
+        "1867",
+        "1869",
+        "1871"
+      ],
+      "answer": "1867"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1867-es Kiegyezés után __________as és Magyarország duális államberendezést alkotta.",
+      "target": "Ausztria",
+      "hint": "ország"
+    },
+    {
+      "type": "MC",
+      "question": "Mit jelent a duális állam-berendezés?",
+      "options": [
+        "Egyetlen közös kormány",
+        "Két független ország",
+        "Közös királyság, de külön magyar és osztrák kormány",
+        "Magyar dominancia az osztrák felett"
+      ],
+      "answer": "Közös királyság, de külön magyar és osztrák kormány"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1867-es Kiegyezés után Magyarország az összes közös kiadások ________%-át fizette meg.",
+      "target": "30",
+      "hint": "százalék"
+    },
+    {
+      "type": "MC",
+      "question": "Ki volt az 1867-es Kiegyezés megalkotójának tekinthető magyar államférfi?",
+      "options": [
+        "Széchenyi István",
+        "Kossuth Lajos",
+        "Andrássy Gyula",
+        "Batthyány Lajos"
+      ],
+      "answer": "Andrássy Gyula"
+    }
+  ]
+}

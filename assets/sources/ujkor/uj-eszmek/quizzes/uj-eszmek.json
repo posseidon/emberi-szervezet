@@ -1,0 +1,210 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "uj-eszmek",
+  "quiz": [
+    {
+      "type": "MC",
+      "question": "Melyik liberális gondolkodó alkalmazta a 'láthatatlan kéz' elméletét a gazdaságra?",
+      "options": [
+        "John Locke",
+        "Adam Smith",
+        "John Stuart Mill",
+        "David Ricardo"
+      ],
+      "answer": "Adam Smith"
+    },
+    {
+      "type": "BLANK",
+      "question": "A ________ eszméje szerint az államnak nem szabad a piacba avatkoznia.",
+      "target": "szabad verseny",
+      "hint": "gazdasági elv"
+    },
+    {
+      "type": "MC",
+      "question": "Mit értünk a hatalommegosztás elvén?",
+      "options": [
+        "Az arisztokrácia szabad hatalma",
+        "Törvényhozó, végrehajtó és bírói hatalom szétválasztása",
+        "A nép teljes hatalma",
+        "Az egyetlen emberben összpontosított hatalom"
+      ],
+      "answer": "Törvényhozó, végrehajtó és bírói hatalom szétválasztása"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az ________ olyan nemzetállam, amely közös nyelv és kultúra alapján szerveződik, függetlenül a saját államtól.",
+      "target": "kultúrnemzet",
+      "hint": "nemzeti közösség típusa"
+    },
+    {
+      "type": "MC",
+      "question": "A konzervativizmus mely históriásra válaszként alakult ki?",
+      "options": [
+        "Amerika függetlenségi háborúja",
+        "A francia forradalom",
+        "A angol polgárháború",
+        "Az örök háborúk"
+      ],
+      "answer": "A francia forradalom"
+    },
+    {
+      "type": "BLANK",
+      "question": "Edmund Burke ________ és ________ fontosságát hangsúlyozta a konzervativizmusban.",
+      "target": "hagyomány, erkölcs",
+      "hint": "értékek"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az egyik fő eltérés Széchenyi és Kossuth reformprogramja között?",
+      "options": [
+        "Céljuk volt más",
+        "Módszerük és tempójuk különbözött",
+        "Egyik se hitte a reformok szükségességét",
+        "Nincs lényegi eltérés"
+      ],
+      "answer": "Módszerük és tempójuk különbözött"
+    },
+    {
+      "type": "BLANK",
+      "question": "John Locke a ________, ________ és ________ jogokat tekintette természetes emberi jogoknak.",
+      "target": "élet, szabadság, tulajdon",
+      "hint": "három alapjog"
+    },
+    {
+      "type": "MC",
+      "question": "A nacionalizmus mely két úton valósulhatott meg?",
+      "options": [
+        "Forradalmi vagy békés",
+        "Államnemzeti vagy kultúrnemzeti",
+        "Nyugati vagy keleti",
+        "Gazdag vagy szegény"
+      ],
+      "answer": "Államnemzeti vagy kultúrnemzeti"
+    },
+    {
+      "type": "BLANK",
+      "question": "A ________ olyan államnemzet volt, ahol a nemzeti egység egy meglévő, önálló állam keretei között formálódott.",
+      "target": "Anglia",
+      "hint": "ország"
+    },
+    {
+      "type": "MC",
+      "question": "Mit értünk az 'éjjeliőr államon'?",
+      "options": [
+        "Az éjszakai rendészet",
+        "Minimális állam csak védelmi és igazságszolgáltatási feladatokkal",
+        "A nacht Wachtmann pozíció",
+        "Katonai diktatúra"
+      ],
+      "answer": "Minimális állam csak védelmi és igazságszolgáltatási feladatokkal"
+    },
+    {
+      "type": "BLANK",
+      "question": "A ________ a nacionalizmus szélsőséges formája, amely saját nemzetét felsőbbrendűnek tekinti.",
+      "target": "sovinizmus",
+      "hint": "nacionalizmus-típus"
+    },
+    {
+      "type": "MC",
+      "question": "John Stuart Mill mely művében vizsgálta az egyéni szabadság és az állam szerepét?",
+      "options": [
+        "Hitel",
+        "Világ",
+        "A szabadságról",
+        "Stádium"
+      ],
+      "answer": "A szabadságról"
+    },
+    {
+      "type": "BLANK",
+      "question": "David Ricardo a ________ és a verseny gazdasági előnyeit hangsúlyozta.",
+      "target": "szabadkereskedelem",
+      "hint": "gazdasági politika"
+    },
+    {
+      "type": "MC",
+      "question": "Mi jellemzett a konzervativ gondolkodást a társadalmi fejlődéssel kapcsolatban?",
+      "options": [
+        "Gyors forradalmi változások",
+        "Szélsőséges radikalizmus",
+        "Organikus, fokozatos fejlődés",
+        "Teljes stagnáció"
+      ],
+      "answer": "Organikus, fokozatos fejlődés"
+    },
+    {
+      "type": "BLANK",
+      "question": "A ________ egy konzervatív érték, amely a társadalmi stabilitás és erkölcsi egyensúly megőrzésére törekszik.",
+      "target": "rend",
+      "hint": "konzervatív fogalom"
+    },
+    {
+      "type": "MC",
+      "question": "A Szent Szövetség mely célok megvalósítása végett jött létre 1815-ben?",
+      "options": [
+        "Liberális reformok",
+        "A monarchikus és rendi rendszer fenntartása",
+        "Napóleon támogatása",
+        "Az egyenlőség megteremtése"
+      ],
+      "answer": "A monarchikus és rendi rendszer fenntartása"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az ________ Montesquieu nyomán a liberalizmus kulcsfogalma, amely a zsarnokság megelőzésére törekedett.",
+      "target": "hatalommegosztás",
+      "hint": "politikai elv"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik volt a liberalizmus gazdasági alapelve?",
+      "options": [
+        "Állami tervgazdaság",
+        "Szabad verseny és piacgazdaság",
+        "Teljes szocializáció",
+        "Féodális rendszer"
+      ],
+      "answer": "Szabad verseny és piacgazdaság"
+    },
+    {
+      "type": "BLANK",
+      "question": "A ________ a francia forradalom után született meg, amely a nemzeti azonosságtudat és függetlenség eszméjét fejezi ki.",
+      "target": "nacionalizmus",
+      "hint": "eszme"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az államnemzeti fejlődés jellemzője?",
+      "options": [
+        "Kizárólag szellemi alapokon",
+        "Egy meglévő, önálló állam keretei között",
+        "Külön vallási alapokon",
+        "Gazdasági tényezőkön"
+      ],
+      "answer": "Egy meglévő, önálló állam keretei között"
+    },
+    {
+      "type": "BLANK",
+      "question": "A ________ fogalma központi volt az 1789-es francia forradalomban, és a liberalizmus alapjává vált.",
+      "target": "jogegyenlőség",
+      "hint": "politikai elv"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az egyik fő probléma, amit a konzervativizmus a francia forradalom ideáival kapcsolatban felvetett?",
+      "options": [
+        "Túl kevés erőszak",
+        "A radikalizmusa és az emberek természetének figyelmen kívül hagyása",
+        "Az agrár-gazdaság támogatása",
+        "Túl sok nemesi joggal"
+      ],
+      "answer": "A radikalizmusa és az emberek természetének figyelmen kívül hagyása"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1830-as évektől kezdve ________ és ________ eszméi terjedtek el Európa-szerte, különösen Angliában és Franciaországban.",
+      "target": "liberalizmus, nacionalizmus",
+      "hint": "politikai ideológiák"
+    }
+  ]
+}

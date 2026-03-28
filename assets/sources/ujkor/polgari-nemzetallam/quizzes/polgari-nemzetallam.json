@@ -1,0 +1,51 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "polgari-nemzetallam",
+  "quiz": [
+    {
+      "type": "MC",
+      "question": "Melyik német politikus valósította meg az egységes Németország megalkotásáth",
+      "options": [
+        "Wilhelm I.",
+        "Otto von Bismarck",
+        "Friedrich Wilhelm",
+        "Metternich"
+      ],
+      "answer": "Otto von Bismarck"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az amerikai polgárháborúban az ________ vezetésével az Unió legyőzte a rabszolgatartó Délies konföderációját.",
+      "target": "Lincoln",
+      "hint": "elnök"
+    },
+    {
+      "type": "MC",
+      "question": "Mely évben nyilvánították ki az egységes Német Birodalmat Versailles-ban?",
+      "options": [
+        "1865",
+        "1869",
+        "1871",
+        "1873"
+      ],
+      "answer": "1871"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az olasz egység megvalósítójáik közé tartozot Garibaldi és ________.",
+      "target": "Cavour",
+      "hint": "olasz államférfi"
+    },
+    {
+      "type": "MC",
+      "question": "Mit tartalmazott Lincoln 'Emancipáció Nyilatkozata'?",
+      "options": [
+        "A női szavazati jog",
+        "A rabszolgák felszabadítása",
+        "Az állampolgárság kiterjesztése",
+        "A munkaórák csökkentése"
+      ],
+      "answer": "A rabszolgák felszabadítása"
+    }
+  ]
+}

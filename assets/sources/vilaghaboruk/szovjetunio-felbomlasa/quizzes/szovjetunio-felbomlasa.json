@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "szovjetunio-felbomlasa",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik év jelöli a Szovjetunió felbomlásánt?",
+      "options": [
+        "1989",
+        "1990",
+        "1991",
+        "1992"
+      ],
+      "answer": "1991"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az _____ decemberi csúcs bejelentette a Szovjetunió felbomlásánt.",
+      "options": [],
+      "answer": "1991"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Ki volt az utolsó szovjet vezetője?",
+      "options": [
+        "Brezsnyev",
+        "Andropov",
+        "Csernenko",
+        "Gorbacsov"
+      ],
+      "answer": "Gorbacsov"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az _____ politikájával Gorbacsov reformálni akart a Szovjetuniónt.",
+      "options": [],
+      "answer": "glasznoszty"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Melyik ország első vezetője lett Oroszország elnöke a felbomlás után?",
+      "options": [
+        "Gorbacov",
+        "Yeltsin",
+        "Putin",
+        "Kruscsov"
+      ],
+      "answer": "Yeltsin"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az _____ reform gazdasági nyitást szándékolt.",
+      "options": [],
+      "answer": "peesztrojka"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik volt az első szovjet köztársaság, amely deklarálta függetlenségét?",
+      "options": [
+        "Kazahsztán",
+        "Ukrajna",
+        "Litvánia",
+        "Belorusszia"
+      ],
+      "answer": "Litvánia"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az _____ nyilvánosságot jelölt meg a Szovjetunió felbomlása előtt.",
+      "options": [],
+      "answer": "glasznoszty"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Hogyan reagáltak a balti államok a szovjet kontrolltól való felszabadulásra?",
+      "options": [
+        "Visszatértek szovjet uralom alá",
+        "Függetlenné váltak",
+        "Kitart szovjet szövetségben",
+        "Német szövetség alakult"
+      ],
+      "answer": "Függetlenné váltak"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ gazdasági válsága gyorsította a Szovjetunió felbomlásánt.",
+      "options": [],
+      "answer": "szovjet"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mit jelent az 'August putsch' 1991-ben?",
+      "options": [
+        "Kommunista reformok",
+        "Baloldali kudarcga puccs",
+        "Jobboldali diktatúra kísérlete",
+        "Katonai intervenciót"
+      ],
+      "answer": "Jobboldali diktatúra kísérlete"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az Oroszországi Parlament _____ ellen állított fel az August putsch alatt.",
+      "options": [],
+      "answer": "a pucscsisták"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik volt az első szovjet köztársaság, amely kimondott függetlenséget?",
+      "options": [
+        "Oroszország",
+        "Litvánia",
+        "Ukrajna",
+        "Belorusszia"
+      ],
+      "answer": "Litvánia"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ Beltsa három szovjet vezetőt helyezett a birodalom végét aláírásanat.",
+      "options": [],
+      "answer": "minszki"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik vezető volt az Oroszország első elnöke a szovjetunió után?",
+      "options": [
+        "Gorbacsov",
+        "Putin",
+        "Yelzin",
+        "Medvegyev"
+      ],
+      "answer": "Yelzin"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ függetlenségé adásánt Szovjet Szocialisták Szövetsége felbomlott.",
+      "options": [],
+      "answer": "15 köztársaság"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mit olyoznéál az 'államos szuverenitás'?",
+      "options": [
+        "Szovjet önrendelkezés",
+        "Független nemzetállamok",
+        "Kommunista kestandezés",
+        "Szocialista föderáció"
+      ],
+      "answer": "Független nemzetállamok"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az _____ 1991-ben alapított a posztszovjet államok keretét.",
+      "options": [],
+      "answer": "FÁK"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik szovjet köztársaság volt a leggazdagabb a felbomlás előtt?",
+      "options": [
+        "Belorusszia",
+        "Oroszország",
+        "Kazahsztán",
+        "Ukrajna"
+      ],
+      "answer": "Oroszország"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A Szovjetunió felbomlása _____ száz év után történt.",
+      "options": [],
+      "answer": "közel"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mit jelenztett a szovjet felbomlás a nemzetközi helyzetre nézve?",
+      "options": [
+        "Szovjet erősödés",
+        "Hidegháború lezárása",
+        "Új világváborúépítés",
+        "Visszatérés kolonializmusra"
+      ],
+      "answer": "Hidegháború lezárása"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A _____ fal dőlésevel egyidejűleg történt a szovjet felbomlása.",
+      "options": [],
+      "answer": "berlini"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Melyik nem volt a szovjet felbomlás oka?",
+      "options": [
+        "Gazdasági válság",
+        "Etnikai konfliktusok",
+        "Demokrácia hiánya",
+        "Gyarmati bővítés"
+      ],
+      "answer": "Gyarmati bővítés"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az 1991-es _____ események a szovjet erőszakos bukásánt előjelezte.",
+      "options": [],
+      "answer": "balti"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Hogyan végződött az SSZT államként?",
+      "options": [
+        "Folyamatos létezés",
+        "Oroszországgá alakulás",
+        "Nemzetközi szövetséggé",
+        "Felbomlás"
+      ],
+      "answer": "Felbomlás"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "hataron-tuli-magyarok",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Hány magyar él a Kárpát-medencén kívül?",
+      "options": [
+        "1-2 millió",
+        "2-3 millió",
+        "3-4 millió",
+        "4-5 millió"
+      ],
+      "answer": "1-2 millió"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Erdélyben körülbelül _____ magyar él őshonos kisebbségként.",
+      "options": [],
+      "answer": "1,2 millió"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik ország területén él a legtöbb határon túli magyar?",
+      "options": [
+        "Szlovákia",
+        "Románia",
+        "Szerbia",
+        "Ukrajna"
+      ],
+      "answer": "Románia"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A Felvidéken _____ magyar él.",
+      "options": [],
+      "answer": "460 ezer"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Melyik év volt a Nemzeti Összetartozás Napja elnevezéséé?",
+      "options": [
+        "2001",
+        "2004",
+        "2010",
+        "2015"
+      ],
+      "answer": "2010"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A Vajdaságban körülbelül _____ magyar él.",
+      "options": [],
+      "answer": "250 ezer"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mit jelent az asszimiláció?",
+      "options": [
+        "Integráció a mayorság társadalmával",
+        "Beolvadás az új kultúrába",
+        "Az identitás megváltozása",
+        "A nyelv elvesztése"
+      ],
+      "answer": "Beolvadás az új kultúrába"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Kárpátalján körülbelül _____ magyar él.",
+      "options": [],
+      "answer": "140 ezer"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Milyen jog biztosítása kulcsfontosságú a kisebbségek megtartásához?",
+      "options": [
+        "Gazdasági jogok",
+        "Politikai jogok",
+        "Anyanyelvi oktatás",
+        "Szociális jogok"
+      ],
+      "answer": "Anyanyelvi oktatás"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A MÁÉRT alapítása: _____",
+      "options": [],
+      "answer": "1999"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mely év jelenti a honosítási törvény megalkotásatt?",
+      "options": [
+        "2001",
+        "2004",
+        "2010",
+        "2014"
+      ],
+      "answer": "2010"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Székelyföld települései közé tartozik Hargita, Kovászna és _____ megye.",
+      "options": [],
+      "answer": "Maros"
+    }
+  ]
+}

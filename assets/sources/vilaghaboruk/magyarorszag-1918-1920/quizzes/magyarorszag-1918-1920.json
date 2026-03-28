@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "magyarorszag-1918-1920",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik dátumot jelöli az őszirózsás forradalom?",
+      "options": [
+        "1918. szeptember 30.",
+        "1918. október 31.",
+        "1918. november 16.",
+        "1919. március 21."
+      ],
+      "answer": "1918. október 31."
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az őszirózsás forradalom után _____ lett Magyarország miniszterelnöke.",
+      "options": [],
+      "answer": "Károlyi Mihály"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mi volt a Tanácsköztársaság?",
+      "options": [
+        "Demokratikus kerekasztal-tárgyalás",
+        "Kommunista forradalmi kormány",
+        "Restaurációs kísérlet",
+        "Osztrák-magyar szövetség"
+      ],
+      "answer": "Kommunista forradalmi kormány"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A Tanácsköztársaság _____ alatt állt a forradalom alatt.",
+      "options": [],
+      "answer": "Kun Béla"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mennyi ideig tartott a Tanácsköztársaság?",
+      "options": [
+        "3 hó",
+        "133 nap",
+        "1 év",
+        "2 év"
+      ],
+      "answer": "133 nap"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az 1918-as _____ ismertette Magyarország vereségét az első világháborúban.",
+      "options": [],
+      "answer": "fegyverszünet"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Ki vezette az ellenforradalmit?",
+      "options": [
+        "Károlyi Mihály",
+        "Kun Béla",
+        "Horthy Miklós",
+        "Bethlen István"
+      ],
+      "answer": "Horthy Miklós"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A Tanácsköztársaság bukása után _____ vált Magyarország kormányzójává.",
+      "options": [],
+      "answer": "Horthy Miklós"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Milyen kormányzati forma alakult ki 1920-ban Magyarországon?",
+      "options": [
+        "Köztársaság",
+        "Szocialista státusz",
+        "Király nélküli királyság",
+        "Szövetségi államok"
+      ],
+      "answer": "Király nélküli királyság"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az _____ vörösterrorja szemben állott a fehérterror véres megtorlásaival.",
+      "options": [],
+      "answer": "Tanácsköztársaság"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mi volt a Vix-jegyzék?",
+      "options": [
+        "Békeajánlat",
+        "Terület-visszavonulási követelmény",
+        "Gazdasági segítség",
+        "Katonai egyezmény"
+      ],
+      "answer": "Terület-visszavonulási követelmény"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A Vix-jegyzék Magyarország _____ visszavonulását írta elő.",
+      "options": [],
+      "answer": "csapatainak"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mi volt a fehérterror célja?",
+      "options": [
+        "Szocialista ideológia terjedése",
+        "Kommunista ellenzékiek megfélemlítése",
+        "Béke helyreállítása",
+        "Gazdasági reformok"
+      ],
+      "answer": "Kommunista ellenzékiek megfélemlítése"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A Tanácsköztársaság alatt Magyarország _____ államként működött.",
+      "options": [],
+      "answer": "szovjet"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik nem volt a Tanácsköztársaság jellemzője?",
+      "options": [
+        "Proletárdiktatúra",
+        "Államosítás",
+        "Piacgazdaság",
+        "Vörösterror"
+      ],
+      "answer": "Piacgazdaság"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az 1919-es év _____ hónapja során a Tanácsköztársaság végezte el északi hadjáratát.",
+      "options": [],
+      "answer": "május-június"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Ki volt a Forradalmi Kormányzótanács formális vezetője?",
+      "options": [
+        "Kun Béla",
+        "Garbai Sándor",
+        "Szamuely Tibor",
+        "Cserny József"
+      ],
+      "answer": "Garbai Sándor"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A Tanácsköztársaság alatt működtek a _____, amelyeket Lenin-fiúknak hívtak.",
+      "options": [],
+      "answer": "különítmények"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Hogyan végződött a Tanácsköztársaság?",
+      "options": [
+        "Katonai vereséggel",
+        "Lázadással",
+        "Nemzetközi nyomásra",
+        "Közös megállapodással"
+      ],
+      "answer": "Katonai vereséggel"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az _____ 1920 júniusában Magyarország visszavonulásából beszerzett területeket.",
+      "options": [],
+      "answer": "Trianoni béke"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Milyen társadalmi rétegek támogatták a Tanácsköztársaságot?",
+      "options": [
+        "Nagyipari tőkések",
+        "Munkások és szegény paraszt",
+        "Középosztály",
+        "Nagybirtokosok"
+      ],
+      "answer": "Munkások és szegény paraszt"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Károlyi Mihály politikájában nem volt _____ a fegyverkezés helyreállítása.",
+      "options": [],
+      "answer": "fontos"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mit szignált a Szegedi ellenkormány?",
+      "options": [
+        "Szovjet beavatkozást",
+        "Nemzetközi támogatást",
+        "Az ellenforradalom szerveződését",
+        "Balkáni támadást"
+      ],
+      "answer": "Az ellenforradalom szerveződését"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az 1918-1920 közötti időszakban Magyarország három féle _____ tapasztalt egymás után.",
+      "options": [],
+      "answer": "kormányzati forma"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Miért volt fontosabb a Horthy-rendszer stabilizálása az 1920-as évben?",
+      "options": [
+        "A kommunista veszély elhárítása",
+        "Gazdasági növekedés",
+        "Területi bővítés",
+        "Kulturális reformok"
+      ],
+      "answer": "A kommunista veszély elhárítása"
+    }
+  ]
+}

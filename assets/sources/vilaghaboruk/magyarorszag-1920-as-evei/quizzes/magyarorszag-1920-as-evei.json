@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "magyarorszag-1920-as-evei",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Kérdés 1",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Kérdés 2",
+      "options": [],
+      "answer": "válasz"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Kérdés 3",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Kérdés 4",
+      "options": [],
+      "answer": "válasz"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Kérdés 5",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Kérdés 6",
+      "options": [],
+      "answer": "válasz"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Kérdés 7",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Kérdés 8",
+      "options": [],
+      "answer": "válasz"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Kérdés 9",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Kérdés 10",
+      "options": [],
+      "answer": "válasz"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Kérdés 11",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Kérdés 12",
+      "options": [],
+      "answer": "válasz"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Kérdés 13",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Kérdés 14",
+      "options": [],
+      "answer": "válasz"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Kérdés 15",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Kérdés 16",
+      "options": [],
+      "answer": "válasz"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Kérdés 17",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Kérdés 18",
+      "options": [],
+      "answer": "válasz"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Kérdés 19",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Kérdés 20",
+      "options": [],
+      "answer": "válasz"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Kérdés 21",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Kérdés 22",
+      "options": [],
+      "answer": "válasz"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Kérdés 23",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Kérdés 24",
+      "options": [],
+      "answer": "válasz"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Kérdés 25",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    }
+  ]
+}

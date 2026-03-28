@@ -1,0 +1,95 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Város a középkorban",
+      "definition": "Önkormányzattal rendelkező település, amely jogi kiváltságok és gazdasági függetlenség révén a feudális rendszertől elkülönülten működött.",
+      "quote": "A városi levegő szabaddá tesz egy év és egy nap után",
+      "text": "A városi polgárság új szociális erő volt. Az első jobbágyok menekülnek a városokba, ahol föld szabaddá válnak. A városok piacokat, vásárokat, céhes ipart és kereskedelem helyei voltak."
+    },
+    {
+      "id": 2,
+      "term": "Szabad királyi város",
+      "definition": "Legmagasabb jogállású város, amely közvetlenül a király alá tartozik. Saját bíróságot, önkormányzatot, vásártartási jogot és falépítési jogot kapott.",
+      "quote": "Közvetlenül a királytól függetlenül működő",
+      "text": "Ezek voltak a legerősebb városok: Buda, Kassa, Nagyszombat. Gazdagok, szakértelmesek voltak. Gyakran pénzügyi erőforrások is voltak."
+    },
+    {
+      "id": 3,
+      "term": "Céh",
+      "definition": "Azonos mesterséget űző iparosok szervezete, amely szabályozta a termelést, árakat, minőséget és verseny megemlít.",
+      "quote": "Verseny kizárása, hogy mindenki megélhessen",
+      "text": "Tagja az inas, legény és mester. Szigorú szabályok. Céhes keretek között készült a város és mesteripar."
+    },
+    {
+      "id": 4,
+      "term": "Inas",
+      "definition": "A céhes képzés első fokozata, amely során egy fiú mellett tanult. Csak ellátást kapott, bért nem.",
+      "quote": "Elméletet és gyakorlatot egyszerre tanulni",
+      "text": "Az inas évek alatt tanult a mesterünél. Ezt követően legény lehetett, ahol már bért kapott."
+    },
+    {
+      "id": 5,
+      "term": "Legény",
+      "definition": "A céhes képzés második szintje, ahol a fiú már bért kapott és többször vándorolt mesterek között (vándorlóévek).",
+      "quote": "Bért kapni és mesterségeket ismerni",
+      "text": "A legények vándorlóéveik alatt más városok mesterei alatt tanultak. Ezt követően mesterlét lehető: mestermunka bemutatásával."
+    },
+    {
+      "id": 6,
+      "term": "Mester",
+      "definition": "Teljes jogú céhes iparos, akinek saját műhelye volt. Szerzett mestermunka után eljutott a státuszhoz.",
+      "quote": "Önálló műhely és teljes jogok",
+      "text": "A mester iparosok többsége volt az igazi. Szerzett saját műhelyt, alkalmazhat legényeket, taníthatott inasokat."
+    },
+    {
+      "id": 7,
+      "term": "Mesterremek",
+      "definition": "Vizsgamunka, amellyel a legény bizonyította, hogy alkalmas mesterré válni. Cechelyt végzett munka.",
+      "quote": "Legényből mesterré az önjövendölés révén",
+      "text": "A mesterremek nem csupán szakmai képességeket bizonyított, hanem a céhbe való felvételt is jelenti."
+    },
+    {
+      "id": 8,
+      "term": "Hanza",
+      "definition": "Északi- és Balti-tengeri városok szövetsége, amely kereskedelmi utat és piacokat közösen tartotta.",
+      "quote": "Közös kereskedelem és közös védelem",
+      "text": "A Hanza városok (Lübeck, Hamburg, Bréma) nagyhatalom voltak a középkorban. Közöslegéletlenek árúk és pénzügyi ügyletek révén."
+    },
+    {
+      "id": 9,
+      "term": "Levantine kereskedelem",
+      "definition": "Mediterrán kereskedelem, amely Velence, Genova és Pisa révén közvetítette a keleti áruk (fűszerek, selyem) elvezetéséről Nyugat-Európa felé.",
+      "quote": "Keleti fúszert a Móditerránium egyesül",
+      "text": "Ez a kereskedelem a középkori Európa egyik legfontosabb gazdasági ténye volt. A venezia és Genova városok hatalmas gazdagságot szerztek."
+    },
+    {
+      "id": 10,
+      "term": "Champagne vásárai",
+      "definition": "Franciaország északközepén tartott nagy vásárok, amely szárazföldi kereskedelem központjaként működött.",
+      "quote": "Észak és dél találkozik",
+      "text": "A Champagne vásárok voltak az északi és déli kereskedelemi utak összekötő pontja. Ez az év folyamán megrendezett esemény évszázadokig fontos volt."
+    },
+    {
+      "id": 11,
+      "term": "Patrícius",
+      "definition": "Gazdag kereskedő vagy iparos, aki a város politikai életét irányította. Gyakran patrikcius családok képeztek egy szingazót.",
+      "quote": "Pénz és hatalom együttan",
+      "text": "A patríciusok a város elitjét képezték. Gyakran polgármestereket és a város tanácsa vezetőit adtak."
+    },
+    {
+      "id": 12,
+      "term": "Plebs (plebejus)",
+      "definition": "Polgárjoggal nem rendelkező városlakók, szegények és alkalmi munkások, akik az urbánus lakosság többségét alkották.",
+      "quote": "Szegénység a városban",
+      "text": "A plebs nagyon szegénysége volt. Gyakran koldus, munkanélküli. Nem voltak jogaik, de a város sokadalmi életet és szabadságot nyújtott."
+    },
+    {
+      "id": 13,
+      "term": "Pestisjárvány, 1347-1352",
+      "definition": "A nagy pestisjárvány, amely Európa lakosságának 20-30%-át pusztította el, különösen a városokat sújtotta.",
+      "quote": "A halál minden szinten",
+      "text": "A pestis drámaian megváltozatta Európa társadalmát. A munkaerőhiány javította a jobbágyok helyzetét. Az egész társadalmi és gazdasági rendszer tart válságba jött."
+    }
+  ]
+}

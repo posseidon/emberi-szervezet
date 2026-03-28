@@ -1,0 +1,182 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "uj-eszmek",
+  "title": "Új eszmék",
+  "flashcards": [
+    {
+      "id": "uj-eszmek-001",
+      "term": "Mit értünk a hatalommegosztás alatt?",
+      "definition": "A törvényhozó, végrehajtó és bírói hatalom szétválasztásának elvét Montesquieu javasolta, amely a zsarnokság megakadályozása végett a liberalizmus alapjává vált.",
+      "quote": "Az erő tart fékben az erőt.",
+      "text": "Az egyensúly megteremtésének módszere"
+    },
+    {
+      "id": "uj-eszmek-002",
+      "term": "Mi jellemzi az éjjeliőr államot?",
+      "definition": "A klasszikus liberalizmus szerint az állam csak három területen avatkozhat be: külső védelem, polgárok védelme egymás ellen, és nem profitorientált intézmények fenntartása.",
+      "quote": "Minimális állam - maximális szabadság",
+      "text": "Gazdaságba nem avatkozik be"
+    },
+    {
+      "id": "uj-eszmek-003",
+      "term": "Milyen eltérések voltak a kultúrnemzet és az államnemzet között?",
+      "definition": "Az államnemzet (pl. Anglia, Franciaország) egy meglévő, önálló állam keretei között formálódott, míg a kultúrnemzet (Németország, Magyarország) közös nyelv, hagyomány nélkül, államalakítás nélkül szerveződött.",
+      "quote": "Nyelv és kultúra helyett az államhatalom",
+      "text": "Fejlődési útvonalak a nemzeti egység felé"
+    },
+    {
+      "id": "uj-eszmek-004",
+      "term": "Mi volt a konzervativizmus válasza a francia forradalomra?",
+      "definition": "A forradalom radikális változásai, erőszaka és egyházellenessége hatására Edmund Burke megalkotta a konzervativizmust, amely fokozatos fejlődést, hagyomány és tekintély megőrzését propagálta.",
+      "quote": "A jól ismert mindig értékesebb az ismeretlennél",
+      "text": "Reaktív ideológia születése"
+    },
+    {
+      "id": "uj-eszmek-005",
+      "term": "Mit ért a liberalizmus szabad verseny elvén?",
+      "definition": "A klasszikus liberalizmus gazdasági alapelve, amely szerint az államnak nem szabad korlátoznia a piac működését, mivel az önszabályozó ereje a leghatékonyabb.",
+      "quote": "Az 'áthatatlan kéz' rendezi a gazdaságot",
+      "text": "Adam Smith gazdaságelmélete"
+    },
+    {
+      "id": "uj-eszmek-006",
+      "term": "liberalizmus",
+      "definition": "A XIX. századi politikai irányzat, amely az egyéni szabadság, jogegyenlőség és alkotmányos kormányzás megvalósítását tűzte ki célul.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-007",
+      "term": "nacionalizmus",
+      "definition": "A nemzeti összetartozás, önrendelkezés és függetlenség eszényét hirdető eszme, mely a XIX. században meghatározó erővé vált.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-008",
+      "term": "konzervativizmus",
+      "definition": "A hagyományos értékek, intézmények és erkölcsi rend megőrzését célzó politikai eszme, amely a francia forradalom radikalizmusára válaszul alakult.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-009",
+      "term": "jogegyenlőség",
+      "definition": "A liberalizmus alapelve, amely szerint minden ember egyenlő a törvény előtt; szünteti meg a feudális előjogokat.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-010",
+      "term": "hatalommegosztás",
+      "definition": "Montesquieu nyomán a liberalizmus kulcsfogalma: törvényhozó, végrehajtó és bírói hatalom szétválasztása a zsarnokság megakadályozása végett.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-011",
+      "term": "éjjeliőr állam",
+      "definition": "A klasszikus liberalizmus eszméje szerinti minimális állam, amely csak védelmet, igazságszolgáltatást és közintézmények fenntartását látja el.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-012",
+      "term": "kultúrnemzet",
+      "definition": "Olyan nemzeti közösség, amely közös nyelv, hagyomány és kultúra alapján szerveződik, függetlenül saját államtól.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-013",
+      "term": "államnemzet",
+      "definition": "Olyan nemzeti közösség, amely egy már meglévő, önálló állam keretei között formálódott.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-014",
+      "term": "szabad verseny",
+      "definition": "A klasszikus liberalizmus gazdasági alapelve, amely szerint az államnak nem szabad korlátoznia a piac működését.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-015",
+      "term": "organikus fejlődés",
+      "definition": "A konzervatív gondolkodás központi fogalma: társadalmi változásoknak fokozatosnak és hagyományokra épülőknek kell lenniük.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-016",
+      "term": "polgári szabadságjogok",
+      "definition": "Alapvető emberi jogok (vélemény-, vallás-, sajtó-, gyülekezési szabadság), amelyekre a liberalizmus ráépült.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-017",
+      "term": "reformok",
+      "definition": "Fokozatos, békés társadalmi és politikai átalakítás, melyet még a konzervativizmus is elfogadott, de a radikalizmussal szemben.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-018",
+      "term": "társadalmi szerződés",
+      "definition": "Felvilágosodás kori elmélet, amely szerint az állam emberek közötti megállapodás eredménye (konzervativizmus ezt utasítja el).",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-019",
+      "term": "népképviselet",
+      "definition": "A liberalizmus elve, amely szerint választott képviselők gyakorolják a politikai hatalmat a nép nevében.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-020",
+      "term": "sovinizmus",
+      "definition": "A nacionalizmus szélsőséges formája, amely saját nemzetét felsőbbrendűnek tekinti és más népeket lenéz.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-021",
+      "term": "John Locke",
+      "definition": "Angol filozófus, a polgári kormányzás elméleti alapjait fektette le; természetes jogok (élet, szabadság, tulajdon) védelmét tekintette az állam feladatának.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-022",
+      "term": "John Stuart Mill",
+      "definition": "Brit filozófus, akinek 'A szabadságról' című műve az egyéni szabadság határait és az állam szerepét vizsgálta.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-023",
+      "term": "Adam Smith",
+      "definition": "Skót közgazdász, a 'szabad piac' és a 'láthatatlan kéz' elméletének kidolgozója; klasszikus gazdasági liberalizmus alapítója.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-024",
+      "term": "David Ricardo",
+      "definition": "Közgazdász, aki a szabadkereskedelem és verseny gazdasági előnyeit hangsúlyozta.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "uj-eszmek-025",
+      "term": "Edmund Burke",
+      "definition": "Brit politikus és filozófus, a konzervativizmus megteremtője; a vallás, hagyomány és erkölcsi rend fontosságát hangsúlyozta.",
+      "quote": "",
+      "text": ""
+    }
+  ]
+}

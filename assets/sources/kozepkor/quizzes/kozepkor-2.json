@@ -1,0 +1,201 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "kozepkor",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Miért volt szükséges a honfoglalás a magyarok számára?",
+      "options": [
+        "Az Etelköz nyílt pusztáinak védetlensége",
+        "Gazdasági fejlődés keresése",
+        "Vallási okokra",
+        "Az ara hatalmi csökkentésének oka"
+      ],
+      "answer": "Az Etelköz nyílt pusztáinak védetlensége"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Mi volt az eredménye a Poitiers-i csatának (732)?",
+      "options": [
+        "Az arab előrenyomulás megállása Nyugat-Európában",
+        "Az arab hódítások felgyorsulása",
+        "A keresztes hadjáratok kezdete",
+        "Az iszlám egységesülése"
+      ],
+      "answer": "Az arab előrenyomulás megállása Nyugat-Európában"
+    },
+    {
+      "id": 3,
+      "type": "BLANK",
+      "question": "A sztyeppei szeniorátus rendszerében a nemzetség _____ férfitagja volt az örökös.",
+      "options": [],
+      "answer": "legidősebb"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Miként végződött István és Koppány konfliktusa?",
+      "options": [
+        "Koppány lemondott",
+        "István megállapodott vele",
+        "Koppány felnégyelték és az ország szegletei közt kitűzték",
+        "Koppány külföldre menekült"
+      ],
+      "answer": "Koppány felnégyelték és az ország szegletei közt kitűzték"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A középkori város önkormányzatát a _____ vezetett, aki a város polgárai által választott tisztségviselő volt.",
+      "options": [],
+      "answer": "polgármester"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Miért fontos volt a tatárjárás (1241) a magyar társadalomra nézve?",
+      "options": [
+        "Pusztítása miatt a jobbágyok helyzete javult",
+        "Az ország gazdaság egységesült",
+        "A város fejlődése meggyorsult",
+        "Minden tekintetben pozitív hatásai voltak"
+      ],
+      "answer": "Pusztítása miatt a jobbágyok helyzete javult"
+    },
+    {
+      "id": 7,
+      "type": "BLANK",
+      "question": "Az iszlám vallásban az imam funkcióját végző személy az _____, aki nem volt közvetítő Isten és ember között.",
+      "options": [],
+      "answer": "imám"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "Miként szerzett el Károly Róbert királyi hatalmat az Árpád-ház kihalása után?",
+      "options": [
+        "A pápa támogatásával és a tartományurak legyőzésével",
+        "Békés diplomáciai megállapodásokkal",
+        "Azonnali katonai erővel",
+        "Feliratkozással az Andreatumként"
+      ],
+      "answer": "A pápa támogatásával és a tartományurak legyőzésével"
+    },
+    {
+      "id": 9,
+      "type": "BLANK",
+      "question": "A szerzetesi közösségben az alapfogadalmak közé tartoztak: szegénység, tisztaság és _____.",
+      "options": [],
+      "answer": "engedelmesség"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Mit jelent az, hogy az Omajjádok alatt az iszlám birodalom háromszor nagyobb volt, mint korábban?",
+      "options": [
+        "Csak Ázsiára terjedt ki",
+        "Hispánia, Észak-Afrika és Közel-Kelet is arab uralomra kerültek",
+        "Csak Mezopotámia fejedelemségeire",
+        "A birodalom meghaladta Afrika határait"
+      ],
+      "answer": "Hispánia, Észak-Afrika és Közel-Kelet is arab uralomra kerültek"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "IV. Béla 'második honalapítónak' hívják, mert az _____ után az ország újjáépítésében döntő szerepe volt.",
+      "options": [],
+      "answer": "tatárjárás"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Miért volt sikeres az Aranybulla a nemesi jogok fejlődésében?",
+      "options": [
+        "Teljes adómentességet biztosított",
+        "Szerviensek jogait meghatározta és ellenállási záradékot tartalmazott",
+        "Az egyházi befolyást megtiltotta",
+        "A katonai kötelezettséget eltörölt"
+      ],
+      "answer": "Szerviensek jogait meghatározta és ellenállási záradékot tartalmazott"
+    },
+    {
+      "id": 13,
+      "type": "BLANK",
+      "question": "A középkori város egyik jellegzetes intézménye volt az évi _____, amelyen messziről érkezett áruk cseréjére sor kerül.",
+      "options": [],
+      "answer": "vásár"
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "Hogyan járult hozzá a gótikus építészet az új világképhez?",
+      "options": [
+        "Az évszázadokat magasított построение mutatott",
+        "Az égbetörő templomok az isteni felé vágyódást szimbolizálták",
+        "Az új kereskedelmi lehetőségek kapujai voltak",
+        "A városok szimbólumaivá váltak"
+      ],
+      "answer": "Az égbetörő templomok az isteni felé vágyódást szimbolizálták"
+    },
+    {
+      "id": 15,
+      "type": "BLANK",
+      "question": "A holandaise lovar hadtest volt a _____ sereg, amely az oszmán katonai erejének alapja.",
+      "options": [],
+      "answer": "janicsár"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Miért volt az Aranybulla az Angliát követő második fontos demokráciai dokumentum Európában?",
+      "options": [
+        "Kizárólag jobbágyokat védte",
+        "Az ellenállási záradékkal a királyság korlátait szabályozta",
+        "Az egyházt Isten alá helyezte",
+        "Az eladó szabad választást biztosított"
+      ],
+      "answer": "Az ellenállási záradékkal a királyság korlátait szabályozta"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "A szőlőművelés és a halász kereskedelme mellett legjelentősebb export áru volt az _____, amelyet az arab világba szállítottak.",
+      "options": [],
+      "answer": "ezüst"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Hogyan jellemezhető Mátyás király hatalma?",
+      "options": [
+        "Szúkítetven megosztott a rendekkel",
+        "Központosított és absolutista jellegű volt",
+        "Főként a papság befolyása alatt állt",
+        "Teljesen decentralizált volt"
+      ],
+      "answer": "Központosított és absolutista jellegű volt"
+    },
+    {
+      "id": 19,
+      "type": "BLANK",
+      "question": "A középkori hadsereg az átelőéből táplálkozva kereskedelmet is végzett, amely az _____ segített fejlődésénekhez.",
+      "options": [],
+      "answer": "város"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "Mely tényezők járultak hozzá ahhoz, hogy az arab hódítások sikerre vittek?",
+      "options": [
+        "A bizánci és perzsa birodalom kimerültsége",
+        "Az iszlám vallás объединить hatása",
+        "A meghódított lakosság toleranciája az iszlámra",
+        "Mindhárom faktor együtt"
+      ],
+      "answer": "Mindhárom faktor együtt"
+    }
+  ]
+}

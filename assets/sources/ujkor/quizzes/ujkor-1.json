@@ -1,0 +1,239 @@
+{
+  "subjectId": "ujkor",
+  "topic": "ujkor",
+  "quizId": "ujkor-1",
+  "quiz": [
+    {
+      "type": "MC",
+      "question": "Mely ideológia hirdetett egyéni szabadságot és jogegyenlőséget?",
+      "options": [
+        "Konzervativizmus",
+        "Nacionalizmus",
+        "Liberalizmus",
+        "Szocializmus"
+      ],
+      "answer": "Liberalizmus"
+    },
+    {
+      "type": "BLANK",
+      "question": "John Locke a ________ és ________ jogokként definiálta az élet, szabadság és tulajdon alapvető jogait.",
+      "target": "természetes",
+      "hint": "alapvető jogok"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik konzervatív gondolkodó írta a 'Töprengések a francia forradalomról' című művet?",
+      "options": [
+        "David Hume",
+        "Edmund Burke",
+        "Thomas Hobbes",
+        "Jean-Jacques Rousseau"
+      ],
+      "answer": "Edmund Burke"
+    },
+    {
+      "type": "BLANK",
+      "question": "A nacionalizmus a ________ alapján szerveződő nemzeti közösséget hirdette.",
+      "target": "közös nyelv",
+      "hint": "nemzeti eszköz"
+    },
+    {
+      "type": "MC",
+      "question": "Az 'utópista szocializmus' miért nevezzük 'utópistá'-nak?",
+      "options": [
+        "Túl radikális volt",
+        "Elméleti volt és gyakorlati megvalósítása nem volt lehetséges",
+        "Nagyon konzervatív",
+        "Csak irodalmi szövegekben létezett"
+      ],
+      "answer": "Elméleti volt és gyakorlati megvalósítása nem volt lehetséges"
+    },
+    {
+      "type": "BLANK",
+      "question": "Karl Marx szerint a történelem mozgatórugója az ________, amely a termelési módok közötti ellentét alapján alakul.",
+      "target": "osztályharc",
+      "hint": "társadalmi küzdelem"
+    },
+    {
+      "type": "MC",
+      "question": "Mit jelent Marx 'proletárdiktatúrá'-ja?",
+      "options": [
+        "A munkások abszolút hatalma",
+        "Az átmeneti államforma a kapitalizmus és kommunizmus között",
+        "Az egész nép közvetlenül kormányzása",
+        "Az egyetlen vezér hatalma"
+      ],
+      "answer": "Az átmeneti államforma a kapitalizmus és kommunizmus között"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1848-as Kommunista Kiáltvány célja a ________ egysége és forradalma volt.",
+      "target": "munkásosztály",
+      "hint": "társadalmi réteg"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik filozófus javasolta a 'hatalommegosztás' elvét?",
+      "options": [
+        "John Hobbes",
+        "Montesquieu",
+        "Voltaire",
+        "Rousseau"
+      ],
+      "answer": "Montesquieu"
+    },
+    {
+      "type": "BLANK",
+      "question": "A ________ elmélete szerint az államnak nincs vagy nem szabad avatkoznia a gazdaságba; csak a védelem, igazságszolgáltatás és közintézmények fenntartása az állam feladata.",
+      "target": "éjjeliőr állam",
+      "hint": "minimális állam"
+    },
+    {
+      "type": "MC",
+      "question": "Henri de Saint-Simon, Charles Fourier és Robert Owen mely szocializmus-típus képviselői voltak?",
+      "options": [
+        "Tudományos szocializmus",
+        "Utópista szocializmus",
+        "Szovjet szocializmus",
+        "Nemzeti szocializmus"
+      ],
+      "answer": "Utópista szocializmus"
+    },
+    {
+      "type": "BLANK",
+      "question": "A ________ a nacionalizmus szélsőséges formája, amely saját nemzetét felsőbbrendűnek tekinti.",
+      "target": "sovinizmus",
+      "hint": "nacionalizmus-típus"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik liberális gondolkodó írta 'A szabadságról' című művet?",
+      "options": [
+        "Adam Smith",
+        "John Locke",
+        "John Stuart Mill",
+        "David Hume"
+      ],
+      "answer": "John Stuart Mill"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1867-után Magyarország körül nemzeti közösséget függetlenül saját államtól szerveződött Magyarország, Németország és Olaszország esetében.",
+      "target": "kultúrnemzet",
+      "hint": "nemzeti típus"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az egyik fő eltérés a liberalizmus és konzervativizmus között a társadalmi fejlődésről?",
+      "options": [
+        "Liberalizmus forradalmi, konzervativizmus fokozatos",
+        "Mindketten azonos nézeten voltak",
+        "Konzervativizmus forradalmi, liberalizmus fokozatos",
+        "Mindketten radikálisak"
+      ],
+      "answer": "Liberalizmus forradalmi, konzervativizmus fokozatos"
+    },
+    {
+      "type": "BLANK",
+      "question": "A ________ az OECD alapcsalád, amely az eszmékre épített, nem csupán gazdasági tényezőkre.",
+      "target": "idealizmus",
+      "hint": "filozófiai alapok"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt a marxizmus fő kritikája a liberalizmustól?",
+      "options": [
+        "Nem volt elég forradalmi",
+        "Csak az osztály nélküli társadalomban hitte az igazi szabadságot",
+        "Túl konzervatív",
+        "Nem támogatta a demokráciát"
+      ],
+      "answer": "Csak az osztály nélküli társadalomban hitte az igazi szabadságot"
+    },
+    {
+      "type": "BLANK",
+      "question": "A konzervativizmus szerint a ________ az emberi viselkedésnek nem az egészséges alapja, hanem a közösségi kötődések.",
+      "target": "ráció",
+      "hint": "gondolkodásmód"
+    },
+    {
+      "type": "MC",
+      "question": "Az 1867-es Kiegyezés után Magyarország melyik ideológiával működött?",
+      "options": [
+        "Szocializmus",
+        "Konzervativizmus és liberalizmus keveréke",
+        "Tiszta liberalizmus",
+        "Nacionalizmus"
+      ],
+      "answer": "Konzervativizmus és liberalizmus keveréke"
+    },
+    {
+      "type": "BLANK",
+      "question": "A nacionalizmus a 19. századi európai államok ________ alapját képezte.",
+      "target": "identitása",
+      "hint": "nemzeti öntudat"
+    },
+    {
+      "type": "MC",
+      "question": "Mit jelent a 'társadalmi szerződés' elmélete a liberalizmusban?",
+      "options": [
+        "Az emberek abszolút engedelmessége",
+        "Az emberek közötti megállapodás az államalapítás alapján",
+        "A fejedelmi abszolutizmus",
+        "Az isteni jogok tanítása"
+      ],
+      "answer": "Az emberek közötti megállapodás az államalapítás alapján"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1815-ben megalakult ________ a konzervativizmus gyakorlati megvalósításának volt a próbája az Európa-szerte.",
+      "target": "Szent Szövetség",
+      "hint": "nemzetközi szövetség"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik liberális gondolkodó hangsúlyozta a szabad kereskedelem fontosságát?",
+      "options": [
+        "John Stuart Mill",
+        "David Ricardo",
+        "Edmund Burke",
+        "Friedrich Engels"
+      ],
+      "answer": "David Ricardo"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az ________ a nemzetiségeknek a magyar kultúra és nyelv felé történő elmozgatásának az eszköze volt a dualizmus korában.",
+      "target": "magyarosítás",
+      "hint": "asszimilációs politika"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az egyik fő pont a marxista internacionalizmusban?",
+      "options": [
+        "A nemzeti érdekek elsőbbsége",
+        "Az osztályharcok nemzetközi koordinációja",
+        "A nemzeti estados megerősítése",
+        "A kapitalista terjeszkedés támogatása"
+      ],
+      "answer": "Az osztályharcok nemzetközi koordinációja"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1848-as áprilisi törvények megvalósítottak egy ________ alapú társadalmat Magyarországon.",
+      "target": "polgári",
+      "hint": "társadalomtípus"
+    },
+    {
+      "type": "MC",
+      "question": "Ki volt az az angol filozófus, aki a népképviselet alapelvét definiálta?",
+      "options": [
+        "Edmund Burke",
+        "John Stuart Mill",
+        "John Locke",
+        "James Mill"
+      ],
+      "answer": "John Stuart Mill"
+    }
+  ]
+}

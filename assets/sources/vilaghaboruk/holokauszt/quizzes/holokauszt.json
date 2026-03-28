@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "holokauszt",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik nácista ideológián alapult a holokauszt?",
+      "options": [
+        "Szociális demokrácia",
+        "Faji elmélet és antiszemitizmus",
+        "Kommunista ideológia",
+        "Liberális demokrácia"
+      ],
+      "answer": "Faji elmélet és antiszemitizmus"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A holokauszt során körülbelül _____ millió zsidó pusztult el.",
+      "options": [],
+      "answer": "6"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mit jelentett a Wannsee-konferencia?",
+      "options": [
+        "Békemegállapodás",
+        "A 'végső megoldás' megtervezése",
+        "Polgárjogi reform",
+        "Gazdasági egyezmény"
+      ],
+      "answer": "A 'végső megoldása' megtervezése"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Auschwitz-Birkenau koncentrációs tábor _____ országban volt.",
+      "options": [],
+      "answer": "Lengyelország"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Melyik szervezet volt felelős a holokauszt végrehajtásáért?",
+      "options": [
+        "Wehrmacht",
+        "SS és Gestapo",
+        "Luftwaffe",
+        "Kriegsmarine"
+      ],
+      "answer": "SS és Gestapo"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az Einsatzgruppen _____ voltak, amelyek tömeggyilkosságokat követtek el.",
+      "options": [],
+      "answer": "mozgó ölőcsapatok"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Hogyan szállították az áldozatokat az erőtáborokba?",
+      "options": [
+        "Szállító autókon",
+        "Beszálított vasúti szállítmányokon",
+        "Hajókon",
+        "Gyalog"
+      ],
+      "answer": "Beszálított vasúti szállítmányokon"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A magyar zsidóság _____ alatt volt kitéve a legnagyobb veszélynek.",
+      "options": [],
+      "answer": "1944"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Ki volt a Magyarország német militarista meghatalmazottja?",
+      "options": [
+        "Eichmann Adolf",
+        "Eichmann Adolf",
+        "Canaris Adolf",
+        "Jodl Alfred"
+      ],
+      "answer": "Eichmann Adolf"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Eichmann Adolf a _____ deportálásának szervezésre specializálódott.",
+      "options": [],
+      "answer": "magyar zsidók"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mely város lett a holokausztban a legnagyobb deportálások helyszíne?",
+      "options": [
+        "Pécs",
+        "Debrecen",
+        "Budapest",
+        "Szeged"
+      ],
+      "answer": "Budapest"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A kistarcsai és _____ erőtáborok a magyar zsidók deportálásának előkészítésére szolgáltak.",
+      "options": [],
+      "answer": "bodnár"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik nácista vezetőt neveztek a 'halál angyalának'?",
+      "options": [
+        "Joseph Mengele",
+        "Adolf Eichmann",
+        "Rudolf Höss",
+        "Josef Kramer"
+      ],
+      "answer": "Joseph Mengele"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az _____ közösségi lezárások és szövetkezeti szervezetek módja volt az elnyomás.",
+      "options": [],
+      "answer": "gettózás"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mit csináltak az áldozatokkal, akik nem voltak használható munkások?",
+      "options": [
+        "Más erőtáborokba szállították",
+        "Azonnal meghalt gázkamrákban",
+        "Felszabadították",
+        "Más országokba deportálták"
+      ],
+      "answer": "Azonnal meghalt gázkamrákban"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A holokauszt során a halál módja az _____ gáz volt az erőtáborokban.",
+      "options": [],
+      "answer": "Ciklon B"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik nem volt a holokausztban résztvevő szervezet?",
+      "options": [
+        "Gestapo",
+        "Wehrmacht",
+        "SS",
+        "Nemzetközi Vörös Kereszt"
+      ],
+      "answer": "Nemzetközi Vörös Kereszt"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ protokoll rögzítette a holokauszt dokumentálását.",
+      "options": [],
+      "answer": "judenrat"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Ki volt a Righteous Among Nations (Nemzetközi Igazi Gerechtigkeitsanwalt) kategóriájában?",
+      "options": [
+        "Kitüntetett nácik",
+        "Zsidó mentoriszták",
+        "Nem-zsidó menekültmentőK",
+        "Szerb kólonisták"
+      ],
+      "answer": "Nem-zsidó menekültmentőK"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ Wallenberg svéd diplomata Magyarország mentett meg mintegy 20 000 zsidót.",
+      "options": [],
+      "answer": "Raoul"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mit jelölt meg az anyaG erőtábor-szisztéma?",
+      "options": [
+        "Politikai gulag",
+        "Katonai közvetítő",
+        "Zsidó megsemmisítés gépe",
+        "Rabszolga munkamunka"
+      ],
+      "answer": "Zsidó megsemmisítés gépe"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A _____ számára volt meghökkentő a Nuremberg-ügyek és tárgyalások.",
+      "options": [],
+      "answer": "világközösség"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Melyik koncentrációs tábor volt a holokauszt-termelésSégcentruma?",
+      "options": [
+        "Treblinka",
+        "Sobibor",
+        "Auschwitz-Birkenau",
+        "Belzec"
+      ],
+      "answer": "Auschwitz-Birkenau"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A deportálások során _____ személyt vittek el Magyarországról.",
+      "options": [],
+      "answer": "430000"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Hogyan végződött a Nürnbergi perek?",
+      "options": [
+        "Teljes felmentés",
+        "Halálítéletek vezetőknek",
+        "Börtönt kerültek",
+        "Nem hoztak ítéletet"
+      ],
+      "answer": "Halálítéletek vezetőknek"
+    }
+  ]
+}

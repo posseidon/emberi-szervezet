@@ -1,0 +1,234 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "rendszervaltoztas",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely év jelöli Magyarország rendszerváltásánt?",
+      "options": [
+        "1988",
+        "1989",
+        "1990",
+        "1991"
+      ],
+      "answer": "1989"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ politikájával Gorbacsov módosított a szovjet irányításban.",
+      "options": [],
+      "answer": "glasznoszty"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik volt az első többpárti választás Magyarországon?",
+      "options": [
+        "1985",
+        "1988",
+        "1990",
+        "1992"
+      ],
+      "answer": "1990"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az _____ 1989. június 16-án polgári szövetsége volt Magyarország.",
+      "options": [],
+      "answer": "Nagy Imre"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mit jelölt a 'kerekasztal-tárgyalás' Magyarországon?",
+      "options": [
+        "Katonai csatározás",
+        "Politikai tárgyalássorozat",
+        "Gazdasági egyezmény",
+        "Szovjet parancs"
+      ],
+      "answer": "Politikai tárgyalássorozat"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ fal 1989 novemberében dőlt le Berlin-ben.",
+      "options": [],
+      "answer": "berlini"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik párt nyert az 1990-es magyarországi választáson?",
+      "options": [
+        "Szocialista Párt",
+        "Magyar Demokrata Fórum",
+        "SZDSZ",
+        "KDNP"
+      ],
+      "answer": "Magyar Demokrata Fórum"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ szervezet az ellenzéki szövetsége volt Magyarországon.",
+      "options": [],
+      "answer": "Kerekasztal"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mit jelölt az 'Antall-kormány' alakulása?",
+      "options": [
+        "Szovjet nyomásra",
+        "Demokratikus választás után",
+        "Katonai puccs",
+        "Kommunista folytatódás"
+      ],
+      "answer": "Demokratikus választás után"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az _____ szövetsége Magyarország függetlenségét biztosította.",
+      "options": [],
+      "answer": "NATO"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mi volt az 'Európa vissza nyitása' jelszó?",
+      "options": [
+        "Szovjet visszatérés",
+        "Nyugat-európai integráció",
+        "Szovjet terjeszkedés",
+        "Izolált politika"
+      ],
+      "answer": "Nyugat-európai integráció"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ Antall József első miniszterelnöke volt az új Magyarországnak.",
+      "options": [],
+      "answer": "1990-1998"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik történelmi eseményt rehabilitálták a rendszerváltáskor?",
+      "options": [
+        "Az 1956-os forradalom",
+        "Az 1848-as forradalom",
+        "Az 1919-es Tanácsköztársaság",
+        "Az 1944-es nyilas puccs"
+      ],
+      "answer": "Az 1956-os forradalom"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ a szovjet csapatok kivonitása szerződése lett.",
+      "options": [],
+      "answer": "végzés"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mit jelent az 'átmeneti igazságszolgáltatás'?",
+      "options": [
+        "Teljes felelősségvonás",
+        "Amnesztia megadása",
+        "Történelmi leleplezés és részleges felelősségvonás",
+        "Nem-ítélkezés"
+      ],
+      "answer": "Történelmi leleplezés és részleges felelősségvonás"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ törvényt a parlamenti bizottság felállította a rendszerváltáskor.",
+      "options": [],
+      "answer": "lustráció"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik előjoga szűnt meg az 1989-ben Magyarországon?",
+      "options": [
+        "Szovjet irányítás",
+        "Egypartirendszer",
+        "Szocialista kötöttségek",
+        "Szovjet bizottságok"
+      ],
+      "answer": "Egypartirendszer"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az _____ fejezete lezárult Magyarország történelmében 1989-ben.",
+      "options": [],
+      "answer": "szovjet"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik volt az első nem szocialista párt, amely kormányulyt Magyarországon?",
+      "options": [
+        "Szocialista Párt",
+        "SZDSZ",
+        "Magyar Demokrata Fórum",
+        "Fidesz"
+      ],
+      "answer": "Magyar Demokrata Fórum"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az _____ szervezet támogatta az Egyesült Államok a rendszerváltás alatt.",
+      "options": [],
+      "answer": "NATO"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mit jelent az 'új nemzetközi rend'?",
+      "options": [
+        "Szovjet hegemónia",
+        "USA vezetésű új világrend",
+        "Európai Unió dominancia",
+        "Kínai terjeszkedés"
+      ],
+      "answer": "USA vezetésű új világrend"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A _____ végül Magyarország NATO tagja lett.",
+      "options": [],
+      "answer": "1999"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Melyik szabadság volt az első, amit visszaadtak a magyaroknak?",
+      "options": [
+        "Szabad mozgás",
+        "Szabad szavazat",
+        "Szabad véleménynyilvánítás",
+        "Szabad vállalkozás"
+      ],
+      "answer": "Szabad mozgás"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A _____ Magyarország Európai Unióba lépésére készült fel.",
+      "options": [],
+      "answer": "2004"
+    }
+  ]
+}

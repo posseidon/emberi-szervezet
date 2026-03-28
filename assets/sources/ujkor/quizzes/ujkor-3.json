@@ -1,0 +1,228 @@
+{
+  "subjectId": "ujkor",
+  "topic": "ujkor",
+  "quizId": "ujkor-3",
+  "quiz": [
+    {
+      "type": "MC",
+      "question": "Mely évben kezdődött az 1848-as magyar forradalom?",
+      "options": [
+        "1845",
+        "1847",
+        "1848",
+        "1849"
+      ],
+      "answer": "1848"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1848-as márciusi forradalom a ________ helyen kezdődött Pesten, ahol a forradalmárok nyilvános gyűlést tartottak.",
+      "target": "Radnót",
+      "hint": "pesti gyűléshely"
+    },
+    {
+      "type": "MC",
+      "question": "Mit tartalmaztak az 1848-as áprilisi törvények?",
+      "options": [
+        "Csak a sajtószabadság",
+        "Jobbágyfelszabadítás, közteherviselés, parlamentarizmus, sajtó- és vallásszabadság",
+        "Csak a jobbágyfelszabadítás",
+        "Csak a katonai reformok"
+      ],
+      "answer": "Jobbágyfelszabadítás, közteherviselés, parlamentarizmus, sajtó- és vallásszabadság"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az első független magyar kormányt ________ miniszterelnök vezette 1848-ban.",
+      "target": "Batthyány",
+      "hint": "vezetője"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik csata volt az első magyar győzelem az 1848-as szabadságharc során?",
+      "options": [
+        "Isaszeg",
+        "Pákozd",
+        "Buda",
+        "Világos"
+      ],
+      "answer": "Pákozd"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1849. augusztus 13-i ________ helynél kapitulált Görgey magyar tábornok a szabadságharc végét jelezve.",
+      "target": "Világos",
+      "hint": "város"
+    },
+    {
+      "type": "MC",
+      "question": "Ki volt az 1867-es Kiegyezés megalkotójának számított magyar államférfi?",
+      "options": [
+        "Széchenyi István",
+        "Kossuth Lajos",
+        "Andrássy Gyula",
+        "Batthyány Lajos"
+      ],
+      "answer": "Andrássy Gyula"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1867-es Kiegyezés után Magyarország és ________ duális államberendezést alkotta.",
+      "target": "Ausztria",
+      "hint": "ország"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik év március 15. lett a magyar nemzeti ünnep?",
+      "options": [
+        "1840",
+        "1845",
+        "1848",
+        "1867"
+      ],
+      "answer": "1848"
+    },
+    {
+      "type": "BLANK",
+      "question": "Otto von Bismarck 'Eisen und Blut' politikájával az ________ egységét valósította meg.",
+      "target": "Németország",
+      "hint": "ország"
+    },
+    {
+      "type": "MC",
+      "question": "Az amerikai polgárháborúban (1861-1865) kinek a vezetésével maradt egységes az USA?",
+      "options": [
+        "Jefferson Davis",
+        "General Lee",
+        "Abraham Lincoln",
+        "General Grant"
+      ],
+      "answer": "Abraham Lincoln"
+    },
+    {
+      "type": "BLANK",
+      "question": "Lincoln 1863-as 'Emancipáció Nyilatkozata' a ________ felszabadítása volt az Unióban.",
+      "target": "rabszolgák",
+      "hint": "embercsoport"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik évben nyilvánították ki az egységes Német Birodalmat Versailles-ban?",
+      "options": [
+        "1866",
+        "1869",
+        "1871",
+        "1875"
+      ],
+      "answer": "1871"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1895-ös magyar törvény az ________ vallást az államegyházzal egyenrangúvá tette.",
+      "target": "izraelita",
+      "hint": "vallás"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az egyik fő különbség Széchenyi István és Kossuth Lajos reformprogramja között?",
+      "options": [
+        "Nincs különbség",
+        "Széchenyi fokozatos, Kossuth gyors reformokra törekedett",
+        "Kossuth gazdaságra, Széchenyi politikára fókuszált",
+        "Széchenyi a nép, Kossuth az arisztokrácia mellett állt ki"
+      ],
+      "answer": "Széchenyi fokozatos, Kossuth gyors reformokra törekedett"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1848-as magyar forradalom során ________ városait támadták meg a nemzetiségi mozgalmak.",
+      "target": "Buda",
+      "hint": "város"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik volt az első szekunder szerepet kapó nemzetiségi mozgalom az 1848-as magyar forradalom során?",
+      "options": [
+        "Szerben",
+        "Román",
+        "Szlovák",
+        "Rutén"
+      ],
+      "answer": "Szerben"
+    },
+    {
+      "type": "BLANK",
+      "question": "A Batthyány-kormányban Széchenyi István a ________ miniszteri posztot betöltötte.",
+      "target": "közmunka",
+      "hint": "miniszteri poszt"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az 1867-es Kiegyezés fő célja?",
+      "options": [
+        "A magyar függetlenség",
+        "Kompromisszum az 1848-as forradalom és az osztrák konzervatív politika között",
+        "Az Ausztria teljes dominanciája",
+        "A szocializmus bevezése"
+      ],
+      "answer": "Kompromisszum az 1848-as forradalom és az osztrák konzervatív politika között"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az olaszországi egység megvalósítójáik közé tartozot Garibaldi és ________.",
+      "target": "Cavour",
+      "hint": "olasz államférfi"
+    },
+    {
+      "type": "MC",
+      "question": "Mit teljesített a 'Risorgimento' Olaszországban?",
+      "options": [
+        "A szocializmus terjedése",
+        "Az olasz nemzeti egység megvalósítása",
+        "Az osztrák dominancia erősítése",
+        "Az arisztokrácia megtartása"
+      ],
+      "answer": "Az olasz nemzeti egység megvalósítása"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1848-as forradalom után ________ számára a forradalmi sodras megijedt.",
+      "target": "Széchenyi",
+      "hint": "magyar államférfi"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik volt az egyik fő gazdasági reform az 1848-as áprilisi törvényekben?",
+      "options": [
+        "Vasutak építése",
+        "Jobbágyok föld-szerzése a feudális terülékek helyett",
+        "Bankvezetés monopolizálása",
+        "Kereskedelem végzéséhez szükséges kamatláb csökkentése"
+      ],
+      "answer": "Jobbágyok föld-szerzése a feudális terülékek helyett"
+    },
+    {
+      "type": "BLANK",
+      "question": "Petőfi Sándor költő az 1848-as magyar forradalom ________ szimbóluma volt.",
+      "target": "szellemi",
+      "hint": "jelentősége"
+    },
+    {
+      "type": "MC",
+      "question": "Az 1867-es Kiegyezés után mely közös ügyeket irányította az Osztrák-Magyar Monarchia?",
+      "options": [
+        "Csak oktatást",
+        "Hadsereg, külügyminisztérium, pénzügyek",
+        "Csak vallást",
+        "Semmi közös ügy nem volt"
+      ],
+      "answer": "Hadsereg, külügyminisztérium, pénzügyek"
+    },
+    {
+      "type": "BLANK",
+      "question": "A Nemzetiségi kérdés az 1848-as magyar forradalomban a ________ és a magyar egység közötti konfliktus volt.",
+      "target": "asszimiláció",
+      "hint": "azonosulás törekvése"
+    }
+  ]
+}

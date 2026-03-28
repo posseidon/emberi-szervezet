@@ -1,0 +1,51 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "szechenyi-kossuth",
+  "quiz": [
+    {
+      "type": "MC",
+      "question": "Melyik volt Széchenyi István fő gazdasági reformjának a célja?",
+      "options": [
+        "A jobbágyok felszabadítása",
+        "Az ősiség törvényének eltörlése és hitelfelvétel lehetővé tétele",
+        "A német kultúra támogatása",
+        "Az arisztokrácia erősítése"
+      ],
+      "answer": "Az ősiség törvényének eltörlése és hitelfelvétel lehetővé tétele"
+    },
+    {
+      "type": "BLANK",
+      "question": "Kossuth Lajos alapította meg az ________ szervezetet a magyar ipar védelmét céljából.",
+      "target": "Védegyletet",
+      "hint": "gazdasági szervezet"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik volt az 1840-es években a Széchenyi-Kossuth vita tárgyának középpontja?",
+      "options": [
+        "A vallásszabadság",
+        "Az átalakulás tempója és módszere",
+        "A német kultúra támogatása",
+        "A nemzetközi kereskedelmi szerzződések"
+      ],
+      "answer": "Az átalakulás tempója és módszere"
+    },
+    {
+      "type": "BLANK",
+      "question": "Kossuth szerint a 'politikai ________' elve: minden magyarországi állampolgár a magyar politikai nemzet része lehet.",
+      "target": "nemzet",
+      "hint": "jogi-politikai alapú közösség"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik vita-iratban fejtette ki Széchenyi István óvásait a túl gyors változásokkal szemben?",
+      "options": [
+        "Hitel",
+        "Világ",
+        "Kelet népe",
+        "Stádium"
+      ],
+      "answer": "Kelet népe"
+    }
+  ]
+}

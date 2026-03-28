@@ -1,0 +1,234 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "kora-ujkor-overview",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik év jelöli az újkor kezdetét?",
+      "options": [
+        "1450",
+        "1492",
+        "1517",
+        "1600"
+      ],
+      "answer": "1492"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ mozgalom az ókori görög-római műveleltséget újraélesztette.",
+      "options": [],
+      "answer": "reneszánsz"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Ki indította el a reformációt 1517-ben?",
+      "options": [
+        "Kálvin János",
+        "Luther Márton",
+        "Zwingli Ulrich",
+        "VIII. Henrik"
+      ],
+      "answer": "Luther Márton"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az újkor végét általában a _____ vége jelöli (1789).",
+      "options": [],
+      "answer": "francia forradalom"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Miért szakított VIII. Henrik a Vatikánnal?",
+      "options": [
+        "Teológiai nézeteltérések",
+        "Új házasságának engedélyezése",
+        "Egyházi vagyon elleni fellépés",
+        "Vallási reformok"
+      ],
+      "answer": "Új házasságának engedélyezése"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ karavella volt a felfedezések fő hajótípusa.",
+      "options": [],
+      "answer": "portugál"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mennyi fővel indult el Szulejmán a mohácsi hadjáratra?",
+      "options": [
+        "20 000",
+        "40 000",
+        "60 000",
+        "100 000"
+      ],
+      "answer": "60 000"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "II. Lajos magyar király _____ során fulladt meg menekülés közben.",
+      "options": [],
+      "answer": "Csele-patak"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mely város lett Magyarország fővárosa a török uralom után?",
+      "options": [
+        "Buda",
+        "Pest",
+        "Pozsony",
+        "Szeged"
+      ],
+      "answer": "Pozsony"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ szerződés (1570) jogi keretbe foglalta az Erdélyi Fejedelemség függetlenségét.",
+      "options": [],
+      "answer": "Speyeri"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mit hangsúlyozott Luther a 'sola Scriptura' elvével?",
+      "options": [
+        "Az egyházi hagyományt",
+        "A pápa tekintélyét",
+        "Az Írás elsőbbségét",
+        "A pápai bullák fontosságát"
+      ],
+      "answer": "Az Írás elsőbbségét"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ rendelkezése értelmében a német fejedelmek saját területükön dönthetnek a vallásról.",
+      "options": [],
+      "answer": "Augsburgi vallásbéke"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik város vált az Erdélyi Fejedelemség fővárosa?",
+      "options": [
+        "Nagyvárad",
+        "Gyulafehérvár",
+        "Kolozsvár",
+        "Medgyes"
+      ],
+      "answer": "Gyulafehérvár"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ a kálvinizmus központja volt Svájcban.",
+      "options": [],
+      "answer": "Genf"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Ki volt a jezsuita rend alapítója?",
+      "options": [
+        "III. Pál pápa",
+        "Loyolai Szent Ignác",
+        "Pázmány Péter",
+        "Tridenti zsinaton"
+      ],
+      "answer": "Loyolai Szent Ignác"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ 1568-ban kimondta a négy bevett vallás szabad gyakorlását Erdélyben.",
+      "options": [],
+      "answer": "tordai országgyűlés"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Milyen lengelmi jogulatásra emlékezetes az Emberi és Polgári Jogok Nyilatkozata?",
+      "options": [
+        "Rendi kiváltságok",
+        "Természetes jogok",
+        "Pápai hatalom",
+        "Királyi abszolutizmus"
+      ],
+      "answer": "Természetes jogok"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ szultán legyőzte a magyarokat a mohácsi csatában.",
+      "options": [],
+      "answer": "I. Szulejmán"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mi volt a névadója az amerikai kontinensnek?",
+      "options": [
+        "Kolumbusz Kristóf",
+        "Amerigo Vespucci",
+        "Fernando Magellán",
+        "Bartolomeu Diaz"
+      ],
+      "answer": "Amerigo Vespucci"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ rendelet abolitionized a jobbágyok személyes függését II. József alatt.",
+      "options": [],
+      "answer": "jobbágyrendelet"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Ki volt a portugál felfedezések legjelentősebb szervezője?",
+      "options": [
+        "Vasco da Gama",
+        "Bartolomeu Diaz",
+        "Tengerész Henrik",
+        "Kolumbusz Kristóf"
+      ],
+      "answer": "Tengerész Henrik"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A _____ 1711-ben Rákóczi és a Habsburgok között köttetett meg.",
+      "options": [],
+      "answer": "szatmári béke"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Melyik év jelöli a francia forradalom kezdetét?",
+      "options": [
+        "1776",
+        "1789",
+        "1799",
+        "1815"
+      ],
+      "answer": "1789"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az _____ egy hajótípus volt, amely alkalmas volt az óceáni utakra.",
+      "options": [],
+      "answer": "karavella"
+    }
+  ]
+}

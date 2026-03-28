@@ -1,0 +1,312 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Akropolisz",
+      "definition": "Erődített magaslat görög városokban, amely az ógörög poliszok katonai és vallási központja volt.",
+      "quote": "Az athéni akropolisz a történelem legfontosabb építészeti jellegű helye",
+      "text": "Az akropolisz szó szó szerinti jelentése: város csúcsa. Legismertebb az athéni akropolisz, ahol az ógörögök a legfontosabb templomaikat (például a Parthenónt) építették fel. Védett helyét hegyoldalon választották, amely mind katonailag, mind szimbolikusan megfelelő volt."
+    },
+    {
+      "id": 2,
+      "term": "Amfiteátrum",
+      "definition": "Kör vagy ovális alakú aréna, amelyet az ókori rómaiak építkezésének hagyománya szerint több szintből alakítottak ki, gladiátor- és állatviadaloknak, valamint kivégzéseknek helyt adva.",
+      "quote": "A Colosseum a világ legfantasztikusabb amfiteátruma volt",
+      "text": "Az amfiteátrum a görög teatrális építészetből fejlődött ki, de a rómaiak tökéletesítették. A legismertebb az 50 000 férőhelyes Colosseum Rómában. A név az amphitheatrum (mindkét oldalon nézőtér) görög szóból ered."
+    },
+    {
+      "id": 3,
+      "term": "Apostol",
+      "definition": "Jézus Nazáretinek a 12 kiválasztott tanítványa, akik később a keresztény vallás első missziós munkásainak bizonyultak.",
+      "quote": "Az apostolok Jézus legközelebbi tanítványai voltak",
+      "text": "Az apostolok: Péter, András, János, Jakab, Fülöp, Bartholomeus, Máté, Tamás, Jakab (Alfeus fia), Tádé, Simon és Júdás voltak. Pál apostol később csatlakozott hozzájuk. Az apostolok emlékei az Újszövetségben fennmaradtak."
+    },
+    {
+      "id": 4,
+      "term": "Arisztokrácia",
+      "definition": "A görög és római társadalomban az arisztokrácia az arisztokraták, azaz a nemesi és gazdag réteg uralmát jelenti, amely tradicionálisan a politikai hatalom birtokosa volt.",
+      "quote": "Az arisztokrácia szó görög eredetű: 'az legjobbak uralma'",
+      "text": "Az arisztokrácia (görögül: aristoi = legjobbak, kratos = uralom) hosszú ideig a poliszok politikai életét uralta. Athénban csak a demokrácia kialakulása után egyenlítődött ki a hatalom."
+    },
+    {
+      "id": 5,
+      "term": "Oligarchia",
+      "definition": "Államforma, amelyben szűk, kiváltságos réteg (oligarchák) gyakorolja az uralmat, rendszerint választott tisztségviselőkön keresztül.",
+      "quote": "Az oligarchia a szűk elit uralma",
+      "text": "Az oligarchia (görögül: oligos = kevés, archia = uralom) a demokrácia és abszolút monarchia közötti államforma. Spártában például az oligarchia típusú rendszer volt jellemző a két király és az efórok révén."
+    },
+    {
+      "id": 6,
+      "term": "Államvallás",
+      "definition": "Az a vallás, amelyet egy birodalom vagy állam kötelezően elfogadtat lakosságával, és amely állami támogatásban részesül.",
+      "quote": "A kereszténység a Római Birodalom államvallásává vált Kr. u. 380-ban",
+      "text": "Az államvallás intézménye azt jelenti, hogy az állam egy vallást választott az egyedüli törvényes formának. Nagy Theodosius 380-as ediktuma tette a kereszténységet a Római Birodalom államvallásává, amit követően a többi vallás gyakorlása tiltott lett."
+    },
+    {
+      "id": 7,
+      "term": "Biblia",
+      "definition": "A kereszténység és judaizmus legfontosabb szent irata, amely két részből áll: az Ószövetségből (zsidó vallási szövegek) és az Újszövetségből (keresztény szövegek).",
+      "quote": "A Biblia az első és második szövetség gyűjteménye",
+      "text": "Az Ószövetség a judaizmus alapirata, amely a Tórát (Mózes 5 könyve), a prófétai könyveket és egyéb írásokat tartalmazza. Az Újszövetség 4 evangéliumból, az Apostolok cselekedeteiből, páli és más levelekből, valamint a Jelenések könyvéből áll."
+    },
+    {
+      "id": 8,
+      "term": "Circus Maximus",
+      "definition": "Az ókori Róma legnagyobb kocsiverseny-pályája, ellipszis alakú, amely körülbelül 150 000 néző befogadására volt képes.",
+      "quote": "A Circus Maximus az antik világ legnagyobb szórakoztató létesítménye volt",
+      "text": "A Circus Maximus (Nagy Cirkusz) az Aventinus és Palatinus dombok között fekvő síkságon helyezkedett el. A hosszú, keskeny pálya közepén egy díszítményes fal (spina) futott keresztül. Heród király is használta ezt az építési mintát."
+    },
+    {
+      "id": 9,
+      "term": "Colosseum",
+      "definition": "Az ókori Róma legnagyobb amfiteátruma, amely körülbelül 50 000 néző befogadására volt alkalmas, és gladiátor-, állatviadalok és más gladiátorszórakoztatások helyszíne volt.",
+      "quote": "A Colosseum Róma építészeti ékköve volt",
+      "text": "A Colosseum (Flavius amfiteátrum) 72-80 között épült a Flavius dinasztia alatt. Négy szintes szerkezete, kő és tégla alapanyaga, valamint boltívei a római építészetnek a legértékesebb kivitelezett művei közé sorolták."
+    },
+    {
+      "id": 10,
+      "term": "Császár",
+      "definition": "A Római Birodalom legfelsőbb hatalma birtokosa, aki a szövetségesek, a seregek és az államvallás fölött gyakorolt teljes hatalmat.",
+      "quote": "A Caesar szó később az 'imperator' (hadúr) szinonimájává vált",
+      "text": "A Róma első császára Augustus volt (Kr. e. 27-Kr. u. 14). A császár címe későbbi hagyomány szerint a Caesar nevet viselő Julius Caesartól ered, bár ő technikai értelemben nem volt császár. A császári hatalom az eredeti köztársasági intézmények maradványa felett gyakoroltatott."
+    },
+    {
+      "id": 11,
+      "term": "Cserépszavazás (osztrakiszmosz)",
+      "definition": "Athén demokratikus intézménye, amelyben a polgárság a legveszélyesebb politikusok 10 éves száműzésérről döntött, a szavazatokat cseréplapra írva.",
+      "quote": "Az osztrakiszmosz a demokrácia önvédelmének eszköze volt",
+      "text": "Az osztrakiszmosz (görögül: ostrakon = cserép) Kleiszthenész reformjainak részét képezte. A szavazás azt a célt szolgálta, hogy ha valaki túlságosan népszerű lett és diktátori ambíciókat mutatott, száműzésre kerülhetett. Ez a procedúra azonban a Kr. e. 5. sz. közepén elhagyatott."
+    },
+    {
+      "id": 12,
+      "term": "Demagógia",
+      "definition": "Politikai módszer, amely az emberek érzelmeire és előítéleteire apellál, inkább az értelmes meggyőzés helyett, gyakran megtévesztő vagy hamis információ segítségével.",
+      "quote": "A demagógia a demokrácia egyik veszélye",
+      "text": "A demagógia (görögül: demos = nép, agoge = vezetés) a demokrácián belül jelent veszélyt, mivel a tömeget félrevezetett érzelmeik alapján można irányítani. Athénban a demokrácia késői szakaszában több demagóg vezetőnek is sikerült befolyásolni a népgyűlést."
+    },
+    {
+      "id": 13,
+      "term": "Demokrácia",
+      "definition": "Államforma, amelyben az állam hatalmát a nép gyakorolja, közvetlenül (közvetlen demokrácia) vagy képviselői útján (képviseleti demokrácia).",
+      "quote": "A demokrácia a nép uralma",
+      "text": "A demokrácia (görögül: demos = nép, kratos = uralom) először Athénban valósult meg a Kr. e. 5. sz.-ban. Az athéni közvetlen demokrácia az összes szabad polgár részvételét igényelte a döntéshozatalban a népgyűlésen (ekklészia)."
+    },
+    {
+      "id": 14,
+      "term": "Démosz",
+      "definition": "Az ógörög társadalmban a köznép, amely kereskedőkből, kézművesekből, földművesekből állt, és a szabad polgárok közül az alábbrendelt vagyoni rétegeket jelentette.",
+      "quote": "A démosz az Athén demokráciájának alapját képezte",
+      "text": "A démosz (görögül: nép) az arisztokráciától és rabszolgáktól megkülönböztetett réteg volt. Szolón reformjainak eredménye az volt, hogy a démosz fokozatosan politikai jogokat szerzett, amelyek végül Kleiszthenész és Periklész alatt teljes mértékben érvényre jutottak."
+    },
+    {
+      "id": 15,
+      "term": "Diaszpóra",
+      "definition": "A zsidó nép szétszóródása és elszóródása a Palesztinán kívüli világra, amely Kr. u. 70 után tömegessé vált a jeruzsálemi templom lerombolása után.",
+      "quote": "A diaszpóra a zsidóság szétszóródása volt",
+      "text": "A diaszpóra (görög: szétszórás) kifejezés az Ótestamentumban már előfordul kisebb szétszóródásokat illetően, de klasszikus értelemben Kr. u. 70-ből datálódik, amikor a rómaiak lerombolták a jeruzsálemi templomot. Ettől kezdve a zsidók világszerte letelepedtek."
+    },
+    {
+      "id": 16,
+      "term": "Dogma",
+      "definition": "Az egyház által kötelezően előírt hittétel, amelyet az egyház zsinataiban fogadtak el, és amely ellentmondása eretnekségnek minősült.",
+      "quote": "A Szentháromság-tan a kereszténység legfontosabb dogmája",
+      "text": "A dogma (görögül: doxa = vélemény, hitélet) az egyházi tanítás meghatározott, vitathatatlan formája. A niceai zsinat (Kr. u. 325) például a Szentháromság-tant dogmaként fogadta el, amely a Szűz Mária dogmájához hasonlóan az egyházi tanítás központi pontja maradt."
+    },
+    {
+      "id": 17,
+      "term": "Ekklészia / népgyűlés",
+      "definition": "Az athéni demokrácia legfontosabb intézménye, amelyen minden szabad polgár (csak férfiak) részt vehetett, és amely háborúról, békéről, törvényhozásról és tisztségviselőkről döntött.",
+      "quote": "Az ekklészia az athéni demokrácia szíve volt",
+      "text": "Az ekklészia (görögül: ek-kalein = összehívni) rendszerint 20+ éves szabad athéni férfiak közgyűlése volt. Negyedévenként (vagy szükség szerint) ülésezett az Agórán vagy a Pnyx dombon. A döntések nyílt szavazás alapján születtek meg."
+    },
+    {
+      "id": 18,
+      "term": "Evangélium",
+      "definition": "Az Újszövetség része, amely Jézus életét, tanítását és feltámadását meséli el; négy evangélista: Máté, Márk, Lukács és János írta őket.",
+      "quote": "Az evangélium 'örömhír' jelentésű",
+      "text": "Az evangélium (görögül: eu-angelion = örömhír) szó az első keresztények által használt kifejezés volt Jézus üzenete leírására. Az Újszövetség négy evangéliumot tartalmaz, amelyek közül a Márk-evangélium a legkorábbi Kr. u. ~65-70 körül, míg a János-evangélium később, a Kr. u. 1. sz. végén keletkezett."
+    },
+    {
+      "id": 19,
+      "term": "Filozófia",
+      "definition": "Az élet, világ, tudás és erkölcs kérdéseit kutató gondolkodásmód, amely az ógörögöknél fejlődött ki és befolyásolt minden későbbi nyugati gondolkodást.",
+      "quote": "A filozófia a görög gondolkodás noblesse-je volt",
+      "text": "A filozófia (görögül: philo = szeretni, sophia = bölcsesség) az ógörögökben egy gyökeresen új világszemlélet terjedését jelentette, amely az ésszerűségen alapult. Thalész, Szókratész, Platón és Arisztotelész voltak a görög filozófia nagy mesterei."
+    },
+    {
+      "id": 20,
+      "term": "Hellenizmus",
+      "definition": "Az a kulturális és történelmi időszak Nagy Sándor hódításai után, amelyben a görög kultúra keveredett az egyiptomi, perzsa és közép-ázsiai hatásokkal.",
+      "quote": "A hellenizmus az ógörög és keleti kultúrák szintézise volt",
+      "text": "A hellenizmus (Kr. e. 323-tól Kr. u. 30-ig körülbelül) az alexandriai időszak és Nagy Sándor halála utáni korszak kulturális lenyomata. Az epigonák (Nagy Sándor utódai) új városokat alapítottak, amelyekben a görög és keleti kultúra keveredett, például Alexandriában Egyiptomban."
+    },
+    {
+      "id": 21,
+      "term": "Héber Biblia / Ószövetség",
+      "definition": "A zsidóság alapirata, amely három részből áll: a Tórából (Mózes 5 könyve), a próféták könyveiből és az egyéb írásokból, amelyek összesen 39 vagy 46 könyvet tartalmaznak.",
+      "quote": "A Héber Biblia a judaizmus szellemi alapja",
+      "text": "A Héber Biblia (héberül: TaNaK) a zsidóság legszentebb irata, amely a teremtéstől kezdve az Újszövetség időpontjáig meséli el Isten történetét az emberrel. Az Ószövetség keresztény elnevezése ugyanerre az írásgyűjteményre vonatkozik."
+    },
+    {
+      "id": 22,
+      "term": "Héliaia / esküdtbíróság",
+      "definition": "Az athéni demokrácia igazságszolgáltatási intézménye, amely körülbelül 6000 szavazóból állt, és sorsolás alapján alakult meg, sok jogi ügyben döntve szavazat útján.",
+      "quote": "A héliaia a nép közvetlenül gyakorolt igazságszolgáltatása volt",
+      "text": "A héliaia (görögül: helios = nap, mivel a szabadban ülésezett) az athéni nép legfontosabb igazságszolgáltatási szerve volt. A 6000 tag sorsolás útján választódott meg évente, és az összes horon (büntetési ügyeken) kívül sok más peres ügyekben is ítélkeztek."
+    },
+    {
+      "id": 23,
+      "term": "Jeruzsálemi templom",
+      "definition": "A zsidóság vallási központja, amelyet Salamon építtetett Kr. e. 10. sz.-ban, a babiloniak lerombolták Kr. e. 586-ban, a rómaiak véglegesen lerombolták Kr. u. 70-ben, után csak a Siratófal maradt fenn.",
+      "quote": "A jeruzsálemi templom az ókori világ legszentebb épülete volt",
+      "text": "A jeruzsálemi templom (héberül: Beit ha-Mikdash) a frigyláda és a Tízparancsolat kőtáblái szimbólumaiként működött. A Rómaiak által Kr. u. 70-ben leromboltatása után a zsidóság vallási élete a zsinagógákra és a rabbinikus tradícióra alapozódott. A nyugati fal (Siratófal) az egyetlen fennmaradt rész."
+    },
+    {
+      "id": 24,
+      "term": "Keresztény vallás",
+      "definition": "Jézus Nazáretinek tanításaira alapuló egyistenhívő vallás, amelynek középpontjában a szeretet, megbocsátás és üdvösség ígérete állnak, és amely a Római Birodalom államvallásává vált.",
+      "quote": "A kereszténység szeretet és megbocsátás vallása",
+      "text": "A keresztény vallás (keresztül: christus = Krisztus, aki szó szerint 'felkent' vagy 'Messiás') a Kr. u. 1. sz.-ban kezdett terjedni. Az egyház később hierarchikus szervezetet alakított ki (püspökök, papok), amely a középkor szerkezete volt."
+    },
+    {
+      "id": 25,
+      "term": "Keresztség",
+      "definition": "A keresztény vallás akaratát kifejező szentsége, amelyben a hívő vízzel való megtisztulásban részesül, szimbolizálva bűnei megbocsátását és a Krisztussal való egyesülést.",
+      "quote": "A keresztség a христyan élet kezdete",
+      "text": "A keresztség (görögül: baptizo = bemeríteni) a Keresztelő Szent János hagyományára nyúlik vissza, aki Jézusnak is megkeresztelte magát. A keresztség a keresztény közösségbe való belépés szentsége, amelyet víz segítségével végeznek."
+    },
+    {
+      "id": 26,
+      "term": "Kr. e. / Kr. u.",
+      "definition": "Időszámítási rövidítések: Kr. e. (Krisztus előtt) a Jézus születése előtti időszakot, Kr. u. (Krisztus után) pedig azt követő időszakot jelöl, amely a nyugati világtörténete alapjaként szolgál.",
+      "quote": "A Kr. e. és Kr. u. az egész nyugati időszámítás alapja",
+      "text": "A Krisztus-központú időszámítást (Dionysius Exiguus szerzőségével) a Nyugat közvetlenül használja. A Kr. e. 1. év után közvetlenül a Kr. u. 1. év követke zik, nulla év nem létezik. Ez az időszámítás világszerte elterjedt, bár modern csillagászatban más rendszert használnak."
+    },
+    {
+      "id": 27,
+      "term": "Limes",
+      "definition": "A Római Birodalom erődített határvédelmi rendszere, amely barbár betörések ellen védelmezett több száz kilométeres hosszában Germánia és Dacia irányából.",
+      "quote": "A limes a Birodalom szigetét jelentette a barbár világtengeren",
+      "text": "A limes (latin: határvonal) az 1. és 4. sz. között terjedt el a Birodalom szélein. Germanikum és a Dunán túli limes is létezett. Aquincum (mai Óbuda) a pannóniai limes egy fontos őrtornya volt. A limes végül nem tudott ellenállni a hunoknak és más nomád népeknek."
+    },
+    {
+      "id": 28,
+      "term": "Messiás",
+      "definition": "Héber szó jelentése: 'felkent'; a zsidóság által várt szabadító, akit az ősi próféciák ígértek meg, hogy helyreállítja az Izrael királyságát; a kereszténység szerint Jézus volt a Messiás.",
+      "quote": "A Messiás az ígéret személyesítője volt",
+      "text": "A Messiás-várakozás a zsidó vallásban közvetlenül a király-felkenés hagyományából ered. Az első keresztények Jézust ismerték el Messiásnak, amit a zsidóság végül nem fogadott el. A Messiás-várakozás a judaizmusban élő reménység maradt."
+    },
+    {
+      "id": 29,
+      "term": "Misszió",
+      "definition": "A keresztény vallás szervezett terjesztése és hirdetése, amelyet az apostolok és később az egyház vezetői végeztek az Óriási Birodalom és azon túli területeken.",
+      "quote": "A misszió a kereszténység terjedésének eszköze volt",
+      "text": "A misszió (latin: mittere = küldeni) a Máté evangéliumában a 'nagy megbízatás' értelmezéséből adódott. Pál apostol a pogány missziós munkát végzett, amely végül a kereszténység egyetemes vallássá tette. A középkorban a kolduló rendek (franciskánusok, dominikánusok) végezték az aktív missziós munkát."
+    },
+    {
+      "id": 30,
+      "term": "Mitológia",
+      "definition": "Az istenek, hősök és természetfeletti lények történetei, amelyeket az ógörög kultúra tradicionalisan továbbított és amelyek az görög irodalom, képzőművészet és vallási szokások alapját képezték.",
+      "quote": "A görög mitológia az nyugati gondolkodás alapkultúrája",
+      "text": "A görög mitológia (görögül: mythos = történet, logia = tudomány) az Iliász és az Odüsszeia nagy eposzaiból, valamint Héziodosz Theogoniájából ismert. A mitológia nem csak vallási, hanem kulturális és irodalmi jelentős úgyforrás volt az ógörögöknél."
+    },
+    {
+      "id": 31,
+      "term": "Monoteizmus / egyistenhit",
+      "definition": "Vallási rendszer, amely egyetlen istenben hisz; az első monoteista vallás a judaizmus volt, amelyet később a kereszténység és az iszlám követett.",
+      "quote": "A monoteizmus a judaizmussal kezdődött",
+      "text": "A monoteizmus (görögül: mono = egy, theos = isten) azt jelenti, hogy a hívő egyetlen istenben hisz. Az ógörög és ókori afrikus, ázsiai államok politeiszták voltak (sokisten-hívők). A judaizmus az első vallás volt, amely szisztematikusan egyistenhitben hisz, amit Mózes tanított."
+    },
+    {
+      "id": 32,
+      "term": "Olümpiai játékok",
+      "definition": "Az ógörögség legfontosabb nemzeti ünnepsége, amelyet Kr. e. 776-tól négyévente tartottak Zeusz tiszteletére Olümpiában, sportversenyeket, kultúrális versenyeket és vallási szertartásokat tartalmazva.",
+      "quote": "Az olümpiai játékok az ógörögség legrészletezettebb szórakoztatása voltak",
+      "text": "Az olümpiai játékok (görögül: Olympia = Zeusz templom) Kr. e. 776-ból induló tradíciója körülbelül 12 évszázadig folytatódott. Az olümpiadok számlálása (4 év = 1 olimpiásza) az ógörög történelem időszámítási alapja volt. A játékaink futás, birkózás, pankrátion (nyers harc), fogathajtás és egyéb sportákat tartalmaztak."
+    },
+    {
+      "id": 33,
+      "term": "Parthenón",
+      "definition": "Az ógörögség legfontosabb és legragyogóbb temploma, amely a Pallasz Athéné istennőnek volt dedikálva, az athéni akropoliszon helyezkedett el, dór stílusban, Periklész alatt építtetett meg (Kr. e. 5. sz.).",
+      "quote": "A Parthenón az ógörög építészet csúcspontja",
+      "text": "A Parthenón (görögül: parthenos = szűz) Kr. e. 447-432 között épült az Iktinosz és Kallikreész tervezése alapján. Fríza (díszmezei) és a Gótikus stílus előfutáraként tisztázza a görög építészeti elveket. A Parthenón-szobor (Fidiász műve) legendája alapján 40 láb magas chryselephantine szobor volt."
+    },
+    {
+      "id": 34,
+      "term": "Polisz",
+      "definition": "Az ógörög városállam, amely egy város, annak körülötte lévő vidék és az ezekben lakó szabad polgárok közösségéből állt, és amely autonóm politikai egységként működött.",
+      "quote": "A polisz az ógörög politikai világ alapegysége volt",
+      "text": "A polisz (görögül: polis = város) az ógörogség mintegy 1200 városállamra oszlott szét. Athén és Spárta voltak a legfontosabbak, de voltak kisebb-nagyobb poliszok is. A polisz szerkezete: a város (astyű) és a vidék (hórá), amely közösen gazdálkodott és közösen hoztak politikai döntéseket."
+    },
+    {
+      "id": 35,
+      "term": "Próféta",
+      "definition": "A zsidó és későbbi keresztény vallásban az Isten akaratának közvetítője, aki egyúttal tanított, figyelmeztetett és ígérgetett, valamint erkölcsi normákat hirdetet.",
+      "quote": "A próféták Izrael szellemi lelkiismerete voltak",
+      "text": "A próféta (héberül: navi = beszélő) a Héber Bibliaből neves próféták közé tartozik Mózes, Illés, Jeremiás, Ézsaiás és Dániel. A próféták rendszerint szociális kritikákat megfogalmaztak a rossz vezetőkkel szemben és a monoteizmus feladatát hirdetilk. A fő-prófétai korszak körülbelül Kr. e. 8-4. sz. között volt."
+    },
+    {
+      "id": 36,
+      "term": "Püspök",
+      "definition": "Az első keresztény közösségek vezetője (görögül: episzkoposz = felügyelő), akinek feladata a helyi egyházi közösség vezetése, a liturgia végzése és a hittételek egyeztetése volt.",
+      "quote": "A püspök az első keresztény közösség spirituális vezetője",
+      "text": "A püspök (görögül: episzkoposz) a diakonátus és prezbitérség között közvetítő pozícióban állt az egyházi hierarchiában. Később a püspökök a széder és metropolita felügyeletét kapták. Az első jeruzsálemi püspök Szent Péter volt."
+    },
+    {
+      "id": 37,
+      "term": "Sztratégosz",
+      "definition": "Az athéni demokráciában a tíz évente választott hadvezetők egyike, akik az alkalmazás mellett újraválaszthatók voltak, és egyre nagyobb politikai befolyást szereztek.",
+      "quote": "A sztratégoszok az athéni demokrácia legfontosabb politikai szereplői voltak",
+      "text": "A sztratégosz (görögül: strategos = hadúr) egy-egy fülé által választott tíz parancsnok volt. A sorsolás helyett választás alapján kerültek tisztségre, ami nagyobb politikai befolyást adott. Periklész és más híres politikusok sztratégoszok voltak."
+    },
+    {
+      "id": 38,
+      "term": "Tízparancsolat",
+      "definition": "Az Ótestamentum szerint az Istennek Mózes által adott isteni törvények, amelyek az erkölcsi magatartás alapjaként szolgáltak a judaizmusban és később a kereszténységben is.",
+      "quote": "A Tízparancsolat az erkölcs alapvető normái",
+      "text": "A Tízparancsolat (héberül: Aseres ha-Devarim) a Sínai-hegyből Mózes által kapott isteni törvények. Az első négy parancsola az Istenhez való viszonyról szól, a többi hat az emberek közötti viszonyról. Ez az alapja az összes abrahámházi vallásnak (judaizmus, kereszténység, iszlám)."
+    },
+    {
+      "id": 39,
+      "term": "Türannisz",
+      "definition": "Az ógörogségben egy erőszakkal hatalomra jutott egyeduralkodó, aki gyakran népbarát politikát folytatta, de törvényellenesnek számított az arisztokrata rendszeren belül.",
+      "quote": "A türannisz az ógörögségben erőszakos hatalom volt",
+      "text": "A türannisz (görögül: tyrannos = úr) nem volt szükségszerűen gonosz vagy zsarnokság, bár így néztek rá. Peiszisztratosz Athénban popul populáris türannoszként uralkodott, és kulturális fellendülést hoztak. Az idővel azonban e rendszer szavaztamak lenullázott kívül csak az arisztokratikus és demokritikus rendszerek maradtak meg."
+    },
+    {
+      "id": 40,
+      "term": "Újszövetség",
+      "definition": "A Biblia második része, amely négy evangéliumot (Máté, Márk, Lukács, János), az Apostolok cselekedeteit, páli és más apostoli leveleket, valamint a Jelenések könyvét tartalmazza.",
+      "quote": "Az Újszövetség a keresztény vallás alaptexture",
+      "text": "Az Újszövetség (Új szerződés) a Kr. u. 1. század során fokozatosan összeállt. Az első keresztény közösségek az evangéliumokat és leveleket használták. A niceai zsinat (Kr. u. 325) jóváhagyta az Újszövetség 27 könyvét mint kanonikus szövegeket."
+    },
+    {
+      "id": 41,
+      "term": "Úrvacsora",
+      "definition": "A keresztény vallás szentsége, amely Jézus utolsó vacsoráján alapul, ahol a kenyér a Krisztus teste, a bor a Krisztus vére szimbólumként szerepel, és amely az egyházi liturgia központi pontja.",
+      "quote": "Az úrvacsora a keresztény életnek az intellekctuális oldala",
+      "text": "Az úrvacsora (görögül: eucharistia = hálá adás) a katolikus, ortodox és protestáns egyházakban is központi szentsége. Az elméleti értelmezvények később eltértek (transszubsztanciáció vs. szimbolikus értelmezés), de az alapvető funkciója az egyetemes vallási közösség létrehozása maradt."
+    },
+    {
+      "id": 42,
+      "term": "Zsidó vallás",
+      "definition": "Az első monoteista vallás, amelyben Jahve az egyetlen isten, és amelynek alapjai a Tóra, a próféták szövegei és rabbinikus tradíciók; alapja a judaizmus az egyik mai nagy világvallásnak.",
+      "quote": "A judaizmus az első monoteista vallás",
+      "text": "A zsidó vallás (héberül: Yahadut) az Ábrahám, Mózes és a próféták által alapított tradícióra épül. A judaizmusnak számos irányzata fejlődött ki (ortdox, konzervativ, reform), de mindegyik egyetért az Istenben és a Tórában. A zsidó nép története és vallása szorosan összefonódott."
+    },
+    {
+      "id": 43,
+      "term": "Zsinagóga",
+      "definition": "A zsidó közösségi ház, amelyben a Tóra olvasása és magyarázata történt, valamint ahol a közösség szertartásokat végzett; intézményi funkciót vett át a templom lerombolása után.",
+      "quote": "A zsinagóga a zsidó közösség szellemi otthona",
+      "text": "A zsinagóga (görögül: synagoge = összejövetel) a babiloni fogsága alatt fejlődött ki, amikor a jeruzsálemi templom nem volt elérhető. A zsinagóga vezetője az azzán volt, a Tórát a rabbi magyarázta. A zsinagóga szerkezete általában tekla (szekrény a szent iratoknak), székek és bima (emelkedett olvasópult)."
+    },
+    {
+      "id": 44,
+      "term": "Zsinat",
+      "definition": "Az egyházi vezetők (püspökök) gyűlése, amely vallási dogmákat és vitás kérdéseket döntött; az első és legfontosabb a niceai zsinat volt (Kr. u. 325).",
+      "quote": "A zsinatok az egyházi tanítás meghatározójává váltak",
+      "text": "A zsinat (görögül: synodos = út-junto) az egyház egyre nagyobb szervezetének igénye alapján fejlődött ki. Az első niceai zsinat (Kr. u. 325) alatt Constantinus alatt 318 püspök jelent meg, és elfogadták a Szentháromság-tant. Az igazi egyetemes (ekumenikus) zsinatok később Efezus, Kalcedon és mások voltak."
+    }
+  ]
+}

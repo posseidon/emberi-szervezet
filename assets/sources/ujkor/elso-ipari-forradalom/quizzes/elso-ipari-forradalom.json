@@ -1,0 +1,51 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "elso-ipari-forradalom",
+  "quiz": [
+    {
+      "type": "MC",
+      "question": "Melyik ország volt az első ipari forradalom központja?",
+      "options": [
+        "Franciaország",
+        "Németország",
+        "Anglia",
+        "Olaszország"
+      ],
+      "answer": "Anglia"
+    },
+    {
+      "type": "BLANK",
+      "question": "James Watt ________ gépének továbbfejlesztésével az ipari forradalom műszaki alapja helyreállt.",
+      "target": "gőz",
+      "hint": "energiaforrás"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik iparág volt az első ipari forradalom középpontjában?",
+      "options": [
+        "Vasipar",
+        "Szénbányászat",
+        "Pamutgyártás",
+        "Építőipar"
+      ],
+      "answer": "Pamutgyártás"
+    },
+    {
+      "type": "BLANK",
+      "question": "George Stephenson első vasútvonala a ________ és ________ városok közötti volt.",
+      "target": "Stockton-Darlington",
+      "hint": "1825"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az első ipari forradalom fő szociális problémája?",
+      "options": [
+        "Az arisztokrácia szegénysége",
+        "A munkások kizsákmányolása, hosszú munkaidő, alacsony bér, gyermekmunka",
+        "Az oktatás elmaradása",
+        "A politikai szavazati jog hiánya"
+      ],
+      "answer": "A munkások kizsákmányolása, hosszú munkaidő, alacsony bér, gyermekmunka"
+    }
+  ]
+}

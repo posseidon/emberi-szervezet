@@ -1,0 +1,284 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Alaptörvény",
+      "definition": "Magyarország legmagasabb szintű jogszabálya, amely 2012. január 1-jén lépett hatályba. Meghatározza az állam berendezkedését, az állampolgári jogokat és a hatalmi ágak rendszerét.",
+      "quote": "Az állami berendezkedés alapja",
+      "text": "Az Alaptörvény öt részből áll és módosításához kétharmados parlamenti többség szükséges. A köztársasági elnök kétszer választható meg egymás után."
+    },
+    {
+      "id": 2,
+      "term": "Államforma",
+      "definition": "A Magyarország parlamentáris köztársaság, ahol a kormány a parlamenti többség bizalmából gyakorolja a végrehajtó hatalmat.",
+      "quote": "Magyarország államberendezkedése",
+      "text": "A parlamentáris rendszerben az államfő szimbolikus, a valódi végrehajtó hatalom a miniszterelnöknél van. Ez az 1989-es rendszerváltozás eredménye."
+    },
+    {
+      "id": 3,
+      "term": "Állampolgári jogok",
+      "definition": "A polgárok számára biztosított alapvető jogosultságok, mint például a szólás-, vallás- vagy gyülekezési szabadság. Ezek a jogállam működésének alapját képezik.",
+      "quote": "Az emberek alapvetős szabadsága",
+      "text": "Az Alaptörvény rögzíti a szólásszabadságot, a vallásszabadságot, a tulajdonhoz való jogot és a jogegyenlőséget. Ezek korlátozása szigorú szabályokhoz kötött."
+    },
+    {
+      "id": 4,
+      "term": "Alkotmánybíróság",
+      "definition": "Az Alaptörvény védelmét ellátó független szerv, amely megsemmisíti az alkotmányellenes jogszabályokat és döntései mindenkire kötelezőek.",
+      "quote": "Az Alaptörvény őre",
+      "text": "Az Alkotmánybíróság 15 tagból áll, akiket az Országgyűlés választ meg 12 évre, kétharmados többséggel. Döntéseit nem lehet fellebbezni."
+    },
+    {
+      "id": 5,
+      "term": "Bírói függetlenség",
+      "definition": "Az igazságszolgáltatás alapelve, amely biztosítja, hogy a bírók kizárólag a törvények alapján, politikai befolyástól mentesen ítélkezzenek.",
+      "quote": "A bírói hatalom függetlensége",
+      "text": "A függetlenség garantálja az igazságszolgáltatás pártatlanságát. A bírók nem utasíthatók, politikailag nem is befolyásolhatók."
+    },
+    {
+      "id": 6,
+      "term": "Demokratikus jogállam",
+      "definition": "Olyan politikai rendszer, amelyben a nép választások útján gyakorolja hatalmát, és a hatalmi ágak egymást ellenőrzik. Az emberi jogok védelme központi.",
+      "quote": "Demokrácia és jogállam egysége",
+      "text": "A magyar rendszer demokratikus jogállamnak tekinti magát. Ez azt jelenti, hogy a hatalom korlátozottan működik és az alapjogokat védi."
+    },
+    {
+      "id": 7,
+      "term": "Főispán",
+      "definition": "A vármegyei kormányhivatal vezetője, feladata az államigazgatás helyi képviselete és a kormányzati döntések végrehajtása.",
+      "quote": "Az államigazgatás közepi szintje",
+      "text": "A főispánt a kormány nevezi ki. Ő koordinálja a dekoncentrált államigazgatási szerveket a területén."
+    },
+    {
+      "id": 8,
+      "term": "Interpelláció",
+      "definition": "Országgyűlési képviselő által a kormány tagjához intézett kérdés, célja a kormányzati munka ellenőrzése és a nyilvánosság biztosítása.",
+      "quote": "Parlamentáris ellenőrzési eszköz",
+      "text": "Az interpelláció szóban vagy írásban előterjeszthető. Az Országgyűlésnek rendszeres időpontot kell kijelölnie az interpellációk megvitatására."
+    },
+    {
+      "id": 9,
+      "term": "Jogállam",
+      "definition": "Olyan berendezkedés, ahol az állam és a polgárok tevékenysége egyaránt a törvényekhez kötött. A jogbiztonság és az egyenlő elbírálás alapelv.",
+      "quote": "Törvények hatálya mindenkire",
+      "text": "A jogállam az önkényes hatalom meg akadályozása érdekében jött létre. Magyarország ezt a célt tűzte ki az Alaptörvénnyel."
+    },
+    {
+      "id": 10,
+      "term": "Képviselő-testület",
+      "definition": "A helyi önkormányzat döntéshozó szerve, amely helyi rendeleteket alkot, elfogadja a költségvetést és irányítja az önkormányzat munkáját.",
+      "quote": "A helyi törvényhozás",
+      "text": "A képviselő-testületeket 4 évente választják meg. Döntéseit nyílt üléseken hozza meg."
+    },
+    {
+      "id": 11,
+      "term": "Konstruktív bizalmatlansági indítvány",
+      "definition": "Parlamenti eszköz, amely egyszerre váltja le a miniszterelnököt és jelöli ki az utódját. A kormányzati stabilitást szolgálja.",
+      "quote": "Bizalomváltás stabilizálása",
+      "text": "Ez az eszköz megakadályozza, hogy a parlament vakuum létrehozásával lecserélhesse a miniszterelnököt. Új vezetőt kell egyidejűleg választani."
+    },
+    {
+      "id": 12,
+      "term": "Köztársasági elnök",
+      "definition": "Az államfő, aki Magyarországon a nemzet egységét testesíti meg és őrködik a demokratikus működés felett. Feladatai közé tartozik a törvények aláírása és a miniszterelnök megbízása.",
+      "quote": "Az állam szimbolikus képviselete",
+      "text": "A köztársasági elnöket az Országgyűlés választja öt évre, titkos szavazással, kétharmados többséggel. Legfeljebb kétszer választható meg."
+    },
+    {
+      "id": 13,
+      "term": "Közvetett demokrácia",
+      "definition": "Olyan rendszer, ahol a polgárok választott képviselők útján gyakorolják hatalmukat. A parlamentáris berendezkedés ennek megvalósulása.",
+      "quote": "Képviseleti demokrácia",
+      "text": "A közvetett demokrácia lehetővé teszi, hogy nagy számú polgár részt vegyen a döntéshozatalban képviselőin keresztül."
+    },
+    {
+      "id": 14,
+      "term": "Közvetlen demokrácia",
+      "definition": "Politikai döntéshozatali forma, ahol a polgárok közvetlenül, például népszavazás útján döntenek. A képviseleti rendszer kiegészítője.",
+      "quote": "A nép közvetlenül szavaz",
+      "text": "Magyarországon a közvetlen demokrácia eszköze a népszavazás. Ez speciális ügyekben alkalmazható, de nem az Alaptörvényt vagy költségvetést érinthetik."
+    },
+    {
+      "id": 15,
+      "term": "Kúria",
+      "definition": "A magyar igazságszolgáltatás legfelsőbb bírói fóruma, amely jogegységi határozatokat hoz és felügyeli az alsóbb szintű bíróságokat.",
+      "quote": "Az igazságszolgáltatás csúcsa",
+      "text": "A Kúria biztosítja a bírósági ítélkezés egységét. Fellebbezéseket bír el és jogegységi határozatokat hoz."
+    },
+    {
+      "id": 16,
+      "term": "Mentelmi jog",
+      "definition": "A képviselők személyes védelme, amely biztosítja, hogy munkájuk során ne érje őket jogi retorzió. Csak az Országgyűlés engedélyével vonhatók eljárás alá.",
+      "quote": "Parlamentáris függetlenség",
+      "text": "A mentelmi jog kettős védelmet jelent. A képviselőt nem vonhatják felelősségre szavazataiért és felszólalásaiért."
+    },
+    {
+      "id": 17,
+      "term": "Népszavazás",
+      "definition": "A közvetlen demokrácia eszköze, amelyben a választópolgárok közvetlenül döntenek egy adott kérdésről. Érvényességéhez meghatározott részvételi arány szükséges.",
+      "quote": "A nép szavazata",
+      "text": "Magyarországon a népszavazás érvényes, ha a választók több mint fele részt vesz. Nem lehet népszavazást tartani az Alaptörvény módosításáról."
+    },
+    {
+      "id": 18,
+      "term": "Önkormányzat",
+      "definition": "A helyi közösségek által választott testület, amely a helyi ügyekben önállóan dönt. Feladatai közé tartozik az oktatás, a közművek és a szociális ellátás.",
+      "quote": "Helyi önrendelkezés",
+      "text": "Az önkormányzatok nagymértékben függetlenek a központi hatalomtól. Saját költségvetésük és bevételrendszerük van."
+    },
+    {
+      "id": 19,
+      "term": "Parlamenti frakció",
+      "definition": "Az azonos párthoz tartozó képviselők csoportja az Országgyűlésben, amely koordinálja a párt parlamenti munkáját és képviseli álláspontját.",
+      "quote": "Párti egység a parlamentben",
+      "text": "A frakciók szervezik az Országgyűlésben a párt munkáját. Közös álláspontokat alakítanak ki és közösen szavaznak."
+    },
+    {
+      "id": 20,
+      "term": "Parlamenti küszöb",
+      "definition": "A parlamentbe jutáshoz szükséges minimális szavazatarány. Magyarországon ez az érték 5%.",
+      "quote": "A bejutás feltétele",
+      "text": "A parlamenti küszöb a kisebb pártok számára akadályt jelent. Ez biztosítja, hogy kevés, széttöredezett párttal kell dolgoznia a kormánynak."
+    },
+    {
+      "id": 21,
+      "term": "Polgármester",
+      "definition": "A település végrehajtó vezetője, aki irányítja a helyi önkormányzat munkáját és képviseli a közösséget. A lakosság közvetlenül választja.",
+      "quote": "A helyi végrehajtó hatalom",
+      "text": "A polgármestert a helyi választók közvetlenül választják meg. Ő a helyi önkormányzat vezetője és a település képviselete."
+    },
+    {
+      "id": 22,
+      "term": "Sarkalatos törvények",
+      "definition": "A legfontosabb területeket (pl. választási rendszer, nemzetiségi jogok) szabályozó, kétharmados többséget igénylő törvények. Stabilitást biztosítanak a jogrendszerben.",
+      "quote": "Súlyos jogszabályok",
+      "text": "A sarkalatos törvények védik az alapvető intézményeket a könnyelmű módosításoktól. Ez az Alaptörvény egy fontos biztosítéka."
+    },
+    {
+      "id": 23,
+      "term": "Többségi választási rendszer",
+      "definition": "Olyan rendszer, amelyben a legtöbb szavazatot szerző jelölt nyer. Egyszerű, de a kisebb pártoknak hátrányosabb.",
+      "quote": "A legtöbben nyernek",
+      "text": "A többségi rendszer biztosítja, hogy egy jelölt direkt támogatást szerez. De sok szavazat veszhet el."
+    },
+    {
+      "id": 24,
+      "term": "Ügyészség",
+      "definition": "Az állam nevében eljáró szerv, amely képviseli a vádat és felügyeli a nyomozás törvényességét. Élén a legfőbb ügyész áll.",
+      "quote": "A vád képviselete",
+      "text": "Az ügyészség függetlenül működik. Büntetőeljárásokat kezdeményez és nyomon követi azokat."
+    },
+    {
+      "id": 25,
+      "term": "Vegyes választási rendszer",
+      "definition": "A többségi és arányos választási elveket ötvöző rendszer. Magyarországon a parlamenti választásokat így rendezik.",
+      "quote": "Kétféle választás egyszerre",
+      "text": "A vegyes rendszer Magyarországon 106 képviselőt egyéni választókerületben, 93-at pedig pártlistáról választ."
+    },
+    {
+      "id": 26,
+      "term": "1989: Alkotmánymódosítás",
+      "definition": "Az alkotmánymódosítás megteremti a többpártrendszert és a demokratikus jogállam alapjait. Ez jelenti a rendszerváltozás jogi kezdetét.",
+      "quote": "A demokrácia jogi alapja",
+      "text": "Az 1989-es módosítás lehetővé tette a többpárti választásokat. Ez az egyeztető kerekasztal tanácskozásainak eredménye volt."
+    },
+    {
+      "id": 27,
+      "term": "1990: Első szabad választások",
+      "definition": "Az első szabad országgyűlési választások Magyarországon. Létrejön a demokratikus kormányzati rendszer.",
+      "quote": "Magyarország demokratikus újjászületése",
+      "text": "Az 1990-es választások az Antall József-kormányhoz vezettek. Ez indította el a rendszerváltást a gyakorlatban."
+    },
+    {
+      "id": 28,
+      "term": "1995: Bokros-csomag",
+      "definition": "A Horn-kormány bevezeti a Bokros-csomagot a gazdaság stabilizálására. Ezzel csökken az ország adóssághelyzete.",
+      "quote": "Gazdasági szanálás",
+      "text": "A Bokros-csomag szigorú költségvetési kiigazítás volt. Rövid ideig fájdalmas volt, de hosszú távú stabilizációt hozott."
+    },
+    {
+      "id": 29,
+      "term": "1998: Orbán Viktor kormánya",
+      "definition": "Orbán Viktor első kormánya hivatalba lép. Megerősödik a konzervatív politikai irány.",
+      "quote": "Jobboldali politika kezdete",
+      "text": "Orbán Viktor 1998-2002 között volt miniszterelnök. Ez a konzervatív fordulat kezdete az 1994-1998-as szocialista-liberális kormányzat után."
+    },
+    {
+      "id": 30,
+      "term": "2002: MSZP-SZDSZ koalíció",
+      "definition": "Az MSZP–SZDSZ koalíció kormányra kerül. Medgyessy Péter miniszterelnök a \"jóléti rendszerváltás\" programját hirdeti meg.",
+      "quote": "Szociális politikai fordulat",
+      "text": "A Medgyessy-kormány szociális kiadásokat növelt. Ez azonban gazdasági problémákat okozott később."
+    },
+    {
+      "id": 31,
+      "term": "2004: Gyurcsány kormánya",
+      "definition": "Gyurcsány Ferenc kormánya alakul meg Medgyessy lemondása után. Az év decemberében eredménytelen népszavazás zajlik a kettős állampolgárságról.",
+      "quote": "Politikai váltás és megpróbáltatások",
+      "text": "A Gyurcsány-kormány az EU-csatlakozás után lépett fel. Számos kihívással kellett szembenézni."
+    },
+    {
+      "id": 32,
+      "term": "2006: Gyurcsány második ciklusa",
+      "definition": "A Gyurcsány-kormány második ciklusa kezdődik, az \"őszödi beszéd\" nyilvánosságra kerülése politikai válságot okoz.",
+      "quote": "A megbízhatóság válsága",
+      "text": "Az \"őszödi beszédben\" Gyurcsány bevallotta, hogy hazudott a választóktestületnek. Ez súlyos politikai válságot okozott."
+    },
+    {
+      "id": 33,
+      "term": "2009: Bajnai Gordon kormánya",
+      "definition": "Bajnai Gordon szakértői kormánya alakul a gazdasági válság kezelésére. Jelentős megszorításokkal stabilizálja a gazdaságot.",
+      "quote": "Gazdaságügyi válságkezelés",
+      "text": "Bajnai Gordon nem párt-politikus volt. Technokrata megoldást próbált adni a gazdasági válságra."
+    },
+    {
+      "id": 34,
+      "term": "2010: FIDESZ-KDNP kétharmados győzelme",
+      "definition": "A FIDESZ–KDNP kétharmados győzelmet arat a választásokon. Az új politikai többség alkotmányozásba kezd.",
+      "quote": "Politikai fordulat",
+      "text": "A 2010-es választások után Orbán Viktor harmadik kormánya alakult. A kétharmados többség nagy reformokat tett lehetővé."
+    },
+    {
+      "id": 35,
+      "term": "2011: Alaptörvény elfogadása",
+      "definition": "Az Országgyűlés elfogadja Magyarország Alaptörvényét. Megszületik a modern jogi keret a demokrácia működéséhez.",
+      "quote": "Új jogi keretrendszer",
+      "text": "Az Alaptörvényt 2011. április 25-én fogadta el az Országgyűlés. Ez helyettesítette az 1989-ben módosított Alkotmányt."
+    },
+    {
+      "id": 36,
+      "term": "2012: Alaptörvény hatályba lépése",
+      "definition": "Az Alaptörvény hatályba lép. Ettől kezdve ez a magyar állam működésének alapja.",
+      "quote": "Az új jogi rend kezdete",
+      "text": "Az Alaptörvény 2012. január 1-én lépett hatályba. Ez nagyobb részletességet tartalmazott az 1989-es Alkotmánynál."
+    },
+    {
+      "id": 37,
+      "term": "2014: Ötéves önkormányzati ciklus",
+      "definition": "Bevezetik az ötéves önkormányzati ciklusokat. Ezzel hosszabb távú helyi tervezés válik lehetővé.",
+      "quote": "Helyi stabilitás",
+      "text": "Az önkormányzatok ciklushossza 4 évről 5 évre változott. Ez hosszabb időhorizontot adott a helyi tervezéshez."
+    },
+    {
+      "id": 38,
+      "term": "2019: Önkormányzati választások",
+      "definition": "Önkormányzati választások az új rendszer szerint. A fővárosi közgyűlésben a kerületi polgármesterek is helyet kaptak.",
+      "quote": "Új önkormányzati struktúra",
+      "text": "A 2019-es választások után Budapest közgyűlésének összetétele megváltozott. A kerületi polgármesterek is tagokkal gazdagodott."
+    },
+    {
+      "id": 39,
+      "term": "2022: Novák Katalin elnöke",
+      "definition": "Novák Katalin lesz Magyarország első női köztársasági elnöke.",
+      "quote": "Női vezetés a legfelsőbb szinten",
+      "text": "Novák Katalin először nő, aki az Alaptörvény alapján köztársasági elnök lett (Sulyok Tamás 2024-től)."
+    },
+    {
+      "id": 40,
+      "term": "Áder János elnöksége",
+      "definition": "2012 és 2022 között Magyarország köztársasági elnöke. Nevéhez fűződik az új Alaptörvény elfogadása.",
+      "quote": "Az átmeneti elnök",
+      "text": "Áder János a rendszerváltozás után harmadik közvetlenül nem választott elnök volt (Göncz, Mádl, Sólyom után)."
+    }
+  ]
+}

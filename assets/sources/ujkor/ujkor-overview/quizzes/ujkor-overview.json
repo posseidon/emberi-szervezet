@@ -1,0 +1,51 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "ujkor-overview",
+  "quiz": [
+    {
+      "type": "MC",
+      "question": "Mely időszakot nevezzük az 'ujkor'nak?",
+      "options": [
+        "10-16. század",
+        "17-18. százasd",
+        "19. és korai 20. százasd",
+        "20-21. százasd"
+      ],
+      "answer": "19. és korai 20. százasd"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az ujkor végpontjaként a ________ 1914-es kezdete érthető.",
+      "target": "I. világháború",
+      "hint": "globális konfliktus"
+    },
+    {
+      "type": "MC",
+      "question": "Az ujkor mely nagy ideológiái voltak egymás ellen ellentétes?",
+      "options": [
+        "Csak liberalizmus és konzervativizmus",
+        "Liberalizmus, nacionalizmus és szocializmus",
+        "Csak nacionalizmus és imperializmus",
+        "Csupán filozófiai nézeteltérések"
+      ],
+      "answer": "Liberalizmus, nacionalizmus és szocializmus"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az ________-nak az ipari forradalom során számára új társadalmi osztályok alakultak ki.",
+      "target": "társadalom",
+      "hint": "közösség"
+    },
+    {
+      "type": "MC",
+      "question": "Mit jelent az 'imperializmus' az ujkor végén?",
+      "options": [
+        "A szocializmus terjedése",
+        "A nagyhatalmak gyarmat-szerzési versenye",
+        "A polgári szabadság kiterjesztése",
+        "A technológiai fejlődés"
+      ],
+      "answer": "A nagyhatalmak gyarmat-szerzési versenye"
+    }
+  ]
+}

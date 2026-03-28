@@ -1,0 +1,101 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "vilaghaboruk-3-analysis",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Miért lett végzetes a Versailles-i és Trianoni békék Magyarország számára?",
+      "options": [
+        "A területvesztés és az ipar csökkenése gazdasági válságot okozott",
+        "A nemzeti trauma összeműködésre alkalmatlanná tette az országot",
+        "A nemzetközi elszigetelődés miatt szövetségre szorult Németországgal",
+        "Mindhárom fenti ok igaz"
+      ],
+      "answer": "Mindhárom fenti ok igaz"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Magyarország területének ___ -a lett elcsatolt a Trianoni Békében.",
+      "options": [],
+      "answer": "kétharmada"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Hogyan különbözött a nacionalista és a kommunista ideológia az 1920-as Magyarországon?",
+      "options": [
+        "A nacionalista baloldali volt, a kommunista jobboldali",
+        "A nacionalista az ország függetlenségét, a kommunista az osztályönteességet hangsúlyozta",
+        "Lényegileg ugyanazok voltak, csak más nevet viseltek",
+        "A nacionalista szovjet támogatásra, a kommunista az antantra támaszkodott"
+      ],
+      "answer": "A nacionalista az ország függetlenségét, a kommunista az osztályönteességet hangsúlyozta"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A Rákosi-diktatúra ___ év alatt tartott Magyarországon.",
+      "options": [],
+      "answer": "7"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Milyen közös jellemzői voltak a náci Németországnak és a szovjet kommunizmusnak?",
+      "options": [
+        "Mindkettő az önrendelkezés elvét képviselte",
+        "Mindkettő totalitárius diktatúra volt, amely az élet minden területét ellenőrizte",
+        "Mindkettő pacifista külpolitikát követett",
+        "Mindkettő demokratikus volt a gyakorlatban"
+      ],
+      "answer": "Mindkettő totalitárius diktatúra volt, amely az élet minden területét ellenőrizte"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az 1956-os magyar forradalom vezetője ___ volt.",
+      "options": [],
+      "answer": "Imre Nagy"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Milyen szerepe volt Magyarországnak a Hidegháborúban?",
+      "options": [
+        "Szovjet szatellita államként működött a Varsói szerződésben",
+        "USA szövetsége volt a NATO-ban",
+        "Semleges állam maradt a kettő között",
+        "Vezető szerepet játszott az ENSZ-ben"
+      ],
+      "answer": "Szovjet szatellita államként működött a Varsói szerződésben"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A Kádár János által vezetett rendszert ___ szocializmusnak hívták.",
+      "options": [],
+      "answer": "gulyás"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Milyen végzetes hatása volt a Trianoni Békének a magyar nacionalizmusra?",
+      "options": [
+        "Erősítette az európai integráció törekvéseit",
+        "Véglegesen legyengítette a nemzeti szellemet",
+        "A revízió vágyát erősítette, amely gyakran agresszív külpolitikához vezetett",
+        "Nem volt különösebb hatása"
+      ],
+      "answer": "A revízió vágyát erősítette, amely gyakran agresszív külpolitikához vezetett"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az 1989-1991-es rendszerváltás szovjet szövetségeseiben demokratikus változásra vezetett a szovjet ___ miatt.",
+      "options": [],
+      "answer": "összeomlása"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Asszimiláció",
+      "definition": "Beolvadási folyamat, során egy kisebbségi csoport fokozatosan átveszi a többségi társadalom nyelvét, kultúráját és szokásait. Gyakran társadalmi kényszer is előidézi.",
+      "quote": "Az identitás elvesztése a nyelvben",
+      "text": "Az asszimiláció a nemzetiségek számára a legnagyobb veszély. Magyarország nemzetiségei közül a rómák kivételével az asszimilációban vannak."
+    },
+    {
+      "id": 2,
+      "term": "Cigányság (roma népesség)",
+      "definition": "A magyarországi legnagyobb nemzetiség, amely több csoportból áll (romungrók, oláh cigányok, beások). Saját kultúrával és nyelvi hagyományokkal rendelkeznek.",
+      "quote": "Magyarország legnagyobb nemzetisége",
+      "text": "A roma népesség száma 210-300 ezer közötti. Szignifikáns és növekvő népességgel rendelkeznek az egyetlen nemzetiség Magyarországon."
+    },
+    {
+      "id": 3,
+      "term": "Diszkrimináció",
+      "definition": "Hátrányos megkülönböztetés, amikor valakit származása, vallása vagy társadalmi helyzete alapján ér hátrány. Jellemző formái az oktatási, lakhatási és munkaerőpiaci diszkrimináció.",
+      "quote": "Jogtalansági tapasztalat",
+      "text": "A diszkrimináció a roma közösség mindennapi tapasztalata. Az oktatásban, munkahelyen és házasodási lehetőségeken is előfordul."
+    },
+    {
+      "id": 4,
+      "term": "Szegregáció",
+      "definition": "Elkülönítés, amikor egy társadalmi vagy etnikai csoportot térben, oktatásban vagy munkahelyen elválasztanak a többségtől. Gyakran vezet tartós társadalmi hátrányzatossághoz.",
+      "quote": "Kényszerített elkülönítés",
+      "text": "A szegregáció az oktatásban is megjelenik. Sok helyütt cigány gyerekeknek külön osztályok szerveznek."
+    },
+    {
+      "id": 5,
+      "term": "Nemzetiség",
+      "definition": "Magyarország területén legalább egy évszázada honos népcsoport, amely a lakosság többségétől nyelvében, kultúrájában és hagyományaiban különbözik.",
+      "quote": "Történeti kisebbség",
+      "text": "Magyarország 13 elismert nemzetiséget sorol fel: németeket, szlovákokat, horvátokat, románokat, szerbeket, szlovéneket, bolgárokat, görögöket, lengyeleket, ukránokat, ruszinokat, örmények és cigánysá."
+    },
+    {
+      "id": 6,
+      "term": "Nemzetiségi önkormányzat",
+      "definition": "Helyi intézmények, amely a nemzetiségi közösségek képviseletét és érdekvédelmét végzik. Három szinten működhetnek: települési, területi, és országos szinten.",
+      "quote": "Kisebbségek önkormányzata",
+      "text": "A nemzetiségi önkormányzatok választottak. Képviselői az adott nemzetiségi névjegyzékbe regisztráltak közül kerülnek ki."
+    },
+    {
+      "id": 7,
+      "term": "Kisebbségi jogok",
+      "definition": "Az alapvető jogok azon csoportja, amely a kisebbségek nyelvét, kultúráját és identitásának megőrzészetét biztosítja.",
+      "quote": "Az identitás védelme által törvény",
+      "text": "Magyarország Alaptörvénye és az 2011. évi nemzetiségi törvény rögzítik a kisebbségi jogokat."
+    },
+    {
+      "id": 8,
+      "term": "Anyanyelvi oktatás",
+      "definition": "Az a tanulási forma, amelyben a diák az oktatás fő nyelvét saját anyanyelvén használhatja.",
+      "quote": "Saját nyelvű tanulás",
+      "text": "Az anyanyelvi oktatás lehetőséget biztosít az Magyarországon élő nemzetiségek számára. Azonban sok helyen korlátok vannak."
+    },
+    {
+      "id": 9,
+      "term": "15. század: Cigányság megjelenése",
+      "definition": "A cigányság megjelenése Magyarországon, kezdetben vándorló életmódot folytattak és kézműves mesterségeket végeztek.",
+      "quote": "Az első roma sorok",
+      "text": "A cigányok eredetileg Indiából érkeztek. Magyarországon vándor életmódjuk és speciális mesterségeik miatt jól azonosíthatóak voltak."
+    },
+    {
+      "id": 10,
+      "term": "18. század: Mária Terézia és II. József",
+      "definition": "Mária Terézia és II. József uralkodása alatt a cigányság letelepítésére és asszimilációjára irányuló rendeletek születnek.",
+      "quote": "Kényszerű beolvadás kísérlete",
+      "text": "Az osztrák-magyar monarcha a cigánysá assimilation célja alatt kóborlás tilalmát és a gyerekek szülőktől való elválasztása rendelkezett."
+    },
+    {
+      "id": 11,
+      "term": "19. század: Cigányzenészek",
+      "definition": "A cigányság egy része letelepszik, megjelennek híres cigányzenészek, miközben nő a társadalmi elkülönülés.",
+      "quote": "Kulturális tehetségek",
+      "text": "Czinka Panna és Bihari János voltak a legnevesebb cigányzenészek. Ők a magyar zene részévé tették a cigányzene tradícióit."
+    },
+    {
+      "id": 12,
+      "term": "1893: Cigányság népessége",
+      "definition": "A cigányság népességét ekkor kb. 280 ezer főre becsülik.",
+      "quote": "A népesség nagysága",
+      "text": "Az 1893-as adat azt mutatja, hogy már ekkor jelentős volt a cigányság száma Magyarországon."
+    },
+    {
+      "id": 13,
+      "term": "1944: Porajmos (cigány holokauszt)",
+      "definition": "A német megszállás után megkezdődik a cigányok deportálása, a porajmos időszaka.",
+      "quote": "A roma holokauszt",
+      "text": "A porajmos során tízezreket hurcoltak el, és több ezer roma vesztette életét a koncentrációs táborokban."
+    },
+    {
+      "id": 14,
+      "term": "1946-1949: Magyar-szlovák lakosságcsere",
+      "definition": "Lezajlik a magyar–szlovák lakosságcsere, amely a szlovák kisebbséget jelentősen érinti.",
+      "quote": "Kétirányú kitelepítés",
+      "text": "A lakosságcsere 200 ezer magyarnak és szlováknak erőszakos szétszóródást okozott."
+    },
+    {
+      "id": 15,
+      "term": "1960-as évek: Cigánytelepek felszámolása",
+      "definition": "Megkezdődik a cigánytelepek felszámolása és a roma gyermekek iskoláztatásának bővítése.",
+      "quote": "Az integrációs kísérletek",
+      "text": "A szocialista rendszer erőszakos módon próbálta integrálni a cigányokat. A módszer azonban sok sérülmény mellett sem volt sikeres."
+    },
+    {
+      "id": 16,
+      "term": "1989-1990: Rendszerváltozás és foglalkoztatás",
+      "definition": "A rendszerváltás után a cigányság tömegesen elveszíti munkahelyeit a gazdasági átalakulás kapcsán.",
+      "quote": "Gazdasági katasztrófa",
+      "text": "Az ipar megállt, és az alacsony iskolázottságú romák elsőnek vesztették el munkahelyeiket. A munkanélküliség mára 50-70% közötti körülötte."
+    },
+    {
+      "id": 17,
+      "term": "1993: Nemzetiségi törvény",
+      "definition": "Születik \"A nemzeti és etnikai kisebbségek jogairól\" szóló törvény, amely megerősíti a nemzetiségek jogait.",
+      "quote": "A jogvédelem megkezdése",
+      "text": "Az 1993-as törvény az első rendszerváltás utáni jogvédelmi intézmény volt a nemzetiségek számára."
+    },
+    {
+      "id": 18,
+      "term": "2011: Nemzetiségi törvény reformja",
+      "definition": "Elfogadják a CLXXIX. törvényt \"A nemzetiségek jogairól\", amely a \"kisebbség\" kifejezést \"nemzetiségre\" módosítja.",
+      "quote": "Jogszabályi kiterjesztés",
+      "text": "Az 2011-es törvény megerősítette a nemzetiségi jogokat és intézményi alapokat."
+    },
+    {
+      "id": 19,
+      "term": "Németek Magyarországon",
+      "definition": "Kb. 140 ezer fő, főként Baranyában, a Dunántúli középhegységben és a Budapest környéki településeken élnek.",
+      "quote": "A történeti germán csoport",
+      "text": "A magyarországi németek többsége asszimilálódott. A fiatalok már sok helyütt nem beszélnek németül."
+    },
+    {
+      "id": 20,
+      "term": "Szlovákok Magyarországon",
+      "definition": "Számuk a 20. század közepén lezajlott lakosságcsere miatt drasztikusan csökkent, ma kb. 30 ezer fő.",
+      "quote": "A megmaradt felvidékiek",
+      "text": "A magyarországi szlovákok számának csökkenése több oknak tudható be: kitelepítés, asszimiláció és elvándorlás."
+    },
+    {
+      "id": 21,
+      "term": "Horvátok Magyarországon",
+      "definition": "Kb. 20 ezer fő, többségük a horvát–magyar határ mentén él (Baja, Mohács).",
+      "quote": "A délvidéki horvátok",
+      "text": "A magyarországi horvátok szétszórtan élnek, asszimilációs nyomás alatt."
+    },
+    {
+      "id": 22,
+      "term": "Románok Magyarországon",
+      "definition": "Elsősorban a román határ mentén és Budapesten találhatók, kb. 25-30 ezer fővel.",
+      "quote": "Az erdélyiek egy része",
+      "text": "A magyarországi románok nagy része bevándorló vagy az erdélyi magyarság kicsúszott szülöttek."
+    },
+    {
+      "id": 23,
+      "term": "Szerbek Magyarországon",
+      "definition": "Hagyományosan a Duna mentén (Szentendre, Ráckeve, Mohács) élnek, ma kb. 10 ezer főt számlálnak.",
+      "quote": "A dél-dunai szerb közösség",
+      "text": "A magyarországi szerbek hagyatéka a Duna menti településekben őrződött meg."
+    },
+    {
+      "id": 24,
+      "term": "Szlovének (vendek) Magyarországon",
+      "definition": "Az Őrségben, főként a határ menti falvakban, kb. 4 ezer fő él.",
+      "quote": "Az Őrség őslakói",
+      "text": "A magyarországi szlovének az Őrségben tanultak ott, ahol az osztrák-magyar határ szimbolikus és hasznos volt."
+    },
+    {
+      "id": 25,
+      "term": "Lengyelek, görögök, bolgárok",
+      "definition": "Főként a 20. században betelepült kisebb közösségek, amelyek legnagyobb számban Budapesten élnek.",
+      "quote": "Bevándorolt nemzetiségek",
+      "text": "Ezek a nemzetiségek Magyarország egyik vagy másik szomszédjából érkeztek."
+    },
+    {
+      "id": 26,
+      "term": "Roma közösségek szociális helyzete",
+      "definition": "Magas munkanélküliség, rossz lakáskörülmények, alacsony iskolázottság és rossz egészségügyi állapot jellemzik a roma közösségeket.",
+      "quote": "Szegénység és kirekesztettség",
+      "text": "A roma közösségek többsége szegénységben él. Az integráció lehetőségei korlátozottak."
+    },
+    {
+      "id": 27,
+      "term": "Gandhi Gimnázium és Romaversitas",
+      "definition": "A pécsi Gandhi Gimnázium és a Romaversitas Láthatatlan Kollégium támogatja a roma fiatalok emancipációját.",
+      "quote": "Az integrációs lehetőségek",
+      "text": "Az oktatási programok biztatlansabbá teszik a roma fiatalok esélyeit a felsőoktatásba."
+    },
+    {
+      "id": 28,
+      "term": "Roma jogvédelem",
+      "definition": "A Nemzeti és Etnikai Kisebbségi Jogvédő Iroda (NEKJI) és a Roma Polgárjogi Alapítvány segíti a diszkrimináció elleni fellépést.",
+      "quote": "Az igazi jogvédelmi szervezetek",
+      "text": "E szervezetek működnek a roma közösség jogainak védelmében. Diszkriminációs ügyekben nyújtanak segítséget."
+    },
+    {
+      "id": 29,
+      "term": "Czinka Panna",
+      "definition": "Híres cigányzenész, akinek a neve összefonódott a magyar cigányzene tradíciójával.",
+      "quote": "A legendás zenész",
+      "text": "Czinka Panna a 18. Jahrhundert egyik legnevesebb zenésze volt. Egyéniségével hozzájárult a magyar kultúra gazdagodásához."
+    },
+    {
+      "id": 30,
+      "term": "Bihari János",
+      "definition": "Híres cigányzenész, akinek muzsikája a magyar nemzeti kultúra részévé vált.",
+      "quote": "A zene alkotója",
+      "text": "Bihari János verbunkos zenéjével az uno nemzeti identitás formálásában játszott szerepet."
+    }
+  ]
+}

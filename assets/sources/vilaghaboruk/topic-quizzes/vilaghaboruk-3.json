@@ -1,0 +1,291 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "vilaghaboruk-3",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Hogyan kezdődött a hidegháborús konfrontáció a szövetségek között?",
+      "options": [
+        "Direkt katonai háborúval",
+        "Ideológiai és geopolitikai szembenállásból",
+        "Gazdasági versenyből",
+        "Vallásos konfliktusból"
+      ],
+      "answer": "Ideológiai és geopolitikai szembenállásból"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az _____ 1956-ban kitört az egyik első nagy szovjet-magyar konfrontációként.",
+      "options": [],
+      "answer": "1956-os forradalom"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik volt a hidegháború szellemének a magyar forradalom leverésé?",
+      "options": [
+        "Szovjet engedékenység",
+        "Szovjet katonai intervenció és feladó nemzetközi beavatkozás",
+        "Általános fegyverszünet",
+        "Gazdasági egyezmény"
+      ],
+      "answer": "Szovjet katonai intervenció és feladó nemzetközi beavatkozás"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az _____ korszak Kádár alatt 1956-után reformot prózáló szocializmusá változtatott meg.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Hogyan befolyásolta a Kádár-rendszer a magyar gazdaságot a hidegháború során?",
+      "options": [
+        "Teljes zárványállamot létrehozva",
+        "Mérsékelt reformokkal és nyugati kapcsolatokkal részleges nyitást biztosítva",
+        "Teljes szovjet terven maradva",
+        "Kapitalizmusba való visszatéréssel"
+      ],
+      "answer": "Mérsékelt reformokkal és nyugati kapcsolatokkal részleges nyitást biztosítva"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ szovjet ideológiai merevség 1968-ban Csehszlovákiában katonai intevenciót hívott.",
+      "options": [],
+      "answer": "Brezsnyev"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik volt a hidegháborús verseny gazdasági aspektusa?",
+      "options": [
+        "Közvetlen katonai siker",
+        "Technológiai és katonai fegyverkezési verseny",
+        "Kulturális dominancia",
+        "Vallási terjedés"
+      ],
+      "answer": "Technológiai és katonai fegyverkezési verseny"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ magyarországi szovjet szatellitállamá maradt a hidegháború végéig.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Hogyan jellemezhetjük Magyarország helyzetét a Kádár-rendszer alatt?",
+      "options": [
+        "Teljes szovjet elnyomás",
+        "Gulyáskommunizmus: autoritárius de mérsékelt elnyomás",
+        "Teljes szabadság",
+        "Kimaradtak a szovjet szféra"
+      ],
+      "answer": "Gulyáskommunizmus: autoritárius de mérsékelt elnyomás"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az _____ szovjet szatellitállamok nincsenek függetlenségük a hidegháború alatt.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik esemény jelözte a hidegháborús konfrontáció eszkalálódásánt az 1960-as évekbein?",
+      "options": [
+        "Koreai háború lezárása",
+        "Kuba válság 1962",
+        "Vietnam háborúja 1964-1973",
+        "Prágai tavasz 1968"
+      ],
+      "answer": "Kuba válság 1962"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ dokumentum 1975 szovjet-amerikai enyhülést biztosított korban.",
+      "options": [],
+      "answer": "helsinki"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Hogyan magyarázható az 1980-as évek szovjet politikájában az afghánisztáni invázió?",
+      "options": [
+        "Gazdasági oka volt",
+        "Szovjet befolyás kiterjesztésének próbálkozása",
+        "Béke fenntartása",
+        "Gazdasági válság kezelése"
+      ],
+      "answer": "Szovjet befolyás kiterjesztésének próbálkozása"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az _____ kormányzat Magyarországon nyitottabbá vált a reforma felé az 1980-as évek végén.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik volt a hidegháborút véglegesen lezáró esemény?",
+      "options": [
+        "Kuba válság",
+        "Vietnam háborúja",
+        "Szovjetunió felbomlása 1991",
+        "Reagan elnökség"
+      ],
+      "answer": "Szovjetunió felbomlása 1991"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az _____ berlini fal 1989-ben dőlt le, szimbólumozva a hidegháború végét.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Hogyan befolyásolta a szovjet reformok elmaradása a birodalom összeomlásánt?",
+      "options": [
+        "Nem befolyásolt",
+        "Gazdasági stagnáció és ideológiai válság az összeomláshoz vezetett",
+        "Gazdasági bővüléshez vezetett",
+        "Technológiai fejlődést hozadt"
+      ],
+      "answer": "Gazdasági stagnáció és ideológiai válság az összeomláshoz vezetett"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ 1989-ben kezdődött Magyarország rendszerváltása nyomán.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Hogyan reagált Magyarország a rendszerváltás után a nyugat felé?",
+      "options": [
+        "Visszatért szovjet szféra",
+        "NATO-hoz és EU-hoz csatlakozási folyamat kezdeményesett",
+        "Maradt szovjet szövetségben",
+        "Semlegességet választott"
+      ],
+      "answer": "NATO-hoz és EU-hoz csatlakozási folyamat kezdeményesett"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ piacgazdaságra való átmenet Magyarországon gazdasági válságot okozatt kezdetben.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik nem volt a hidegháborús végének egy közvetlen következménye?",
+      "options": [
+        "Szovjetunió felbomlása",
+        "Kelet-közép-európai függetlenségi mozgalmak",
+        "Német újraegyesítés",
+        "Szocialista gazdaság kiterjesztése"
+      ],
+      "answer": "Szocialista gazdaság kiterjesztése"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az _____ magyarországi szovjet csapatok 1989-ben végleg elhagyták az országot.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Hogyan teremtette elő Gorbacsov reformpolitikája a szovjet birodalom végét?",
+      "options": [
+        "Erősítette a szovjet hatalmát",
+        "Glasznoszty és peesztrojka révén felszínre hozták a rendszer szomorút",
+        "Gazdaságot erősítette",
+        "Katonai fegyverkezést fokozta"
+      ],
+      "answer": "Glasznoszty és peesztrojka révén felszínre hozták a rendszer szomorút"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az _____ magyar történelmi sérelmek (Trianon) felmerültek új vigore a rendszerváltás után.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik volt a hidegháborút követő nemzetközi rendszerre jellemző?",
+      "options": [
+        "Szovjet kontinentális dominancia",
+        "USA-szovjet bipoláris világ",
+        "Európai uniós unipolaritás",
+        "Egyenlő multi-pólusú világ"
+      ],
+      "answer": "USA-szovjet bipoláris világ"
+    },
+    {
+      "id": 26,
+      "type": "BLANK",
+      "question": "Az _____ magyarországi NATO csatlakozása 1999-ben a nyugati integráció szimbólumává vált.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 27,
+      "type": "MC",
+      "question": "Hogyan hatott a hidegháborús szakadás a magyar filozófiai és tudományos gondolkodásra?",
+      "options": [
+        "Nem hatott",
+        "Ideológiai szénésítéshez és később felszabadításhoz vezetett",
+        "Teljes szabadsághoz",
+        "Nincs hatás"
+      ],
+      "answer": "Ideológiai szénésítéshez és később felszabadításhoz vezetett"
+    },
+    {
+      "id": 28,
+      "type": "BLANK",
+      "question": "Az _____ 1956 utáni Magyarország paradoxona volt a keményebb szovjet szféra mellett részleges nyitottság.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 29,
+      "type": "MC",
+      "question": "Melyik volt a reális siker a Kádár-rendszer alatt gazdasági szempontból?",
+      "options": [
+        "Gazdasági összeomlás",
+        "Gazdasági stabilizálódás a szomszéd szocialista országokhoz képest",
+        "Gazdasági csoda",
+        "Piacgazdaságra való átmenet"
+      ],
+      "answer": "Gazdasági stabilizálódás a szomszéd szocialista országokhoz képest"
+    },
+    {
+      "id": 30,
+      "type": "BLANK",
+      "question": "Az _____ magyarországi piacgazdasági átmenet az 1990-es évek elején keserűséggel járt de hosszú távú fejlődéshez vezetett.",
+      "options": [],
+      "answer": ""
+    }
+  ]
+}

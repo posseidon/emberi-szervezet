@@ -1,0 +1,109 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Felfedezések (Age of Discovery)",
+      "definition": "15-16. századi időszak, amikor az európai tengerészek új világrészeket fedeztek fel és új tengeri útvonalakat nyitottak meg. Megváltoztatta az egész világtörténelmet.",
+      "quote": "Új világok, új készsérek",
+      "text": "A felfedezéseket gazdasági (nemesfémhiány, kereskedelmi útvonalak válsága), politikai (központosított államok), és technikai (karavella, iránytű) tényezők okozták. Portugália és Spanyolország voltak a főszereplők, megosztva a világot a tordesillasi szerződéssel."
+    },
+    {
+      "id": 2,
+      "term": "Tengerész Henrik",
+      "definition": "Portugál herceg, aki a 15. század közepén hajózási iskolát alapított és tudatosan támogatta a felfedezőutakat. A portugál felfedezések szervezője és ösztönzője.",
+      "quote": "A felfedezések patronusa",
+      "text": "Henrik herceg nem maga utazott, hanem egy szisztematikus program keretében támogatta a felfedezőutakat. Az ő patronátusa alatt Portugália Afrika partvidékét kezdte felkutatni és megnyitotta az utat Vasco da Gama indiai utazásához."
+    },
+    {
+      "id": 3,
+      "term": "Jóreménység foka",
+      "definition": "Afrika legdélebbi pontja, amelyet Bartolomeu Diaz 1487-ben ért el. Elsőként bizonyította, hogy Afrika megkerülhető, és megnyitotta az utat India felé.",
+      "quote": "Az út Indiához",
+      "text": "A Jóreménység fokáig való eljutás jelentős mérföldkő volt. Ez a szakasz az indiai fűszerkereskedelem elérhetőségét mutatta. Később Vasco da Gama ezt az útvonalat követte és valóban elérte Indiát."
+    },
+    {
+      "id": 4,
+      "term": "Tordesillasi szerződés",
+      "definition": "1494-ben II. Ferdinánd spanyol és Vasco da Gama portugál között kötött megállapodás, amely felosztotta a világot португал és spanyol érdekszférákat között. Portugália Afrikát és Ázsiát kapta, Spanyolország Amerikát.",
+      "quote": "A világ felosztása",
+      "text": "A szerződés egy képzeletbeli vonalat húzott az Atlanti-óceánon: Portugália ennek keleti részét, Spanyolország a nyugati részét kapta. Később a zaragozai szerződés (1529) véglegesen rögzítette Brazília portugál kézre kerülését."
+    },
+    {
+      "id": 5,
+      "term": "Aranyéhség",
+      "definition": "A középkori Európa nemesfém-szegénységéből adódó erős vágy az aranyra és ezüstre. Ez az egyik fő oka volt a nagy felfedezéseknek és az Amerika meghódításának.",
+      "quote": "Arany, ezüst és fűszerek",
+      "text": "Az ásiai kereskedelem nemesfémeket igényelt, de Európa bányái kimerülőben voltak. Az Újvilág hatalmas ezüsttelepen (Potosí) és aranylelőhelyei kielégítik lehetett az Európai aranyéhséget, ami azonban hatalmas környezeti és társadalmi pusztuláshoz vezetett."
+    },
+    {
+      "id": 6,
+      "term": "Selyemút",
+      "definition": "A középkori kereskedelmi útvonal Európa és Ázsia között, amely megdrágult az Oszmán Birodalom terjeszkedése miatt. Ezt próbálták kikerülni az új tengeri útvonalakkal.",
+      "quote": "A drága út",
+      "text": "A selyemút Ázsiából Európára hozta a fűszereket, selyemet, porcelánt és egyéb luxuscikkeket. Az oszmán területek vámköltségei és az útvonal bizonytalansága miatt az európai kereskedők új utat kerestek, mely végül az atlantikus útvonalhoz vezetett."
+    },
+    {
+      "id": 7,
+      "term": "Árariadalom",
+      "definition": "Az 1500-as évek során az Amerikából behozott nemesfémek miatt Európában lezajlott tartós áremelkedés. Az infláció különösen az élelmiszerárakra hatott.",
+      "quote": "Pénz az infláció oka",
+      "text": "A nemesfémek hatalmas mennyiségben áramlottak Európára, megemelve a pénz mennyiségét. Az árak 2-3-szor megemelkedtek az évszázad során. Ez a folyamat azonban a kapitalizmus fejlődésére és az ipari termelésre ösztönzően hatott."
+    },
+    {
+      "id": 8,
+      "term": "Merkantilizmus",
+      "definition": "A 17-18. századi gazdaságpolitika elve, amely az állam gazdasági hatalmának növelésére törekedett export-ösztönzés és import-korlátozás révén.",
+      "quote": "Az előre mutató össznépgazdaságtan",
+      "text": "A merkantilisták a nemesfémek felhalmozásában látták az állam gazdagságát. Állami manufaktúrák alapításával, külföldi szaktermelők betelepítésével és protekcionista vámokkal próbálták erősíteni a gazdaságot."
+    },
+    {
+      "id": 9,
+      "term": "Kolumbusz visszatéritése",
+      "definition": "Kolumbusz Kristóf haláláig azt hitte, hogy Ázsiához ért el, holott az Újvilágot fedezte fel. Ez a félreértelmezés azonban nem csökkentette a felfedezés történelmi jelentőségét.",
+      "quote": "Az Újvilág, nem Ázsia",
+      "text": "Kolumbusz mappaemundi alapján vélte, hogy az Atlanti-óceán szélessége lényegesen kisebb volt a valóságosnál. Az Újvilág felfedezésének dicsősége azonban az utólagos generációké maradt, amely felismerte kontinens igazi nagyságát."
+    },
+    {
+      "id": 10,
+      "term": "Konkvisztádor",
+      "definition": "Spanyol hódító, aki katonai erővel foglalta el az amerikai civilizációkat. Hermán Cortés és Francisco Pizarro voltak a legismertebbek.",
+      "quote": "Az Újvilág meghódítói",
+      "text": "A konkvisztádorok kis számú katonával nagy birodalmakat foglaltak el, mivel technológiai fölénnyel (lovas, páncél, lőfegyver), végzetes járványokkal és helyi politikai megosztottsággal rendelkeztek. Módszereik gyakran visszaélésekkel jártak és katasztrofális emberveszteséghez vezettek."
+    },
+    {
+      "id": 11,
+      "term": "Hernán Cortés",
+      "definition": "Spanyol konkvisztádor, aki 1519-1521 között meghódította az Azték Birodalmat. Konyha vezetők szövetségével nyert győzelmet a численно nagyobb mexikai seregek felett.",
+      "quote": "Az Azték legyőzője",
+      "text": "Cortés sikere a technológiai fölényen, a járványok pusztító hatásán és a helyi szövetségeken múlott. A magyarok szerint Montezuma visszatérő Isten gyanánt értelmezette. Cortés hódítása aztán a spanyol világbirodalom alapjait fektezte le."
+    },
+    {
+      "id": 12,
+      "term": "Francisco Pizarro",
+      "definition": "Spanyol konkvisztádor, aki 1531-1533 között meghódította az Inka Birodalmat. Kevés katonával de hatékony stratégiával győzte le az andoki világ erejét.",
+      "quote": "Az inkák leigázója",
+      "text": "Pizarro a délamerikai aranylelőhelyeket kereste. Az Inka Birodalom belsőkülönbségeit és a sérülékeny központosított rendszert kihasználva viszonylag gyorsan meghódította a hatalmas államot. A spanyol ezüstbányák (Potosí) az ő hódításaitól kezdve működtek."
+    },
+    {
+      "id": 13,
+      "term": "Megváltás rendszere",
+      "definition": "A spanyol gyarmatokon bevezetett munkarendszer, amely az őslakosokat kötelezően kényszermunkára fogta. Ez a rendszer katasztrofális hatással volt az amerindián lakosságra.",
+      "quote": "Rabszolgaság új neve",
+      "text": "A megváltás rendszere szerint az indián községek lakói tartoztak kényszermunkával az encomiendáról nevezett földbirtokosnak. Ez gyakorlatilag rabszolgaságnak felelt meg, amely hatalmas halálozási arányot okozott az amerindián lakosság körében."
+    },
+    {
+      "id": 14,
+      "term": "Atlanti rabszolgakereskedelem",
+      "definition": "A 16-18. századi kereskedelem, amely afrikai rabszolgákat szállított az amerikai ültetvényekre és bányákra. Milliók haltak meg az átkeléskor és a rabszvágság során.",
+      "quote": "Humanitás nélkül",
+      "text": "Az eredeti munkaerő kifogyása után a spanyolok és angolok afrikai rabszolgákat hozattak Amerika felé. Az átkelés és az ameriikán körülmények olyan halálosnak bizonyultak, hogy az európai rabszolgakereskedelem végül az afrikaihoz fordult. Ez az egyik történelem legsötétebb fejezete."
+    },
+    {
+      "id": 15,
+      "term": "Cukornád-ültetvény",
+      "definition": "Az Újvilágban alapított nagy gazdaságok, amelyek Afrikából behozott rabszolgákat használtak a munkaerőhez. A cukornád feldolgozása szörnyű körülmények között zajlott.",
+      "quote": "Édes nyereség, keserű ár",
+      "text": "A cukornád-ültetvények a 16-17. századi Nyugat-India gazdaságájának alapja voltak. A végzetes rabszolgakereskedelemét ez a szisztematikus kenyszerüdöség indította el. Az európai cukorfogyasztás ezt az embertelen rendszerre épített."
+    }
+  ]
+}

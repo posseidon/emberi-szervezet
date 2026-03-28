@@ -1,0 +1,291 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "kora-ujkor",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Hogyan különbözött a lutheránus és kálvinista reformáció a vallási szervezetben?",
+      "options": [
+        "Ugyanaz volt",
+        "Luther hierarhikus, Kálvin demoktrikus",
+        "Luther demokrátikus, Kálvin hierarhikus",
+        "Mindkettő autokrata"
+      ],
+      "answer": "Luther demokrátikus, Kálvin hierarhikus"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ megőrizte több katolikus elemet, míg a kálvinizmus szigorú egyszerűséget követelt.",
+      "options": [],
+      "answer": "anglikánizmus"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Milyen összefüggés volt a nagy felfedezések és a kapitalizmus között?",
+      "options": [
+        "Nincs összefüggés",
+        "A felfedezések ösztönözték a kapitalizmus fejlődését",
+        "A kapitalizmus a felfedezéseket támogatta",
+        "Egymás ellenfele voltak"
+      ],
+      "answer": "A felfedezések ösztönözték a kapitalizmus fejlődését"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A _____ gazdaságpolitika elősegítette az ipari fejlődést Nyugat-Európában.",
+      "options": [],
+      "answer": "merkantilista"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Hogyan járult hozzá a reneszánsz a nagy felfedezésekhez?",
+      "options": [
+        "Katonai felkészítés",
+        "Tudományos és intelectuális fejlődés",
+        "Egyházi támogatás",
+        "Építészeti előrehaladás"
+      ],
+      "answer": "Tudományos és intelectuális fejlődés"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ összekapcsolta az Ázsiára érkezett szállítmányokat az európai piacokkal.",
+      "options": [],
+      "answer": "atlantikus kereskedelem"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Milyen volt Magyarország helyzete a Habsburgok és a törökök között?",
+      "options": [
+        "Teljes függetlenség",
+        "Középszerű pozíció",
+        "Osztott terület kényszerhelyzete",
+        "Dinamikus egyensúly"
+      ],
+      "answer": "Osztott terület kényszerhelyzete"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az Erdélyi Fejedelemség _____ és _____ között lavírozott politikájával tartotta meg önállóságát.",
+      "options": [],
+      "answer": "Habsburgok, törökök"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Hogyan ért el sikereket a szabadságharc kezdetben (1703-1704)?",
+      "options": [
+        "Katonai fölény",
+        "Széles társadalmi támogatás",
+        "Nemzetközi szövetségek",
+        "Gazdasági erőforrások"
+      ],
+      "answer": "Széles társadalmi támogatás"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ tartotta össze a kuruc mozgalmat a közös célon keresztül.",
+      "options": [],
+      "answer": "nemzeti függetlenség gondolata"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Milyen volt az osztrák és magyar történelem kapcsolata az újkorban?",
+      "options": [
+        "Teljes szeparáció",
+        "Szoros uniós viszony",
+        "Dinamikus viszály és kompromisszum",
+        "Teljes asszimiláció"
+      ],
+      "answer": "Dinamikus viszály és kompromisszum"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az _____ teológiák közös gondolata az emberek természetes egyenlősége volt.",
+      "options": [],
+      "answer": "felvilágosodás"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Hogyan befolyásolta a reforma a tudományos fejlődést?",
+      "options": [
+        "Negatívan korlátozta",
+        "Ösztönözte a való megismerést",
+        "Semmi hatása nem volt",
+        "Erős negatív hatás"
+      ],
+      "answer": "Ösztönözte a való megismerést"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ tanítása a későbbi polgári forradalmak ideológiai alapjául szolgált.",
+      "options": [],
+      "answer": "természetes jogok"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Milyen volt az ellenreformáció és reformáció közötti feszültség?",
+      "options": [
+        "Békés béke",
+        "Erőszakos vallásháborúk",
+        "Kölcsönös tolerancia",
+        "Gazdasági verseny"
+      ],
+      "answer": "Erőszakos vallásháborúk"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ vallási tolerancia Erdélyben előfigyelmeztette a késői társadalmi kísérleteket.",
+      "options": [],
+      "answer": "tordai"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Hogyan kapcsolódott össze az etnikai összetétel változása és a politikai fejlődés Magyarországon?",
+      "options": [
+        "Nincs kapcsolat",
+        "A nemzetiségi tömbök később politikai mozgalomra vezettek",
+        "A magyarság előnyt szerzett",
+        "Gazdasági fejlődés nélkül"
+      ],
+      "answer": "A nemzetiségi tömbök később politikai mozgalomra vezettek"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ birodalom fejlesztésének az alapja a felvilágosult abszolutizmus volt.",
+      "options": [],
+      "answer": "Habsburg"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mit jelentett az Emberi és Polgári Jogok Nyilatkozata az egyén számára?",
+      "options": [
+        "Korlátlan szabadság",
+        "Természetes jogok biztosítása",
+        "Királyi engedélytől függő jogok",
+        "Pápai támogatás szükséges"
+      ],
+      "answer": "Természetes jogok biztosítása"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ elve a modern demokrációk alapja a Montesquieuig nyúlik vissza.",
+      "options": [],
+      "answer": "hatalommegosztás"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Hogyan hatott az évszázados török hódoltság a magyar nemzeti identitásra?",
+      "options": [
+        "Gyengítette",
+        "Megerősítette az identitás-tudatosságot",
+        "Nincs hatása",
+        "Eltüntette"
+      ],
+      "answer": "Megerősítette az identitás-tudatosságot"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A _____ gazdasági fejlődésében az észak-és nyugat-európai országok megelőzték az elmaradott perifériákat.",
+      "options": [],
+      "answer": "mercantilista"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Milyen volt az agrár (magyarországi) és ipar (nyugat-európai) gazdaságok közötti viszony az újkorban?",
+      "options": [
+        "Egyenlő",
+        "Kizsákmányoló függőség",
+        "Kölcsönös előnyös",
+        "Szeparált"
+      ],
+      "answer": "Kizsákmányoló függőség"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A _____ támogatása és a _____ támogatása közötti divergencia a rákóczi-szabadságharcot is befolyásolta.",
+      "options": [],
+      "answer": "francia, angol"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Hogyan kapcsolódott össze az intellektuális felvilágosodás és a politikai forradalom?",
+      "options": [
+        "Nincs kapcsolat",
+        "Az eszmék előkészítették a forradalmakat",
+        "A forradalmak előidézték az eszméket",
+        "Egymás ellentéte"
+      ],
+      "answer": "Az eszmék előkészítették a forradalmakat"
+    },
+    {
+      "id": 26,
+      "type": "BLANK",
+      "question": "A _____ nyilatkozat az 1948-as ENSZ emberi jogok nyilatkozatának előfutára volt.",
+      "options": [],
+      "answer": "1789-es"
+    },
+    {
+      "id": 27,
+      "type": "MC",
+      "question": "Milyen volt a felvilágosult abszolutizmus paradoxona?",
+      "options": [
+        "Senkinek nem tetszett",
+        "A modernizáció korlátlan alulról",
+        "A felsőből vezérelt modernizáció",
+        "Sem nem volt modern, sem nem lett"
+      ],
+      "answer": "A felsőből vezérelt modernizáció"
+    },
+    {
+      "id": 28,
+      "type": "BLANK",
+      "question": "A _____ és _____ koron között az a különbség, hogy az egyik nemzeti, a másik szupranacionális.",
+      "options": [],
+      "answer": "magyar, Habsburg"
+    },
+    {
+      "id": 29,
+      "type": "MC",
+      "question": "Hogyan értékelhető a szatmári béke kompromisszuma az újkori magyar történelemben?",
+      "options": [
+        "Teljes kudarcot jelentett",
+        "Pozitív összehangatódásra vezetett",
+        "Átmeneti megoldás lett",
+        "Semmi eredménye nem volt"
+      ],
+      "answer": "Pozitív összehangatódásra vezetett"
+    },
+    {
+      "id": 30,
+      "type": "BLANK",
+      "question": "A _____ a tudás és a hatalom összekapcsolódásának szimbóluma a felvilágosodásban.",
+      "options": [],
+      "answer": "ész"
+    }
+  ]
+}

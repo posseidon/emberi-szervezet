@@ -1,0 +1,170 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "1848-forradalom",
+  "quiz": [
+    {
+      "type": "MC",
+      "question": "Mely év március 15. kezdődött a magyar forradalom?",
+      "options": [
+        "1840",
+        "1845",
+        "1848",
+        "1850"
+      ],
+      "answer": "1848"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1848-as márciusi forradalom a ________ helyen kezdődött, ahol nyilvános gyűlést tartottak.",
+      "target": "Radnót",
+      "hint": "pesti hely"
+    },
+    {
+      "type": "MC",
+      "question": "Mit tartalmaztak az áprilisi törvények?",
+      "options": [
+        "Csak a sajtószabadság",
+        "Jobbágyfelszabadítás, közteherviselés, parlamentarizmus, sajtó- és vallásszabadság",
+        "Csak a közteherviselés",
+        "Csak a parlamentarizmus"
+      ],
+      "answer": "Jobbágyfelszabadítás, közteherviselés, parlamentarizmus, sajtó- és vallásszabadság"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az első független magyar kormányt ________ Lajos miniszterelnök vezetésével alakították 1848-ban.",
+      "target": "Batthyány",
+      "hint": "név"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik nemzetiség kezdeményezte az első támadást az 1848-as magyar forradalom ellen?",
+      "options": [
+        "Románok",
+        "Szerbek",
+        "Horvátok",
+        "Németek"
+      ],
+      "answer": "Szerbek"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az áprilisi törvények garantálták a ________, a ________ és a vallásszabadságot.",
+      "target": "sajtó, gyülekezési",
+      "hint": "szabadságok"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az egyik fő követelés az 1848-as forradalom során?",
+      "options": [
+        "Visszatérés a feudalizmushoz",
+        "Jobbágyfelszabadítás és jogegyenlőség",
+        "Az arisztokrácia megerősítése",
+        "Francia kultúra importálása"
+      ],
+      "answer": "Jobbágyfelszabadítás és jogegyenlőség"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1848-as áprilisi törvények ________ alapját képezik a modern magyar társadalomnak.",
+      "target": "polgári átalakulás",
+      "hint": "alapvető változás"
+    },
+    {
+      "type": "MC",
+      "question": "Ki volt Petőfi Sándor szerepe az 1848-as forradalomban?",
+      "options": [
+        "Katonai vezér",
+        "Költő, forradalmár, szimbóluma a mozgalomnak",
+        "Iparos",
+        "Királyi tanácsadó"
+      ],
+      "answer": "Költő, forradalmár, szimbóluma a mozgalomnak"
+    },
+    {
+      "type": "BLANK",
+      "question": "A jobbágy-felszabadítás eredményeként a jobbágyok ________ alól szabadultak fel.",
+      "target": "feudális kötelezettségek",
+      "hint": "társadalmi viszony"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az egyik kritika az áprilisi törvényekben foglalt jobbágyfelszabadítással szemben?",
+      "options": [
+        "Túl radikális volt",
+        "A föld tulajdonjogáért sok jobbágy nem tudott fizetni",
+        "Nem volt elég gyors",
+        "Túl kevés jobbágyot érintett"
+      ],
+      "answer": "A föld tulajdonjogáért sok jobbágy nem tudott fizetni"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1848-as forradalom szellemi alapjait az 1780-as ________ eszméi adták.",
+      "target": "felvilágosodás",
+      "hint": "eszmeáramlat"
+    },
+    {
+      "type": "MC",
+      "question": "Hogyan kezdődött az 1848-as magyar forradalom?",
+      "options": [
+        "Fegyveres felkeléssel",
+        "Nyilvános gyűlésen, ahol forradalmárok beszéltek",
+        "Az Országgyűlésben",
+        "Katonai puccsal"
+      ],
+      "answer": "Nyilvános gyűlésen, ahol forradalmárok beszéltek"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1848-as forradalom szeptember-októberére a nemzetiségi mozgalmak ________ az eredeti forradalom ellen.",
+      "target": "támadások",
+      "hint": "ellenállás"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik volt az egyik szembeszálló erő az 1848-as magyar forradalommal?",
+      "options": [
+        "A magyarok szocialistái",
+        "Az osztrák hadsereg és a nemzetiségi mozgalmak",
+        "A francia kormány",
+        "Az angol liberálisok"
+      ],
+      "answer": "Az osztrák hadsereg és a nemzetiségi mozgalmak"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1848-as április 14-i függetlenségnyilatkozat Magyarország ________ az Osztrák Birodalomtól deklarálta.",
+      "target": "függetlenségét",
+      "hint": "politikai státusz"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt a Batthyány-kormány fő célja?",
+      "options": [
+        "A monarchia erősítése",
+        "Az 1848-as áprilisi törvények gyakorlatba ültetése",
+        "A nemzetiségek elnyomása",
+        "Az arisztokrácia hatalmának visszaállítása"
+      ],
+      "answer": "Az 1848-as áprilisi törvények gyakorlatba ültetése"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1848-as forradalom Széchenyi számára ________ volt, mivel megijedett a forradalmi sodráson.",
+      "target": "traumatikus",
+      "hint": "szorongást okozó"
+    },
+    {
+      "type": "MC",
+      "question": "Miért voltak fontosak az 1848-as áprilisi törvények a magyar geschiedenis számára?",
+      "options": [
+        "Csak szimbolikus értékük volt",
+        "Megteremtették az 1867-es kiegyezés alapjait és a polgári társadalom alapjait",
+        "Rögtön megoldották az összes politikai problémát",
+        "Nem voltak hosszú idejű hatások"
+      ],
+      "answer": "Megteremtették az 1867-es kiegyezés alapjait és a polgári társadalom alapjait"
+    }
+  ]
+}

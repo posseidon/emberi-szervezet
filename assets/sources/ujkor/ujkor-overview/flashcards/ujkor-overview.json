@@ -1,0 +1,91 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "ujkor-overview",
+  "title": "A ujkor – Időszak összegzése",
+  "flashcards": [
+    {
+      "id": "ujkor-overview-001",
+      "term": "Mi volt az 'ujkor' (Modern Era) fő jellemzője és milyen időintervallumot ölelt fel?",
+      "definition": "Az ujkor a 19. és korai 20. századi Európa és a világot átformáló korszaka volt. Jellemzői: ipari forradalom, kapitalizmus, nacionalizmus, imperializmus, szocializmus, polgári társadalomnak az átalakulása. Napóleon lezárultával (1815) kezdődött és az I. világháborúig (1914) tartott.",
+      "quote": "Ipar, nacionalizmus, imperializmus",
+      "text": "Az ujkor időszaka"
+    },
+    {
+      "id": "ujkor-overview-002",
+      "term": "Milyen főbb ideológiák jellemeztek az ujkort?",
+      "definition": "Az ujkor ideológiai sokszínűsége: liberalizmus (egyéni szabadság, jogegyenlőség), nacionalizmus (nemzeti függetlenség), konzervativizmus (hagyomány, rend), szocializmus/marxizmus (osztály nélküli társadalom). Ezek az ideológiák állandó vitákat és politikai konfliktusokat szültek.",
+      "quote": "Ideológiák ütközése a társadalomban",
+      "text": "Politikai ideológiák az ujkorban"
+    },
+    {
+      "id": "ujkor-overview-003",
+      "term": "Hogyan hatottak az ipari forradalmak az ujkor társadalmi szerkezetére?",
+      "definition": "Az első (gőz, textil) és második (elektromosság, kémia) ipari forradalmak teljesen átformálták a társadalmi szerkezetet. Új osztályok (tőkés burzsoázia, ipari munkásság), városiasodás, szociális problémák, munkasmozgalmak és végül a szocializmus ideológiájának kialakulása volt az eredmény.",
+      "quote": "Gépek, városok, osztályharcok",
+      "text": "Ipari forradalmak és társadalmi változások"
+    },
+    {
+      "id": "ujkor-overview-004",
+      "term": "Mit ért az 'imperializmus' az ujkor végén?",
+      "definition": "A 19. száz vége és 20. század kezdete: a nagyhatalmak (Anglia, Franciaország, Németország, Ausztria-Magyarország, Oroszország, USA, Japán) gyarmat-szerzési verseny és világhegemóniáért való küzdelem. Ez az I. világháborúhoz vezetett, amely az ujkor végét jelzi.",
+      "quote": "Nagyhatalmak versenye a világért",
+      "text": "Imperializmus és világháború"
+    },
+    {
+      "id": "ujkor-overview-005",
+      "term": "Hogyan értelmezhető az ujkor mint 'átmeneti korszak' az ősi rend és a modern kor között?",
+      "definition": "Az ujkor a feudalizmus végén és a modern polgári/szocialista társadalom kezdete között az átmeneti korszak volt. Jellemzői: a hagyományos arisztokrata rend megbomlása, a kapitalista piacgazdaság és nacionalista államok felépülése, az ipari munkásság politizálódása. Az ujkor végén már világosan kirajzolódtak a 20. századi konfliktusok.",
+      "quote": "Régitől az új felé vezető út",
+      "text": "Az ujkor mint átmeneti korszak"
+    },
+    {
+      "id": "ujkor-overview-006",
+      "term": "modern era",
+      "definition": "A 19. és korai 20. századi időszak, amely a polgári, ipari és nemzeti átalakulásokat jelzi.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "ujkor-overview-007",
+      "term": "kapitalizmus",
+      "definition": "A privateigdom és szabad piac alapú gazdasági rendszer, amely az első ipari forradalom nyomán fejlődött ki.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "ujkor-overview-008",
+      "term": "nacionalizmus",
+      "definition": "A nemzeti önálló államok megteremtésére irányuló politikai mozgalom.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "ujkor-overview-009",
+      "term": "imperializmus",
+      "definition": "A nagyhatalmak gyarmat-szerzési és hegemónikus politikája a 19. század végén.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "ujkor-overview-010",
+      "term": "Karl Marx",
+      "definition": "Filozófus, közgazdász, szocializmus tudományos alapítása",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "ujkor-overview-011",
+      "term": "Charles Darwin",
+      "definition": "Biológus, evolúcióelmélet",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "ujkor-overview-012",
+      "term": "Sigmund Freud",
+      "definition": "Pszichológus, az öntudatlan elmélete",
+      "quote": "",
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "jelenkor",
+  "type": "topic-quiz-2",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Milyen fejlődéshez vezetett a demográfiai átmenet első fázisából a másodikba való átmenet?",
+      "options": [
+        "Népességfogyáshoz",
+        "Népességrobbanáshoz",
+        "Stagnáláshoz",
+        "Ingadozáshoz"
+      ],
+      "answer": "Népességrobbanáshoz"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Az Alaptörvény 2012-es bevezetésére milyen összefüggés volt?",
+      "options": [
+        "Az EU-s csatlakozás",
+        "Az 1989-es rendszerváltás",
+        "A 2010-es kétharmados választás",
+        "A NATO-csatlakozás"
+      ],
+      "answer": "A 2010-es kétharmados választás"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Milyen hatása volt az abortusztilalomnak a Ratkó-korszakban?",
+      "options": [
+        "Népességfogyás",
+        "Születésszám jelentős növekedése",
+        "Születésszám csökkenése",
+        "Nincs jellegzetes hatás"
+      ],
+      "answer": "Születésszám jelentős növekedése"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Miért vezet a veges házasság az asszimilációhoz a határon túli magyarok között?",
+      "options": [
+        "Gazdasági okokból",
+        "A gyermekek elveszítik az anyanyelvüket",
+        "Politikai nyomásnak vannak kitéve",
+        "Az iskola csak egy nyelven tanít"
+      ],
+      "answer": "A gyermekek elveszítik az anyanyelvüket"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Az EU Tanácsában a kettős többség bevezetésé milyen célt szolgált?",
+      "options": [
+        "Nagyobb státuszú államok hatalma",
+        "Kistelepülések jogai",
+        "Kistelepülések és nagy államok közötti egyensúly",
+        "Német dominancia"
+      ],
+      "answer": "Kistelepülések és nagy államok közötti egyensúly"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Mit okoz az elöregedés Magyarországon hosszú távon?",
+      "options": [
+        "Gazdasági növekedést",
+        "Nyugdíjrendszer és egészségügy terhelésének növekedéséről",
+        "Automatikus gazdasági fejlődést",
+        "Fiatal munkaerő-túlsúlyt"
+      ],
+      "answer": "Nyugdíjrendszer és egészségügy terhelésének növekedéséről"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Az Antall-kormány nemzetpolitikájának oka volt",
+      "options": [
+        "Szovjet nyomás",
+        "Az 1988-as tüntetés és a közvélemény megváltozása",
+        "Az EU-s előírások",
+        "A párt ideológiájáé"
+      ],
+      "answer": "Az 1988-as tüntetés és a közvélemény megváltozása"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "Miért terheleme a 2015-ös migráció az EU-ra?",
+      "options": [
+        "Gazdaságból",
+        "Az intézmények túlterhelésé",
+        "A szíriai polgárháború és az arab tavasz elől menekültek tömeges érkezése",
+        "Az oktatási rendszer összeomlása"
+      ],
+      "answer": "A szíriai polgárháború és az arab tavasz elől menekültek tömeges érkezése"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mi okozta a Ratkó-korszak után a születésszám csökkenésé?",
+      "options": [
+        "Gazdasági válság",
+        "A női emancipáció, a felsőoktatás terjedése és az urbanizáció",
+        "Katonai jelenlét",
+        "Szovjet közvetítés"
+      ],
+      "answer": "A női emancipáció, a felsőoktatás terjedése és az urbanizáció"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Az Európai Bizottság szupranacionális voltá mit jelent?",
+      "options": [
+        "Tagállamok alatt működik",
+        "Tagállamok feletti döntéseket hoz",
+        "Tagállamokkal egyenlő szinten működik",
+        "Nem működik rendszeresk"
+      ],
+      "answer": "Tagállamok feletti döntéseket hoz"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Miért vezetett az ingázás az 1970-80-as Magyarországon az urbanizáció kismértékben?",
+      "options": [
+        "Nem vezetett",
+        "Az emberek nagyvárosi munkahelyek között közlekedtek",
+        "Az emberek nem költöztek véglegesen a városokba",
+        "Csak katonákat érintett"
+      ],
+      "answer": "Az emberek nem költöztek véglegesen a városokba"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "A kettős állampolgárság törvénye 2010-ben hogyan befolyásolt a külhoni magyarokat?",
+      "options": [
+        "Automatikus magyarországi jog nélkül",
+        "Lehetővé tette a magyar állampolgárságot szerzést szavazati joggal",
+        "Nem adott semmit",
+        "Utazási korlátozásokat okozottak"
+      ],
+      "answer": "Lehetővé tette a magyar állampolgárságot szerzést szavazati joggal"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Az Alaptörvény kétharmados módosítási követelménye mit jelent?",
+      "options": [
+        "Könnyű módosítás",
+        "Stabiladást és az alapvető értékek védelmét",
+        "Teljes blokád",
+        "Automatikus bírósági felülvizsgálat"
+      ],
+      "answer": "Stabiladást és az alapvető értékek védelmét"
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "Az EU költségvetési szerkezete (kohézió+agrár34%+37%) miért problematikus?",
+      "options": [
+        "Túl alacsony",
+        "Nem teremt megújulást és kutatást (3szakváltozást zárja ki)",
+        "Túl magas",
+        "Nem finanszíroz infrastruktúrát"
+      ],
+      "answer": "Nem teremt megújulást és kutatást (3szakváltozást zárja ki)"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az Európai Tanács állandó elnökségé (Lisszaboni Szerződés) miért volt fontos?",
+      "options": [
+        "Erősebb francia vezérés",
+        "Politikai kontinuitás és az EU-s irányok konzisztenciája",
+        "Kisebb költségvetés",
+        "Kisebb demokrácia"
+      ],
+      "answer": "Politikai kontinuitás és az EU-s irányok konzisztenciája"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Miért növekszik a szegregáció az oktatásban az 1990-es Magyarország után?",
+      "options": [
+        "Nincs szegregáció",
+        "A szegénység és etnikai feszültségek",
+        "Az EU döntéseiből",
+        "Nincs oktatási reform"
+      ],
+      "answer": "A szegénység és etnikai feszültségek"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "A párhuzamos társadalmak kialakulása hogyan kapcsolódik a migráció folyamatokhoz?",
+      "options": [
+        "Semmi kapcsolat",
+        "Az integráció kudarca a migráció során szegregáció jön létre",
+        "Automatikus integráció",
+        "Csak a gazdagok esetén fordul elő"
+      ],
+      "answer": "Az integráció kudarca a migráció során szegregáció jön létre"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Az EU jogalkotásban a Parlament szerepe hogyan változott?",
+      "options": [
+        "Csökkent",
+        "Növekedett a közjogalkotásfig a Lisszaboni Szerződésszel",
+        "Nincs változás",
+        "Teljes hatalom"
+      ],
+      "answer": "Növekedett a közjogalkotásfig a Lisszaboni Szerződésszel"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Miért okoz az elöregedés problémákat a munkaerőpiacon?",
+      "options": [
+        "Nincs probléma",
+        "A munkaképes népesség arányának csökkenése",
+        "Túl sok fiatal munkaerő",
+        "A gépesítés"
+      ],
+      "answer": "A munkaképes népesség arányának csökkenése"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "Az anyanyelvi oktatás hiánya milyen hatással van a határon túli magyarokra?",
+      "options": [
+        "Nincsen hatás",
+        "Felgyorsítja az asszimilációt és a nyelvelvesztést",
+        "Segít az integrációban",
+        "Gazdasági előnyt jelent"
+      ],
+      "answer": "Felgyorsítja az asszimilációt és a nyelvelvesztést"
+    }
+  ]
+}

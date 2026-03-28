@@ -1,0 +1,51 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "etnikai-viszonyok",
+  "quiz": [
+    {
+      "type": "MC",
+      "question": "Mit ért a 'magyarosítás' a dualizmus korában?",
+      "options": [
+        "A nemzeti nyelvezet megtanítása",
+        "A nemzetiségi identitás felszámolása magyar kultúra felé",
+        "A közigazgatás általánosítása",
+        "A vallás módosítása"
+      ],
+      "answer": "A nemzetiségi identitás felszámolása magyar kultúra felé"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1867-es emancipáció során a ________ jogi egyenlőségét biztosították.",
+      "target": "zsidók",
+      "hint": "vallási közösség"
+    },
+    {
+      "type": "MC",
+      "question": "Az 1895-ös törvény mely vallást tette az államegyházzal egyenrangúvá?",
+      "options": [
+        "Református",
+        "Katolikus",
+        "Izraelita",
+        "Evangélikus"
+      ],
+      "answer": "Izraelita"
+    },
+    {
+      "type": "BLANK",
+      "question": "A ________ nemzeti mozgalma aktívan szembeszállt a magyarosítási политикával a dualizmus korában.",
+      "target": "román",
+      "hint": "nemzetiség"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az Osztrák-Magyar Monarchia nemzetiségi kérdésének alapproblémája?",
+      "options": [
+        "Túl sok nép egy államban",
+        "A magyar dominancia vs. nemzetiségi aspirációk",
+        "Az elmaradott gazdaság",
+        "A hiányzó zsoldsoldáták"
+      ],
+      "answer": "A magyar dominancia vs. nemzetiségi aspirációk"
+    }
+  ]
+}

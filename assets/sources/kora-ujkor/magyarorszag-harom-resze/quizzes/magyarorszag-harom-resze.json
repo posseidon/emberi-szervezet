@@ -1,0 +1,196 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "magyarorszag-harom-resze",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "BLANK",
+      "question": "Kérdés 1?",
+      "options": [],
+      "answer": "Válasz 1"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Kérdés 2?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "type": "BLANK",
+      "question": "Kérdés 3?",
+      "options": [],
+      "answer": "Válasz 3"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Kérdés 4?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "Kérdés 5?",
+      "options": [],
+      "answer": "Válasz 5"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Kérdés 6?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "type": "BLANK",
+      "question": "Kérdés 7?",
+      "options": [],
+      "answer": "Válasz 7"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "Kérdés 8?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "type": "BLANK",
+      "question": "Kérdés 9?",
+      "options": [],
+      "answer": "Válasz 9"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Kérdés 10?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "Kérdés 11?",
+      "options": [],
+      "answer": "Válasz 11"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Kérdés 12?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "type": "BLANK",
+      "question": "Kérdés 13?",
+      "options": [],
+      "answer": "Válasz 13"
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "Kérdés 14?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "type": "BLANK",
+      "question": "Kérdés 15?",
+      "options": [],
+      "answer": "Válasz 15"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Kérdés 16?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "Kérdés 17?",
+      "options": [],
+      "answer": "Válasz 17"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Kérdés 18?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "type": "BLANK",
+      "question": "Kérdés 19?",
+      "options": [],
+      "answer": "Válasz 19"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "Kérdés 20?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "1956-forradalom",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely évben robbant ki az 1956-os magyar forradalom?",
+      "options": [
+        "1954",
+        "1955",
+        "1956",
+        "1957"
+      ],
+      "answer": "1956"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az 1956-os forradalom _____ havában kezdődött.",
+      "options": [],
+      "answer": "október"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Ki volt az 1956-os forradalom kormányzati vezetője?",
+      "options": [
+        "Gerő Ernő",
+        "Nagy Imre",
+        "Kádár János",
+        "Rákosi Mátyás"
+      ],
+      "answer": "Nagy Imre"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az 1956-os forradalom _____ miatt kiáltottunk az egyetemisták.",
+      "options": [],
+      "answer": "szabadság"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Melyik országbeli hallgatócsoportnak volt szimbolikuma a magyar forradalom?",
+      "options": [
+        "Lengyel",
+        "Szovjet",
+        "Német",
+        "Osztrák"
+      ],
+      "answer": "Lengyel"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ rádió hazugságait ismételgette a forradalom alatt.",
+      "options": [],
+      "answer": "szovjet"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mit szimbolizált az égő szovjet autók fénye az útcsatornákon?",
+      "options": [
+        "Gazdasági válság",
+        "Szabadság és ellenállás",
+        "Katonai kudarcok",
+        "Közlekedési balesetek"
+      ],
+      "answer": "Szabadság és ellenállás"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A Nagy Imre kormány _____ nyújtott a forradalmároknak.",
+      "options": [],
+      "answer": "amnésztia"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mi volt az 'antistalinista' mozgalom célja az 1956-ban?",
+      "options": [
+        "Sztálin kultusza eltörlése",
+        "Rákosi eltávolítása",
+        "Demokratikus reformok",
+        "Közgazdasági szabályozás"
+      ],
+      "answer": "Sztálin kultusza eltörlése"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az 1956-os forradalom kezdete a _____ rádió szövegének hallatára történt.",
+      "options": [],
+      "answer": "lengyel"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik város volt az első, ahol tüntetések robbant ki?",
+      "options": [
+        "Pécs",
+        "Szeged",
+        "Budapest",
+        "Debrecen"
+      ],
+      "answer": "Budapest"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A szovjet katonák _____ alatt támadták meg a forradalmárok pozícióit.",
+      "options": [],
+      "answer": "éjszaka"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik szovjet tábornok vezette a magyar invázió katonai műveleteit?",
+      "options": [
+        "Zhukov",
+        "Konev",
+        "Malinovski",
+        "Rokossowski"
+      ],
+      "answer": "Konev"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A szovjet intervenciót _____ szombat indította meg.",
+      "options": [],
+      "answer": "november 4"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mit jelent a 'diáktüntetés' az 1956-os forradalom kezdetén?",
+      "options": [
+        "Katonai operáció",
+        "Egyetemista csoportok tüntetése",
+        "Gazdasági szervezet",
+        "Szovjet propaganda"
+      ],
+      "answer": "Egyetemista csoportok tüntetése"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A Nagy Imre kormány tagja _____ volt, aki később szovjet támogatottá vált.",
+      "options": [],
+      "answer": "Kádár János"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik nem volt az 1956-os forradalom célja?",
+      "options": [
+        "Szovjet jelenlét eltávolítása",
+        "Demokratikus reformok",
+        "Szocialista rendszer megtartása",
+        "Kommunizmus eltörlése"
+      ],
+      "answer": "Kommunizmus eltörlése"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A Munkaságot Tanácsok _____ szervezetei voltak a forradalomnak.",
+      "options": [],
+      "answer": "munkás"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Hogyan ért véget az 1956-os forradalom?",
+      "options": [
+        "Győzelmesen",
+        "Szovjet katonai elnyomásra",
+        "Nemzetközi beavatkozásra",
+        "Belső kompromisszumra"
+      ],
+      "answer": "Szovjet katonai elnyomásra"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az 1956-os forradalom _____ emberöltőnyi ideig tartott.",
+      "options": [],
+      "answer": "két hét"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik nemzetközi szervezet nem hallgatott az 1956-os forradalmárokra?",
+      "options": [
+        "ENSZ",
+        "NATO",
+        "Szovjet Blokk",
+        "Semmi"
+      ],
+      "answer": "ENSZ"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az 1956-os forradalom alatt _____ nagybirtokos mellett az egyéb intézmények támogatták.",
+      "options": [],
+      "answer": "nem volt"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mit szimbólumként használtak a forradalmárok?",
+      "options": [
+        "Szovjet zászló",
+        "Magyar zászló középen szovjet jelvénnyel",
+        "Tiszta magyar zászló",
+        "NATO zászló"
+      ],
+      "answer": "Tiszta magyar zászló"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Nagy Imre _____ után kivégeztek.",
+      "options": [],
+      "answer": "két év"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik volt az 1956 után bekövetkezett kormány?",
+      "options": [
+        "Nagy Imre",
+        "Gerő",
+        "Kádár János",
+        "Bethlen"
+      ],
+      "answer": "Kádár János"
+    }
+  ]
+}

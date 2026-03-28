@@ -1,0 +1,201 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "kozepkor",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely év jelöli a Nyugatrómai Birodalom bukását és a középkor kezdetét?",
+      "options": [
+        "476",
+        "800",
+        "1000",
+        "1453"
+      ],
+      "answer": "476"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Mi volt az iszlám vallás alapítójának neve?",
+      "options": [
+        "Mohamed",
+        "Ábrahám",
+        "Mózes",
+        "Saladin"
+      ],
+      "answer": "Mohamed"
+    },
+    {
+      "id": 3,
+      "type": "BLANK",
+      "question": "A feudális társadalom három fő rendéből az egyik az _____, akik védelmet nyújtottak.",
+      "options": [],
+      "answer": "nemesség"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Mit jelent az 'Aranybulla'?",
+      "options": [
+        "Egy arany érme",
+        "II. András által 1222-ben kiadott jogbiztosító oklevél",
+        "Egy vallási szertartás",
+        "A király súlya"
+      ],
+      "answer": "II. András által 1222-ben kiadott jogbiztosító oklevél"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "A középkori város szabad lakosa, aki egy év és egy nap után polgárjoggal rendelkezett, _____nek hívták.",
+      "options": [],
+      "answer": "polgár"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Ki volt az első magyar király?",
+      "options": [
+        "Álmos",
+        "Árpád",
+        "I. (Szent) István",
+        "Géza"
+      ],
+      "answer": "I. (Szent) István"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mely csatában legyőzte I. Ottó a magyarokat?",
+      "options": [
+        "Augsburg, 955",
+        "Pozsony, 907",
+        "Muhi, 1241",
+        "Nándorfehérvár, 1456"
+      ],
+      "answer": "Augsburg, 955"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A középkori városban azonos mesterséget űzők szervezetét _____ nak nevezték.",
+      "options": [],
+      "answer": "céh"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mit szimbolizáltak a góti rózsaablakok?",
+      "options": [
+        "A világiságot",
+        "Az isteni fényt",
+        "A halál képét",
+        "A Mária tiszteletét"
+      ],
+      "answer": "Az isteni fényt"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A Kárpát-medence magyarjait a _____ alatt ért tatár támadás.",
+      "options": [],
+      "answer": "1241"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mivel szilárditotta meg I. Károly az ország gazdaságát?",
+      "options": [
+        "Közlekedési módszerek javításával",
+        "Bányászat fejlesztésével",
+        "Város alapítással",
+        "Egyházi támogatás növelésével"
+      ],
+      "answer": "Bányászat fejlesztésével"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A középkor végefelé a _____ fejedelem alapította az első magyar nyomdát.",
+      "options": [],
+      "answer": "Mátyás"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik rendet alapította Szent Benedek a 6. században?",
+      "options": [
+        "Ferences rend",
+        "Domonkos rend",
+        "Bencés rend",
+        "Pálos rend"
+      ],
+      "answer": "Bencés rend"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A jobbágy terményadójának 10%-a az _____ nak járt.",
+      "options": [],
+      "answer": "egyháznak"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Ki hódította meg Konstantinápolyt 1453-ban?",
+      "options": [
+        "Szultán Szulejman",
+        "II. Mehmed szultán",
+        "Batu kán",
+        "Dzsingisz kán"
+      ],
+      "answer": "II. Mehmed szultán"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az iszlám szerzetesek, akik városokban prédikáltak és szegények között szolgáltak, _____rendek voltak.",
+      "options": [],
+      "answer": "koldulórendek"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mely év jelölte a magyar honfoglalás befejezését (pozsonyi csata)?",
+      "options": [
+        "895",
+        "907",
+        "950",
+        "1000"
+      ],
+      "answer": "907"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az iszlám szent könyve, amely Mohamed kijelentéseit tartalmazza, a _____.",
+      "options": [],
+      "answer": "Korán"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mely nő volt I. Károly Róbert második felesége?",
+      "options": [
+        "Aragóniai Beatrix",
+        "Podjebrád Katalin",
+        "Gizella bajor hercegnő",
+        "Sarolt"
+      ],
+      "answer": "Aragóniai Beatrix"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ csatában (1456) Hunyadi János megvédte az ország függetlenségét a türökök ellen.",
+      "options": [],
+      "answer": "Nándorfehérvári"
+    }
+  ]
+}

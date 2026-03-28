@@ -1,0 +1,51 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "reformkor-kerdesek",
+  "quiz": [
+    {
+      "type": "MC",
+      "question": "Mi volt a reformkor központi társadalmi kérdése?",
+      "options": [
+        "Az urbanizáció",
+        "A jobbágy-felszabadítás",
+        "A technológiai fejlődés",
+        "Az industri-szervezés"
+      ],
+      "answer": "A jobbágy-felszabadítás"
+    },
+    {
+      "type": "BLANK",
+      "question": "A reformkor során a ________ propagálása a nemzeti identitás kiépítésének fontos eszköze volt.",
+      "target": "magyar nyelvezet",
+      "hint": "kommunikációs eszköz"
+    },
+    {
+      "type": "MC",
+      "question": "Mit jelent a 'közteherviselés' követelménye?",
+      "options": [
+        "Csak az adózás kiterjesztése",
+        "Minden állampolgár (nemesek is) járuljon hozzá az állam fenntartásához",
+        "Csak a militarizmus",
+        "A privatizáció támogatása"
+      ],
+      "answer": "Minden állampolgár (nemesek is) járuljon hozzá az állam fenntartásához"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1867-es Kiegyezés az 'államtalanság' kérdését ________ módon rendezte meg.",
+      "target": "kompromisszum",
+      "hint": "megoldás típusa"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az egyik fő nemzetiségi probléma a reformkor során?",
+      "options": [
+        "A nemzetiségek megsemmisítése",
+        "Az asszimiláció vs. nemzeti identitás megőrzése",
+        "A kulturális osztályok",
+        "Az etnikai rabszolgaság"
+      ],
+      "answer": "Az asszimiláció vs. nemzeti identitás megőrzése"
+    }
+  ]
+}

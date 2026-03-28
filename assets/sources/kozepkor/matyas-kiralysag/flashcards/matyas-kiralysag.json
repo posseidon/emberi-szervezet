@@ -1,0 +1,95 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Hunyadi Mátyás általános jellemzése",
+      "definition": "Magyar király (1458-1490), aki központosított királyi hatalmat teremtett és birodalomépítő terveket követett.",
+      "quote": "A leghatalmasabb magyar király",
+      "text": "Mátyás egyhellőleg volt: a török ellen védekezett, de nyugatra Bécs foglalására törekedett. Reneszánsz mecénásként is működött."
+    },
+    {
+      "id": 2,
+      "term": "Fekete sereg fenntartása",
+      "definition": "Mátyás főként a rendkívüli hadiadóból tartotta fenn a 15-20 ezer fős Fekete sereget.",
+      "quote": "Az adóztatás a hadsereg alapja",
+      "text": "A Fekete sereg a kor egyik legerősebb reguláris hadereje volt. Fenntartása azonban óriási terhet rótt az államra."
+    },
+    {
+      "id": 3,
+      "term": "Füstpénz",
+      "definition": "A kapuadót felváltó adónem, amelyet családonként (háztartásonként) szedtek be. Ez igazságosabb volt.",
+      "quote": "Család után fizetett adó",
+      "text": "Ez a reform a királyi kincstár bevételeit növelte. De ugyanakkor az egyházzal ellentétést okozott."
+    },
+    {
+      "id": 4,
+      "term": "Koronavám",
+      "definition": "Az új vámszedési rendszer, amely a korábbi harmincadvám helyett lépett. A célja a vámmentességek eltörlése volt.",
+      "quote": "Az erősebb királyi bevételi monopólium",
+      "text": "A koronavám a kereskedelem számára terhet jelentett, de a királyi kincstár szempontjából hasznos volt."
+    },
+    {
+      "id": 5,
+      "term": "Kincstartóság",
+      "definition": "Mátyás által létrehozott új hivatal a királyi jövedelmek kezeléséhez. Köznemesi vagy polgári kezdetű hivatalnokokkal töltötte meg.",
+      "quote": "Az ellenerőszak a bárók ellen",
+      "text": "Ernuszt János volt az első kincstartó. Ez a hivatal gyengítette a bárók politikai hatalmát."
+    },
+    {
+      "id": 6,
+      "term": "Központosított királyi hatalom",
+      "definition": "Mátyás célja az volt, hogy egyeduralmat teremtsen a rendek korlátai nélkül. Sok tekintetben sikerült is.",
+      "quote": "A királyság absolutista jellegei",
+      "text": "Mátyás ritkán hívta össze az országgyűlést. Helyette királyi rendeletekkel kormányzott."
+    },
+    {
+      "id": 7,
+      "term": "Cseh háborúk, 1468 után",
+      "definition": "Mátyás Podjebrád György cseh király ellen hadjáratott indított. A végén a cseh korona felét kapta.",
+      "quote": "Az észak felé irányított ambíció",
+      "text": "A cseh háborúk nem hozták el a német-római császári címet, de megerősítették Mátyás közép-európai pozícióját."
+    },
+    {
+      "id": 8,
+      "term": "Olmützi béke, 1479",
+      "definition": "Mátyás és Jagelló Ulászló között kötött béke. Mátyás megtarthatta Morvaországot, Sziléziát és Lausitzot.",
+      "quote": "A cseh háborúk lezárása",
+      "text": "Ez a béke a 'kettős királyság' kialakulásához vezetett, ahol mindketten viselték a cseh királyi címet."
+    },
+    {
+      "id": 9,
+      "term": "Osztrák háborúk, 1485-1487",
+      "definition": "Mátyás elfoglalta Bécset (1485) és Bécsújhelyet (1487). Bécs lett udvarának székhelye.",
+      "quote": "A nyugati hatalmi terjeszkedés",
+      "text": "Ez az előjelzése volt annak, hogy Mátyás nem csak védekezni akart, hanem nyugatra is terjeszkedni. Az császári cím azonban nem jutott neki."
+    },
+    {
+      "id": 10,
+      "term": "Bibliotheca Corviniana",
+      "definition": "Mátyás királyi könyvtára, amely a reneszánsz humanizmus egyik legszebb magyar emléke. 2000-2500 kötetes volt.",
+      "quote": "Az ismeret és a szépség tárháza",
+      "text": "A corvinák díszes, kézzel írt kódexek voltak. A Vatikáni Könyvtár után Európa második legnagyobb könyvtára volt."
+    },
+    {
+      "id": 11,
+      "term": "Corvinák",
+      "definition": "Mátyás királyi könyvtárának díszes kódexei, melyeket gazdag illusztrációk és aranyozott borítók jellemeztek.",
+      "quote": "Az irodalom és a szépség egyesült",
+      "text": "A corvinák nagy része a török hódítás idején szétszóródott. Ma körülbelül 200 hiteles példány maradt fenn."
+    },
+    {
+      "id": 12,
+      "term": "Vitéz János",
+      "definition": "Mátyás nevelője és humanista tudós, esztergomi érsek. Az 1471-es összeesküvésben részt vett.",
+      "quote": "Az odakiadott tudás mestere",
+      "text": "Vitéz János az egyik legfontosabb magyar humanista volt. Mátyás udvarában nagy szerepe volt a kultúrnak."
+    },
+    {
+      "id": 13,
+      "term": "Mátyás halála utáni zűrzavar",
+      "definition": "1490-ben Mátyás hirtelen halála után a Fekete sereg feloszlott, a főurak ismét megerősödtek, és Magyarország gyengült.",
+      "quote": "Az apa halála után az örökség szétesik",
+      "text": "Mátyásnak nem született törvényes örököse. Corvin János (törvénytelen fia) trónigénye elbukott. Ez drámaian gyengítette az országot."
+    }
+  ]
+}

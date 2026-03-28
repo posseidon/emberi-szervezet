@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "elso-vilaghaború",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely év jelöli az első világháború kezdetét?",
+      "options": [
+        "1912",
+        "1914",
+        "1916",
+        "1918"
+      ],
+      "answer": "1914"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az első világháború a _____ végéig tartott.",
+      "options": [],
+      "answer": "1918"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Milyen okból robbant ki az első világháború?",
+      "options": [
+        "Gazdasági verseny",
+        "Ferenc Ferdinánd meggyilkolása",
+        "Gyarmati viták",
+        "Vallási ellentétek"
+      ],
+      "answer": "Ferenc Ferdinánd meggyilkolása"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az első világháborúban az Antant tagjai voltak az _____, a Franciaország és az Oroszország.",
+      "options": [],
+      "answer": "Nagy-Britannia"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Milyen típusú háborúvá vált az első világháború főként?",
+      "options": [
+        "Tengerai háborúvá",
+        "Légi hadviselésévé",
+        "Állóháborúvá",
+        "Gyors manőverző háborúvá"
+      ],
+      "answer": "Állóháborúvá"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A bolsevik forradalom _____ évben robbant ki az Oroszországi Birodalomban.",
+      "options": [],
+      "answer": "1917"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Ki vezette a bolsevik forradalmat?",
+      "options": [
+        "Sztálin",
+        "Trockij",
+        "Lenin",
+        "Kamenjev"
+      ],
+      "answer": "Lenin"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Magyarország a _____ oldalán harcolt az első világháborúban.",
+      "options": [],
+      "answer": "Központi Hatalmak"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik nem volt az első világháború következménye?",
+      "options": [
+        "Sok millió halott",
+        "Birodalmak összeomlása",
+        "Pénzügyi gazdasági válság",
+        "A Szovjetunió hatalomra kerülése"
+      ],
+      "answer": "Pénzügyi gazdasági válság"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az Osztrák-Magyar Monarchia az első világháború után _____ független államra szakadt szét.",
+      "options": [],
+      "answer": "számos"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Ki volt az amerikai elnök az első világháború alatt?",
+      "options": [
+        "Theodore Roosevelt",
+        "William McKinley",
+        "Woodrow Wilson",
+        "Warren G. Harding"
+      ],
+      "answer": "Woodrow Wilson"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az első világháborúban _____ emberről becsülik a halálozást világszerte.",
+      "options": [],
+      "answer": "15-17 millió"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mi volt a Sommer-csata jelentősége?",
+      "options": [
+        "A német győzelem szimbóluma",
+        "Az első világháború egyik legvéresebb csatája",
+        "Az Antant végső győzelme",
+        "Oroszország kivonulásának kezdete"
+      ],
+      "answer": "Az első világháború egyik legvéresebb csatája"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az első világháború után Magyarország egy _____ határai mögé szorult vissza.",
+      "options": [],
+      "answer": "sokkal kisebb"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik nem volt az első világháború tanulsága?",
+      "options": [
+        "A háborús technológia fejlődése",
+        "Millió civil halálozás",
+        "Nacionalizmus erősödése",
+        "A nemzetközi béke garantálása"
+      ],
+      "answer": "A nemzetközi béke garantálása"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az USA az első világháborúba _____ kezdetén lépett be.",
+      "options": [],
+      "answer": "1917"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Milyen pénzügyi helyzetet okozott az első világháború?",
+      "options": [
+        "Gazdasági fellendülést",
+        "Magas inflációt és adósságokat",
+        "Stabil valutát",
+        "Csökkent munkanélküliséget"
+      ],
+      "answer": "Magas inflációt és adósságokat"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az első világháborúban alkalmazták az első _____ támadásokat.",
+      "options": [],
+      "answer": "gáz"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik volt az első világháború után aláírt főbb békeszerzódés?",
+      "options": [
+        "Müncheni egyezmény",
+        "Versailles-i béke",
+        "Párizsi béke",
+        "Jaltai megállapodás"
+      ],
+      "answer": "Versailles-i béke"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az első világháborúban Magyarország főleg az _____ fronton harcolt.",
+      "options": [],
+      "answer": "keleti"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik újítás használták először nagy mennyiségben az első világháborúban?",
+      "options": [
+        "Repülőgépek",
+        "Harckocsik",
+        "Atomfegyverek",
+        "Rakéták"
+      ],
+      "answer": "Harckocsik"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az első világháborúban a _____ egyre nagyobb szerephez jutott a szárazföldi háborúhoz képest.",
+      "options": [],
+      "answer": "légiháborúzás"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Hogyan végződött az első világháború Magyarországra nézve?",
+      "options": [
+        "Végig győzelmesen",
+        "Stratégiai vereséggel és területi vesztéssel",
+        "Békés megállapodással",
+        "Semlegességgel"
+      ],
+      "answer": "Stratégiai vereséggel és területi vesztéssel"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az első világháborúban az _____ sikeres hadműveleteivel döntőt forduló fordulat jött létre.",
+      "options": [],
+      "answer": "Antant"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik ország volt az első, amely kilépett az első világháborúból?",
+      "options": [
+        "Franciaország",
+        "Oroszország",
+        "Olaszország",
+        "Luxemburg"
+      ],
+      "answer": "Oroszország"
+    }
+  ]
+}

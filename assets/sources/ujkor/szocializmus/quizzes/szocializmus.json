@@ -1,0 +1,193 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "szocializmus",
+  "quiz": [
+    {
+      "type": "MC",
+      "question": "Ki volt a marxizmus fő alapítója?",
+      "options": [
+        "Henri de Saint-Simon",
+        "Charles Fourier",
+        "Karl Marx",
+        "Robert Owen"
+      ],
+      "answer": "Karl Marx"
+    },
+    {
+      "type": "BLANK",
+      "question": "Marx szerint a történelem mozgatórugója az ________.",
+      "target": "osztályharc",
+      "hint": "társadalmi küzdelem"
+    },
+    {
+      "type": "MC",
+      "question": "Mit jelent az 'értéktöbblet' a marxista gazdaságelméletben?",
+      "options": [
+        "A munkás által termelt többlet érték, amit a tőkés sajátít el",
+        "A fogyasztó által fizetett felár",
+        "Az exportált áruk nyeresége",
+        "A kamat és bér közötti különbség"
+      ],
+      "answer": "A munkás által termelt többlet érték, amit a tőkés sajátít el"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az ________ a szocializmus korai, utópikus formája volt, amely erkölcsi alapokon képzelt el igazságos társadalmat.",
+      "target": "utópista szocializmus",
+      "hint": "szocializmus típusa"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik év nevezhető a modern munkásmozgalom születésének?",
+      "options": [
+        "1831",
+        "1848",
+        "1867",
+        "1917"
+      ],
+      "answer": "1848"
+    },
+    {
+      "type": "BLANK",
+      "question": "A ________ a kapitalizmus gazdasági alapja, amelyet a marxizmus fel akart számolni.",
+      "target": "magántulajdon",
+      "hint": "gazdasági intézmény"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az utópista szocializmus fő jellemzője?",
+      "options": [
+        "Tudományos alapokon állt",
+        "Elméleti volt és gyakorlati megvalósítása nem volt lehetséges",
+        "Kizárólag a munkások által támogatott",
+        "Forradalmár ideológia"
+      ],
+      "answer": "Elméleti volt és gyakorlati megvalósítása nem volt lehetséges"
+    },
+    {
+      "type": "BLANK",
+      "question": "Henri de Saint-Simon az ________ és ________ kezébe adta volna az irányítást.",
+      "target": "iparosok, tudósok",
+      "hint": "társadalmi csoportok"
+    },
+    {
+      "type": "MC",
+      "question": "Charles Fourier milyen közösségeket képzelt el az igazságos társadalomban?",
+      "options": [
+        "Nagy nemzetállamokat",
+        "Falansztereket (önellátó közösségeket)",
+        "Ipari städöket",
+        "Katonai szervezeteket"
+      ],
+      "answer": "Falansztereket (önellátó közösségeket)"
+    },
+    {
+      "type": "BLANK",
+      "question": "Robert Owen, brit gyáros, rövidebb munkaidőt és ________ biztosított munkásainak.",
+      "target": "jobb lakásokat",
+      "hint": "szociális ellátás"
+    },
+    {
+      "type": "MC",
+      "question": "Mit jelent a marxista 'proletárdiktatúra'?",
+      "options": [
+        "Az élénkőskodó hatalom",
+        "Az átmeneti államforma a kapitalizmus és kommunizmus között",
+        "Az egész nép közvetlenül kormányzása",
+        "Az egyetlen vezér hatalma"
+      ],
+      "answer": "Az átmeneti államforma a kapitalizmus és kommunizmus között"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1848-as Kommunista Kiáltvány célja a ________ egysége és forradalma volt.",
+      "target": "munkásosztály",
+      "hint": "társadalmi réteg"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt a marxista internacionalizmus fő gondolata?",
+      "options": [
+        "Nemzeti burzsoázia felsőbbsége",
+        "Az osztályhovatartozás fontosabbsága a nemzeti hovatartozásnál",
+        "A nemzeti identitás megőrzése",
+        "A nacionalista politika támogatása"
+      ],
+      "answer": "Az osztályhovatartozás fontosabbsága a nemzeti hovatartozásnál"
+    },
+    {
+      "type": "BLANK",
+      "question": "Marx elmélete szerint a kommunista társadalomban a termelőeszközök ________ kézbe kerülnek.",
+      "target": "közös",
+      "hint": "tulajdonjog típusa"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az egyik fő marxizmus-kritika az 1900-as években?",
+      "options": [
+        "Túl kevés igény az egyenlőségre",
+        "Túl merev és leegyszerűsített volt",
+        "Túl sok liberális elemet tartalmazott",
+        "Az arisztokrácia megóvása"
+      ],
+      "answer": "Túl merev és leegyszerűsített volt"
+    },
+    {
+      "type": "BLANK",
+      "question": "Friedrich Engels ________ munkatársa volt és közösen írták meg a Kommunista Kiáltványt.",
+      "target": "Karl Marx",
+      "hint": "név"
+    },
+    {
+      "type": "MC",
+      "question": "Mely évben valósult meg az első sikeres forradalom a marxista elvek alapján?",
+      "options": [
+        "1848",
+        "1871",
+        "1917",
+        "1945"
+      ],
+      "answer": "1917"
+    },
+    {
+      "type": "BLANK",
+      "question": "A ________ történetfilozófiai elmélete szerint a társadalmi változások alapja a gazdasági viszonyok.",
+      "target": "történelmi materializmus",
+      "hint": "marxista elmélet"
+    },
+    {
+      "type": "MC",
+      "question": "Mit jelent az 'osztályharc' a marxista felfogásban?",
+      "options": [
+        "Egyéni versengés",
+        "Ellentétes társadalmi csoportok közötti küzdelem",
+        "Vallási konfliktus",
+        "Nemzetközi háborúk"
+      ],
+      "answer": "Ellentétes társadalmi csoportok közötti küzdelem"
+    },
+    {
+      "type": "BLANK",
+      "question": "A ________ szerint az utópista szocializmus nem ismerte meg a kapitalista gazdaság belső törvényszerűségeit.",
+      "target": "marxizmus",
+      "hint": "tudományos szocializmus"
+    },
+    {
+      "type": "MC",
+      "question": "Mely szervezet a 19. századi munkásmozgalom szellemi alapjául szolgált?",
+      "options": [
+        "A szocialista párt",
+        "A szakszervezet",
+        "A Nemzetközi Munkás Asszociáció",
+        "A kommunista párt"
+      ],
+      "answer": "A Nemzetközi Munkás Asszociáció"
+    },
+    {
+      "type": "BLANK",
+      "question": "A ________ szocialista a munkásmozgalmak és szakszervezetek ideológiai alapjául szolgált.",
+      "target": "marxizmus",
+      "hint": "szocialista irányzat"
+    }
+  ]
+}

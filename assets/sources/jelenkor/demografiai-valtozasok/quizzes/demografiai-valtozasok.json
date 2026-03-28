@@ -1,0 +1,120 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "demografiai-valtozasok",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "A demográfiai átmenet hány fázisból áll?",
+      "options": [
+        "3 fázisból",
+        "4 fázisból",
+        "5 fázisból",
+        "6 fázisból"
+      ],
+      "answer": "5 fázisból"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Magyarország népessége melyik évben érte el a csúcspontot? _____",
+      "options": [],
+      "answer": "1981"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik miniszter nevéhez fűződik az abortusztilalom?",
+      "options": [
+        "Apró Antal",
+        "Ratkó Anna",
+        "Nagy Imre",
+        "Kádár János"
+      ],
+      "answer": "Ratkó Anna"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az 1981-ben mért népesség nagysága _____ millió fő volt.",
+      "options": [],
+      "answer": "10,7"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mennyi magyar menekült 1956 után külföldre?",
+      "options": [
+        "100 ezer",
+        "150 ezer",
+        "200 ezer",
+        "250 ezer"
+      ],
+      "answer": "200 ezer"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A GYES bevezetésének éve: _____",
+      "options": [],
+      "answer": "1967"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Milyen év kezdete a Ratkó-korszak?",
+      "options": [
+        "1948",
+        "1950",
+        "1952",
+        "1954"
+      ],
+      "answer": "1952"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A GYES időtartama _____ év.",
+      "options": [],
+      "answer": "3"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik év a világszintű népességnövekedés csúcsa?",
+      "options": [
+        "1960",
+        "1970",
+        "1980",
+        "1990"
+      ],
+      "answer": "1970"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az 1956-os forradalom után _____ ezer magyar menekült külföldre.",
+      "options": [],
+      "answer": "200"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mit jelent a demográfiai tél?",
+      "options": [
+        "A népességnövekedés nagysebessége",
+        "Az elöregedés és népességfogyás korszaka",
+        "A születésszám megemelkedésének időszaka",
+        "A gazdasági fejlődés időszaka"
+      ],
+      "answer": "Az elöregedés és népességfogyás korszaka"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az abortusztilalom _____ korszakra jellemző.",
+      "options": [],
+      "answer": "Ratkó"
+    }
+  ]
+}

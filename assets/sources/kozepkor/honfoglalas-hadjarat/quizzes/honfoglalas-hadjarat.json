@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "honfoglalas-hadjarat",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely két folyó között fekvő terület volt az Etelköz, ahol a magyarok a honfoglalás előtt éltek?",
+      "options": [
+        "Tisza és Duna között",
+        "Dnyeper és Dnyeszter között",
+        "Maros és Körös között",
+        "Ipoly és Eger között"
+      ],
+      "answer": "Dnyeper és Dnyeszter között"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A magyar törzsfők szövetsége, amelyben _____ ismerték el főfejedelemnek, vérszerződésnek nevezik.",
+      "options": [],
+      "answer": "Álmost"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Ki volt Álmos fia, aki a honfoglalás tényleges vezetője lett?",
+      "options": [
+        "Géza",
+        "Árpád",
+        "István",
+        "Botond"
+      ],
+      "answer": "Árpád"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az Etelközben létrehozott _____ volt a sztyeppei típusú magyar állam, amelyet Álmos vezetett.",
+      "options": [],
+      "answer": "Magyar Nagyfejedelemség"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mely év körül kezdődött meg a magyar honfoglalás a Kárpát-medencébe?",
+      "options": [
+        "870",
+        "895",
+        "920",
+        "950"
+      ],
+      "answer": "895"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A Kárpátok azon átjárójáról, ahol a hagyomány szerint a magyar fősereg bevonult, _____ nevét ismerjük.",
+      "options": [],
+      "answer": "Vereckei-hágó"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mely csata jelentette a honfoglalás katonai folyamatának lezárulát?",
+      "options": [
+        "Merseburgi (933)",
+        "Pozsonyi (907)",
+        "Augsburgi (955)",
+        "Arkadiupoliszi (970)"
+      ],
+      "answer": "Pozsonyi (907)"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A morva fejedelem, _____, halála 894-ben hatalmi vákuumot teremtett, amely kedvezett a magyar beáramlásnak.",
+      "options": [],
+      "answer": "Szvatopluk"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mely elmélet szerint már a 7. században érkeztek magyar nyelvű csoportok a Kárpát-medencébe?",
+      "options": [
+        "Szövetségi elmélet",
+        "Kettős honfoglalás elmélete",
+        "Migráció-elmélet",
+        "Szuperszeiszmus-elmélet"
+      ],
+      "answer": "Kettős honfoglalás elmélete"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A magyarok mellett csatlakozó másik népcsoport, amely a kazárok ellen lázadtak, a _____ voltak.",
+      "options": [],
+      "answer": "kabarok"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Milyen volt a magyar szállásterületek határát védő, természetes és mesterséges akadályokból álló övezet?",
+      "options": [
+        "Sáncrendszer",
+        "Gyepű",
+        "Várrendszer",
+        "Paliszád"
+      ],
+      "answer": "Gyepű"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A honfoglalás véget érésnek tekintett _____ ezredfordulójának (907-ből 895-ből).",
+      "options": [],
+      "answer": "907"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik magyar vezér mondája szerint buzogányával betörte Konstantinápoly kapuját?",
+      "options": [
+        "Bulcsú",
+        "Lehel",
+        "Botond",
+        "Árpád"
+      ],
+      "answer": "Botond"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A kalandozások 899 és _____ között zajlottak, amikor a magyarok rendszeres hadjáratokat indítottak Nyugat felé.",
+      "options": [],
+      "answer": "970"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mely magyar vezér foglyul esett az 955-ös augsburgi csatában és ezt követően meghalt?",
+      "options": [
+        "Botond",
+        "Géza",
+        "Bulcsú és Lehel",
+        "Árpád"
+      ],
+      "answer": "Bulcsú és Lehel"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A magyarok fő fegyvere a _____, amely összetett szerkezetű volt és nagyobb hatótávolságot adott, mint a nyugati íjak.",
+      "options": [],
+      "answer": "reflexíj"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik német király állította meg a magyarokat az 933-as merseburgi csatában?",
+      "options": [
+        "II. Henrik",
+        "I. Madarász Henrik",
+        "I. Ottó",
+        "III. Henrik"
+      ],
+      "answer": "I. Madarász Henrik"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az 955-ös _____ csatája volt a magyar kalandozások egy kritikus pontja, ahol I. Ottó döntő vereséget mért a magyarokra.",
+      "options": [],
+      "answer": "Augsburg"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik év körül szűnt meg gyakorlatilag a szervezett magyar kalandozási tevékenység?",
+      "options": [
+        "933",
+        "955",
+        "970",
+        "1000"
+      ],
+      "answer": "970"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A magyar honfoglalás utáni hadjáratokat, amelyeket a nyugati források 'kalandozásoknak' neveztek, az _____ által motiválták elsősorban.",
+      "options": [],
+      "answer": "zsákmányszerzés"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik járásműtechnika volt a magyar könnyűlovasok jellegzetes harcmodora?",
+      "options": [
+        "Közvetlen roham",
+        "Megtévesztő visszavonulás",
+        "Hosszú ostrom",
+        "Felállított védelmi vonalak"
+      ],
+      "answer": "Megtévesztő visszavonulás"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A honfoglaló magyarok szállásterületén történt lakosság elsősorban _____, avarok és szláv közösségekből állt.",
+      "options": [],
+      "answer": "székelyek"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mely város volt a magyarok hadjáratainak egy vékony célja, amely ellen 958-ban Botond mondája szerint támadtak?",
+      "options": [
+        "Róma",
+        "Velence",
+        "Konstantinápoly",
+        "Athén"
+      ],
+      "answer": "Konstantinápoly"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A honfoglalás kori magyar társadalom három fő csoportja: előkelők, _____ és közrendűek volt.",
+      "options": [],
+      "answer": "jobbágyság"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Mire utalnak a sírokból feltárt fegyverek és ékszerek a honfoglalás korában?",
+      "options": [
+        "Az elhunyt gazdasági és társadalmi helyzetére",
+        "Az elhunyt korára",
+        "A halál okára",
+        "A halál időpontjára"
+      ],
+      "answer": "Az elhunyt gazdasági és társadalmi helyzetére"
+    }
+  ]
+}

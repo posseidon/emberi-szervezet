@@ -1,0 +1,284 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Agrárpolitika",
+      "definition": "Az Európai Unió közös mezőgazdasági és vidékfejlesztési politikája, amely a termelők támogatását és a vidék gazdasági megerősítését szolgálja. Fontos célja az élelmiszerbiztonság és a környezeti fenntarthatóság.",
+      "quote": "Európa gazdái támogatásban részesülnek",
+      "text": "Az EU agrárpolitikája a költségvetés jelentős részét – több mint 30%-át – fordítja ide. A támogatások azonban vitatottak a kedvezményezettség és fenntarthatóság kérdéseit tekintve."
+    },
+    {
+      "id": 2,
+      "term": "Áruk szabad mozgása",
+      "definition": "Az unió egyik alapelve, amely biztosítja, hogy az áruk vámmentesen és korlátozások nélkül áramolhassanak a tagállamok között. Ez a belső piac működésének egyik alappillére.",
+      "quote": "Vámok nélkül kereskedjünk",
+      "text": "A szabad mozgás lehetővé tette az EU belső piacának kialakulását. Ez versenyképesség és választék-bővülés révén hasznos a fogyasztóknak."
+    },
+    {
+      "id": 3,
+      "term": "Biztos",
+      "definition": "Az Európai Bizottság tagja, aki egy-egy szakpolitikai területért felelős. Minden tagállam egy biztost delegál a Bizottságba.",
+      "quote": "Szakpolitikai vezető",
+      "text": "A biztos felelős egy adott portfólióért, például külügyekért, gazdaságpolitikáért vagy környezetvédelemért. A bizottság kollektív testületként működik."
+    },
+    {
+      "id": 4,
+      "term": "Európai Egységes Okmány",
+      "definition": "1986-ban elfogadott szerződés, amely megerősítette az Európai Tanács jogi státuszát és előkészítette az egységes piac létrejöttét.",
+      "quote": "Az egységes piac előkészítése",
+      "text": "Az Európai Egységes Okmány felhatalmazta az intézményeket a belső piacban résztvevő jogszabályok elfogadásához. Ez a Maastrichti Szerződés előfutára volt."
+    },
+    {
+      "id": 5,
+      "term": "Eurózóna",
+      "definition": "Azon EU-tagállamok csoportja, amelyek hivatalos fizetőeszköze az euró. Jelenleg 20 ország tartozik ide.",
+      "quote": "Az euró övezete",
+      "text": "Az eurózónához tartozó államok szoros monetáris és gazdaságpolitikai koordinációban működnek. Az Európai Központi Bank közvetlenül irányítja ezt a csoportot."
+    },
+    {
+      "id": 6,
+      "term": "Kettős többség",
+      "definition": "Az EU Tanácsában használt szavazási rendszer, amely akkor fogad el döntést, ha a tagállamok legalább 55%-a, a lakosság pedig legalább 65%-a támogatja a javaslatot.",
+      "quote": "Többség többségének módszere",
+      "text": "A kettős többség célja az volt, hogy megakadályozza a kis vagy nagy országok szavazatainak súlytalan voltát. 2014 óta alkalmazzák."
+    },
+    {
+      "id": 7,
+      "term": "Költségvetés",
+      "definition": "Az EU éves és többéves pénzügyi terve, amely meghatározza a közösség bevételeit és kiadásait. A Parlament és a Tanács közösen fogadja el.",
+      "quote": "Az EU anyagi forrása",
+      "text": "Az EU költségvetése hétéves ciklusokra tervezik. A 2021-2027-es ciklus körülbelül 1 billió eurót tesz elérhetővé."
+    },
+    {
+      "id": 8,
+      "term": "Lisszaboni szerződés",
+      "definition": "2007-ben aláírt szerződés, amely modernizálta az EU működését és bevezette az állandó Európai Tanácsi elnöki posztot. 2009-ben lépett hatályba.",
+      "quote": "Az EU demokratizálása",
+      "text": "A Lisszaboni Szerződés erősítette az Európai Parlament jogkörét a jogalkotásban és az Európai Bizottság elnökét demokratikusabbá tette."
+    },
+    {
+      "id": 9,
+      "term": "Minősített többség",
+      "definition": "Szavazási elv az EU Tanácsában, amely a kettős többség elvén alapul. A cél a döntéshozatal gyorsítása és a vétójogok korlátozása.",
+      "quote": "Szavazatok mérlegelése",
+      "text": "A minősített többség biztosítja, hogy kis országok se tudnak vétozni. Ez a nagyobb hatékonyságot és gyorsabb döntéshozatalt lehetővé teszi."
+    },
+    {
+      "id": 10,
+      "term": "Szupranacionális intézmény",
+      "definition": "Olyan szervezet, amely a tagállamok fölött, közös érdekek mentén gyakorol döntéshozatali jogköröket. Az Európai Bizottság ilyen típusú intézmény.",
+      "quote": "Államok feletti hatalom",
+      "text": "A szupranacionális intézmények az EU jellegzetességei. Lehetővé teszik, hogy közös döntések születzenek a nemzetállami érdekmegadások ellenére."
+    },
+    {
+      "id": 11,
+      "term": "Társjogalkotás",
+      "definition": "Az EU döntéshozatali folyamata, amelyben a Parlament és a Tanács egyenrangúan vesz részt a jogszabályalkotásban.",
+      "quote": "Kétkamarás jogalkotás",
+      "text": "A társjogalkotás az Európai Parlamentnek hatalmat adott a döntéshozatalban. Ez az EU demokráciájának fontos pillére."
+    },
+    {
+      "id": 12,
+      "term": "Uniós polgár",
+      "definition": "Az EU valamely tagállamának állampolgára, akit megilletnek a szabad mozgás, munkavállalás és választás jogai.",
+      "quote": "Európai jogok biztosítása",
+      "text": "Az uniós polgárság az EU egyik alapköve. Szabad mozgást, munkavállalást és közösségben való részvételt biztosít."
+    },
+    {
+      "id": 13,
+      "term": "1974: Európai Tanács megalakulása",
+      "definition": "Az Európai Tanács megalakulása, amely 1986-ban kapott hivatalos jogi státuszt.",
+      "quote": "Politikai szint megjelenése",
+      "text": "Az Európai Tanács informálisan jött létre, majd később intézményesült. Ez az EU politikai irányítását kezeli."
+    },
+    {
+      "id": 14,
+      "term": "1977: Számvevőszék",
+      "definition": "Az Európai Számvevőszék létrehozása a közösségi pénzügyek ellenőrzésére.",
+      "quote": "Az EU pénzügyi ellenőrzése",
+      "text": "A Számvevőszék függetlenül működik és auditjainak eredményeit nyilvánosságra hozza."
+    },
+    {
+      "id": 15,
+      "term": "1979: Európai parlamenti választások",
+      "definition": "Az első közvetlen európai parlamenti választások megtartása.",
+      "quote": "A polgárok közvetlenül szavaznak",
+      "text": "Az első direkt választások az Európai Parlamentnek erősebb demokratikus legitimációt adtak."
+    },
+    {
+      "id": 16,
+      "term": "1986: Egységes Okmány",
+      "definition": "Az Európai Egységes Okmány aláírása, amely előkészítette az egységes piacot.",
+      "quote": "Az integrációs egyezmény",
+      "text": "Az Egységes Okmány lehetővé tette az EU működésének korszerűsítését és az egységes piac realizálását."
+    },
+    {
+      "id": 17,
+      "term": "1992: Maastrichti Szerződés",
+      "definition": "A szerződés létrehozza az Európai Uniót a korábbi Közös Piacból.",
+      "quote": "Az EU születésnapja",
+      "text": "A Maastrichti Szerződés politikai uniót és gazdasági és monetáris uniót teremtett. Ez egy minőségi ugrás az integrációban."
+    },
+    {
+      "id": 18,
+      "term": "1995: Ombudsman",
+      "definition": "Az Európai Ombudsman intézményének működésének megkezdése.",
+      "quote": "Az EU polgárok védelme",
+      "text": "Az Ombudsman az EU intézményeivel szembeni panaszokat vizsgálja és az átláthatóság javításán dolgozik."
+    },
+    {
+      "id": 19,
+      "term": "1998: EKB felállítása",
+      "definition": "Az Európai Központi Bank felállítása az euró kezeléséhez.",
+      "quote": "A közös pénz jegybankja",
+      "text": "Az EKB-t Frankfurt am Mainben alapították. Autonóm mozgásteret kap az euó stabilitásának megőrzéséhez."
+    },
+    {
+      "id": 20,
+      "term": "1999: Euró bevezetése",
+      "definition": "Az euró bevezetése elektronikus formában.",
+      "quote": "A közös pénz születik",
+      "text": "Az euró bevezetésével az EU gazdaságok szorosan összefonódtak. Az árfolyam-kockázat eliminálódott."
+    },
+    {
+      "id": 21,
+      "term": "2002: Euró fizikai formában",
+      "definition": "Az euró fizikai pénzként is forgalomba kerül az eurózóna országaiban.",
+      "quote": "Az euró zsebbe kerül",
+      "text": "A 2002-es átálláson nemzeti valutákról az euróra hatalmas volt a szervezési kihívás, de viszonylag zökkenőmentes volt."
+    },
+    {
+      "id": 22,
+      "term": "2004: Tanács helyszíne",
+      "definition": "A Tanács üléseinek helyszíne Brüsszel lesz.",
+      "quote": "Központosított döntéshozatal",
+      "text": "A Brüsszel központúsítás az EU adminisztrációs hatékonyságát növelte."
+    },
+    {
+      "id": 23,
+      "term": "2007: Lisszaboni Szerződés aláírása",
+      "definition": "A lisszaboni szerződés aláírása az EU működésének modernizálásáról.",
+      "quote": "Az EU reformja",
+      "text": "A Lisszaboni Szerződés az EU döntéshozatalát demokratikusabbá tette és az Országok közötti konfliktusokat rendezte."
+    },
+    {
+      "id": 24,
+      "term": "2009: Lisszaboni hatályba lép",
+      "definition": "A lisszaboni szerződés hatályba lépése az állandó Európai Tanácsi elnöki poszt létrejöttével.",
+      "quote": "Az intézmény modernizálódik",
+      "text": "Az állandó elnök lehetővé tette a politikai folytonosságot és konzisztenciát az EU vezetésében."
+    },
+    {
+      "id": 25,
+      "term": "2010: Görög válság",
+      "definition": "A görög pénzügyi válság kezdete, amelyben az EKB fontos stabilizáló szerepet játszott.",
+      "quote": "Súlyos finanszírozási krízis",
+      "text": "A görög válság az EU-t pénzügyi szolidaritás szükségességével szembesítette. Több ország EU-támogatást igényelt később."
+    },
+    {
+      "id": 26,
+      "term": "2014: Kettős többség bevezetése",
+      "definition": "A kettős többségi szavazás bevezetése az EU Tanácsban.",
+      "quote": "Szavazási reform",
+      "text": "A kettős többség az EU-27 új szavazási rendszere. Egyensúlyt teremt nagy és kis államok között."
+    },
+    {
+      "id": 27,
+      "term": "2019: Von der Leyen elnök",
+      "definition": "Ursula von der Leyen hivatalba lép az Európai Bizottság elnökeként.",
+      "quote": "Az első női vezető",
+      "text": "Von der Leyen Némország volt védelmi minisztere. Az EU vezetésében a klimaváltozás és digitalizáció szerepet kapott."
+    },
+    {
+      "id": 28,
+      "term": "2021-2027: Költségvetési ciklus",
+      "definition": "Az EU jelenlegi hétéves költségvetési ciklusa.",
+      "quote": "A pénzügyi terv",
+      "text": "A 2021-2027-es ciklus coronavirus-válságra és helyreállításra összpontosított. Különleges eszközöket (Recovery Fund) hoztak létre."
+    },
+    {
+      "id": 29,
+      "term": "2023: Parlamentletszám",
+      "definition": "Az Európai Parlament létszáma 705 fő, az eurózónához 20 tagállam tartozik.",
+      "quote": "Az EU demográfiai adatai",
+      "text": "A Parlament 2023-ban 705 képviselőből állt, Magyarország 21-et küldött. Az eurózóna az EU monetáris magja."
+    },
+    {
+      "id": 30,
+      "term": "Charles Michel",
+      "definition": "2019 óta az Európai Tanács elnöke, aki az unió politikai irányvonalának meghatározásában játszik vezető szerepet. Korábban Belgium miniszterelnöke volt.",
+      "quote": "Az EU politikai vezetője",
+      "text": "Michel a Tanács elnökeként a stratégiai irányok meghatározásáért felelős. Diplomáciai tapasztalata az EU hasznára válik."
+    },
+    {
+      "id": 31,
+      "term": "Donald Tusk",
+      "definition": "2014 és 2019 között az Európai Tanács elnöke, aki a Brexit-tárgyalások idején vezette a testületet. Lengyel politikus volt.",
+      "quote": "Az EU válságvezetője",
+      "text": "Tusk a Brexit-tárgyalások során az EU-27 érdekeit képviselte. Nemzetközi tapasztalata nagy volt."
+    },
+    {
+      "id": 32,
+      "term": "Herman Van Rompuy",
+      "definition": "Az első állandó Európai Tanácsi elnök (2009–2014). Az intézmény modern működésének kialakításában kulcsszerepet játszott.",
+      "quote": "Az intézmény alapítója",
+      "text": "Van Rompuy az állandó elnöki poszt felállítása után az EU politikai koordinációját erősítette."
+    },
+    {
+      "id": 33,
+      "term": "Jean-Claude Juncker",
+      "definition": "2014 és 2019 között az Európai Bizottság elnöke. Kiemelt szerepe volt az EU válságkezelésében és reformjainak elindításában.",
+      "quote": "A Bizottság erős vezetője",
+      "text": "Juncker számára az EU politikai szintje felértékelődött. Az EKB-val szorosan együttműködött a krízis alatt."
+    },
+    {
+      "id": 34,
+      "term": "Roberta Metsola",
+      "definition": "2022-től az Európai Parlament elnöke, a máltai politikus az uniós intézmények közötti együttműködés erősítésén dolgozik.",
+      "quote": "A Parlament vezetője",
+      "text": "Metsola fiatal vezetőként az EU jövőjét szem előtt tartja. A demokrácia és az alapjogok az ő fontossági listájának tetején állnak."
+    },
+    {
+      "id": 35,
+      "term": "Brüsszel",
+      "definition": "Belgium fővárosa, az Európai Unió legfontosabb politikai központja. Itt működik az Európai Bizottság és az Európai Unió Tanácsa.",
+      "quote": "Az EU szíve",
+      "text": "Brüsszel szimbolikus és funkcionális központja az EU-nak. Számos multikultúrális és nemzetközi szervezet működik itt."
+    },
+    {
+      "id": 36,
+      "term": "Luxemburg",
+      "definition": "Kis nyugat-európai állam fővárosa, ahol az Európai Bíróság és a Számvevőszék székhelye található.",
+      "quote": "Az EU jogi szíve",
+      "text": "Luxemburg az EU másik fontos intézményi központja. Diszkrét, de kulcsszerepet játszik az integráció fenntartásában."
+    },
+    {
+      "id": 37,
+      "term": "Strasbourg",
+      "definition": "Francia város, az Európai Parlament plenáris üléseinek székhelye. Az európai demokrácia egyik jelképe.",
+      "quote": "A parlament városa",
+      "text": "Strasbourg szimbolikus helye az EU-nak – a német-francia megbékélés helyszíne a múltban. Most az integrációt testesíti meg."
+    },
+    {
+      "id": 38,
+      "term": "Frankfurt am Main",
+      "definition": "Város, ahol az Európai Központi Bank székhelye található.",
+      "quote": "Az euró városa",
+      "text": "Frankfurt széleskörű pénzügyi centrum. Az EKB-nak ideális helye az euró kezeléséhez."
+    },
+    {
+      "id": 39,
+      "term": "EU költségvetés forrásai",
+      "definition": "Az EU bevételei: tagállami hozzájárulások (70%), vámok és saját bevételek (10-15%), ÁFA alapú járulékok (10-15%), új források mint műanyag hulladék illeték (2021-től).",
+      "quote": "Az EU finanszírozása",
+      "text": "A költségvetés finanszírozása erősen függőségben van a gazdag tagállamok hozzájárulásától. Az elosztás politikai viták forrása."
+    },
+    {
+      "id": 40,
+      "term": "EU költségvetés kiadások",
+      "definition": "Fő kiadási területek: kohéziós és regionális fejlesztések (34%), mezőgazdaság (37%), kutatás/innováció (14%), nemzetközi kapcsolatok (10%), közigazgatás (5-7%).",
+      "quote": "Az EU pénzének felhasználása",
+      "text": "A költségvetés szerkezete a kohéziós politikát és az agrárpolitikát helyezi előtérbe. Ez gyakran vitatott az igazságosság és hatékonyság szempontjából."
+    }
+  ]
+}

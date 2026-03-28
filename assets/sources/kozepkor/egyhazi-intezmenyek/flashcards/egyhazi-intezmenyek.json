@@ -1,0 +1,95 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Pápa",
+      "definition": "A katolikus egyház feje, Róma püspöke és Szent Péter utóda. Krisztus földi helytartójaként működött.",
+      "quote": "Szent Péter kő, amely egy egyházi alapít",
+      "text": "A pápa világi és vallási hatalommal bírt. A Pápai Állam kormányzást is végezte. A pápaság tekintélye III. Ince idején (13. szd) érte el csúcspontját."
+    },
+    {
+      "id": 2,
+      "term": "Bíboros",
+      "definition": "A pápa tanácsadói és választói. Képezték a konklávét, ahol az új pápát választották meg.",
+      "quote": "A pápa választói és tanácsadói",
+      "text": "A bíborosok a pápa által kinevezett főpapok voltak. Nagyban befolyásolták a pápai politikát."
+    },
+    {
+      "id": 3,
+      "term": "Érsek (metropolita)",
+      "definition": "Az egyháztartomány vezetője, aki több püspökséget foglalt össze. Az esztergomi érsek volt a magyar egyház élén.",
+      "quote": "Több püspökséget irányító főpap",
+      "text": "Az érsekek jelentős politikai és vallási hatalommal bírtak. Az esztergomi érsek magyar primásként működött."
+    },
+    {
+      "id": 4,
+      "term": "Püspök",
+      "definition": "Egyházmegye vezetője, aki az adott területen az egyházi és kanonikus igazgatást, valamint az ordinációt végezte.",
+      "quote": "Vidéki egyházmegy vezetője",
+      "text": "A püspökök a székesegyházakban (katedrálikban) ültek. Fontos egyházi és politikai papel voltak."
+    },
+    {
+      "id": 5,
+      "term": "Plébános",
+      "definition": "Egy-egy helyi egyházközség vezetője, aki a napi lelkipásztori munkát végezte.",
+      "quote": "A közösség lelki vezetője",
+      "text": "A plébánosok voltak a legközelebbek az egyszerű hívőkhöz. Iskolákat tartottak fenn, egyházi szertartásokat végeztek."
+    },
+    {
+      "id": 6,
+      "term": "Szerzetesség",
+      "definition": "Vallásos életforma az aszketikus imádság, szegénység, tisztaság és engedelmesség fogadalmán alapulva.",
+      "quote": "Imádkozz és dolgozz",
+      "text": "A szerzetesek kolostorokban éltek zárt közösségben. Imádság, munka, tudományos tevékenység voltak napi feladata."
+    },
+    {
+      "id": 7,
+      "term": "Bencés rend",
+      "definition": "Szent Benedek által alapított monasztikus rend (529), jelenete az 'Ora et labora' (imádkozz és dolgozz) elveit követte.",
+      "quote": "A munka és imádság szelleme",
+      "text": "A bencések voltak a nyugati szerzetesség alapítói. Kódexmásolás, mezőgazdaság, oktatás voltak feladata."
+    },
+    {
+      "id": 8,
+      "term": "Ciszterci rend",
+      "definition": "Szent Bernát vezetésével alapított szerzetesrend, amely szigorúbb szabályokat követett és mezőgazdasági fejlesztések terjedésében szerepet játszott.",
+      "quote": "Szigorúbb fegyelem és fejlettebb gazdálkodás",
+      "text": "A ciszterciek nagyon jelentősek voltak a mezőgazdaság modernizálásában. Magyarországon Zirc és Bélapátfalva voltak központjai."
+    },
+    {
+      "id": 9,
+      "term": "Ferences rend",
+      "definition": "Assisi Szent Ferenc által alapított koldulórend (1209), amely szegénységet és prédikációt hangsúlyozott.",
+      "quote": "A szegénység szellemét terjeszti",
+      "text": "A ferencesek városokban működtek és szegények között terjesztették az evangéliumot. Nagyon népszerűek voltak."
+    },
+    {
+      "id": 10,
+      "term": "Domonkos rend",
+      "definition": "Szent Domonkos által alapított koldulórend (1216), amely az eretnek elleni küzdelemben és oktatásban játszott fontos szerepet.",
+      "quote": "A tanítás és az eretnek elleni harc",
+      "text": "A domonkosok az egyetemeken is tanítottak. Jelentős szerep volt az inkvizícióban. Julianus barát a magyar domonkosok között volt."
+    },
+    {
+      "id": 11,
+      "term": "Pálos rend",
+      "definition": "Az egyetlen magyar alapítású szerzetesrend, amelyet Boldog Özséb szervezett közösséggé a 13. szd közepén. Központ Budaszentlőrinc.",
+      "quote": "Magyar szent rendet alapított",
+      "text": "A pálosok a remetei hagyományt követte. Nemzetközi jelentőségre tett szert. Magyarország egyetlen saját szerzetesrende volt."
+    },
+    {
+      "id": 12,
+      "term": "Tized (egyházi adó)",
+      "definition": "A jobbágy termésének 10%-a, amelyet az egyháznak ígért. Az egyház anyagi alapja.",
+      "quote": "Az egyháznak járó tizedszázad",
+      "text": "A tized az egyház fő bevétele volt. Biztosította a papok, szerzetesek és egyházi intézmények fenntartását."
+    },
+    {
+      "id": 13,
+      "term": "Inkvizíció",
+      "definition": "Az egyházi bírósági intézmény az eretnekek felkutatására és megbüntetésére. A domonkosok játszottak benne fontos szerepet.",
+      "quote": "A kellő tanítás védelmezése",
+      "text": "Az inkvizíció a 12-13. szd-ban alakult. Célja az eretnekség felszámolása volt. Ma már szimboluma az egyházi kegyetlenségnek."
+    }
+  ]
+}

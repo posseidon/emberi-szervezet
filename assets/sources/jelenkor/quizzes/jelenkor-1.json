@@ -1,0 +1,292 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "jelenkor",
+  "type": "topic-quiz-1",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az Alaptörvény hatályba lépésének éve",
+      "options": [
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "answer": "2012"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az Európai Uniónak _____ tagállama van jelenleg.",
+      "options": [],
+      "answer": "27"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Az euró bevezetésének éve elektronikus formában",
+      "options": [
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+      ],
+      "answer": "1999"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Magyarország az EU-hoz _____ évben csatlakozott.",
+      "options": [],
+      "answer": "2004"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Hány képviselőből áll az Európai Parlament 2023-ban?",
+      "options": [
+        "650",
+        "680",
+        "705",
+        "750"
+      ],
+      "answer": "705"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az EU-ban a parlamenti küszöb _____ százalék.",
+      "options": [],
+      "answer": "5"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik közalkalmazotti intézmény az EU végrehajtó szerve?",
+      "options": [
+        "Tanács",
+        "Bizottság",
+        "Parlament",
+        "Bíróság"
+      ],
+      "answer": "Bizottság"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az Alkotmánybíróság _____ tagból áll.",
+      "options": [],
+      "answer": "15"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Antall József híres mondata hány millió magyarról szólt?",
+      "options": [
+        "10 millió",
+        "12 millió",
+        "15 millió",
+        "18 millió"
+      ],
+      "answer": "15 millió"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Magyarország népessége csúcsán _____ millió fő volt (1981).",
+      "options": [],
+      "answer": "10,7"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "A GYES bevezetésének éve",
+      "options": [
+        "1960",
+        "1965",
+        "1967",
+        "1970"
+      ],
+      "answer": "1967"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A Ratkó-korszak időpontja: _____-_____ között",
+      "options": [],
+      "answer": "1950-1952 vagy 1952-1956"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Hány magyar menekült az 1956-os forradalom után?",
+      "options": [
+        "100 ezer",
+        "150 ezer",
+        "200 ezer",
+        "250 ezer"
+      ],
+      "answer": "200 ezer"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Erdélyben _____ magyar él.",
+      "options": [],
+      "answer": "1,2 millió"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "A határon túli magyarok közül a legtöbben hol élnek?",
+      "options": [
+        "Felvidéken",
+        "Szerbiában",
+        "Romániában (Erdélyben)",
+        "Ukrajnában"
+      ],
+      "answer": "Romániában (Erdélyben)"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A magyarországi német közösség nagysága körülbelül _____ ezer fő.",
+      "options": [],
+      "answer": "140"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik év volt a Nemzeti Összetartozás Napja?",
+      "options": [
+        "2001",
+        "2004",
+        "2010",
+        "2015"
+      ],
+      "answer": "2010"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Burgenlandban _____ magyar él őshonos kisebbségként.",
+      "options": [],
+      "answer": "10 ezer"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Az Európai Parlamenti választások gyakorisága",
+      "options": [
+        "3 évente",
+        "4 évente",
+        "5 évente",
+        "6 évente"
+      ],
+      "answer": "5 évente"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az EU-ban a kettős többségi szavazás bevezetésének éve: _____",
+      "options": [],
+      "answer": "2014"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Az Európai Tanács elnöke mennyi ideig tart tisztségben?",
+      "options": [
+        "3 év",
+        "2,5 év",
+        "4 év",
+        "5 év"
+      ],
+      "answer": "2,5 év"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az Alaptörvény öt fő része közül az első a _____.",
+      "options": [],
+      "answer": "Nemzeti hitvallás"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Ki volt az első nő az Európai Bizottság élén?",
+      "options": [
+        "Roberta Metsola",
+        "Ursula von der Leyen",
+        "Christine Lagarde",
+        "Margrethe Vestager"
+      ],
+      "answer": "Ursula von der Leyen"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A Lisszaboni Szerződés hatályba lépésének éve: _____",
+      "options": [],
+      "answer": "2009"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "A roma közösség a magyarországi nemzetiségek közül",
+      "options": [
+        "Legkisebb",
+        "Középszinten lévő",
+        "Második legnagyobb",
+        "Legnagyobb"
+      ],
+      "answer": "Legnagyobb"
+    },
+    {
+      "id": 26,
+      "type": "BLANK",
+      "question": "Az első szabad magyar választások éve: _____",
+      "options": [],
+      "answer": "1990"
+    },
+    {
+      "id": 27,
+      "type": "MC",
+      "question": "Melyik év jelenti a 2004-es sikertelen kettős állampolgárság népszavazás?",
+      "options": [
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+      ],
+      "answer": "2004"
+    },
+    {
+      "id": 28,
+      "type": "BLANK",
+      "question": "Az Örménységi törvény megalkotásának éve: _____",
+      "options": [],
+      "answer": "1993 vagy 2011"
+    },
+    {
+      "id": 29,
+      "type": "MC",
+      "question": "Hány magyar él a Kárpát-medencén kívül a világban?",
+      "options": [
+        "1-2 millió",
+        "2-3 millió",
+        "3-4 millió",
+        "4-5 millió"
+      ],
+      "answer": "1-2 millió"
+    },
+    {
+      "id": 30,
+      "type": "BLANK",
+      "question": "Az EU költségvetésének hány százaléka megy a kohéziós és regionális fejlesztésekre?",
+      "options": [],
+      "answer": "34"
+    }
+  ]
+}

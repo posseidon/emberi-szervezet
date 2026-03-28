@@ -1,0 +1,239 @@
+{
+  "subjectId": "ujkor",
+  "topic": "ujkor",
+  "quizId": "ujkor-2",
+  "quiz": [
+    {
+      "type": "MC",
+      "question": "Melyik iparág volt az első ipari forradalom középpontjában?",
+      "options": [
+        "Vasipar",
+        "Szénbányászat",
+        "Pamutgyártás",
+        "Keramikai ipar"
+      ],
+      "answer": "Pamutgyártás"
+    },
+    {
+      "type": "BLANK",
+      "question": "James Watt 1769-ben szabadalmazott ________ gépének továbbfejlesztésével az ipari forradalom műszaki alapja helyreállt.",
+      "target": "gőz",
+      "hint": "energiaforrás"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik ország volt az első ipari forradalom bölcsője?",
+      "options": [
+        "Franciaország",
+        "Németország",
+        "Anglia",
+        "Olaszország"
+      ],
+      "answer": "Anglia"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az első ipari forradalom közlekedési forradalma ________ és ________ feltalálása révén valósult meg.",
+      "target": "gőzmozdony, gőzhajó",
+      "hint": "szállítási eszközök"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az első ipari forradalom fő szociális következménye?",
+      "options": [
+        "Az arisztokrácia megsemmisítése",
+        "A munkások kizsákmányolása és urbanizáció",
+        "Az agrár-közösség megerősödése",
+        "A női szavazati jog"
+      ],
+      "answer": "A munkások kizsákmányolása és urbanizáció"
+    },
+    {
+      "type": "BLANK",
+      "question": "George Stephenson első vasútvonala a ________ és ________ városok között volt 1825-ben.",
+      "target": "Stockton-Darlington",
+      "hint": "angol városok"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt a második ipari forradalom központi energiaforrása?",
+      "options": [
+        "Gőz",
+        "Szén",
+        "Elektromosság",
+        "Olaj"
+      ],
+      "answer": "Elektromosság"
+    },
+    {
+      "type": "BLANK",
+      "question": "Thomas Edison 1879-ben feltalálta a praktikus ________t, amely az új iparág szimbóluma lett.",
+      "target": "villanyégőt",
+      "hint": "fényforrás"
+    },
+    {
+      "type": "MC",
+      "question": "Mely évben szabadalmazott Karl Benz az első benzinmotoros autót?",
+      "options": [
+        "1880",
+        "1885",
+        "1890",
+        "1895"
+      ],
+      "answer": "1885"
+    },
+    {
+      "type": "BLANK",
+      "question": "Henry Ford 1913-ban bevezetett ________ rendszere forradalmasította az autó-tömegtermelést.",
+      "target": "assembly line",
+      "hint": "szalagrendszer"
+    },
+    {
+      "type": "MC",
+      "question": "Kik voltak az első motor-repülés megtartó emberek?",
+      "options": [
+        "Edison és Marconi",
+        "Wright fivérek",
+        "Benz és Daimler",
+        "Tesla és Edison"
+      ],
+      "answer": "Wright fivérek"
+    },
+    {
+      "type": "BLANK",
+      "question": "Louis Pasteur ________ elmélete és Joseph Lister ________ technikája alapította meg a modern orvostudományt.",
+      "target": "mikrobés, antisepszis",
+      "hint": "tudományos alapok"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az egyik fő eltérés az első és második ipari forradalom között?",
+      "options": [
+        "Az első gyorsabb volt",
+        "Az első gépesítettebb volt",
+        "Az első gőzre, a második elektromosságra épült",
+        "Nincs lényegi eltérés"
+      ],
+      "answer": "Az első gőzre, a második elektromosságra építette"
+    },
+    {
+      "type": "BLANK",
+      "question": "Nikola Tesla ________ feltalálásával az elektromosság széles körben alkalmazható lett.",
+      "target": "váltóáram",
+      "hint": "elektromos áramtípus"
+    },
+    {
+      "type": "MC",
+      "question": "Mit jelent a 'szénhidrogén-kémia' a második ipari forradalomban?",
+      "options": [
+        "A szén bányászata",
+        "Szintetikus anyagok, festékek, mérgek kutatása",
+        "A petróléum-fúrás",
+        "Az acél-gyártás"
+      ],
+      "answer": "Szintetikus anyagok, festékek, mérgek kutatása"
+    },
+    {
+      "type": "BLANK",
+      "question": "A Bessemer-eljárás és Thomas-eljárás lehetővé tették a nagy mennyiségű ________ olcsó termelését.",
+      "target": "acél",
+      "hint": "fém"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik évben nyitotta meg Robert Fulton az első gőzhajót a Hudson folyón?",
+      "options": [
+        "1800",
+        "1807",
+        "1815",
+        "1825"
+      ],
+      "answer": "1807"
+    },
+    {
+      "type": "BLANK",
+      "question": "Richard Trevithick 1804-ben feltalálta az első ________, amely az első ipari forradalom szimbóluma lett.",
+      "target": "gőzmozdony",
+      "hint": "szállítási eszköz"
+    },
+    {
+      "type": "MC",
+      "question": "Mit jelent a 'tömegtermelés' Henry Ford assembly line-ja után?",
+      "options": [
+        "Kevesebb termék, de magasabb minőség",
+        "Standardizáció, szakosodás, gépesítés révén sokkal gyorsabb és olcsóbb termelés",
+        "Kézműves módszerek alkalmaz ása",
+        "Szellemi munkaerő helyett gépek"
+      ],
+      "answer": "Standardizáció, szakosodás, gépesítés révén sokkal gyorsabb és olcsóbb termelés"
+    },
+    {
+      "type": "BLANK",
+      "question": "A petroléum-ipar az ________ ipar kialakulásával robbanásszerűen növekedett.",
+      "target": "autó",
+      "hint": "közlekedési eszköz"
+    },
+    {
+      "type": "MC",
+      "question": "Mi volt az egyik fő szociális probléma az első ipari forradalom alatt?",
+      "options": [
+        "Az agrár-munkások munkanélküliségé",
+        "A gyermekmunka, hosszú munkaidő, alacsony bér",
+        "Az arisztokrácia szegénysége",
+        "Az oktatás túl sok oka"
+      ],
+      "answer": "A gyermekmunka, hosszú munkaidő, alacsony bér"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az első ipari forradalom következtében a ________ felgyorsult és a kereskedelem globálissá vált.",
+      "target": "szállítás",
+      "hint": "közlekedési forradalom"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik angol feltaláló fejlesztette ki az első praktikus gőzmozdonyot a vasúthoz?",
+      "options": [
+        "Richard Trevithick",
+        "George Stephenson",
+        "Robert Fulton",
+        "James Watt"
+      ],
+      "answer": "George Stephenson"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az Edison villanyégőjének feltalálásáig az ________ volt az egyetlen mesterséges fényforrás.",
+      "target": "gázlámpa",
+      "hint": "világítási módszer"
+    },
+    {
+      "type": "MC",
+      "question": "Mely évben alapította Tesla és Edison az elektromos hálózatot az USA-ban?",
+      "options": [
+        "1880-as évek",
+        "1890-es évek",
+        "1900-as évek",
+        "1910-es évek"
+      ],
+      "answer": "1890-es évek"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az első ipari forradalom szociális következménye az volt, hogy hatalmas ________ alakultak ki a városokban.",
+      "target": "szegénynegyedek",
+      "hint": "városfejlődés"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik volt az első ipari forradalom által megváltoztatott terület az emberek alapvető szükségletei közül?",
+      "options": [
+        "Oktatás",
+        "Vallás",
+        "Ruházkodás és lakhatás",
+        "Katonai szervezet"
+      ],
+      "answer": "Ruházkodás és lakhatás"
+    }
+  ]
+}

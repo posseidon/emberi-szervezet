@@ -1,0 +1,247 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "jelenkor",
+  "type": "topic-quiz-3",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az afrikaiés európai demográfiai fejlődés fő különbsége",
+      "options": [
+        "Nincs különbség",
+        "Afrika még a népességrobbanás korszakában, Európa a demográfiai télben van",
+        "Afrika fejlettebb",
+        "Az africaiaknak több intézménye van"
+      ],
+      "answer": "Afrika még a népességrobbanás korszakában, Európa a demográfiai télben van"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Az EU-s integráció hogyan hat a tagállamok szuverenitására?",
+      "options": [
+        "Nem hat",
+        "Korlátozza azt, de közös érdekmegvalósítást tesz lehetővé",
+        "Teljes elvesztés",
+        "Nincs szupranacionális elem"
+      ],
+      "answer": "Korlátozza azt, de közös érdekmegvalósítást tesz lehetővé"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "A Lisszaboni Szerződés politikai és a Bokros-csomag gazdasági reformjainak közös vonása",
+      "options": [
+        "Mindkettő költségvetési",
+        "Mindkettő strukturális reformok voltak krízishelyzetben",
+        "Nincs közös vonás",
+        "Mindkettő katonai"
+      ],
+      "answer": "Mindkettő strukturális reformok voltak krízishelyzetben"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Az 1990-es \"fekete március\" és a szocializmus időszaki cigánypolitikájának megfigyelése",
+      "options": [
+        "Egyáltalán nem kapcsolódnak",
+        "Az erőszakos asszimiláció hatása a társadalmi feszültségekre",
+        "Semmit nem mond",
+        "Csak történeti kapcsr"
+      ],
+      "answer": "Az erőszakos asszimiláció hatása a társadalmi feszültségekre"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "A kettős államigazgatás (központi EU + nemzeti államok) összehasonlítása a magyar hatalommegosztással",
+      "options": [
+        "Teljesen különböznek",
+        "Mindkettőben vannak egy tétekkel ágak ellenőrzése mechanizmusok",
+        "Nincs analógia",
+        "Az EU nincs terülti"
+      ],
+      "answer": "Mindkettőben vannak egy tétekkel ágak ellenőrzése mechanizmusok"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Az 1981-es népességcsúcs és az azt követő fogyás okainak szintézise",
+      "options": [
+        "Nincs szintézis lehetséges",
+        "A családpolitika korlátai a társadalmi modernizáció mellett",
+        "Csak biológiai okok",
+        "Csak politikai okok"
+      ],
+      "answer": "A családpolitika korlátai a társadalmi modernizáció mellett"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Az EU szupergimnázium/szubszidiaritás és a magyar föderalista tervezlet összehasonlítása",
+      "options": [
+        "Nincs semmilyen kapcsolat",
+        "Mindkettő a hatalmak megosztásáról szól",
+        "Az EU központosított",
+        "Magyarország szövetségi"
+      ],
+      "answer": "Mindkettő a hatalmak megosztásáról szól"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "Hogyan mutat az assimiláció dinamikája a nemzetiségi politikai versenyből?",
+      "options": [
+        "Nincs verseny",
+        "Azok a nemzetiségek asszimilálódnak, amelyeknek nincs politikai és kulturális támogatási intézménye",
+        "Nem az egyesült államok okozza",
+        "Szozz kulturális okok"
+      ],
+      "answer": "Azok a nemzetiségek asszimilálódnak, amelyeknek nincs politikai és kulturális támogatási intézménye"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "A görög adósságválság és a Ratkó-korszak után a születésszám csökkenésének közös vonása",
+      "options": [
+        "Nincs kapcsolat",
+        "Mindkettő kimutatja az állam korlátait az alapvető problémák megoldásában",
+        "Gazdasági",
+        "Nincs szintézis"
+      ],
+      "answer": "Mindkettő kimutatja az állam korlátait az alapvető problémák megoldásában"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "A szuburbanizáció és az EU-s nagyváros-fejlesztések összhangja",
+      "options": [
+        "Nincs összehang",
+        "Mindkettő az urbanizáció és a városi funkcionalitás újragondolásáról szól",
+        "Ellentéte",
+        "Csak szociális"
+      ],
+      "answer": "Mindkettő az urbanizáció és a városi funkcionalitás újragondolásáról szól"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Az Antall-kormány nemzetpolitikájának és az Alaptörvény nemzetközi nyitottsága közötti kontinuitás",
+      "options": [
+        "Nincs",
+        "Mindkettő az EU-integráció és a nemzetkarakterek összeegyeztetéséről szól",
+        "Ellentéte",
+        "Csak ésszáma"
+      ],
+      "answer": "Mindkettő az EU-integráció és a nemzetkarakterek összeegyeztetéséről szól"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "A párhuzamos társadalmak és az EU szubszidiarításának potenciális kapcsolata",
+      "options": [
+        "Nincs",
+        "Az alulról építkező szubszidiarítás javaslatot adhat az integrációra",
+        "Az EU ezt elutasítja",
+        "Tisztán gazdasági"
+      ],
+      "answer": "Az alulról építkező szubszidiarítás javaslatot adhat az integrációra"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "A demográfiai átmenet 3-5 fázisos modellje és a magyar demográfiai folyamatok szinkronizálása",
+      "options": [
+        "Nem szinkronizálhatók",
+        "Magyarország a 4-5 fázist éli, amit az elöregedés és fogyás jellemez",
+        "Magyarország 2. fázisban van",
+        "A modell nem alkalmazható"
+      ],
+      "answer": "Magyarország a 4-5 fázist éli, amit az elöregedés és fogyás jellemez"
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "A társulások és az EU politikai és jogi keretének összevetése",
+      "options": [
+        "Teljesen eltérőek",
+        "Mindkettő intézmények útján gyakorolnak közös hatalmakat",
+        "Az EU nincs jogi keret",
+        "Nincs alkalmi"
+      ],
+      "answer": "Mindkettő intézmények útján gyakorolnak közös hatalmakat"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Az EU költségvetési szerkezete (kohézió+agrár) és a magyar családpolitika céljai közötti hasonlóság",
+      "options": [
+        "Nincs",
+        "Mindkettő az elosztást és a szerkezeti támogatást célozza meg",
+        "Egy azonban magas",
+        "Csak szociális"
+      ],
+      "answer": "Mindkettő az elosztást és a szerkezeti támogatást célozza meg"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "A szegregáció az oktatásban és a szuburbanizáció térbeliügyeinek összhangja",
+      "options": [
+        "Nincs",
+        "Mindkettő a lakóhelyi elkülönülésre és szociális szegmentációra utal",
+        "Ellentétes",
+        "Szociális jelenség"
+      ],
+      "answer": "Mindkettő a lakóhelyi elkülönülésre és szociális szegmentációra utal"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Az EU nyitottsága és az Alaptörvénygéphatárolásának feszültsége",
+      "options": [
+        "Nincs feszültség",
+        "Az érdekelmes szuverenitást kell megosztani az EU-val, ami az Alaptörvénybe beépített dilemmát jelent",
+        "Az EU teljesen nyitott",
+        "Semmiféle dilemma"
+      ],
+      "answer": "Az érdekelmes szuverenitást kell megosztani az EU-val, ami az Alaptörvénybe beépített dilemmát jelent"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "A demográfiai változások és az EU-s migrációs politika közötti ok-okozati lánc",
+      "options": [
+        "Nincs lánc",
+        "Az elöregedő Európa munkaerő-igénye vonzza a migrántokat, ami pedig a párhuzamos társadalmak kockázatát hozza",
+        "Nincsen Europás migrációs politika",
+        "Csak gazdasági"
+      ],
+      "answer": "Az elöregedő Európa munkaerő-igénye vonzza a migrántokat, ami pedig a párhuzamos társadalmak kockázatát hozza"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Az EU jogállamisága és a magyar Alaptörvény jogállamságának összevetése",
+      "options": [
+        "Teljesen különböznek",
+        "Mindkettő az alapvető jogok és az intézményi kontrollok szabályozottságát hangsúlyozza",
+        "Az EU nincs jogállam",
+        "Csak formális"
+      ],
+      "answer": "Mindkettő az alapvető jogok és az intézményi kontrollok szabályozottságát hangsúlyozza"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "A kettős államigazgatás komplexitása és a határon túli magyarok helyzetének összefüggése",
+      "options": [
+        "Nincs",
+        "Az EU-szertagállamok közötti jogokbizonytalanság éppen a határon túli magyarok helyzetét nehezíti meg",
+        "Direktet egyforma",
+        "Politikai"
+      ],
+      "answer": "Az EU-szertagállamok közötti jogokbizonytalanság éppen a határon túli magyarok helyzetét nehezíti meg"
+    }
+  ]
+}

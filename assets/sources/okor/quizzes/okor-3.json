@@ -1,0 +1,291 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "okor",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik volt a legfontosabb hasonlóság az athéni demokrácia és az izraeli monoteizmus között?",
+      "options": [
+        "Mindkettő az egyén jogait helyezte előtérbe",
+        "Mindkettő az erkölcsi normakon alapult",
+        "Mindkettő csak férfiaknak szólt",
+        "Nincs hasonlóság"
+      ],
+      "answer": "Mindkettő az erkölcsi normakon alapult"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az athéni demokrácia és az izraeli monoteizmus között az _____ közös elem volt: mindkettő az egyén erkölcsi felelősségét hangsúlyozta.",
+      "options": [],
+      "answer": "erkölcsiség"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik volt az athéni demokrácia és az izraeli vallás közötti legfőbb különbség?",
+      "options": [
+        "Az athéni demokrácia politikai, az izraeli vallás vallási/erkölcsi rendszer volt",
+        "Nincs különbség",
+        "Az izraeli vallás politikai volt, az athéni demokrácia vallási",
+        "Mindkettő ugyanaz"
+      ],
+      "answer": "Az athéni demokrácia politikai, az izraeli vallás vallási/erkölcsi rendszer volt"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az athéni demokrácia és az izraeli monoteizmus között az _____ szinten voltak különbségek: az athéni demokrácia politikai szinten, az izraeli monoteizmus vallási szinten működött.",
+      "options": [],
+      "answer": "működési"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Melyik összekapcsolat köti össze az athéni demokráciaót a kereszténységgel?",
+      "options": [
+        "Mindkettő egyistenhívő",
+        "Az athéni demokrácia a kereszténységhez hasonlóan az erkölcsi normakon alapult, amely később az egyházi tanítások alapjául szolgáltak",
+        "Mindkettő militarista volt",
+        "Nincs kapcsolat"
+      ],
+      "answer": "Az athéni demokrácia a kereszténységhez hasonlóan az erkölcsi normakon alapult, amely később az egyházi tanítások alapjául szolgáltak"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az izraeli _____ és a keresztény tanítások között az a közös pont, hogy mindkettő az erkölcsi magatartásnak fősúlyt helyez az emberi élet szabályozásában.",
+      "options": [],
+      "answer": "monoteizmus"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik összekapcsolat köti össze a görög-rómaai építészetet a kereszténységgel?",
+      "options": [
+        "Mindkettő szócrakoztató volt",
+        "Az ókori építészeti technikákat (boltíveket, kupolákat) az egyházak építésénél is használták",
+        "Nincs kapcsolat",
+        "Az egyházak csak görög stílust használtak"
+      ],
+      "answer": "Az ókori építészeti technikákat (boltíveket, kupolákat) az egyházak építésénél is használták"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az ógörög filozófia és az izraeli monoteizmus között az _____ közös elem volt: mindkettő az ésszerűségre és a morális normákra alapult.",
+      "options": [],
+      "answer": "racionalizmus"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik volt az athéni demokrácia és az izraeli monoteizmus között a legfőbb különbség az előjukat illeti?",
+      "options": [
+        "Az athéni demokrácia az arisztokráciából fejlődött, az izraeli monoteizmus a primitív vallásból",
+        "Mindkettő a szabad választáson alapult",
+        "Az izraeli monoteizmus az athéni demokráciából fejlődött",
+        "Nincs különbség az eredetükben"
+      ],
+      "answer": "Az athéni demokrácia az arisztokráciából fejlődött, az izraeli monoteizmus a primitív vallásból"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az _____ és a kereszténység között az a közös pont, hogy mindkettő az erkölcsi érték alapján ítélkedik az emberről, függetlenül annak társadalmi helyzetétől.",
+      "options": [],
+      "answer": "izraeli monoteizmus"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik volt az Athén és Róma közötti legfőbb különbség az államszervezetben?",
+      "options": [
+        "Athén közvetlen demokráciát, Róma képviseleti rendszert (később) használt",
+        "Mindkettő ugyanaz volt",
+        "Róma közvetlen demokrác iát, Athén arisztokráciát használt",
+        "Nincs különbség"
+      ],
+      "answer": "Athén közvetlen demokráciát, Róma képviseleti rendszert (később) használt"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az _____ és a rómaiak között az a hasonlóság, hogy mindkettő az erkölcsi érték és az intézmények alapján szervezte meg az államot.",
+      "options": [],
+      "answer": "ógörögök"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik összekapcsolat köti össze a Peloponnészoszi háborút az izraeli nép hanyatlásához?",
+      "options": [
+        "Mindkettő egy nagyobb szálláson belül volt az egyik elem",
+        "Mindkettő az ógörogség végét jelentette",
+        "Az ógörogség és az izraeli nép hasonló módon vált függ őek a nagyobb hatalomnak",
+        "Nincs kapcsolat"
+      ],
+      "answer": "Az ógörogség és az izraeli nép hasonló módon vált függ őek a nagyobb hatalomnak"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az athéni demokrácia és az izraeli monoteizmus között az _____ volt az egyik legfontosabb közös pont: mindkettő az ember erkölcsi és jogi jogaira helyezte a hangsúlyt.",
+      "options": [],
+      "answer": "emberi jogok"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik volt az izraeli nép és a kereszténység közötti legfőbb különbség az Isten megtestesüléséről?",
+      "options": [
+        "Az izraeli nép Jézust nem tekintette Messiásnak, a kereszténység igen",
+        "Mindkettő ugyanaz véleményen volt",
+        "Az izraeli nép többisten-hívő volt",
+        "Nincs különbség az álláspontjukban"
+      ],
+      "answer": "Az izraeli nép Jézust nem tekintette Messiásnak, a kereszténység igen"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az _____ és a kereszténység közötti különbség az, hogy az izraeli nép a Tórát végleges Isten szónak tekintete, míg a kereszténység az Újszövetségét vette föl.",
+      "options": [],
+      "answer": "judaizmus"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik összekapcsolat köti össze az ógörögök és az izraeliek közötti filozófiai gondolkodásmódot?",
+      "options": [
+        "Mindkettő politeisztikus volt",
+        "Az ógörogök racionális filozófiát fejlesztete ki, az izraeliek az erkölcsi/vallási gondolkodásra helyeztek hangsúlyt",
+        "Mindkettő ugyanaz volt",
+        "Nincs kapcsolat"
+      ],
+      "answer": "Az ógörogök racionális filozófiát fejlesztete ki, az izraeliek az erkölcsi/vallási gondolkodásra helyeztek hangsúlyt"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az _____ és a römaik között az volt az alapvető különbség, hogy az athéniek az ethoszt (közösség szelleme), a rómaiak a jogi instituciósokat helyezték előtérbe.",
+      "options": [],
+      "answer": "ógörögök"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik volt az athéni demokrácia és az izraeli monoteizmus közötti legfőbb párhuzam az emberi erkölcsről?",
+      "options": [
+        "Mindkettő elszügült az erkölcsi normákat",
+        "Mindkettő kiemelt fontosságúnak tartotta az erkölcsi magatartást az emberek közötti kapcsolatokban",
+        "Az athéni demokrácia eltekintett az erkölcstől",
+        "Az izraeli monoteizmus a tiszta valláson alapult"
+      ],
+      "answer": "Mindkettő kiemelt fontosságúnak tartotta az erkölcsi magatartást az emberek közötti kapcsolatokban"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az _____ és az izraeli monoteizmus között az a közös pont, hogy az erkölcsi normaik később az európai jogi tradiciók alapjául szolgáltak.",
+      "options": [],
+      "answer": "athéni demokrácia"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik volt az izraeli és görög kultúra közötti legfőbb különbség az istenség megértésében?",
+      "options": [
+        "Az izraeliek egyistenhívők voltak, a görögök sokisten-hívők",
+        "Mindkettő egyisten-hívő volt",
+        "A görögök egyisten-hívők voltak",
+        "Nincs különbség az istenség megértésében"
+      ],
+      "answer": "Az izraeliek egyisten-hívők voltak, a görögök sokisten-hívők"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az _____ és a rómaik között az volt az alapvető párhuzam, hogy mindkettő az emberi közösség szervezésén alapuló értékeket helyezte előtérbe az egyéni jogok helyett.",
+      "options": [],
+      "answer": "ógörögök"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Melyik összekapcsolat köti össze a görög építészetet az egyházi építészethez?",
+      "options": [
+        "Az egyházi építészet nem kapcsolódott a görög építészethez",
+        "Az egyházak az ógörög templomok szerkezetét vették alapul, és később a rómaiak boltíveit is használták",
+        "A görögök csak pogány épületet építetek",
+        "Nincs építészeti kapcsolat"
+      ],
+      "answer": "Az egyházak az ógörög templomok szerkezetét vették alapul, és később a rómaiak boltíveit is használták"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az _____ és a kereszténység között az a közös pont, hogy mindkettő a szegények és a kiásított emberek felhívása ellen fordult, és az összes embernek egyenlő erkölcsi értéket tulajdonított.",
+      "options": [],
+      "answer": "izraeli monoteizmus"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik volt az athéni demokrácia és az izraeli nép közötti legfőbb párhuzam az autonómia és az függőség terén?",
+      "options": [
+        "Mindkettő teljesen autonóm volt",
+        "Az athén politikai függetlenséget szerezhet, az izraeliek pedig vallási identitásukat megtartottak még függőség alatt is",
+        "Mindkettő függő volt más hatalmaknak",
+        "Nincs párhuzam az autonómiában"
+      ],
+      "answer": "Az athén politikai függetlenséget szerezhet, az izraeliek pedig vallási identitásukat megtartottak még függőség alatt is"
+    },
+    {
+      "id": 26,
+      "type": "BLANK",
+      "question": "Az _____ és a kereszténység közötti végső párhuzam, hogy mindkettő az egyén erkölcsi felelősségét hangsúlyozta és joga voltak annak a megfelelő viselkedéshez, függetlenül a társadalmi helyzetétől.",
+      "options": [],
+      "answer": "izraeli monoteizmus"
+    },
+    {
+      "id": 27,
+      "type": "MC",
+      "question": "Melyik volt az ógörög filozófia és az izraeli monoteizmus közötti legfőbb különbség az ésszerűségről?",
+      "options": [
+        "Az ógörogök az ésszerűségre helyeztek hangsúlyt, az izraeliek az Isteni akaratára",
+        "Mindkettő az ésszerűségre helyezett hangsúlyt",
+        "Az izraeliek az ésszerűségre helyeztek hangsúlyt",
+        "Nincs különbség az ésszerűségben"
+      ],
+      "answer": "Az ógörogök az ésszerűségre helyeztek hangsúlyt, az izraeliek az Isteni akaratára"
+    },
+    {
+      "id": 28,
+      "type": "BLANK",
+      "question": "Az _____ végül azt bizonyította, hogy az erkölcsi normák és az egyén joga a társadalom alapjaként működhet, amit később a kereszténység is megtartott.",
+      "options": [],
+      "answer": "athéni demokrácia"
+    },
+    {
+      "id": 29,
+      "type": "MC",
+      "question": "Melyik volt az izraeli, görög és keresztény kultúra közötti közös szál az erkölcsi tanítások terén?",
+      "options": [
+        "Mindegyik az erkölcsi normákat helyezte előtérbe az emberi közösség szervezésében",
+        "Mindegyik csak magára gondolt",
+        "Mindegyik figyelmen kívül hagyta az erkölcs kérdéseit",
+        "Nincs közös szál az erkölcsben"
+      ],
+      "answer": "Mindegyik az erkölcsi normákat helyezte előtérbe az emberi közösség szervezésében"
+    },
+    {
+      "id": 30,
+      "type": "BLANK",
+      "question": "Az _____, izraeli monoteizmus és kereszténység között az alapvető közös pont az emberi közösség szervezésének erkölcsi alapja volt, amely később az európai civilizáció alapjául szolgált.",
+      "options": [],
+      "answer": "athéni demokrácia"
+    }
+  ]
+}

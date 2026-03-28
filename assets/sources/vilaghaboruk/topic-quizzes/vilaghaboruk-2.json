@@ -1,0 +1,291 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "vilaghaboruk-2",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik okozott közvetlenül a második világháború kitörésé?",
+      "options": [
+        "Gazdasági verseny",
+        "Németország Lengyelország megtámadása",
+        "Szovjet beavatkozás",
+        "Amerikai embargo"
+      ],
+      "answer": "Németország Lengyelország megtámadása"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A második világháború során _____ millió ember pusztult el világszerte.",
+      "options": [],
+      "answer": "40-50"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Hogyan befolyásolta Magyarország sorsát a német és szovjet agresszió?",
+      "options": [
+        "Semlegesen maradt",
+        "Német szövetségesé vált, majd szovjet ocupációt szenvedett",
+        "Franciaországhoz csatlakozott",
+        "Britanniával szövetkezett"
+      ],
+      "answer": "Német szövetségesé vált, majd szovjet ocupációt szenvedett"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A _____ szövetség az USA, Nagy-Britannia és Szovjetunió között alakult meg.",
+      "options": [],
+      "answer": "Antall"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mit jelölt a holokauszt szörnyűsége?",
+      "options": [
+        "Közönséges háborús eset",
+        "Az emberiség történelmének egyik legdöntőbb génie szervezettsége barbárizmusá",
+        "Gazdasági politika",
+        "Katonai stratégia"
+      ],
+      "answer": "Az emberiség történelmének egyik legdöntőbb génie szervezettsége barbárizmusá"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ magyarországi deportálása 1944-ben kezdődött Eichmann koordinációján.",
+      "options": [],
+      "answer": "zsidók"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Hogyan végződött az első világháborút követő rendszer a második világháborúval?",
+      "options": [
+        "Békés reformokkal",
+        "Teljes összeomlással és új világrend kialakításával",
+        "Gazdasági fejlődéssel",
+        "Demokratikus kitöréssel"
+      ],
+      "answer": "Teljes összeomlással és új világrend kialakításával"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az _____ 1944. október 15-én kísérelt meg kilépni a szövetségből.",
+      "options": [],
+      "answer": "Horthy"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mi lett Horthy Miklós kísérletének az eredménye?",
+      "options": [
+        "Sikeresen kilépett",
+        "Nyilas puccs akadályozta meg",
+        "Nemzetközi támogatás szerezte",
+        "Békét kötött"
+      ],
+      "answer": "Nyilas puccs akadályozta meg"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ budapest ostroma szörnyűséges pusztulást hozott a városra 1944-1945-ben.",
+      "options": [],
+      "answer": "szovjet"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Hogyan befolyásolta a holokauszt az ember moralitásáról való gondolkodást?",
+      "options": [
+        "Nem befolyásolta",
+        "Mélyen megtépázta az embert erkölcsi képét",
+        "Pozitívvá tette az emberiséget",
+        "Vallási ébredéshez vezetett"
+      ],
+      "answer": "Mélyen megtépázta az embert erkölcsi képét"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az _____ magyarországi puccs 1944 végén szélsőséges terror korszakát hozta.",
+      "options": [],
+      "answer": "nyilas"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik nem volt a második világháborúnak a közvetlen következménye?",
+      "options": [
+        "Egyesült Nemzeteket alapítása",
+        "Bipoláris világrend kialakulása",
+        "Gazdasági fejlődés Európában",
+        "Német birodalom összeomlása"
+      ],
+      "answer": "Gazdasági fejlődés Európában"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ Jalta konferencia (1945) meghatározta a háborút követő világrendet.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Hogyan reagált a nemzetközi közösség a holokauszt felfedezésére?",
+      "options": [
+        "Semlegesen",
+        "Nürnbergi perekhez és nemzetközi törvénykezéshez vezetett",
+        "Figyelmen kívül hagyta",
+        "Kereskedett a szövetségesekkel"
+      ],
+      "answer": "Nürnbergi perekhez és nemzetközi törvénykezéshez vezetett"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az _____ szövetséges katonai kampányt indított az 1944-ben Franciaország felszabadítására.",
+      "options": [],
+      "answer": "D-nap"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik volt a nyugati demokráciák és szovjet szövetség közötti alapvetően eltérő célja?",
+      "options": [
+        "Azonos volt",
+        "Szovjetunió Kelet-Közép-Európa meghódítása vs nyugati újjáépítés",
+        "Németország megosztása",
+        "Gazdasági fejlesztés"
+      ],
+      "answer": "Szovjetunió Kelet-Közép-Európa meghódítása vs nyugati újjáépítés"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az _____ 1945 után kezdődött meg az atomfegyverek kora.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Hogyan alakult ki a hidegháború közvetlenül a második világháború után?",
+      "options": [
+        "Elkerülhetetlenül a szövetségesek közötti céltévesztésből",
+        "Tervezett szovjet-amerikai összeütközésből",
+        "Gazdasági rivalizálásból",
+        "Vallásos félreértésből"
+      ],
+      "answer": "Elkerülhetetlenül a szövetségesek közötti céltévesztésből"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ 1945 után önálló naciones vált Magyarország helyett szovjet szatellitá.",
+      "options": [],
+      "answer": "nem"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik hatalmak voltak az 1945 után a bipoláris világrend alapítói?",
+      "options": [
+        "Franciaország és Britannia",
+        "USA és Szovjetunió",
+        "Németország és Japán",
+        "Kína és India"
+      ],
+      "answer": "USA és Szovjetunió"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A _____ magyarországi szovjet behelyezése után kezdődött meg az átmenet a szovjet szatellitállamhoz.",
+      "options": [],
+      "answer": "1945"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Hogyan értelmezte a Szovjetunió a háborút követő európai szervezést?",
+      "options": [
+        "Nyugati kedvezésként",
+        "Saját szféra függőségét követelt meg Kelet-Európában",
+        "Közös demokráciakként",
+        "Gazdasági partnerségként"
+      ],
+      "answer": "Saját szféra függőségét követelt meg Kelet-Európában"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az _____ 1945-1956 között a szovjet uralom alatt Magyarország sztalinista terror alatt szenvedett.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik esemény volt az 1945 után a szovjet-nyugati szembenállás folyamatos jellegét mutató?",
+      "options": [
+        "Berlini blokád 1948",
+        "Koreai háború 1950",
+        "Kuba válság 1962",
+        "Vietnam háborúja 1965"
+      ],
+      "answer": "Berlini blokád 1948"
+    },
+    {
+      "id": 26,
+      "type": "BLANK",
+      "question": "Az _____ 1945 után alapíttatott meg az ENSZ-a világbékét szorgalmazandó.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 27,
+      "type": "MC",
+      "question": "Hogyan hatott az 1956-os magyar forradalom az 1945 után alakult szovjet birodalmára?",
+      "options": [
+        "Nem hatott",
+        "Szovjet katonai invazio mutatott be a szatellitállamok felett gyakorolt ellenőrzésre",
+        "Reformra ösztönözte",
+        "Felszámolódásához vezetett"
+      ],
+      "answer": "Szovjet katonai invazio mutatott be a szatellitállamok felett gyakorolt ellenőrzésre"
+    },
+    {
+      "id": 28,
+      "type": "BLANK",
+      "question": "Az _____ 1945 után Magyarország függőségé meghatározódott.",
+      "options": [],
+      "answer": "szovjet"
+    },
+    {
+      "id": 29,
+      "type": "MC",
+      "question": "Melyik nem volt az 1945 után közvetlenül Magyarországon kialakult politika?",
+      "options": [
+        "Szovjet katonai prezencia",
+        "Kommunista párt dominanciája",
+        "Szabad választások",
+        "Szovjet ideológia terjedése"
+      ],
+      "answer": "Szabad választások"
+    },
+    {
+      "id": 30,
+      "type": "BLANK",
+      "question": "A _____ Marshall-terv az 1948-ban nyújtott gazdasági segítséget Nyugat-Európának, de Magyarország kívül maradt.",
+      "options": [],
+      "answer": ""
+    }
+  ]
+}

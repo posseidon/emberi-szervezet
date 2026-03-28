@@ -1,0 +1,51 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "masodik-ipari-forradalom",
+  "quiz": [
+    {
+      "type": "MC",
+      "question": "Mi volt a második ipari forradalom központi energiaforrása?",
+      "options": [
+        "Gőz",
+        "Szén",
+        "Elektromosság",
+        "Szél"
+      ],
+      "answer": "Elektromosság"
+    },
+    {
+      "type": "BLANK",
+      "question": "Thomas Edison feltalálta a ________t, amely a második ipari forradalom szimbóluma lett.",
+      "target": "villanyégőt",
+      "hint": "fényforrás"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik év nevezhető az autóipar kezdetének?",
+      "options": [
+        "1865",
+        "1885",
+        "1905",
+        "1925"
+      ],
+      "answer": "1885"
+    },
+    {
+      "type": "BLANK",
+      "question": "Henry Ford 1913-ban bevezetett ________ rendszere az autó-tömegtermelés lehetővé tétele végett.",
+      "target": "assembly line",
+      "hint": "szalagrendszer"
+    },
+    {
+      "type": "MC",
+      "question": "Ki voltak az első motor-repülés megtartó emberek?",
+      "options": [
+        "Edison és Marconi",
+        "Wright fivérek",
+        "Benz és Daimler",
+        "Pasteur és Lister"
+      ],
+      "answer": "Wright fivérek"
+    }
+  ]
+}

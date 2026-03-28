@@ -1,0 +1,291 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Világháborúk",
+      "definition": "Az 1914–1945 közötti időszak két világméretű fegyveres konfliktusa. Az első világháború (1914–1918) és a második világháború (1939–1945) a modern történelem fordulópontjai.",
+      "quote": "Teljes társadalmat mozgósító fegyveres összecsapások",
+      "text": "A világháborúk az ipari termelésben és a katonai technológiában bekövetkezett forradalmakat vetítették ki a hadviselés új formáira. Az első világháborút az állóháború, a tömeghadseregek és a gépesített haditechnika jellemezte. A második világháborúban a blitzkrieg taktika, a totális háború és a népirtás voltak a központi jelenségek. Magyarország mindkét háborúban részt vett, és mindkét esetben a vesztes oldal mellett."
+    },
+    {
+      "id": 2,
+      "term": "Antant",
+      "definition": "Franciaország, Nagy-Britannia és Oroszország szövetsége, amely az első világháborúban az Központi Hatalmakkal szemben állt. Később az USA és más államok is csatlakoztak.",
+      "quote": "Francia-brit-orosz háborús szövetség",
+      "text": "Az antant az első világháborúban a siker elérésében gazdasági és ipari fölényre támaszkodott. A szövetség tagjai hatalmas gazdasági és katonai erőforrásokkal rendelkeztek, habár kezdetben nem voltak jól koordináltak. Az Egyesült Államok 1917-ben történt belépése az antant győzelmét biztosította. Az antant államok később a második világháborúban ismét szövetségesek voltak az Tengelyhatalmak ellen."
+    },
+    {
+      "id": 3,
+      "term": "Központi Hatalmak",
+      "definition": "A Német Birodalom, az Osztrák–Magyar Monarchia, Bulgária és az Oszmán Birodalom szövetsége az első világháborúban. Katonailag szervezettebbek voltak, de gazdasági erőforrásaiban lemaradtak az antant államaiból.",
+      "quote": "Német-osztrák-magyar-török szövetség",
+      "text": "A Központi Hatalmak az első világháborúban több fronton harcolt: nyugati (Franciaország ellen), keleti (Oroszország ellen), déli (Szerbia, Románia, Olaszország ellen) és mediterrán frontokon. Az antant gazdasági fölénye hosszú háborúban döntővé vált. A Monarchia összeomlása 1918 végén az egész szövetség összeomlásához vezetett."
+    },
+    {
+      "id": 4,
+      "term": "Állóháború",
+      "definition": "Az első világháborúban az elhúzódó, mozdulatlan frontvonalakra jellemző hadviselési forma. A védelem megerősödése miatt az támadások ritkán hoztak áttörést.",
+      "quote": "Megmerevedett lövészárok-rendszerek és hónapokig változatlan frontvonalak",
+      "text": "Az állóháborút a Marne folyónál 1914-ben kezdődött meg a nyugati fronton. Mindkét oldal hatalmas lövészárokrendszert épített ki. Az olyan csaták, mint a Somme (1916) vagy Verdun (1916) több százezer áldozatot követeltek, de nem hoztak döntő áttörést. Az állóháború az első világháború demoralizáló karakterének szimbóluma lett, amely egy egész generáció ifjúságát pusztította el."
+    },
+    {
+      "id": 5,
+      "term": "Blitzkrieg (villámháború)",
+      "definition": "A Harmadik Birodalom hadviselési stratégiája a második világháborúban. Gyors, összehangolt támadás páncélos és légi erőkkel, amelynek célja az ellenség mozgásképtelenné tétele és a gyors győzelem.",
+      "quote": "Páncélos és légi egységek döntő csapása",
+      "text": "A blitzkrieg stratégia az 1939-1940-es hadjáratokkal sikeres volt: Lengyelország (1939), Franciaország (1940), Jugoszlávia és Görögország (1941) gyorsan lerohanása. Azonban a szovjet terület vastságán és az NKVD ellenálló képességén ezt a taktikát nem lehetett végigvinni, így az 1941 után az átlagos fronton érvényes hagyományos hadviselésre kellett visszatérni."
+    },
+    {
+      "id": 6,
+      "term": "Holokauszt (Soá)",
+      "definition": "A náci Németország és szövetségesei által elkövetett rendszeres népirtás, amelyben körülbelül 6 millió zsidó és több százezer más üldözött vesztette az életét. A modern történelem egyik legnagyobb tragédiája.",
+      "quote": "Rendszeres, ipari méretű népirtás",
+      "text": "A Holokauszt az ideológiai rasszizmus és a totalitárius hatalom összetalálkozásának terrifikáló eredménye volt. A nürnbergi törvények (1935) a jogfosztástól kezdődtek, ezt követte a gettósítás, majd az 1941-1942-es évektől a 'végső megoldás': a haláltáborok és az ipari méretű gyilkosságok. A legismertebb haláltábor az Auschwitz-Birkenau volt. A Holokauszt után a nemzetközi közösség az emberi jogok és a genocídium tilalmának erősítésére törekedett."
+    },
+    {
+      "id": 7,
+      "term": "Tengelyhatalmak",
+      "definition": "A Németország, Olaszország és Japán szövetsége a második világháborúban. Az Antikomintern Paktum (1936) és a háromhatalmi egyezmény (1940) alapján alakult.",
+      "quote": "Náci-fasiszta-militarista szövetség",
+      "text": "A Tengelyhatalmak a világot három szférára akarták felosztani: német (európai) hegemónia, olasz (mediterrán és afrikai) expanzió, és japán (ázsiai-csendes-óceáni) dominancia. Ez az osztódás azonban nem működött a gyakorlatban: a felek nem kaptak elég támogatást egymástól, és végül mindhárom vereséget szenvedett a szövetségesek ellen."
+    },
+    {
+      "id": 8,
+      "term": "Hidegháború",
+      "definition": "Az 1945–1991 között az Egyesült Államok és a Szovjetunió közötti ideológiai és politikai feszültség. Katonai összecsapás nélkül zajlott, de a világot bipolárissá tette.",
+      "quote": "Ideológiai szembenállás fegyverkezelés nélkül",
+      "text": "A Hidegháborúban az USA a kapitalizmus és demokrácia védelmezője volt, míg a Szovjetunió a szocializmus világított. A szembenállás manifesztálódott az atomfegyver-felhalmozásban, a szputnyik-versengésben, a helyettesítő háborúkban (Korea, Vietnam), és az ideológiai-propagandista támadásokban. Ez az időszak a világpolitika szerkezetét alapvetően meghatározta az 1991-es szovjet összeomlásig."
+    },
+    {
+      "id": 9,
+      "term": "Totalitárius állam",
+      "definition": "Olyan diktatúra, amely az élet minden területét – gazdaság, kultúra, oktatás, család, vallás – ellenőrzik és felügyeli. A náci Németország és a szovjet kommunista állam voltak ennek példái.",
+      "quote": "Teljes társadalmi és egyéni ellenőrzés",
+      "text": "A totalitárius állam nem csak a politikai hatalmat gyakorolja, hanem az emberek gondolatait és értékeit is formálni próbálja. Eszközei közé tartozik a propaganda, a politikai rendőrség, a koncentrációs táborok, a egypartrendszer, és a személyi kultusz. A Harmadik Birodalom és a Szovjetunió a totalitarizmus klasszikus példáiként tanulmányozzák."
+    },
+    {
+      "id": 10,
+      "term": "Nemzetiszocializmus",
+      "definition": "A náci ideológia, amely a szélsőjobboldali nationalism, a rasszizmus és a diktatúrát ötvözte. Hitler államcéljainak megalapozása volt.",
+      "quote": "Faji alapú szélsőjobboldali ideológia",
+      "text": "A nemzetiszocializmus a német faj felsőbbrendűségében és az élettere (Lebensraum) szükségességében hitt. Központi eszméi a germán faj regenerálása, a bolsevizmus elleni küzdelem, és a zsidóság teljes eltörlése voltak. Az ideológia a német történelem romantizálásából és a vétség-komplexusból táplálkozott, és politikai gyakorlatban a legbrutálisabb erőszakban manifesztálódott."
+    },
+    {
+      "id": 11,
+      "term": "Nyilasok",
+      "definition": "A szélsőjobboldali, hungarista mozgalom Magyarországon. A gazdasági–társadalmi válság következtében megerősödöttek, majd 1944 októberétől átvette a hatalmat.",
+      "quote": "Hungarista szélsőjobboldali mozgalom",
+      "text": "A Nyilasok (Nyilaskeresztes Párt – Hungarizmus Mozgalom) Ferenc Szálasi vezetésével faji alapú nacionalizmust és diktatórikus államot hirdetett. A Horthy-rendszer nyomor és bizonytalan jövője miatt különösen a fiatalok és a szegény rétegek között voltak népszerűek. 1944 után Nazi-szövetségesként terrort, fosztogatásokat és tömeges erőszakot követtek el, különösen a zsidóság ellen."
+    },
+    {
+      "id": 12,
+      "term": "Szovjetunió",
+      "definition": "A Szovjet Szocialista Köztársaságok Egyesülése (1922–1991). Lenin által alapított kommunista állam, amely a 20. század egyik szuperhatalmává vált.",
+      "quote": "Szovjet komunista szuperhatalom",
+      "text": "A Szovjetunió a bolsevik forradalom eredménye volt, amely Oroszország összes korábbi imperialista és kapitalista megnyilvánulásait felszámolni kívánta. Sztálin alatt totalitárius diktatúrává alakult. A második világháborúban az antant legfontosabb katonai ereje lett. A Hidegháborúban az amerikai hegemóniával szemben állva bipolár világrendszert hozott létre. Az 1991-ben bekövetkezett összeomlása a 20. század végének meghatározó eseménye volt."
+    },
+    {
+      "id": 13,
+      "term": "Fasizmus",
+      "definition": "Az Olaszországban, majd Magyarországon és más európai államban terjedő szélsőjobboldali ideológia. Keskeny nemzeti érdekeket, erős vezetést, és militarizmus jelent.",
+      "quote": "Nacionalista szélsőjobboldali ideológia",
+      "text": "A fasizmus eredete az 1920-as évekbe nyúlik vissza, amikor Benito Mussolini az Olaszországban hatalomra jutott. A fasista mozgalmak közös jellemzői: a demokrácia elutasítása, a vezetőelvezér tisztelet, a nemzetközi béke elutasítása, a militarizmus, és nacionalista vagy rasszista ideológia. A magyarországi szélsőjobboldali mozgalmak (nyilasok, fajvédők) szintén fascista jellegűek voltak."
+    },
+    {
+      "id": 14,
+      "term": "Kommunizmus",
+      "definition": "A Marx–Lenin által alapított ideológia, amely a magántulajdon felszámolása és az osztály nélküli társadalom megvalósítása által járul munkásvezetésért. A Szovjetunió ezt az ideológiát igyekezett megvalósítani.",
+      "quote": "Magántulajdon nélküli osztály nélküli társadalom",
+      "text": "A kommunizmus az 1917-es bolsevik forradalommal lépett a világtörténelem színpadára. Lenin és Sztálin alatt az elmélet gyakorlatba fordítása nagy erőszakkal és áldozatokkal járt. A szovjet kommunizmus a tervgazdaság modelljét valósította meg, ahol az állam irányította a termelést. A Hidegháborúban a kommunizmus az amerikai kapitalizmust jelenti a bipolár világban."
+    },
+    {
+      "id": 15,
+      "term": "Revízió",
+      "definition": "A békeszerződések igazságtalannak tartott rendelkezéseinek és határainak felülvizsgálatára irányuló törekvés. A magyar politika központi célja volt 1920 után.",
+      "quote": "Trianoni béke határozatainak felülvizsgálata",
+      "text": "A Magyarország számára a revízió a Trianoni Békében elcsatolt területek visszaszerzésére irányuló politika volt. Ez utópisztikus vágyként életre kelt, amely nagyon erős nemzeti szentimont képviselt. A revízió a magyar külpolitika motorja volt az 1930-as, 1940-es éveken keresztül. A Horthy-rendszer nagy erőszakkal igyekezett földosztások és belpolitikai stabilitás révén a nemzeti szentimont csatornázni, de a revíziónak még az 1944-ben sem sikerült teljesen megvalósulnia."
+    },
+    {
+      "id": 16,
+      "term": "Legitimizmus",
+      "definition": "Politikai elv, amely a törvényes uralkodó jogfolytonosságát és a trónöröklés fennmaradását hirdeti. Magyarországon az 1920-as évek után III. Károly restaurációja volt az ideális.",
+      "quote": "Törvényes uralkodó jogfolytonossága",
+      "text": "A legitimizmus a Monarchia összeomlása után a Habsburg-ház restaurációját szorgalmazott. Horthy maga legitimista volt ideológiai értelemben, de gyakorlatban nem akarta a királyt vissza. A 'szent korona' államformáját képviselte: királnélküli királyság, ahol a kormányzó helyettesítette az uralkodót. A legitimizmus mögött az volt, hogy a válság kiváltotta társadalmi zűrzavart csak a tradicionális monarchikus rend helyreállítása tudna rendezni."
+    },
+    {
+      "id": 17,
+      "term": "Államosítás",
+      "definition": "Magántulajdonban lévő ipari és mezőgazdasági vállalatok állami tulajdonba vétele. A szocialista és kommunista rendszerek alapja volt.",
+      "quote": "Magántulajdon állami tulajdonná alakítása",
+      "text": "Az államosítás a szovjet és a Tanácsköztársaság kommunista gazdaságában központi szerepet játszott. Az 1919-es Tanácsköztársaságban az összes nagyobb ipar és bank állami felügyeletre került. Az 1950-es Magyar Népköztársaságban újra államosították az ipart és a nagy birtokokat. Az államosítás a magántulajdon elvét cáfolta meg, amely a kommunista ideológia alapja volt."
+    },
+    {
+      "id": 18,
+      "term": "Tervgazdaság",
+      "definition": "Központi állami tervezésre alapuló gazdasági rendszer. Az Szovjetunió és a szovjet szatellitállamok (például Magyarország) modellje volt.",
+      "quote": "Állami központi terv szerint irányított gazdaság",
+      "text": "A tervgazdaságban az állam 3-5 éves tervekben rögzítette az összes termelési és fogyasztási célt. A piac helyett a párt-állami apparátus irányította az erőforrások elosztását. A tervgazdaság elvileg racionális és hatékony lenne, de gyakorlatban gyakran pazarló és nehézkes volt. A magyar gazdaság az 1950-es évek közepétől ezt a modellt követte."
+    },
+    {
+      "id": 19,
+      "term": "Hidegháborús szembenállás",
+      "definition": "Az Egyesült Államok és a Szovjetunió közötti globális ideológiai és geopolitikai versengés. Bipolár világrendet hozott létre, amely az 1991-ig fennmaradt.",
+      "quote": "USA-szovjet globális versengés",
+      "text": "A Hidegháborúban a világ két szuperhatalom között oszlott meg. Az USA az Atlanti Szövetség (NATO) és az occidentális szövetségesek vezetője volt, míg a Szovjetunió a Varsói Szerződés és a szovjet szatellitállamok vezérlekedett. Magyarország szovjet szatellitállamként a Varsói Szerződésben és a Kominform-ban volt. A Hidegháború számos helyettesítő háborút és krízist okozott (Korea, Vietnam, Kuba, Berlin-fal)."
+    },
+    {
+      "id": 20,
+      "term": "Nürnbergi törvények",
+      "definition": "Az 1935-ben Németországban megalkotott rasszista jogszabályok, amely a zsidókat polgári jogaiktól fosztotta meg. Az első szisztematikus jogfosztás volt a Holokauszt előtt.",
+      "quote": "Zsidókat polgári jogaiktól megfosztó jogszabályok",
+      "text": "A Nürnbergi törvények a nemzetiszocialista rasszista ideológiát jogszabályokba öntetik. Az első törvény a Reich-polgárságot csak 'német vagy rokon vérű' személyeknek adta meg. A második törvény az intermariage és az állami szerv közötti szexuális kapcsolatok tilalmát tartalmazta. Ezek a jogszabályok előkészítették a Holokauszt jogi és ideológiai alapját."
+    },
+    {
+      "id": 21,
+      "term": "Versailles-i Békeszerződés",
+      "definition": "Az 1919-ben aláírt béke az első világháborút lezáró szerződés. A német összeomlás előtt az Entente államai között jött létre, amely az ország teljes szét-szóródásához és végzetes következményekhez vezetett.",
+      "quote": "Versailles-i békeszerződés",
+      "text": "A Versailles-i Békeszerződés végül is Franciaország és Britannia érdekein alapult. Németországnak súlyos reparációkat kell fizetni, területeket elveszíteni, és katonai korlátozásoknak engedelmeskedni. A szerződés miatt az Weimari Köztársaság súlyos gazdasági válsággal szembesült, amely végül Hitlerhez vezetett. A történészek szerint a Versailles-i Békeszerződés olyan keserűséget hagyott Németországban, amely közvetlenül a második világháborúhoz vezetett."
+    },
+    {
+      "id": 22,
+      "term": "Keleti Front",
+      "definition": "Az első világháborúban a német-osztrák erők és az orosz hadsereg közötti hadszíntér. Nagyobb területeken, de fékezettebb harci módban zajlott, mint a nyugati front.",
+      "quote": "Német-orosz hadszíntér",
+      "text": "A Keleti Front az Oroszország nyugati része és a Közép-Európa között húzódott. Az orosz hadsereg nagy veszteségeket szenvedett az Tannenberg-i csatában (1914), de a Bruszilov-offenzíva (1916) temérdek német-osztrák katonát vészedtetett el. Azonban ez a sikeres offenzíva végül az orosz hadsereg moralizmusát és felszereltségét összeroncsolta, amely a bolsevik forradalomhoz vezetett 1917-ben."
+    },
+    {
+      "id": 23,
+      "term": "Francia Front",
+      "definition": "Az első világháborúban Franciaország nyugati terület és a német hadsereg közötti állóháború. A Marne folyó megmaradásáról szóló vetélkedésből fejlődött ki.",
+      "quote": "Szerződött német-francia háborús terület",
+      "text": "A Francia Front az első világháborúban az állóháború központja volt. A Marne csatája (1914) után a frontvonalak megmerevedtek, amely egy sor pusztító csatához vezetett, különösen Verdun (1916) és a Somme (1916) környékén. A francia front az angol és amerikai beavatkozásával végül győzelemhez vezetett a franciáknak és szövetségeseiknek."
+    },
+    {
+      "id": 24,
+      "term": "1956-os Magyar Forradalom",
+      "definition": "Magyarország függetlenségéért és szabadságáért folytatott fegyveres felkelés az 1956-os év októberében és novemberében. A szovjet katonai intervencióval leverték.",
+      "quote": "Fiatalok és dolgozók felkelése a szovjet elnyomás ellen",
+      "text": "Az 1956-os forradalom Magyarország történelmének egyik legkidőbb és legfájdalmasabb eseménye. Egyetemista és munkás tömegek keletről szervezetlenül szervezkedni kezdtek a szovjet szatellita státusz ellen. Imre Nagy miniszterelnök elsőként támogatta a forradalom egy részét, de végül a szovjet csapatok intervenciójára vezetett, amely számos haláleset után leverette a felkelést. A forradalom után Kádár János vette át a kormányzati hatalmat, aki később helyreállított egy mérsékeltebb kommunista rendszert."
+    },
+    {
+      "id": 25,
+      "term": "Kádár János és a Kádár-rendszer",
+      "definition": "A magyar politikus, aki az 1956-os forradalom után vette át az országot és létrehozta a 'gulash-szocializmusnak' nevezett mérsékeltebb kommunista rendszert.",
+      "quote": "Gulyásjános és a mérsékelt kommunizmus",
+      "text": "Kádár János 1956 után 32 éven keresztül vezette Magyarországot. A kezdeti represszió után fokozatosan liberálisabbá vált a rendszer. A gazdaságban némi magánkezdeményezést megengedett, amely a szocializmus és a kapitalizmus hibridjeként működött. A kulturális és sportéletben is nagyobb engedékenység mutatkozott. A Kádár-rendszer legvezetett, hogy az emberek a szocializmusban elfogadható életet élhessenek, amely végül a szövetkezetek és a magángazdasági csatornák kifejlődéséhez vezetett. Ez az 1968-as 'új gazdasági mechanizmus' reformjai által jellemzett."
+    },
+    {
+      "id": 26,
+      "term": "Trianon",
+      "definition": "Az 1920. június 4-én aláírt békeszerződés az első világháborút lezárta Magyarország számára. Magyarország területének kétharmadát elcsatolta.",
+      "quote": "Magyarország területének kétharmada elcsatolása",
+      "text": "A Trianoni Békszerződés Magyarország történelmének egyik legtragikusabb szerződése volt. A szerződés által Magyarország az Ústó-Erdélyből, a Bánatból, a Felvidékből és a Délvidékről is elvesztett. Az ország területe körülbelül 33 000 km² volt, amely az eredeti mintegy 100 000 km²-ről csökkent 93 000 km²-re. Halmozottan sok magyar került az utódállamok (Csehszlovákia, Románia, Jugoszlávia) nyomása alá. Ez az ország nemzeti szenvedésévé vált, amely hosszú időre meghatározta a magyar politikát."
+    },
+    {
+      "id": 27,
+      "term": "Nemzetközi viszony az 1930-as években",
+      "definition": "Az 1930-as évek nemzetközi politikája a fasiszta agresszió fokozódásával és a demokráciák szétesésével jellemzett. Az egyre inkább ideológiai konfliktusok uralta nemzetközi viszonyok az 1939-es világháborúhoz vezetett.",
+      "quote": "Fasiszta agresszió és demokráciák szétesése",
+      "text": "Az 1930-as évek nemzetközi politikáját a gazdasági válság és az után született politikai válság határozta meg. Japán elfoglalta Mandzsúriát (1931), Olaszország invadálta Etiópiát (1935), Németország remilitarizálta a Rajnát (1936) és invadálta Ausztriát (1938). A demokratikus államok (Franciaország, Britannia) ezekre az agresszív lépésekre alkalmazkodás és engedményzések révén reagáltak. Végül a német Lengyelország invadációja (1939) vetette meg az 1945-ig tartó második világháborút."
+    },
+    {
+      "id": 28,
+      "term": "Szociáldemokrata párt vs. Kommunista párt",
+      "definition": "A bal oldali pártok közötti ideológiai és politikai különbségek az 1920-as évekre visszanyúlva alapvetően meghatározták a magyar politikai helyzetet.",
+      "quote": "Reformista vs. forradalmi szocializmus",
+      "text": "A szociáldemokrata párt (MSZDP) a demokratikus út által szocializmusot szerette volna elérni, míg a Kommunista párt (KMP) a proletár forradalmat követte. Az 1919-es Tanácsköztársaság ezen két párt egyesülésérőlt jött létre. Azonban a kommunisták domináltak és végül forradalmi diktatúrát alapítottak. Az ellentét a szociáldemokraták jobboldali szakadása után is megmaradt, amely a magyar szocializmus szétesésére vezetett."
+    },
+    {
+      "id": 29,
+      "term": "Párizs Békekonferencia (1919)",
+      "definition": "Az első világháborút lezáró békerendszert meghatározó nemzetközi konferencia. Wilson amerikai elnök, Clemenceau francia és Lloyd George brit miniszterelnök voltak a főbb szereplők.",
+      "quote": "Wilsoni önrendelkezés elve a béke alapja",
+      "text": "A Párizsi Békekonferencia a versailles-i és a trianoni békét is előírta. Az 'Egyesült 14 pont' elvében az önrendelkezés alapú béke volt az ideális. Azonban a gyakorlatban a franciák és angolok a nemzeti érdekeiket helyezték előtérbe. Magyarország számára végül a Trianoni Békét írták elő, amely az ország szétdarabolásához vezetett. Ez az ország történelmének egyik mérföldköve lett."
+    },
+    {
+      "id": 30,
+      "term": "Szövetséges megszállás (1945–1950)",
+      "definition": "Az antant szuperhatalmak (USA, Szovjetunió, Britannia, Franciaország) által gyakorolt katonai és politikai ellenőrzés a legyőzött tengelyhatalmak felett.",
+      "quote": "Szövetséges katonai és politikai ellenőrzés",
+      "text": "A szövetséges megszállás után négy zónára osztották fel Németországot és Ausztriát. Magyarország, mint német szövetséges, szovjet katonai ellenőrzés alá került. A szovjet ellenőrzés alatt a magyar politika fokozatosan kommunista kormányzatot alakított ki. Közben Jugoszlávia, Albánia és később Csehszlovákia saját kommunista forradalmakat éltek át, amely végül az egész Kelet-Európa szovjet szatellitállamainak a közösségét eredményezte."
+    },
+    {
+      "id": 31,
+      "term": "Varsói Szerződés",
+      "definition": "Az 1955-ben aláírt szovjet-szatellita hadszövetség, amelynek tagjai voltak Szovjetunió, Lengyelország, Csehszlovákia, Magyarország, Románia, Bulgária és az NDK. A NATO-val szemben létrejött.",
+      "quote": "Szovjet szatellitállami hadszövetség",
+      "text": "A Varsói Szerződés a szovjet hegemónia biztosítási és a NATO-val szembeni fegyverkezett szövetségként jött létre. Magyarország sohasem volt önkéntes tagja, hanem szovjet nyomásra csatlakozott. Az 1956-os forradalom után a Varsói Szerződés szovjet tankai voltak azok, amelyek leverték a felkelést. Az 1989-1991-ben a Varsói Szerződés szövetségeseink rendre függetlenné váltak és kiléptek vagy feloszlatták."
+    },
+    {
+      "id": 32,
+      "term": "Berlin-fal (1961–1989)",
+      "definition": "A Nyugat-Berlin körül építetett falrendszer, amely szeparált az NDK és a nyugatit, valamint egyike volt a Hidegháború szimbólumainak.",
+      "quote": "A kettéosztott Berlin szeparálása",
+      "text": "A Berlin-fal az 1961-ben szovjet és NDK rendőrség által épített betonművészet volt. Mintegy 155 km hosszan vette körül a Nyugat-Berlint. Célja a keleti német polgárok nyugatra való menekülésének megakadályozása volt. A fal építése óta több száz ember halt meg a menekülési kísérletek során. A fal 1989-ben az NDK összeomlásával esett össze, amely az egész Hidegháború végét szimbolizálta. A Berlin-falnak ma már emlékműként állnak részletei."
+    },
+    {
+      "id": 33,
+      "term": "Szputnyik és az űr-versengés",
+      "definition": "Az 1957-ben szovjet Szputnyik műholdnak a siker az USA-val szembeni első győzelem az űr-versengésben. Ez az esemény az egész Hidegháborút megrázta.",
+      "quote": "Szovjet szputnyik az első műhold az űrben",
+      "text": "A Szputnyik sikere bebizonyította, hogy a Szovjetunió technológiai szinten az USA-val versenyképes. Ez a siker nagyobb amerikai szövetsség miatt szél voltak. Az USA ezt követően nagyobb erőfeszítéseket tett a technológiai fejlődésben, amely végül az Apollo-programhoz és az ember a holdon való leszállásához vezetett. Az űr-versengés az ideológiai háborúnak egy szimbolikus mezeje lett."
+    },
+    {
+      "id": 34,
+      "term": "Kuba-válság (1962)",
+      "definition": "Az egyik leginkább veszélyeztetett Hidegháború-krízis, amikor a Szovjetunió gépigényes rakétákat szállított Kubára, amely közel kerülte az atomháborút az USA-val.",
+      "quote": "Szovjet rakéták Kubában - az atomháború szélén",
+      "text": "A Kuba-válság 1962 októberében következett be, amikor az amerikai szuperhatalmak felfedezték, hogy szovjet rakétákat szállítottak Kubára, amely az USA-t veszélybe sodorhatta. Kennedy amerikai elnök egy katonai blokádot rendelt el, valamint diplomáciai nyomást gyakorolt Nikita Hruscsovra. Végül a szovjet vezetés visszavonta a rakétákat, azonban az USA is eltávolított rakétákat Törökországból. Ez az esemény a Hidegháborúban egyik leginkább veszélyes pillanata volt."
+    },
+    {
+      "id": 35,
+      "term": "Prágai Tavasz (1968)",
+      "definition": "Csehszlovákia reformkommunista mozgalma az 1968 durante. Az NKVD és a Varsói szerződés tankai leverték az mozgalmat.",
+      "quote": "Csehszlovák reformkommunista mozgalom",
+      "text": "Az 1968-as Prágai Tavasz az Alexander Dubček által vezetett Csehszlovákia liberális reformjait képviselte. A kommunista párt vezetése próbált kibontani egy emberi arcú szocializust (Human Socialism). Ez a szovjet vezetésnek pedig veszélyes szeparatizmusnak tűnt. Augusztus 20-án szovjet, magyar, lengyelországi, keletnémet és bolgár tankok invadálták meg Csehszlovákiát. Ez az esemény a szovjet hegemóniának a végét jelzete, valamint Magyarország betét abban, mint szovjet szatellita államban."
+    },
+    {
+      "id": 36,
+      "term": "Vietnám-háború (1955–1975)",
+      "definition": "Az USA és a szovjetuni közötti helyettesítő háború, amely Vietnámban zajlott. Az NKVD és a Kínai Népköztársaság támogatta az Észak-Vietnámot, az USA pedig a Dél-Vietnámot.",
+      "quote": "USA-szovjet helyettesítő háború Vietnámban",
+      "text": "A Vietnám-háború az egyik leghosszabb és legpusztítóbb Hidegháborús helyettesítő konfliktus volt. Az 1975-ig tartó háborúban több millió ember vesztette az életét, és kiterjedten használtak vegyi fegyvereket (Agent Orange). Az USA végül vereséget szenvedett, és Vietnám egyesült az Észak alatt. Ez a konfliktus alapvetően megrendítette az amerikai politikai bizalmat hazájában."
+    },
+    {
+      "id": 37,
+      "term": "Gorbachov és a perestrojka",
+      "definition": "Mihail Gorbachov szovjet vezetője az 1985–1991 során, aki a gazdasági és politikai reformokat (perestrojka és glasznoszty) sürgetett meg, amely végül a szovjet szétbomlásához vezetett.",
+      "quote": "Szovjet reformok és nyitottság",
+      "text": "Gorbachov az 1980-as évek közepén a szovjet gazdaság és politika reformjait kezdeményezte. A 'perestrojka' (újjáépítés) a gazdasági visszatartottság ellen irányult. A 'glasznoszty' (nyitottság) a szovjet politika transzparenciáját követelte meg. Ezek a reformok azonban végül a szovjet szétbomlásához vezetett, mivel a régi kommunista párt ellenálló volt, illetve az utódállamok függetlenségi mozgalmait nem tudta megtartani. Az 1991-es szovjet összeomlás után a Szovjetunió helyét a független államok közösségét képezte."
+    },
+    {
+      "id": 38,
+      "term": "1989–1991 rendszerváltás Kelet-Európában",
+      "definition": "A szovjet szatellitállamok függetlenségét elérő történelmi időszak. A szovjet szétbomlás miatt az egész szovjetunió kollapsza következett be.",
+      "quote": "Kelet-európai függetlenséghez vezető átalakulás",
+      "text": "Az 1989–1991-es rendszerváltás Kelet-Európában egymást követő független mozgalmakkal történt. Lengyelország, Csehszlovákia és Magyarország tárgyalások révén vált függetlenné. Az NDK egyesült Németországgal. Az utódállamok többsége multipartian demokráciák irányúlt. Magyarország 1990-ben a Szabad Demokratikus Párt és a Magyar Szocialista Párt koalíciós kormánya alatt alakult át. Ez az időszak a Hidegháború végét szimbolizálja."
+    },
+    {
+      "id": 39,
+      "term": "Népi demokrácia Magyarországon",
+      "definition": "Az 1945–1950 között Magyarország politikai formája, amely állítólag a szocializmusba vezetett, de gyakorlatban szovjet szatellita-államot alakított ki.",
+      "quote": "Szovjet szatellita államrendszer",
+      "text": "A Népi Demokrácia Magyarországon a szovjet szatellita államként működött. Az államfő kinevezésétől a gazdaság szovjet modellezéséig minden a szovjet felügyelete alatt történt. A 'populáris' kormányzati forma állítólag a népi akaratot képviselte, de gyakorlatban a Szovjetunió érdekét helyezte előtérbe. Ez a forma 1950 után a Magyar Népköztársasággá alakult át, amely az 1989-ben a Magyarország Köztársaságává vált."
+    },
+    {
+      "id": 40,
+      "term": "Osztályharc Magyarországon az 1950-es években",
+      "definition": "A kommunista párt által szervezett megtorlások a 'osztályellenesnek' minősített egyénekre és csoportokra. Rendszeres üldözés, internálás és kivégzések voltak.",
+      "quote": "Kommunista megtorlás az osztályellenes elemek ellen",
+      "text": "Az 1950-es magyarországi osztályharcot az állambiztonsági működőhöz (ÁVH) szervezett és a szovjet modelltől követte. A 'kulák' (módosabb parasztok), a 'burzsoá' (középosztálybeliek) és a 'városból erővel kitenni' voltak az célpontok. Összesen több tízezer ember szenvedett internálást, kihallgatást és vegzést. Ez a megtorlás az 1956-os forradalom hátterét is képezte."
+    },
+    {
+      "id": 41,
+      "term": "Rákosi Mátyás és a Rákosi-diktatúra",
+      "definition": "A magyar kommunista vezető, aki az 1949–1956 között elnyomó kommunista diktatúrát vezetett. Az állambiztonsági rendőrség és a terror a fő eszközei voltak.",
+      "quote": "Magyar szovjet szatellita diktatúra",
+      "text": "Rákosi Mátyás a szovjet szatellita államként működő Magyarország legerősebbtőbb vezetője volt. A sztalinista terror modelljét követte Magyarország pedig bevezette a '5 éves tervet' és szükséges szérből Sztalinist tiszta. Rákosi alatt az internálások és az 1950-es év 'osztályharcai' voltak. 1956-ban az 1956-os forradalom során szovjet támogatás nélkül véget ért a Rákosi-diktatúra."
+    }
+  ]
+}

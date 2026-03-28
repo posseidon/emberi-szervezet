@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "zsido-monoteizmus",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Ki volt a zsidóság ősatyja, aki Mezopotámiából Kánaánba vándorolt?",
+      "options": [
+        "Mózes",
+        "Dávid",
+        "Salamon",
+        "Ábrahám"
+      ],
+      "answer": "Ábrahám"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az _____ az izraeli nép által az egyiptomi szolgaságból való kimenekülésének az eseménye volt, amelyet Mózes vezetett.",
+      "options": [],
+      "answer": "kivonulás"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik hegyről kapta Mózes a Tízparancsolatot?",
+      "options": [
+        "Mount Sinai",
+        "Sínai-hegy",
+        "Karmel-hegy",
+        "Olives-hegy"
+      ],
+      "answer": "Sínai-hegy"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az _____ az izraeli egységes királyság második királya volt, aki legyőzte a filiszteusokat és Jeruzsálemet fővárossá tette.",
+      "options": [],
+      "answer": "Dávid"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Ki építette fel a jeruzsálemi templomot?",
+      "options": [
+        "Mózes",
+        "Dávid",
+        "Salamon",
+        "Saul"
+      ],
+      "answer": "Salamon"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ az izraeli monoteizmusnak a személyesítése volt, a zsidó vallás legszentebb istenalakja.",
+      "options": [],
+      "answer": "Jahve"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik vallás volt az első monoteista vallás az antik világban?",
+      "options": [
+        "Kereszténység",
+        "Iszlám",
+        "Judaizmus",
+        "Zoroasztrizmus"
+      ],
+      "answer": "Judaizmus"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az _____ az izraeli tisztaság és szabadság ünnepe, amely a Mózes által vezetett kivonulást ünnepli.",
+      "options": [],
+      "answer": "pészah"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mi történt az izraeli neppel Kr. e. 586-ban?",
+      "options": [
+        "A Rómaiak legyőzték őket",
+        "A Babiloniak lerombolták a templomot és fogságba vitték az izraelitákat",
+        "Nagy Sándor meghódította őket",
+        "A Perzsák meghódították őket"
+      ],
+      "answer": "A Babiloniak lerombolták a templomot és fogságba vitték az izraelitákat"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ az izraeli vallás legfontosabb vallási napja, amely hét naponként egyszer fordul elő, és amelyen a munkavégzés tilalmazott.",
+      "options": [],
+      "answer": "szombat"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik város volt az Izrael főváros?",
+      "options": [
+        "Betlehem",
+        "Názáret",
+        "Jeruzsálem",
+        "Gaza"
+      ],
+      "answer": "Jeruzsálem"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ az izraeli vallás legszentebb irata, Mózes öt könyve, amely a teremtéstől kezdve az Ígéret föld elfoglalásáig meséli el az Izrael történetét.",
+      "options": [],
+      "answer": "Tóra"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mit jelent az 'Tízparancsolat'?",
+      "options": [
+        "Tíz város",
+        "Tíz törvény",
+        "Tíz törzs",
+        "Tíz próféta"
+      ],
+      "answer": "Tíz törvény"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az _____ az izraeli vallás szentsége, amely egy hétágú gyertyatartóból áll, és amely az izraeli vallás legfontosabb jelképei közé tartozik.",
+      "options": [],
+      "answer": "menóra"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik bibliai személyiség volt az izraeli nép szabadítója?",
+      "options": [
+        "Mózes",
+        "Ábrahám",
+        "Dávid",
+        "Szolón"
+      ],
+      "answer": "Mózes"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ az izraeli nép szétszóródása volt, amely Kr. u. 70 után tömegessé vált a jeruzsálemi templom lerombolása után.",
+      "options": [],
+      "answer": "diaszpóra"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Ki volt a babiloni király, aki lerombolták a jeruzsálemi templomot?",
+      "options": [
+        "Cyrus",
+        "Nabukadnezár II",
+        "Dariusz",
+        "Heródotosz"
+      ],
+      "answer": "Nabukadnezár II"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az _____ az izraeli közösségi ház volt, amelyben a Tóra olvasása és magyarázata történt, valamint ahol a közösség szertartásokat végzett.",
+      "options": [],
+      "answer": "zsinagóga"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik ópermatta vált véglegessé az izraeli monoteizmusa?",
+      "options": [
+        "Róma hódítása után",
+        "Nagy Sándor hódítása után",
+        "A babiloni fogság alatt",
+        "A jeruzsálemi templom lerombolása után"
+      ],
+      "answer": "A babiloni fogság alatt"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ az izraeli vallás második legszentebb irata az Ótestamentum után, amely rabbik által írott szövegek gyűjteménye.",
+      "options": [],
+      "answer": "Talmud"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mit jelent az 'Messiás'?",
+      "options": [
+        "Király",
+        "Próféta",
+        "Felkent",
+        "Rabbin"
+      ],
+      "answer": "Felkent"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A _____ az izraeli nép által az egyiptomi rabszolgaság után az Ígéret föld, amely szó szerint 'kedvesség' vagy 'kegyelm'.",
+      "options": [],
+      "answer": "Kánaán"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Melyik időszakban élt Dávid király?",
+      "options": [
+        "Kr. e. 13. sz.",
+        "Kr. e. 11. sz.",
+        "Kr. e. 5. sz.",
+        "Kr. u. 1. sz."
+      ],
+      "answer": "Kr. e. 11. sz."
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A _____ a jeruzsálemi templom nyugati falának egyetlen fennmaradt része, amely a Kr. u. 70-i rómaiak által történt lerombolás után megmaradt.",
+      "options": [],
+      "answer": "Siratófal"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik persza király engedélyt adott az izraelieknek, hogy vissza tudjanak térni Jeruzsálembe?",
+      "options": [
+        "Dariusz",
+        "Xerxesz",
+        "Cyrus a Nagy",
+        "Artaxerxesz"
+      ],
+      "answer": "Cyrus a Nagy"
+    }
+  ]
+}

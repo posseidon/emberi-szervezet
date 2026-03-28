@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "hideghaboru-szembenallas",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik esemény volt a hidegháboru első nagy katonai konfliktusa Ázsiában?",
+      "options": [
+        "Vietnam háborúja",
+        "Koreai háború",
+        "Afgánisztáni invázió",
+        "Tajvani krízis"
+      ],
+      "answer": "Koreai háború"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ válság 1962-ben majdnem világháborúhoz vezetett.",
+      "options": [],
+      "answer": "kuba"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Ki volt az Egyesült Államok elnöke a kuba válság alatt?",
+      "options": [
+        "Eisenhower",
+        "Kennedy",
+        "Johnson",
+        "Nixon"
+      ],
+      "answer": "Kennedy"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A szovjet _____ a kuba válságban fegyverként jelent meg.",
+      "options": [],
+      "answer": "atommuníció"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Melyik országban történt az 1968-as szovjet katonai beavatkozás?",
+      "options": [
+        "Magyarország",
+        "Csehszlovákia",
+        "Lengyelország",
+        "Románia"
+      ],
+      "answer": "Csehszlovákia"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az 1968-as _____ tavasz Csehszlovákiában próbált demokratizálódni.",
+      "options": [],
+      "answer": "prágai"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mi volt a Vietnam-háború hidegháborús vonatkozása?",
+      "options": [
+        "Gazdasági verseny",
+        "Kommunizmus terjedésének megakadályozása",
+        "Gyarmati bővítés",
+        "Vallási konfliktus"
+      ],
+      "answer": "Kommunizmus terjedésének megakadályozása"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A vietnámi háborúban az USA _____ évet harcolt aktívan.",
+      "options": [],
+      "answer": "8"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik szovjet vezetőt követte Hruscsov után?",
+      "options": [
+        "Malenkov",
+        "Brezsnyev",
+        "Andropov",
+        "Csernenko"
+      ],
+      "answer": "Brezsnyev"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az _____ tanszék az USA szövetségeseinek szellemi képzésére vált.",
+      "options": [],
+      "answer": "nyugati"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mit jelölt az 1962-es kubai válság szovjet visszavonulása?",
+      "options": [
+        "Szovjet győzelem",
+        "Amerikai győzelem",
+        "Szovjet gyengeség kimutatása",
+        "Kölcsönös feltételezés"
+      ],
+      "answer": "Amerikai győzelem"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ doktrína a szovjet szféra bővítésé célja volt.",
+      "options": [],
+      "answer": "Brezsnyev"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik ország volt a szovjet- amerikai verseny középpontja Ázsiában?",
+      "options": [
+        "Kína",
+        "India",
+        "Vietnám",
+        "Korea"
+      ],
+      "answer": "Vietnám"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az 1968-as Tet offenzíva _____ során indíttatott.",
+      "options": [],
+      "answer": "vietnámi"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mi volt az 'Mutually Assured Destruction' stratégia?",
+      "options": [
+        "Kölcsönös támadás",
+        "Kölcsönös megsemmisítés fegyveri egyensúlyával",
+        "Szövetségi támadás",
+        "Gazdasági blokád"
+      ],
+      "answer": "Kölcsönös megsemmisítés fegyveri egyensúlyával"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az SALT I egyezmény _____ között köttetett.",
+      "options": [],
+      "answer": "USA és Szovjetunió"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik nem volt a szovjet-amerikai konfrontáció háborús terepe?",
+      "options": [
+        "Korea",
+        "Vietnám",
+        "Közép-Amerika",
+        "Afrika"
+      ],
+      "answer": "Afrika"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az _____ invázió az 1980-as hidegháborús eszkaláció jelent meg.",
+      "options": [],
+      "answer": "afgánisztáni"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Hogyan értékelte az USA az afgánisztáni szovjet invázióot?",
+      "options": [
+        "Jogosultnak",
+        "Agresszív lépésnek",
+        "Érdekspheré nyomásnak",
+        "Délkelet-ázsiai felgyorsulásnak"
+      ],
+      "answer": "Agresszív lépésnek"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A hidegháborús éra alatt az _____ szuperhatalom az űrprogramot elsődlegessé tette.",
+      "options": [],
+      "answer": "szovjet"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik volt az amerikai elnök, aki Kínát megnyitotta?",
+      "options": [
+        "Kennedy",
+        "Johnson",
+        "Nixon",
+        "Ford"
+      ],
+      "answer": "Nixon"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az _____ fordulat a szovjet-kínai szakadástól jelképez.",
+      "options": [],
+      "answer": "1960-as"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mit jelent a 'domino elmélet' az amerikai politikában?",
+      "options": [
+        "Gazdasági elmélet",
+        "Ha egyik ország kommunista lesz, a szomszédok is seguirán",
+        "Sakkszerű stratégia",
+        "Gazdasági intézmények"
+      ],
+      "answer": "Ha egyik ország kommunista lesz, a szomszédok is seguirán"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az USA vietnámi militarizálása _____ alatt volt legmagasabb.",
+      "options": [],
+      "answer": "Johnson"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik nem volt a szovjet beavatkozás célja Csehszlovákiában?",
+      "options": [
+        "Reform megakadályozása",
+        "Demokratizálás előmozdítása",
+        "Szovjet dominancia biztosítása",
+        "Szatellitállamok uralmának fenntartása"
+      ],
+      "answer": "Demokratizálás előmozdítása"
+    }
+  ]
+}

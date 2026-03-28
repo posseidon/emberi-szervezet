@@ -1,0 +1,120 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "nemzetisegek-magyarorszagon",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Hány elismert nemzetiség él Magyarországon?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": "13"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Magyarország legnagyobb nemzetisége a _____.",
+      "options": [],
+      "answer": "cigányság"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Hány német él Magyarországon kb.?",
+      "options": [
+        "100 ezer",
+        "140 ezer",
+        "180 ezer",
+        "200 ezer"
+      ],
+      "answer": "140 ezer"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A roma közösség száma körülbelül _____ ezer fő.",
+      "options": [],
+      "answer": "210-300"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mely évek között zajlott a magyar-szlovák lakosságcsere?",
+      "options": [
+        "1940-1945",
+        "1946-1949",
+        "1950-1955",
+        "1960-1965"
+      ],
+      "answer": "1946-1949"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A porajmos időszaka a _____ alatt történt.",
+      "options": [],
+      "answer": "II. világháborúban"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mi jelent meg a 15. századi Magyarország terültén?",
+      "options": [
+        "A szlovákok",
+        "A cigányság",
+        "A románok",
+        "A szerben"
+      ],
+      "answer": "A cigányság"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "_____ szlovák él Magyarországon.",
+      "options": [],
+      "answer": "30 ezer"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik nemzetiség életszínvonala tartósan szegénységben maradt?",
+      "options": [
+        "A németek",
+        "A szlovákok",
+        "A cigányság",
+        "A szerbek"
+      ],
+      "answer": "A cigányság"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A nemzetiségi önkormányzatok _____ szinten működhetnek.",
+      "options": [],
+      "answer": "három"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mit jelöl az 1951-es genfi egyezmény?",
+      "options": [
+        "Nemzetiségi jogok",
+        "Menekültenjogok",
+        "Cigányjogok",
+        "Többségi jogok"
+      ],
+      "answer": "Menekültenjogok"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az 1993-as nemzetiségi törvény megalkotásának éve _____.",
+      "options": [],
+      "answer": "1993"
+    }
+  ]
+}

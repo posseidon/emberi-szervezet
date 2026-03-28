@@ -1,0 +1,161 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "masodik-ipari-forradalom",
+  "title": "A második ipari forradalom",
+  "flashcards": [
+    {
+      "id": "masodik-ipari-forradalom-001",
+      "term": "Mi volt a második ipari forradalom központi energiaforrása és hogyan különbözött az elsőtől?",
+      "definition": "Az elektromosság vált a modern termelés hajtóerejévé az első ipari forradalom gőzével szemben. Edison villanyégője (1879) és Tesla váltóárama lehetővé tette az elektromos motorok gyártását, amely decentralizált, széleskörű termelésre nyitott lehetőséget.",
+      "quote": "Gőzből villanyba",
+      "text": "Energiaforrás-váltás"
+    },
+    {
+      "id": "masodik-ipari-forradalom-002",
+      "term": "Hogyan változtatta meg az autó feltalálása az ipari és társadalmi szerkezetet?",
+      "definition": "Benz és Daimler benzinmotorja (1880s-1890s) alapján Ford assembly line (1913) lehetővé tette az autók tömegtermelését. Ez új iparágat teremtett (autóipar, petroléum-ipar), közlekedést forradalmasított, városképet megváltoztatott, és globális kereskedelem új formáit hozta létre.",
+      "quote": "T-modell = szállítási forradalom",
+      "text": "Az autóipar jelentősége"
+    },
+    {
+      "id": "masodik-ipari-forradalom-003",
+      "term": "Mit ért Henry Ford assembly line rendszerén és miért volt ez jelentős?",
+      "definition": "Ford 1913-ban bevezette a folyamatos szalagrendszert, ahol minden munkadarab egyidejűleg halad az állomásokon, és munkások sematikus feladatokra szakosodnak. Ez radikálisan lecsökkentette a termelési költségeket és időt, lehetővé téve tömegtermelést és az autók közönséges emberek számára hozzáférhetővé válták.",
+      "quote": "Gyors, olcsó, tömeg",
+      "text": "Tömegtermelés forradalma"
+    },
+    {
+      "id": "masodik-ipari-forradalom-004",
+      "term": "Milyen új iparágak születtek a második ipari forradalom következtében?",
+      "definition": "Elektromosság (elektrotechnika), autó (autóipar), szintetikus anyagok (kémia), gyógyszerek (farmakológia), petroléum-feldolgozás, repülőgépgyártás és telekommunikáció. Ezek az iparágak a 20. század gazdaságát meghatározták.",
+      "quote": "Elektromosság + kémia + közlekedés",
+      "text": "Új iparágak születése"
+    },
+    {
+      "id": "masodik-ipari-forradalom-005",
+      "term": "Mi volt Louis Pasteur és Joseph Lister hozzájárulása a második ipari forradalomhoz?",
+      "definition": "Pasteur fermentáció- és mikrobés elméleteivel, Lister antisepszis-technikájával megteremtették a modern orvostudomány alapjait. Ez egyrészt új gyógyszeriparra vezetett, másrészt meghosszabbította az élettartamot és munkavégzésre képes népességet nőtt meg.",
+      "quote": "Kórokozó = betegség oka",
+      "text": "Mikrobés elmélet és orvostechnika"
+    },
+    {
+      "id": "masodik-ipari-forradalom-006",
+      "term": "második ipari forradalom",
+      "definition": "A 19. század utolsó harmada és 20. század kezdete: elektromosság, kémia, közlekedés és kommunikáció forradalmasodása.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "masodik-ipari-forradalom-007",
+      "term": "elektromosság",
+      "definition": "Thomas Edison (villanyégő, 1879) és Nikola Tesla (váltóáram) feltalálásai; új iparákat teremtett és a termelést forradalmasította.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "masodik-ipari-forradalom-008",
+      "term": "autó",
+      "definition": "Karl Benz (1885) és Gottlieb Daimler motorja alapján: a közlekedés és szállítás újabb forradalma.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "masodik-ipari-forradalom-009",
+      "term": "repülőgép",
+      "definition": "Wright fivérek első repülése (1903); új szállítási lehetőség és katonai alkalmazás.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "masodik-ipari-forradalom-010",
+      "term": "telefon",
+      "definition": "Alexander Graham Bell feltalálása (1876); távolsági kommunikáció lehetővé tétele.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "masodik-ipari-forradalom-011",
+      "term": "gyógyszeripar",
+      "definition": "Louis Pasteur és Joseph Lister: aszeptikusság, antisepszis, antibiotikum-előzmények.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "masodik-ipari-forradalom-012",
+      "term": "szénhidrogén-kémia",
+      "definition": "Szintetikus anyagok, festékek, mérgek kutatása; új iparak terjedése.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "masodik-ipari-forradalom-013",
+      "term": "acélipar",
+      "definition": "Bessemer-eljárás, majd Thomas-eljárás: nagy mennyiségű olcsó acél termelésének lehetősége.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "masodik-ipari-forradalom-014",
+      "term": "petroléum-ipar",
+      "definition": "Kőolaj kinyerésére és feldolgozására alapult ipar; autó megjelenésével robbanásszerűen nőtt.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "masodik-ipari-forradalom-015",
+      "term": "tömegtermelés",
+      "definition": "Ford assembly line (1913): standardizáció, szakosodás, gépesítés révén még gyorsabb és olcsóbb termelés.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "masodik-ipari-forradalom-016",
+      "term": "Thomas Edison",
+      "definition": "Amerikai feltaláló, villanyégő (1879), fonográf, elektromos hálózat.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "masodik-ipari-forradalom-017",
+      "term": "Nikola Tesla",
+      "definition": "Szerb-amerikai feltaláló, váltóáram, rádió alapelvei, elektromágneses kutatások.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "masodik-ipari-forradalom-018",
+      "term": "Karl Benz",
+      "definition": "Német mérnök, benzinmotor és autó első gyakorlati megvalósítása (1885-1886).",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "masodik-ipari-forradalom-019",
+      "term": "Gottlieb Daimler",
+      "definition": "Német feltaláló, benzinmotor, autóipar úttörője.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "masodik-ipari-forradalom-020",
+      "term": "Henry Ford",
+      "definition": "Amerikai autógyáros, assembly line, tömegtermelés megalkotója (1913).",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "masodik-ipari-forradalom-021",
+      "term": "Wright fivérek",
+      "definition": "Orville és Wilbur Wright, első motoros, emberes repülés (1903).",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "masodik-ipari-forradalom-022",
+      "term": "Louis Pasteur",
+      "definition": "Francia biológus, fermentáció, agy- és marhavészoltás, mikrobés elméletek.",
+      "quote": "",
+      "text": ""
+    }
+  ]
+}

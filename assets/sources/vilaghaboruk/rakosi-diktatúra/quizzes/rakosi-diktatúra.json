@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "rakosi-diktatúra",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely évben kezdödött a Rákosi diktatúra Magyarországon?",
+      "options": [
+        "1945",
+        "1947",
+        "1948",
+        "1950"
+      ],
+      "answer": "1948"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Rákosi Mátyás a _____ kommunista párt vezetője volt.",
+      "options": [],
+      "answer": "magyar"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik más nevet adott Rákosi a saját ideológiájának?",
+      "options": [
+        "Sztálinizmus",
+        "Lenininzmus",
+        "Rákosizmus",
+        "Szovjetizmus"
+      ],
+      "answer": "Sztálinizmus"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A _____ háborús bűnösöknek nevezték Rákosi kormánya.",
+      "options": [],
+      "answer": "kapitalisták"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mit jelölt az 'azbeszt-koca' (kánva) kifejezés?",
+      "options": [
+        "Gazdasági program",
+        "Politikai ideológia",
+        "Szalámis taktika",
+        "Katonai stratégia"
+      ],
+      "answer": "Szalámis taktika"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A Rákosi-rendszer _____ koncepciós pereket hajtott végre.",
+      "options": [],
+      "answer": "számos"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mi volt az AVO?",
+      "options": [
+        "Közlekedési szervezet",
+        "Erőszakos államrendőrség",
+        "Gazdasági bizottság",
+        "Kulturális intézmény"
+      ],
+      "answer": "Erőszakos államrendőrség"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az AVO vezetője _____ volt, a terror szervezője.",
+      "options": [],
+      "answer": "Péter Gábor"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Hogyan nyilvánított Rákosi diktatúra saját terve?",
+      "options": [
+        "Szabad választások",
+        "Szovjet parancsok nélkül",
+        "Sztálini terror alkalmazása",
+        "Demokratikus szocializmus"
+      ],
+      "answer": "Sztálini terror alkalmazása"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A Rákosi-era alatt a _____ politikai ellenzék el voltak nyomva.",
+      "options": [],
+      "answer": "összes"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik volt az első nagyobb koncepciós per Rákosi alatt?",
+      "options": [
+        "László Rajk pere",
+        "József Mindszenty pere",
+        "László Sólyom pere",
+        "Tildy Zoltán pere"
+      ],
+      "answer": "László Rajk pere"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "László Rajk _____ alatt vallott fel 'tervezett' bűnöket.",
+      "options": [],
+      "answer": "kínzása"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mit jelentett a 'teljes szocializálás' Rákosi alatt?",
+      "options": [
+        "Gazdasági reformok",
+        "Saját vagyon államosítása",
+        "Vallási szabad gyakorlat",
+        "Politikai pluralizmus"
+      ],
+      "answer": "Saját vagyon államosítása"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A Rákosi-rendszer _____ iskoláikat és egyházi intézményeket záratta be.",
+      "options": [],
+      "answer": "a magán"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik nem volt Rákosi diktatúrájának jellemzője?",
+      "options": [
+        "Terror",
+        "Szovjet hűség",
+        "Gazdasági szabadság",
+        "Ideológiai tisztasággal követelés"
+      ],
+      "answer": "Gazdasági szabadság"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ püspök ellen perbe fogták vallási tevékenységéért.",
+      "options": [],
+      "answer": "Mindszenty József"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Mit valóztatott Rákosi az 1949-es választásoki?",
+      "options": [
+        "Demokratikus szavazást",
+        "Szabad szavazatot",
+        "100%-os szovjet szövetségest támogatást",
+        "Parlamenti választást"
+      ],
+      "answer": "100%-os szovjet szövetségest támogatást"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ párt eltörlésre volt Rákosi alatt.",
+      "options": [],
+      "answer": "szociáldemokrata"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik szovjet vezető támogatta leginkább Rákosit?",
+      "options": [
+        "Lenin",
+        "Sztálin",
+        "Hruscsov",
+        "Brezsnyev"
+      ],
+      "answer": "Sztálin"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ 1953-ban halálával Rákosit is veszélybe sodort.",
+      "options": [],
+      "answer": "Sztálin"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Hogyan végződött a Rákosi diktatúra?",
+      "options": [
+        "Természetes halála",
+        "Szovjet nyomásra való eltávolítása",
+        "Forradalom",
+        "Nemzetközi szankció"
+      ],
+      "answer": "Szovjet nyomásra való eltávolítása"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Rákost _____ eltávolítását követően szamuszítottak.",
+      "options": [],
+      "answer": "1956-ban"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mit jelölt az 'osztályellenes elem' megnevezés?",
+      "options": [
+        "Kommunista propagandista",
+        "Szovjet ügynök",
+        "Politikai ellenzéki vagy független gondolkodó",
+        "Katonai ellensége"
+      ],
+      "answer": "Politikai ellenzéki vagy független gondolkodó"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az _____ tisztogatások Rákosi alatt szisztematikán végezhe el.",
+      "options": [],
+      "answer": "párt"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik volt Rákosi szigorodott kezdeménye?",
+      "options": [
+        "Gazdasági nyitás",
+        "Kulturális liberalizmus",
+        "Tervgazdaság",
+        "Vallásbeli tolerancia"
+      ],
+      "answer": "Tervgazdaság"
+    }
+  ]
+}

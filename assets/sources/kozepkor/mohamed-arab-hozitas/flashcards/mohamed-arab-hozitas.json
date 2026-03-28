@@ -1,0 +1,95 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Mohamed",
+      "definition": "Az iszlám vallás alapítója, aki 570 körül született Mekkában. 40 éves korában kapta az első kijelentéseket, 622-ben kivonult Medinába (hidzsra).",
+      "quote": "Az utolsó próféta, aki Allah üzenetét hozta",
+      "text": "Mohamed az iszlám monoteizmusa mellett a szegények védelmét és az egyenlőséget hirdette. Medinában egyesítette az arab törzset a közös hit alapján (umma). Visszatérése Mekkába után a vallás központi helye megmaradt a Kába, de már az iszlám keretei között."
+    },
+    {
+      "id": 2,
+      "term": "Hidzsra",
+      "definition": "Mohamed 622-es kivonulása Mekkából Medinába, amely az iszlám időszámítás kezdete. Ez volt az iszlám közösség (umma) alapítása.",
+      "quote": "A jó város, ahova a próféta kivonult",
+      "text": "A hidzsra nem puszta menekülés volt, hanem tudatos döntés egy új vallási közösség alapítására. Medinában Mohamed nem csak vallási, hanem politikai és katonai vezetőként is működött. A hidzsra az iszlám történet fordulópontja volt."
+    },
+    {
+      "id": 3,
+      "term": "Iszlám öt alappillére",
+      "definition": "Az iszlám vallás alapvető gyakorlatai: 1) hitvallás, 2) napi ötszöri ima, 3) ramadáni böjt, 4) alamizsna, 5) zarándoklat Mekkába.",
+      "quote": "Az ötszöri ima Mekka felé fordulva",
+      "text": "Az öt alappillér minden hívő kötelezettségei. A hitvallás alapja az egyistenhit és Mohamed prófétai szerepe. A napi ima ritmikus gyakorlatként járult hozzá az egyház egységéhez. A ramadán böjtje a test és szellem megtisztulásáról szólt. Az allémsznáadás a szegények segítése."
+    },
+    {
+      "id": 4,
+      "term": "Korán",
+      "definition": "Az iszlám szent könyve, amely Mohamed kijelentéseit tartalmazza. 114 szúrából (fejezetből) áll, és az iszlám vallási és jogi alapja.",
+      "quote": "Allah szava, amely nem változik meg",
+      "text": "A Korán az iszlám alapvetője: vallási előírásokkal, erkölcsi tanításokkal és jogi irányelvekkel teli. Az iszlám jogrendszer (saría) a Koránon és Mohamedről hagyományokon (hadíszokon) alapul. A Korán arabul írott, így az arab a szent nyelv."
+    },
+    {
+      "id": 5,
+      "term": "Kalifa",
+      "definition": "Mohamed utóda, aki vallási és politikai vezetőként működött. A kalifák tartották fenn az iszlám birodalmát a kezdeti időkben.",
+      "quote": "Allah helyettese a Földön",
+      "text": "Az első négy kalifa korában indult meg az arab hódítás. Later az Omajjádok és Abbászidák dinasztiái szabályozták a kalifátust. A kalifa corlátlan hatalommal bírt, de az iszlám törvény (saría) szerintkötelesült cselekedni."
+    },
+    {
+      "id": 6,
+      "term": "Omajjádok",
+      "definition": "661-750 között uralkodó kalifadinasztia, székhely Damaszkuszban. Hatalmas hódításokat vittek véghez Hispánia elfoglalásával bezárólag.",
+      "quote": "A birodalom Gibraltártól az Indus-völgyig terjedt",
+      "text": "Az Omajjádok alatt az iszlám birodalom Greatest kiterjedésre jutott. 711-ben átkeltek Hispániába, ahol több száz évre megvetették a lábat. A szunniták-síiták szakadás az Omajjád időszakban kezdődött. 751-ben a Talasz folyónál a kínaiakkal szemben vereséget szenvedtek."
+    },
+    {
+      "id": 7,
+      "term": "Abbászidák",
+      "definition": "750-1258 között uralkodó kalifadinasztia, székhely Bagdad. A birodalom virágkora Harún ar-Rasíd kalifa idején volt (786-809).",
+      "quote": "Bagdad, az Ismeretek Háza",
+      "text": "Az Abbászidák a kulturális és tudományos fejlődés korszakát teremtették meg. Bagdad könyvtárai, iskolái és tanaires intézményei voltak a középkori világ szellemi központjai. 1258-ben a mongolok elfoglalták Bagdadot, ezzel végett vetve az Abbászida hatalmának."
+    },
+    {
+      "id": 8,
+      "term": "Dzsihád",
+      "definition": "Az 'Allah útján való küzdelem', amely jelent belső lelki harcot és fegyveres szent háborút is. Kötelezettség a hívők számára.",
+      "quote": "Az háborúban elesett Paradise kerül",
+      "text": "A dzsihád nem csupán vallási fogalom, hanem a korai iszlám expanzió ideológiai alapja is volt. Az arab hódítások alatt vallási lelkesedésre támaszkodva viadtak előre. A dzsihád motívuma máig meghatározó az iszlám világban."
+    },
+    {
+      "id": 9,
+      "term": "Szunniták és síiták",
+      "definition": "Az iszlám két fő irányzata. Szunniták: a közösség által választott vezetőt követik. Síiták: Mohamed vér szerinti leszármazottait követik vezetőként.",
+      "quote": "A szakadás, amely a mai napig meghatározza az iszlámot",
+      "text": "A szunniták a szunna (Mohamed hagyománya) alapján élnek és az Omajjádok/Abbászidák kalifátusát elfogadták. A síiták kizárólagos vezetésként Az Imámokat tekintik. A viszály vallási teológiáról szól, de politikai befolyása is hatalmas volt."
+    },
+    {
+      "id": 10,
+      "term": "Arab kultúra és tudomány",
+      "definition": "Az arabok jelentős hozzájárulása az emberiség tudásához: algebra, arab számok, csillagászat, orvostudomány, architektúra.",
+      "quote": "Az antik örökség megőrzői és továbbfejlesztői",
+      "text": "Az arabok lefordították és továbbadták a görög filozófusok műveit. Avicenna és Averroës igen nagy hatást gyakoroltak az európai gondolkodásra. Az algebrát az arabok fejlesztették ki. A középkori arab nagyvárosok (Bagdad, Córdoba, Damaszkusz) voltak az iszlám kultúra csúcsai."
+    },
+    {
+      "id": 11,
+      "term": "Islamkultúra: építészet",
+      "definition": "Mecset, minaretek és az arabeszk motívumok jellemzik az iszlám építészetet. A vallás tiltása az emberábrazolás miatt geometrikus díszítéshez vezetett.",
+      "quote": "Az egyenes vonalak és virágok az isteni rendet jelenítenek meg",
+      "text": "A mecsetek imádság helyeiként és közösségi központként működtek. A minaretekből a müezzin énekelte az imára szólítást. Az iszlám művészet az emberábrázolás tilalma miatt az arabeszk, geometrikus motívumokra támaszkodott, amely olyan szépséget hozott létre, amely túlterjed az egyházi keretre."
+    },
+    {
+      "id": 12,
+      "term": "Poitiers-i csata, 732",
+      "definition": "Az arab előrenyomulást megállító csata Nyugat-Európában, ahol Martell Károly frank uralkodó legyőzte az arab hadseregeket.",
+      "quote": "Európa keresztény marad",
+      "text": "A poitiers-i csata 732-ben volt a fordulópont. A frank hadsereg megállította az arab expanzió európai felterjesztésátműrzában. Anélkül a győzelem nélkül Európa valószínűleg iszlám alatt maradt volna. Ez az esemény szimbolikusan befejezte az arab hódítások korszakát."
+    },
+    {
+      "id": 13,
+      "term": "Arabeszk",
+      "definition": "Geometrikus és növényi motívumokból álló díszítőművészet, amely az iszlám építészetben és ornamentikaaban jellemző.",
+      "quote": "Végtelenség a végtelenségben - a geometria dicsérete",
+      "text": "Az arabeszk az iszlám művészetének sajátossága: a vallás tiItása az emberábrázolásra alternatívát teremtett. A spirálok, csíkok és virágmotívumok végtelenül ismétlődnek, szimbolizálva az isteni végtelenséget. Az Alhambra és a córdobai nagymecset gyönyörű arabeszk díszítés példái."
+    }
+  ]
+}

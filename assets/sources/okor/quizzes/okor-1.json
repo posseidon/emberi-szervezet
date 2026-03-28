@@ -1,0 +1,291 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "okor",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik év volt az első olümpiai játékok?",
+      "options": [
+        "Kr. e. 800",
+        "Kr. e. 776",
+        "Kr. e. 753",
+        "Kr. e. 594"
+      ],
+      "answer": "Kr. e. 776"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az _____ az athéni demokrácia legfontosabb intézménye volt, ahol minden szabad polgár részt vehetett a döntéshozatalban.",
+      "options": [],
+      "answer": "ekklészia"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Ki volt az athéni demokrácia virágkorának vezetője?",
+      "options": [
+        "Szolón",
+        "Kleiszthenész",
+        "Periklész",
+        "Peiszisztratosz"
+      ],
+      "answer": "Periklész"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A _____ az ógörögség legfontosabb temploma volt, amely a Pallasz Athéné istennőnek volt dedikálva.",
+      "options": [],
+      "answer": "Parthenón"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Melyik településen alapított Nagy Sándor egy fontos város-központot?",
+      "options": [
+        "Róma",
+        "Alexandria",
+        "Athén",
+        "Jeruzsálem"
+      ],
+      "answer": "Alexandria"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az _____ az izraeli nép ősatyja volt, aki az Istent követve Mezopotámiából Kánaánba vándorolt.",
+      "options": [],
+      "answer": "Ábrahám"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Hol kapta Mózes a Tízparancsolatot?",
+      "options": [
+        "Jeruzsálemben",
+        "Betlehemben",
+        "Sínai-hegyen",
+        "Egyiptomban"
+      ],
+      "answer": "Sínai-hegyen"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ az izraeli egységes királyság második királya volt, aki Jeruzsálemet fővárossá tette.",
+      "options": [],
+      "answer": "Dávid"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Ki építette fel a jeruzsálemi templomot?",
+      "options": [
+        "Mózes",
+        "Dávid",
+        "Salamon",
+        "Saul"
+      ],
+      "answer": "Salamon"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az _____ az izraeli vallás legszentebb irata, Mózes öt könyve.",
+      "options": [],
+      "answer": "Tóra"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik vallás volt az első monoteista vallás?",
+      "options": [
+        "Kereszténység",
+        "Iszlám",
+        "Judaizmus",
+        "Zoroasztrizmus"
+      ],
+      "answer": "Judaizmus"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az _____ az izraeli nép szétszóródása volt, amely Kr. u. 70 után tömegessé vált.",
+      "options": [],
+      "answer": "diaszpóra"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Hol született Jézus?",
+      "options": [
+        "Názáret",
+        "Betlehem",
+        "Jeruzsálem",
+        "Antiochia"
+      ],
+      "answer": "Betlehem"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az _____ az első jeruzsálemi keresztény közösség vezetője volt.",
+      "options": [],
+      "answer": "Péter apostol"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Ki volt az az személy, aki eredetileg Saul néven a keresztények üldözője volt?",
+      "options": [
+        "Péter",
+        "János",
+        "Pál apostol",
+        "Tamás"
+      ],
+      "answer": "Pál apostol"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ a rómaiak palestinai helytartója volt, aki Jézust keresztre feszítésre ítélte.",
+      "options": [],
+      "answer": "Pontius Pilatus"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik év az, amikor Constantinus kiadta a milánói ediktumot?",
+      "options": [
+        "Kr. u. 300",
+        "Kr. u. 313",
+        "Kr. u. 325",
+        "Kr. u. 380"
+      ],
+      "answer": "Kr. u. 313"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ az első egyetemes (ecumenikus) egyházi zsinat volt Kr. u. 325-ben.",
+      "options": [],
+      "answer": "niceai zsinat"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Ki volt a rómaiak utolsó általános uralmú császára, aki a kereszténységet államvallássá tette?",
+      "options": [
+        "Constantinus",
+        "Nero",
+        "Augustus",
+        "Nagy Theodosius"
+      ],
+      "answer": "Nagy Theodosius"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ az ókori Róma legnagyobb kocsiverseny-pályája volt, amely körülbelül 150 000 nézőt tudott befogadni.",
+      "options": [],
+      "answer": "Circus Maximus"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik építmény volt az ókori Róma legnagyobb amfiteátruma?",
+      "options": [
+        "Forum Romanum",
+        "Pantheon",
+        "Colosseum",
+        "Aquincum"
+      ],
+      "answer": "Colosseum"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az _____ az ókori rómaiak által alapított település volt a mai Óbudán, amely Pannónia közigazgatási központjaként működött.",
+      "options": [],
+      "answer": "Aquincum"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Melyik szám volt a Drakón törvénycikkelyeinek alapja az athéni jogi rendszerben?",
+      "options": [
+        "5",
+        "7",
+        "10",
+        "12"
+      ],
+      "answer": "12"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az _____ az athéni szavazási eljárás volt, amelynek során a polgárok száműzendő személyre szavaztak cserépre írva.",
+      "options": [],
+      "answer": "osztrakiszmosz"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik időszakban élt Dávid király?",
+      "options": [
+        "Kr. e. 13. sz.",
+        "Kr. e. 11. sz.",
+        "Kr. e. 5. sz.",
+        "Kr. u. 1. sz."
+      ],
+      "answer": "Kr. e. 11. sz."
+    },
+    {
+      "id": 26,
+      "type": "BLANK",
+      "question": "Az _____ az izraeli közösségi ház volt, ahol a Tóra olvasása és magyarázata történt.",
+      "options": [],
+      "answer": "zsinagóga"
+    },
+    {
+      "id": 27,
+      "type": "MC",
+      "question": "Melyik ünnepi ünnepli a kereszténység a Jézus születésének?",
+      "options": [
+        "Húsvét",
+        "Pünkösd",
+        "Karácsony",
+        "Reformáció napi"
+      ],
+      "answer": "Karácsony"
+    },
+    {
+      "id": 28,
+      "type": "BLANK",
+      "question": "A _____ az ógörög születésének az athléták versengésének központja volt, ahol a futás, birkózás és fogathajtás sportigazolgált.",
+      "options": [],
+      "answer": "olümpia"
+    },
+    {
+      "id": 29,
+      "type": "MC",
+      "question": "Melyik vallás alapítója volt az Jézus?",
+      "options": [
+        "Judaizmus",
+        "Iszlám",
+        "Kereszténység",
+        "Zoroasztrizmus"
+      ],
+      "answer": "Kereszténység"
+    },
+    {
+      "id": 30,
+      "type": "BLANK",
+      "question": "A _____ az ókori rómaiak által kifejlesztett vízvezeték rendszere volt, amely boltívek által támogatva szállított vizet a városokba.",
+      "options": [],
+      "answer": "aquaeductus"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "honfoglalás-hadjarat",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "BLANK",
+      "question": "Kérdés 1 a(z) honfoglalás-hadjarat modulból",
+      "options": [],
+      "answer": "Válasz"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "question": "Kérdés 2 a(z) honfoglalás-hadjarat modulból",
+      "options": [
+        "Válasz A",
+        "Válasz B",
+        "Válasz C",
+        "Válasz D"
+      ],
+      "answer": "Válasz A"
+    },
+    {
+      "id": 3,
+      "type": "BLANK",
+      "question": "Kérdés 3 a(z) honfoglalás-hadjarat modulból",
+      "options": [],
+      "answer": "Válasz"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "question": "Kérdés 4 a(z) honfoglalás-hadjarat modulból",
+      "options": [
+        "Válasz A",
+        "Válasz B",
+        "Válasz C",
+        "Válasz D"
+      ],
+      "answer": "Válasz A"
+    },
+    {
+      "id": 5,
+      "type": "BLANK",
+      "question": "Kérdés 5 a(z) honfoglalás-hadjarat modulból",
+      "options": [],
+      "answer": "Válasz"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "question": "Kérdés 6 a(z) honfoglalás-hadjarat modulból",
+      "options": [
+        "Válasz A",
+        "Válasz B",
+        "Válasz C",
+        "Válasz D"
+      ],
+      "answer": "Válasz A"
+    },
+    {
+      "id": 7,
+      "type": "BLANK",
+      "question": "Kérdés 7 a(z) honfoglalás-hadjarat modulból",
+      "options": [],
+      "answer": "Válasz"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "question": "Kérdés 8 a(z) honfoglalás-hadjarat modulból",
+      "options": [
+        "Válasz A",
+        "Válasz B",
+        "Válasz C",
+        "Válasz D"
+      ],
+      "answer": "Válasz A"
+    },
+    {
+      "id": 9,
+      "type": "BLANK",
+      "question": "Kérdés 9 a(z) honfoglalás-hadjarat modulból",
+      "options": [],
+      "answer": "Válasz"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "question": "Kérdés 10 a(z) honfoglalás-hadjarat modulból",
+      "options": [
+        "Válasz A",
+        "Válasz B",
+        "Válasz C",
+        "Válasz D"
+      ],
+      "answer": "Válasz A"
+    },
+    {
+      "id": 11,
+      "type": "BLANK",
+      "question": "Kérdés 11 a(z) honfoglalás-hadjarat modulból",
+      "options": [],
+      "answer": "Válasz"
+    },
+    {
+      "id": 12,
+      "type": "MC",
+      "question": "Kérdés 12 a(z) honfoglalás-hadjarat modulból",
+      "options": [
+        "Válasz A",
+        "Válasz B",
+        "Válasz C",
+        "Válasz D"
+      ],
+      "answer": "Válasz A"
+    },
+    {
+      "id": 13,
+      "type": "BLANK",
+      "question": "Kérdés 13 a(z) honfoglalás-hadjarat modulból",
+      "options": [],
+      "answer": "Válasz"
+    },
+    {
+      "id": 14,
+      "type": "MC",
+      "question": "Kérdés 14 a(z) honfoglalás-hadjarat modulból",
+      "options": [
+        "Válasz A",
+        "Válasz B",
+        "Válasz C",
+        "Válasz D"
+      ],
+      "answer": "Válasz A"
+    },
+    {
+      "id": 15,
+      "type": "BLANK",
+      "question": "Kérdés 15 a(z) honfoglalás-hadjarat modulból",
+      "options": [],
+      "answer": "Válasz"
+    },
+    {
+      "id": 16,
+      "type": "MC",
+      "question": "Kérdés 16 a(z) honfoglalás-hadjarat modulból",
+      "options": [
+        "Válasz A",
+        "Válasz B",
+        "Válasz C",
+        "Válasz D"
+      ],
+      "answer": "Válasz A"
+    },
+    {
+      "id": 17,
+      "type": "BLANK",
+      "question": "Kérdés 17 a(z) honfoglalás-hadjarat modulból",
+      "options": [],
+      "answer": "Válasz"
+    },
+    {
+      "id": 18,
+      "type": "MC",
+      "question": "Kérdés 18 a(z) honfoglalás-hadjarat modulból",
+      "options": [
+        "Válasz A",
+        "Válasz B",
+        "Válasz C",
+        "Válasz D"
+      ],
+      "answer": "Válasz A"
+    },
+    {
+      "id": 19,
+      "type": "BLANK",
+      "question": "Kérdés 19 a(z) honfoglalás-hadjarat modulból",
+      "options": [],
+      "answer": "Válasz"
+    },
+    {
+      "id": 20,
+      "type": "MC",
+      "question": "Kérdés 20 a(z) honfoglalás-hadjarat modulból",
+      "options": [
+        "Válasz A",
+        "Válasz B",
+        "Válasz C",
+        "Válasz D"
+      ],
+      "answer": "Válasz A"
+    }
+  ]
+}

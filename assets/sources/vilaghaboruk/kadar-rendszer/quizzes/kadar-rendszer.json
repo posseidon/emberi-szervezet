@@ -1,0 +1,196 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "kadar-rendszer",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely év után alapította Kádár János a nnevezetű rendszert?",
+      "options": [
+        "1954",
+        "1955",
+        "1956",
+        "1957"
+      ],
+      "answer": "1956"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A Kádár-rendszer más néven _____ kommunizmus.",
+      "options": [],
+      "answer": "gulyás"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik volt Kádár János pozíciója a Horthy-korban?",
+      "options": [
+        "Kommunista vezető",
+        "Katonai tiszt",
+        "Rendőr",
+        "Polgármester"
+      ],
+      "answer": "Kommunista vezető"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A Kádár-rendszer _____ év alatt állt fenn.",
+      "options": [],
+      "answer": "32"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mi volt a Kádár-rendszer gazdaságpolitikájának alapja?",
+      "options": [
+        "Tiszta szocializmus",
+        "Piacgazdaság",
+        "Szabad vállalkozás",
+        "Tervgazdaság kisebb reformokkal"
+      ],
+      "answer": "Tervgazdaság kisebb reformokkal"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ reformok Kádár alatt gazdasági nyitást hoztak.",
+      "options": [],
+      "answer": "1968-as"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik volt a Kádár-rendszer gazdasági nyitásának nemzetközi irányultsága?",
+      "options": [
+        "Szovjet bővítés",
+        "Nyugattal kereskedelmi kapcsolatok",
+        "Kínai modell átvétele",
+        "Afrikán terjeszkedés"
+      ],
+      "answer": "Nyugattal kereskedelmi kapcsolatok"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A Kádár-rendszer _____ dolgozónak engedett magánvállalkozást.",
+      "options": [],
+      "answer": "kisméretű"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik volt a Kádár-rendszer kulturális politikájának jellemzője?",
+      "options": [
+        "Teljes zárkózottság",
+        "Részleges liberalizálás",
+        "Totális elnyomás",
+        "Teljes szabadság"
+      ],
+      "answer": "Részleges liberalizálás"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ szabadság a Kádár-rendszer alatt nagyobb volt, mint a Rákosi alatt.",
+      "options": [],
+      "answer": "szellemi"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mit jelent az 'aki nem ellenünk, az velünk van' Kádár-mondat?",
+      "options": [
+        "Abszolút lojalitás követelése",
+        "Pragmatikus tolerancia politika",
+        "Merev ideológia követelése",
+        "Katonai hűség"
+      ],
+      "answer": "Pragmatikus tolerancia politika"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ szinten magasabb életszínvonal volt a Kádár-rendszer alatt.",
+      "options": [],
+      "answer": "szokásos"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik nem volt a Kádár-rendszer jellemzője?",
+      "options": [
+        "Szovjet beavatkozás megelőzése",
+        "Gazdasági mérsékelt reformok",
+        "Kulturális nyitottság",
+        "Teljes politikai szabadság"
+      ],
+      "answer": "Teljes politikai szabadság"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ kölcsönzögetések Magyarország külső adósságát növelték.",
+      "options": [],
+      "answer": "nyugati"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mi volt a Kádár-rendszer 'mostani közömbösség' politikájának célja?",
+      "options": [
+        "Forradalom támogatása",
+        "Stabilitás fenntartása",
+        "Szovjet terjeszkedés",
+        "Nemzetközi elszigetelés"
+      ],
+      "answer": "Stabilitás fenntartása"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ konzumerizmus volt jellemző a Kádár-rendszer alatt.",
+      "options": [],
+      "answer": "kisméretű"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik nemzetközi szervezethez csatlakozott Magyarország a Kádár alatt?",
+      "options": [
+        "NATO",
+        "ENSZ",
+        "Európai Unió",
+        "CEFTA"
+      ],
+      "answer": "ENSZ"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ gazdasági mutatók javultak a Kádár-rendszer alatt.",
+      "options": [],
+      "answer": "néhány"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik kulturális intézmény maradt nyitva a Kádár-rendszer alatt?",
+      "options": [
+        "Egyházi szervezetek",
+        "Színházak",
+        "Újságok",
+        "Rádióadások"
+      ],
+      "answer": "Színházak"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ korszak végén már gazdasági válság kezdődött Magyarországon.",
+      "options": [],
+      "answer": "Kádár"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "okor-overview",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely görög szó a demokrácia fogalmának megfelelője?",
+      "options": [
+        "Arisztokrácia",
+        "Demos + kratos",
+        "Oligarchia",
+        "Türannisz"
+      ],
+      "answer": "Demos + kratos"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az _____ az athéni demokrácia legfontosabb intézménye volt, amelyen minden szabad polgár részt vehetett.",
+      "options": [],
+      "answer": "ekklészia"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Ki volt az első írásos görög törvényeket megalkotó athéni jogalkotó?",
+      "options": [
+        "Szolón",
+        "Kleiszthenész",
+        "Drakón",
+        "Peiszisztratosz"
+      ],
+      "answer": "Drakón"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az _____ a Róma kecsőverseny pályája volt, amely körülbelül 150 000 nézőt tudott befogadni.",
+      "options": [],
+      "answer": "Circus Maximus"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Melyik építmény a Róma gladiátor-aréná volt, amely körülbelül 50 000 férőhellyel rendelkezett?",
+      "options": [
+        "Forum Romanum",
+        "Colosseum",
+        "Pantheon",
+        "Capitolium"
+      ],
+      "answer": "Colosseum"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az _____ szavazás célja az volt, hogy a veszélyes politikusokat 10 évre száműzzék Athénból.",
+      "options": [],
+      "answer": "cserépszavazás"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mely vallás volt az első monoteista világvallás?",
+      "options": [
+        "Kereszténység",
+        "Iszlám",
+        "Judaizmus",
+        "Zoroasztrizmus"
+      ],
+      "answer": "Judaizmus"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ a Biblia első része, amely az Ózövetséget magában foglalja.",
+      "options": [],
+      "answer": "Tóra"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Ki volt az első Róma császára?",
+      "options": [
+        "Julius Caesar",
+        "Augustus",
+        "Nero",
+        "Diocletianus"
+      ],
+      "answer": "Augustus"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A Parthenón a _____ istenőnek volt dedikálva az athéni akropoliszon.",
+      "options": [],
+      "answer": "Pallasz Athéné"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik esemény után vált tömegessé a zsidó diaszpóra?",
+      "options": [
+        "A babiloni fogság",
+        "A jeruzsálemi templom lerombolása Kr. u. 70-ben",
+        "A perzsák közigazgatása",
+        "Nagy Sándor hódításai"
+      ],
+      "answer": "A jeruzsálemi templom lerombolása Kr. u. 70-ben"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ az athéni népi bíróság, amely körülbelül 6000 szavazóból állt és sorsolás alapján alakult meg.",
+      "options": [],
+      "answer": "héliaia"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mely időpontban és kik által vált a kereszténység a Róma állami vallásává?",
+      "options": [
+        "Kr. u. 313, Constantinus",
+        "Kr. u. 325, Niceai zsinat",
+        "Kr. u. 380, Nagy Theodosius",
+        "Kr. u. 64, Nero"
+      ],
+      "answer": "Kr. u. 380, Nagy Theodosius"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az _____ az ógörögség legfontosabb nemzeti ünnepsége volt, amelyet négyévente tartottak Zeusz tiszteletére.",
+      "options": [],
+      "answer": "olümpiai játékok"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Ki volt Kleiszthenész?",
+      "options": [
+        "Az első Róma-császár",
+        "Az athéni demokratikus reformok végrehajtója",
+        "A jeruzsálemi templom építője",
+        "A Zsidóság ősatyja"
+      ],
+      "answer": "Az athéni demokratikus reformok végrehajtója"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ az Isten akaratának közvetítője volt a zsidó és keresztény vallásban, aki tanított és figyelmeztetett.",
+      "options": [],
+      "answer": "próféta"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik volt a három klasszikus görög oszloprend?",
+      "options": [
+        "Dór, jón, korinthoszi",
+        "Egyiptomi, perzsai, görög",
+        "Dór, jón, egyiptomi",
+        "Korinthoszi, perzsai, görög"
+      ],
+      "answer": "Dór, jón, korinthoszi"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az _____ a görög városállam, amely egy város, annak körülötte lévő vidék és az ezekben lakó szabad polgárok közösségéből állt.",
+      "options": [],
+      "answer": "polisz"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mit jelent az 'evangélium' szó?",
+      "options": [
+        "Félelem",
+        "Örömhír",
+        "Törvény",
+        "Halál"
+      ],
+      "answer": "Örömhír"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az _____ a keresztény szentsége, amelyben a hívő vízzel való megtisztulásban részesül, szimbolizálva bűnei megbocsátását.",
+      "options": [],
+      "answer": "keresztség"
+    }
+  ]
+}

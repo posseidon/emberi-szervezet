@@ -1,0 +1,382 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Alaptörvény",
+      "definition": "Magyarország legmagasabb szintű jogszabálya, amely 2012. január 1-jén lépett hatályba. Meghatározza az állam működésének alapelveit, az állampolgári jogokat és a hatalmi ágak rendszerét.",
+      "quote": "Az állam működésének alapja",
+      "text": "Az Alaptörvény öt főbb részből áll: Nemzeti hitvallás, Alapvetés, Szabadság és felelősség, Az állam szerkezetéről, és Különleges jogrend. Módosításához kétharmados parlamenti többség szükséges."
+    },
+    {
+      "id": 2,
+      "term": "Alapvető jogok biztosa (ombudsman)",
+      "definition": "Az alapjogok védelmét ellátó független intézmény vezetője, aki vizsgálja az alapjogok sérelmét és ajánlásokat tesz azok helyreállítására.",
+      "quote": "Az alapjogok őre",
+      "text": "Az ombudsman helyettese a nemzetiségi jogokért, másika pedig a jövő nemzedékek érdekeiért felel. Ez az intézmény biztosítja az állampolgárok jogvédelmét."
+    },
+    {
+      "id": 3,
+      "term": "Állami Számvevőszék",
+      "definition": "Az állam legfőbb pénzügyi ellenőrző szerve, amelynek feladata a közpénzek és a nemzeti vagyon felhasználásának vizsgálata.",
+      "quote": "Az anyagiak őrizője",
+      "text": "A Számvevőszék függetlenül működik és jelentéseit az Országgyűlésnek teszi fel. Gyakorolja az audit és a finanszírozási ellenőrzést."
+    },
+    {
+      "id": 4,
+      "term": "Arányos választási rendszer",
+      "definition": "Választási rendszer, amelyben a pártok mandátumai a rájuk leadott szavazatok arányában oszlanak meg, elősegítve a többpárti parlamentet.",
+      "quote": "A szavazatok arányából következik",
+      "text": "Az arányos rendszer biztosítja, hogy a kisebb pártok is képviselethez jussanak. Ez néha koalícióalkotást és kompromisszumokat igényel."
+    },
+    {
+      "id": 5,
+      "term": "Cigányság (roma népesség)",
+      "definition": "Magyarország legnagyobb nemzetisége, amely több csoportból áll (romungrók, oláh cigányok, beások), saját kultúrával és nyelvi hagyományokkal rendelkeznek.",
+      "quote": "Összetett közösség, több etnikai csoporttal",
+      "text": "A romák száma Magyarországon kb. 210-300 ezer fő közötti, ám a pontos szám nem ismert. Jelentős társadalmi problémák és diszkriminációs tapasztalatok jellemzik helyzetüket."
+    },
+    {
+      "id": 6,
+      "term": "Diszkrimináció",
+      "definition": "Hátrányos megkülönböztetés, amikor valakit származása, vallása vagy társadalmi helyzete alapján ér hátrány, jellemzően oktatásban, lakhatásban vagy munkaerőpiacon.",
+      "quote": "Alapjogi sérelem",
+      "text": "A diszkrimináció formái lehetnek direkt (nyíltan) vagy indirekt (rejtett). A jog tiltja, de gyakorlatban még gyakori az etnikai vagy szociális alapú megkülönböztetés."
+    },
+    {
+      "id": 7,
+      "term": "Euró",
+      "definition": "Az Európai Unió közös pénzneme, amelyet 20 tagállam használ. Bevezetése 1999-ben történt elektronikus formában, majd 2002-ben fizikai pénzként.",
+      "quote": "Az EU közös fizetőeszköze",
+      "text": "Az euró bevezetésének előnye az árfolyamkockázat csökkentése és a kereskedelem megkönnyítése. Jelenleg az eurózóna 20 tagállamot foglal magában."
+    },
+    {
+      "id": 8,
+      "term": "Európai Bizottság",
+      "definition": "Az EU végrehajtó szerve, amely jogszabályokat kezdeményez, végrehajtja az uniós döntéseket, és őrködik a szerződések betartásán. Székhelye Brüsszel.",
+      "quote": "Az EU végrehajtó szervezete",
+      "text": "Az Európai Bizottságot 27 biztos alkotja, minden tagállam egy biztost delegál. Az elnöke Ursula von der Leyen 2019-től."
+    },
+    {
+      "id": 9,
+      "term": "Európai Központi Bank",
+      "definition": "Az eurózóna jegybankja, amely az árstabilitásért és a közös pénz, az euró működtetéséért felel. Székhelye Frankfurt am Main.",
+      "quote": "Az euró őre",
+      "text": "Az EKB az Európai Központi Bankok Rendszerével együttműködve irányítja az euróövezet gazdaságpolitikáját. Válsághelyzetekben kulcsszerepet játszott a pénzügyi stabilitás megőrzésében."
+    },
+    {
+      "id": 10,
+      "term": "Európai Parlament",
+      "definition": "Az unió polgárai által közvetlenül választott testület, amely a jogalkotásban és az ellenőrzésben társszereplő. Székhelye Strasbourg.",
+      "quote": "Az EU demokratikus képviselete",
+      "text": "Az Európai Parlament 2023-ban 705 képviselőből áll, köztük 21 magyarból. A képviselők politikai frakciókba szerveződnek, nem nemzeti alapon."
+    },
+    {
+      "id": 11,
+      "term": "Európai Tanács",
+      "definition": "Az unió legmagasabb politikai döntéshozó fóruma, amely az EU stratégiai irányait határozza meg. Tagjai az állam- és kormányfők.",
+      "quote": "Az EU politikai vezetése",
+      "text": "Az Európai Tanács általában negyedévente ülésezik Brüsszelben. Az állandó elnök 2,5 évre kap mandátumot. A testület döntéseit gyakran konszenzussal hozza."
+    },
+    {
+      "id": 12,
+      "term": "Európai Unió Bírósága",
+      "definition": "Az uniós jog értelmezéséért és alkalmazásáért felelős bírósági szervezet, amelynek döntései minden tagállamra kötelezőek. Székhelye Luxemburg.",
+      "quote": "Az EU jogi biztosítéka",
+      "text": "A Bíróság biztosítja az EU jogrendjének egységes alkalmazását és megakadályozza az uniós joggal ellentétes intézkedéseket."
+    },
+    {
+      "id": 13,
+      "term": "Európai Unió Tanácsa",
+      "definition": "A tagállami miniszterekből álló testület, amely a Parlamenttel együtt az EU fő jogalkotó szerve. Székhelye Brüsszel.",
+      "quote": "A tagállamok képviselete a jogalkotásban",
+      "text": "Az EU Tanácsaban 2014-től a kettős többségi szavazás érvényes: egy döntés akkor fogadható el, ha azt a tagállamok legalább 55%-a támogatja."
+    },
+    {
+      "id": 14,
+      "term": "Európai Unió",
+      "definition": "Az európai államok politikai és gazdasági közössége, amely a békét, jólétet és együttműködést kívánja biztosítani a tagországok között.",
+      "quote": "Európa integrációja",
+      "text": "Az EU 27 tagállamból áll és több mint 450 millió embernek otthona. Az integráció gazdasági és politikai szinteken is zajlik."
+    },
+    {
+      "id": 15,
+      "term": "Integráció",
+      "definition": "Folyamat, amely során az államok gazdasági, politikai és jogi együttműködése egyre szorosabbá válik. Az EU létrejötte ennek legmagasabb szintű formája Európában.",
+      "quote": "Összefonódó államok",
+      "text": "Az integráció különböző szintjein történhet: preferenciális társulástól az uniós tagságig. Az EU-ban az integráció kontinuumra esik."
+    },
+    {
+      "id": 16,
+      "term": "Interpelláció",
+      "definition": "Országgyűlési képviselő által a kormány tagjához intézett kérdés, amelynek célja a kormányzati munka ellenőrzése és a nyilvánosság biztosítása.",
+      "quote": "Parlamentáris ellenőrzés",
+      "text": "Az interpelláció írásban vagy szóban előterjeszthető és szabályozott időben kerül sor az értékelésre. Ez az egyik fő parlamentáris kontrollmechanizmus."
+    },
+    {
+      "id": 17,
+      "term": "Képviselő-testület",
+      "definition": "A helyi önkormányzat döntéshozó szerve, amely helyi rendeleteket alkot, elfogadja a költségvetést és irányítja az önkormányzat munkáját.",
+      "quote": "Helyi törvényhozás",
+      "text": "A képviselő-testület döntéseit nyílt üléseken hozza. Jellemzően 4-5 évente újra választják."
+    },
+    {
+      "id": 18,
+      "term": "Kettős állampolgárság",
+      "definition": "Amikor valaki két ország állampolgára egyidejűleg. A határon túli magyarok 2010-től kedvezményes eljárással kaphatják meg a magyar állampolgárságot.",
+      "quote": "Két hazafiúság",
+      "text": "A kettős állampolgárság biztosítja a külhoni magyarok kapcsolódási lehetőségét az anyaországhoz anélkül, hogy régi állampolgárságukat feladnák."
+    },
+    {
+      "id": 19,
+      "term": "Kohéziós alap",
+      "definition": "Az EU pénzügyi eszköze, amely a gazdaságilag fejletlenebb régiókat segíti felzárkóztatási programokkal. Fő célja a tagállamok közötti egyenlőtlenségek csökkentése.",
+      "quote": "Fejlesztési támogatás",
+      "text": "A kohéziós alap az egyik legfontosabb EU-s finanszírozási forrás Magyarország számára. Infrastruktúra, oktatás és gazdaságfejlesztésre fordítható."
+    },
+    {
+      "id": 20,
+      "term": "Köztársasági elnök",
+      "definition": "Az államfő, aki Magyarországon a nemzet egységét testesíti meg és őrködik a demokratikus működés felett. Feladatai közé tartozik a törvények aláírása és a miniszterelnök megbízása.",
+      "quote": "Az állam szimbolikus képviselete",
+      "text": "A köztársasági elnöket az Országgyűlés választja öt évre titkos szavazással, kétharmados többséggel. Szerepe szimbolikus, de jogi értelemben fontos."
+    },
+    {
+      "id": 21,
+      "term": "Közvetett demokrácia",
+      "definition": "Politikai rendszer, ahol a polgárok választott képviselők útján gyakorolják hatalmukat. A parlamentáris berendezkedés ennek megvalósulása.",
+      "quote": "Képviseleti demokrácia",
+      "text": "A közvetett demokrácia lehetővé teszi, hogy nagy számú polgár gyakorolhassa hatalmát szisztematikus módon képviselőik révén."
+    },
+    {
+      "id": 22,
+      "term": "Közvetlen demokrácia",
+      "definition": "Politikai döntéshozatali forma, ahol a polgárok közvetlenül, például népszavazás útján döntenek. A képviseleti rendszer kiegészítője.",
+      "quote": "Népi szuverenitás azonnal",
+      "text": "A közvetlen demokrácia alkalmassá teszi az állampolgárokat nagy kérdésekről közvetlenül dönteni. A gyakorlatban csak speciális ügyekben alkalmazható."
+    },
+    {
+      "id": 23,
+      "term": "Kúria",
+      "definition": "A magyar igazságszolgáltatás legfelsőbb bírói fóruma, amely jogegységi határozatokat hoz és felügyeli az alsóbb szintű bíróságokat.",
+      "quote": "Az igazságszolgáltatás csúcsa",
+      "text": "A Kúria biztosítja a bírósági ítélkezés egységét és konzisztenciáját. Döntéseit fellebbezésként hozza olyan ügyekben, ahol jogi kérdések merülnek fel."
+    },
+    {
+      "id": 24,
+      "term": "Lisszaboni Szerződés",
+      "definition": "Az Európai Unió működését modernizáló szerződés, amelyet 2007-ben írtak alá és 2009-ben lépett hatályba; célja az EU döntéshozatalának egyszerűsítése és demokratikusabbá tétele volt.",
+      "quote": "Az EU reformja",
+      "text": "A Lisszaboni Szerződés bevezette az állandó Európai Tanácsi elnöki posztot. Megerősítette az Európai Parlament jogkörét."
+    },
+    {
+      "id": 25,
+      "term": "Mentelmi jog",
+      "definition": "A képviselők személyes védelme, amely biztosítja, hogy munkájuk során ne érje őket jogi retorzió. Csak az Országgyűlés engedélyével vonhatók eljárás alá.",
+      "quote": "Parlamentáris szabadság",
+      "text": "A mentelmi jog kettős védelmet jelent: a képviselő szavazataiért és felszólalásaiért nem vonható felelősségre, és ellene csak az Országgyűlés engedélyével lehet eljárást indítani."
+    },
+    {
+      "id": 26,
+      "term": "Modernkori migráció",
+      "definition": "A XX–XXI. században zajló, világszintű népességvándorlási folyamat. Kiváltó oka többnyire gazdasági, politikai vagy környezeti tényező.",
+      "quote": "Emberek mozgása az újkorban",
+      "text": "A modernkori migráció nagyobb volumenben és sebességgel zajlik, mint korábban. Jellemző az afrikai és közép-keleti origem, valamint az európai és amerikai célterületek."
+    },
+    {
+      "id": 27,
+      "term": "Népességrobbanás",
+      "definition": "Gyors és tartós népességnövekedés, amelyet a halandóság csökkenése és a születésszám magas szintje okoz. A fejlődő országokban még napjainkban is jellemző.",
+      "quote": "Túlnépesedés veszélye",
+      "text": "A népességrobbanás infrastrukturális, oktatási és gazdasági kihívásokat teremt. Társadalmi feszültségeket és migrációt válthat ki."
+    },
+    {
+      "id": 28,
+      "term": "Népszavazás",
+      "definition": "A közvetlen demokrácia eszköze, amelyben a választópolgárok közvetlenül döntenek egy adott kérdésről. Érvényességéhez meghatározott részvételi arány szükséges.",
+      "quote": "A nép szavazata",
+      "text": "Magyarországon a népszavazás érvényes, ha a választók több mint fele részt vesz, és eredményes, ha a szavazatok több mint fele igen. Nem lehet népszavazást tartani az Alaptörvény módosításáról vagy a költségvetésről."
+    },
+    {
+      "id": 29,
+      "term": "Párhuzamos társadalom",
+      "definition": "Olyan társadalmi jelenség, amelyben bevándorló közösségek elkülönülten, saját normáik és szabályaik szerint élnek, nem vagy csak részben integrálódnak a befogadó társadalom kultúrájába.",
+      "quote": "Elkülönült közösségek",
+      "text": "A párhuzamos társadalmak multikulturális társadalmak egyik kihívása. Társadalmi elkülönüléshez és konfliktusokhoz vezethet, ami hosszú távú integráció lehetetlenségét mutatja."
+    },
+    {
+      "id": 30,
+      "term": "Parlamenti frakció",
+      "definition": "Az azonos párthoz tartozó képviselők csoportja az Országgyűlésben, amely koordinálja a párt parlamenti munkáját és képviseli álláspontját.",
+      "quote": "Párti egység a parlamentben",
+      "text": "A frakciók képezik a parlamenti munka alapegységeit. Belső csoportokat és munkacsoportokat hoznak létre."
+    },
+    {
+      "id": 31,
+      "term": "Parlamenti küszöb",
+      "definition": "A parlamentbe jutáshoz szükséges minimális szavazatarány. Magyarországon ez az érték 5%.",
+      "quote": "A bejutás mérce",
+      "text": "A parlamenti küszöb a kisebb pártok számára akadályt jelent. Ez az arányos rendszer mellett a nagyobb pártoknak kedvez."
+    },
+    {
+      "id": 32,
+      "term": "Polgármester",
+      "definition": "A település végrehajtó vezetője, aki irányítja a helyi önkormányzat munkáját és képviseli a közösséget. A lakosság közvetlenül választja.",
+      "quote": "Helyi végrehajtó hatalom",
+      "text": "A polgármester felelős az önkormányzat határozatainak végrehajtásáért és a közigazgatásért. Munkájáról az önkormányzat képviselő-testületének tartozik beszámolni."
+    },
+    {
+      "id": 33,
+      "term": "Ratkó-korszak",
+      "definition": "Az 1950-es évek eleji időszak Magyarországon, amikor Ratkó Anna minisztersége alatt a születésszám mesterségesen megemelkedett. Az abortusztilalom és a családtámogatások jellemezték.",
+      "quote": "A születések megemelése",
+      "text": "A Ratkó-korszak megjelölésre is használatos olyan generációra, amely a megemelkedett születésszám időszakában született. Ez a korosztály később szignifikáns demográfiai hatást gyakorolt."
+    },
+    {
+      "id": 34,
+      "term": "Szegregáció",
+      "definition": "Elkülönítés, amikor egy társadalmi vagy etnikai csoportot térben, oktatásban vagy munkahelyen elválasztanak a többségtől. Gyakran vezet tartós társadalmi hátrányzatossághoz.",
+      "quote": "Erőszakos elkülönítés",
+      "text": "A szegregáció történeti, politikai és gazdasági okokkal támogatható. Jogalkalmazásban és társadalmi normákban is megnyilvánulhat."
+    },
+    {
+      "id": 35,
+      "term": "Többségi választási rendszer",
+      "definition": "Olyan rendszer, amelyben a legtöbb szavazatot szerző jelölt nyer. Egyszerű, de a kisebb pártoknak hátrányosabb.",
+      "quote": "A legtöbben nyernek",
+      "text": "A többségi rendszer segít a kormányok stabilitásában, de a kisebb pártok alulreprezentáltak. Magyarország vegyes rendszert használ."
+    },
+    {
+      "id": 36,
+      "term": "Ügyészség",
+      "definition": "Az állam nevében eljáró szerv, amely képviseli a vádat és felügyeli a nyomozás törvényességét. Élén a legfőbb ügyész áll.",
+      "quote": "Az állam vádképviselője",
+      "text": "Az ügyészség függetlenül működik a végrehajtó hatalomtól. Fontos szerepe van a büntetőeljárások kezdeményezésében és nyomon követésében."
+    },
+    {
+      "id": 37,
+      "term": "2004: EU-csatlakozás",
+      "definition": "Év, amikor Magyarország és további kilenc ország az Európai Unióhoz csatlakozott, történelmi mérföldkő az ország integrációjában.",
+      "quote": "Visszatérés Európához",
+      "text": "A 2004-es csatlakozás gazdasági, politikai és társadalmi következményekkel járt. Új jogok és kötelezettségek mellett munkaerő-mobilitás is lehetővé vált."
+    },
+    {
+      "id": 38,
+      "term": "2010: Kettős állampolgárság törvénye",
+      "definition": "Magyarország elfogadta a honosítási törvényt és a nemzeti összetartozásról szóló törvényt, amelyek kiterjesztették a kettős állampolgárság lehetőségét a határon túli magyarokra.",
+      "quote": "Nemzetösszetartozás kódexe",
+      "text": "2010 június 4-ét a Nemzeti Összetartozás Napjává nyilvánították. Ez szimbolikus és gyakorlati támogatást jelent a külhoni magyarságnak."
+    },
+    {
+      "id": 39,
+      "term": "2012: Alaptörvény hatálybalépése",
+      "definition": "Az Alaptörvény hatályba lép, ettől kezdve ez a magyar állam működésének alapja.",
+      "quote": "Új jogi keretrendszer",
+      "text": "Az Alaptörvény helyettesítette az 1989-ben módosított Alkotmányt. Új rendelkezéseket tartalmazott az emberi jogokról és az állami szervezetről."
+    },
+    {
+      "id": 40,
+      "term": "Antall József",
+      "definition": "Az első szabadon választott miniszterelnök (1990–1993), amikor kormányzása alatt megalapozódott a demokratikus intézményrendszer.",
+      "quote": "Az első demokratikus miniszterelnök",
+      "text": "Antall József hírhedt mondata: \"lélekben, érzésben 15 millió magyar miniszterelnöke kívánok lenni\" kifejezi a határon túli magyarság iránti felelősségét."
+    },
+    {
+      "id": 41,
+      "term": "Bajnai Gordon",
+      "definition": "2009 és 2010 között miniszterelnök, aki válságkezelő szakértői kormányt vezetett, amely a gazdasági stabilizációra törekedett.",
+      "quote": "Gazdasági válságkezelés",
+      "text": "Bajnai Gordon kormánya a 2008-2009-es gazdasági válság után lépett fel. Költségvetési megszorításokkal próbálta stabilizálni a gazdaságot."
+    },
+    {
+      "id": 42,
+      "term": "Gyurcsány Ferenc",
+      "definition": "2004 és 2009 között miniszterelnök, amikor kormányzása idején politikai válságok és megszorító intézkedések jellemezték a közéletet.",
+      "quote": "Viták és válságok kora",
+      "text": "Gyurcsány Ferenc kormánya számára a 2006-os ősz különösen volt turbulens. Az \"őszödi beszéd\" nyilvánosságra kerülése súlyos politikai válságot okozott."
+    },
+    {
+      "id": 43,
+      "term": "Horn Gyula",
+      "definition": "1994 és 1998 között miniszterelnök, amikor kormányzása alatt valósult meg a Bokros-csomag, amely stabilizálta a gazdaságot.",
+      "quote": "Gazdasági stabilizáció",
+      "text": "A Bokros-csomag 1995-ben egy szigorú költségvetési és monetáris kiigazítási program volt. Rövid távon fájdalmas volt, de hosszú távon stabilizálta az ekonomiát."
+    },
+    {
+      "id": 44,
+      "term": "Medgyessy Péter",
+      "definition": "2002 és 2004 között miniszterelnök, aki a \"jóléti rendszerváltás\" programját vezette be, amely gazdasági egyensúlyvesztést okozott.",
+      "quote": "Jóléti ígéretek",
+      "text": "A Medgyessy-kormány szociális kiadásokat növelt, amely azonban fenntarthatatlan lett. Ezt később Gyurcsány kormányának meg kellett szüntetnie."
+    },
+    {
+      "id": 45,
+      "term": "Orbán Viktor",
+      "definition": "Miniszterelnök 1998–2002 között, majd 2010-től napjainkig, konzervatív és jobboldali politikai irányként ismert.",
+      "quote": "Hosszú korszak a kormányzásban",
+      "text": "Orbán Viktor két kormányzati periódusa között lényeges politikai váltás történt. 2010 után az ő kormánya alkototta meg az Alaptörvényt."
+    },
+    {
+      "id": 46,
+      "term": "Ursula von der Leyen",
+      "definition": "2019 óta az Európai Bizottság elnöke, az első nő ezen a poszton. Német politikusként az uniós zöld és digitális átmenet kiemelt támogatója.",
+      "quote": "Az EU új vezetője",
+      "text": "Von der Leyen az Európai Bizottság vezetésében prioritásokat állított fel az éghajlatváltozás és digitalizáció terén."
+    },
+    {
+      "id": 47,
+      "term": "Brüsszel",
+      "definition": "Belgium fővárosa, az Európai Unió egyik legfontosabb politikai központja, ahol az uniós döntéshozatal meghatározó intézményei működnek.",
+      "quote": "Az EU szíve",
+      "text": "Brüsszelben működik az Európai Bizottság és az Európai Unió Tanácsa. A város az EU politikai és adminisztratív centruma."
+    },
+    {
+      "id": 48,
+      "term": "Csallóköz",
+      "definition": "Szlovákia délnyugati részén fekvő síkvidék, a felvidéki magyarság legnagyobb összefüggő tömbterülete.",
+      "quote": "Magyar terület a Felvidéken",
+      "text": "A Csallóköz a Duna és a Kis-Duna közötti terület. Történelmileg gazdag magyar kultúrájáról ismert."
+    },
+    {
+      "id": 49,
+      "term": "Felvidék",
+      "definition": "A mai Szlovákia déli területe, ahol a magyar közösség elsősorban a határ mentén él.",
+      "quote": "Felső magyarország",
+      "text": "A Felvidék a magyar történelem fontos része volt. Ma Szlovákiához tartozik és kb. 460 ezer magyar él itt."
+    },
+    {
+      "id": 50,
+      "term": "Kárpátalja",
+      "definition": "A történelmi Magyarország legkeletibb része, amelyet 1945 után a Szovjetunióhoz csatoltak; napjainkban Ukrajna nyugati területeként kb. 140 ezer magyar él itt.",
+      "quote": "A magyar kelet",
+      "text": "Kárpátalja az autonómia iránti igényéről is ismert. Dinamikus magyar közösség él itt, bár száma folyamatosan csökken."
+    },
+    {
+      "id": 51,
+      "term": "Luxemburg",
+      "definition": "Kis nyugat-európai állam fővárosa, ahol az Európai Unió fontos intézményei, az Európai Bíróság és az Európai Számvevőszék székhelye található.",
+      "quote": "Az EU jogi és pénzügyi központja",
+      "text": "Luxemburgban működik az Európai Számvevőszék és az Európai Bíróság. A város az EU kormányzati székhelyek egyike."
+    },
+    {
+      "id": 52,
+      "term": "Marosvásárhely",
+      "definition": "Erdélyi város, ahol 1990-ben az úgynevezett \"fekete március\" eseményei zajlottak. A magyar–román etnikai feszültség egyik szimbóluma lett.",
+      "quote": "Etnikai feszültség szimbóluma",
+      "text": "A marosvásárhelyi 1990-es tüntetések a rendszerváltozás utáni etnikai konfliktusok jelenlétét mutatták meg."
+    },
+    {
+      "id": 53,
+      "term": "Strasbourg",
+      "definition": "Francia város, az Európai Parlament hivatalos székhelye és plenáris üléseinek helyszíne, valamint az Európa Tanács központja.",
+      "quote": "Az EU parlamentáris központja",
+      "text": "Strasbourg az európai demokrácia és integráció jelképe. Szimbolikus helysége az Európai Parlamentnek."
+    },
+    {
+      "id": 54,
+      "term": "Székelyföld",
+      "definition": "Erdély középső részén fekvő, magyar többségű terület, ahol a székely és magyar lakosság tömbben él; a magyar kulturális és nemzeti identitás egyik központja.",
+      "quote": "Székely magyarság őshazája",
+      "text": "Székelyföldön a magyar nyelv és kultúra erősen megmaradtak. Az autonómiatörekvések jellemzően erre a régióra fókuszálnak."
+    }
+  ]
+}

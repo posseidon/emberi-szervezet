@@ -1,0 +1,95 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Luxemburgi Zsigmond",
+      "definition": "Magyar király (1387-1437), később német-római császár. Az első jelentős török elleni küzelmek szervezője.",
+      "quote": "A császár és a királyi kard",
+      "text": "Zsigmond alapozta meg a végvárrendszert és a telekkatonaságot. Diplomáciájával pedig Európa egyik legbefolyásosabb egyetlenő volt."
+    },
+    {
+      "id": 2,
+      "term": "Nikápolyi csata, 1396",
+      "definition": "Zsigmond nemzetközi lovagi sereget vezetett a törökök ellen, de súlyos vereséget szenvedett. Ez kényszerítette a védekező stratégiára.",
+      "quote": "Az első nagy kurdac",
+      "text": "A nikápolyi csatában a fegyelmezetlen keresztesek vereséget szenvedtek. Ez után Zsigmond védekező politikára térte át."
+    },
+    {
+      "id": 3,
+      "term": "Telekkatonaság, 1397",
+      "definition": "Zsigmond által bevezetett rendszer, amely minden földbirtokosnak 20 jobbágytelek után egy könnyű fegyverzet katonát kellett kiállítania.",
+      "quote": "Föld után katonai kötelezettség",
+      "text": "Ez a telekkatonaság volt a magyar haderő alapja a török ellen. Ezt az szállóigévé vált alapja volt."
+    },
+    {
+      "id": 4,
+      "term": "Végvárrendszer",
+      "definition": "Az erődítések hálózata a déli határon, amely Nándorfehérvárat központként használta. A magyar végvéd rendszer alapja.",
+      "quote": "A Duna mentén húzódó középhely",
+      "text": "A végvárak nemcsak katonai, hanem helyi közigazgatási és gazdasági központok is voltak."
+    },
+    {
+      "id": 5,
+      "term": "Hunyadi János",
+      "definition": "Erdélyi vajda, hadvezér és 1446-1452 között kormányzó. A török elleni harc szimbóluma.",
+      "quote": "A kereszténység védelmeézője",
+      "text": "Hunyadi János a Zsigmond-kori hadseregben nőtt fel. Apja halála után az ország katonai vezetője lett."
+    },
+    {
+      "id": 6,
+      "term": "Hosszú hadjárat, 1443-1444",
+      "definition": "Hunyadi és I. Ulászló sikeres támadása a Balkánon. Kedvező békét kényszerítették ki, majd azonban a béke felrúgása vereséget hozott.",
+      "quote": "A győzelem és később a kudarc",
+      "text": "A hosszú hadjárat kezdetben sikeres volt, de a várnai csatában I. Ulászló elesett."
+    },
+    {
+      "id": 7,
+      "term": "Nándorfehérvári diadal, 1456",
+      "definition": "Hunyadi és Kapisztrán János közös győzelme II. Mehmed szultán ellen. Ez megállította a török előrenyomulást évtizedekre.",
+      "quote": "A templom és a lovas szelleme",
+      "text": "A nándorfehérvári diadal utáni déli harangszó a mai napig ennek az emlékét jelöli."
+    },
+    {
+      "id": 8,
+      "term": "Hunyadi Mátyás",
+      "definition": "Hunyadi János fia (1458-1490), aki védelmi politikát folytatott és végvárrendszert szilárdított meg.",
+      "quote": "Az apán örökség megőrzője",
+      "text": "Mátyás apja módján a török ellen szervezett a végvári rendszert. Fekete seregét ezekre az erődítésekre alapozva."
+    },
+    {
+      "id": 9,
+      "term": "Fekete sereg",
+      "definition": "Mátyás король hivatásos zsoldoshadserege, amely Európa egyik legerősebb haderejévé vált. 15-20 ezer fő volt.",
+      "quote": "Az ezredfordulót és lovasság egyesült",
+      "text": "A Fekete sereg cseh huszitákból, német és lengyel zsoldosokból állt. Tüzérséggel is rendelkezett."
+    },
+    {
+      "id": 10,
+      "term": "Kenyérmezei csata, 1479",
+      "definition": "Kinizsi Pál és Báthory István döntő győzelme az Erdélybe betört oszmán seregek ellen.",
+      "quote": "A számadatok magyar katonák sikere",
+      "text": "Ez volt Mátyás egyik legnagyobb katonai sikere. Bebizonyított, hogy szorgalmas és hozzáértő vezetőkkel még a kötöttpolitika lehetett eredményes."
+    },
+    {
+      "id": 11,
+      "term": "Oszmán Birodalom",
+      "definition": "A törökök által alapított birodalom, amely a 14. szd végén már Európa ellensége volt. II. Mehmed hódolása a szultán.",
+      "quote": "Az iszlám birodalom, amely Európa felé terjeszkedik",
+      "text": "Az Oszmán Birodalom despotikus államforma volt, ahol a szultán korlátlan hatalommal bírt."
+    },
+    {
+      "id": 12,
+      "term": "Dzsihád",
+      "definition": "Az Allah útján való küzdelem, amely az oszmán hódítások ideológiai alapja volt.",
+      "quote": "Az iszlám harcok igazolása",
+      "text": "Az oszmán szultánok dzsihádra hivatkozva indítottak hadjáratokat Európa ellen."
+    },
+    {
+      "id": 13,
+      "term": "Balkan hűbérei",
+      "definition": "Szerbia, Bosznia és Havasalföld IV. Béla idején ütközőállamok voltak. Zsigmond politikájában ezt a szerepet erősítette.",
+      "quote": "Az ütközőállamok a védelem alapjai",
+      "text": "Ezek az államok puffer szerepet játszottak Magyarország és az Oszmán Birodalom között."
+    }
+  ]
+}

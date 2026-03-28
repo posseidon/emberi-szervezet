@@ -1,0 +1,272 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "kora-ujkor",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik év jelöli az újkor kezdetét?",
+      "options": [
+        "1450",
+        "1492",
+        "1517",
+        "1600"
+      ],
+      "answer": "1492"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A mohácsi csata _____ év augusztus 29-én zajlott le.",
+      "options": [],
+      "answer": "1526"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Ki volt az Oszmán Birodalom szultánja a mohácsi csatában?",
+      "options": [
+        "Bajazid II.",
+        "I. Szulejmán",
+        "II. Szelim",
+        "III. Murad"
+      ],
+      "answer": "I. Szulejmán"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A _____ szerződés (1494) felosztotta a világot portugál és spanyol érdekszférákat között.",
+      "options": [],
+      "answer": "tordesillasi"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Ki volt az első portugál hajós, aki elérte Indiát tengeri úton?",
+      "options": [
+        "Bartolomeu Diaz",
+        "Vasco da Gama",
+        "Tengerész Henrik",
+        "Álvares Cabral"
+      ],
+      "answer": "Vasco da Gama"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ herceg támogatta az első portugál felfedezőutakat.",
+      "options": [],
+      "answer": "Tengerész"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Luther Márton melyik évben hozta nyilvánosságra 95 tételét?",
+      "options": [
+        "1500",
+        "1507",
+        "1517",
+        "1527"
+      ],
+      "answer": "1517"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ vallásbéke (1555) elismerte a német fejedelmek vallásválasztási jogát.",
+      "options": [],
+      "answer": "augsburgi"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Ki volt az első erdélyi fejedelem?",
+      "options": [
+        "Szapolyai János",
+        "János Zsigmond",
+        "Báthory István",
+        "Bethlen Gábor"
+      ],
+      "answer": "János Zsigmond"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ (1568) kimondta a vallásszabadságot Erdélyben.",
+      "options": [],
+      "answer": "tordai országgyűlés"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "II. Rákóczi Ferenc melyik évben indította meg a szabadságharcot?",
+      "options": [
+        "1698",
+        "1703",
+        "1708",
+        "1711"
+      ],
+      "answer": "1703"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ béke (1711) lezárta a Rákóczi-szabadságharcot.",
+      "options": [],
+      "answer": "szatmári"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Mária Terézia melyik évben kezdte meg uralkodását?",
+      "options": [
+        "1720",
+        "1740",
+        "1760",
+        "1780"
+      ],
+      "answer": "1740"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ rendelet (1781) biztosította a szabad vallásgyakorlatot.",
+      "options": [],
+      "answer": "türelmi"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Ki volt Kálvin János az első helyre tartománya?",
+      "options": [
+        "Zürich",
+        "Genf",
+        "Bern",
+        "Basel"
+      ],
+      "answer": "Genf"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ szerződés (1570) rögzítette az Erdélyi Fejedelemség függetlenségét.",
+      "options": [],
+      "answer": "speyeri"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Ki volt az első emberi jogok nyilatkozatának egyik szerzője?",
+      "options": [
+        "La Fayette",
+        "Rousseau",
+        "Montesquieu",
+        "Voltaire"
+      ],
+      "answer": "La Fayette"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Az Emberi és Polgári Jogok Nyilatkozata _____ évben elfogadták.",
+      "options": [],
+      "answer": "1789"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mennyi félből állt az Emberi és Polgári Jogok Nyilatkozata?",
+      "options": [
+        "10",
+        "15",
+        "17",
+        "20"
+      ],
+      "answer": "17"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ Birodalom legyőzte Magyarországot a mohácsi csatában.",
+      "options": [],
+      "answer": "oszmán"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik város lett Magyarország középkorú fővárosa az újkorban?",
+      "options": [
+        "Buda",
+        "Pest",
+        "Pozsony",
+        "Szeged"
+      ],
+      "answer": "Pozsony"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A _____ rendelet (1754) kettős vámhatárt vezetett be.",
+      "options": [],
+      "answer": "vámrendelet"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Ki volt az Azték Birodalom meghódítója?",
+      "options": [
+        "Francisco Pizarro",
+        "Hernán Cortés",
+        "Pedro de Alvarado",
+        "Bernal Díaz"
+      ],
+      "answer": "Hernán Cortés"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az Inka Birodalom _____ körzeteből állt.",
+      "options": [],
+      "answer": "Andes"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Ki volt Francisco Pizarro meghódított területe?",
+      "options": [
+        "Mexikó",
+        "Kuba",
+        "Peru",
+        "Brazília"
+      ],
+      "answer": "Peru"
+    },
+    {
+      "id": 26,
+      "type": "BLANK",
+      "question": "A _____ szerzeteseket feloszlatta II. József.",
+      "options": [],
+      "answer": "szerzetesrendek"
+    },
+    {
+      "id": 27,
+      "type": "MC",
+      "question": "Melyik év jelöli a francia forradalom kezdetét?",
+      "options": [
+        "1787",
+        "1789",
+        "1791",
+        "1793"
+      ],
+      "answer": "1789"
+    },
+    {
+      "id": 28,
+      "type": "BLANK",
+      "question": "A _____ nyelvredelete hivatalossá tette a német nyelvét a Habsburg Birodalomban.",
+      "options": [],
+      "answer": "nyelvrendelet"
+    }
+  ]
+}

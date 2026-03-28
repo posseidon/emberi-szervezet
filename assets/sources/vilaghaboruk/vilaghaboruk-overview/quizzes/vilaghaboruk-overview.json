@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "vilaghaboruk-overview",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Az első világháború milyen év után végződött?",
+      "options": [
+        "1915-ben",
+        "1918-ban",
+        "1920-ban",
+        "1925-ben"
+      ],
+      "answer": "1918-ban"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az első világháború végét a _____ fegyverszünet jelentette.",
+      "options": [],
+      "answer": "versailles-i"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mely két tábornak a szembenállása jellemezte a világháborúk közötti időszakot?",
+      "options": [
+        "USA és Olaszország",
+        "Németország és Franciaország",
+        "demokratikus és totalitárius rendszerek",
+        "Anglia és Oroszország"
+      ],
+      "answer": "demokratikus és totalitárius rendszerek"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A Trianoni békét _____ évben írták alá.",
+      "options": [],
+      "answer": "1920"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Ki volt a Német Birodalom vezetője a második világháború alatt?",
+      "options": [
+        "Kaiser Wilhelm II.",
+        "Paul von Hindenburg",
+        "Adolf Hitler",
+        "Ernst Röhm"
+      ],
+      "answer": "Adolf Hitler"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A második világháború _____ eseménnyel kezdődött 1939-ben.",
+      "options": [],
+      "answer": "Lengyelország megtámadása"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Mi volt a holokauszt?",
+      "options": [
+        "Német-francia konfliktus",
+        "Szovjet kényszermunkatáborok rendszere",
+        "Náci Németország által elkövetett zsidóság megsemmisítése",
+        "Japán katonai kampány"
+      ],
+      "answer": "Náci Németország által elkövetett zsidóság megsemmisítése"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A hidegháború az _____ és a Szovjetunió közötti szembenállást jelentette.",
+      "options": [],
+      "answer": "Egyesült Államok"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mely év fordulópontot jelentett a hidegháború lezárásában?",
+      "options": [
+        "1961-ben",
+        "1968-ban",
+        "1989-ben",
+        "1991-ben"
+      ],
+      "answer": "1989-ben"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "A _____ az 1956-os magyar forradalom szimbóluma lett.",
+      "options": [],
+      "answer": "Molotov-koktél"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Ki volt az 1956-os forradalom miniszterelnöke?",
+      "options": [
+        "Rákosi Mátyás",
+        "Kádár János",
+        "Nagy Imre",
+        "Gerő Ernő"
+      ],
+      "answer": "Nagy Imre"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A Kádár-rendszer más néven _____ kommunizmus volt.",
+      "options": [],
+      "answer": "gulyás"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Hogyan kezdődött az 1956-os forradalom Magyarországon?",
+      "options": [
+        "Sztrájkok",
+        "Diáktüntetések",
+        "Katonai puccs",
+        "Politikai szervezetek tiltakozása"
+      ],
+      "answer": "Diáktüntetések"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az 1956-os forradalom leverésében a _____ hadserege vett részt.",
+      "options": [],
+      "answer": "szovjet"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mi jellemezett a Rákosi-diktatúrát?",
+      "options": [
+        "Gazdasági szabadság",
+        "Terror és koncepciós perek",
+        "Vallásszabadság",
+        "Politikai pluralizmus"
+      ],
+      "answer": "Terror és koncepciós perek"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ fal 1961-ben épült Berlin keleti és nyugati része között.",
+      "options": [],
+      "answer": "berlini"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik ország volt az első, ahol véres volt a rendszerváltás 1989-ben?",
+      "options": [
+        "Lengyelország",
+        "Csehszlovákia",
+        "Magyarország",
+        "Románia"
+      ],
+      "answer": "Románia"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ 1991-ben felbomlott, és tizenöt független ország jött létre belőle.",
+      "options": [],
+      "answer": "Szovjetunió"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Mely három világvárosban tartották meg a nagy háború utáni konferenciákat?",
+      "options": [
+        "Bécs, Berlin, Párizs",
+        "Jalta, Potsdam, San Francisco",
+        "Versailles, Genf, Stockholm",
+        "Moszkva, Washington, London"
+      ],
+      "answer": "Jalta, Potsdam, San Francisco"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az Egyesült Nemzeteket (ENSZ) _____ alapították meg a második világháború után.",
+      "options": [],
+      "answer": "1945"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Ki volt Magyarország kormányzója a Horthy-korszakban?",
+      "options": [
+        "IV. Károly",
+        "Tisza István",
+        "Horthy Miklós",
+        "Bethlen István"
+      ],
+      "answer": "Horthy Miklós"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A _____ tervvel az Egyesült Államok támogatta Európa újjáépítését.",
+      "options": [],
+      "answer": "Marshall"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Melyik nem volt a hidegháborús feszültségek kiváltója?",
+      "options": [
+        "Németország kettéosztása",
+        "Szovjet befolyás Kelet-Európában",
+        "Marshall-terv",
+        "Közös német érdekek"
+      ],
+      "answer": "Közös német érdekek"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az 1968-as _____ tavasz Csehszlovákiában kezdődő reformmozgalom volt.",
+      "options": [],
+      "answer": "prágai"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik nem volt a második világháború közvetlen oka?",
+      "options": [
+        "Versailles-i béke",
+        "Gazdasági válság",
+        "Hitlers agresszív politikája",
+        "Az első világháború előtti gyarmati verseny"
+      ],
+      "answer": "Az első világháború előtti gyarmati verseny"
+    }
+  ]
+}

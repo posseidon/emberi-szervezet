@@ -1,0 +1,196 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "kozepkor",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Hogyan befolyásolta az iszlám terjeszkedése az európai keresztény államok fejlődésénél?",
+      "options": [
+        "Teljes mértékben meggátolta azokat",
+        "Szükségessé tette az egység és védekezés kialakítása",
+        "Semmilyen hatása nem volt",
+        "Csak gazdaságilag befolyásolt"
+      ],
+      "answer": "Szükségessé tette az egység és védekezés kialakítása"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Az Omajjádok és Abbászidák váltása a kalifátusban azt mutatja, hogy az iszlám _____ között voltak politikai vetélkedések.",
+      "options": [],
+      "answer": "dinasztiák"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Miért volt az Aranybulla progresszív a 13. századi Európa kontextusában?",
+      "options": [
+        "Megtiltotta a középkorú nyomást",
+        "Az alsóbb nemesség jogait biztosította és királyság kötöttségét szabályozta",
+        "Az egyházi hatalom végleges eltörlésé",
+        "Az abolícióhoz vezetett"
+      ],
+      "answer": "Az alsóbb nemesség jogait biztosította és királyság kötöttségét szabályozta"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "A _____ azok a sztyeppei keletű nép voltak, akik a tartományk közvetlenül a város védelmét segítették a határokon.",
+      "options": [],
+      "answer": "kunok"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Miért fontos a szerzetesség a középkori tudás megtartásában?",
+      "options": [
+        "Az egyén magánéletéről szólt",
+        "A szerzetesek kódexmásolók voltak és tudományos munkákat végeztek",
+        "Politikai hatalom volt csak",
+        "Gazdasági tevékenységek végzésére szolgált"
+      ],
+      "answer": "A szerzetesek kódexmásolók voltak és tudományos munkákat végeztek"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "IV. Béla a tatárjárás után az ország helyreállításakor új városokká emelkedett olyan településeket, amelyeknek _____ kiváltságot adott.",
+      "options": [],
+      "answer": "város"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Hogyan magyarázható, hogy a céhes ipar a köznemesség felemelkedésében kulcszerepet játszott?",
+      "options": [
+        "A céhes szabályozottságot biztosított",
+        "A közös érdekek és szervezettség alapján a céhes vezetők politikai hanggal bírtak",
+        "Nincs kapcsolata volt",
+        "Csak gazdasági szervezet volt"
+      ],
+      "answer": "A közös érdekek szervezettség alapján a céhes vezetők politikai hanggal bírtak"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A középkori város fejlődésének egyik előfeltétele az volt, hogy a parasztoknak _____ év után polgárjog járt.",
+      "options": [],
+      "answer": "egy"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Milyen lépéseket tett I. Károly az ország gazdaságának erősítéséhez?",
+      "options": [
+        "Pusztán közigazgatási reformokat",
+        "Bányászat fejlesztése, pénzreform, adórendszer átalakítása",
+        "Csak katonai erőforrások felépítése",
+        "Egyházi befolyás növelése"
+      ],
+      "answer": "Bányászat fejlesztése, pénzreform, adórendszer átalakítása"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az iszlám kulturális hozzájárulása között az egyik legfontosabb volt az _____, amelyet az arabok fejlesztettek ki és a nyugatra továbbadtak.",
+      "options": [],
+      "answer": "algebra"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Hogyan jelzi a Bibliotheca Corviniana Mátyás király politikáját?",
+      "options": [
+        "Csak az egyházra helyezte a hangsúlyt",
+        "Az emberi tudás és szépség értékelésénél jelzi a reneszánsz szerzetét",
+        "Csupán díszmegy volt",
+        "Nincs politikai jelentősége"
+      ],
+      "answer": "Az emberi tudás és szépség értékelésénél jelzi a reneszánsz szerzetét"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ csatában (1241) a magyar hadsereg véletlenül egy új védekező technikáról: a szekérvárat alakított",
+      "options": [],
+      "answer": "Muhi"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Milyen összefüggés van a gótikus és a románus építészeti stílusok között?",
+      "options": [
+        "Nincsen kapcsolata",
+        "A románus után fejlődött és technikai továbbfejlesztésé",
+        "Az építészeti igényes visszaesése volt",
+        "A felekezeti vita kifejezésé"
+      ],
+      "answer": "A románus után fejlődött és technikai továbbfejlesztésé"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az iszlám jogrend (saría) alapját a Korán, a hagyomány (___) és a vallási tudósok értelmezésé képeztek.",
+      "options": [],
+      "answer": "hadísz"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Hogyan viszonyultak az európai francia államok az arab terjeszkedéshez a 10-12. szadban?",
+      "options": [
+        "Teljesen passzívan",
+        "Folyamatos védekezéssel és az Ibériai-félsziget visszaszerzésénél",
+        "Összesítő térfoglalásra törekedve",
+        "Kereskedelmi kapcsolatokra helyezve"
+      ],
+      "answer": "Folyamatos védekezéssel és az Ibériai-félsziget visszaszerzésénél"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az iszlámban a _____ az 'Allah útján való küzdelem', amely jelenthet belső lelki harcot és fegyveres szent háborút is.",
+      "options": [],
+      "answer": "dzsihád"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Miért volt a Hunyadi-dinasztia Mátyás alatt erősebb, mint az Árpád-ház alatt?",
+      "options": [
+        "Nincs különbség",
+        "Mátyás központosított hatalmat teremtett, amit a legerősebb zsoldosereg támogatott",
+        "Az Árpád-ház gyengébb volt",
+        "Politikai szerencse volt"
+      ],
+      "answer": "Mátyás központosított hatalmat teremtett, amit a legerősebb zsoldosereg támogatott"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A középkori város szabad polgárságát (commons) az _____ vezetett, amely jelentés a város polgáraival és az egyházi hatalmakkal tárgyalták.",
+      "options": [],
+      "answer": "város tanácsa"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Hogyan magyarázható, hogy a Nándorfehérvári diadal (1456) olyan hosszú ideig megállított a török előrenyomulást?",
+      "options": [
+        "Az oszmánok nem akartak terjeszkedni",
+        "A magyar védekezés szervezetté vált és az európai szövetségek támogatást adtak",
+        "A törökök más irányba fordultak",
+        "Véletlen volt"
+      ],
+      "answer": "A magyar védekezés szervezetté vált és az európai szövetségek támogatást adtak"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A Mátyás halála után (1490) az ország gyengülése azért történt, mert a _____ feloszlott és a bárók ismét erősödtek.",
+      "options": [],
+      "answer": "Fekete sereg"
+    }
+  ]
+}

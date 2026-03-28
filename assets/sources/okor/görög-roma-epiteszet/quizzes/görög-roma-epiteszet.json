@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "görög-roma-epiteszet",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik az ógörög építészet legegyszerűbb és legerőteljesebb oszloprendje?",
+      "options": [
+        "Jón",
+        "Korinthoszi",
+        "Dór",
+        "Egyiptomi"
+      ],
+      "answer": "Dór"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ az athéni akropolisz legfontosabb temploma volt, amely a Pallasz Athéné istennőnek volt dedikálva.",
+      "options": [],
+      "answer": "Parthenón"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik építmény volt az ókori Róma legnagyobb kocsiverseny-pályája?",
+      "options": [
+        "Colosseum",
+        "Forum Romanum",
+        "Circus Maximus",
+        "Pantheon"
+      ],
+      "answer": "Circus Maximus"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az _____ az ógörögség nemzeti ünnepsége volt, amelyet négyévente tartottak Zeusz tiszteletére.",
+      "options": [],
+      "answer": "olümpiai játékok"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mi a Colosseum más neve?",
+      "options": [
+        "Forum Romanum",
+        "Circus Maximus",
+        "Flavius amfiteátrum",
+        "Pantheon"
+      ],
+      "answer": "Flavius amfiteátrum"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az _____ az ógörög városok közösségi és piactere volt, amely a gazdaság, a politika és a társadalom súlypontjaként működött.",
+      "options": [],
+      "answer": "agora"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik volt az ógörög templomok közös jellegzetessége?",
+      "options": [
+        "Boltívek",
+        "Kupolák",
+        "Magas lépcsősor, háromszögű oromzat, oszlopsor",
+        "Megfigyelő tornyok"
+      ],
+      "answer": "Magas lépcsősor, háromszögű oromzat, oszlopsor"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az _____ az ókori rómaiak által kifejlesztett vízvezeték rendszere volt, amely boltívek által támogatva nagy távolságokból szállított vizet.",
+      "options": [],
+      "answer": "aquaeductus"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik építmény tartalmazta az ókori Róma szenátusát (Curia)?",
+      "options": [
+        "Colosseum",
+        "Forum Romanum",
+        "Pantheon",
+        "Aquincum"
+      ],
+      "answer": "Forum Romanum"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az _____ az ógörög filozófus- és vallási centrum volt, ahol az apolló-templom helyezkedett el.",
+      "options": [],
+      "answer": "Délphoi"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik rómaiak által építet szerkezet volt a Pantheon jellemzője?",
+      "options": [
+        "Boltív",
+        "Kupola",
+        "Diadalív",
+        "Aquaeductus"
+      ],
+      "answer": "Kupola"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az _____ az ógörög akropolisz másik nagy temploma volt, amely ionikus oszloprendsel épülve, elegáns és szimmetrikus formájával a görög építészet klasszikus példáját jelentette.",
+      "options": [],
+      "answer": "Erektheion"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik terület volt Pannónia az ókori rómaiak számára?",
+      "options": [
+        "Síkság Galliában",
+        "Dunántúl",
+        "Egyiptom",
+        "Germánia"
+      ],
+      "answer": "Dunántúl"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az _____ az ókori rómaiak által alapított település volt a mai Óbudán, amely Pannónia közigazgatási központjaként működött.",
+      "options": [],
+      "answer": "Aquincum"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Melyik építmény volt az ókori Róma szennyvíz-elvezető rendszere?",
+      "options": [
+        "Aquaeductus",
+        "Cloaca Maxima",
+        "Capitolium",
+        "Forum Romanum"
+      ],
+      "answer": "Cloaca Maxima"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ az ókori rómaiak által kifejlesztett építészeti technika volt, amely egy görbe alakú szerkezetből állt, amely nagyobb terjedelmeket képes közvetíteni támaszpont nélkül.",
+      "options": [],
+      "answer": "boltív"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik város volt az antik világ egyik legfontosabb központja Nagy Sándor hódításai után?",
+      "options": [
+        "Róma",
+        "Athén",
+        "Alexandria",
+        "Jeruzsálem"
+      ],
+      "answer": "Alexandria"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ az ókori világ 7 csodájának egyike volt, amely Alexandriában helyezkedett el, és a görög-egyiptomi építészeti szintézis kiváló példájául szolgált.",
+      "options": [],
+      "answer": "pharoszi világítótorony"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik oszloprend a görög építészet legdíszesebb formája?",
+      "options": [
+        "Dór",
+        "Jón",
+        "Korinthoszi",
+        "Egyiptomi"
+      ],
+      "answer": "Korinthoszi"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az _____ az ógörög közösségi tér volt, amely félkör alakú, hegyoldalba vájva, lépcsőzetes nézőtérrel, ahol csak férfi színészek játszottak.",
+      "options": [],
+      "answer": "színház"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik építmény volt az ókori Róma fellegvára és legfontosabb szentélye?",
+      "options": [
+        "Forum Romanum",
+        "Pantheon",
+        "Capitolium",
+        "Colosseum"
+      ],
+      "answer": "Capitolium"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az _____ az ókori rómaiak által épített monumentális kapu volt, amely politikai vagy katonai győzelmek emlékére állítottak.",
+      "options": [],
+      "answer": "diadalív"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Mi volt a fő különbség a görög és a rómaik építészeti stílusok között?",
+      "options": [
+        "A rómaiak csak egy oszloprendet használtak",
+        "A rómaiak fejlesztették ki a boltíveket és kupolákat",
+        "A görögök használták a kupolákat jobban",
+        "Nincs különbség"
+      ],
+      "answer": "A rómaiak fejlesztették ki a boltíveket és kupolákat"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az _____ az ókori Róma politikai, gazdasági és társadalmi központja volt, ahol a népgyűlések és a kereskedelem gyakorlatait megtartották.",
+      "options": [],
+      "answer": "Forum Romanum"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik építményt Fidiász szobrai díszítette a Parthenón mellett?",
+      "options": [
+        "Pantheon",
+        "Erektheion",
+        "Forum Romanum",
+        "Aquincum"
+      ],
+      "answer": "Parthenón"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "szocializmus",
+  "title": "A szocializmus",
+  "flashcards": [
+    {
+      "id": "szocializmus-001",
+      "term": "Mit értünk a marxista osztályharc fogalmán?",
+      "definition": "Marx szerint a társadalom alapját a gazdasági viszonyok képezik, és az ellentétes osztályok közötti küzdelem (rabszolgatartók-rabszolgák, földesurak-jobbágyok, tőkések-munkások) a történelem mozgatórugója.",
+      "quote": "Proletárok az összes országban, egyesüljetek!",
+      "text": "A történelem osztályharcok története"
+    },
+    {
+      "id": "szocializmus-002",
+      "term": "Mi a marxista értéktöbblet-elmélet lényege?",
+      "definition": "A munkás nem kapja meg munkája teljes értékét; a tőkés a 'meg nem fizetett' munkából származó értéktöbbletet (profitot) sajátítja el, ami kizsákmányolás és alapvető ellentmondás a kapitalizmusban.",
+      "quote": "A munkás értékét az osztályharc határozza meg",
+      "text": "Gazdasági ellentét alapja"
+    },
+    {
+      "id": "szocializmus-003",
+      "term": "Milyen lépések vezetnek a kommunista társadalomig a marxizmus szerint?",
+      "definition": "Kapitalizmus ellentmondásai kiéleződnek → proletariátus forradalma → magántulajdon szüntető proletárdiktatúra → szocializmus (még némi egyenlőtlenség) → végül kommunizmus (osztály- és államszüntetés).",
+      "quote": "Mindenkitől képességei szerint, mindenkinek szükséglete szerint",
+      "text": "A végső cél: osztály nélküli társadalom"
+    },
+    {
+      "id": "szocializmus-004",
+      "term": "Mi volt az utópista szocializmus és miért volt utópista?",
+      "definition": "A szocializmus korai, elméleti formája (Saint-Simon, Fourier, Owen), amely erkölcsi alapokon képzelt el igazságos társadalmat, de nem ismerte meg a kapitalista gazdaság belső törvényszerűségeit és gyakorlati megvalósításuk lehetetlen volt.",
+      "quote": "Eszményei voltak, de gyakorlati megvalósításuk hiányzott",
+      "text": "Közösségi idealisták"
+    },
+    {
+      "id": "szocializmus-005",
+      "term": "Mit kritizáltak a marxizmus ellen?",
+      "definition": "Túlzottan leegyszerűsítette a történelmet, figyelmen kívül hagyta az ember egyéni természetét és ambícióját, a proletárdiktatúra gyakorlata erőszakhoz vezetett, és nem számított a gazdasági fejlődés rugalmasságával.",
+      "quote": "Ideológia túl merev a valósággal szemben",
+      "text": "Marxizmus kritikái"
+    },
+    {
+      "id": "szocializmus-006",
+      "term": "szocializmus",
+      "definition": "Társadalmi és politikai eszmerendszer, amely az igazságos és egyenlő társadalom megteremtését tűzi ki célul, közösség érdekeit az egyéni érdekek fölé helyezve.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "szocializmus-007",
+      "term": "marxizmus",
+      "definition": "Karl Marx és Friedrich Engels által kidolgozott eszmerendszer, amely szerint a történelem az osztályharcok története és osztály nélküli társadalom megteremtése a cél.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "szocializmus-008",
+      "term": "osztályharc",
+      "definition": "A társadalmi csoportok közötti küzdelem, amelyet Marx a történelem fejlődésének mozgatórugójaként tekintett.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "szocializmus-009",
+      "term": "proletárdiktatúra",
+      "definition": "A proletariátus hatalmát biztosító átmeneti államforma a kapitalizmus és kommunizmus között; feladata a magántulajdon felszámolása.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "szocializmus-010",
+      "term": "kizsákmányolás",
+      "definition": "Az a gazdasági folyamat, amikor a tőkés a munkás által létrehozott értéktöbbletet sajátítja el; Marx szerint ez a kapitalizmus alapvető ellentmondása.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "szocializmus-011",
+      "term": "utópista szocializmus",
+      "definition": "A szocializmus korai, elméleti formája, amely eszményi alapon képzelt el igazságos társadalmat, gyakorlati megvalósítása nem volt lehetséges.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "szocializmus-012",
+      "term": "burzsoázia",
+      "definition": "A kapitalista társadalom vagyonos, tőkés osztálya, amely a termelőeszközök birtokosa.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "szocializmus-013",
+      "term": "proletár",
+      "definition": "Vagyoni tulajdonnal nem rendelkező, bérmunkából élő munkás; a kapitalista társadalom kizsákmányolt rétege.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "szocializmus-014",
+      "term": "falanszter",
+      "definition": "Utópikus közösségi településforma, amelyben az emberek kedvük és képességük szerint dolgoznak (Fourier elmélete).",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "szocializmus-015",
+      "term": "internacionalizmus",
+      "definition": "Nemzetközisség, a népek, főleg a munkások összefogásának eszméje; osztályhovatartozás fontosabb a nemzeti hovatartozásnál.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "szocializmus-016",
+      "term": "Kommunista Kiáltvány",
+      "definition": "Marx és Engels 1848-ban megjelent műve, amely a munkásosztály egységét és forradalmát hirdette.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "szocializmus-017",
+      "term": "történelmi materializmus",
+      "definition": "Marx történetfilozófiai elmélete: társadalmi változások alapja a gazdasági viszonyok, nem az eszmék.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "szocializmus-018",
+      "term": "Karl Marx",
+      "definition": "Német filozófus, közgazdász és forradalmár, a marxizmus megalkotója, 'Kommunista Kiáltvány' szerzője.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "szocializmus-019",
+      "term": "Friedrich Engels",
+      "definition": "Német filozófus és közgazdász, Marx legszorosabb munkatársa; közösen írták a 'Kommunista Kiáltványt'.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "szocializmus-020",
+      "term": "Henri de Saint-Simon",
+      "definition": "Francia gondolkodó (1760-1825), az utópista szocializmus egyik atyja; iparosok és tudósok kezébe adta volna az irányítást.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "szocializmus-021",
+      "term": "Charles Fourier",
+      "definition": "Francia utópista szocialista (1772-1837), a 'falanszterek' rendszere alapítója.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "szocializmus-022",
+      "term": "Robert Owen",
+      "definition": "Brit gyáros és reformer (1771-1858), rövidebb munkaidőt és jobb lakásokat biztosított; szövetkezeti falvakat alapított.",
+      "quote": "",
+      "text": ""
+    }
+  ]
+}

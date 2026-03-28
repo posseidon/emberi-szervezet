@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "hideghaboru-overview",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely évben kezdődött a hidegháború?",
+      "options": [
+        "1941",
+        "1945",
+        "1950",
+        "1960"
+      ],
+      "answer": "1945"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A hidegháború során a világ két _____ erőhatalom között megosztottá vált.",
+      "options": [],
+      "answer": "szuperhatalom"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Kik voltak a hidegháború főszereplői?",
+      "options": [
+        "Britannia és Franciaország",
+        "USA és Szovjetunió",
+        "Németország és Japán",
+        "Kína és Ázsia"
+      ],
+      "answer": "USA és Szovjetunió"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az _____ doctrine az amerikai katonai stratégia központja volt.",
+      "options": [],
+      "answer": "tartalmazás"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mit jelölt a Jalta konferencia?",
+      "options": [
+        "Békemegállapodás",
+        "Hidegháborúi kezdet",
+        "Katonai szövetség",
+        "Gazdasági egyezmény"
+      ],
+      "answer": "Hidegháborúi kezdet"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "Az _____ 1948-1949-ben a hidegháború első nyílt konfliktusa volt.",
+      "options": [],
+      "answer": "berlini blokád"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik szervezetet alapította meg az USA a NATO-t?",
+      "options": [
+        "1945",
+        "1947",
+        "1949",
+        "1951"
+      ],
+      "answer": "1949"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ Paktum a szovjet szövetséges rendszer volt.",
+      "options": [],
+      "answer": "Varsó"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Melyik nem volt a hidegháborús ideológiai ütközés alapja?",
+      "options": [
+        "Kapitalizmus vs Kommunizmus",
+        "Demokrácia vs Totalitarizmus",
+        "Individualizmus vs Kollektivizmus",
+        "Monarchia vs Köztársaság"
+      ],
+      "answer": "Monarchia vs Köztársaság"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az ENSZ _____ szervezet lett a hidegháború alatt.",
+      "options": [],
+      "answer": "párt"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Mit jelentett az 'Железный занавес' kifejezés?",
+      "options": [
+        "Vasárnapi szabad mozgás",
+        "Szovjet gazdasági lezárás",
+        "Keleti és nyugati szeparáció",
+        "Katonai határvonal"
+      ],
+      "answer": "Keleti és nyugati szeparáció"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ elszakitás _____ között zajlott a szovjet-kínai kapcsolatban.",
+      "options": [],
+      "answer": "szovjet-kínai"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik dátum jelöli a koreai háború kezdetét?",
+      "options": [
+        "1945",
+        "1950",
+        "1953",
+        "1960"
+      ],
+      "answer": "1950"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az Eisenhower-doktrína _____ védelmét volt hivatott biztosítani.",
+      "options": [],
+      "answer": "Közel-Keletre"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mi volt az 'Nagyobb Bretton Woods rendszer' kifejezés?",
+      "options": [
+        "Katonai szövetség",
+        "Pénzügyi-gazdasági alapok",
+        "Politikai egyezmény",
+        "Tudományos kooperáció"
+      ],
+      "answer": "Pénzügyi-gazdasági alapok"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A _____ tanfolyam szovjet politikai képzést biztosított.",
+      "options": [],
+      "answer": "szovjet"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik ország volt a NATO első bővítési kérdése?",
+      "options": [
+        "Izland",
+        "Itália",
+        "Danemarca",
+        "Görögország"
+      ],
+      "answer": "Danemarca"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ propaganda a hidegháború szellemi összecsapása volt.",
+      "options": [],
+      "answer": "szovjet-amerikai"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik ázsiai ország volt a hidegháborút kiváltó katonai támadás?",
+      "options": [
+        "Vietnám",
+        "Thaiföld",
+        "Korea",
+        "Japán"
+      ],
+      "answer": "Korea"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A Szovjetunió _____ alatt szerzett az első atombombát.",
+      "options": [],
+      "answer": "1949"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Mi volt a 'Red Scare' (Vörös Rémület)?",
+      "options": [
+        "Kommunista ágenziák",
+        "Szovjet invázió fenyegetése",
+        "Antikommunista pánik az USA-ban",
+        "Szovjet filmes propaganda"
+      ],
+      "answer": "Antikommunista pánik az USA-ban"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A _____ tervvel az USA segítette Európa gazdasági helyreállítását.",
+      "options": [],
+      "answer": "Marshall"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Melyik terület volt a hidegháború legszékletesebb lezárása?",
+      "options": [
+        "Európa",
+        "Ázsia",
+        "Afrika",
+        "Dél-Amerika"
+      ],
+      "answer": "Európa"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A hidegháború során _____ körül forog a verseny a technológiai előnyért.",
+      "options": [],
+      "answer": "űrprogram"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Melyik nem volt a hidegháborús konfrontáció szimbóluma?",
+      "options": [
+        "Berlini fal",
+        "Korea megosztása",
+        "Kuba válsága",
+        "Világgazdasági válság"
+      ],
+      "answer": "Világgazdasági válság"
+    }
+  ]
+}

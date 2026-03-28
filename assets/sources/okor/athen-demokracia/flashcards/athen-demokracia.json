@@ -1,0 +1,214 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Ekklészia",
+      "definition": "Az athéni demokrácia legfontosabb intézménye, ahol 20+ éves szabad polgárok részt vehettek a döntéshozatalban háborúról, békéről, törvényhozásról és tisztségviselőkről.",
+      "quote": "Az ekklészia az athéni nép szuverén testa volt",
+      "text": "Az ekklészia (népgyűlés) rendszerint a Pnyx dombon ülésezett, ahol körülbelül 6000 embert tudott befogadni. A döntések nyílt szavazás alapján születtek meg, ahol az egyszerű szótöbbség döntött. A napirend-tervezetet a Bulé (tanács) készítette elő."
+    },
+    {
+      "id": 2,
+      "term": "Bulé (Ötszázak tanácsa)",
+      "definition": "Az athéni demokrácia adminisztratív szerve, amely 500 tagból állt (10 phülé x 50 fő), sorsolás alapján évente kiválasztva, 30 év feletti polgárokból.",
+      "quote": "A Bulé az ekklészia munkáját előkészítette és felügyelte",
+      "text": "A Bulé a népgyűlés előkészítő testületeként működött és egy kifejezetten bizottságokból (prytaneia) álló struktúrával rendelkezett. Hatásköre volt a tisztviselők ellenőrzése, valamint a pénzügyek kezelése."
+    },
+    {
+      "id": 3,
+      "term": "Héliaia",
+      "definition": "Az athéni demokrácia igazságszolgáltatási szerve, amely körülbelül 6000 szavazóból állt, sorsolás alapján évente kiválasztva, és sok jogi ügyben döntött szavazat útján.",
+      "quote": "A héliaia az athéni igazságszolgáltatás alapja volt",
+      "text": "A héliaia (esküdtbíróság) tagjai heteroímosok (4000-6000 fő) voltak, akik szavaztottak a büntetési ügyeken. A procedúra rávid volt: vádló, vádlott, tanúk, majd a döntés. A szavazatok egyenlősége esetén az 'aqua' (víz, azaz szavazatvét) alapján döntöttek."
+    },
+    {
+      "id": 4,
+      "term": "Areioszpagosz",
+      "definition": "Az athéni társadalom felső intézménye, amely volt arkhónokból állt, és a legfontosabb és legsúlyosabb (hazaárulási) ügyekben döntött.",
+      "quote": "Az Areioszpagosz az athéni arisztokrácia maradványa volt",
+      "text": "Az Areioszpagosz (Ares hegye) helyzete a demokrácia fejlődésével csökkent. Eredetileg az arisztokrácia féltékén őrzött hatalmi szervezete volt, de a 5. sz.-ban Efialták reformjainak köszönhetően politikai jelentősége nagyrészt eltűnt."
+    },
+    {
+      "id": 5,
+      "term": "Arkhón",
+      "definition": "Az athéni államvezetés vezető tisztségviselője, eredetileg kilenc fő, évente sorsolás alapján kiválasztva, a demokrácia során azonban befolyása fokozatosan csökkent.",
+      "quote": "Az arkhónok az athéni kormányzat egykori fejedelmei voltak",
+      "text": "Az arkhónok (vezetők) között volt az eponymosz (névadó), az archón-basileus (a régi vallási feladatok kezelője), az polemarchos (katonai), és a hat themosteta (jogalkalmazók). A sorsolás egy demokrácia által preferált módszer volt, amely csökkentette a hatalomkoncentrációt."
+    },
+    {
+      "id": 6,
+      "term": "Tamiaszok",
+      "definition": "Az athéni pénzügyminiszterek, kincstárnokok, phülénként egy (összesen 10/év), akik a fülék közpénzét kezelték és a költségvetés feletti felügyeletet gyakorolták.",
+      "quote": "A tamiaszok az athéni pénzügyek irányítói voltak",
+      "text": "A tamiaszok (görögül: tamias = kincsestárnok) a pénzügyi rendszer alapját képezték. Felelőssége volt az adók beszedése, a közkiadások kezelése és a közgyűlés tájékoztatása a pénzügyi helyzetről. A sorsolás és az év végi elszámoltatás (euthyna) a korrupció megakadályozásának eszközei voltak."
+    },
+    {
+      "id": 7,
+      "term": "Sztratégosz",
+      "definition": "Az athéni demokráciában a tíz évente választott hadvezetők egyike, akik a sorsolás helyett választás alapján kerültek tisztségre, és újraválaszthatók voltak, jelentős politikai befolyással rendelkezve.",
+      "quote": "A sztratégoszok az athéni politika legbefolyásosabb szereplői voltak",
+      "text": "A sztratégoszok (hadúri) gyakorlatilag minden szabad polgár szavazatával választódtak meg. Politikai befolyásuk az évek során nőtt, és olyan vezetők, mint Periklész és Themisztoklész, sztratégoszok voltak. Az evonímosz sztratégosz (archon-strategos) a legmagasabb rangú volt."
+    },
+    {
+      "id": 8,
+      "term": "Szolón (Kr. e. 594)",
+      "definition": "Az athéni jogalkotó, aki a timokráciát (vagyoni rétegek szerinti jogrendszer) bevezette, eltörölte az adósrabszolgaságot, és népi bíróságokat (héliaia) hozott létre.",
+      "quote": "Szolón az athéni demokrácia első nagyreformere volt",
+      "text": "Szolón négy vagyoni osztályra osztotta a polgárokat vagyon alapján, és mindegyik réteg számára más politikai jogokat adott. Legfontosabb reformja az adósrabszolgaság eltörlése volt, amely megakadályozta, hogy a szegény polgárok eladják magukat rabszolgaként a munka miatt."
+    },
+    {
+      "id": 9,
+      "term": "Kleiszthenész (Kr. e. 508)",
+      "definition": "Az athéni demokratikus reformok végrehajtója, aki az attikai közigazgatást 10 phülére (fülé) osztotta fel, bevezette a cserépszavazást (osztrakiszmosz), és az arisztokrácia hatalmát csökkentette.",
+      "quote": "Kleiszthenész az athéni demokrácia igazi megalapozója volt",
+      "text": "Kleiszthenész reformjai a törzs-alapú aristokrata rendszert helyettesítette a földrajzi alapú phülei szervezettel. Ez meggátolta az egy család vagy törzs dominanciáját, és a keverés (mixis) elve alapján működött, hogy az arisztokrácia nem tudott teljesen kontrollálni a közigazgatást."
+    },
+    {
+      "id": 10,
+      "term": "Periklész (Kr. e. 444-429)",
+      "definition": "Az athéni demokrácia virágkora vezetője, aki napidíjat vezette be a tisztségviselőknek és az esküdtbíróság tagjainak, csökkentette a vagyoni szint követelményt a tisztséghez, és a déloszi szövetség vezetője volt.",
+      "quote": "Periklész az athéni demokrácia aranykora",
+      "text": "Periklész a stratégoszként gyakorlatilag folyamatos hatalmú volt, mivel újra és újra megválasztották. Politikája az athéni terjeszkedésre, a Parthenón és más grandiózus építkezésekre, valamint a népességi alapú demokráciamélyítésre irányult. Halála után (Kr. e. 429) Athén politikai egysége megromlott."
+    },
+    {
+      "id": 11,
+      "term": "Peiszisztratosz (Kr. e. 560-510)",
+      "definition": "Az athéni türannosz, akinek uralma kulturális és gazdasági fellendülést hozott, de az arisztokrácia által törvényellenesnek tekintett, uralma után az arisztokrácia visszatért a hatalomba.",
+      "quote": "Peiszisztratosz népbarát türannoszként uralkodott",
+      "text": "Peiszisztratosz a katonai megelőzés révén szerzett hatalmát, de populáris volt a közép- és alsóbb osztályok között. Pireusz fejlesztése, a kereskedelem fellendítése és a kultura támogatása jellemez uralmatát. Fia Hippasz azonban autokrata módon uralkodott, ami ellenkezésre vezetett."
+    },
+    {
+      "id": 12,
+      "term": "Drakón (Kr. e. 621)",
+      "definition": "Az athéni jogalkotó, aki az első írásos görög törvénykódexet alkotta meg, eltörölte a vérbosszú jogszokást, de szigorú büntetéseket vezet be (drákói szigor).",
+      "quote": "A drákói szigor az ókori szigor szimbóluma",
+      "text": "Drakón törvényi szigorára olyan nagy volt, hogy minden perc apró vétségre halálbüntetés járt. Elég komoly volt az első írásos törvényrendszer az ógörogségben, amely véget vetett az önkényes törvényhozatalnak."
+    },
+    {
+      "id": 13,
+      "term": "Demokrácia",
+      "definition": "Az athéni politikai rendszer, amely a szabad (férfi) polgárok közvetlen részvételén alapult a döntéshozatalban, ellentétben az arisztokrátikus vagy monarchikus rendszerrel.",
+      "quote": "Az athéni demokrácia az első közvetlen demokrácia volt",
+      "text": "Az athéni demokrácia nem volt teljesen egalitárius: nők, metoikoszok (betelepedett idegenek) és rabszolgák kizárva voltak. Azonban az включáert polgárok számára egyenlő szavazat- és beszédjoggal rendelkezett (isegória, parrhesía). Ez az alapja a modern demokráciakoncepciónak."
+    },
+    {
+      "id": 14,
+      "term": "Timokrácia",
+      "definition": "Szolón által bevezetett rendszer, ahol a politikai jogok a polgár vagyonától függtek; négy vagyoni osztály (pentakosiomednimnia, hippeis, zeugita, thetes) eltérő jogokkal rendelkezett.",
+      "quote": "A timokrácia a vagyon és a hatalom összekapcsolása",
+      "text": "A timokrácia (görögül: timé = becsület, azaz vagyon, kratos = hatalom) Szolón reformjainak lényege volt. Ez a rendszer fokozatosan elmosódott, és végül a sorsolás alapján kiválasztott tisztségviselőkre tértek át."
+    },
+    {
+      "id": 15,
+      "term": "Cserépszavazás (osztrakiszmosz)",
+      "definition": "Az athéni szavazási procedúra, ahol a polgárok száműzendő személyre szavaztak cserépre (ostrakonra) írva az nevet, a legmagasabb szavazatszámú személy 10 évet száműzetésbe vágott.",
+      "quote": "Az osztrakiszmosz a demokratikus önvédelem eszköze volt",
+      "text": "Az osztrakiszmosz Kleiszthenész által bevezetett eljárás volt, amely azt a célt szolgálta, hogy megakadályozza az egyik személy túlméretes hatalmán. Azonban a Kr. e. 5. sz. közepén elhagyták ezt a gyakorlatot, mivel úgy látták, hogy a nép túlságosan kiszámítható szavazási viselkedést mutat."
+    },
+    {
+      "id": 16,
+      "term": "Phülé (Fülé)",
+      "definition": "Az athéni közigazgatási egység, amelyek Kleiszthenész által bevezette 10 phüléből állt, föld- és népességalap szerint szervezve, az arisztokrata túlhatalom csökkentésének eszközeként.",
+      "quote": "A phülé az athéni közigazgatás alapegysége volt",
+      "text": "A phülé (görögül: szertartás, nép) Kleiszthenész által kifejlesztett földrajzi alapú szervezeti egység volt, amely az athéni területet feldarabolta. Minden phülé 50 tagot adott a Bulének (tanácsnak), ezáltal biztosítva az arisztokrácia szétforgácsolódását."
+    },
+    {
+      "id": 17,
+      "term": "Metoikosz",
+      "definition": "Az ógörög és főként athéni társadalomban a betelepedett idegenek, akik gazdaságilag és társadalmilag aktívak voltak, de politikai jogokkal nem rendelkeztek.",
+      "quote": "A metoikoszok az athéni gazdaság fontos pillérei voltak",
+      "text": "A metoikoszok (görögül: meta = mellett, oikein = lakni) között sok kereskedő, kézműves és művész volt. Gazdaságükhoz megadó (metoikion) hozzájárulást kellett fizetniük az államnak. Nem voltak jogosultak ekklézián való részvételre vagy katonai szolgálatra."
+    },
+    {
+      "id": 18,
+      "term": "Rabszolga",
+      "definition": "Az ógörög társadalom legalsó rétege, akik jogi és tulajdoni meghatározás szerint a gazdájuk teljes tulajdonukban voltak, és semmilyen politikai jogokkal nem rendelkeztek.",
+      "quote": "A rabszolgák az ógörög gazdaság alapját képezték",
+      "text": "Az athéni rabszolgák rendszerint közvetett szolgaként, házasszolgálóként vagy kézműipari munkásként dolgoztak. Sok rab volt háborús foglyok vagy adósságok miatt, de volt vásárolt rabszolga is. A rabszolgaság intézménye az ógörogség összes poliszát jellemezte."
+    },
+    {
+      "id": 19,
+      "term": "Polisz",
+      "definition": "Az ógörög városállam, amely a város, a város körülötte lévő vidék, valamint az itt lakó szabad polgárok közösségéből állt, és autonóm politikai egységként működött.",
+      "quote": "A polisz az ógörög politikai világ alapegysége volt",
+      "text": "A polisz szó görögül várost jelent, de az ógörogség összesen körülbelül 1200 független poliszra osztott szét Görögországban, Kis-Ázsiában és a Fekete-tenger parti területeken. Mindegyik polisz saját törvényeket, saját hadseregét és saját vallási szokásait tartotta."
+    },
+    {
+      "id": 20,
+      "term": "Arisztokrácia",
+      "definition": "Az ógörög társadalom felső rétege, amely gazdag földbirtokosokból állt, és hosszú ideig politikát uralta, a demokrácia kialakulása után azonban hatalmát fokozatosan vesztette.",
+      "quote": "Az arisztokrácia az ógörög politika hosszú ideig dominanciáját tartotta",
+      "text": "Az arisztokrácia (görögül: aristoi = legjobbak, kratos = uralom) az ógörögségben az antik világ típusos befolyásos rétege volt. Athénban az arisztokrácia Szolón és Kleiszthenész reformjai után fokozatosan vesztette el politikai monopoliumát, de gazdasági hatalmát még sokáig megtartotta."
+    },
+    {
+      "id": 21,
+      "term": "Marathóni csata (Kr. e. 490)",
+      "definition": "Az athén és a spártaiak által közösen megnyert csata a perzsák ellen, ahol a görög hoplita lándzsa-taktika győzedelmeskedett a perzsai lovasság és íjászat felett.",
+      "quote": "A marathóni csata az ógörög szabadság megmentésének pillanata volt",
+      "text": "A marathóni csatában (Kr. e. 490. szeptember) az athéniak vezetője Miltiadész volt, és körülbelül 10 000 görög katona 25 000 perzsát legyőzött. A csata után egy athéni futó körülbelül 42 km-t fut vissza Athénba az éppen győzelem hírével ('marathon futás'). Ez a csata a görög szabadság szimbóluma lett."
+    },
+    {
+      "id": 22,
+      "term": "Peloponnészoszi háború (Kr. e. 431-404)",
+      "definition": "Az athén és szövetsége (Athéni Tengeri Szövetség) és Spárta és szövetsége (Peloponnészoszi Liga) között zajló legyőzős háború, amely Athén hanyatlásához vezetett.",
+      "quote": "A peloponnészoszi háború az ógörög világ leghosszabb háborúja volt",
+      "text": "A peloponnészoszi háborút Periklész-ház és Spárta vezette, és egy két évtizedes küzdelembe torkollt. Az athént végül legyőzték (Kr. e. 404), elveszítette tengeri hegemóniáját és politikai vezető szerepét. A háború után Spárta és később Macedónia lett az ógörogség vezető ereje."
+    },
+    {
+      "id": 23,
+      "term": "Athén",
+      "definition": "A görög poliszok közül az egyik legfontosabb, amelyet az Attikai-félszigeten alapítottak, és amely a demokrácia született helye, valamint a görög filozófia és kultúra központja volt.",
+      "quote": "Athén az ógörög civilizáció fénye volt",
+      "text": "Athén a jón törzs által alapított város volt, amely a tengerpart és termőföld közötti szerencsés helyzetű volt. Vezetők úgy mint Szolón, Kleiszthenész és Periklész és filozófusok úgy mint Szókratész és Platón Athénban tevékenykedtek. A város a Parthenón, a Piréusz kikötő, és a szofisztikus oktatás központja volt."
+    },
+    {
+      "id": 24,
+      "term": "Spárta",
+      "definition": "Az ógörögség másik nagyhatalmú polisza, amely szigorú katonai szellem alapján szerveződött, és a peloponnészoszi liga vezetője volt, de a demokrácia helyett egy arisztokratikus rendszert fenntartott.",
+      "quote": "Spárta az ógörög katonai közösség ideálja volt",
+      "text": "Spárta az és a két király által vezetett oligarchiára épült. Szigorú katonai nevelésű (agógé) és férfikozpont társadalmáról volt ismert. Az athéni demokrácia és spártai oligarchia összeütközése a görög világot több mint kétszáz évre megosztotta."
+    },
+    {
+      "id": 25,
+      "term": "Demokratikus intézmények",
+      "definition": "Az athéni demokrácia szervezeti szerkezetei, többek között az ekklészia (népgyűlés), bulé (tanács), héliaia (esküdtbíróság), arkhónok (tisztségviselők) és sztratégoszok (hadvezetők).",
+      "quote": "Az athéni demokratikus intézmények a modern demokrácia alapjai",
+      "text": "Az athéni demokratikus intézmények rendszere az első közvetlen demokráciának tekinthető. Az intézmények sorsolás (véletlenszerűség) és választás (alapított választás) kombinációjára épültek, hogy megakadályozzák az erőltetett uralmat egy személy vagy egy csoport által."
+    },
+    {
+      "id": 26,
+      "term": "Szolón",
+      "definition": "Az athéni jogalkotó (Kr. e. 594), aki a timokráciát bevezette, eltörölte az adósrabszolgaságot, és népi bíróságokat (héliaia) hozott létre, amely a demokratikus reformok alapját képezte.",
+      "quote": "Szolón az athéni demokrácia első nagyreformere volt",
+      "text": "Szolón reformjainak célja az volt, hogy a polgárokat segítse meg, akik adósságok miatt rabszolgaságba kerültek. Magánpropoganda és szavazásjoga alapjaként működött, amely az athéni demokrácián belül egy középréteg létrehozásához vezetett."
+    },
+    {
+      "id": 27,
+      "term": "Napidíj (misthos)",
+      "definition": "Az athéni demokrácia során Periklész által bevezetett rendszer, amely pénzeti kompenzációt biztosított a tisztségviselőknek és az esküdtbíróság tagjainak, lehetővé téve az alsóbb vagyoni osztályzat részvételét a közügyek irányításában.",
+      "quote": "A napidíj a demokrácia szociális alapja lett",
+      "text": "A napidíj (misthos) rendszere lehetővé tette az szegényebb polgárok számára, hogy napi munkavégzés nélkül részt vegyenek a demokratikus intézményekben. Ez fokozatosan az athéni demokrácián belül egy szociális balanszáló rendszert teremtett."
+    },
+    {
+      "id": 28,
+      "term": "Válogatódási eljárás (sortio)",
+      "definition": "Az athéni demokrácián belül alkalmazott módszer, amely sorsolás alapján választotta ki az állampolgárokat a közügyek irányítására, csökkentve az erőforrás-központosítás lehetőségét.",
+      "quote": "A sorsolás a demokratikus egyenlőség szimbóluma volt",
+      "text": "Az athéni sorsolás (sorció) egy az alapformájában egyenlőségre épülő eljárás volt. Az arkhónok és a héliaia tagjai sorsolás alapján választódtak meg, de a sztratégoszok és a napidíj alapon választott tisztségviselők választás útján kerültek kiválasztásra."
+    },
+    {
+      "id": 29,
+      "term": "Fülei összetétele",
+      "definition": "Az athéni phülé szerkezete az, hogy mindegyik 10 phülé körülbelül 1200-1500 szabad polgárt tartalmazott, és mindegyik 50 tagot adott a Bulé tanácsnak.",
+      "quote": "A phülé az athéni közigazgatás alapegységei voltak",
+      "text": "Az athéni phülé-rendszer Kleiszthenész által bevezetett volt, hogy az arisztokrata túlhatalom csökkentse. Az összevetítési (mixis) elv alapján az elkezei phülék földrajzi alapon voltak szervezve, és a demokratikus részvételt biztosítottak."
+    },
+    {
+      "id": 30,
+      "term": "Periklésze",
+      "definition": "Az athéni demokrácia virágkora (Kr. e. 444-429), amikor Periklész stratégoszként gyakorlatilag az athéni politika vezetője volt, és olyan grandiózus építkezéseket támogatott, mint a Parthenón.",
+      "quote": "Az aranykora időszaka az athéni demokrácia legfennsége",
+      "text": "A Periklésze időszakában Athén kulturális és politikai csúcspontjára jutott. A Parthenón, az Erektheión, az Agorai Stonai és más műalkotások ebből az időszakból származnak. Periklész halála után Athén politikai irányultsága az Alkibiadész és másik demagóg alatt változó lett."
+    }
+  ]
+}

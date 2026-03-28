@@ -1,0 +1,112 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "elso-ipari-forradalom",
+  "title": "Az első ipari forradalom",
+  "flashcards": [
+    {
+      "id": "elso-ipari-forradalom-001",
+      "term": "Miért Angliában kezdődött az ipari forradalom?",
+      "definition": "Anglia rendelkezett a szükséges feltételekkel: fejlett bancking/tőke, nyersanyagok (vas, szén, gyapot), külső piacok a gyarmatbirodalom révén, felvilágosodás-korabeli tudósok és mérnökök, és a szabad kereskedelem támogatása.",
+      "quote": "Technológia + Tőke + Piac = Forradalom",
+      "text": "Az ipari forradalom kialakulásának okai"
+    },
+    {
+      "id": "elso-ipari-forradalom-002",
+      "term": "Hogyan változtatta meg James Watt gőzgépei az termelési képességeket?",
+      "definition": "Watt továbbfejlesztett gőzgépje (1769) sokkal erősebbé és gazdaságosabbá vált, így nem csupán szénbánya-víztelenítésre, hanem a pamutgyártás, vasipar és közlekedésben is alkalmazható volt. Ez lehetővé tette a gépi gyártás elterjedését.",
+      "quote": "Gőz = az ipar szíve",
+      "text": "A gőzgép forradalma"
+    },
+    {
+      "id": "elso-ipari-forradalom-003",
+      "term": "Milyen szociális következménye volt az ipari forradalmanak?",
+      "definition": "Hatalmas városiasodás, szegénység és munkáslakónegyedek növekedése, hosszú munkaidő (12-16 óra), alacsony bér, gyermekmunka, balesetveszélyes munkakörülmények. Ezek a problémák később szocialista mozgalmakat szültek.",
+      "quote": "Gép = pénz, de ember = rabszolga",
+      "text": "Az ipari forradalom árnyoldala"
+    },
+    {
+      "id": "elso-ipari-forradalom-004",
+      "term": "Mit jelent a 'közlekedési forradalom' és milyen hatása volt a gazdaságra?",
+      "definition": "A gőzmozdony (Stephenson) és gőzhajó (Fulton, Brunel) megjelenésével a szállítás gyorsabbá, olcsóbbá és megbízhatóbbá vált. Ez globális kereskedelem és nyersanyag-beszerzés felgyorsítást tette lehetővé, így a gyárak termelését növelhették.",
+      "quote": "Közlekedés = globális kereskedelem",
+      "text": "A vasút és hajó jelentősége"
+    },
+    {
+      "id": "elso-ipari-forradalom-005",
+      "term": "Melyik iparág volt az első ipari forradalom középpontjában és miért?",
+      "definition": "A pamutgyártás, mivel nagy kereslet volt rá, már gyarmatokból könnyedén beszerezhető a nyersanyag, és az új gépek (spinning jenny, power loom) radikális termelésincrement-et tették lehetővé.",
+      "quote": "Pamutipar = a haladás motora",
+      "text": "A pamutgyártás szerepe"
+    },
+    {
+      "id": "elso-ipari-forradalom-006",
+      "term": "ipari forradalom",
+      "definition": "A termelés gépi forradalmasítása a 18-19. században, amely az agrár-alapú társadalmakat ipari-alapúakká alakította.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "elso-ipari-forradalom-007",
+      "term": "gőzmozdony",
+      "definition": "James Watt gőzgépének alkalmazása a szállításon; forradalmasította a közlekedést és kereskedelmet.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "elso-ipari-forradalom-008",
+      "term": "pamutgyártás",
+      "definition": "Az ipari forradalom középpontjában állt; spinning jenny, power loom és más gépek megjelenésével termelés ugrásszerűen nőtt.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "elso-ipari-forradalom-009",
+      "term": "szénbányászat",
+      "definition": "Az ipari forradalom energetikai alapja; gőzgépek miatt szénutálás rohamosan nőtt.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "elso-ipari-forradalom-010",
+      "term": "közlekedési forradalom",
+      "definition": "Gőzmozdonyt (Stephenson), gőzhajót (Fulton, Brunel) létrejöttének következménye: globális kereskedelem felgyorsult.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "elso-ipari-forradalom-011",
+      "term": "városiasodás",
+      "definition": "Az ipar következménye: munkások városokba vonultak, nagyvárosok nőttek, szociális problémák jelentek meg.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "elso-ipari-forradalom-012",
+      "term": "munkaerő-kizsákmányolás",
+      "definition": "Az ipari munkások rossz munkakörülményeibe, hosszú munkaidőbe, alacsony bérbe; gyermekmunka járult.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "elso-ipari-forradalom-013",
+      "term": "Anglia",
+      "definition": "Az ipari forradalom bölcsője, megvolt az ő technológiája, tőkéje, nyers anyagai és piaca.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "elso-ipari-forradalom-014",
+      "term": "James Watt",
+      "definition": "Az továbbfejlesztett gőzgép feltalálója (1769), amely az ipari forradalom műszaki alapját teremtette meg.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "elso-ipari-forradalom-015",
+      "term": "George Stephenson",
+      "definition": "A gőzmozdony (Rocket) megalkotója, aki az első vasútvonalat (Stockton-Darlington, 1825) nyitotta meg.",
+      "quote": "",
+      "text": ""
+    }
+  ]
+}

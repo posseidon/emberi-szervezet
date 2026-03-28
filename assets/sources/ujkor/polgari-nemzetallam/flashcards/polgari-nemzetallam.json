@@ -1,0 +1,98 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "polgari-nemzetallam",
+  "title": "A polgári nemzetállam",
+  "flashcards": [
+    {
+      "id": "polgari-nemzetallam-001",
+      "term": "Mit értünk a polgári nemzetállam fogalmán és miért volt a XIX. század jellemzője?",
+      "definition": "A polgári nemzetállam olyan politikai egység, amelyben az állam határai egybeesnek a nemzet közösségével. A XIX. században a nacionalizmus ezt tűzte ki célul. Bismarck német egysége, Garibaldi olasz egysége és az USA polgárháborúja ezt demonstrálták.",
+      "quote": "Egy nemzetnek egy állama",
+      "text": "Nemzetállam fogalma"
+    },
+    {
+      "id": "polgari-nemzetallam-002",
+      "term": "Hogyan valósult meg a német egység Bismarck alatt és milyen volt a módszere?",
+      "definition": "Bismarck, a porosz miniszterelnök 'Eisen und Blut' (vas és vér) politikájával harcolt. Először Dániával, majd Ausztriával, végül Franciaországgal vívott háborúkat, amelyekben a porosz erő az összes német államot egy birodalom alá egyesítette. 1871-ben kikiáltotta a Német Birodalmat.",
+      "quote": "Nem szavakkal, hanem vérrel és vassal",
+      "text": "Bismarck és a német egység"
+    },
+    {
+      "id": "polgari-nemzetallam-003",
+      "term": "Mi volt az amerikai polgárháború oka és jelentősége?",
+      "definition": "1861-1865: az Unió és a rabszolgatartó Dél-államok Konföderációja közötti háború. Az Unió (Lincoln alatt) legyőzte a Déleket, megakadályozva az államok szétválását. Lincoln 'Emancipáció Nyilatkozata' (1863) felszabadította a rabszolgákat, így az USA egységes, egységes nemzeti államként maradhatott.",
+      "quote": "Union and Freedom",
+      "text": "USA polgárháborúja"
+    },
+    {
+      "id": "polgari-nemzetallam-004",
+      "term": "Hogyan zajlott az olasz egység és kik voltak főszereplői?",
+      "definition": "Cavour és Garibaldi vezette az olasz egység megvalósítását. Cavour diplomáciai úton szerzett támogatást, Garibaldi a 'Duemila vörös ingese' (Ezer vörös inge) hadseregével délről egyesült az országot. 1870-ben Róma városának elleni pápai állam meghódítása teljesítette az egységet.",
+      "quote": "Italia una e libera",
+      "text": "Az olasz egység megvalósulása"
+    },
+    {
+      "id": "polgari-nemzetallam-005",
+      "term": "Mit jelent az 'Emancipáció Nyilatkozata' és milyen volt Lincoln jelentősége?",
+      "definition": "Lincoln 1863. szeptember 22-én kihirdette az 'Emancipáció Nyilatkozatát', amely az Unióban felszabadította a rabszolgákat. Ez nem csupán erkölcsi, hanem stratégiai lépés is volt a polgárháborúban. Lincoln így biztosította az Unió diadalát és az egységes, szabad amerikaniság megmaradását.",
+      "quote": "Függetlenség minden emberre",
+      "text": "Lincoln és a rabszolga-felszabadítás"
+    },
+    {
+      "id": "polgari-nemzetallam-006",
+      "term": "nemzetállam",
+      "definition": "Olyan politikai egység, amelyben az állam határai egybeesnek a nemzet közösségével; a XIX. századi nacionalizmus fő célja.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "polgari-nemzetallam-007",
+      "term": "német egység",
+      "definition": "Bismarck vezetésével 1871-ben létrejött az egységes Német Birodalom Prussia hegemóniája alatt.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "polgari-nemzetallam-008",
+      "term": "olasz egység",
+      "definition": "1870-ben Róma városának egyesítésével teljesedett be Olaszország egységesítése.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "polgari-nemzetallam-009",
+      "term": "amerikai polgárháború",
+      "definition": "1861-1865: az Unió és a Konföderáció közötti háború az egység és rabszolgaság kérdésében.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "polgari-nemzetallam-010",
+      "term": "Bismarck Otto von",
+      "definition": "Porosz és német államférfi, a német egység megvalósítója, 'Eisen und Blut' politikájával.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "polgari-nemzetallam-011",
+      "term": "Lincoln Abraham",
+      "definition": "Az USA 16. elnöke, a polgárháborúban az egységes unió megvédője, rabszolgaság eltörlésé ér.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "polgari-nemzetallam-012",
+      "term": "Cavour Camillo",
+      "definition": "Olaszországi államférfi, az olasz egység megvalósítójának egyike.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "polgari-nemzetallam-013",
+      "term": "Garibaldi Giuseppe",
+      "definition": "Olasz forradalmi comandante, az Egyesült Államok '1000 vörös ingese'.",
+      "quote": "",
+      "text": ""
+    }
+  ]
+}

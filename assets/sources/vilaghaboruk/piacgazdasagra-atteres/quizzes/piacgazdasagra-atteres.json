@@ -1,0 +1,246 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "piacgazdasagra-atteres",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Mely év jelöli Magyarország piacgazdaságra való áttérésé kezdetét?",
+      "options": [
+        "1988",
+        "1989",
+        "1990",
+        "1991"
+      ],
+      "answer": "1990"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ gazdasági szerkezetváltást hozta Magyarországra.",
+      "options": [],
+      "answer": "piacgazdaság"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Mi volt az első nagy gazdasági krízis az átmenet alatt?",
+      "options": [
+        "Devalváció",
+        "20%-os GDP csökkenés",
+        "Munkanélküliség ugrása",
+        "Infláció robbanása"
+      ],
+      "answer": "20%-os GDP csökkenés"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az _____ 1991-ben elérte a 35%-ot Magyarországon.",
+      "options": [],
+      "answer": "infláció"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mit jelent a 'privatizáció' az átmenet kontextusában?",
+      "options": [
+        "Állami vagyon szocialista irányba",
+        "Állami vagyon magánkézbe adása",
+        "Gazdasági szabályozás",
+        "Katonai kontrollurlala"
+      ],
+      "answer": "Állami vagyon magánkézbe adása"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ privatizáció kezdetben néhány vállalat saját döntésén alapult.",
+      "options": [],
+      "answer": "spontán"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Melyik kormány felgyorsította a privatizációt Magyarországon?",
+      "options": [
+        "Antall-kormány",
+        "Horn-kormány",
+        "Orbán-kormány",
+        "Bajnai-kormány"
+      ],
+      "answer": "Horn-kormány"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ külföldi befektetők voltak a privatizáció során nyertesei.",
+      "options": [],
+      "answer": "nagyobb"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mit jelent a 'kárpótlási jegy' rendszer?",
+      "options": [
+        "Munkabér kompenzáció",
+        "Államosítási károk részleges jóvátétele",
+        "Gazdasági támogatás",
+        "Szovjet fizetség"
+      ],
+      "answer": "Államosítási károk részleges jóvátétele"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az _____ 1991 óta a magyar tőzsde fő mutatója.",
+      "options": [],
+      "answer": "BUX-index"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Melyik terület volt az első, ahonnan távoztak a szovjet katonák?",
+      "options": [
+        "Közép-Magyarország",
+        "Dunántúl",
+        "Felvidék",
+        "Éjszak"
+      ],
+      "answer": "Dunántúl"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ munkanélküliség 1993-ban érte el a csúcspontját.",
+      "options": [],
+      "answer": "12%"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik iparág fejlődött dinamikusan az áttérés alatt?",
+      "options": [
+        "Mezőgazdaság",
+        "Szénbányászat",
+        "Autóipar",
+        "Kohászat"
+      ],
+      "answer": "Autóipar"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "A _____ szolgáltatások váltak a gazdaság legpezsgőbb szektora.",
+      "options": [],
+      "answer": "moderné"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Mit jelent az 'KGST felbomlása' Magyarország számára?",
+      "options": [
+        "Gazdasági növekedés",
+        "Keleti piac elvesztése",
+        "Szovjet támogatás",
+        "Kínai integráció"
+      ],
+      "answer": "Keleti piac elvesztése"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az _____ államoknak voltak az első befektetői Magyarországnak.",
+      "options": [],
+      "answer": "nyugat-európai"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik országot vezette az EU integrációba Magyarország?",
+      "options": [
+        "Németország",
+        "Ausztria",
+        "Franciaország",
+        "Hollandia"
+      ],
+      "answer": "Ausztria"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ 1999-re sikerült elérni az 1989-es szintet piacgazdaságilag.",
+      "options": [],
+      "answer": "GDP"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Melyik nem volt az átmenet gazdasági jellemzője?",
+      "options": [
+        "GDP visszaesés",
+        "Infláció",
+        "Munkanélküliség növekedése",
+        "Gazdasági gyors növekedés"
+      ],
+      "answer": "Gazdasági gyors növekedés"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "A _____ százalékára csökkent a mezőgazdaság a gazdaságban.",
+      "options": [],
+      "answer": "5"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik multinacionális cég volt az első nagy befektetőt Magyarországon?",
+      "options": [
+        "Audi",
+        "Suzuki",
+        "Opel",
+        "Volkswagen"
+      ],
+      "answer": "Suzuki"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az _____ szövetsege, a Németország vezette Magyarország gazdasági fejlődését.",
+      "options": [],
+      "answer": "nyugati"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Melyik volt az egyik fő gazdasági kihívás az átmenet alatt?",
+      "options": [
+        "Szovjet versenyzés",
+        "Nyugati dominancia feloldása",
+        "Gazdasági szerkezetváltás",
+        "Katonai költségvetés"
+      ],
+      "answer": "Gazdasági szerkezetváltás"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "A _____ 2004-re történt meg Magyarország EU-csatlakozása.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Mit jelent a 'szociális piacgazdaság' elmélete az átmenetben?",
+      "options": [
+        "Tiszta szocializmus",
+        "Állam által szabályozott piacgazdaság szociális védelemmel",
+        "Teljes liberalizmus",
+        "Kínai modell"
+      ],
+      "answer": "Állam által szabályozott piacgazdaság szociális védelemmel"
+    }
+  ]
+}

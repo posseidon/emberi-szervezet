@@ -1,0 +1,77 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "reformkor-kerdesek",
+  "title": "Reformkor – Kérdések és viták",
+  "flashcards": [
+    {
+      "id": "reformkor-kerdesek-001",
+      "term": "Mi volt a jobbágy-felszabadítás és miért volt vita tárgyává a reformkor során?",
+      "definition": "A jobbágyfelszabadítás a reformkor központi kérdése volt: a jobbágyok feudális kötelezettségeinek (terményadó, robot, szolgáltatások) eltörlése és szabad emberként való elismerése. Vita: ha felszabadul, a föld tulajdonjogára jog-e, vagy csak egyéni szabadság?",
+      "quote": "Szabadság + föld = teljes felszabadítás",
+      "text": "A jobbágy-felszabadítás kérdése"
+    },
+    {
+      "id": "reformkor-kerdesek-002",
+      "term": "Miért volt a magyar nyelvezet fontossá a reformkor során?",
+      "definition": "A reformkor során a magyar nyelv propagálása a nemzeti identitás kiépítésének eszközéül szolgált. Költségvetési csatározások: magyar legyen a közigazgatás, oktatás, bíróságok nyelvé? Ez nemcsak nyelvéseti, hanem politikai kérdés volt.",
+      "quote": "Nyelvezet = nemzeti öntudat",
+      "text": "A magyar nyelvezet kérdése"
+    },
+    {
+      "id": "reformkor-kerdesek-003",
+      "term": "Mit ért a 'közteherviselés' követelménye és miért volt vitatott?",
+      "definition": "A közteherviselés: minden állampolgár (nemesek is) viseljen az állam fenntartásához szükséges terhet (adó, katonai szolgálat) képességei szerint. A nemesség számára ez hatalmas privilégium-vesztés volt, mert korábban szabad voltak az adótól.",
+      "quote": "Adó = minden nemes számára",
+      "text": "Közteherviselés"
+    },
+    {
+      "id": "reformkor-kerdesek-004",
+      "term": "Mi volt az 'államtalanság' kérdése és hogyan oldódott 1867-ben?",
+      "definition": "Az 1867 előtt Magyarország nem volt önálló állam, csak az Osztrák Birodalom személyzési uniójában (közös királyság). Az 1848-as forradalom függetlenségét követelTE. Az 1867-es Kiegyezés kompromisszum: Magyarország saját kormányzatot kapott, de közös királyság maradt.",
+      "quote": "Kettős koronás megoldás",
+      "text": "Az államtalanság problémája"
+    },
+    {
+      "id": "reformkor-kerdesek-005",
+      "term": "Mi volt a nemzetiségi kérdés a reformkor során?",
+      "definition": "A reformok során a nemzetiségek (szerbek, románok, szlovákok) helyzete vitatott volt. Vajon felszabadul jobbágyok később a magyar asszimilációhoz szálljanak-e, vagy saját nemzeti identitásukat őrizik? Ez a kérdés végül nem lett megoldva, és a dualizmus korában nemzeti mozgalmakra vezetett.",
+      "quote": "Egy nacionalizmus több nemzetiség között",
+      "text": "A nemzetiségi kérdés"
+    },
+    {
+      "id": "reformkor-kerdesek-006",
+      "term": "jobbágy-felszabadítás",
+      "definition": "A reformkor központi kérdése: a jobbágyok feudális kiváltságainak eltörlése és jogi egyenlőségének biztosítása.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "reformkor-kerdesek-007",
+      "term": "magyar nyelvezet",
+      "definition": "A reformkor során a magyar nyelv előmozdítása a közigazgatásban, oktatásban és közéletben; fontossá válása a nemzeti identitásnak.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "reformkor-kerdesek-008",
+      "term": "közteherviselés",
+      "definition": "A jobbágyfelszabadítás melletti követelmény: a nemesség is viseljen az állami terheket (adó, katonai szolgálat).",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "reformkor-kerdesek-009",
+      "term": "államtalanság",
+      "definition": "Az 1867 előtt Magyarország csak az Osztrák Birodalom személyzési uniójában állt; önálló állam-státusza vita tárgyát képezte.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "reformkor-kerdesek-010",
+      "term": "nemzetiségi kérdés",
+      "definition": "Hogyan vegyüljenek bele a nemzetiségek a reformok által megteremtendő polgári magyar államba?",
+      "quote": "",
+      "text": ""
+    }
+  ]
+}

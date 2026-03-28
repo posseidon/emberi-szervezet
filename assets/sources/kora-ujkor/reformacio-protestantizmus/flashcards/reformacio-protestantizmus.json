@@ -1,0 +1,109 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Reformáció",
+      "definition": "16. századi vallási megújulási mozgalom, amely Luther Márton 1517-es 95 tézisével kezdődött. Célja a katolikus egyház visszaéléseinak orvoslása és a hit tisztasága volt.",
+      "quote": "Sola fide, sola gratia, sola Scriptura",
+      "text": "A reformáció szétszakította az egyházi egységet Európában, három fő ágra oszolva: lutheránus, kálvinista és anglikán. Hatása nem csak vallási volt: politikai, szociális és kulturális forradalmot indított el."
+    },
+    {
+      "id": 2,
+      "term": "95 tézis",
+      "definition": "Luther Márton 1517-ben kiadott nyilatkozata, amely elsősorban a búcsúcédulák árusítása ellen szólt. A tézisek nyilvánosságra hozása indította el a reformációt.",
+      "quote": "A vita kezdete",
+      "text": "Luther nem fordított egy új vallást alapítani, hanem vitát szeretett volna kezdeményezni az egyház megújításáról. A tézisek latin nyelvűek voltak és egyetemi vita tárgyának szánva, de a könyvnyomtatás miatt gyorsan terjed az egész keresztény világban."
+    },
+    {
+      "id": 3,
+      "term": "Búcsúcédula",
+      "definition": "A római egyház által pénzért árusított okmány, amely a tisztítótűzben letöltendő bűnbocsánat alóli feloldozást ígért. Ezt az gyakorlatot Luther leghatározottabban támadta.",
+      "quote": "A hit nem kapható pénzért",
+      "text": "A búcsúcédulák rendszere a 16. század elején odáig fajult, hogy pápai udvar finanszírozása is ezektől függött. A gyakorlat korrupcióját és a vallási ügyek kommercionalizációját jól mutatja."
+    },
+    {
+      "id": 4,
+      "term": "Sola fide",
+      "definition": "Luther alapelve, mely szerint egyedül a hit üdvözít, nem a jócselekedetek vagy az egyházi előírások betartása.",
+      "quote": "A hit megigazít",
+      "text": "Ez az elv radikálisan eltért a katolikus tanítástól, amely a hit mellett a cselekedetek (jótékonykodás, böjtölés, egyházi obediencia) fontosságát hangsúlyozta. Luther szerint az Isten kegyelme ingyenes ajándék, amelyet senki sem kereshet meg."
+    },
+    {
+      "id": 5,
+      "term": "Sola Scriptura",
+      "definition": "Luther alapelve, mely szerint az Írás az egyetlen hitbeli tekintély. Minden hagyomány és pápai határozat ennek fényében ítélendő meg.",
+      "quote": "Csak a Biblia",
+      "text": "Ez az elv legalapozta a protestáns bibliai tudatosságot. A Biblia nemzeti nyelvekre fordítása és a könnyen elérhető elérhetősége központi célokká váltak. Megindul az állami támogatás alatt a nemzeti biblia-fordítási próbálkozások."
+    },
+    {
+      "id": 6,
+      "term": "Sola gratia",
+      "definition": "Luther alapelve, mely szerint az üdvösség kizárólag az Isten kegyelmétől függ. Az ember saját erejéből nem érdemelheti ki.",
+      "quote": "Csak az Isten kegyelme",
+      "text": "Ez az elv az emberi szellem szabadságot és az Isten előmineosságát hangsúlyozta. A человека felelősségen csökkentette, mivel a megváltás Isten ajándéka, nem pedig a morális teljesítmény jutalma."
+    },
+    {
+      "id": 7,
+      "term": "Kálvinizmus",
+      "definition": "Kálvin János által kifejlesztett reformációs irányzat, amely a predesztinációt és a szigorú erkölcsi rendet hangsúlyozza. A kálvinizmus a polgári önszerveződés és az alkotmányos gondolkodás előfutárává vált.",
+      "quote": "Predesztináció és erkölcs",
+      "text": "Kálvin Genfben teokratikus berendezkedést hozott létre. A kálvinizmus különös vonása a munkamorál felértékelése - a tisztességes haszonszerzés és a kamat elfogadása előfutára lett a későbbi kapitalista mentalitásnak."
+    },
+    {
+      "id": 8,
+      "term": "Predikcináció",
+      "definition": "Kálvin tanítása, mely szerint Isten eleve eldöntötte, ki üdvözül és ki kárhozik. A hívőknek úgy kell élniük, mintha az üdvösségre rendeltetek volna.",
+      "quote": "Isten dönt, nem az ember",
+      "text": "A predesztináció tanítása egy első pillantásra sötét tannak tűnik, de Kálvin szerint a hívőknek mégis erkölcsös, fegyelmezett életre kell törekedniük. Ez az elv a protestáns munkakultúra egyik alapja lett."
+    },
+    {
+      "id": 9,
+      "term": "Anabaptista",
+      "definition": "Radikális reformációs irányzat, amely a felnőttkori keresztséget hirdette és a vagyoni egyenlőséget követelte. Gyakran üldözték őket.",
+      "quote": "Radikális reformáció",
+      "text": "Az anabaptisták társadalmi hierarchia nélkül szeretnek volna élni. Münzer Tamás vezetésével a német parasztháborúban is aktívak voltak. Csak Morváviában létesíthetnek maradandóbb közösségeket."
+    },
+    {
+      "id": 10,
+      "term": "Unitárius",
+      "definition": "Protestáns irányzat, amely tagadja a Szentháromság tanát és csak Isten egységét vallja. Szervét Mihály és Dávid Ferenc voltak a legismertebbek.",
+      "quote": "Csak egy Isten",
+      "text": "Az unitárius tanok Szervét Mihályt máglyára vezettek Genfben, de Lengyel- és Erdélyben magasabb fokú toleranciáy élveztek. Erdélyben az unitárius egyház az egyik bevett vallás lett, amely Dávid Ferenc vezetésével szerveződött meg."
+    },
+    {
+      "id": 11,
+      "term": "Anglikánizmus",
+      "definition": "VIII. Henrik angol király által alapított protestáns egyház, amikor a pápa nem engedélyezte új házasságát. Többé katolikus elemeket megőrzött, de az angol köznyelvű liturgiát bevezette.",
+      "quote": "Politikai és vallási forradalom",
+      "text": "Az anglikánizmus a monarchia alá helyezte az egyházat. Az angol reformáció több politikai, mint vallási motivációjú volt, de hosszú távon az angol polgári gondolat fejlődésére nagy hatást gyakorolt."
+    },
+    {
+      "id": 12,
+      "term": "Augsburgi vallásbéke",
+      "definition": "1555-ben kötött megállapodás, amely kimondta, hogy a német fejedelmek saját területükön maguk dönthetnek a vallásról. Az első jogi elismerése az európai vallásszabadságnak.",
+      "quote": "Vallásszabadság törvénybe foglalva",
+      "text": "A vallásbéke elvét így fogalmazták: 'Akié a föld, azé a vallás.' Ez a fejedelmi vallásszabadságot elismerte, de az alattvalók számára nem adott egyéni vallási választást. Így állította meg a vallási háborúkat német területen."
+    },
+    {
+      "id": 13,
+      "term": "Puritán mozgalom",
+      "definition": "Radikális protestáns mozgalom Angliában és Skóciában, amely még szigorúbb vallási tisztaságot követelt. Később az észak-amerikai gyarmatok alapításában játszottak fontos szerepet.",
+      "quote": "Egy Isten, egy egyház, egy lezárás",
+      "text": "A puritánok a templom legyen egyszerű és díszítéstelen, az istentisztelet legyen személyes és belső. A puritán ética később az amerikai nyugati terjeszkedést és az angol puritán forradalmakat befolyásolta."
+    },
+    {
+      "id": 14,
+      "term": "Szent Bertalan-éj",
+      "definition": "1572. augusztus 23-24-én Párizsban történt hugenotta-ellenes tömegmészárlás. Becslések szerint több ezer protestánst öltek meg.",
+      "quote": "Vallási terror",
+      "text": "A mészárlás Franciaország vallásháborúinak egyik legsötétebb eseménye volt. Az Európa egész világát megrázta és jellemzi az akkori vallási intolerancia végletes formáit. A tömegmészárlás IV. Henrik és a nantes-i ediktum irányába terelte Franciaországot."
+    },
+    {
+      "id": 15,
+      "term": "Nantes-i ediktum",
+      "definition": "IV. Henrik французь királyt 1598-ban kiadott rendelete, amely korlátozott vallásszabadságot biztosított a hugenottáknak és lehetővé tette a békés együttélést.",
+      "quote": "Vallási béke",
+      "text": "Az ediktum befejezett a francia vallásháborúkat, de nem volt teljes tolerancia - a hugenottáknak korlátozott jogai voltak. Később visszavonták XVI. Lajos alatt, de lange tartó békét biztosított az 1598-1685 közötti időszakban."
+    }
+  ]
+}

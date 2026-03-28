@@ -1,0 +1,291 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "vilaghaboruk-1",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Melyik két világháború közötti időszak alapvetően meghatározta a második világháború kirobbanásánt?",
+      "options": [
+        "Gazdasági fejlődés",
+        "Versailles-i béke és annak következményei",
+        "Szovjet expanzió",
+        "Brit imperializmus"
+      ],
+      "answer": "Versailles-i béke és annak következményei"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "A _____ 1920 júniusa után Magyarország területének 71%-át elvesztette.",
+      "options": [],
+      "answer": "Trianoni béke"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Hogyan függött össze a gazdasági válság (1929) a második világháborúval?",
+      "options": [
+        "Nem függött",
+        "Hitlerés a nácizmus felemelkedéseit erősítette meg",
+        "Szovjet erősödéshez vezetett",
+        "Brit gazdaság összeomlottához"
+      ],
+      "answer": "Hitlerés a nácizmus felemelkedéseit erősítette meg"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Az _____ munkásosztály támogatása nélkül nem volt volna hitlerista politikai siker.",
+      "options": [],
+      "answer": "németországi"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Melyik világnézeti szembenállást fejlesztett ki leginkább az 1920-as és 1930-as evekben?",
+      "options": [
+        "Feudalizmus vs Kapitalizmus",
+        "Totalitarizmus vs Demokrácia",
+        "Nacionalizmus vs Internacionalizmus",
+        "Vallási vs Szekular"
+      ],
+      "answer": "Totalitarizmus vs Demokrácia"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A _____ szövetség 1936 után összekötte Német Birodalmat és Olaszországot.",
+      "options": [],
+      "answer": "Acél"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Hogyan reagált Magyarország a Trianoni béke után a nemzetközi politikára?",
+      "options": [
+        "Teljes semlegességet választott",
+        "Revizionista politikát követett",
+        "Franciaországgal szövetkezett",
+        "Szovjetunióhoz csatlakozott"
+      ],
+      "answer": "Revizionista politikát követett"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "A _____ ideológia volt a Nemzetiszocialista párt alapja.",
+      "options": [],
+      "answer": "faji"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mi volt az elsődleges kiváltó tényezője az 1930-as évek nyilas mozgalmának Magyarországon?",
+      "options": [
+        "Szovjet nyomás",
+        "Gazdasági válság és nemzeti megaláztatás",
+        "Német szövetség",
+        "Brit agresszió"
+      ],
+      "answer": "Gazdasági válság és nemzeti megaláztatás"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az _____ kommunista szovjetunió volt az ellenképe a nácista Németország ideológiájának.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Hogyan kezelték az európai hatalmak a Manchúria-válságot (1931)?",
+      "options": [
+        "Hatékony válasszal",
+        "Gyenge diplomáciával és szankciók hiányával",
+        "Katonai intervencióval",
+        "Közös békemegállapodással"
+      ],
+      "answer": "Gyenge diplomáciával és szankciók hiányával"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "A _____ 1938-ben egyesült az német hatalommal az Anschluss révén.",
+      "options": [],
+      "answer": "Ausztria"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Melyik esemény nem volt a másodvilágháborúhoz vezető okok között az 1920-1939 közötti időszakban?",
+      "options": [
+        "Trianoni béke",
+        "Gazdasági világválság",
+        "Nemzetközi szocializmus terjedése",
+        "Lebensraum koncepció"
+      ],
+      "answer": "Nemzetközi szocializmus terjedése"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az _____ magyar kultúrpolitika támogatást nyújtott az oktatásnak és tudománynak az 1920-as évekbein.",
+      "options": [],
+      "answer": "Klebelsberg"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Hogyan befolyásolta a Trianoni béke és revizionista gondolkodás Magyarország szövetségesi politikáját?",
+      "options": [
+        "Nem befolyásolta",
+        "Németország felé való orientációt erősítette",
+        "Franciaország felé való fordulást hozta",
+        "Szovjet szövetséghez vezetett"
+      ],
+      "answer": "Németország felé való orientációt erősítette"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "Az _____ tanácsközta a szovjet ideológia ellenzékét erősítette Magyarországon.",
+      "options": [],
+      "answer": "fehérterror"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Melyik oka nem volt az 1930-as évek totalitárius rendszereinek?",
+      "options": [
+        "Nacionalista ideológia",
+        "Gazdasági válság",
+        "Demokrácia erősödése",
+        "Katonai felemelkedés"
+      ],
+      "answer": "Demokrácia erősödése"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "A _____ világháború végét követően a nemzetközi szervezetek (Liga) gyengek és hatékonytalanok voltak.",
+      "options": [],
+      "answer": "első"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Hogyan segítette az első világháborúban Magyarország által szenvedett veszteség a revizionista gondolkodást?",
+      "options": [
+        "Nem segítette",
+        "Nemzeti sérelmeket és fellemelkedési vágyat keltett",
+        "Pozitív reformokhoz vezetett",
+        "Gazdasági fejlesztéshez"
+      ],
+      "answer": "Nemzeti sérelmeket és fellemelkedési vágyat keltett"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az _____ német párt szisztematikusan eliminálandó csoportokként jellemezte a zsidókat és szláv nemzeteket.",
+      "options": [],
+      "answer": "náci"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik nem volt az 1920-1939 közötti európai totalitarizmusok közös jellemzője?",
+      "options": [
+        "Egy-párti rendszer",
+        "Erőszakos uralom",
+        "Demokrácia megtartása",
+        "Ideológiai tisztasági követelmény"
+      ],
+      "answer": "Demokrácia megtartása"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "A _____ nemzetiszocialista ideológia világfelfogása alapvetően rasszista volt.",
+      "options": [],
+      "answer": ""
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Hogyan reagáltak a nyugati demokráciák a nácista német agressziók sorozatára?",
+      "options": [
+        "Katonai intervencióval",
+        "Appeasement (engedékenység) politikájával",
+        "Szankciók alkalmazásával",
+        "Közös szövetség alakítással"
+      ],
+      "answer": "Appeasement (engedékenység) politikájával"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az _____ szovjet terror (1930-as évek) szintén totalitárius módszereket alkalmmazott.",
+      "options": [],
+      "answer": "sztálini"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Milyen módon készítette elő az 1920-1939 közötti időszak a második világháborút?",
+      "options": [
+        "Békekötésekkel",
+        "Revizionista politikákkal, ideológiai konfliktusokkal és gyenge nemzetközi szervezetekkel",
+        "Gazdasági kooperációval",
+        "Kulturális cserékkel"
+      ],
+      "answer": "Revizionista politikákkal, ideológiai konfliktusokkal és gyenge nemzetközi szervezetekkel"
+    },
+    {
+      "id": 26,
+      "type": "BLANK",
+      "question": "A _____ széles gazdasági szövetségei és függőségei az 1930-as évekbein szétromboltát.",
+      "options": [],
+      "answer": "világgazdaság"
+    },
+    {
+      "id": 27,
+      "type": "MC",
+      "question": "Melyik volt a nemzeti szocializmus fő vonzásereje az 1930-as évekbein?",
+      "options": [
+        "Szocialista ideológia",
+        "Nacionalista büszkeség visszaállítása és gazdasági rend ígérete",
+        "Demokrácia kiterjesztése",
+        "Nemzetközi béke"
+      ],
+      "answer": "Nacionalista büszkeség visszaállítása és gazdasági rend ígérete"
+    },
+    {
+      "id": 28,
+      "type": "BLANK",
+      "question": "Az _____ magyarországi kormányzata az 1920-1930-as évekbein konzervatívan maradt a szocializmus veszélye miatt.",
+      "options": [],
+      "answer": "Horthy"
+    },
+    {
+      "id": 29,
+      "type": "MC",
+      "question": "Hogyan befolyásolta a Rákosi-típusú kommunista mozgalmak terjedése az 1920-as éveket?",
+      "options": [
+        "Nem befolyásolta",
+        "A konzervatív erőket erősítette meg az ellentüntetés révén",
+        "Szocialista reformokhoz vezetett",
+        "Liberalizmusra ösztönzött"
+      ],
+      "answer": "A konzervatív erőket erősítette meg az ellentüntetés révén"
+    },
+    {
+      "id": 30,
+      "type": "BLANK",
+      "question": "Az _____ 1936-1939 közötti spanyol polgárháborúja ideológiai csatateret volt a nácik és szovjeték között.",
+      "options": [],
+      "answer": "spanyol"
+    }
+  ]
+}

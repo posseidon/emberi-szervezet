@@ -1,0 +1,284 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Kiegyezés",
+      "definition": "Az 1867-es politikai megállapodás Ausztria és Magyarország között, amely létrehozta az Osztrák–Magyar Monarchiát. Magyarország belső önállóságot kapott, miközben a külügy, hadügy és pénzügy közös maradt.",
+      "quote": "Dualista államszerkezet teremtett",
+      "text": "A kiegyezés gazdaságailag is szövetségre lépésre kötelezett a két államot. A közös ügyek költségeit tízévente újratárgyalták, amely módosíthatóvá tette az arányokat. Ez a periódusos tárgyalási rendszer többször vezetett élénk parlamentáris vitákhoz."
+    },
+    {
+      "id": 2,
+      "term": "Kvóta",
+      "definition": "A közös költségek felosztási aránya Ausztria és Magyarország között. Eredetileg 70–30% volt, de Magyarország gazdasági súlyának növekedésével az aránya fokozatosan nőtt.",
+      "quote": "Gazdasági arányok periódusos megosztása",
+      "text": "A kvóta rendszere tette lehetővé, hogy az erősödő magyar gazdaság nagyobb támogatást kapjon az infrastrukturális fejlesztésekhez. A tízévenként megújított kiegyezések során elhúzódó tárgyalások voltak szokásosak."
+    },
+    {
+      "id": 3,
+      "term": "Vámunió",
+      "definition": "Közös vámterület, amelyen belül nincsenek belső vámok, kifelé pedig egységes vámrendszer működik. Az Osztrák–Magyar Monarchia ilyen vámegységet alkotott.",
+      "quote": "Határokon belül vámok szűntek meg",
+      "text": "A vámunió biztosította a tőke és munkaerő szabad mozgását a két ország között. Kifelé pedig védővámokkal védelmezték a hazai termelést az osztrák és cseh árukkal szemben."
+    },
+    {
+      "id": 4,
+      "term": "Közös valuta",
+      "definition": "Kezdetben a forint volt a közös pénz, majd az 1892-es valutareform után az aranyalapú korona váltotta fel. Ez stabilitást adott a pénzrendszernek.",
+      "quote": "Aranyalap stabilabbá tette a pénzrendszert",
+      "text": "Az Osztrák–Magyar Bank, a közös központi pénzintézet, feladata volt a közös valuta kibocsátása és a pénzügyi stabilitás biztosítása. A pénzrendszer közössége fontos szerepet játszott a gazdasági integráció elmélyítésében."
+    },
+    {
+      "id": 5,
+      "term": "Merkantil gazdaságpolitika",
+      "definition": "Az állami beavatkozást és az ipartámogatást előtérbe helyező irányzat. Célja a hazai ipar védelme, fejlesztése és a külkereskedelmi pozíciók javítása volt.",
+      "quote": "Állam aktívan támogatta a hazai iparat",
+      "text": "Ez az elv a magyar gazdaságpolitika alapja lett a dualizmus korában. Az agrárius gazdaságpolitikával szemben a merkantil irányzat az iparfejlesztést helyezte előtérbe, így Magyarország modernizálódása nagyobb lendületre kapott."
+    },
+    {
+      "id": 6,
+      "term": "Agrárius gazdaságpolitika",
+      "definition": "Olyan irányzat, amely a nagybirtokosok érdekeit védte és a mezőgazdaság elsődlegességét hangsúlyozta. Ellentétben állt az iparosítást támogató merkantil gazdaságpolitikával.",
+      "quote": "Nagybirtokosok érdekeit védelmezték",
+      "text": "A nagybirtokosok az Országos Magyar Gazdasági Egyesület (OMGE) szervezetben erősítették érdekvédelmüket. Kedvező hitelfeltételekért és exportlehetőségekért küzdöttek, különösen a filoxérajárvány után."
+    },
+    {
+      "id": 7,
+      "term": "Tisza Kálmán",
+      "definition": "Magyar miniszterelnök, akinek hosszú kormányzása (1875–1890) alatt erősödött meg a gazdasági modernizáció és az állami beavatkozás. Nevéhez a dualizmus politikai stabilitása is kötődik.",
+      "quote": "Hosszú kormányzása a gazdasági modernizáció kezdete",
+      "text": "Tisza Kálmán alatt határozottan indult meg az állami gazdaságfejlesztés politikája. Ő felelős volt az infrastrukturális fejlesztések előmozdításáért és a pénzügyi reformok elindításáért."
+    },
+    {
+      "id": 8,
+      "term": "Aranyalap",
+      "definition": "Pénzrendszer, amelyben a valuta értékét meghatározott aranymennyiséghez kötik. A Monarchiában az 1892-es valutareformmal vezették be a koronával együtt.",
+      "quote": "Valuta értéke aranyhoz kötött",
+      "text": "Az aranyalap bevezetése a korona stabilitását erősítette és a bankrendszer fejlődésének alapját adta. A reform a Monarchia nemzetközi hitelét és gazdasági bizalmát növelte."
+    },
+    {
+      "id": 9,
+      "term": "Valutareform (1892)",
+      "definition": "Az 1892-ben végrehajtott pénzügyi átalakítás, amely a forintot felváltó, aranyalapú korona bevezetését jelentette. A reform a pénzrendszer stabilitását erősítette.",
+      "quote": "Forint helyett korona lett a valuta",
+      "text": "A valutareform hosszú tárgyalások után valósult meg. Lényege az volt, hogy az aranyalapú korona működésbe lépésével a Monarchia modern pénzrendszert kapott, amely összhangban volt a nyugat-európai standardokkal."
+    },
+    {
+      "id": 10,
+      "term": "Osztrák–Magyar Bank",
+      "definition": "A Monarchia közös központi bankja, amely az Osztrák Bank dualizálásával jött létre. Feladata volt a közös valuta kibocsátása és a pénzügyi stabilitás biztosítása.",
+      "quote": "Közös központi pénzintézet volt",
+      "text": "Az Osztrák–Magyar Bank az Osztrák Nemzeti Bankból jött létre és mindkét ország pénzügyi politikáját irányította. Szerepe kritikus volt a bankok, biztosítók és tőzsdék fejlődésében."
+    },
+    {
+      "id": 11,
+      "term": "Magyar Általános Hitelbank",
+      "definition": "Nagy budapesti pénzintézet, amely a dualizmus korában a magyar bankélet egyik vezető szereplője volt. Hiteleivel jelentősen hozzájárult iparvállalatok és vasútvonalak finanszírozásához.",
+      "quote": "Vezető magyar pénzintézet volt",
+      "text": "Ez a bank a magyar gazdaságfejlesztés motorja volt, mivel úgy biztosított hiteleket az iparnak, hogy egyúttal fejlesztette a tőzsdét és a finanacializációt."
+    },
+    {
+      "id": 12,
+      "term": "Kamatgarancia",
+      "definition": "Állami vállalás, amely meghatározott hozamot biztosított a vasútépítésekbe fektető magántőkéseknek. Ennek segítségével gyorsan bővült a vasúthálózat.",
+      "quote": "Állam garantálta a vasúti befektetések hozamát",
+      "text": "A kamatgarancia rendszere lehetővé tette, hogy magánvállalkozások is részt vegyenek a vasútépítésekben anélkül, hogy túl nagy kockázattal járna. Ez gyorsította az infrastruktúra fejlődését."
+    },
+    {
+      "id": 13,
+      "term": "Folyamszabályozás",
+      "definition": "A folyók medrének rendezése, kanyarulatok átvágása, gátak építése a hajózás és az árvízvédelem érdekében. Magyarországon a Tisza és az Al-Duna szabályozása volt a legjelentősebb.",
+      "quote": "Nagyobb töltésrendszer épített ki",
+      "text": "Az 1860–1880-as években Magyarországon Európa leghosszabb töltésrendszere épült ki. Ez arbamentesítette a nagy területeket és lehetővé tette a mezőgazdasági művelésre alkalmas föld nyerését."
+    },
+    {
+      "id": 14,
+      "term": "Ármentesítés",
+      "definition": "Folyók töltésekkel és gátakkal történő szabályozása az árvizek visszaszorítása érdekében. Ennek következtében jelentősen nőtt a mezőgazdasági művelésre alkalmas terület.",
+      "quote": "Árvizek visszaszorítása rendszeres tevékenységgé",
+      "text": "Az ármentesítés ugyanakkor ökológiai veszteségeket is okozott: belvíz, szikesedés és természeti értékek vesztesége. A 'kubikosok' kézimunkája legendássá vált e nagy projektek során."
+    },
+    {
+      "id": 15,
+      "term": "Kubikosok",
+      "definition": "A folyamszabályozási és gátépítési munkák során alkalmazott kézi munkaerő. Munkájuk legendássá vált e nagy infrastrukturális projektek miatt.",
+      "quote": "Kézi munkások a gátépítésekig",
+      "text": "A kubikosok zömmel agrárszegénységből kerültek ki és szezonális munkát vállaltak. A nagy töltésrendszer építése során több tízezren dolgoztak ezek a munkások."
+    },
+    {
+      "id": 16,
+      "term": "Vasútépítés",
+      "definition": "A 19. század második felében a magyar gazdaság húzóágazatává váltak a vasútépítések. Kezdetben magántőkéből, később állami támogatással és kamatgaranciák segítségével bővült a hálózat.",
+      "quote": "Vasútvonalak gazdasági motorá váltak",
+      "text": "A vasúti fejlesztések mind szállítási infrastruktúrát, mind gazdasági növekedést teremtettek. A magánvasutak államosítása után a MÁV központi szerepet játszott."
+    },
+    {
+      "id": 17,
+      "term": "MÁV (Magyar Államvasutak)",
+      "definition": "Az ország egységes állami vasúttársasága. A magánvasutak államosítása után központi szerepet játszott a közlekedésben és a gazdaság fejlesztésében.",
+      "quote": "Egységes állami vasúthálózat jött létre",
+      "text": "A MÁV Budapest-központú hálózatot hozott létre, amely összekötte az ország legfontosabb gazdasági és közigazgatási központjait. A hálózat bővülésével párhuzamosan fejlődött az ipar és kereskedelem."
+    },
+    {
+      "id": 18,
+      "term": "Zónatarifa-rendszer",
+      "definition": "A vasúti díjszabás olyan formája, ahol a jegyárak távolsági zónák szerint vannak megállapítva. Baross Gábor ezzel tette olcsóbbá a személy- és áruszállítást.",
+      "quote": "Távolsági zónák szerint számított díjak",
+      "text": "A zónatarifa-rendszer bevezetése ösztönözte a kereskedelmet, mivel az árak progresszívnek voltak összegezve, nem pedig lineárisnak. Ez elősegítette az áruszállítást és az európai piac megközelíthetővé tételét."
+    },
+    {
+      "id": 19,
+      "term": "Baross Gábor",
+      "definition": "Közlekedési miniszter, akit 'vasminiszternek' is neveztek. A MÁV kiépítésében, a zónatarifa-rendszer bevezetésében és a Vaskapu hajózhatóvá tételében játszott kulcsszerepet.",
+      "quote": "Vasminiszter - vasútfejlesztés motorja",
+      "text": "Baross Gábor a 19. század végének egyik legjelentősebb magyar politikusa volt. Ő szervezte meg az infrastrukturális fejlesztéseket, amely magyar gazdaság lendületes fejlődésének alapját képezte."
+    },
+    {
+      "id": 20,
+      "term": "Al-Duna",
+      "definition": "A Duna alsó szakasza, ahol nagyszabású folyamszabályozási munkák zajlottak. A Vaskapu szabályozása a nemzetközi kereskedelmet is segítette.",
+      "quote": "Hajózhatóvá tett szoros folyamszakasz",
+      "text": "Az Al-Duna szabályozása fontos volt mind a magyar, mind az európai kereskedelmi útvonalak fejlesztéséhez. Baross munkája nyomán a nemzetközi hajózás biztonságossá vált."
+    },
+    {
+      "id": 21,
+      "term": "Vaskapu",
+      "definition": "Az Al-Duna szűk szorosa, amelyet Baross Gábor munkája nyomán tettek biztonságosan hajózhatóvá. A Duna nemzetközi kereskedelmi útvonalként vált jelentősebbé.",
+      "quote": "Szoros mederszabályozást igényelt",
+      "text": "A Vaskapu szabályozása mérnöki nagyfeladat volt. Az átjelölésével a nemzetközi hajózás szervezetterülete nőtt és a Monarchia számára nyitott lett a dunai út európai felé."
+    },
+    {
+      "id": 22,
+      "term": "Adria Tengerhajózási Társaság",
+      "definition": "Magyar tengeri hajózási vállalat, amelyet 1881-ben alapítottak Fiuméban. A magyar tengeri kereskedelem fejlesztését és az export bővítését célozta.",
+      "quote": "1881 alapított tengeri fuvarozó",
+      "text": "A Sociedade működéséből fontos tőke egyenes volt az export növekedéséhez. Fiume fejlődött a Monarchia legfontosabb tengeri kikötőjévé, mivel vasútvonal kötötte össze a fővárossal és keleti régiókkal."
+    },
+    {
+      "id": 23,
+      "term": "Fiume",
+      "definition": "A Magyar Királyság tengeri kikötővárosa, a mai Rijeka. A magyar export, különösen a gabona és iparcikkek fő tengeri kijárata volt.",
+      "quote": "Magyar export fő tengeri kikötője volt",
+      "text": "Fiume fejlődése szorosan összefügg az Adria Tengerhajózási Társasággal és a vasúthálózat expanziójával. A város gyorsan modernizálódott a gazdasági fejlődésnek köszönhetően."
+    },
+    {
+      "id": 24,
+      "term": "Céhrendszer felszámolása (1872)",
+      "definition": "Magyarországon eltörölték a céheket, amely szabaddá tette az ipar fejlődését. Ez megnyitotta az utat a szabad iparűzés és a nagyipari fejlődés előtt.",
+      "quote": "1872 - céhrendszer megszűnt",
+      "text": "A céhrendszer felszámolása fontos strukturális reformja volt a magyar gazdaságnak. A szabadabb iparűzés lehetővé tette az innovációt és a nagyipari vállalatok kialakulását."
+    },
+    {
+      "id": 25,
+      "term": "Védővám",
+      "definition": "A külföldi árukra kivetett magas vám, amely a hazai ipart és mezőgazdaságot védi a versenytől. A magyar politika a gazdasági kiegyezés megújításakor törekedett kedvező védővámok kialakítására.",
+      "quote": "Hazai termelést védelmezi külföldi árukkal szemben",
+      "text": "A védővám-politika egyik sarokpontja volt a magyar gazdaságpolitikának. Lehetővé tette, hogy az iparosodás során a fiatal magyar vállalatok fejlődjenek, mielőtt a teljes versenyhelyzetet megtapasztalták volna."
+    },
+    {
+      "id": 26,
+      "term": "Filoxérajárvány (1880–1882)",
+      "definition": "Szőlőgyökértetű tömeges elszaporodása az 1880-as években, amely elpusztította a magyar szőlőültetvények nagy részét. A homoktalajokra telepített új, ellenálló fajtákkal sikerült helyreállítani a termelést.",
+      "quote": "Szőlőgyökértől szenvedett katasztrófa",
+      "text": "A filoxérajárvány súlyos csapást jelentett az agráriumnak, de a krízisből új lehetőségek nőttek ki. A Duna–Tisza közi homoktalajok bevonása új szőlőföldeket teremtett."
+    },
+    {
+      "id": 27,
+      "term": "OMGE (Országos Magyar Gazdasági Egyesület)",
+      "definition": "A földbirtokosok gazdasági érdekképviselete. Hitellehetőségekért és jobb exportfeltételekért küzdött a magyar mezőgazdaság érdekében.",
+      "quote": "Nagybirtokosok érdekvédelmi szervezete",
+      "text": "Az OMGE aktív szereplő volt a gazdasági kiegyezések tárgyalásain. Az agrárius érdekek mellett az ipari fejlesztés támogatásáért is küzdött bizonyos kérdésekben."
+    },
+    {
+      "id": 28,
+      "term": "Malomipar",
+      "definition": "A gabona gőzüzemű hengermalmokban történő feldolgozása. A dualizmus idején Budapest a világ egyik vezető malomipari központjává vált.",
+      "quote": "Budapest a világmalomipar középpontja lett",
+      "text": "A malomipar fejlődésében döntő szerepet játszott Mechwart András kéregöntésű hengerszékének feltalálása. Az ipar gyorsan terjedt és exportált az egész világra."
+    },
+    {
+      "id": 29,
+      "term": "Mechwart András",
+      "definition": "Gépészmérnök, a Ganz-gyár vezetője és a kéregöntésű hengerszék feltalálója. Tevékenysége a magyar malomipart világszínvonalúvá emelte.",
+      "quote": "Kéregöntésű hengerszék feltalálója",
+      "text": "Mechwart találmánya 1874-ben szabadalmaztatott lett. Az új technológia forradalmasította a malomipart, és Budapest malomipari világhatalmává tette."
+    },
+    {
+      "id": 30,
+      "term": "Ganz-gyár",
+      "definition": "A korszak egyik legfontosabb vállalatai közé tartozó gépipari üzem. A gépipart, elektrotechnikát és vasúti szállítóeszközöket gyártott.",
+      "quote": "Gépipar és villamosság központja",
+      "text": "Ganz Ábrahám alapította a gyárat, amely magyar és európai gépipar térképére tette Magyarországot. A Ganz-gyár számos neves mérnöknek adott otthont, köztük Mechwart András, Bláthy, Déri és Zipernowsky dolgoztak."
+    },
+    {
+      "id": 31,
+      "term": "Ganz Villamossági Művek",
+      "definition": "1877-ben alapított villamosipari üzem, amely európai hírű fejlesztéseket hajtott végre – többek között a világ első váltóáramú erőművét is ők építették.",
+      "quote": "Világ első váltóáramú erőműve",
+      "text": "Az intézmény a magyar villamosipari forradalom bölcsője volt. Bláthy, Déri és Zipernowsky transzformátora világjelentőségű volt az energiaszállítás terén."
+    },
+    {
+      "id": 32,
+      "term": "Richter gyógyszergyár",
+      "definition": "1901-ben alapított magyar gyógyszergyár, amely a modern magyar ipar szimbólumává vált. A magyar gyógyszeripar önálló, exportképes ágazattá fejlődött belőle.",
+      "quote": "1901 magyar gyógyszeripart indította meg",
+      "text": "Richter Gedeon alapítványa alapvetően forradalmasította a magyar gyógyszeripart. Az exportképes termékek gyártása nemzetközi piacon is versenyhely lett."
+    },
+    {
+      "id": 33,
+      "term": "Chinoin gyógyszergyár",
+      "definition": "1911-ben megalakult magyar gyógyszergyár. A magyar vegyipar és gyógyszeripar tovább erősödött a Richterrel való párhuzamos fejlődésben.",
+      "quote": "1911 - gyógyszeripar további erősödésé",
+      "text": "A Chinoin és a Richter között szépségesen alakult ki a magyar gyógyszeripar duopolisztikus szerkezete. Mindkét vállalat jelentős exportőr volt."
+    },
+    {
+      "id": 34,
+      "term": "Weiss Manfréd csepeli gyára",
+      "definition": "1913-ra az ország legnagyobb hadiüzemévé nőtte ki magát. A Monarchia fegyverkezésében meghatározó szerepet játszott.",
+      "quote": "Nagyobb hadiipari üzem született",
+      "text": "Weiss Manfréd Csepelen hatalmas ipartelepet hozott létre. A hadiipar fejlődésének egyik fő motorja volt, exportálva a Monarchia összes nagyobb vasúti és háborús szállítmányzatát."
+    },
+    {
+      "id": 35,
+      "term": "Jedlik Ányos",
+      "definition": "Bencés szerzetes, fizikus és feltaláló, az öngerjesztő dinamó és egy korai villanymotor megalkotója. Az elektromosságtan úttörői közé tartozik.",
+      "quote": "Öngerjesztő dinamó feltalálója",
+      "text": "Jedlik Ányos már az 1860-as években megalkotta az öngerjesztő dinamó elvét. Ez fontos lépés volt a villamos energia gyakorlati alkalmazásában és az elektromosságtan fejlődésében."
+    },
+    {
+      "id": 36,
+      "term": "Luppis János",
+      "definition": "Magyar származású tengerésztiszt, a torpedó egyik első változatának megalkotója. Találmánya alapvetően változtatta meg a haditengerészeti harcmodort.",
+      "quote": "Sűrített levegős torpedó feltalálója",
+      "text": "Luppis János 1868-ban elkészítette torpedóját, amely később angol Whitehead-től kapott fejlesztéseket. Az önhajtó víz alatti fegyver a modern haditengerészet alapfegyverévé vált."
+    },
+    {
+      "id": 37,
+      "term": "Puskás Tivadar",
+      "definition": "Mérnök, a telefonközpont feltalálója. A telefonhálózatok kiépítésével nagyban hozzájárult a korszak távközlési fejlődéséhez.",
+      "quote": "Telefonközpont feltalálója volt",
+      "text": "Puskás Tivadar 1879-ben megalkotta a telefonközpontot, amely lehetővé tette több telefonvonal összekapcsolását. A telefon széleskörű elterjedésének technikai alapját adta."
+    },
+    {
+      "id": 38,
+      "term": "Bláthy, Déri, Zipernowsky",
+      "definition": "Villamosmérnökök, akik 1885-ben közösen megalkották az elektromos transzformátort. Ez lehetővé tette a villamos energia nagy távolságokra történő gazdaságos szállítását.",
+      "quote": "Transzformátor - villamos energia szállítása",
+      "text": "A transzformátor feltalálása alapvetően megváltoztatta a modern energiagazdálkodást. A váltóáram nagyfeszültségű szállítása lehetségessé vált, amely az egész modern villamosenergia-rendszer alapját képezi."
+    },
+    {
+      "id": 39,
+      "term": "Bánki Donát és Csonka János",
+      "definition": "Mérnökök, akik feltalálták a porlasztót, amellyel hatékonyabbá vált a belső égésű motorok működése. Megalapozták a magyar autógyártást.",
+      "quote": "Porlasztó - motor hatékonysága nőtt",
+      "text": "A porlasztó 1891-ben szabadalmaztatott lett. Az első hazai autógyártási kísérletek vezetői voltak, bár Magyarország ekkor még nem vált nagyhatalmú autóipari nemzetté."
+    },
+    {
+      "id": 40,
+      "term": "Kandó Kálmán",
+      "definition": "Magyar mérnök, a villamos mozdony és a háromfázisú vontatás megteremtője. A vasútvillamosítás nemzetközileg elismert úttörője volt.",
+      "quote": "Háromfázisú villamos mozdony",
+      "text": "Kandó Kálmán 1898 és 1902 között létrehozta az első háromfázisú villamos mozdonyt. Ez a vasútvillamosításban úttörő volt, és a magyar mérnökség nemzetközi presztízsét emelte."
+    }
+  ]
+}

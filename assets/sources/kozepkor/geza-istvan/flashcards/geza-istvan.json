@@ -1,0 +1,95 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Géza fejedelem",
+      "definition": "Nagyfejedelem (972-997), aki felismerte a keresztény államhoz való alkalmazkodás szükségességét. Apja István alapját készítette elő.",
+      "quote": "A nyugat felé fordulás",
+      "text": "Géza megtette meg székhelyévé Esztergomot. Megtörte a törzsfők hatalmát. Átszervezte a hadserget. 972-ben követeket küldött III. Ottóhoz."
+    },
+    {
+      "id": 2,
+      "term": "István (Szent István) király",
+      "definition": "Magyarország első királya (1000-1038). Egyesített és kereszténnyé tett államot alapított. Államszervezője volt.",
+      "quote": "Az első magyar király",
+      "text": "1000-ben koronázták meg. Székesfehérváron alapította koronázó helyét. Megalapozta a közigazgatási rendszert és az egyházi szervezetet."
+    },
+    {
+      "id": 3,
+      "term": "Primogenitúra",
+      "definition": "Keresztény öröklési elv, amely szerint az uralkodó legidősebb fia örökli a hatalmat. István ezt követte.",
+      "quote": "Az első fiú az örökös",
+      "text": "Ez ellentétben volt a sztyeppei szeniorátussal, amely a nemzetség legidősebb férfitagját részesítette előnyben."
+    },
+    {
+      "id": 4,
+      "term": "Seniorátus",
+      "definition": "Sztyeppei szokás, amely a nemzetség legidősebb férfitagját tette örökössé. Koppány ennek alapján tartott igényt.",
+      "quote": "Az év legidősebb férfia az új vezető",
+      "text": "Ez a pogány rendszer István és az egyház számára elfogadhatatlan volt. Koppány az utolsó sztyeppei vezér volt, aki ennek alapján lázadt."
+    },
+    {
+      "id": 5,
+      "term": "Koppány",
+      "definition": "Géza rokona, aki a sztyeppei szeniorátus alapján tartott igényt a trónra. István 998-ban legyőzte és kivégzett.",
+      "quote": "Az utolsó pogány vezér",
+      "text": "Koppány lázadása az utolsó sztyeppei fázis volt. Legyőzése jelöli a keresztény átszakítást."
+    },
+    {
+      "id": 6,
+      "term": "Vármegye",
+      "definition": "István által bevezetett közigazgatási egység, amelyet a király által kinevezett ispán irányított. Központja egy-egy királyi vár volt.",
+      "quote": "A királyi közigazgatás alapja",
+      "text": "A sztyeppei törzs helyett vármegyéket hozta be István. Ez voltak az önálló területi egységek, amelyek a királytól függtek."
+    },
+    {
+      "id": 7,
+      "term": "Ispán (comes)",
+      "definition": "A vármegye élén álló tisztviselő, aki adót szedett, bíráskodott és hadba vette a megye seregét.",
+      "quote": "A király helytartója a megyében",
+      "text": "Az ispánok közvetlenül a királytól függtek. Kettős lojalitása volt: a királynak és a helyi közösségnek."
+    },
+    {
+      "id": 8,
+      "term": "Nádor (nádorispán)",
+      "definition": "A királyi udvar vezetője, aki a legfőbb kormányzati tisztségviselő volt. Bírói és gazdasági hatalom volt az ő kezében.",
+      "quote": "A királyi udvar főparancsnoka",
+      "text": "A nádor volt a legfontosabb tisztségviselő az esztergomi érsek után. Nagyot befolyásolt a királyásra."
+    },
+    {
+      "id": 9,
+      "term": "Egyházi szemészségek",
+      "definition": "István alapított püspökségeket és egyházi szervezetet. Az esztergomi érsekség volt a magyar egyház feje.",
+      "quote": "Az egyházi rendszet alapja",
+      "text": "István tíz püspökséget alapított. Az egyházi szervezet volt a keresztény állam alapja."
+    },
+    {
+      "id": 10,
+      "term": "Tized (egyházi adó)",
+      "definition": "István által bevezetett kötelező adó, amely a jobbágy termésének 10%-a volt. Az egyházt illette meg.",
+      "quote": "Az egyháznak járó tized",
+      "text": "A tized az egyház anyagi alapja volt. Biztosította a papok, szerzetesek és egyházi intézmények fenntartásátanyelis."
+    },
+    {
+      "id": 11,
+      "term": "Intelmek",
+      "definition": "István által írt királytükör, amely fiának, Imrének szólt. Tanácsokat adott az uralkodás és keresztény élet vezetéséhez.",
+      "quote": "Apai tanácsok az utódnak",
+      "text": "Az Intelmek az első magyar királytükörként tekintünk. Erkölcsi és gyakorlati tanácsokkal teli volt."
+    },
+    {
+      "id": 12,
+      "term": "Imre herceg",
+      "definition": "István fia, aki mélyen vallásos nevelést kapott. 1031-ben vadászbalesetben meghalt, így István utódkeresésre kényszerült.",
+      "quote": "Az istenfélő príncipál",
+      "text": "Imre erősen vallott volt. Szerzetes élethez húzódott. Halála váratlan volt és végzetes István közt."
+    },
+    {
+      "id": 13,
+      "term": "Szent István szentté avatása",
+      "definition": "I. László király 1083-ban szentté avattatta Istvánt. Ez megerősítette kultuszátanyelis.",
+      "quote": "Az első magyar szent király",
+      "text": "István szentté avatása megerősítette a magyar keresztény hagyományt. Máig a magyar nemzeti szent."
+    }
+  ]
+}

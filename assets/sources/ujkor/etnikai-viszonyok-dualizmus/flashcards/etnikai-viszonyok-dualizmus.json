@@ -1,0 +1,98 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "etnikai-viszonyok",
+  "title": "Etnikai viszonyok a dualizmus korában",
+  "flashcards": [
+    {
+      "id": "etnikai-viszonyok-001",
+      "term": "Mit értünk a 'magyarosítás' alatt és milyen volt a célja?",
+      "definition": "Az Osztrák-Magyar Monarchián belül Magyarország nemzetiségeinek (románok, szerben, szlovákok, rutének) a magyar kultúra és nyelv felé történő elmozgatására irányuló politika. Eszközei: magyar nyelvű oktatás, közigazgatás, jogszolgáltatás és kulturális intézmények. A cél az volt, hogy erősítse a magyar nemzeti identitást.",
+      "quote": "Egy nemzet, egy kultúra",
+      "text": "A magyarosítás politikája"
+    },
+    {
+      "id": "etnikai-viszonyok-002",
+      "term": "Hogyan hatott a magyarosítás a nemzetiségi mozgalmakra?",
+      "definition": "A magyarosítás szembeszállt a nemzetiségi mozgalmakkal. A románok, szerben, szlovákok és rutének ellenkezésében saját nemzeti identitásukat erősítették, saját oktatási és kulturális intézményeket alapítottak, végül nemzeti függetlenségét követelésre vezette.",
+      "quote": "Ellenállás a magyar dominanciának",
+      "text": "Nemzetiségi válasz a magyarosításra"
+    },
+    {
+      "id": "etnikai-viszonyok-003",
+      "term": "Mit ért 1867-es zsidó emancipáció és 1895-ös törvény?",
+      "definition": "1867: az 1848-as áprilisi törvények helyreállításakor a zsidók jogi egyenlőségét is biztosították. 1895: az izraelita vallást az államegyházzal (katolicizmus, protestantizmus) egyenrangúvá tette a törvény. Ez jelentős lépés volt a szabad társadalomba, bár társadalmi diszkrimináció továbbra is fennmaradt.",
+      "quote": "Jogi egyenlőség és vallási egyenlő jogok",
+      "text": "A zsidó emancipáció"
+    },
+    {
+      "id": "etnikai-viszonyok-004",
+      "term": "Milyen volt a román nemzeti mozgalom célja a dualizmus korában?",
+      "definition": "A románok nemzeti mozgalma a magyarosítással szembeni aktív ellenállás volt. Céljaik: román nemzeti nyelvez és kultúra fenntartása, saját oktatási intézmények, végül: a Román Királyság irányában való orientáció és az 1920-as Nagyrománia megteremtése felé.",
+      "quote": "Román kultúra az elnyomás ellen",
+      "text": "A román nemzeti emancipáció"
+    },
+    {
+      "id": "etnikai-viszonyok-005",
+      "term": "Miért volt az Osztrák-Magyar Monarchia 'többnemzetiségű állam' és milyenek voltak az ezáltal keletkező feszültségek?",
+      "definition": "Az Osztrák-Magyar Monarchia több nemzetiséget (magyarok, németek, csehek, lengyelek, rutének, székelyek, szerbek, románok) foglalt magában. A magyar dominancia (magyarosítás), az osztrák-német hegemónia, és az egyes nemzetiségek saját nemzeti aspirációi állandó feszültségeket szültek, amely végül az I. világháborút követően a monarchia felbomlásához vezetett.",
+      "quote": "Sok nemzet, egy állam = konfliktus",
+      "text": "Multinacionális monarchia feszültségei"
+    },
+    {
+      "id": "etnikai-viszonyok-006",
+      "term": "asszimiláció",
+      "definition": "A nemzetiségeknek a magyar kultúra és nyelv felé történő elmozgatása; a 19. századi magyar nacionalizmus jogi és közigazgatási eszköze.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "etnikai-viszonyok-007",
+      "term": "többnemzetiségű állam",
+      "definition": "Az Osztrák-Magyar Monarchia többnemzetiségű volt; magyarok, németek, csehek, lengyelek, rutének, székelyek, szerbek, románok.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "etnikai-viszonyok-008",
+      "term": "magyarosítás",
+      "definition": "Az iskola-, közigazgatás- és felsőbb szintű kultúrát magyar nyelvre és magyar kultúrára fokozatosan átültetésének a folyamata.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "etnikai-viszonyok-009",
+      "term": "zsidó emancipáció",
+      "definition": "1867 után: a zsidók jogi egyenlőségét törvényi szinten biztosították; 1895: az izraelita vallást egyenrangúvá tette az államegyházzal.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "etnikai-viszonyok-010",
+      "term": "román nemzeti mozgalom",
+      "definition": "A románoknak a magyar asszimilációval szembenálló mozgalma; nemzeti nyelv, cultura, és végül függetlenség követelése.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "etnikai-viszonyok-011",
+      "term": "szerb nemzeti mozgalom",
+      "definition": "A délszláv nemzetiségek magyar dominanciával szembeni mozgalma.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "etnikai-viszonyok-012",
+      "term": "szlovák nemzeti mozgalom",
+      "definition": "A szlovákok magyar asszimiláció elleni aktív mozgalma.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "etnikai-viszonyok-013",
+      "term": "cigány kérdés",
+      "definition": "A cigányság társadalmi és jogi helyzete a dualizmus korában: marginalizáció, diszkrimináció.",
+      "quote": "",
+      "text": ""
+    }
+  ]
+}

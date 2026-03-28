@@ -1,0 +1,291 @@
+{
+  "subjectId": "world-history",
+  "moduleId": "okor",
+  "quiz": [
+    {
+      "id": 1,
+      "type": "MC",
+      "question": "Milyen hatást gyakorolt Szolón reformja az athéni társadalomra?",
+      "options": [
+        "Az arisztokrácia hatalmát erősítette",
+        "Az adósrabszolgaságot eltörölte, megakadályozva, hogy szegény polgárok rabszolgaságba kerüljenek",
+        "A demokráciát teljesen eltörölte",
+        "A királyi hatalmát visszaállította"
+      ],
+      "answer": "Az adósrabszolgaságot eltörölte, megakadályozva, hogy szegény polgárok rabszolgaságba kerüljenek"
+    },
+    {
+      "id": 2,
+      "type": "BLANK",
+      "question": "Kleiszthenész reformjai azzal a céllal oszták fel az Attikát 10 phülére, hogy _____ gyengítse az arisztokrácia túlhatalmát.",
+      "options": [],
+      "answer": "keverés révén"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "question": "Melyik intézmény volt a sorsolás alapján kiválasztott az athéni demokráciában?",
+      "options": [
+        "Sztratégoszok",
+        "Ekklészia",
+        "Bulé és arkhónok",
+        "Periklész tanácsa"
+      ],
+      "answer": "Bulé és arkhónok"
+    },
+    {
+      "id": 4,
+      "type": "BLANK",
+      "question": "Periklész által bevezetett _____ lehetővé tette az alsóbb vagyoni osztályok számára, hogy napi munkavégzés nélkül részt vegyenek a demokratikus intézményekben.",
+      "options": [],
+      "answer": "napidíj"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "question": "Mit eredményezett az athéni demokrácián belül az, hogy csak szabad athéni férfiak voltak polgárok?",
+      "options": [
+        "Teljes egyenlőség volt",
+        "Nők, metoikoszok és rabszolgák voltak kizárva az politikai jogokból",
+        "Mindenkinek voltak politikai jogok",
+        "Az egyenlőség biztosítva volt"
+      ],
+      "answer": "Nők, metoikoszok és rabszolgák voltak kizárva az politikai jogokból"
+    },
+    {
+      "id": 6,
+      "type": "BLANK",
+      "question": "A peloponnészoszi háború _____ vezetett, amely Athén politikai vezető szerepét elveszítésé eredményezte.",
+      "options": [],
+      "answer": "Athén hanyatlásához"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "question": "Milyen hatása volt a babiloni fogságnak az izraeli vallásra?",
+      "options": [
+        "Az izraeli vallást véglegesen eltörölte",
+        "Véglegessé vált az izraeli monoteizmus",
+        "Az izraeli vallást hellenizmusával keverte",
+        "Az izraeli vallást erősítette az iszlám"
+      ],
+      "answer": "Véglegessé vált az izraeli monoteizmus"
+    },
+    {
+      "id": 8,
+      "type": "BLANK",
+      "question": "Az izraeli nép kettészakadása (Izrael észak és Júdea dél) _____ vezetett az izraeli államhatalom gyengüléséhez.",
+      "options": [],
+      "answer": "végül barbár fennhatósághoz"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "question": "Mi volt az az esemény, amely a diaszpóra tömegessé válásához vezetett?",
+      "options": [
+        "A babiloni fogság",
+        "A rómaiak által Kr. u. 70-ben történt jeruzsálemi templom lerombolása",
+        "Nagy Sándor hódításai",
+        "Az asszír félszerelése"
+      ],
+      "answer": "A rómaiak által Kr. u. 70-ben történt jeruzsálemi templom lerombolása"
+    },
+    {
+      "id": 10,
+      "type": "BLANK",
+      "question": "Az izraeli vallás után zsinagógák _____ vették át a vallási élet szervezésé a templom lerombolása után.",
+      "options": [],
+      "answer": "fokozatosan"
+    },
+    {
+      "id": 11,
+      "type": "MC",
+      "question": "Milyen hatást gyakorolt a görög építészet a rómaiak építészeti stílusára?",
+      "options": [
+        "Semmilyen hatást nem gyakorolt",
+        "A görögök alapformáit használták, de a rómaiak boltíveket és kupolákat fejlesztettek ki",
+        "A rómaiak teljes mértékben másolták a görögöket",
+        "A rómaiak elutasították a görög építészetet"
+      ],
+      "answer": "A görögök alapformáit használták, de a rómaiak boltíveket és kupolákat fejlesztették ki"
+    },
+    {
+      "id": 12,
+      "type": "BLANK",
+      "question": "Az _____ az ókori rómaiak által kifejlesztett építészeti technika lehetővé tette nagyobb belső tereket és hosszabb hidakat.",
+      "options": [],
+      "answer": "boltív"
+    },
+    {
+      "id": 13,
+      "type": "MC",
+      "question": "Milyen hatása volt az aquaeductus-nak az ókori Róma fejlődésére?",
+      "options": [
+        "Elő nem segítette a város fejlődését",
+        "Biztosította a város vízellátást, amely alapvető volt az ásványország növekedéséhez",
+        "Csak szórakoztató célt szolgált",
+        "Csak a gazdagok számára volt elérhető"
+      ],
+      "answer": "Biztosította a város vízellátást, amely alapvető volt az ásványország növekedéséhez"
+    },
+    {
+      "id": 14,
+      "type": "BLANK",
+      "question": "Az Pantheon kupolája _____ jelzi az ókori rómaiak mérnöki tudásának csúcspontját.",
+      "options": [],
+      "answer": "teljesen"
+    },
+    {
+      "id": 15,
+      "type": "MC",
+      "question": "Milyen hatása volt Pál apostol missziós munkájának a kereszténységre?",
+      "options": [
+        "Csökkentette a kereszténység terjedését",
+        "Egyetemes vallássá tette a kereszténységet, mivel a pogányok körében is prédikált",
+        "Azt javasolta, hogy maradjon csak zsidó vallásnak",
+        "Ellenezte a kereszténységet"
+      ],
+      "answer": "Egyetemes vallássá tette a kereszténységet, mivel a pogányok körében is prédikált"
+    },
+    {
+      "id": 16,
+      "type": "BLANK",
+      "question": "A milánói ediktum _____ fordulópontot jelölt a kereszténység történelmében, mivel vallásszabadságot adott.",
+      "options": [],
+      "answer": "egy"
+    },
+    {
+      "id": 17,
+      "type": "MC",
+      "question": "Milyen hatása volt a niceai zsinatnak az egyházi tanítás egységesítésére?",
+      "options": [
+        "Nincs hatása volt",
+        "A Szentháromság-tant dogmaként elfogadtatták, amely később a kereszténység központi hittétele lett",
+        "Az egyházi tanítást szétrombolták",
+        "Az ariánus tanítást elfogadták"
+      ],
+      "answer": "A Szentháromság-tant dogmaként elfogadtatták, amely később a kereszténység központi hittétele lett"
+    },
+    {
+      "id": 18,
+      "type": "BLANK",
+      "question": "Nagy Theodosius thesszalonikai ediktuma _____ a kereszténységet az egyetlen törvényes vallássá tette a Róma birodalomban.",
+      "options": [],
+      "answer": "véglegesen"
+    },
+    {
+      "id": 19,
+      "type": "MC",
+      "question": "Milyen hatást gyakorolt az, hogy az Izrael királyság északi része (Izrael) az asszírók által fogságba vitt?",
+      "options": [
+        "Nem volt hatása",
+        "Az izraeli nép egy része elszóródott, amely később a 'tízfülkék vesztettjének' nevezetes",
+        "Megerősítette az izraeli vallást",
+        "Az izraeli fajokat eltörölte"
+      ],
+      "answer": "Az izraeli nép egy része elszóródott, amely később a 'tízfülkék vesztettjének' nevezetes"
+    },
+    {
+      "id": 20,
+      "type": "BLANK",
+      "question": "Az athéni demokrácia virágkora alatt az _____ olyan szórakoztató és kulturális intézmények alapozódtak meg, mint a Parthenón és az Agorai Stonoi.",
+      "options": [],
+      "answer": "Periklész"
+    },
+    {
+      "id": 21,
+      "type": "MC",
+      "question": "Melyik döntés módszere csökkentette az erőforrás-központosítás lehetőségét az athéni demokráciában?",
+      "options": [
+        "Választás",
+        "Sorsolás",
+        "Királyok kijelölése",
+        "Arisztokrata választás"
+      ],
+      "answer": "Sorsolás"
+    },
+    {
+      "id": 22,
+      "type": "BLANK",
+      "question": "Az _____ az izraeli vallásnak az a rétege lett, amely az írásos Tórát a szóbeli hagyomány (Talmud) és a rabbik értelmezésein keresztül fejlesztette.",
+      "options": [],
+      "answer": "rabbinikus tradíció"
+    },
+    {
+      "id": 23,
+      "type": "MC",
+      "question": "Milyen hatása volt a Peloponnészoszi háborúnak az ógörögség politikai szerkezetére?",
+      "options": [
+        "Erősítette Athén vezetését",
+        "Spárt aszkétaísé erősítette meg mint vezető erő",
+        "Macedónia hatalma nőtt meg végül",
+        "Nincs jelentős hatása volt"
+      ],
+      "answer": "Spárt aszkétaísé erősítette meg mint vezető erő"
+    },
+    {
+      "id": 24,
+      "type": "BLANK",
+      "question": "Az első keresztény _____ Jeruzsálemben olyan szokásokat végzett, mint a keresztség és az úrvacsora, amelyek az egyházi élet alapját képezik.",
+      "options": [],
+      "answer": "közösségek"
+    },
+    {
+      "id": 25,
+      "type": "MC",
+      "question": "Milyen hatása volt az Jézus tanításainak az ókori Róma erkölcsi válságára?",
+      "options": [
+        "Nem volt hatása",
+        "Válaszot nyújtott az erkölcsi válságra, különösen vonzó volt a szegényeknek és rabszolgáknak",
+        "Megerősítette a pogány szokásokat",
+        "Eltörölte a keresztény hiteket"
+      ],
+      "answer": "Válaszot nyújtott az erkölcsi válságra, különösen vonzó volt a szegényeknek és rabszolgáknak"
+    },
+    {
+      "id": 26,
+      "type": "BLANK",
+      "question": "Az _____ által bevezetett napidíj rendszer alapozodott meg a demokratikus elv, hogy minden szabad polgárnak joga van a közügyek irányításában részt venni.",
+      "options": [],
+      "answer": "Periklész"
+    },
+    {
+      "id": 27,
+      "type": "MC",
+      "question": "Milyen hatása volt a hellenizmusnak az izraeli vallásra?",
+      "options": [
+        "Teljesen eltörölte az izraeli vallást",
+        "Befolyásolta az izraeli vallást, különösen az ún. hellenisztikus zsidók számára",
+        "Nem volt hatása",
+        "Erősítette az izraeli monoteizmust"
+      ],
+      "answer": "Befolyásolta az izraeli vallást, különösen az ún. hellenisztikus zsidók számára"
+    },
+    {
+      "id": 28,
+      "type": "BLANK",
+      "question": "Az _____ az izraeli nép történelmének egyik legfontosabb ünnepe, amely a Mózes által vezetett kivonulást ünnepli az egyiptomi szolgaságból.",
+      "options": [],
+      "answer": "pészah"
+    },
+    {
+      "id": 29,
+      "type": "MC",
+      "question": "Milyen hatása volt a mártíroknak a keresztény egyházzal?",
+      "options": [
+        "Csökkentette az egyház támogatottságát",
+        "Paradox módon erősítette az egyházat, mivel az kitartása bizonyította a hit erejét",
+        "Megsemmisítette az egyházat",
+        "Nincs hatása volt"
+      ],
+      "answer": "Paradox módon erősítette az egyházat, mivel az kitartása bizonyította a hit erejét"
+    },
+    {
+      "id": 30,
+      "type": "BLANK",
+      "question": "Az _____ az első univerzális vallási elv lett az izraeli és keresztény vallásokban, amely az egyén erkölcsi felelőssége kiemelkedő fontosságú.",
+      "options": [],
+      "answer": "Tízparancsolat"
+    }
+  ]
+}

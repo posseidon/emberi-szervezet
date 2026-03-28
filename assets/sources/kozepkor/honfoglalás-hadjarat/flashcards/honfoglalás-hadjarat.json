@@ -1,0 +1,95 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Honfoglalás",
+      "definition": "A magyarság 9-10. szd fordulóján történő betelepedése a Kárpát-medencébe. 895-907 között zajlott.",
+      "quote": "A magyarok új hazája",
+      "text": "A honfoglalás nem egyetlen hadjárat, hanem több évtizedes szakaszos bevonulás volt. Árpád vezetésével három szakaszban zajlott."
+    },
+    {
+      "id": 2,
+      "term": "Etelköz",
+      "definition": "A Dnyeper és Dnyeszter közötti terület, ahol a magyarok a honfoglalás előtt éltek. A vérszerződés helyszíne.",
+      "quote": "Az őshaza a Dunántúli kezdet előtt",
+      "text": "Etelközben éltek szabad félnomád törzsbünke. A besenyők támadásai miatt szükségessé vált a költözés."
+    },
+    {
+      "id": 3,
+      "term": "Vérszerződés",
+      "definition": "A magyar törzsfők szövetsége, amelyben Álmost ismerték el főfejedelemnek. Vérüket borral elegyítve itták meg az esküt.",
+      "quote": "Vér és pálinka az egyesség jelét",
+      "text": "Ez az esemény létrehozta a Magyar Nagyfejedelemséget. Álmos lett az első nagyfejedelem."
+    },
+    {
+      "id": 4,
+      "term": "Álmos",
+      "definition": "A vérszerződés során megválasztott első nagyfejedelem. Hagyomány szerint Attila hun király leszármazottja volt.",
+      "quote": "Az első nagy fejedelem",
+      "text": "Álmost a honfoglalás kezdetén még élt, de valószínűleg Erdélyben halt meg. Fia, Árpád vette át a tényleges vezetést."
+    },
+    {
+      "id": 5,
+      "term": "Árpád",
+      "definition": "Álmos fia, a honfoglalás tényleges vezetője. 907-ig irányította a magyarságot. Az Árpád-ház névadója.",
+      "quote": "Az igazi honalapító",
+      "text": "Árpád alatt zajlott a honfoglalás katonai folyamata. 907-ben a pozsonyi csatával biztosította a magyarság tartós berendezkedésétányelis."
+    },
+    {
+      "id": 6,
+      "term": "Gyepű",
+      "definition": "Természetes és mesterséges akadályokból álló védelmi övezet a magyar szállásterületek határán. Határvédelmi szerepe volt.",
+      "quote": "Az első magyar határvédelmi rendszer",
+      "text": "A gyepű a magyar fejedelemség egészét körülvette. Jelentős időben lassította az ostromokat."
+    },
+    {
+      "id": 7,
+      "term": "Székelyek",
+      "definition": "Eredete vitatott nép, amely a honfoglaláskor már a Kárpát-medencében élt. Később határőr funkciót kaptak.",
+      "quote": "Az eredeti határőrök",
+      "text": "A hagyomány azt tartotta, hogy hun utódok. Helyesen Szélkelyföldre telepítették őket, ahol határőrködtek."
+    },
+    {
+      "id": 8,
+      "term": "Kabarok",
+      "definition": "A kazárokhoz tartozó népcsoport, amely az utóbbiakkal ellentétben a magyarokhoz csatlakoztak. Külön törzset képeztek.",
+      "quote": "Az egyesített törzsalliancia szélesítése",
+      "text": "A kabarok fontos lovas hadot képeztek. Többszörös törzset alktatták, a hét magyar törzs mellett."
+    },
+    {
+      "id": 9,
+      "term": "Vereckei-hágó",
+      "definition": "A Kárpátok egyik hágója, ahol hagyomány szerint a magyar fősereg bevonult a Kárpát-medencébe.",
+      "quote": "Az átjáró az új hazába",
+      "text": "A Vereckei-hágón keresztül 895-ben avagy betört a fősereg. Ez lett szimbolikus betörési pont."
+    },
+    {
+      "id": 10,
+      "term": "Pozsonyi csata, 907",
+      "definition": "A honfoglalás katonai folyamatát lezáró csata, ahol a magyarok legyőzték a keleti frank sereget. Biztos hely a magyarság Kárpát-medencei tartózkodásának.",
+      "quote": "A honfoglalás végét jelző győzelem",
+      "text": "907-ben Árpád serege döntő győzelmet aratott a frank haderő ellen. Ez biztosította a magyarság tartós berendezkedésétanyelis."
+    },
+    {
+      "id": 11,
+      "term": "Kalandozások",
+      "definition": "A 10. szd magyar hadjáratai nyugat és délelőre. Céljuk zsákmányszerzés, adóztatás és szövetségi kötelezettségek teljesítése.",
+      "quote": "Az évszázad kiportyázásai",
+      "text": "899-970 között zajlottak. Ezek nem igazi hódítások voltak, hanem támadó portyák. A magyar seregek sorra arattak győzelmeket a széthuozo európai államok ellen."
+    },
+    {
+      "id": 12,
+      "term": "Reflexíj",
+      "definition": "Az összetett szerkezetű íj, amely nagyobb erőt és hatótávolságot biztosított. A honfoglalók fő fegyvere.",
+      "quote": "Az íj, amely legyőzi az nehéz páncélt",
+      "text": "A reflexíj jelentős előnyt adott a magyar íjászoknak a nyugati lovagokkal szemben. Ez volt a magyarok katonai sikerének alapja."
+    },
+    {
+      "id": 13,
+      "term": "Katonai taktika: megtévesztő visszavonulás",
+      "definition": "A magyar könnyűlovasok jellegzetes taktikája: látszólagos menekülés után váratlanul támadás és bekerítés.",
+      "quote": "Látszattól a valódi csapásig",
+      "text": "Ez a taktika nagyon hatékony volt a nehézpáncélos lovagok ellen. A kalandozások alatt több alkalommal успел sikeresült ezzel a módszerrel."
+    }
+  ]
+}

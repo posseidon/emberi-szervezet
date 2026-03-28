@@ -1,0 +1,95 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Aranybulla",
+      "definition": "II. András 1222-ben kiadott oklevél, amely a sérelmek orvoslását célozta. A magyar rendi alkotmány alapkövévé vált.",
+      "quote": "Az arany függő pecsétes jogbiztosító oklevél",
+      "text": "Az Aranybulla 31 cikkelye megtiltotta egész vármegyék eladományozását, védte a szerviensek jogait, és ellenállási záradékot tartalmazott."
+    },
+    {
+      "id": 2,
+      "term": "II. András új berendezkedése",
+      "definition": "II. András (1205-1235) birtokadományozási politikája, amely a királyi birtok szétdarabolódásához vezetett.",
+      "quote": "Az adományozás korának kezdete",
+      "text": "András szállóigévé válaszállott mondata: 'az adományozás legjobb mértéke a teljesen teljes szeretete'. Ez drámaian gyengítette a királyi hatalmat."
+    },
+    {
+      "id": 3,
+      "term": "Szerziens",
+      "definition": "Katonai szolgálatot teljesítő szabad emberek, akik közvetlenül a királytól függtek. Későbbi nemesek csírái.",
+      "quote": "A királyi jobbágyokból nemesek",
+      "text": "A szerviensek az Aranybullában jelentős jogokat kaptak: adómentesség, ítélet nélküli letartóztatás tilalma. Ez alapozta meg a nemesi jogokat."
+    },
+    {
+      "id": 4,
+      "term": "Pénzrontás",
+      "definition": "A pénz nemesfémtartalmának csökkentése, amely rövid tartamú jövedelmet, de inflációt okozott. II. András gyakorlata volt.",
+      "quote": "A pénz értékének csökkentése",
+      "text": "A pénzrontás a kincstár bevételeit növelte rövid termékre, de az általános szegénység miatt hosszú termékre csökkent."
+    },
+    {
+      "id": 5,
+      "term": "Regálé jövedelem",
+      "definition": "Királyi felségjogon szerzett pénzbeli jövedelem: vámbevételek, sómonopólium, pénzverés, mineszmény-adó.",
+      "quote": "A királynak járó felségjogi jövedelem",
+      "text": "A domaniális jövedelmek csökkenésével a regálék egyre fontosabbá váltak. II. András ezt próbálta növelni bérbeadott monopóliumokkal."
+    },
+    {
+      "id": 6,
+      "term": "Domaniális jövedelem",
+      "definition": "A királyi birtokokból, természetben beszedett jövedelem. Fő forrása volt a királyi jövedelemnek Szent Istvántól III. Béla koráig.",
+      "quote": "A föld terméséből származó jövedelem",
+      "text": "A domaniális jövedelmek drasztikusan csökkentek a birtokadományozások miatt. Ez szükségessé tette az új bevételi forrásokat."
+    },
+    {
+      "id": 7,
+      "term": "Kámarahaszna",
+      "definition": "A pénzrontásból és pénzváltásból származó jövedelem. Az Aranybulla szerint ezt nem lehet többet szedni.",
+      "quote": "A pénzváltás hasznából",
+      "text": "A kámarahaszna jelentős jövedelem volt, de az Aranybulla megtiltotta a gyakorlatát. Ez további bevételcsökkenéshez vezetett."
+    },
+    {
+      "id": 8,
+      "term": "Ellenállási záradék",
+      "definition": "Az Aranybulla 31. cikkelye, amely feljogosította a bárókat és püspököket az uralkodó elleni fellépésre, ha az megszegi a törvényt.",
+      "quote": "Az alattvalók joga a királyi önkény ellen",
+      "text": "Ez az Aranybulla legradikálisabb pontja volt. Alapvető szerepet játszott az angol Magna Charta után a rendi jogok fejlődésében."
+    },
+    {
+      "id": 9,
+      "term": "Andreanum",
+      "definition": "II. András 1224-ben kiadott kiváltságlevele az erdélyi szászok számára. Egységesen a szebeni ispán fennhatósága alá rendelte őket.",
+      "quote": "A szászok kiváltságlevele",
+      "text": "Az Andreanum jelentős önkormányzatot biztosított a szászoknak. Hozzájárult a kereskedelem fejlődéséhez és a városfejlődéshez."
+    },
+    {
+      "id": 10,
+      "term": "Német Lovagrend",
+      "definition": "Keresztes lovagiad, amelyet II. András 1211-ben a Barcaságba telepített. Önállósodási törekvéseik miatt 1225-ben kiűzte őket.",
+      "quote": "A lovagiad, amely túlságosan önálló akart lenni",
+      "text": "A Német Lovagrend 14 évot volt Magyarországon. Csak azért hozta őket, hogy erősítse a déli határokat. De hamarosan eltávolodtak a királyi kontroll alól."
+    },
+    {
+      "id": 11,
+      "term": "Szászok betelepülése",
+      "definition": "II. András 1224 körül német betelepülőket hívott Dél-Erdélybe, akiknek kiváltságlevelet (Andreanum) adott.",
+      "quote": "Az éhség német telepesek a gazdasághoz",
+      "text": "A szászok fejlettebb mezőgazdasági technikákat és városi kultúrát hoztak. Sokat fejlesztette a magyar gazdaságot."
+    },
+    {
+      "id": 12,
+      "term": "Gertrúd királyné gyilkossága, 1213",
+      "definition": "II. András merániai hercegnő felesége, akinek német rokonainak adományaira a magyar előkelyek féltékenyek voltak. Meggyilkolták.",
+      "quote": "Az idegen befolyás és a belháborúk",
+      "text": "Gertrúd halála szimbolizálta az idegengyűlölet és a nemzeti ellentéteket. Katona József drámájában ezt a témát dolgozta fel."
+    },
+    {
+      "id": 13,
+      "term": "Aranybulla megújítása, 1231 és 1233",
+      "definition": "Az egyház további kiváltságokért az 1231-es és 1233-as (beregi) megújításban tisztább feltételeket kapott.",
+      "quote": "Az egyházi nyomás eredménye",
+      "text": "Az egyház csökkentette a számára hátrányos pontok. A 1233-as beregi egyezmény teljes adómentességet biztosított az egyháznak."
+    }
+  ]
+}

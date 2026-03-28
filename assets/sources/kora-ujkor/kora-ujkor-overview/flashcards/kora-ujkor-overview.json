@@ -1,0 +1,312 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Újkor",
+      "definition": "Az emberiség történelmének olyan időszaka, amely általában az 1492-es amerikai felfedezéstől a francia forradalom végéig tartott. Az újkor kezdetét a nagy földrajzi felfedezések és a reneszánsz jellemzik.",
+      "quote": "Új világok és új eszmék",
+      "text": "Az újkor a középkorral szemben a felvilágosodás, a kapitalista termelési módok kialakulása és a nemzetállamok erősödésének korszaka. Ezt az időszakot az emberi tudás és az anyagi világ iránti nuevenézése jellemzi."
+    },
+    {
+      "id": 2,
+      "term": "Reneszánsz",
+      "definition": "14-16. századi kulturális és szellemi mozgalom, amely az ókori görög-római műveltséget újraélesztette. A középkori világképet az emberi értelem és a természet tanulmányozása váltotta fel.",
+      "quote": "Tudás a hatalom",
+      "text": "A reneszánsz az egyénre, a kísérletezésre és az empirikus tudásra helyezte a hangsúlyt. Fő képviselői Petrarca, Leonardo da Vinci és Michelangelo voltak. A mozgalom támogatta a nagy földrajzi felfedezéseket és az új eszméket."
+    },
+    {
+      "id": 3,
+      "term": "Reformáció",
+      "definition": "16. századi vallási megújulási mozgalom, amely Luther Márton 1517-es 95 tézisével kezdődött. Célja a katolikus egyház visszaéléseinak orvoslása és a hit tisztasága volt.",
+      "quote": "Sola fide, sola gratia, sola Scriptura",
+      "text": "Luther, Kálvin és Zwingli voltak a legfontosabb reformátorok. A mozgalom szétzilálta az egyházi egységet, támogatói pedig nagyobb nyelvű igehirdetésért és a papi közvetítés nélküli egyenes kapcsolatért harcoltak az istenséggel."
+    },
+    {
+      "id": 4,
+      "term": "Ellenreformáció",
+      "definition": "A katolikus egyház válasza a reformációra a 16-17. századi korszakban. Kombinálta az adminisztratív erőszakot és az egyházi belső megreformálást.",
+      "quote": "Jezsuiták, inkvizíció, tridenti zsinat",
+      "text": "Legfontosabb szereplői: III. Pál pápa, a jezsuita rend (Loyolai Szent Ignác), és a tridenti zsinat (1545-1563). Az ellenreformáció politikai és kulturális megerősítéshez is vezetett, különösen a barokk művészettel."
+    },
+    {
+      "id": 5,
+      "term": "Mohácsi csata",
+      "definition": "1526. augusztus 29-én vívott döntő ütközet az oszmán szultán, I. Szulejmán és a magyar király, II. Lajos között. A magyar sereg megsemmisítő vereséget szenvedett, a király pedig a csatából menekülve a Csele-patakban fulladt.",
+      "quote": "A középkori magyar állam bukása",
+      "text": "A csata Magyarország történetének egyik legdöntőbb eseménye volt. 15 000 magyar halott, számos főnemesi veszteség és a királyi család tragédiája következett. A csata után az ország három részre szakadt: Habsburg-uralom alatti Királyi Magyarországra, török hódoltságra és az Erdélyi Fejedelemségre."
+    },
+    {
+      "id": 6,
+      "term": "I. Szulejmán",
+      "definition": "Az Oszmán Birodalom szultánja 1520-1566 között. Nagy hódításaival a birodalom hatalma csúcsára jutott, az Oszmán Birodalom történetének legjelentősebb vezetője volt.",
+      "quote": "Az oszmán nagysága csúcsa",
+      "text": "Szulejmán hatalmas expanzióval foglalkoztatott: meghódította Nándorfehérvárat, legyőzte a magyarokat Mohácsnál, ostromolta Bécset. Magyarország három részre szakadása közvetlenül az ő politikájának eredménye volt. Halála (1566) után az Oszmán Birodalom fokozatosan hanyatlani kezdett."
+    },
+    {
+      "id": 7,
+      "term": "Szapolyai János",
+      "definition": "Magyar királlyá választott erdélyi vajda a mohácsi csata után (1526-1540). A nemzeti függetlenség híveként a törökökkel kötött szövetséget, hogy szembenálljon Habsburg Ferdinánddal.",
+      "quote": "A nemzeti önállóság jelképe",
+      "text": "Szapolyai döntetlenül küzdött Ferdinánddal, majd a törökök támogatásával a keleti országrészt tudta megtartani. Politikája végül az ország megosztásához vezetett. Halála után fia, János Zsigmond követte, akinek idején a Speyeri szerződés (1570) jogi keretbe foglalta az Erdélyi Fejedelemség függetlenségét."
+    },
+    {
+      "id": 8,
+      "term": "Erdélyi Fejedelemség",
+      "definition": "A Speyeri szerződés (1570) által jogi keretbe foglalt államalakulat, amely a Magyar Királyság keleti részéből alakult ki. János Zsigmond volt az első fejedelme.",
+      "quote": "A magyar önállóság utolsó bástyája",
+      "text": "Az Erdélyi Fejedelemség formailag a török szultán hűbérese volt, de valójában önálló belpolitikát és külpolitikát folytatott. Saját kancelláriája, hadsege és pénzverése volt. Az 1568-as tordai országgyűlés négy bevett vallást ismertetett el, amely Európa egyik legkorábbi vallási tolerancia-törvénye volt."
+    },
+    {
+      "id": 9,
+      "term": "Rákóczi-szabadságharc",
+      "definition": "II. Rákóczi Ferenc által vezetett 1703-1711 közötti fegyveres felkelés a Habsburg abszolutizmus és a magyar függetlenség visszaszerzéséért.",
+      "quote": "Vitézek és kurucok",
+      "text": "A szabadságharc kezdetét az 1703-as brezáni kiáltvány jelölte. Az 1705-ös szécsényi országgyűlésen Rákóczit vezérlő fejedelemmé választották. A háború nem vezetett a függetlenséghez, de a 1711-es szatmári béke helyreállította a magyar rendi jogokat és a magyar önkormányzatot a Habsburg Monarchián belül."
+    },
+    {
+      "id": 10,
+      "term": "Szatmári béke",
+      "definition": "1711. április 30-án aláírt megállapodás II. Rákóczi Ferenc szabadságharca és a Habsburg Birodalom között. Amnesztiát és a magyar rendi jogok visszaállítását biztosította.",
+      "quote": "Kompromisszum és békés koegzisztencia",
+      "text": "A béke feltételei: amnesztia a kurucok számára, a magyar rendi jogok megőrzése, az országgyűlés összehívásának ígérete, és a protestánsok vallásszabadsága. Bár nem teljesítette a teljes függetlenséget, helyreállította Magyarország alkotmányát a Habsburg Monarchia keretein belül."
+    },
+    {
+      "id": 11,
+      "term": "Mária Terézia",
+      "definition": "Habsburg uralkodó 1740-1780 között. Átfogó reformok révén megerősítette birodalmát és bevezette a felvilágosult abszolutizmust.",
+      "quote": "A reformok úrnője",
+      "text": "Gazdasági reformjai (kettős vámhatár 1754), társadalmi intézkedései (úrbéri rendelet 1767), és oktatási rendszere (Ratio Educationis 1777) alapvető változásokat hoztak. A magyar rendek az 1741-es pozsonyi országgyűlésen támogatták őt az örökösödési háborúban."
+    },
+    {
+      "id": 12,
+      "term": "II. József",
+      "definition": "Mária Terézia fia, a Habsburg Birodalom uralkodója 1780-1790 között. Felvilágosult abszolutista reformjai radikálisak voltak, de végül kudarcra vezettek.",
+      "quote": "A 'kalapos király'",
+      "text": "II. József nem koronáztatta meg magát magyarként, hogy elkerülje az esküt a magyar alkotmányra. Rendeleti kormányzást folytatott, a németet tette a birodalom hivatalos nyelvévé, feloszlatta szerzetesrendeket, és felszabadította a jobbágyokat személyükben. Reformjai azonban heves ellenállást váltottak ki, és halála előtt nagy részüket visszavonta."
+    },
+    {
+      "id": 13,
+      "term": "Karavella",
+      "definition": "Új hajótípus, amely a 15. században forradalmosította a tengeri közlekedést. Magas oldalfalú, több árbóccal és olyan vitorlázattal ellátott, amely ellenszélben is lehetővé tette az előrehaladást.",
+      "quote": "A felfedezések hajóembere",
+      "text": "A karavella nagyobb hatótávolságú és teherbirású volt, mint a korábbi kisebb hajók. Lehetővé tette az atlanti óceáni utazásokat. Portugália és Spanyolország felfedezőutai ezzel a hajótípussal indultak."
+    },
+    {
+      "id": 14,
+      "term": "Kapitalizmus",
+      "definition": "A 16. századi és azt követő gazdasági rendszer, amelyben a tőke a központi szereplő. A cél a tőkefelhalmozás és az újrabefektetés, amit a verseny ösztönöz.",
+      "quote": "Pénz termel pénzt",
+      "text": "A kapitalizmus kialakulásában fontos szerep jutott a kereskedelmi társaságoknak, a manufaktúráknak és a bankoknak. Az árforradalom (a gyarmati nemesfémek beáramlása) is elősegítette a gazdasági fejlődést, ugyanakkor az inflációt is fokozta."
+    },
+    {
+      "id": 15,
+      "term": "Manufaktúra",
+      "definition": "Kézi munkára épülő termelési forma, amely a munkavégzést részfolyamatokra bontotta. A 16-17. századi kapitalizmus jellegzetes intézménye volt.",
+      "quote": "Megosztott munka, nagyobb hatékonyság",
+      "text": "A manufaktúrákban a termelés több munkaműveletre tagolódott, így minden dolgozó egy-egy műveletre specializálódott. Ez nagyobb hatékonyságot eredményezett, mint a korábbi kézműves munka, de az egyéb minőség gyakran gyengébb volt."
+    },
+    {
+      "id": 16,
+      "term": "Mercantilizmus",
+      "definition": "A 17-18. századi gazdaságpolitika elve, amely az export ösztönzésére, az import korlátozására és a nemesfémek felhalmozására helyezte a hangsúlyt.",
+      "quote": "A király gazdagsága az ország gazdagsága",
+      "text": "Mária Terézia kettős vámrendszere és a Habsburg közgazdaságpolitikája is mercantilista elveken alapult. A rendszer célja az állam gazdasági hatalmának növelése volt, amit az angol és holland kereskedelem fejlődése azonban végül legyőzött."
+    },
+    {
+      "id": 17,
+      "term": "Kolumbusz Kristóf",
+      "definition": "Genovai születésű, spanyol szolgálatú hajós, aki 1492-ben átkelt az Atlanti-óceánon és Amerikát fedezte fel. Azonban azt hitte, hogy Ázsiába jutott el.",
+      "quote": "Az Újvilág felfedezője",
+      "text": "Kolumbusz három hajóval (Santa Maria, Niña, Pinta) utazott. A Bahamáknál földet ért, és azt hitte, hogy Indiát érte el. Colombus haláláig nem ismert fel, hogy új földrészt fedezett fel. Az Amerika kontinens Amerigo Vespucciről kapta a nevét."
+    },
+    {
+      "id": 18,
+      "term": "Vasco da Gama",
+      "definition": "Portugál hajós, aki 1498-ban elsőként érte el Indiát tengeri úton a Jóreménység fokán át. Megnyitotta az útat a tengeri fűszerkereskedelemhez.",
+      "quote": "Az út Indiához",
+      "text": "Da Gama sikeres expedition alapja lett a portugál Indiai-óceán-beli dominanciájának. Portugália ezután kereskedelmi állomásokat és erődöket alapított az egész régióban, amely gyakorlatilag portugál ellenőrzés alá került."
+    },
+    {
+      "id": 19,
+      "term": "Bartolomeu Diaz",
+      "definition": "Portugál felfedező, aki 1487-ben elérte Afrika legdélebbi pontját, a Jóreménység fokát. Bebizonyította, hogy Afrika megkerülhető.",
+      "quote": "Afrika végén túl",
+      "text": "Diaz sikere azzal a reménnyel biztatott, hogy Indiához is el lehet jutni tengeri úton. Ez a felfedezés közvetlenül hozzájárult ahhoz, hogy Vasco da Gama később sikeresen elérte Indiát."
+    },
+    {
+      "id": 20,
+      "term": "Azték Birodalom",
+      "definition": "Közép-Mexikóban kialakult fejlett amerindián civilizáció, amelynek főváros Tenochtitlán volt. Hernán Cortés spanyol konkvisztádor 1519-1521 között meghódította.",
+      "quote": "Az újvilág civilizációja",
+      "text": "Az azték birodalom kiváló szervezettel, fejlett mezőgazdasággal és monumentális építészettel rendelkezett. Az emberáldozat gyakorlata azonban sok leigázott nép forradalomra késztette, amely segítette Cortés győzelmét. Az azték uralom bukása a spanyol világbirodalom alapjait fektette le."
+    },
+    {
+      "id": 21,
+      "term": "Inka Birodalom",
+      "definition": "Az Andes hegyvidékén kialakult fejlett amerindián állam, amelynek főváros Cuzco volt. Francisco Pizarro 1531-1533 között hódította meg.",
+      "quote": "A Kordilléra birodalmassága",
+      "text": "Az inkák kiváló infrastruktúrát hoztak létre: öntözésrendszert, útrendszert és szervezettgazdaságot. Központosított államrendszerük azonban sérülékeny volt a spanyol támadásokkal szemben. A hódítást segítette az internális háborúk és a pénzügyi válság."
+    },
+    {
+      "id": 22,
+      "term": "Luther Márton",
+      "definition": "Német szerzetes és teológus, aki 1517-ben nyilvánosságra hozta 95 tételét a búcsúcédulák ellen. A reformáció elindítója volt.",
+      "quote": "Merjgondolkodni!",
+      "text": "Luther alapelvei: sola fide (csak a hit üdvözít), sola gratia (csak az Isten kegyelme), sola Scriptura (csak az Írás a tekintély). Tanai gyorsan terjedtek, és egy új vallási és politikai mozgalom alapjait képezték. Az augsburgi vallásbéke (1555) végül jogi keretet adott a lutheranizmusnak Németország területén."
+    },
+    {
+      "id": 23,
+      "term": "Kálvin János",
+      "definition": "Francia teológus, aki Genfben alapította meg a kálvinista egyházi közösséget. Tanítása a predesztinációra és a szigorú erkölcsi rendszerre emlékezetes.",
+      "quote": "Predesztináció és erkölcs",
+      "text": "Kálvin 1536-ban adta ki alapművét, 'A keresztény vallás tanítása' című munkáját. A kálvinizmus a polgári önszerveződés és az alkotmányos gondolkodás előfutárává vált. A zsarnokölés tana pedig későbbi politikai mozgalmakra hatott."
+    },
+    {
+      "id": 24,
+      "term": "Pázmány Péter",
+      "definition": "Jezsuita szerzetes és esztergomi érsek (1570-1637), a magyar ellenreformáció vezéralakja. Békés eszközökkel próbálta megvalósítani a rekatolizációt.",
+      "quote": "A magyar barokk írója",
+      "text": "Pázmány szónoki tehetségével és írói munkásságával válhatott a magyar barokk irodalom megteremtőjévé. 1635-ben megalapiotta a nagyszombati egyetemet, amely a mai ELTE elődje. Felismerte, hogy a katolicizmust össze kell egyeztetni a magyar rendi hagyományokkal."
+    },
+    {
+      "id": 25,
+      "term": "Tridenti zsinat",
+      "definition": "1545-1563 között tartott egyházi tanácskozás, amely a katolikus megújulás programját határozta meg. Legfontosabb alakulata az ellenreformációnak.",
+      "quote": "A katolikus válasz a reformációra",
+      "text": "A zsinat betiltotta a búcsúcédulák árusítását, megerősítette a pápa tekintélyét és a katolikus dogmákat, kötelezővé tette a papnevelő szemináriumok felállítását, és egységesítette a liturgiát. A döntések hosszú távon megerősítették a katolicizmust, sőt sikerült visszaszerezni híveket."
+    },
+    {
+      "id": 26,
+      "term": "Felvilágosodás",
+      "definition": "17-18. századi eszmei mozgalom, amely az emberi értelem, a tudomány és a szabadság elveire építve a feudalizmus és az egyházi dogmák ellen lépett fel.",
+      "quote": "Sapere aude! - Merj gondolkodni!",
+      "text": "A felvilágosodás filozófusai - Locke, Montesquieu, Rousseau, Voltaire - a természetes jogok, a társadalmi szerződés és a népfelség gondolatait fejlesztették ki. Gondolataik közvetlenül hatottak az 1789-es francia forradalomra."
+    },
+    {
+      "id": 27,
+      "term": "John Locke",
+      "definition": "Angol filozófus, aki a polgári szabadságok elméleti alapjait fektezte le. 'Két értekezés a polgári kormányzatról' műve a modern liberalizmus alapműve.",
+      "quote": "Az emberek szabadnak és egyenlőnek születnek",
+      "text": "Locke szerint az embernek veleszületett, elidegeníthetetlen jogai vannak: élet, szabadság és tulajdon. Az állam feladata ezen jogok védelme. Ha az uralkodó visszaél hatalmával, a nép joga van a hatalom megdöntésére. Ez az elv az alkotmányos monarchia gondolatának alapja lett."
+    },
+    {
+      "id": 28,
+      "term": "Montesquieu báró",
+      "definition": "Francia filozófus, aki 'A törvények szelleméről' munkájában a hatalommegosztás elvét fejlesztette ki. Ez a modern demokráciák alapja lett.",
+      "quote": "Hatalom a hatalom ellen",
+      "text": "Montesquieu szerint a politikai szabadság csak akkor valósulhat meg, ha a hatalom három ága - törvényhozó, végrehajtó és bírói - független egymástól és egymást ellenőrzik. Ez az elv a modern államok felépítésének alapjául szolgál."
+    },
+    {
+      "id": 29,
+      "term": "Jean-Jacques Rousseau",
+      "definition": "Svájci-francia gondolkodó, aki a népfelség és a közvetetlen demokrácia gondolatának teoretikusa. 'A társadalmi szerződés' című műve a demokratikus gondolkodás klasszikusa.",
+      "quote": "Az általános akarat mindenkit kötelez",
+      "text": "Rousseau szerint a nép közösségként alkot szerződést önmagával, nem az uralkodóval. A képviseleti rendszer szerinte veszélyes, mert elszakadhat a néptől. A közjó érdekében az emberek korlátozzák saját szabadságukat, de ez az önkéntes korlátozás mindenki hasznát szolgálja."
+    },
+    {
+      "id": 30,
+      "term": "Emberi és Polgári Jogok Nyilatkozata",
+      "definition": "1789. augusztus 26-án elfogadott francia dokumentum, amely az emberi jogok egyetemes, természetjogi alapjait rögzítette. A modern emberi jogi gondolkodás egyik alapszövege.",
+      "quote": "Szabadság, egyenlőség, testvériség",
+      "text": "A Nyilatkozat 17 cikkely foglalt magában, amelyek rögzítették az emberi méltóságot, a jogegyenlőséget, a szólás- és vallásszabadságot, az ártatlanság vélelmet és a törvény előtti egyenlőséget. Hatása máig érezhető az ENSZ Emberi Jogok Egyetemes Nyilatkozatában."
+    },
+    {
+      "id": 31,
+      "term": "Szabadságharc",
+      "definition": "Fegyveres küzdelem a nemzeti önállóság visszaszerzéséért. A Rákóczi-szabadságharc (1703-1711) volt a magyarság legjelentősebb függetlenségi harca a középkor után.",
+      "quote": "Kurucok és labancok",
+      "text": "II. Rákóczi Ferenc vezetésével a magyar rendek és a parasztság közösen fellépett a Habsburg abszolutizmus ellen. Bár a szabadságharc katonailag kudarcba fulladt, politikai eredménye a magyar rendi jogok helyreállítása volt."
+    },
+    {
+      "id": 32,
+      "term": "Végvárrendszer",
+      "definition": "A török hódítások megállítására Magyarország déli és keleti határvidékén építettvárvonalak. A végvári katonák hősi védelme a magyar ellenállás jelképe lett.",
+      "quote": "Eger és Szigetvár dicsősége",
+      "text": "A végvári rendszer erődítéseit magyar, horvát és német katonák őrizték. Az 1552-es egri vár sikeres védelme (Dobó István vezetésével) és az 1566-os szigetvári hősies kudarc (Zrínyi Miklós vezetésével) a magyar hősiség jelképei lettek."
+    },
+    {
+      "id": 33,
+      "term": "Buda eleste",
+      "definition": "1541. augusztus 29-én Buda város török kézre kerülte. Ez az esemény megsemmisítette a magyar politikai egységet és Magyarország három részre szakadásához vezetett.",
+      "quote": "Az ország három részre szakadása",
+      "text": "Buda elvesztése után az ország három független területre oszlott: a Királyi Magyarország (Habsburg uralom alatti), a Török Hódoltság (közvetlen szultáni fennhatóság alatt) és az Erdélyi Fejedelemség (szultáni hűbér alatt, de önálló). Ez a helyzet 150 évig tartott."
+    },
+    {
+      "id": 34,
+      "term": "Speyeri szerződés",
+      "definition": "1570-ben II. Miksa és János Zsigmond között kötött egyezmény, amely jogilag megteremtette az Erdélyi Fejedelemséget és véglegesen rögzítette Magyarország három részre szakadt állapotát.",
+      "quote": "Az Erdélyi Fejedelemség alapítása",
+      "text": "A szerződés értelmében János Zsigmond lemondott a magyar királyi címről és felvette az 'Erdély és a Partium fejedelme' címet. Formailag elismerte a Habsburg uralkodó felsőbbségét, de ténylegesen független belpolitikát folytatott."
+    },
+    {
+      "id": 35,
+      "term": "Szécsényi országgyűlés",
+      "definition": "1705. szeptember-október között tartott kuruc országgyűlés, amely Rákóczit vezérlő fejedelemmé választotta és kialakította a rendi konföderációs államszervezetet.",
+      "quote": "Magyarország rendi konföderációja",
+      "text": "Az országgyűlés megteremtette a kuruc állam szervezetét: 24 tagú szenátust, Udvari Kancelláriát, Gazdasági Tanácsot. Elfogadta a vetési pátenst, amely a harcoló jobbágyokat mentesítette a terhek alól. Ez a szabadságharc szervezett államalakítási kísérlete volt."
+    },
+    {
+      "id": 36,
+      "term": "Ónodi országgyűlés",
+      "definition": "1707. május-június között tartott kuruc országgyűlés, amely kimondta a Habsburg-ház trónfosztását és az általános adóztatást bevezetett.",
+      "quote": "A végső szakítás",
+      "text": "Az ónodi határozatok megmutatták, hogy a szabadságharc már nem volt egyszerű felkelés, hanem önálló államalakítási kísérlet. A trónfosztás azonban megosztotta a rendeket, és a kitartás végül pénzügyi és katonai kudarcba fulladt."
+    },
+    {
+      "id": 37,
+      "term": "Tordai országgyűlés",
+      "definition": "1568-ban tartott erdélyi országgyűlés, amely kimondta a vallásszabadságot és négy 'bevett vallást' ismertetett el: katolikus, református, evangélikus és unitárius.",
+      "quote": "Vallási türelem törvénybe foglalva",
+      "text": "A tordai határozat Európa egyik legkorábbi vallási tolerancia-törvénye volt. A szabályozás lehetővé tette, hogy Erdélyben a különböző vallások békésen egymás mellett élhessenek. Ez a vallási pluralizmus Erdély egyedi politikai és szellemi jellegzetessége lett."
+    },
+    {
+      "id": 38,
+      "term": "Déli németség",
+      "definition": "A Bánság, Bácska és más déli magyarországi vidékre telepített német (sváb) parasztok a 18. századi Habsburg betelepítési politika keretében. Katolikus vallásúak voltak és támogatták az ellenreformációt.",
+      "quote": "Svábság és katolikus hit",
+      "text": "A Habsburgok szervezetten telepítették a délnémet parasztokat az elnéptelenedett területekre. Adómentességgel, ingyenes földdel és házakkal csábították őket. A betelepítés megváltoztatta a magyarországi nemzetiségi összetételt."
+    },
+    {
+      "id": 39,
+      "term": "Népességrobbanás",
+      "definition": "A 18. századi Magyarországon megfigyelhető gyors népességnövekedés. Az ország lélekszáma 1711-ben 4 millió fő körül volt, 1787-re pedig 9,5 millió főre nőtt.",
+      "quote": "Népességnövekedés és betelepítések",
+      "text": "A növekedés forrása: természetes szaporodás (a háborúk lezárulta után), valamint az aktív betelepítési politika (III. Károly és Mária Terézia unter). Az etnikai arányok feltűnően megváltoztak: a magyarság aránya 80%-ról 40-45%-ra esett."
+    },
+    {
+      "id": 40,
+      "term": "Úrbéri rendelet",
+      "definition": "Mária Terézia 1767-es rendelete, amely rögzítette a jobbágytelek nagyságát és az ahhoz kapcsolódó szolgáltatások mértékét. A jobbágyság védelmét és az adóalap stabilitását célozta.",
+      "quote": "A robot szabályozása",
+      "text": "Az úrbéri rendelet maximalizálta a robot heti mértékét (1 nap igás vagy 2 nap gyalogmunka), rögzítette az adók és terményadók arányát, és panaszjogot adott a jobbágyoknak. Ez a rendszer rugalmatlanná tette a mezőgazdaságot, de fokozatosan felszámolódott az agrárkrízis során."
+    },
+    {
+      "id": 41,
+      "term": "II. József jobbágyrendelete",
+      "definition": "II. József 1785-ös rendelete, amely személyében felszabadította a jobbágyokat: engedélyezte a szabad költözést, házasodást és munkavállalást.",
+      "quote": "A személyes szabadság",
+      "text": "Fontos megjegyezni, hogy ez nem jelentett föld-felszabadítást: a föld továbbra is a földesúr tulajdona maradt. Azonban a személyi függés megszűnt, amely nagy szociális forradalom volt. II. József halálakor ezt az intézkedést kivétel nélkül megtartotta."
+    },
+    {
+      "id": 42,
+      "term": "Türelmi rendelet",
+      "definition": "II. József 1781-es vallásügyi rendelete, amely engedélyezte a szabad vallásgyakorlatot az evangélikusok, reformátusok és ortodoxok számára, valamint megnyitotta előttük az olyan hivatalviselés lehetőségét.",
+      "quote": "Vallási egyenlőség",
+      "text": "A rendelet célja az volt, hogy felszámolja a felekezeti különbségeket és minden alattvalót azonos jogállású polgárrá tegyen. Ez a radikális intézkedés jól mutatja II. József felvilágosult abszolutista gondolkodásmódját, bár az egyházi körök mély ellenszenvét váltotta ki."
+    },
+    {
+      "id": 43,
+      "term": "Nyelvrendelet",
+      "definition": "II. József 1784-es rendelete, amely a németet tette a Habsburg Birodalom hivatalos nyelvévé. Célja az egységes közigazgatás megteremtése volt, de súlyosan sértette a nemzeti érzelmeket.",
+      "quote": "A germanizáció kezdete",
+      "text": "A nyelvrendelet heves tiltakozást váltott ki a magyar, cseh és egyéb nemzetiségek körében. Ez az intézkedés az egyik indítóoka lett a magyar nemzeti mozgalomnak, amely a későbbi reformkorban vált erősen tudatossá. A rendeletet II. József halála után visszavonták."
+    },
+    {
+      "id": 44,
+      "term": "Pragmatica Sanctio",
+      "definition": "1713-ban VI. Károly által kiadott rendelet, amely a Habsburg Birodalom nőági örökölhetőségét és területi egységét biztosította. Ennek alapján lépett trónra Mária Terézia.",
+      "quote": "A birodalom egysége",
+      "text": "A Pragmatica Sanctio jogi alapot adott a női örökösödésnek, amely a 18. századi Európában nem volt általános. Ez az okmány biztosította a Habsburg Birodalom relatív stabilitását és dinasztikus folytonosságát."
+    }
+  ]
+}

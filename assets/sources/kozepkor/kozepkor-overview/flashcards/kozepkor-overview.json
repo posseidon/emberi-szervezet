@@ -1,0 +1,95 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Középkor",
+      "definition": "Az európai történelem időszaka a Nyugatrómai Birodalom bukása (476) után, amely a 15. századdal zárult. Jellemzője a feudális társadalom, az egyház dominanciája és a vallásosság.",
+      "quote": "Az Isten teremtette a világot és mindenkinek a helyét.",
+      "text": "A középkor világképe teocentriks volt - Isten a világ középpontjában állt. A társadalmat három rend alkotta: imádkozók (papság), harcolók (nemesség) és dolgozók (parasztság). Ez az időszak a keresztény kultúra alapjait teremtette meg Európában."
+    },
+    {
+      "id": 2,
+      "term": "476",
+      "definition": "A Nyugatrómai Birodalom bukásának éve, amely a középkor kezdetét jelöli a nyugat-európai történelemben.",
+      "quote": "Odoacer legtette Romulus Augustuluszt",
+      "text": "476-ban a germán Odoacer legyőzte az utolsó nyugatrómai császárt. Ez az esemény szimbolikusan jelöli az antik világ végét és az új középkori korszak kezdetét Európában."
+    },
+    {
+      "id": 3,
+      "term": "Feudalizmus",
+      "definition": "Középkori társadalmi és gazdasági rendszer, amelyet a föld és a hűségi viszonyok határoztak meg. A föld volt a fő vagyon, amely alapján a szociális hierarchia működött.",
+      "quote": "Föld és hűség az alapok",
+      "text": "A feudalizmus alapja a hűbéri kapcsolat volt: a hűbérúr föld cseréjében védelmet és szolgálatot vártak el. Ez a rendszer Nyugat-Európában volt a legerősebb, de a magyar fejedelemség sztyeppei mintákat követett."
+    },
+    {
+      "id": 4,
+      "term": "Hűbériség",
+      "definition": "Kölcsönös jogi és katonai viszony a hűbérúr és a vazallus között, amely föld adományozáson alapult. A vazallus szolgálatot, a hűbérúr védelmet ígért.",
+      "quote": "Katonai szolgálat föld cseréjében",
+      "text": "A hűbériség a feudális társadalom alapvető szervezőelve volt. A vazallus kedve según teljesített katonai vagy lovagrendi szolgálatot, cserébe a hűbérúr segítségét és földbirtokokat kapott. A kapcsolat személyes és kölcsönös volt."
+    },
+    {
+      "id": 5,
+      "term": "Uradalom",
+      "definition": "Önellátó nagybirtok, amely a középkori gazdaság alapegysége volt. Gazdasági, katonai és közigazgatási feladatokat egyúttal ellátott.",
+      "quote": "Az uradalom a középkor gazdaságának szíve",
+      "text": "Az uradalom nem puszta gazdasági egység, hanem hatalmi szervezet is volt. Központja a vár vagy az udvarház volt, ahol a földesúr bíráskodott és irányította a termelést. Az uradalmak önellátásra rendezkedtek be, saját műhelyeket és piacot tartottak fenn."
+    },
+    {
+      "id": 6,
+      "term": "Jobbágy",
+      "definition": "Függő helyzetű paraszt a középkorban, aki a föld használatáért terményadót, pénzadót és robotmunkát ígért. Jogilag nem volt szabad, de nem volt rabszolga sem.",
+      "quote": "Föld használata cserébe terményadóért",
+      "text": "A jobbágy a középkori társadalom legnépesebb rétege volt. Helyzetük a 13. századdal javult: szabadon költözhettek, telküket örökíthetik, és közös használatú területeket (erdők, legelők) használhattak. A jobbágyság a 13. szd végére jogilag egységes réteggé vált."
+    },
+    {
+      "id": 7,
+      "term": "Céh",
+      "definition": "Azonos mesterséget űző iparosok szervezete a középkori városokban. Szabályozták a termelést, az árakat és a minőséget, monopolizálva a munkapiacot.",
+      "quote": "Verseny kizárása, hogy mindenki megélhessen",
+      "text": "A céhek a városok gazdasági alapját képezték. Tagjai az inas, a legény és a mester voltak. Szigorú szabályokkal védelmeztékönmagokat a nem céhes kontárok ellen, de biztosították az alapanyag-ellátást és a minőséget. A céhek közösségi feladatokat is elláttak: szegények támogatása, város védelme."
+    },
+    {
+      "id": 8,
+      "term": "Város a középkorban",
+      "definition": "Önkormányzattal rendelkező település, amely jogi kiváltságok révén szabad piacként működött. A feudális rendszer keretein kívül álló gazdasági centrum.",
+      "quote": "A városi levegő szabaddá tesz",
+      "text": "A középkori városok szabad polgárokból áltak, akik egy év és egy nap után városi jogokat nyertek el. A városok piaczó kiváltságokat, önálló bíráskodást és gyakran falépítési jogot kaptak. A kereskedelem és a kézművesség révén gazdasági erőforrássá váltak."
+    },
+    {
+      "id": 9,
+      "term": "Egyházi hierarchia",
+      "definition": "Az egyház szervezeti szerkezete a pápától az egyszerű plebánosokig. Minden szinten hierarchikus alárendeltsé volt jellemző.",
+      "quote": "Hierarchia: mindenki engedelmeskedik a felettesének",
+      "text": "Az egyházi hierarchia a világi hatalom tükörképe volt. A pápa a Róma püspökeként állt az élén, alatta a bíborosok, érsekek, püspökök, esperesek és végül a plébánosok. Ez a szervezet a társadalmi rendtartást is szentesítette."
+    },
+    {
+      "id": 10,
+      "term": "Szerzetesség",
+      "definition": "Vallásos életforma, amely a szegénység, tisztaság és engedelmesség fogadalmára épült. A kolostorokban élt szerzetesek imádkozással és munkával töltötték napjaikat.",
+      "quote": "Ora et labora - Imádkozz és dolgozz",
+      "text": "A szerzetesség gyökereit az aszketikus remeteek közösségeiből származott. A bencések 'Ora et labora' jelmondata az imádság és munka kombinációján alapult. A szerzetesek voltak az írásbeliség, kultúra és tudomány őrzői, valamint a kódexmásolók."
+    },
+    {
+      "id": 11,
+      "term": "Román stílus",
+      "definition": "A 11-12. századi európai építészeti stílus. Vastag falakkal, kicsi ablakokkal és félköríves boltozatokkal jellemzett.",
+      "quote": "Masszív falak, féléves boltozatok",
+      "text": "A román stílus a római építészeti örökségből inspirálódott. Templomok, kolostorok és várak jellegzetes formája volt. Magyarországon a jáki és lébényi templom a legszebb román emlékek közé tartozik. Az erődített jelleg a középkori biztonság szükségletét tükrözi."
+    },
+    {
+      "id": 12,
+      "term": "Gótikus stílus",
+      "definition": "A 12-15. századi építészeti stílus, amely karcsú formákkal, csúcsívekkel és nagyob üvegablakokkal bontakozott ki. Az égbe törő templomok szelleme.",
+      "quote": "Csúcsívek, rózsaablakok, égbetörő tornyok",
+      "text": "A gótika a román után fejlődött ki, lehetővé téve a vékonyabb falakat és magasabb tereket. A támpillérek tartotta az épület súlyát, így a falakba nagy üvegablakokat lehetet vágni. A rózsaablakok az isteni jelenlét szimbólumai voltak. A kölni és párisi katedrálisok a gótika remekművei."
+    },
+    {
+      "id": 13,
+      "term": "Reneszánsz",
+      "definition": "A 14-16. századi szellemi és művészeti mozgalom, amely az antik görög-római kultúra újjáélesztésén alapult. Az ember központba helyezése az istenközpontú világképet váltotta fel.",
+      "quote": "Az ember méltósága és képessége",
+      "text": "A reneszánsz Itáliában kezdődött, ahol a Mediciek mecénásai voltak. Az humanism az emberi tudás, tehetség és szépség fontosságát hangsúlyozta. Leonardo da Vinci és Michelangelo a reneszánsz zseniális megtestesítői voltak. Magyarországon Mátyás király reneszánsz mecénásként működött."
+    }
+  ]
+}

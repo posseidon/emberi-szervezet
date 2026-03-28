@@ -1,0 +1,214 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Ábrahám",
+      "definition": "A zsidóság ősatyja, aki a Biblia szerint Mezopotámiából Kánaánba vándorolt, és az Istent követte; a judaizmus, kereszténység és iszlám alapító előfigurájául tekinthető.",
+      "quote": "Ábrahám az istenek szövetsége alapítója",
+      "text": "Ábrahám (héberül: Avraham) a Héber Biblia (Ótestamentum) első nagy személyisége. A történet szerint Kr. e. 15-14. sz.-ban élt, és az Istent követve Mezopotámiából Kánaánba vándorolt."
+    },
+    {
+      "id": 2,
+      "term": "Mózes",
+      "definition": "A zsidóság legendás vezetője, aki az isteni megbízatás szerint kivezetette Izraelt az egyiptomi szolgaságból, és a Sínai-hegyen Istentől a Tízparancsolatot kapta.",
+      "quote": "Mózes az Izrael szövetségének alapítója",
+      "text": "Mózes (héberül: Mosheh) a Héber Biblia második nagy személyisége, aki körülbelül Kr. e. 13. sz.-ban élt. A Tízparancsolat és a Tóra az ő tanítására alapozódik."
+    },
+    {
+      "id": 3,
+      "term": "Dávid",
+      "definition": "Az egységes Izrael második királya (Kr. e. 1010-970), aki legyőzte a filiszteusokat, és Jeruzsálemet a fővárossá tette, illetve királyi közigazgatást hozott létre.",
+      "quote": "Dávid az Izrael királyi hagyományának alapítója",
+      "text": "Dávid az Izrael legendás királya, akinek a életét számos biblikus történet meséli el. Királysága után Izrael az egyik legfontosabb hatalom lett az Ígéret földjén."
+    },
+    {
+      "id": 4,
+      "term": "Salamon",
+      "definition": "Az egységes Izrael harmadik királya (Kr. e. 970-930), aki a jeruzsálemi templomot építette fel, amely a frigyláda és a Tízparancsolat kőtáblái szimbólumait őrizte, és Izrael aranykorát alapozta meg.",
+      "quote": "Salamon az Izrael bölcsességének szimbóluma",
+      "text": "Salamon (héberül: Shlomo) az Izrael harmadik királya, akit bölcsességéről és gazdagságáról ismertek. A jeruzsálemi templom építése az ő főbb eredménye volt."
+    },
+    {
+      "id": 5,
+      "term": "Kánaán",
+      "definition": "Az Ígéret földje, amely a Biblia szerint az Izrael számára kijelölt terület volt, és amely a mai Palesztina és Israel területét felette.",
+      "quote": "Kánaán az Izrael számára kijelölt föld",
+      "text": "Kánaán (héberül: Kena'an) szó szerint a Biblia szerint az Ígéret föld. Az ógörogségben ezt Palesztinának hívták, amely szó a filiszteusoknak nyomit vissza."
+    },
+    {
+      "id": 6,
+      "term": "Jeruzsálem",
+      "definition": "Az Izrael és később a judaizmus fővárosai, amely vallási és politikai centralja volt, és ahol a jeruzsálemi templom helyezkedett el, illetve ahol Dávid királyi közigazgatást alapított.",
+      "quote": "Jeruzsálem az izraeli vallási centrum",
+      "text": "Jeruzsálem (héberül: Yerushalayim) a zsidóság legszentebb városa, és a kereszténység ugyancsak nagy jelentőségű helye. Területén a jeruzsálemi templom, valamint az iszlám harmadik legszentebb helye, az Al-Aqsa mecset helyezkedett el."
+    },
+    {
+      "id": 7,
+      "term": "Jeruzsálemi templom",
+      "definition": "A zsidóság vallási központja, amelyet Salamon építtetett Kr. e. 10. sz.-ban, a babiloniak lerombolták Kr. e. 586-ban, a rómaiak véglegesen lerombolták Kr. u. 70-ben, után csak a Siratófal maradt fenn.",
+      "quote": "A jeruzsálemi templom az ókori világ legszentebb épülete volt",
+      "text": "A jeruzsálemi templom (héberül: Beit ha-Mikdash) a frigyláda, amely a Tízparancsolat kőtáblái szimbólumait őrizte. A templom lerombolása után az ózövetségi kultusz a zsinagógákban történt meg."
+    },
+    {
+      "id": 8,
+      "term": "Siratófal",
+      "definition": "A jeruzsálemi templom nyugati falának egyetlen fennmaradt része, amely a Kr. u. 70-i rómaiak által történt lerombolás után megmaradt, és a zsidóság legszentebb helyei közé tartozik.",
+      "quote": "A Siratófal a zsidóság legszentebb helye",
+      "text": "A Siratófal (héberül: Kotel ha-Ma'aravi) az egyetlen fennmaradt rész a jeruzsálemi templomból, amely nyílvánosan zsidó közösség imaszentélyeként funkcional napjainkban is."
+    },
+    {
+      "id": 9,
+      "term": "Tórá",
+      "definition": "Mózes öt könyve, amely a zsidó vallás legszentebb irata, és amely a teremtéstől kezdve az Ígéret föld elfoglalásáig terjedően meséli el az Izrael történetét, valamint tartalmazza az isteni törvényeket.",
+      "quote": "A Tóra a judaizmus szellemi alapja",
+      "text": "A Tóra (héberül: tanítás) Mózes öt könyve, amely az Ótestamentum első része. A rabbinikus tradíció szerint a Tóra szó szerinti az Isten szó volt, és ezért tökéletes és megváltoztathatatlan."
+    },
+    {
+      "id": 10,
+      "term": "Héber Biblia / Ószövetség",
+      "definition": "A zsidóság alapirata, amely a Tórából, a próféták könyveiből és egyéb írásokból áll, és amelyek összesen körülbelül 39 vagy 46 könyvet tartalmaznak.",
+      "quote": "A Héber Biblia a judaizmus szellemi alapja",
+      "text": "A Héber Biblia (héberül: TaNaK = Tóra + Naviim + Ketuvim) a zsidó vallás legszentebb irata. A keresztény egyház ezt Ótestamentumnak nevezi, különösen megkülönböztetésként az Újszövetségtől."
+    },
+    {
+      "id": 11,
+      "term": "Próféta",
+      "definition": "A zsidó és keresztény vallásban az Isten akaratának közvetítője, aki tanított és figyelmeztett, valamint erkölcsi normákat hirdetett, és a fő-prófétai korszak körülbelül Kr. e. 8-4. sz. között volt.",
+      "quote": "A próféták Izrael szellemi lelkiismerete voltak",
+      "text": "A próféta (héberül: navi = beszélő) a Biblia szerint az Isten szócsöve. Az első nagy próféták közé tartozik Mózes, Illés, Jeremiás, Ézsaiás és Dániel."
+    },
+    {
+      "id": 12,
+      "term": "Monoteizmus / egyistenhit",
+      "definition": "Vallási rendszer, amely egyetlen istenben hisz; az első monoteista vallás a judaizmus volt, amelyet később a kereszténység és az iszlám követett.",
+      "quote": "A monoteizmus az izraeli vallás alapja",
+      "text": "A monoteizmus (görögül: mono = egy, theos = isten) azt jelenti, hogy a hívő egyetlen istenben hisz. Az izraeli vallás az első volt, amely szisztematikusan egyistenhitben hisz."
+    },
+    {
+      "id": 13,
+      "term": "Messiás",
+      "definition": "Héber szó jelentése: 'felkent'; a zsidóság által várt szabadító, akit az ősi próféciák ígértek meg, hogy helyreállítja az Izrael királyságát; a kereszténység szerint Jézus volt a Messiás.",
+      "quote": "A Messiás az ígéret személyesítője",
+      "text": "A Messiás (héberül: Mashiach) az izraeli hitvallásnak központi eleme. Az első keresztények Jézust ismerték el Messiásnak, amit a zsidóság végül nem fogadott el."
+    },
+    {
+      "id": 14,
+      "term": "Jahve",
+      "definition": "Az izraeli nép istene, akit az Ótestamentumban leggyakrabban Jahveként (vagy Jehovahként) neveztek; az egyistenhit központi személye volt, és az izraeli vallás alapja.",
+      "quote": "Jahve az izraeli vallás legszentebb istenalakja",
+      "text": "Jahve (héberül: YHWH) az izraeli monoteizmusnak a személyesítése. Az izraeli vallásban Jahve az egyetlen igaz isten, aki az Izrael népet választotta ki saját népének."
+    },
+    {
+      "id": 15,
+      "term": "Babiloni fogság",
+      "definition": "Az izraeli nép történetének kritikus időszaka (Kr. e. 586-539), amikor Nabukadnezár II kiűzte Izraelt, de végül a perzsák véget vetettek a fogságnak, és az izraeliek visszatérhettek Jeruzsálembe.",
+      "quote": "A babiloni fogság az izraeli vallás fordulópontja",
+      "text": "A babiloni fogság során az izraeli nép elvesztette függetlenségét, de vallási identitása megmaradt. Ebben az időszakban vált véglegessé az izraeli monoteizmus."
+    },
+    {
+      "id": 16,
+      "term": "Izrael, Júdea",
+      "definition": "Az egységes Izrael királyság kettészakadt (Kr. e. 930 után) északi királyságra (Izrael) és déli királyságra (Júdea), amely fokozatosan gyengüléshez és idegen fennhatósághoz vezetett.",
+      "quote": "Az Izrael és Júdea kettészakadása az izraeli vallás megpróbáltatása",
+      "text": "Az Izrael és Júdea kettészakadása után az északi Izraeleket az asszírok vittéknek fogságba (Kr. e. 722), a déli Júdeánosok pedig a babiloniakhoz kerültek (Kr. e. 586)."
+    },
+    {
+      "id": 17,
+      "term": "Diaszpóra",
+      "definition": "A zsidó nép szétszóródása és elszóródása a Palesztinán kívüli világra, amely Kr. u. 70 után tömegessé vált a jeruzsálemi templom lerombolása után.",
+      "quote": "A diaszpóra a zsidóság szétszóródása volt",
+      "text": "A diaszpóra (görög: szétszórás) után a zsidó vallás a zsinagógák körül szerveződött, ahol a Tóra és a rabbinikus tradíció voltak a vallási élet központja."
+    },
+    {
+      "id": 18,
+      "term": "Zsinagóga",
+      "definition": "A zsidó közösségi ház, amelyben a Tóra olvasása és magyarázata történt, valamint ahol a közösség szertartásokat végzett; intézményi funkciót vett át a templom lerombolása után.",
+      "quote": "A zsinagóga a zsidó közösség szellemi otthona",
+      "text": "A zsinagóga (görögül: synagoge = összejövetel) a babiloni fogsága alatt fejlődött ki. A zsinagóga vezetője az azzán volt, a Tórát a rabbi magyarázta."
+    },
+    {
+      "id": 19,
+      "term": "Tízparancsolat",
+      "definition": "Az Ótestamentum szerint az Istennek Mózes által adott isteni törvények, amelyek az erkölcsi magatartás alapjaként szolgáltak a judaizmusban és később a kereszténységben is.",
+      "quote": "A Tízparancsolat az erkölcs alapvető normái",
+      "text": "A Tízparancsolat (héberül: Aseres ha-Devarim) a Mózes által a Sínai-hegyből kapott isteni törvények. Ez az alapja az összes abrahámházi vallásnak (judaizmus, kereszténység, iszlám)."
+    },
+    {
+      "id": 20,
+      "term": "Dávid-csillag",
+      "definition": "A zsidó vallás és izraeli nemzeti szimbóluma, amely két egymásra helyezett háromszögből áll, és amely a judaizmus legfontosabb jelképei közé tartozik.",
+      "quote": "A Dávid-csillag az izraeli nép szimbóluma",
+      "text": "A Dávid-csillag (héberül: Magen David = Dávid pajzsa) az izraeli zászlóban is megjelenik. Ez a szimbólum az ósidektől kezdve az izraeli vallás jelképe volt."
+    },
+    {
+      "id": 21,
+      "term": "Menóra",
+      "definition": "Az izraeli vallás szentsége és szimbóluma, amely egy hétágú gyertyatartóból áll, és amely az izraeli vallás legfontosabb jelképei közé tartozik, a jeruzsálemi templomban is volt.",
+      "quote": "A menóra az izraeli vallás legszentebb szimbóluma",
+      "text": "A menóra (héberül = világosság) egy hétágú gyertyatartó, amely az izraeli vallás legfontosabb szentsége. A jeruzsálemi templom rombolásakor a rómaiak ellopták ezt a szentsé gét, amit az Arch of Titus-on még ma is látni lehet."
+    },
+    {
+      "id": 22,
+      "term": "Szombat (Sabbat)",
+      "definition": "Az izraeli vallás legfontosabb vallási napja, amely hét naponként egyszer fordul elő, és amelyen a munkavégzés tilalmazott, helyette pihenés és vallási szertartások vannak.",
+      "quote": "A szombat az izraeli vallás legszentebb napja",
+      "text": "A szombat (héberül: Shabbat) az izraeli vallás egyik legfontosabb parancsola. A Tízparancsolat között szerepel, hogy megtartsuk a szombat napot."
+    },
+    {
+      "id": 23,
+      "term": "Pészah (Húsvét)",
+      "definition": "Az izraeli vallás legfontosabb ünnepe, amely a Mózes által vagyis Izrael kivonulásának az egyiptomi szolgaságból való emlékére szokás megtartani évente.",
+      "quote": "A pészah az izraeli szabadság ünnepe",
+      "text": "A pészah (héberül = átmenetel) az izraeli nép történelmének legfontosabb eseményét ünnepli. Az ünnepi étkezésben az ún. seder szertartást végzik, amely szimbolikusan meséli el a kimenekülést."
+    },
+    {
+      "id": 24,
+      "term": "Rabbinikus tradíció",
+      "definition": "A zsidó vallásnak az a rétege, amely az írásos Tórát a szóbeli hagyomány (Talmud) és a rabbinak értelmezésein keresztül fejlesztette és alkalmazta a gyakorlatban.",
+      "quote": "A rabbinikus tradíció az izraeli vallást folyamatosan fejleszti",
+      "text": "A rabbinikus tradíció (rabbi = tanár) után a Talmud (tanítás) és a különféle értelmezések a judaizmusnak a gyakorlatét alapot teremtik."
+    },
+    {
+      "id": 25,
+      "term": "Talmud",
+      "definition": "A zsidó vallás második legszentebb irata az Ótestamentum után, amely a rabbik által írott és szerkesztett szövegek gyűjteménye, valamint Tóra értelmezéseket tartalmaz.",
+      "quote": "A Talmud a judaizmus szellemi alapja",
+      "text": "A Talmud (héberül = tanítás) két részből áll: a Mishnáról (szóbeli tradíció) és a Gemaráról (magyarázatok). A Talmud nem szentírás, de rendkívül fontos a judaizmus gyakorlati alkalmazásában."
+    },
+    {
+      "id": 26,
+      "term": "Izrael nép",
+      "definition": "Az Ábrahám és Mózes által vezetett nép, amely az Egyiptomban rabszolgaságba kerültek, és aki után Mózes kivozetette őket, majd letelepedtek Kánaánban (az Ígéret föld).",
+      "quote": "Izrael az Isten választott népe",
+      "text": "Izrael (héberül: Yisrael = aki győz az Isten felett) az ókori világ egyik legfontosabb népe volt. Vallási identitásuk a judaizmuson alapult."
+    },
+    {
+      "id": 27,
+      "term": "Asszírok",
+      "definition": "Az ókori Közel-Keleti nagyhatalom, amely Kr. e. 722-ben meghódította az északi Izrael királyságot, és az izraelitákat fogságba vittékik.",
+      "quote": "Az asszírok az izraeli királyságot megsemmisítette",
+      "text": "Az asszírok Kr. e. 722-ben meghódították az északi Izrael királyságot, és az izraelitákat eltávölítették az azok földjéről. Ez az ún. 'tízfülkék vesztett' nevezetes az izraeli történelemben."
+    },
+    {
+      "id": 28,
+      "term": "Nabukadnezár II.",
+      "definition": "A babiloni király, aki Kr. e. 586-ban lerombolták a jeruzsálemi templomot, és az izraeli nép nagy részét fogságba vitte Babilóniába.",
+      "quote": "Nabukadnezár II az izraeli nép főrészét fogságba vittékik",
+      "text": "Nabukadnezár II (Kr. e. 605-562) a babiloni birodalom legfontosabb királya volt. Az izraeliek elleni hadjárata végigement a városok legyűrésén, és végül a jeruzsálemi templomot is lerombolták."
+    },
+    {
+      "id": 29,
+      "term": "Perzsák",
+      "definition": "Az ókori Közel-Keleti nagyhatalom, amely Cyrus a Nagy alatt meghódította a babiloni birodalmat, és véget vetett az izraeli fogságnak, lehetővé téve az izraelieknek visszatérni Jeruzsálembe.",
+      "quote": "A perzsák az izraeli nép felszabadítói voltak",
+      "text": "A perzsák Kr. e. 539-ben meghódították Babilóniát, és Cyrus a Nagy engedélyt adott az izraelieknek, hogy vissza tudjanak térni Jeruzsálembe."
+    },
+    {
+      "id": 30,
+      "term": "Nagy Sándor",
+      "definition": "A makedón hódító, aki Kr. e. 331-ben meghódította az Egyiptomot és a Közel-Kelet nagy részét, amit az izraeli vallás hellenizmusnak kitételének vezetett.",
+      "quote": "Nagy Sándor a hellenizmus alapítója",
+      "text": "Nagy Sándor hódításai után a görög és keleti kultúrák keveredtek, amely az izraeli vallásra is befolyással volt, különösen az ún. hellenisztikus zsidók számára."
+    }
+  ]
+}

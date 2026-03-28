@@ -1,0 +1,51 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "1848-szabadsagharc",
+  "quiz": [
+    {
+      "type": "MC",
+      "question": "Melyik csata volt az első magyar győzelem az 1848-as szabadságharc során?",
+      "options": [
+        "Isaszeg",
+        "Pákozd",
+        "Buda",
+        "Világos"
+      ],
+      "answer": "Pákozd"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az 1849. augusztus 13-i ________ helynél kapitulált Görgey magyar tábornok Haynau osztrák tábornok előtt.",
+      "target": "Világos",
+      "hint": "város"
+    },
+    {
+      "type": "MC",
+      "question": "Melyik magyar költő halt meg az 1848-as szabadságharc során?",
+      "options": [
+        "Arany János",
+        "Petőfi Sándor",
+        "Vörösmarty Mihály",
+        "Bajza József"
+      ],
+      "answer": "Petőfi Sándor"
+    },
+    {
+      "type": "BLANK",
+      "question": "Az orosz cár ________ katonai segítséget nyújtott az osztrákoknak a magyar szabadságharc leverésében.",
+      "target": "I. Miklós",
+      "hint": "név"
+    },
+    {
+      "type": "MC",
+      "question": "Mit szimbolizált az 1849. április 14-i függetlenségnyilatkozat?",
+      "options": [
+        "A Habsburg-dinasztia elfogadása",
+        "Magyarország függetlenségét az Osztrák Birodalomtól",
+        "A szerbek autonómiáját",
+        "Az 1867-es Kiegyezésre vonatkozó ígéretet"
+      ],
+      "answer": "Magyarország függetlenségét az Osztrák Birodalomtól"
+    }
+  ]
+}

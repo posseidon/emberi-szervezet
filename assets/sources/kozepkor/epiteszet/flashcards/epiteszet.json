@@ -1,0 +1,95 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Román stílus",
+      "definition": "11-12. századi építészeti stílus vastag falakkal, kicsi ablakokkal, félköríves boltozatokkal.",
+      "quote": "Masszív falak és félköríves boltozatok",
+      "text": "A római építészeti örökségből inspirálódott. Templomok, kolostorok, várak jellegzetes formája. Erődített jelleg a biztonság szükségletét tükrözi."
+    },
+    {
+      "id": 2,
+      "term": "Gótikus stílus",
+      "definition": "12-15. századi építészeti stílus karcsú formákkal, csúcsívekkel, nagy üvegablakokkal és égbetörő tornyokkal.",
+      "quote": "Csúcsívek, rózsaablakok, égbetörő katedrálisok",
+      "text": "A gótika a roman után fejlődött. Lehetővé tette a vékonyabb falakat és magasabb tereket. Az égbe törő templomok az isteni felé vágyódást szimbolizálták."
+    },
+    {
+      "id": 3,
+      "term": "Csúcsív",
+      "definition": "A gótikus építészet alapvető szerkezeti eleme, amely könnyebb és magasabb boltozatokat tett lehetővé.",
+      "quote": "Az ív, amely a magasságba visz",
+      "text": "A csúcsív lehetővé tette a vékonyabb falakat és nagyobb belső tereket. Szerkezetileg is hatékonyabb volt az előző félköríves ívnél."
+    },
+    {
+      "id": 4,
+      "term": "Támpillér",
+      "definition": "A falakat kívülről megerősítő oszlop, amely a gótikus templomok súlyelosztásában játszott kulcsszerepet.",
+      "quote": "Az erő, amely a falakat segíti",
+      "text": "A támpillérek lehetővé tették, hogy a falakat vékonyabbá tegyenek. Az erő az oszlopokon keresztül terjedett meg."
+    },
+    {
+      "id": 5,
+      "term": "Rózsaablak",
+      "definition": "Nagy, kör alakú, színes üvegablak a gótikus templomok homlokzatán, amely az isteni fényt szimbolizálta.",
+      "quote": "A fény az istenséget jeleníti meg",
+      "text": "A rózsaablakok a gótika egyik legjellegzetes elemei voltak. Az összetett szín-minták spirituális élményt nyújtottak."
+    },
+    {
+      "id": 6,
+      "term": "Reneszánsz stílus",
+      "definition": "14-16. századi műveészeti és építészeti stílus, amely az antik görög-római kultúra újjáélesztésén alapult.",
+      "quote": "Az antikvitás újjászületése az emberen keresztül",
+      "text": "A reneszánsz Italiában kezdődött, ahol a Mediciek mecénások voltak. Az epületteket szimmetria, kupolák és ószklopad jellemeztek."
+    },
+    {
+      "id": 7,
+      "term": "Humanizmus",
+      "definition": "A reneszánsz szellemi mozgalma, amely az ember méltóságát, tehetségét és tudásárát hangsúlyozta.",
+      "quote": "Az ember a mérték mindez dologhoz",
+      "text": "A humanizmus az antik философтdással kapcsolódott. Az egyénismeretés, tudás és szépség értékét hangsúlyozták."
+    },
+    {
+      "id": 8,
+      "term": "Perspektíva",
+      "definition": "Reneszánsz festészeti technika, amely a háromdimenziós tér ábrázolása lehetővé tette a síkfelületen.",
+      "quote": "A tér ábrázolása a felületen",
+      "text": "Leonardo da Vinci és mások fejlesztették ki. Ez a technika forradalmasította a festészetet és elszakította az antik módszertől."
+    },
+    {
+      "id": 9,
+      "term": "Olajfestészet",
+      "definition": "Reneszánsz technikai újítás, amely a freskó helyett az olajban kevert pigmenteket használt.",
+      "quote": "Az olaj révén nagyobb tökéletesség",
+      "text": "Az olajfestészet lehetővé tette a nagyobb részleteket és árnyékokat. Michelangelo és Leonardo is ezt használták."
+    },
+    {
+      "id": 10,
+      "term": "Mediciek",
+      "definition": "Firenzei bankárcsalád, amely a reneszánsz mecénásai voltak. Mátyás király magyar reneszánsz példáját követte.",
+      "quote": "A pénz és a szépség egyesült",
+      "text": "A Mediciek firenzei politikáját is irányították. Számos művészt, költőt és gondolkodót támogattak."
+    },
+    {
+      "id": 11,
+      "term": "Alhambra",
+      "definition": "Granadai mór erőd és palota, amely a mór stílus egyik legszebb emléke. Arabeszk díszítéssel ellátott.",
+      "quote": "A mór építészet szelleme",
+      "text": "Az Alhambra az iszlám Ibériája utolsó szimbóluma volt. A geometrikus és növényi díszítések mestermunka."
+    },
+    {
+      "id": 12,
+      "term": "Córdobai nagymecset",
+      "definition": "Az iszlám építészet remeke, amelyet Córdobában építettvezet. A szaracén művészet egyik legjellegzetesebb terméke.",
+      "quote": "A mór architektúra csúcsa",
+      "text": "A mezquita később templommá alakult át. Az iszlám és keresztény építészeti elemeket egyaránt tartalmazott."
+    },
+    {
+      "id": 13,
+      "term": "Katedrális",
+      "definition": "Püspöki székesegyház, ahol a püspök katedrája állott. A gótika legjellegzetesebb templomtípusa.",
+      "quote": "A város szellemi és politikai középpontja",
+      "text": "A nagy katedrálisok többszáz évet vett igénybe. Az egész város közössége részt vett az építésben."
+    }
+  ]
+}

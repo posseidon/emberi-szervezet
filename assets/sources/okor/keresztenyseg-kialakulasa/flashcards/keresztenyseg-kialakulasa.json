@@ -1,0 +1,179 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "term": "Jézus",
+      "definition": "A kereszténység alapítója, aki Betlehemben született, 30 évesen kezdett tanítani, és a kereszténység szerint Isten Fia, aki az emberiség üdvösségéért meghalt a kereszten.",
+      "quote": "Jézus a kereszténység alapítója",
+      "text": "Jézus (héberül: Yeshua = üdvözítő) a kereszténység központi személyisége. Tanítása a szeretet, megbocsátás és üdvösség ígéretéről szólt."
+    },
+    {
+      "id": 2,
+      "term": "Keresztelő Szent János",
+      "definition": "A kinyilatkoztatás előfutára, aki Jézusnak megkeresztelte magát, és akinek tanítása a bűnbánatról és megtisztulásról szólt, valamint Jézus első követőit gyűjtötte körül.",
+      "quote": "A Keresztelő Szent János a Jézus előfutára volt",
+      "text": "Keresztelő Szent János az evangéliumok szerint Jézus előfutárjaként működött, és keresztségben részesítette az embereket. Halálát Heródes király utasítására végezték el."
+    },
+    {
+      "id": 3,
+      "term": "Apostol",
+      "definition": "Jézus 12 kiválasztott tanítványa, akik később a keresztény vallás első missziós munkásainak bizonyultak, és az Apostolok cselekedetei szerint különféle városokba mentek szét a tanítást hirdetni.",
+      "quote": "Az apostolok Jézus legközelebbi tanítványai voltak",
+      "text": "Az apostolok (görögül: apostolos = küldött) a Jézus által kiválasztott 12 fő: Péter, András, János, Jakab, Fülöp, Bartholomeus, Máté, Tamás, Jakab (Alfeus fia), Tádé, Simon és Júdás voltak."
+    },
+    {
+      "id": 4,
+      "term": "Péter apostol",
+      "definition": "Az első jeruzsálemi keresztény közösség vezetője és az első jeruzsálemi püspök, aki az utána a Róma egyházát vezetője (pápa elődje) lett, és őt a katolicizmus első pápájának tekinti.",
+      "quote": "Péter apostol a kereszténység első vezetője volt",
+      "text": "Péter (héberül: Kéfasz = szikla) az Jézus által jelölt követője volt, és az evangéliumok szerint a keresztény egyház alapja. Rómában halt meg, ahol művedte szétszórta a keresztény tanítást."
+    },
+    {
+      "id": 5,
+      "term": "Pál apostol / Saul",
+      "definition": "Az első keresztény misszionárius, aki eredetileg Saul néven a keresztények üldözője volt, de a damaszkuszi úton egy látomást kapott Jézusról, amely megtérésre (pálfordulásra) vezette, és ettől kezdve a kereszténységet aktívan terjesztette.",
+      "quote": "Pál apostol a kereszténységet egyetemes vallássá tette",
+      "text": "Pál (görögül: Paulus = kicsi) a kereszténység missziós munkájának kulcsfigurája volt. Sztoikus filozófusokkal vitatkozott, és az egyháznak olyan szervezetet adott, amely később az alapját képezte."
+    },
+    {
+      "id": 6,
+      "term": "Damaszkuszi út",
+      "definition": "A Saul Pál apostol megtérésének helye és eseménye, ahol egy csillagos látomást kapott az feltámadt Jézusról, amely annyira megháborította, hogy véglegesen megtért a kereszténységhez.",
+      "quote": "A damaszkuszi út Pál apostol pálfordulása",
+      "text": "A damaszkuszi út (apostoli cselekedetei 9,3-9) egy olyan eseményt leír, amelyben Saul egy fényes látomást tapasztal az úton. Ez az eset alapjaként szolgál a keresztény megtérés-fogalmának."
+    },
+    {
+      "id": 7,
+      "term": "Keresztény közösségek",
+      "definition": "Az első keresztény közösségek, amelyek főleg házakban szerveződtek össze, és ahol az egyházalapítók (Péter, Pál, János) vezetésén keresztül a keresztény tanítást hirdetették és vagyonközösséget folytattak.",
+      "quote": "Az első keresztény közösségek a szívét a kereszténységnek",
+      "text": "Az első keresztény közösségek Jeruzsálemben kezdődtek, és fokozatosan terjedtek Kis-Ázsiában, Görögországban és végül Rómában. A közösségek a kertvágó szokásait, a keresztséget és az úrvacsora szertartásait gyakorolták."
+    },
+    {
+      "id": 8,
+      "term": "Egyház",
+      "definition": "A keresztény vallás szervezete, amely az Jézus halála után alakult meg, és amely püspökök, papok és laikusokból álló hierarchikus szerkezetre épültt, valamint az egység és a hittételek megtartása a célja.",
+      "quote": "Az egyház a kereszténység szervezete",
+      "text": "Az egyház (görögül: ekklészia = összegyüjtöttek) az első három században fokozatosan a közösségből egy szervezett testületté alakult át. Az egyházi teológia, az ünnepek és a liturgia ebben az időszakban fejlődtek ki."
+    },
+    {
+      "id": 9,
+      "term": "Püspök",
+      "definition": "Az első keresztény közösségek vezetője (görögül: episzkoposz = felügyelő), akinek feladata a helyi egyházi közösség vezetése, a liturgia végzése és a hittételek egyeztetése volt.",
+      "quote": "A püspök az első keresztény közösség spirituális vezetője",
+      "text": "A püspök az első keresztény közösségek vezetőjeként lépett fel. Három szintű hierarchia alakult ki: püspökök, presbiterek (presbiteri = vények) és diakónusok (diakonos = szolgálók)."
+    },
+    {
+      "id": 10,
+      "term": "Keresztség",
+      "definition": "A keresztény vallás akaratát kifejező szentsége, amelyben a hívő vízzel való megtisztulásban részesül, szimbolizálva bűnei megbocsátását és a Krisztussal való egyesülést.",
+      "quote": "A keresztség a keresztény élet kezdete",
+      "text": "A keresztség szentsége a Keresztelő Szent János hagyományára nyúlik vissza, és az olyan vallási műveletre utal, amely megjelöli az egyénnek a keresztény közösségbe való belépésé."
+    },
+    {
+      "id": 11,
+      "term": "Úrvacsora",
+      "definition": "A keresztény vallás szentsége, amely Jézus utolsó vacsoráján alapul, ahol a kenyér a Krisztus teste, a bor a Krisztus vére szimbólumként szerepel, és amely az egyházi liturgia központi pontja.",
+      "quote": "Az úrvacsora a kereszténység szentsége",
+      "text": "Az úrvacsora (görögül: eucharistia = hálaadás) a keresztény közösségnek az egy legfontosabb szentsége, amely az egyházi világban rendszeres ismétlésre kerül."
+    },
+    {
+      "id": 12,
+      "term": "Evangélium",
+      "definition": "Az Újszövetség része, amely Jézus életét, tanítását és feltámadását meséli el; négy evangélista: Máté, Márk, Lukács és János írta őket.",
+      "quote": "Az evangélium az Jézus örömhírj",
+      "text": "Az evangélium (görögül: eu-angelion = örömhír) szó az első keresztények által használt kifejezés volt Jézus üzenete leírására. Az Újszövetség négy evangéliumot tartalmaz."
+    },
+    {
+      "id": 13,
+      "term": "Újszövetség",
+      "definition": "A Biblia második része, amely négy evangéliumot (Máté, Márk, Lukács, János), az Apostolok cselekedeteit, páli és más apostoli leveleket, valamint a Jelenések könyvét tartalmazza.",
+      "quote": "Az Újszövetség a keresztény vallás alaptexture",
+      "text": "Az Újszövetség (Új szerződés) a Kr. u. 1. század során fokozatosan összeállt. Az első keresztény közösségek az evangéliumokat és leveleket használták, és a niceai zsinat jóváhagyta az Újszövetség 27 könyvét mint kanonikus szövegeket."
+    },
+    {
+      "id": 14,
+      "term": "Pontius Pilatus",
+      "definition": "A rómaiak palestinai helytartója, aki a keresztre feszítésre ítélte Jézust, bár a biblia szerint úgy tünt, hogy kétkedve járult el az ítélethez.",
+      "quote": "Pontius Pilatus Jézus keresztre feszítésének felelőse",
+      "text": "Pontius Pilatus (Kr. u. 26-36) a rómaiak palestinai helytartója volt, aki az evangéliumok szerint Jézus keresztre feszítéséről határozott, bár korábban gyarmatosított."
+    },
+    {
+      "id": 15,
+      "term": "Milánói ediktum",
+      "definition": "Constantinus által Kr. u. 313-ban kiadott ediktum, amely vallásszabadságot adott a kereszténységnek, elkobzott vagyon visszaadása, és amely a kereszténység győzelmének kezdetét jelentette.",
+      "quote": "A milánói ediktum a kereszténység győzelmét kezdete",
+      "text": "A milánói ediktum (313) egy fordulópont volt a kereszténység történetében. Constantinus I. és Licinius által közösen kiadva, ezt az ediktumot Rómában értelmezték, mint az olyan vallás szabad gyakorlatának jogát."
+    },
+    {
+      "id": 16,
+      "term": "Niceai zsinat",
+      "definition": "Az első egyetemes (ecumenikus) egyházi zsinat Kr. u. 325-ben, amely alatt a Szentháromság-tant (Trinitás-tant) dogmaként fogadták el, és az ariánus eretnekséget elvetették.",
+      "quote": "A niceai zsinat a keresztény hittételek megalapozója",
+      "text": "A niceai zsinat (325) alatt körülbelül 318 püspök gyűlt össze. Itt fogadták el a Nicaea hitvallást, amely a Szentháromságról szól, és az ariánus tanítást eretnekségnek nyilvánították."
+    },
+    {
+      "id": 17,
+      "term": "Szentháromság-tan (Trinitás)",
+      "definition": "A kereszténység központi hittétele, amely szerint az Isten három személyből áll: az Atyából, a Fiúból (Jézus) és a Szentlélekből, de egy istenségben egyesülnek.",
+      "quote": "A Szentháromság-tan a kereszténység központi hittétele",
+      "text": "A Szentháromság-tan (Trinitas Latinum esetből) az az tanítás, hogy az Isten három aspectusban létezik, de egységben. Ez a dogma a niceai zsinatban fogadtatott el."
+    },
+    {
+      "id": 18,
+      "term": "Thesszalonikai ediktum",
+      "definition": "Nagy Theodosius által Kr. u. 380-ban kiadott ediktum, amely a kereszténységet a Róma birodalom egyetlen törvényes vallásává tette, és a pogány kultuszok betiltásáról rendelkezett.",
+      "quote": "A thesszalonikai ediktum a kereszténység végleges győzelme",
+      "text": "A thesszalonikai ediktum (380) Nagy Theodosius által kiadva, amely a kereszténységet az egyetlen törvényes vallássá tette a Róma birodalomban. A pogány templomok bezárása és a pogány szertartások tilalmazza következte."
+    },
+    {
+      "id": 19,
+      "term": "Constantinus",
+      "definition": "A Rómaiak első keresztény császára, aki a milánói ediktumot (313) kiadta, amely vallásszabadságot adott a kereszténységnek, és a niceai zsinatot (325) összehívta.",
+      "quote": "Constantinus az első keresztény rómaiak császára",
+      "text": "Constantinus I. (Kr. u. 306-337) az első rómaiak császár volt, aki a keresztény vallást elfogadta. A milánói ediktum és a niceai zsinat összehívása alatt az ő támogatása igen jelentős volt."
+    },
+    {
+      "id": 20,
+      "term": "Nagy Theodosius",
+      "definition": "A rómaiak utolsó általános uralmú császára, aki a thesszalonikai ediktumot (380) kiadta, amely a kereszténységet az egyetlen törvényes vallássá tette, és aki a Nyugat-Rómaiak utolsó hatalmas királya volt.",
+      "quote": "Nagy Theodosius a kereszténység támogatója volt",
+      "text": "Nagy Theodosius (Kr. u. 379-395) a Rómaiak utolsó általános uralmú császára volt. Az ő alatt kiadott thesszalonikai ediktum a kereszténységet az államvallás rang szereztet."
+    },
+    {
+      "id": 21,
+      "term": "Keresztény tanítások",
+      "definition": "A Jézus által hirdetett tanítások, amelyek a szeretetre, megbocsátásra, mennyország ígéretére és erényes életre alapozódnak, valamint az anyagi javak halmozásának elítélésére.",
+      "quote": "Jézus tanításai az erkölcs alapjai",
+      "text": "Jézus tanításai a hegyi beszédben (Máté evangéliumai 5-7 fejezete) az 8 boldogságnak és a szereteti parancsálás fogalmának középpontjában vannak."
+    },
+    {
+      "id": 22,
+      "term": "Húsvét",
+      "definition": "A kereszténység egyik legfontosabb ünnepe, amely Jézus feltámadásának ünneplésére szokás megtartani évente a kereszt halálát követően.",
+      "quote": "A húsvét a Jézus feltámadásának ünnepe",
+      "text": "A húsvét (Pascha) a keresztény naptárban az egyik legfontosabb ünnep, amely Jézus halálához és feltámadásához kapcsolódik. Az ünnepi periódus vallásos imák és szertartások végzésétől telitett."
+    },
+    {
+      "id": 23,
+      "term": "Pünkösd",
+      "definition": "A kereszténység egy másik jelentős ünnepe, amely a Szentlélek megadását ünnepli, melyet az apostolok a feltámadás után 50 nappal éltek meg Jeruzsálemben.",
+      "quote": "A pünkösd a Szentlélek ünnepe",
+      "text": "A pünkösd (görögül: pentekosté = ötvenedik nap) a keresztények által ünnepelt a feltámadás után 50 nappal történt Szentlélek adományozás emlékére."
+    },
+    {
+      "id": 24,
+      "term": "Karácsony",
+      "definition": "A kereszténység legfontosabb ünnepe, amely Jézus születésének ünneplésére szokás megtartani évente december 25-én, és amely az egyházi és világi élet egyik legjelentősebb ünnepei közé tartozik.",
+      "quote": "A karácsony Jézus születésének ünnepe",
+      "text": "A karácsony (december 25, bár a születés tényleges időpontja ismeretlen) a keresztény naptárban az egyik legfontosabb ünnep. Az egyházi liturgia, a család összejövetele és az ajándékozás e napot jellemzi."
+    },
+    {
+      "id": 25,
+      "term": "Mártír",
+      "definition": "Az olyan keresztény, aki az első évszázadokban az egész vallása miatt üldözésre és halálra ítéltetett, ami a keresztény hit erősödéséhez vezetett, mivel a mártírok kitartása paradox módon erősítette az egyházat.",
+      "quote": "A mártírok a kereszténység erőssége",
+      "text": "A mártír (görögül: martyres = tanú) olyan személyeket jeles, akik az Jézust vallása miatt halálra itéltetett. A keresztény hagyomány, hogy a mártírok az erő és a bátorság szimbólumai."
+    }
+  ]
+}

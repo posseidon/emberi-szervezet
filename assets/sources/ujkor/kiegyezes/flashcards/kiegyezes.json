@@ -1,0 +1,112 @@
+{
+  "subjectId": "ujkor",
+  "moduleId": "kiegyezes",
+  "title": "Az 1867-es Kiegyezés",
+  "flashcards": [
+    {
+      "id": "kiegyezes-001",
+      "term": "Mi volt az 1867-es Kiegyezés és milyen hozta létre a duális állam-berendezést?",
+      "definition": "Az 1867-es Kiegyezés Magyarország és az Osztrák Birodalom között megkötött kompromisszum. Lezárta az 1848-as szabadságharc és az 1849-59-es Bach-rendszer konfrontációit. Duális berendezést hozta létre: külön magyar és osztrák kormány, de közös királyság (Ferenc József), közös hadsereg, közös ügyek és delegációk.",
+      "quote": "Két ország, egy koronán",
+      "text": "Az 1867-es Kiegyezés"
+    },
+    {
+      "id": "kiegyezes-002",
+      "term": "Milyen voltak a 'közös ügyek' az 1867 után?",
+      "definition": "A közös ügyek: külügyminisztérium, hadsereg (költséges), pénzügyek (korlátozott közössé), illetve közös intézmények (delegációk, vámunió). A két állam azonban saját törvényhozást, kormányzást és minisztériuma volt a nemzetgazdasági ügyekre.",
+      "quote": "Közös de elkülönültek",
+      "text": "A duális rendszer működése"
+    },
+    {
+      "id": "kiegyezes-003",
+      "term": "Mit jelent a kvóta rendszer és hogyan működött?",
+      "definition": "A közös kiadások (hadsereg, diplomácia) között Magyarország és Ausztria költségvetési megosztása. Magyarország kezdetben 30%-ot fizetett, 1907 után 36,3%-ot. Ez kevésbbé terhelő volt a magyaroknak, mint a közös költségvetés volna, de továbbra is jelentős teher.",
+      "quote": "Költségvetési megosztás",
+      "text": "A finanszírozás rendszere"
+    },
+    {
+      "id": "kiegyezes-004",
+      "term": "Mit kapott Magyarország az 1867-es Kiegyezéstől és mit vesztett?",
+      "definition": "Magyarország nyert: saját kormányzat, törvényhozás, az 1848-as áprilisi törvények nagyobb része (jobbágyfelszabadítás, törvényi egyenlőség) helyreállott. Viszont: közös hadsereg alatt maradt, közös ügyek osztrák-német dominanciája, nemzetiségi kisebbségek lojálitási nehézségei.",
+      "quote": "Függetlenség határokkal",
+      "text": "Nyereség és veszteség"
+    },
+    {
+      "id": "kiegyezes-005",
+      "term": "Ki volt Andrássy Gyula és milyen szerep volt az 1867-es Kiegyezésben?",
+      "definition": "Andrássy Gyula magyar államférfi, a Kiegyezés megalkotója és támogatója. Az 1849-es szabadságharc után száműzöttként, majd amnesztia után hazatérve, Andrássy az 1867 után külügyminiszter lett és az Osztrák-Magyar Monarchia diplomáciáját irányította.",
+      "quote": "Magyar diplomata a birodalom szolgálatában",
+      "text": "Andrássy szerepe"
+    },
+    {
+      "id": "kiegyezes-006",
+      "term": "kiegyezés",
+      "definition": "1867-ben Magyarország és az Osztrák Birodalom között megkötött politikai és gazdasági megállapodás, amely a duális állam-berendezést hozta létre.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "kiegyezes-007",
+      "term": "dualizmus",
+      "definition": "Az Osztrák-Magyar Monarchia politikai szerkezete: külön-külön magyar és osztrák kormány, de közös királyság és közös ügyek.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "kiegyezes-008",
+      "term": "közös ügyek",
+      "definition": "Külügyminisztérium, hadsereg, pénzügyek (még határok között osztva), illetve közös intézmények.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "kiegyezes-009",
+      "term": "delegációk",
+      "definition": "Az 1867 után: magyar és osztrák delegációk szövetkezett közös ügyekben (költségvetés, hadsereg).",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "kiegyezes-010",
+      "term": "kvóta rendszer",
+      "definition": "A közös kiadások között Magyarország és Ausztria közötti költségvetési megosztás; Magyarország 30, majd 1907 után 36,3%-ot fizetett.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "kiegyezes-011",
+      "term": "magyar függetlenség",
+      "definition": "Az 1867-es kiegyezéssel az 1848-as áprilisi törvények nagyobb részét helyreállították; Magyarország saját törvényhozás és kormányzás.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "kiegyezes-012",
+      "term": "osztrák-német hegemónia",
+      "definition": "Bár Magyarország függetlenebb volt, az osztrák-német elem a közös ügyekben domináns maradt.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "kiegyezes-013",
+      "term": "Andrássy Gyula",
+      "definition": "Az 1867-es Kiegyezés Magyarországi főmegalkotója; első magyar külügyminiszter.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "kiegyezes-014",
+      "term": "Andrássy Gyula",
+      "definition": "Magyar államférfi, az 1867-es Kiegyezés megalkotója, később külügyminiszter.",
+      "quote": "",
+      "text": ""
+    },
+    {
+      "id": "kiegyezes-015",
+      "term": "Ferenc József",
+      "definition": "Osztrák-Magyar Birodalmi Ő császár és король, a Kiegyezés elismerésével.",
+      "quote": "",
+      "text": ""
+    }
+  ]
+}
